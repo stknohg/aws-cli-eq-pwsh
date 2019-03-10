@@ -1,5 +1,5 @@
 publishDir = "../docs"
-baseURL = "/"
+baseURL = "https://aws-cli-eq-pwsh.shibata.tech/"
 relativeURLs = true
 languageCode = "en-us"
 title = "AWS CLI -eq PowerShell"

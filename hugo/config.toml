@@ -1,6 +1,6 @@
 publishDir = "../docs"
-baseURL = "https://stknohg.github.io/aws-cli-eq-pwsh/"
-canonifyurls = true
+baseURL = "/"
+relativeURLs = true
 languageCode = "en-us"
 title = "AWS CLI -eq PowerShell"
 theme = "papercss-hugo-theme"

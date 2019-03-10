@@ -3,903 +3,903 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/acm/</loc>
+    <loc>/acm/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/acm-pca/</loc>
+    <loc>/acm-pca/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/alexaforbusiness/</loc>
+    <loc>/alexaforbusiness/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/amplify/</loc>
+    <loc>/amplify/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/apigateway/</loc>
+    <loc>/apigateway/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/apigatewaymanagementapi/</loc>
+    <loc>/apigatewaymanagementapi/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/apigatewayv2/</loc>
+    <loc>/apigatewayv2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/application-autoscaling/</loc>
+    <loc>/application-autoscaling/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/appmesh/</loc>
+    <loc>/appmesh/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/appstream/</loc>
+    <loc>/appstream/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/appsync/</loc>
+    <loc>/appsync/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/athena/</loc>
+    <loc>/athena/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/autoscaling/</loc>
+    <loc>/autoscaling/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/autoscaling-plans/</loc>
+    <loc>/autoscaling-plans/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/backup/</loc>
+    <loc>/backup/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/batch/</loc>
+    <loc>/batch/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/budgets/</loc>
+    <loc>/budgets/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ce/</loc>
+    <loc>/ce/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/chime/</loc>
+    <loc>/chime/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloud9/</loc>
+    <loc>/cloud9/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/clouddirectory/</loc>
+    <loc>/clouddirectory/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudformation/</loc>
+    <loc>/cloudformation/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudfront/</loc>
+    <loc>/cloudfront/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudhsm/</loc>
+    <loc>/cloudhsm/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudhsmv2/</loc>
+    <loc>/cloudhsmv2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudsearch/</loc>
+    <loc>/cloudsearch/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudsearchdomain/</loc>
+    <loc>/cloudsearchdomain/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudtrail/</loc>
+    <loc>/cloudtrail/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cloudwatch/</loc>
+    <loc>/cloudwatch/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/codebuild/</loc>
+    <loc>/codebuild/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/codecommit/</loc>
+    <loc>/codecommit/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/codepipeline/</loc>
+    <loc>/codepipeline/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/codestar/</loc>
+    <loc>/codestar/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cognito-identity/</loc>
+    <loc>/cognito-identity/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cognito-idp/</loc>
+    <loc>/cognito-idp/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cognito-sync/</loc>
+    <loc>/cognito-sync/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/comprehend/</loc>
+    <loc>/comprehend/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/comprehendmedical/</loc>
+    <loc>/comprehendmedical/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/configservice/</loc>
+    <loc>/configservice/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/configure/</loc>
+    <loc>/configure/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/connect/</loc>
+    <loc>/connect/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cur/</loc>
+    <loc>/cur/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/datapipeline/</loc>
+    <loc>/datapipeline/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/datasync/</loc>
+    <loc>/datasync/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/dax/</loc>
+    <loc>/dax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/deploy/</loc>
+    <loc>/deploy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/devicefarm/</loc>
+    <loc>/devicefarm/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/directconnect/</loc>
+    <loc>/directconnect/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/discovery/</loc>
+    <loc>/discovery/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/dlm/</loc>
+    <loc>/dlm/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/dms/</loc>
+    <loc>/dms/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/docdb/</loc>
+    <loc>/docdb/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ds/</loc>
+    <loc>/ds/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/dynamodb/</loc>
+    <loc>/dynamodb/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/dynamodbstreams/</loc>
+    <loc>/dynamodbstreams/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ec2/</loc>
+    <loc>/ec2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ecr/</loc>
+    <loc>/ecr/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ecs/</loc>
+    <loc>/ecs/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/efs/</loc>
+    <loc>/efs/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/eks/</loc>
+    <loc>/eks/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/elasticache/</loc>
+    <loc>/elasticache/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/elasticbeanstalk/</loc>
+    <loc>/elasticbeanstalk/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/elastictranscoder/</loc>
+    <loc>/elastictranscoder/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/elb/</loc>
+    <loc>/elb/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/elbv2/</loc>
+    <loc>/elbv2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/emr/</loc>
+    <loc>/emr/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/es/</loc>
+    <loc>/es/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/events/</loc>
+    <loc>/events/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/firehose/</loc>
+    <loc>/firehose/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/fms/</loc>
+    <loc>/fms/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/fsx/</loc>
+    <loc>/fsx/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/gamelift/</loc>
+    <loc>/gamelift/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/glacier/</loc>
+    <loc>/glacier/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/globalaccelerator/</loc>
+    <loc>/globalaccelerator/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/glue/</loc>
+    <loc>/glue/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/greengrass/</loc>
+    <loc>/greengrass/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/guardduty/</loc>
+    <loc>/guardduty/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/health/</loc>
+    <loc>/health/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/history/</loc>
+    <loc>/history/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iam/</loc>
+    <loc>/iam/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/importexport/</loc>
+    <loc>/importexport/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/inspector/</loc>
+    <loc>/inspector/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iot/</loc>
+    <loc>/iot/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iot-data/</loc>
+    <loc>/iot-data/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iot-jobs-data/</loc>
+    <loc>/iot-jobs-data/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iot1click-devices/</loc>
+    <loc>/iot1click-devices/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iot1click-projects/</loc>
+    <loc>/iot1click-projects/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/iotanalytics/</loc>
+    <loc>/iotanalytics/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kafka/</loc>
+    <loc>/kafka/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kinesis/</loc>
+    <loc>/kinesis/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kinesis-video-archived-media/</loc>
+    <loc>/kinesis-video-archived-media/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kinesis-video-media/</loc>
+    <loc>/kinesis-video-media/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kinesisanalytics/</loc>
+    <loc>/kinesisanalytics/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kinesisanalyticsv2/</loc>
+    <loc>/kinesisanalyticsv2/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kinesisvideo/</loc>
+    <loc>/kinesisvideo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/kms/</loc>
+    <loc>/kms/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/lambda/</loc>
+    <loc>/lambda/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/lex-models/</loc>
+    <loc>/lex-models/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/lex-runtime/</loc>
+    <loc>/lex-runtime/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/license-manager/</loc>
+    <loc>/license-manager/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/lightsail/</loc>
+    <loc>/lightsail/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/logs/</loc>
+    <loc>/logs/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/machinelearning/</loc>
+    <loc>/machinelearning/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/macie/</loc>
+    <loc>/macie/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/marketplace-entitlement/</loc>
+    <loc>/marketplace-entitlement/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/marketplacecommerceanalytics/</loc>
+    <loc>/marketplacecommerceanalytics/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mediaconnect/</loc>
+    <loc>/mediaconnect/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mediaconvert/</loc>
+    <loc>/mediaconvert/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/medialive/</loc>
+    <loc>/medialive/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mediapackage/</loc>
+    <loc>/mediapackage/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mediastore/</loc>
+    <loc>/mediastore/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mediastore-data/</loc>
+    <loc>/mediastore-data/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mediatailor/</loc>
+    <loc>/mediatailor/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/meteringmarketplace/</loc>
+    <loc>/meteringmarketplace/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mgh/</loc>
+    <loc>/mgh/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mobile/</loc>
+    <loc>/mobile/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mq/</loc>
+    <loc>/mq/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/mturk/</loc>
+    <loc>/mturk/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/neptune/</loc>
+    <loc>/neptune/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/opsworks/</loc>
+    <loc>/opsworks/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/opsworks-cm/</loc>
+    <loc>/opsworks-cm/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/organizations/</loc>
+    <loc>/organizations/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/pi/</loc>
+    <loc>/pi/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/pinpoint/</loc>
+    <loc>/pinpoint/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/pinpoint-email/</loc>
+    <loc>/pinpoint-email/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/pinpoint-sms-voice/</loc>
+    <loc>/pinpoint-sms-voice/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/polly/</loc>
+    <loc>/polly/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/pricing/</loc>
+    <loc>/pricing/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/quicksight/</loc>
+    <loc>/quicksight/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ram/</loc>
+    <loc>/ram/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/rds/</loc>
+    <loc>/rds/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/rds-data/</loc>
+    <loc>/rds-data/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/redshift/</loc>
+    <loc>/redshift/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/rekognition/</loc>
+    <loc>/rekognition/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/resource-groups/</loc>
+    <loc>/resource-groups/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/resourcegroupstaggingapi/</loc>
+    <loc>/resourcegroupstaggingapi/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/robomaker/</loc>
+    <loc>/robomaker/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/route53/</loc>
+    <loc>/route53/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/route53domains/</loc>
+    <loc>/route53domains/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/route53resolver/</loc>
+    <loc>/route53resolver/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/runtime.sagemaker/</loc>
+    <loc>/runtime.sagemaker/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/s3/</loc>
+    <loc>/s3/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/s3api/</loc>
+    <loc>/s3api/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/s3control/</loc>
+    <loc>/s3control/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sagemaker/</loc>
+    <loc>/sagemaker/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sagemaker-runtime/</loc>
+    <loc>/sagemaker-runtime/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sdb/</loc>
+    <loc>/sdb/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/secretsmanager/</loc>
+    <loc>/secretsmanager/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/securityhub/</loc>
+    <loc>/securityhub/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/serverlessrepo/</loc>
+    <loc>/serverlessrepo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/servicecatalog/</loc>
+    <loc>/servicecatalog/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/servicediscovery/</loc>
+    <loc>/servicediscovery/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ses/</loc>
+    <loc>/ses/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/shield/</loc>
+    <loc>/shield/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/signer/</loc>
+    <loc>/signer/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sms/</loc>
+    <loc>/sms/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sms-voice/</loc>
+    <loc>/sms-voice/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/snowball/</loc>
+    <loc>/snowball/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sns/</loc>
+    <loc>/sns/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sqs/</loc>
+    <loc>/sqs/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/ssm/</loc>
+    <loc>/ssm/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/stepfunctions/</loc>
+    <loc>/stepfunctions/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/storagegateway/</loc>
+    <loc>/storagegateway/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/sts/</loc>
+    <loc>/sts/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/support/</loc>
+    <loc>/support/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/swf/</loc>
+    <loc>/swf/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/textract/</loc>
+    <loc>/textract/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/transcribe/</loc>
+    <loc>/transcribe/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/transfer/</loc>
+    <loc>/transfer/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/translate/</loc>
+    <loc>/translate/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/waf/</loc>
+    <loc>/waf/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/waf-regional/</loc>
+    <loc>/waf-regional/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/workdocs/</loc>
+    <loc>/workdocs/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/worklink/</loc>
+    <loc>/worklink/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/workmail/</loc>
+    <loc>/workmail/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/workspaces/</loc>
+    <loc>/workspaces/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/xray/</loc>
+    <loc>/xray/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

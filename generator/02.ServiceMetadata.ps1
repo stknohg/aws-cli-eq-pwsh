@@ -55,6 +55,7 @@ $g_SubCommandAlias = @{
     's3control'                    = 's3c';
     'sagemaker'                    = 'sm';
     'sagemaker-runtime'            = 'smr';
+    'runtime.sagemaker'            = 'smr';
     'secretsmanager'               = 'sec';
     'securityhub'                  = 'shub';
     'serverlessrepo'               = 'sar';

@@ -1,7 +1,7 @@
 #Requires -Version 6.0
 Import-Module AWSPowerShell.NetCore
 
-# 
+# get the version of AWS Tools for PowerShell
 $cmdletVersion = Get-Module AWSPowerShell.NetCore | ForEach-Object { $_.Version.ToString() }
 
 # import service metadata
@@ -47,7 +47,7 @@ function Export-TopPageMarkdown {
         "### Summary"
         ""
         "|Service|CLI sub command|PowerShell prefix|Notes|"
-        "|----|----|----|----|"
+        "|----|----|:--:|----|"
         foreach ($command in $(Get-Content -LiteralPath $CLIMetadataPath -Encoding ascii)) {
             $metadata = $g_AWSServices[$command]
             $displayName = ''
@@ -82,7 +82,7 @@ function Export-PostPageMarkdown {
         $displayUrl = $metadata.Url
     }
     $displayUrllink = if ($displayUrl -eq '') {$displayName} else {"[$displayName]($displayUrl)"}
-    return if ($null -eq $Commands) {
+    $markdown = if ($null -eq $Commands) {
         & {
             "---"
             "title: $ServiceName"
@@ -121,6 +121,7 @@ function Export-PostPageMarkdown {
             }
         } | Out-String
     }
+    return $markdown
 }
 
 function Get-CLISubCommands {
@@ -134,12 +135,14 @@ function Get-CLISubCommands {
     $commands = Get-Content -LiteralPath $CommandFilePath | ForEach-Object {
         try {
             # AWS CLIのサブコマンドを直接指定してもダメなものが結構ある
+            # Some CLI subcommand dosen't return PowerShell Cmdlet information directly.
+            # So, we must to use Cmdlet prefix instead of subcommand name.($g_SubCommandAlias)
             $awsCLI = $_
             $searchCLI = $_
             if ($null -ne $g_SubCommandAlias[$ServiceName]) {
                 $searchCLI = $_ -replace "aws $ServiceName", "aws $($g_SubCommandAlias[$ServiceName])"
             }
-            # 1つの AwsCliCommand から複数の Cmdlet を返す場合がある
+            # Get-AWSCmdletName は1つの AwsCliCommand から複数の Cmdlet を返す場合がある
             $awsCLISubcommandName = ($awsCLI -replace "aws $ServiceName", "").Trim()
             $awsCLIUrl = "https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/$awsCLISubcommandName.html"
             $cmdletNames = Get-AWSCmdletName -AwsCliCommand $searchCLI
@@ -194,7 +197,7 @@ function Get-CLISubCommands {
 }
 
 # export top page
-'Export top page...' | Write-HostInfo
+'Exporting top page...' | Write-HostInfo
 Export-TopPageMarkdown -CLIVersionMetadataPath '.\temp\_cli.version.cfg' -CLIMetadataPath '.\temp\_cli.metadata.cfg' | 
     Out-File -FilePath ".\markdown\_index.md"
 
@@ -208,4 +211,3 @@ Get-ChildItem ".\temp\*.txt" | ForEach-Object {
     Export-PostPageMarkdown -ServiceName $serviceName -Commands $commands |
         Out-File -FilePath ".\markdown\post\$($_.BaseName).md"
 }
-

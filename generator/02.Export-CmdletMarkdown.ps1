@@ -9,6 +9,7 @@ $cmdletVersion = Get-Module AWSPowerShell.NetCore | ForEach-Object { $_.Version.
 
 # clear markdown directory
 Remove-Item -Path ".\markdown\*.md" -Force
+Remove-Item -Path ".\markdown\post\*.md" -Force
 
 # functions
 function Write-HostInfo () {
@@ -59,8 +60,8 @@ function Export-TopPageMarkdown {
             }
             $displayColumn = if($displayUrl -eq '') {"$displayName"} else {"[$displayName]($displayUrl)"}
             "|$displayColumn|[$command]({{%relref ""post/$command.md"" %}})|$cmdletPrefix|$note|"
-        }
-    }
+        } 
+    } | Out-String
 }
 
 function Export-PostPageMarkdown {
@@ -80,7 +81,8 @@ function Export-PostPageMarkdown {
         $displayName = $metadata.Name
         $displayUrl = $metadata.Url
     }
-    $markdown = if ($null -eq $Commands) {
+    $displayUrllink = if ($displayUrl -eq '') {$displayName} else {"[$displayName]($displayUrl)"}
+    return if ($null -eq $Commands) {
         & {
             "---"
             "title: $ServiceName"
@@ -89,7 +91,7 @@ function Export-PostPageMarkdown {
             ""
             "## $ServiceName"
             ""
-            "### [$displayName]($displayUrl)"
+            "### $displayUrllink"
             ""
             "* No CLI commands"
             ""
@@ -103,7 +105,7 @@ function Export-PostPageMarkdown {
             ""
             "## $ServiceName"
             ""
-            "### [$displayName]($displayUrl)"
+            "### $displayUrllink"
             ""
             "* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/index.html)"
             ""
@@ -119,7 +121,6 @@ function Export-PostPageMarkdown {
             }
         } | Out-String
     }
-    return $markdown
 }
 
 function Get-CLISubCommands {
@@ -205,6 +206,6 @@ Get-ChildItem ".\temp\*.txt" | ForEach-Object {
     $commands = Get-CLISubCommands -CommandFilePath ($_.FullName) -ServiceName $serviceName
     # output markdown
     Export-PostPageMarkdown -ServiceName $serviceName -Commands $commands |
-        Out-File -FilePath ".\markdown\$($_.BaseName).md"
+        Out-File -FilePath ".\markdown\post\$($_.BaseName).md"
 }
 

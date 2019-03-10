@@ -1,2 +1,4 @@
 generator/temp/*
-generator/markdown/*
+generator/markdown/*.md
+generator/markdown/post/*.md
+!.gitkeep

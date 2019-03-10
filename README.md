@@ -4,7 +4,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ## Site
 
-* https://stknohg.github.io/aws-cli-eq-pwsh/
+* https://aws-cli-eq-pwsh.shibata.tech/
 
 ## License
 

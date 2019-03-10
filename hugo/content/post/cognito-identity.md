@@ -1,0 +1,32 @@
+---
+title: cognito-identity
+date: 2019-03-10
+---
+
+## cognito-identity
+
+### [Amazon Cognito uniquely identifies](https://aws.amazon.com/cognito/)
+
+* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/index.html)
+
+|AWS CLI|PowerShell Cmdlet|Prefix|
+|----|----|:--:|
+|[aws cognito-identity create-identity-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/create-identity-pool.html)|[New-CGIIdentityPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIIdentityPool.html)|CGI|
+|[aws cognito-identity delete-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/delete-identities.html)|||
+|[aws cognito-identity delete-identity-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/delete-identity-pool.html)|[Remove-CGIIdentityPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIIdentityPool.html)|CGI|
+|[aws cognito-identity describe-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/describe-identity.html)|||
+|[aws cognito-identity describe-identity-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/describe-identity-pool.html)|[Get-CGIIdentityPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIIdentityPool.html)|CGI|
+|[aws cognito-identity get-credentials-for-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-credentials-for-identity.html)|||
+|[aws cognito-identity get-id](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-id.html)|||
+|[aws cognito-identity get-identity-pool-roles](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-identity-pool-roles.html)|[Get-CGIIdentityPoolRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIIdentityPoolRole.html)|CGI|
+|[aws cognito-identity get-open-id-token](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-open-id-token.html)|||
+|[aws cognito-identity get-open-id-token-for-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-open-id-token-for-developer-identity.html)|||
+|[aws cognito-identity list-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-identities.html)|||
+|[aws cognito-identity list-identity-pools](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-identity-pools.html)|[Get-CGIIdentityPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIIdentityPoolList.html)|CGI|
+|[aws cognito-identity lookup-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/lookup-developer-identity.html)|||
+|[aws cognito-identity merge-developer-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/merge-developer-identities.html)|||
+|[aws cognito-identity set-identity-pool-roles](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/set-identity-pool-roles.html)|[Set-CGIIdentityPoolRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIIdentityPoolRole.html)|CGI|
+|[aws cognito-identity unlink-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/unlink-developer-identity.html)|||
+|[aws cognito-identity unlink-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/unlink-identity.html)|||
+|[aws cognito-identity update-identity-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/update-identity-pool.html)|[Update-CGIIdentityPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIIdentityPool.html)|CGI|
+

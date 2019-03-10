@@ -5,7 +5,7 @@ date: 2019-03-10
 
 ## sms-voice
 
-### [-]()
+### -
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sms-voice/index.html)
 

@@ -5,7 +5,7 @@ date: 2019-03-10
 
 ## runtime.sagemaker
 
-### [-]()
+### -
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/runtime.sagemaker/index.html)
 

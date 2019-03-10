@@ -5,7 +5,7 @@ date: 2019-03-10
 
 ## configure
 
-### [-]()
+### -
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/configure/index.html)
 

@@ -173,6 +173,11 @@
   </url>
   
   <url>
+    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cognito-identity/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cognito-idp/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
@@ -885,10 +890,6 @@
   <url>
     <loc>https://stknohg.github.io/aws-cli-eq-pwsh/xray/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stknohg.github.io/aws-cli-eq-pwsh/cognito-identity/</loc>
   </url>
   
   <url>

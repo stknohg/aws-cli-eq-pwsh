@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/waf/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>waf | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="waf">waf</h2>
+
+<h3 id="aws-waf-https-aws-amazon-com-waf"><a href="https://aws.amazon.com/waf/">AWS WAF</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-byte-match-set.html">aws waf create-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFByteMatchSet.html">New-WAFByteMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-geo-match-set.html">aws waf create-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFGeoMatchSet.html">New-WAFGeoMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-ip-set.html">aws waf create-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFIPSet.html">New-WAFIPSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-rate-based-rule.html">aws waf create-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRateBasedRule.html">New-WAFRateBasedRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-regex-match-set.html">aws waf create-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRegexMatchSet.html">New-WAFRegexMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-regex-pattern-set.html">aws waf create-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRegexPatternSet.html">New-WAFRegexPatternSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-rule.html">aws waf create-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRule.html">New-WAFRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-rule-group.html">aws waf create-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRuleGroup.html">New-WAFRuleGroup</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-size-constraint-set.html">aws waf create-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFSizeConstraintSet.html">New-WAFSizeConstraintSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-sql-injection-match-set.html">aws waf create-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFSqlInjectionMatchSet.html">New-WAFSqlInjectionMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-web-acl.html">aws waf create-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFWebACL.html">New-WAFWebACL</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/create-xss-match-set.html">aws waf create-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFXssMatchSet.html">New-WAFXssMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-byte-match-set.html">aws waf delete-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFByteMatchSet.html">Remove-WAFByteMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-geo-match-set.html">aws waf delete-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFGeoMatchSet.html">Remove-WAFGeoMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-ip-set.html">aws waf delete-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFIPSet.html">Remove-WAFIPSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-logging-configuration.html">aws waf delete-logging-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFLoggingConfiguration.html">Remove-WAFLoggingConfiguration</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-permission-policy.html">aws waf delete-permission-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFPermissionPolicy.html">Remove-WAFPermissionPolicy</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-rate-based-rule.html">aws waf delete-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRateBasedRule.html">Remove-WAFRateBasedRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-regex-match-set.html">aws waf delete-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRegexMatchSet.html">Remove-WAFRegexMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-regex-pattern-set.html">aws waf delete-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRegexPatternSet.html">Remove-WAFRegexPatternSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-rule.html">aws waf delete-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRule.html">Remove-WAFRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-rule-group.html">aws waf delete-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRuleGroup.html">Remove-WAFRuleGroup</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-size-constraint-set.html">aws waf delete-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFSizeConstraintSet.html">Remove-WAFSizeConstraintSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-sql-injection-match-set.html">aws waf delete-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFSqlInjectionMatchSet.html">Remove-WAFSqlInjectionMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-web-acl.html">aws waf delete-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFWebACL.html">Remove-WAFWebACL</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/delete-xss-match-set.html">aws waf delete-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFXssMatchSet.html">Remove-WAFXssMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-byte-match-set.html">aws waf get-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFByteMatchSet.html">Get-WAFByteMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-change-token.html">aws waf get-change-token</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFChangeToken.html">Get-WAFChangeToken</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-change-token-status.html">aws waf get-change-token-status</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFChangeTokenStatus.html">Get-WAFChangeTokenStatus</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-geo-match-set.html">aws waf get-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFGeoMatchSet.html">Get-WAFGeoMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-ip-set.html">aws waf get-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFIPSet.html">Get-WAFIPSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-logging-configuration.html">aws waf get-logging-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFLoggingConfiguration.html">Get-WAFLoggingConfiguration</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-permission-policy.html">aws waf get-permission-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFPermissionPolicy.html">Get-WAFPermissionPolicy</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-rate-based-rule.html">aws waf get-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRateBasedRule.html">Get-WAFRateBasedRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-rate-based-rule-managed-keys.html">aws waf get-rate-based-rule-managed-keys</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRateBasedRuleManagedKey.html">Get-WAFRateBasedRuleManagedKey</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-regex-match-set.html">aws waf get-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRegexMatchSet.html">Get-WAFRegexMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-regex-pattern-set.html">aws waf get-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRegexPatternSet.html">Get-WAFRegexPatternSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-rule.html">aws waf get-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRule.html">Get-WAFRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-rule-group.html">aws waf get-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRuleGroup.html">Get-WAFRuleGroup</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-sampled-requests.html">aws waf get-sampled-requests</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSampledRequestList.html">Get-WAFSampledRequestList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-size-constraint-set.html">aws waf get-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSizeConstraintSet.html">Get-WAFSizeConstraintSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-sql-injection-match-set.html">aws waf get-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSqlInjectionMatchSet.html">Get-WAFSqlInjectionMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-web-acl.html">aws waf get-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFWebACL.html">Get-WAFWebACL</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/get-xss-match-set.html">aws waf get-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFXssMatchSet.html">Get-WAFXssMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-activated-rules-in-rule-group.html">aws waf list-activated-rules-in-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFActivatedRulesInRuleGroupList.html">Get-WAFActivatedRulesInRuleGroupList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-byte-match-sets.html">aws waf list-byte-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFByteMatchSetList.html">Get-WAFByteMatchSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-geo-match-sets.html">aws waf list-geo-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFGeoMatchSetList.html">Get-WAFGeoMatchSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-ip-sets.html">aws waf list-ip-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFIPSetList.html">Get-WAFIPSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-logging-configurations.html">aws waf list-logging-configurations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFLoggingConfigurationList.html">Get-WAFLoggingConfigurationList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-rate-based-rules.html">aws waf list-rate-based-rules</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRateBasedRuleList.html">Get-WAFRateBasedRuleList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-regex-match-sets.html">aws waf list-regex-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRegexMatchSetList.html">Get-WAFRegexMatchSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-regex-pattern-sets.html">aws waf list-regex-pattern-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRegexPatternSetList.html">Get-WAFRegexPatternSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-rule-groups.html">aws waf list-rule-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRuleGroupList.html">Get-WAFRuleGroupList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-rules.html">aws waf list-rules</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRuleList.html">Get-WAFRuleList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-size-constraint-sets.html">aws waf list-size-constraint-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSizeConstraintSetList.html">Get-WAFSizeConstraintSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-sql-injection-match-sets.html">aws waf list-sql-injection-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSqlInjectionMatchSetList.html">Get-WAFSqlInjectionMatchSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-subscribed-rule-groups.html">aws waf list-subscribed-rule-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSubscribedRuleGroupList.html">Get-WAFSubscribedRuleGroupList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-web-acls.html">aws waf list-web-acls</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFWebACLList.html">Get-WAFWebACLList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/list-xss-match-sets.html">aws waf list-xss-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFXssMatchSetList.html">Get-WAFXssMatchSetList</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/put-logging-configuration.html">aws waf put-logging-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFLoggingConfiguration.html">Write-WAFLoggingConfiguration</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/put-permission-policy.html">aws waf put-permission-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFPermissionPolicy.html">Write-WAFPermissionPolicy</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-byte-match-set.html">aws waf update-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFByteMatchSet.html">Update-WAFByteMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-geo-match-set.html">aws waf update-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFGeoMatchSet.html">Update-WAFGeoMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-ip-set.html">aws waf update-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFIPSet.html">Update-WAFIPSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-rate-based-rule.html">aws waf update-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRateBasedRule.html">Update-WAFRateBasedRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-regex-match-set.html">aws waf update-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRegexMatchSet.html">Update-WAFRegexMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-regex-pattern-set.html">aws waf update-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRegexPatternSet.html">Update-WAFRegexPatternSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-rule.html">aws waf update-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRule.html">Update-WAFRule</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-rule-group.html">aws waf update-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRuleGroup.html">Update-WAFRuleGroup</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-size-constraint-set.html">aws waf update-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFSizeConstraintSet.html">Update-WAFSizeConstraintSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-sql-injection-match-set.html">aws waf update-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFSqlInjectionMatchSet.html">Update-WAFSqlInjectionMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-web-acl.html">aws waf update-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFWebACL.html">Update-WAFWebACL</a></td>
+<td align="center">WAF</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf/update-xss-match-set.html">aws waf update-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFXssMatchSet.html">Update-WAFXssMatchSet</a></td>
+<td align="center">WAF</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

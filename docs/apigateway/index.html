@@ -1,0 +1,822 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/apigateway/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>apigateway | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="apigateway">apigateway</h2>
+
+<h3 id="amazon-api-gateway-https-aws-amazon-com-api-gateway"><a href="https://aws.amazon.com/api-gateway/">Amazon API Gateway</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-api-key.html">aws apigateway create-api-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGApiKey.html">New-AGApiKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-authorizer.html">aws apigateway create-authorizer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGAuthorizer.html">New-AGAuthorizer</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-base-path-mapping.html">aws apigateway create-base-path-mapping</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGBasePathMapping.html">New-AGBasePathMapping</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-deployment.html">aws apigateway create-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDeployment.html">New-AGDeployment</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-documentation-part.html">aws apigateway create-documentation-part</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDocumentationPart.html">New-AGDocumentationPart</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-documentation-version.html">aws apigateway create-documentation-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDocumentationVersion.html">New-AGDocumentationVersion</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-domain-name.html">aws apigateway create-domain-name</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDomainName.html">New-AGDomainName</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-model.html">aws apigateway create-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGModel.html">New-AGModel</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-request-validator.html">aws apigateway create-request-validator</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGRequestValidator.html">New-AGRequestValidator</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-resource.html">aws apigateway create-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGResource.html">New-AGResource</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-rest-api.html">aws apigateway create-rest-api</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGRestApi.html">New-AGRestApi</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-stage.html">aws apigateway create-stage</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGStage.html">New-AGStage</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-usage-plan.html">aws apigateway create-usage-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGUsagePlan.html">New-AGUsagePlan</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-usage-plan-key.html">aws apigateway create-usage-plan-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGUsagePlanKey.html">New-AGUsagePlanKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/create-vpc-link.html">aws apigateway create-vpc-link</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGVpcLink.html">New-AGVpcLink</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-api-key.html">aws apigateway delete-api-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGApiKey.html">Remove-AGApiKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-authorizer.html">aws apigateway delete-authorizer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGAuthorizer.html">Remove-AGAuthorizer</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-base-path-mapping.html">aws apigateway delete-base-path-mapping</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGBasePathMapping.html">Remove-AGBasePathMapping</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-client-certificate.html">aws apigateway delete-client-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGClientCertificate.html">Remove-AGClientCertificate</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-deployment.html">aws apigateway delete-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDeployment.html">Remove-AGDeployment</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-documentation-part.html">aws apigateway delete-documentation-part</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDocumentationPart.html">Remove-AGDocumentationPart</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-documentation-version.html">aws apigateway delete-documentation-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDocumentationVersion.html">Remove-AGDocumentationVersion</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-domain-name.html">aws apigateway delete-domain-name</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDomainName.html">Remove-AGDomainName</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-gateway-response.html">aws apigateway delete-gateway-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGGatewayResponse.html">Remove-AGGatewayResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-integration.html">aws apigateway delete-integration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGIntegration.html">Remove-AGIntegration</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-integration-response.html">aws apigateway delete-integration-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGIntegrationResponse.html">Remove-AGIntegrationResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-method.html">aws apigateway delete-method</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGMethod.html">Remove-AGMethod</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-method-response.html">aws apigateway delete-method-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGMethodResponse.html">Remove-AGMethodResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-model.html">aws apigateway delete-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGModel.html">Remove-AGModel</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-request-validator.html">aws apigateway delete-request-validator</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGRequestValidator.html">Remove-AGRequestValidator</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-resource.html">aws apigateway delete-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGResource.html">Remove-AGResource</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-rest-api.html">aws apigateway delete-rest-api</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGRestApi.html">Remove-AGRestApi</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-stage.html">aws apigateway delete-stage</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGStage.html">Remove-AGStage</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-usage-plan.html">aws apigateway delete-usage-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGUsagePlan.html">Remove-AGUsagePlan</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-usage-plan-key.html">aws apigateway delete-usage-plan-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGUsagePlanKey.html">Remove-AGUsagePlanKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/delete-vpc-link.html">aws apigateway delete-vpc-link</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGVpcLink.html">Remove-AGVpcLink</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/flush-stage-authorizers-cache.html">aws apigateway flush-stage-authorizers-cache</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-AGStageAuthorizersCache.html">Clear-AGStageAuthorizersCache</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/flush-stage-cache.html">aws apigateway flush-stage-cache</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-AGStageCache.html">Clear-AGStageCache</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/generate-client-certificate.html">aws apigateway generate-client-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGClientCertificate.html">New-AGClientCertificate</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-account.html">aws apigateway get-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGAccount.html">Get-AGAccount</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-api-key.html">aws apigateway get-api-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGApiKey.html">Get-AGApiKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-api-keys.html">aws apigateway get-api-keys</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGApiKeyList.html">Get-AGApiKeyList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-authorizer.html">aws apigateway get-authorizer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGAuthorizer.html">Get-AGAuthorizer</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-authorizers.html">aws apigateway get-authorizers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGAuthorizerList.html">Get-AGAuthorizerList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-base-path-mapping.html">aws apigateway get-base-path-mapping</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGBasePathMapping.html">Get-AGBasePathMapping</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-base-path-mappings.html">aws apigateway get-base-path-mappings</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGBasePathMappingList.html">Get-AGBasePathMappingList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-client-certificate.html">aws apigateway get-client-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGClientCertificate.html">Get-AGClientCertificate</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-client-certificates.html">aws apigateway get-client-certificates</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGClientCertificateList.html">Get-AGClientCertificateList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-deployment.html">aws apigateway get-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDeployment.html">Get-AGDeployment</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-deployments.html">aws apigateway get-deployments</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDeploymentList.html">Get-AGDeploymentList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-documentation-part.html">aws apigateway get-documentation-part</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDocumentationPart.html">Get-AGDocumentationPart</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-documentation-parts.html">aws apigateway get-documentation-parts</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDocumentationPartList.html">Get-AGDocumentationPartList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-documentation-version.html">aws apigateway get-documentation-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDocumentationVersion.html">Get-AGDocumentationVersion</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-documentation-versions.html">aws apigateway get-documentation-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDocumentationVersionList.html">Get-AGDocumentationVersionList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-domain-name.html">aws apigateway get-domain-name</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDomainName.html">Get-AGDomainName</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-domain-names.html">aws apigateway get-domain-names</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDomainNameList.html">Get-AGDomainNameList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-export.html">aws apigateway get-export</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGExport.html">Get-AGExport</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-gateway-response.html">aws apigateway get-gateway-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGGatewayResponse.html">Get-AGGatewayResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-gateway-responses.html">aws apigateway get-gateway-responses</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGGatewayResponseList.html">Get-AGGatewayResponseList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-integration.html">aws apigateway get-integration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGIntegration.html">Get-AGIntegration</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-integration-response.html">aws apigateway get-integration-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGIntegrationResponse.html">Get-AGIntegrationResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-method.html">aws apigateway get-method</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGMethod.html">Get-AGMethod</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-method-response.html">aws apigateway get-method-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGMethodResponse.html">Get-AGMethodResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-model.html">aws apigateway get-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGModel.html">Get-AGModel</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-model-template.html">aws apigateway get-model-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGModelTemplate.html">Get-AGModelTemplate</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-models.html">aws apigateway get-models</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGModelList.html">Get-AGModelList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-request-validator.html">aws apigateway get-request-validator</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGRequestValidator.html">Get-AGRequestValidator</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-request-validators.html">aws apigateway get-request-validators</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGValidatorList.html">Get-AGValidatorList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-resource.html">aws apigateway get-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGResource.html">Get-AGResource</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-resources.html">aws apigateway get-resources</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGResourceList.html">Get-AGResourceList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-rest-api.html">aws apigateway get-rest-api</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGRestApi.html">Get-AGRestApi</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-rest-apis.html">aws apigateway get-rest-apis</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGRestApiList.html">Get-AGRestApiList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-sdk.html">aws apigateway get-sdk</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGSdk.html">Get-AGSdk</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-sdk-type.html">aws apigateway get-sdk-type</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGSdkType.html">Get-AGSdkType</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-sdk-types.html">aws apigateway get-sdk-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGSdkTypeList.html">Get-AGSdkTypeList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-stage.html">aws apigateway get-stage</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGStage.html">Get-AGStage</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-stages.html">aws apigateway get-stages</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGStageList.html">Get-AGStageList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-tags.html">aws apigateway get-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGResourceTag.html">Get-AGResourceTag</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-usage.html">aws apigateway get-usage</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGUsage.html">Get-AGUsage</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-usage-plan.html">aws apigateway get-usage-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGUsagePlan.html">Get-AGUsagePlan</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-usage-plan-key.html">aws apigateway get-usage-plan-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGUsagePlanKey.html">Get-AGUsagePlanKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-usage-plan-keys.html">aws apigateway get-usage-plan-keys</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGUsagePlanKeyList.html">Get-AGUsagePlanKeyList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-usage-plans.html">aws apigateway get-usage-plans</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGUsagePlanList.html">Get-AGUsagePlanList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-vpc-link.html">aws apigateway get-vpc-link</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGVpcLink.html">Get-AGVpcLink</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/get-vpc-links.html">aws apigateway get-vpc-links</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGVpcLinkList.html">Get-AGVpcLinkList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/import-api-keys.html">aws apigateway import-api-keys</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AGApiKey.html">Import-AGApiKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/import-documentation-parts.html">aws apigateway import-documentation-parts</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AGDocumentationPartList.html">Import-AGDocumentationPartList</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/import-rest-api.html">aws apigateway import-rest-api</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AGRestApi.html">Import-AGRestApi</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/put-gateway-response.html">aws apigateway put-gateway-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGGatewayResponse.html">Write-AGGatewayResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/put-integration.html">aws apigateway put-integration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGIntegration.html">Write-AGIntegration</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/put-integration-response.html">aws apigateway put-integration-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGIntegrationResponse.html">Write-AGIntegrationResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/put-method.html">aws apigateway put-method</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGMethod.html">Write-AGMethod</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/put-method-response.html">aws apigateway put-method-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGMethodResponse.html">Write-AGMethodResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/put-rest-api.html">aws apigateway put-rest-api</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGRestApi.html">Write-AGRestApi</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/tag-resource.html">aws apigateway tag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AGResourceTag.html">Add-AGResourceTag</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/test-invoke-authorizer.html">aws apigateway test-invoke-authorizer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Test-AGInvokeAuthorizer.html">Test-AGInvokeAuthorizer</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/test-invoke-method.html">aws apigateway test-invoke-method</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Test-AGInvokeMethod.html">Test-AGInvokeMethod</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/untag-resource.html">aws apigateway untag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGResourceTag.html">Remove-AGResourceTag</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-account.html">aws apigateway update-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGAccount.html">Update-AGAccount</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-api-key.html">aws apigateway update-api-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGApiKey.html">Update-AGApiKey</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-authorizer.html">aws apigateway update-authorizer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGAuthorizer.html">Update-AGAuthorizer</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-base-path-mapping.html">aws apigateway update-base-path-mapping</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGBasePathMapping.html">Update-AGBasePathMapping</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-client-certificate.html">aws apigateway update-client-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGClientCertificate.html">Update-AGClientCertificate</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-deployment.html">aws apigateway update-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGDeployment.html">Update-AGDeployment</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-documentation-part.html">aws apigateway update-documentation-part</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGDocumentationPart.html">Update-AGDocumentationPart</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-documentation-version.html">aws apigateway update-documentation-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGDocumentationVersion.html">Update-AGDocumentationVersion</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-domain-name.html">aws apigateway update-domain-name</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGDomainName.html">Update-AGDomainName</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-gateway-response.html">aws apigateway update-gateway-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGGatewayResponse.html">Update-AGGatewayResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-integration.html">aws apigateway update-integration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGIntegration.html">Update-AGIntegration</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-integration-response.html">aws apigateway update-integration-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGIntegrationResponse.html">Update-AGIntegrationResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-method.html">aws apigateway update-method</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGMethod.html">Update-AGMethod</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-method-response.html">aws apigateway update-method-response</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGMethodResponse.html">Update-AGMethodResponse</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-model.html">aws apigateway update-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGModel.html">Update-AGModel</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-request-validator.html">aws apigateway update-request-validator</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGRequestValidator.html">Update-AGRequestValidator</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-resource.html">aws apigateway update-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGResource.html">Update-AGResource</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-rest-api.html">aws apigateway update-rest-api</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGRestApi.html">Update-AGRestApi</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-stage.html">aws apigateway update-stage</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGStage.html">Update-AGStage</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-usage.html">aws apigateway update-usage</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGUsage.html">Update-AGUsage</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-usage-plan.html">aws apigateway update-usage-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGUsagePlan.html">Update-AGUsagePlan</a></td>
+<td align="center">AG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/apigateway/update-vpc-link.html">aws apigateway update-vpc-link</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AGVpcLink.html">Update-AGVpcLink</a></td>
+<td align="center">AG</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/backup/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>backup | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="backup">backup</h2>
+
+<h3 id="aws-backup-https-aws-amazon-com-backup"><a href="https://aws.amazon.com/backup/">AWS Backup</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/create-backup-plan.html">aws backup create-backup-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupPlan.html">New-BAKBackupPlan</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/create-backup-selection.html">aws backup create-backup-selection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupSelection.html">New-BAKBackupSelection</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/create-backup-vault.html">aws backup create-backup-vault</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupVault.html">New-BAKBackupVault</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-plan.html">aws backup delete-backup-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupPlan.html">Remove-BAKBackupPlan</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-selection.html">aws backup delete-backup-selection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupSelection.html">Remove-BAKBackupSelection</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault.html">aws backup delete-backup-vault</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVault.html">Remove-BAKBackupVault</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault-access-policy.html">aws backup delete-backup-vault-access-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVaultAccessPolicy.html">Remove-BAKBackupVaultAccessPolicy</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault-notifications.html">aws backup delete-backup-vault-notifications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVaultNotification.html">Remove-BAKBackupVaultNotification</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/delete-recovery-point.html">aws backup delete-recovery-point</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKRecoveryPoint.html">Remove-BAKRecoveryPoint</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/describe-backup-job.html">aws backup describe-backup-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJob.html">Get-BAKBackupJob</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/describe-backup-vault.html">aws backup describe-backup-vault</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVault.html">Get-BAKBackupVault</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/describe-protected-resource.html">aws backup describe-protected-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResource.html">Get-BAKProtectedResource</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/describe-recovery-point.html">aws backup describe-recovery-point</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPoint.html">Get-BAKRecoveryPoint</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/describe-restore-job.html">aws backup describe-restore-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJob.html">Get-BAKRestoreJob</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/export-backup-plan-template.html">aws backup export-backup-plan-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Export-BAKBackupPlanTemplate.html">Export-BAKBackupPlanTemplate</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-plan.html">aws backup get-backup-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlan.html">Get-BAKBackupPlan</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-plan-from-json.html">aws backup get-backup-plan-from-json</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanFromJSON.html">Get-BAKBackupPlanFromJSON</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-plan-from-template.html">aws backup get-backup-plan-from-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanFromTemplate.html">Get-BAKBackupPlanFromTemplate</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-selection.html">aws backup get-backup-selection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupSelection.html">Get-BAKBackupSelection</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-vault-access-policy.html">aws backup get-backup-vault-access-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultAccessPolicy.html">Get-BAKBackupVaultAccessPolicy</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-vault-notifications.html">aws backup get-backup-vault-notifications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultNotification.html">Get-BAKBackupVaultNotification</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-recovery-point-restore-metadata.html">aws backup get-recovery-point-restore-metadata</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointRestoreMetadata.html">Get-BAKRecoveryPointRestoreMetadata</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/get-supported-resource-types.html">aws backup get-supported-resource-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKSupportedResourceType.html">Get-BAKSupportedResourceType</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-jobs.html">aws backup list-backup-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJobList.html">Get-BAKBackupJobList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-plan-templates.html">aws backup list-backup-plan-templates</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanTemplateList.html">Get-BAKBackupPlanTemplateList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-plan-versions.html">aws backup list-backup-plan-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanVersionList.html">Get-BAKBackupPlanVersionList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-plans.html">aws backup list-backup-plans</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanList.html">Get-BAKBackupPlanList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-selections.html">aws backup list-backup-selections</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupSelectionList.html">Get-BAKBackupSelectionList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-vaults.html">aws backup list-backup-vaults</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultList.html">Get-BAKBackupVaultList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-protected-resources.html">aws backup list-protected-resources</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResourceList.html">Get-BAKProtectedResourceList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-recovery-points-by-backup-vault.html">aws backup list-recovery-points-by-backup-vault</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByBackupVaultList.html">Get-BAKRecoveryPointsByBackupVaultList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-recovery-points-by-resource.html">aws backup list-recovery-points-by-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByResourceList.html">Get-BAKRecoveryPointsByResourceList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-restore-jobs.html">aws backup list-restore-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobList.html">Get-BAKRestoreJobList</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/list-tags.html">aws backup list-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKResourceTag.html">Get-BAKResourceTag</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-access-policy.html">aws backup put-backup-vault-access-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultAccessPolicy.html">Write-BAKBackupVaultAccessPolicy</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-notifications.html">aws backup put-backup-vault-notifications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultNotification.html">Write-BAKBackupVaultNotification</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/start-backup-job.html">aws backup start-backup-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKBackupJob.html">Start-BAKBackupJob</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/start-restore-job.html">aws backup start-restore-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKRestoreJob.html">Start-BAKRestoreJob</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/stop-backup-job.html">aws backup stop-backup-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BAKBackupJob.html">Stop-BAKBackupJob</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/tag-resource.html">aws backup tag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKResourceTag.html">Add-BAKResourceTag</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/untag-resource.html">aws backup untag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKResourceTag.html">Remove-BAKResourceTag</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/update-backup-plan.html">aws backup update-backup-plan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKBackupPlan.html">Update-BAKBackupPlan</a></td>
+<td align="center">BAK</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/backup/update-recovery-point-lifecycle.html">aws backup update-recovery-point-lifecycle</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRecoveryPointLifecycle.html">Update-BAKRecoveryPointLifecycle</a></td>
+<td align="center">BAK</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

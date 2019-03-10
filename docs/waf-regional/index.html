@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/waf-regional/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>waf-regional | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="waf-regional">waf-regional</h2>
+
+<h3 id="aws-waf-regional-https-aws-amazon-com-waf"><a href="https://aws.amazon.com/waf/">AWS WAF Regional </a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/associate-web-acl.html">aws waf-regional associate-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WAFRWebACL.html">Register-WAFRWebACL</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-byte-match-set.html">aws waf-regional create-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRByteMatchSet.html">New-WAFRByteMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-geo-match-set.html">aws waf-regional create-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRGeoMatchSet.html">New-WAFRGeoMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-ip-set.html">aws waf-regional create-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRIPSet.html">New-WAFRIPSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-rate-based-rule.html">aws waf-regional create-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRRateBasedRule.html">New-WAFRRateBasedRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-regex-match-set.html">aws waf-regional create-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRRegexMatchSet.html">New-WAFRRegexMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-regex-pattern-set.html">aws waf-regional create-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRRegexPatternSet.html">New-WAFRRegexPatternSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-rule.html">aws waf-regional create-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRRule.html">New-WAFRRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-rule-group.html">aws waf-regional create-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRRuleGroup.html">New-WAFRRuleGroup</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-size-constraint-set.html">aws waf-regional create-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRSizeConstraintSet.html">New-WAFRSizeConstraintSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-sql-injection-match-set.html">aws waf-regional create-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRSqlInjectionMatchSet.html">New-WAFRSqlInjectionMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-web-acl.html">aws waf-regional create-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRWebACL.html">New-WAFRWebACL</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-xss-match-set.html">aws waf-regional create-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRXssMatchSet.html">New-WAFRXssMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-byte-match-set.html">aws waf-regional delete-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRByteMatchSet.html">Remove-WAFRByteMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-geo-match-set.html">aws waf-regional delete-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRGeoMatchSet.html">Remove-WAFRGeoMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-ip-set.html">aws waf-regional delete-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRIPSet.html">Remove-WAFRIPSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-logging-configuration.html">aws waf-regional delete-logging-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRLoggingConfiguration.html">Remove-WAFRLoggingConfiguration</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-permission-policy.html">aws waf-regional delete-permission-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRPermissionPolicy.html">Remove-WAFRPermissionPolicy</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-rate-based-rule.html">aws waf-regional delete-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRRateBasedRule.html">Remove-WAFRRateBasedRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-regex-match-set.html">aws waf-regional delete-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRRegexMatchSet.html">Remove-WAFRRegexMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-regex-pattern-set.html">aws waf-regional delete-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRRegexPatternSet.html">Remove-WAFRRegexPatternSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-rule.html">aws waf-regional delete-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRRule.html">Remove-WAFRRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-rule-group.html">aws waf-regional delete-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRRuleGroup.html">Remove-WAFRRuleGroup</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-size-constraint-set.html">aws waf-regional delete-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRSizeConstraintSet.html">Remove-WAFRSizeConstraintSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-sql-injection-match-set.html">aws waf-regional delete-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRSqlInjectionMatchSet.html">Remove-WAFRSqlInjectionMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-web-acl.html">aws waf-regional delete-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRWebACL.html">Remove-WAFRWebACL</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-xss-match-set.html">aws waf-regional delete-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRXssMatchSet.html">Remove-WAFRXssMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/disassociate-web-acl.html">aws waf-regional disassociate-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WAFRWebACL.html">Unregister-WAFRWebACL</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-byte-match-set.html">aws waf-regional get-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRByteMatchSet.html">Get-WAFRByteMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-change-token.html">aws waf-regional get-change-token</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRChangeToken.html">Get-WAFRChangeToken</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-change-token-status.html">aws waf-regional get-change-token-status</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRChangeTokenStatus.html">Get-WAFRChangeTokenStatus</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-geo-match-set.html">aws waf-regional get-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRGeoMatchSet.html">Get-WAFRGeoMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-ip-set.html">aws waf-regional get-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRIPSet.html">Get-WAFRIPSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-logging-configuration.html">aws waf-regional get-logging-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRLoggingConfiguration.html">Get-WAFRLoggingConfiguration</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-permission-policy.html">aws waf-regional get-permission-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRPermissionPolicy.html">Get-WAFRPermissionPolicy</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-rate-based-rule.html">aws waf-regional get-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRateBasedRule.html">Get-WAFRRateBasedRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-rate-based-rule-managed-keys.html">aws waf-regional get-rate-based-rule-managed-keys</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRateBasedRuleManagedKey.html">Get-WAFRRateBasedRuleManagedKey</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-regex-match-set.html">aws waf-regional get-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRegexMatchSet.html">Get-WAFRRegexMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-regex-pattern-set.html">aws waf-regional get-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRegexPatternSet.html">Get-WAFRRegexPatternSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-rule.html">aws waf-regional get-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRule.html">Get-WAFRRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-rule-group.html">aws waf-regional get-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRuleGroup.html">Get-WAFRRuleGroup</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-sampled-requests.html">aws waf-regional get-sampled-requests</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSampledRequestList.html">Get-WAFRSampledRequestList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-size-constraint-set.html">aws waf-regional get-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSizeConstraintSet.html">Get-WAFRSizeConstraintSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-sql-injection-match-set.html">aws waf-regional get-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSqlInjectionMatchSet.html">Get-WAFRSqlInjectionMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-web-acl.html">aws waf-regional get-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRWebACL.html">Get-WAFRWebACL</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-web-acl-for-resource.html">aws waf-regional get-web-acl-for-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRWebACLForResource.html">Get-WAFRWebACLForResource</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/get-xss-match-set.html">aws waf-regional get-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRXssMatchSet.html">Get-WAFRXssMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-activated-rules-in-rule-group.html">aws waf-regional list-activated-rules-in-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRActivatedRulesInRuleGroupList.html">Get-WAFRActivatedRulesInRuleGroupList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-byte-match-sets.html">aws waf-regional list-byte-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRByteMatchSetList.html">Get-WAFRByteMatchSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-geo-match-sets.html">aws waf-regional list-geo-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRGeoMatchSetList.html">Get-WAFRGeoMatchSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-ip-sets.html">aws waf-regional list-ip-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRIPSetList.html">Get-WAFRIPSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-logging-configurations.html">aws waf-regional list-logging-configurations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRLoggingConfigurationList.html">Get-WAFRLoggingConfigurationList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-rate-based-rules.html">aws waf-regional list-rate-based-rules</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRateBasedRuleList.html">Get-WAFRRateBasedRuleList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-regex-match-sets.html">aws waf-regional list-regex-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRegexMatchSetList.html">Get-WAFRRegexMatchSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-regex-pattern-sets.html">aws waf-regional list-regex-pattern-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRegexPatternSetList.html">Get-WAFRRegexPatternSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-resources-for-web-acl.html">aws waf-regional list-resources-for-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRResourceForWebACLList.html">Get-WAFRResourceForWebACLList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-rule-groups.html">aws waf-regional list-rule-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRuleGroupList.html">Get-WAFRRuleGroupList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-rules.html">aws waf-regional list-rules</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRRuleList.html">Get-WAFRRuleList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-size-constraint-sets.html">aws waf-regional list-size-constraint-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSizeConstraintSetList.html">Get-WAFRSizeConstraintSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-sql-injection-match-sets.html">aws waf-regional list-sql-injection-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSqlInjectionMatchSetList.html">Get-WAFRSqlInjectionMatchSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-subscribed-rule-groups.html">aws waf-regional list-subscribed-rule-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSubscribedRuleGroup.html">Get-WAFRSubscribedRuleGroup</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-web-acls.html">aws waf-regional list-web-acls</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRWebACLList.html">Get-WAFRWebACLList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-xss-match-sets.html">aws waf-regional list-xss-match-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRXssMatchSetList.html">Get-WAFRXssMatchSetList</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/put-logging-configuration.html">aws waf-regional put-logging-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFRLoggingConfiguration.html">Write-WAFRLoggingConfiguration</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/put-permission-policy.html">aws waf-regional put-permission-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFRPermissionPolicy.html">Write-WAFRPermissionPolicy</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-byte-match-set.html">aws waf-regional update-byte-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRByteMatchSet.html">Update-WAFRByteMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-geo-match-set.html">aws waf-regional update-geo-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRGeoMatchSet.html">Update-WAFRGeoMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-ip-set.html">aws waf-regional update-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRIPSet.html">Update-WAFRIPSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-rate-based-rule.html">aws waf-regional update-rate-based-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRRateBasedRule.html">Update-WAFRRateBasedRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-regex-match-set.html">aws waf-regional update-regex-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRRegexMatchSet.html">Update-WAFRRegexMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-regex-pattern-set.html">aws waf-regional update-regex-pattern-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRRegexPatternSet.html">Update-WAFRRegexPatternSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-rule.html">aws waf-regional update-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRRule.html">Update-WAFRRule</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-rule-group.html">aws waf-regional update-rule-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRRuleGroup.html">Update-WAFRRuleGroup</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-size-constraint-set.html">aws waf-regional update-size-constraint-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRSizeConstraintSet.html">Update-WAFRSizeConstraintSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-sql-injection-match-set.html">aws waf-regional update-sql-injection-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRSqlInjectionMatchSet.html">Update-WAFRSqlInjectionMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-web-acl.html">aws waf-regional update-web-acl</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRWebACL.html">Update-WAFRWebACL</a></td>
+<td align="center">WAFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-xss-match-set.html">aws waf-regional update-xss-match-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRXssMatchSet.html">Update-WAFRXssMatchSet</a></td>
+<td align="center">WAFR</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+---
+title: kinesis-video-archived-media
+date: 2019-03-10
+---
+
+## kinesis-video-archived-media
+
+### [Amazon Kinesis](https://aws.amazon.com/kinesis/)
+
+* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/index.html)
+
+|AWS CLI|PowerShell Cmdlet|Prefix|
+|----|----|:--:|
+|[aws kinesis-video-archived-media get-hls-streaming-session-url](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/get-hls-streaming-session-url.html)|||
+|[aws kinesis-video-archived-media get-media-for-fragment-list](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/get-media-for-fragment-list.html)|||
+|[aws kinesis-video-archived-media list-fragments](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/list-fragments.html)|||
+

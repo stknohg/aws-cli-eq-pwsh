@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/greengrass/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>greengrass | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="greengrass">greengrass</h2>
+
+<h3 id="aws-iot-greengrass-https-aws-amazon-com-greengrass"><a href="https://aws.amazon.com/greengrass/">AWS IoT Greengrass</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/associate-role-to-group.html">aws greengrass associate-role-to-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGRoleToGroup.html">Add-GGRoleToGroup</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/associate-service-role-to-account.html">aws greengrass associate-service-role-to-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGServiceRoleToAccount.html">Add-GGServiceRoleToAccount</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-connector-definition.html">aws greengrass create-connector-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGConnectorDefinition.html">New-GGConnectorDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-connector-definition-version.html">aws greengrass create-connector-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGConnectorDefinitionVersion.html">New-GGConnectorDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-core-definition.html">aws greengrass create-core-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGCoreDefinition.html">New-GGCoreDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-core-definition-version.html">aws greengrass create-core-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGCoreDefinitionVersion.html">New-GGCoreDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-deployment.html">aws greengrass create-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGDeployment.html">New-GGDeployment</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-device-definition.html">aws greengrass create-device-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGDeviceDefinition.html">New-GGDeviceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-device-definition-version.html">aws greengrass create-device-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGDeviceDefinitionVersion.html">New-GGDeviceDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-function-definition.html">aws greengrass create-function-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGFunctionDefinition.html">New-GGFunctionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-function-definition-version.html">aws greengrass create-function-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGFunctionDefinitionVersion.html">New-GGFunctionDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-group.html">aws greengrass create-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGGroup.html">New-GGGroup</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-group-certificate-authority.html">aws greengrass create-group-certificate-authority</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGGroupCertificateAuthority.html">New-GGGroupCertificateAuthority</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-group-version.html">aws greengrass create-group-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGGroupVersion.html">New-GGGroupVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-logger-definition.html">aws greengrass create-logger-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGLoggerDefinition.html">New-GGLoggerDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-logger-definition-version.html">aws greengrass create-logger-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGLoggerDefinitionVersion.html">New-GGLoggerDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-resource-definition.html">aws greengrass create-resource-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGResourceDefinition.html">New-GGResourceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-resource-definition-version.html">aws greengrass create-resource-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGResourceDefinitionVersion.html">New-GGResourceDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-software-update-job.html">aws greengrass create-software-update-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGSoftwareUpdateJob.html">New-GGSoftwareUpdateJob</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-subscription-definition.html">aws greengrass create-subscription-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGSubscriptionDefinition.html">New-GGSubscriptionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-subscription-definition-version.html">aws greengrass create-subscription-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGSubscriptionDefinitionVersion.html">New-GGSubscriptionDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-connector-definition.html">aws greengrass delete-connector-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGConnectorDefinition.html">Remove-GGConnectorDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-core-definition.html">aws greengrass delete-core-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGCoreDefinition.html">Remove-GGCoreDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-device-definition.html">aws greengrass delete-device-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGDeviceDefinition.html">Remove-GGDeviceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-function-definition.html">aws greengrass delete-function-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGFunctionDefinition.html">Remove-GGFunctionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-group.html">aws greengrass delete-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGGroup.html">Remove-GGGroup</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-logger-definition.html">aws greengrass delete-logger-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGLoggerDefinition.html">Remove-GGLoggerDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-resource-definition.html">aws greengrass delete-resource-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGResourceDefinition.html">Remove-GGResourceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-subscription-definition.html">aws greengrass delete-subscription-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGSubscriptionDefinition.html">Remove-GGSubscriptionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/disassociate-role-from-group.html">aws greengrass disassociate-role-from-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGRoleFromGroup.html">Remove-GGRoleFromGroup</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/disassociate-service-role-from-account.html">aws greengrass disassociate-service-role-from-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGServiceRoleFromAccount.html">Remove-GGServiceRoleFromAccount</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-associated-role.html">aws greengrass get-associated-role</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGAssociatedRole.html">Get-GGAssociatedRole</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-bulk-deployment-status.html">aws greengrass get-bulk-deployment-status</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGBulkDeploymentStatus.html">Get-GGBulkDeploymentStatus</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connectivity-info.html">aws greengrass get-connectivity-info</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectivityInfo.html">Get-GGConnectivityInfo</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connector-definition.html">aws greengrass get-connector-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinition.html">Get-GGConnectorDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connector-definition-version.html">aws greengrass get-connector-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinitionVersion.html">Get-GGConnectorDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-core-definition.html">aws greengrass get-core-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinition.html">Get-GGCoreDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-core-definition-version.html">aws greengrass get-core-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinitionVersion.html">Get-GGCoreDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-deployment-status.html">aws greengrass get-deployment-status</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeploymentStatus.html">Get-GGDeploymentStatus</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-device-definition.html">aws greengrass get-device-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeviceDefinition.html">Get-GGDeviceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-device-definition-version.html">aws greengrass get-device-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeviceDefinitionVersion.html">Get-GGDeviceDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-function-definition.html">aws greengrass get-function-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGFunctionDefinition.html">Get-GGFunctionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-function-definition-version.html">aws greengrass get-function-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGFunctionDefinitionVersion.html">Get-GGFunctionDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-group.html">aws greengrass get-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroup.html">Get-GGGroup</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-group-certificate-authority.html">aws greengrass get-group-certificate-authority</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroupCertificateAuthority.html">Get-GGGroupCertificateAuthority</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-group-certificate-configuration.html">aws greengrass get-group-certificate-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroupCertificateConfiguration.html">Get-GGGroupCertificateConfiguration</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-group-version.html">aws greengrass get-group-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroupVersion.html">Get-GGGroupVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-logger-definition.html">aws greengrass get-logger-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGLoggerDefinition.html">Get-GGLoggerDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-logger-definition-version.html">aws greengrass get-logger-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGLoggerDefinitionVersion.html">Get-GGLoggerDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-resource-definition.html">aws greengrass get-resource-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinition.html">Get-GGResourceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-resource-definition-version.html">aws greengrass get-resource-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinitionVersion.html">Get-GGResourceDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-service-role-for-account.html">aws greengrass get-service-role-for-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGServiceRoleForAccount.html">Get-GGServiceRoleForAccount</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-subscription-definition.html">aws greengrass get-subscription-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinition.html">Get-GGSubscriptionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-subscription-definition-version.html">aws greengrass get-subscription-definition-version</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionVersion.html">Get-GGSubscriptionDefinitionVersion</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-bulk-deployment-detailed-reports.html">aws greengrass list-bulk-deployment-detailed-reports</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGBulkDeploymentDetailedReportList.html">Get-GGBulkDeploymentDetailedReportList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-bulk-deployments.html">aws greengrass list-bulk-deployments</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGBulkDeploymentList.html">Get-GGBulkDeploymentList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-connector-definition-versions.html">aws greengrass list-connector-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinitionVersionList.html">Get-GGConnectorDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-connector-definitions.html">aws greengrass list-connector-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinitionList.html">Get-GGConnectorDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-core-definition-versions.html">aws greengrass list-core-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinitionVersionList.html">Get-GGCoreDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-core-definitions.html">aws greengrass list-core-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinitionList.html">Get-GGCoreDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-deployments.html">aws greengrass list-deployments</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeploymentList.html">Get-GGDeploymentList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-device-definition-versions.html">aws greengrass list-device-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeviceDefinitionVersionList.html">Get-GGDeviceDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-device-definitions.html">aws greengrass list-device-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeviceDefinitionList.html">Get-GGDeviceDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-function-definition-versions.html">aws greengrass list-function-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGFunctionDefinitionVersionList.html">Get-GGFunctionDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-function-definitions.html">aws greengrass list-function-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGFunctionDefinitionList.html">Get-GGFunctionDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-group-certificate-authorities.html">aws greengrass list-group-certificate-authorities</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroupCertificateAuthorityList.html">Get-GGGroupCertificateAuthorityList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-group-versions.html">aws greengrass list-group-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroupVersionList.html">Get-GGGroupVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-groups.html">aws greengrass list-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGGroupList.html">Get-GGGroupList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-logger-definition-versions.html">aws greengrass list-logger-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGLoggerDefinitionVersionList.html">Get-GGLoggerDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-logger-definitions.html">aws greengrass list-logger-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGLoggerDefinitionList.html">Get-GGLoggerDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-resource-definition-versions.html">aws greengrass list-resource-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinitionVersionList.html">Get-GGResourceDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-resource-definitions.html">aws greengrass list-resource-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinitionList.html">Get-GGResourceDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-subscription-definition-versions.html">aws greengrass list-subscription-definition-versions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionVersionList.html">Get-GGSubscriptionDefinitionVersionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-subscription-definitions.html">aws greengrass list-subscription-definitions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionList.html">Get-GGSubscriptionDefinitionList</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/reset-deployments.html">aws greengrass reset-deployments</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GGDeployment.html">Reset-GGDeployment</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/start-bulk-deployment.html">aws greengrass start-bulk-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GGBulkDeployment.html">Start-GGBulkDeployment</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/stop-bulk-deployment.html">aws greengrass stop-bulk-deployment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GGBulkDeployment.html">Stop-GGBulkDeployment</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connectivity-info.html">aws greengrass update-connectivity-info</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectivityInfo.html">Update-GGConnectivityInfo</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connector-definition.html">aws greengrass update-connector-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectorDefinition.html">Update-GGConnectorDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-core-definition.html">aws greengrass update-core-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGCoreDefinition.html">Update-GGCoreDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-device-definition.html">aws greengrass update-device-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGDeviceDefinition.html">Update-GGDeviceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-function-definition.html">aws greengrass update-function-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGFunctionDefinition.html">Update-GGFunctionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-group.html">aws greengrass update-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGGroup.html">Update-GGGroup</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-group-certificate-configuration.html">aws greengrass update-group-certificate-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGGroupCertificateConfiguration.html">Update-GGGroupCertificateConfiguration</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-logger-definition.html">aws greengrass update-logger-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGLoggerDefinition.html">Update-GGLoggerDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-resource-definition.html">aws greengrass update-resource-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGResourceDefinition.html">Update-GGResourceDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-subscription-definition.html">aws greengrass update-subscription-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGSubscriptionDefinition.html">Update-GGSubscriptionDefinition</a></td>
+<td align="center">GG</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

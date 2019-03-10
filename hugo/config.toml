@@ -1,0 +1,34 @@
+publishDir = "../docs"
+baseURL = "https://aws-cli-eq-pwsh.shibata.tech"
+languageCode = "en-us"
+title = "AWS CLI -eq PowerShell"
+theme = "papercss-hugo-theme"
+googleAnalytics = "UA-47904214-1"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[imaging]
+  quality = 99
+
+[params]
+  homeMetaContent = "A Hugo theme made with PaperCSS, the less formal CSS framework."
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "2006-01-02"
+
+[menu]
+  [[menu.nav]]
+    name = "GitHub"
+    url = "https://github.com/stknohg/aws-cli-eq-pwsh/"
+    weight = 1
+  [[menu.nav]]
+    name = "Twitter"
+    url = "https://twitter.com/stknohg"
+    weight = 2
+  [[menu.nav]]
+    name = "Theme"
+    url = "https://themes.gohugo.io/papercss-hugo-theme/"
+    weight = 3

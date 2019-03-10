@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/dms/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>dms | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="dms">dms</h2>
+
+<h3 id="aws-database-migration-service-https-aws-amazon-com-dms"><a href="https://aws.amazon.com/dms/">AWS Database Migration Service</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/add-tags-to-resource.html">aws dms add-tags-to-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DMSResourceTag.html">Set-DMSResourceTag</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/create-endpoint.html">aws dms create-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEndpoint.html">New-DMSEndpoint</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/create-event-subscription.html">aws dms create-event-subscription</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEventSubscription.html">New-DMSEventSubscription</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-instance.html">aws dms create-replication-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationInstance.html">New-DMSReplicationInstance</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-subnet-group.html">aws dms create-replication-subnet-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationSubnetGroup.html">New-DMSReplicationSubnetGroup</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-task.html">aws dms create-replication-task</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationTask.html">New-DMSReplicationTask</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/delete-certificate.html">aws dms delete-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSCertificate.html">Remove-DMSCertificate</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/delete-endpoint.html">aws dms delete-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSEndpoint.html">Remove-DMSEndpoint</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/delete-event-subscription.html">aws dms delete-event-subscription</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSEventSubscription.html">Remove-DMSEventSubscription</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-instance.html">aws dms delete-replication-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationInstance.html">Remove-DMSReplicationInstance</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-subnet-group.html">aws dms delete-replication-subnet-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationSubnetGroup.html">Remove-DMSReplicationSubnetGroup</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-task.html">aws dms delete-replication-task</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationTask.html">Remove-DMSReplicationTask</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-account-attributes.html">aws dms describe-account-attributes</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSAccountAttribute.html">Get-DMSAccountAttribute</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-certificates.html">aws dms describe-certificates</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSCertificate.html">Get-DMSCertificate</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-connections.html">aws dms describe-connections</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSConnection.html">Get-DMSConnection</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoint-types.html">aws dms describe-endpoint-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpointType.html">Get-DMSEndpointType</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoints.html">aws dms describe-endpoints</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpoint.html">Get-DMSEndpoint</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-event-categories.html">aws dms describe-event-categories</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEventCategory.html">Get-DMSEventCategory</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-event-subscriptions.html">aws dms describe-event-subscriptions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEventSubscription.html">Get-DMSEventSubscription</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-events.html">aws dms describe-events</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEvent.html">Get-DMSEvent</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-orderable-replication-instances.html">aws dms describe-orderable-replication-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSOrderableReplicationInstance.html">Get-DMSOrderableReplicationInstance</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-refresh-schemas-status.html">aws dms describe-refresh-schemas-status</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSRefreshSchemasStatus.html">Get-DMSRefreshSchemasStatus</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instance-task-logs.html">aws dms describe-replication-instance-task-logs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstanceTaskLog.html">Get-DMSReplicationInstanceTaskLog</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instances.html">aws dms describe-replication-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstance.html">Get-DMSReplicationInstance</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-subnet-groups.html">aws dms describe-replication-subnet-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationSubnetGroup.html">Get-DMSReplicationSubnetGroup</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-task-assessment-results.html">aws dms describe-replication-task-assessment-results</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationTaskAssessmentResult.html">Get-DMSReplicationTaskAssessmentResult</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-tasks.html">aws dms describe-replication-tasks</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationTask.html">Get-DMSReplicationTask</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-schemas.html">aws dms describe-schemas</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSSchema.html">Get-DMSSchema</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/describe-table-statistics.html">aws dms describe-table-statistics</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSTableStatistic.html">Get-DMSTableStatistic</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/import-certificate.html">aws dms import-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Import-DMSCertificate.html">Import-DMSCertificate</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/list-tags-for-resource.html">aws dms list-tags-for-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSResourceTag.html">Get-DMSResourceTag</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/modify-endpoint.html">aws dms modify-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSEndpoint.html">Edit-DMSEndpoint</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/modify-event-subscription.html">aws dms modify-event-subscription</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSEventSubscription.html">Edit-DMSEventSubscription</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/modify-replication-instance.html">aws dms modify-replication-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSReplicationInstance.html">Edit-DMSReplicationInstance</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/modify-replication-subnet-group.html">aws dms modify-replication-subnet-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSReplicationSubnetGroup.html">Edit-DMSReplicationSubnetGroup</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/modify-replication-task.html">aws dms modify-replication-task</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSReplicationTask.html">Edit-DMSReplicationTask</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/reboot-replication-instance.html">aws dms reboot-replication-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-DMSReplicationInstance.html">Restart-DMSReplicationInstance</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/refresh-schemas.html">aws dms refresh-schemas</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-DMSSchemaRefresh.html">Invoke-DMSSchemaRefresh</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/reload-tables.html">aws dms reload-tables</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DMSTable.html">Restore-DMSTable</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/remove-tags-from-resource.html">aws dms remove-tags-from-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSResourceTag.html">Remove-DMSResourceTag</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task.html">aws dms start-replication-task</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTask.html">Start-DMSReplicationTask</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task-assessment.html">aws dms start-replication-task-assessment</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTaskAssessment.html">Start-DMSReplicationTaskAssessment</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/stop-replication-task.html">aws dms stop-replication-task</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DMSReplicationTask.html">Stop-DMSReplicationTask</a></td>
+<td align="center">DMS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/dms/test-connection.html">aws dms test-connection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Test-DMSConnection.html">Test-DMSConnection</a></td>
+<td align="center">DMS</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

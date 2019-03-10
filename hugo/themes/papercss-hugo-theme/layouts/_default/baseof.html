@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+  {{ partial "head.html" . }}
+  <body>
+    <div class="container paper">
+      {{ partial "nav.html" . }}
+      <main>
+        {{ block "main" . }}{{ end }}
+      </main>
+      {{ partial "google-analytics-async.html" . }}
+  </div>
+  </body>
+</html>

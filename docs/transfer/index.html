@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/transfer/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>transfer | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="transfer">transfer</h2>
+
+<h3 id="aws-transfer-for-sftp-https-aws-amazon-com-sftp"><a href="https://aws.amazon.com/sftp/">AWS Transfer for SFTP</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/create-server.html">aws transfer create-server</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRServer.html">New-TFRServer</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/create-user.html">aws transfer create-user</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRUser.html">New-TFRUser</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-server.html">aws transfer delete-server</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRServer.html">Remove-TFRServer</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-ssh-public-key.html">aws transfer delete-ssh-public-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRSshPublicKey.html">Remove-TFRSshPublicKey</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-user.html">aws transfer delete-user</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRUser.html">Remove-TFRUser</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-server.html">aws transfer describe-server</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServer.html">Get-TFRServer</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-user.html">aws transfer describe-user</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUser.html">Get-TFRUser</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/import-ssh-public-key.html">aws transfer import-ssh-public-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRSshPublicKey.html">Import-TFRSshPublicKey</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/list-servers.html">aws transfer list-servers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServerList.html">Get-TFRServerList</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/list-tags-for-resource.html">aws transfer list-tags-for-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRResourceTagList.html">Get-TFRResourceTagList</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/list-users.html">aws transfer list-users</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUserList.html">Get-TFRUserList</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/start-server.html">aws transfer start-server</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRServer.html">Start-TFRServer</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/stop-server.html">aws transfer stop-server</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-TFRServer.html">Stop-TFRServer</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/tag-resource.html">aws transfer tag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TFRResourceTag.html">Add-TFRResourceTag</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/test-identity-provider.html">aws transfer test-identity-provider</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Test-TFRIdentityProvider.html">Test-TFRIdentityProvider</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/untag-resource.html">aws transfer untag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRResourceTag.html">Remove-TFRResourceTag</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/update-server.html">aws transfer update-server</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRServer.html">Update-TFRServer</a></td>
+<td align="center">TFR</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/transfer/update-user.html">aws transfer update-user</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRUser.html">Update-TFRUser</a></td>
+<td align="center">TFR</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

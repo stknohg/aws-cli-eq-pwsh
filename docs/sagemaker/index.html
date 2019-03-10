@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/sagemaker/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>sagemaker | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="sagemaker">sagemaker</h2>
+
+<h3 id="amazon-sagemaker-https-aws-amazon-com-sagemaker"><a href="https://aws.amazon.com/sagemaker/">Amazon SageMaker</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/add-tags.html">aws sagemaker add-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMResourceTag.html">Add-SMResourceTag</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-algorithm.html">aws sagemaker create-algorithm</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAlgorithm.html">New-SMAlgorithm</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-code-repository.html">aws sagemaker create-code-repository</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMCodeRepository.html">New-SMCodeRepository</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-compilation-job.html">aws sagemaker create-compilation-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMCompilationJob.html">New-SMCompilationJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-endpoint.html">aws sagemaker create-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMEndpoint.html">New-SMEndpoint</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-endpoint-config.html">aws sagemaker create-endpoint-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMEndpointConfig.html">New-SMEndpointConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-hyper-parameter-tuning-job.html">aws sagemaker create-hyper-parameter-tuning-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMHyperParameterTuningJob.html">New-SMHyperParameterTuningJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-labeling-job.html">aws sagemaker create-labeling-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMLabelingJob.html">New-SMLabelingJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-model.html">aws sagemaker create-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMModel.html">New-SMModel</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-model-package.html">aws sagemaker create-model-package</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMModelPackage.html">New-SMModelPackage</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-notebook-instance.html">aws sagemaker create-notebook-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMNotebookInstance.html">New-SMNotebookInstance</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-notebook-instance-lifecycle-config.html">aws sagemaker create-notebook-instance-lifecycle-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMNotebookInstanceLifecycleConfig.html">New-SMNotebookInstanceLifecycleConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-presigned-notebook-instance-url.html">aws sagemaker create-presigned-notebook-instance-url</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMPresignedNotebookInstanceUrl.html">New-SMPresignedNotebookInstanceUrl</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-training-job.html">aws sagemaker create-training-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTrainingJob.html">New-SMTrainingJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-transform-job.html">aws sagemaker create-transform-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTransformJob.html">New-SMTransformJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-workteam.html">aws sagemaker create-workteam</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMWorkteam.html">New-SMWorkteam</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-algorithm.html">aws sagemaker delete-algorithm</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMAlgorithm.html">Remove-SMAlgorithm</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-code-repository.html">aws sagemaker delete-code-repository</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMCodeRepository.html">Remove-SMCodeRepository</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-endpoint.html">aws sagemaker delete-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMEndpoint.html">Remove-SMEndpoint</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-endpoint-config.html">aws sagemaker delete-endpoint-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMEndpointConfig.html">Remove-SMEndpointConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-model.html">aws sagemaker delete-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMModel.html">Remove-SMModel</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-model-package.html">aws sagemaker delete-model-package</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMModelPackage.html">Remove-SMModelPackage</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-notebook-instance.html">aws sagemaker delete-notebook-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMNotebookInstance.html">Remove-SMNotebookInstance</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-notebook-instance-lifecycle-config.html">aws sagemaker delete-notebook-instance-lifecycle-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMNotebookInstanceLifecycleConfig.html">Remove-SMNotebookInstanceLifecycleConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-tags.html">aws sagemaker delete-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMResourceTag.html">Remove-SMResourceTag</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-workteam.html">aws sagemaker delete-workteam</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMWorkteam.html">Remove-SMWorkteam</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-algorithm.html">aws sagemaker describe-algorithm</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAlgorithm.html">Get-SMAlgorithm</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-code-repository.html">aws sagemaker describe-code-repository</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMCodeRepository.html">Get-SMCodeRepository</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-compilation-job.html">aws sagemaker describe-compilation-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMCompilationJob.html">Get-SMCompilationJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-endpoint.html">aws sagemaker describe-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMEndpoint.html">Get-SMEndpoint</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-endpoint-config.html">aws sagemaker describe-endpoint-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMEndpointConfig.html">Get-SMEndpointConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-hyper-parameter-tuning-job.html">aws sagemaker describe-hyper-parameter-tuning-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMHyperParameterTuningJob.html">Get-SMHyperParameterTuningJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-labeling-job.html">aws sagemaker describe-labeling-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLabelingJob.html">Get-SMLabelingJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-model.html">aws sagemaker describe-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMModel.html">Get-SMModel</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-model-package.html">aws sagemaker describe-model-package</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMModelPackage.html">Get-SMModelPackage</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-notebook-instance.html">aws sagemaker describe-notebook-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMNotebookInstance.html">Get-SMNotebookInstance</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-notebook-instance-lifecycle-config.html">aws sagemaker describe-notebook-instance-lifecycle-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMNotebookInstanceLifecycleConfig.html">Get-SMNotebookInstanceLifecycleConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-subscribed-workteam.html">aws sagemaker describe-subscribed-workteam</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSubscribedWorkteam.html">Get-SMSubscribedWorkteam</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-training-job.html">aws sagemaker describe-training-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingJob.html">Get-SMTrainingJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-transform-job.html">aws sagemaker describe-transform-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTransformJob.html">Get-SMTransformJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-workteam.html">aws sagemaker describe-workteam</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMWorkteam.html">Get-SMWorkteam</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/get-search-suggestions.html">aws sagemaker get-search-suggestions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSearchSuggestion.html">Get-SMSearchSuggestion</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-algorithms.html">aws sagemaker list-algorithms</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAlgorithmList.html">Get-SMAlgorithmList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-code-repositories.html">aws sagemaker list-code-repositories</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMCodeRepositoryList.html">Get-SMCodeRepositoryList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-compilation-jobs.html">aws sagemaker list-compilation-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMCompilationJobList.html">Get-SMCompilationJobList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-endpoint-configs.html">aws sagemaker list-endpoint-configs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMConfigList.html">Get-SMConfigList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-endpoints.html">aws sagemaker list-endpoints</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMEndpointList.html">Get-SMEndpointList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-hyper-parameter-tuning-jobs.html">aws sagemaker list-hyper-parameter-tuning-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMHyperParameterTuningJobList.html">Get-SMHyperParameterTuningJobList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-labeling-jobs.html">aws sagemaker list-labeling-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLabelingJobList.html">Get-SMLabelingJobList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-labeling-jobs-for-workteam.html">aws sagemaker list-labeling-jobs-for-workteam</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLabelingJobListForWorkteam.html">Get-SMLabelingJobListForWorkteam</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-model-packages.html">aws sagemaker list-model-packages</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMModelPackageList.html">Get-SMModelPackageList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-models.html">aws sagemaker list-models</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMModelList.html">Get-SMModelList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-notebook-instance-lifecycle-configs.html">aws sagemaker list-notebook-instance-lifecycle-configs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMNotebookInstanceLifecycleConfigList.html">Get-SMNotebookInstanceLifecycleConfigList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-notebook-instances.html">aws sagemaker list-notebook-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMNotebookInstanceList.html">Get-SMNotebookInstanceList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-subscribed-workteams.html">aws sagemaker list-subscribed-workteams</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSubscribedWorkteamList.html">Get-SMSubscribedWorkteamList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-tags.html">aws sagemaker list-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMResourceTagList.html">Get-SMResourceTagList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-training-jobs.html">aws sagemaker list-training-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingJobList.html">Get-SMTrainingJobList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-training-jobs-for-hyper-parameter-tuning-job.html">aws sagemaker list-training-jobs-for-hyper-parameter-tuning-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingJobsForHyperParameterTuningJobList.html">Get-SMTrainingJobsForHyperParameterTuningJobList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-transform-jobs.html">aws sagemaker list-transform-jobs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTransformJobList.html">Get-SMTransformJobList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-workteams.html">aws sagemaker list-workteams</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMWorkteamList.html">Get-SMWorkteamList</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/render-ui-template.html">aws sagemaker render-ui-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMUiTemplateRendering.html">Invoke-SMUiTemplateRendering</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/search.html">aws sagemaker search</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Search-SMResource.html">Search-SMResource</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/start-notebook-instance.html">aws sagemaker start-notebook-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMNotebookInstance.html">Start-SMNotebookInstance</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/stop-compilation-job.html">aws sagemaker stop-compilation-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMCompilationJob.html">Stop-SMCompilationJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/stop-hyper-parameter-tuning-job.html">aws sagemaker stop-hyper-parameter-tuning-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMHyperParameterTuningJob.html">Stop-SMHyperParameterTuningJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/stop-labeling-job.html">aws sagemaker stop-labeling-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMLabelingJob.html">Stop-SMLabelingJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/stop-notebook-instance.html">aws sagemaker stop-notebook-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMNotebookInstance.html">Stop-SMNotebookInstance</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/stop-training-job.html">aws sagemaker stop-training-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMTrainingJob.html">Stop-SMTrainingJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/stop-transform-job.html">aws sagemaker stop-transform-job</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMTransformJob.html">Stop-SMTransformJob</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-code-repository.html">aws sagemaker update-code-repository</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMCodeRepository.html">Update-SMCodeRepository</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-endpoint.html">aws sagemaker update-endpoint</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMEndpoint.html">Update-SMEndpoint</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-endpoint-weights-and-capacities.html">aws sagemaker update-endpoint-weights-and-capacities</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMEndpointWeightAndCapacity.html">Update-SMEndpointWeightAndCapacity</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-notebook-instance.html">aws sagemaker update-notebook-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMNotebookInstance.html">Update-SMNotebookInstance</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-notebook-instance-lifecycle-config.html">aws sagemaker update-notebook-instance-lifecycle-config</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMNotebookInstanceLifecycleConfig.html">Update-SMNotebookInstanceLifecycleConfig</a></td>
+<td align="center">SM</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-workteam.html">aws sagemaker update-workteam</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMWorkteam.html">Update-SMWorkteam</a></td>
+<td align="center">SM</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

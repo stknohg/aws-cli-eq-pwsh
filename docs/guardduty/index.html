@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/guardduty/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>guardduty | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="guardduty">guardduty</h2>
+
+<h3 id="amazon-guard-duty-https-aws-amazon-com-guardduty"><a href="https://aws.amazon.com/guardduty/">Amazon Guard​Duty</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/accept-invitation.html">aws guardduty accept-invitation</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-GDInvitation.html">Confirm-GDInvitation</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/archive-findings.html">aws guardduty archive-findings</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Backup-GDFinding.html">Backup-GDFinding</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-detector.html">aws guardduty create-detector</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDDetector.html">New-GDDetector</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-filter.html">aws guardduty create-filter</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDFilter.html">New-GDFilter</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-ip-set.html">aws guardduty create-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDIPSet.html">New-GDIPSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-members.html">aws guardduty create-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDMember.html">New-GDMember</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-sample-findings.html">aws guardduty create-sample-findings</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDSampleFinding.html">New-GDSampleFinding</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-threat-intel-set.html">aws guardduty create-threat-intel-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDThreatIntelSet.html">New-GDThreatIntelSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/decline-invitations.html">aws guardduty decline-invitations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-GDInvitation.html">Deny-GDInvitation</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-detector.html">aws guardduty delete-detector</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDDetector.html">Remove-GDDetector</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-filter.html">aws guardduty delete-filter</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDFilter.html">Remove-GDFilter</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-ip-set.html">aws guardduty delete-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDIPSet.html">Remove-GDIPSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-invitations.html">aws guardduty delete-invitations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDInvitation.html">Remove-GDInvitation</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-members.html">aws guardduty delete-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDMember.html">Remove-GDMember</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-threat-intel-set.html">aws guardduty delete-threat-intel-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDThreatIntelSet.html">Remove-GDThreatIntelSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-from-master-account.html">aws guardduty disassociate-from-master-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDFromMasterAccount.html">Unregister-GDFromMasterAccount</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-members.html">aws guardduty disassociate-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDMember.html">Unregister-GDMember</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-detector.html">aws guardduty get-detector</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetector.html">Get-GDDetector</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-filter.html">aws guardduty get-filter</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilter.html">Get-GDFilter</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-findings.html">aws guardduty get-findings</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFinding.html">Get-GDFinding</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-findings-statistics.html">aws guardduty get-findings-statistics</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFindingStatistic.html">Get-GDFindingStatistic</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-ip-set.html">aws guardduty get-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSet.html">Get-GDIPSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-invitations-count.html">aws guardduty get-invitations-count</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationCount.html">Get-GDInvitationCount</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-master-account.html">aws guardduty get-master-account</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMasterAccount.html">Get-GDMasterAccount</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-members.html">aws guardduty get-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMember.html">Get-GDMember</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-threat-intel-set.html">aws guardduty get-threat-intel-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSet.html">Get-GDThreatIntelSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/invite-members.html">aws guardduty invite-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Send-GDMemberInvitation.html">Send-GDMemberInvitation</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-detectors.html">aws guardduty list-detectors</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetectorList.html">Get-GDDetectorList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-filters.html">aws guardduty list-filters</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilterList.html">Get-GDFilterList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-findings.html">aws guardduty list-findings</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFindingList.html">Get-GDFindingList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-ip-sets.html">aws guardduty list-ip-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html">Get-GDIPSetList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-invitations.html">aws guardduty list-invitations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html">Get-GDInvitationList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-members.html">aws guardduty list-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberList.html">Get-GDMemberList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-threat-intel-sets.html">aws guardduty list-threat-intel-sets</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSetList.html">Get-GDThreatIntelSetList</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/start-monitoring-members.html">aws guardduty start-monitoring-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMonitoringMember.html">Start-GDMonitoringMember</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/stop-monitoring-members.html">aws guardduty stop-monitoring-members</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GDMonitoringMember.html">Stop-GDMonitoringMember</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/unarchive-findings.html">aws guardduty unarchive-findings</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-GDFinding.html">Restore-GDFinding</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-detector.html">aws guardduty update-detector</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDDetector.html">Update-GDDetector</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-filter.html">aws guardduty update-filter</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFilter.html">Update-GDFilter</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-findings-feedback.html">aws guardduty update-findings-feedback</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFindingFeedback.html">Update-GDFindingFeedback</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-ip-set.html">aws guardduty update-ip-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDIPSet.html">Update-GDIPSet</a></td>
+<td align="center">GD</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-threat-intel-set.html">aws guardduty update-threat-intel-set</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDThreatIntelSet.html">Update-GDThreatIntelSet</a></td>
+<td align="center">GD</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

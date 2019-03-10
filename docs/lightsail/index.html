@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/lightsail/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>lightsail | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="lightsail">lightsail</h2>
+
+<h3 id="amazon-lightsail-https-aws-amazon-com-lightsail"><a href="https://aws.amazon.com/lightsail/">Amazon Lightsail</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/allocate-static-ip.html">aws lightsail allocate-static-ip</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSStaticIp.html">New-LSStaticIp</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/attach-disk.html">aws lightsail attach-disk</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSDisk.html">Add-LSDisk</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/attach-instances-to-load-balancer.html">aws lightsail attach-instances-to-load-balancer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSInstancesToLoadBalancer.html">Add-LSInstancesToLoadBalancer</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/attach-load-balancer-tls-certificate.html">aws lightsail attach-load-balancer-tls-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSLoadBalancerTlsCertificate.html">Add-LSLoadBalancerTlsCertificate</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/attach-static-ip.html">aws lightsail attach-static-ip</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-LSStaticIp.html">Mount-LSStaticIp</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/close-instance-public-ports.html">aws lightsail close-instance-public-ports</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Close-LSInstancePublicPort.html">Close-LSInstancePublicPort</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/copy-snapshot.html">aws lightsail copy-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-LSSnapshot.html">Copy-LSSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-cloud-formation-stack.html">aws lightsail create-cloud-formation-stack</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSCloudFormationStack.html">New-LSCloudFormationStack</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-disk.html">aws lightsail create-disk</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDisk.html">New-LSDisk</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-disk-from-snapshot.html">aws lightsail create-disk-from-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDiskFromSnapshot.html">New-LSDiskFromSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-disk-snapshot.html">aws lightsail create-disk-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDiskSnapshot.html">New-LSDiskSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-domain.html">aws lightsail create-domain</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDomain.html">New-LSDomain</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-domain-entry.html">aws lightsail create-domain-entry</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDomainEntry.html">New-LSDomainEntry</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-instance-snapshot.html">aws lightsail create-instance-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSInstanceSnapshot.html">New-LSInstanceSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-instances.html">aws lightsail create-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSInstance.html">New-LSInstance</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-instances-from-snapshot.html">aws lightsail create-instances-from-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSInstancesFromSnapshot.html">New-LSInstancesFromSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-key-pair.html">aws lightsail create-key-pair</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSKeyPair.html">New-LSKeyPair</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-load-balancer.html">aws lightsail create-load-balancer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSLoadBalancer.html">New-LSLoadBalancer</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-load-balancer-tls-certificate.html">aws lightsail create-load-balancer-tls-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSLoadBalancerTlsCertificate.html">New-LSLoadBalancerTlsCertificate</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database.html">aws lightsail create-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabase.html">New-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database-from-snapshot.html">aws lightsail create-relational-database-from-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabaseFromSnapshot.html">New-LSRelationalDatabaseFromSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database-snapshot.html">aws lightsail create-relational-database-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabaseSnapshot.html">New-LSRelationalDatabaseSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-disk.html">aws lightsail delete-disk</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDisk.html">Remove-LSDisk</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-disk-snapshot.html">aws lightsail delete-disk-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDiskSnapshot.html">Remove-LSDiskSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-domain.html">aws lightsail delete-domain</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDomain.html">Remove-LSDomain</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-domain-entry.html">aws lightsail delete-domain-entry</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDomainEntry.html">Remove-LSDomainEntry</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-instance.html">aws lightsail delete-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSInstance.html">Remove-LSInstance</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-instance-snapshot.html">aws lightsail delete-instance-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSInstanceSnapshot.html">Remove-LSInstanceSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-key-pair.html">aws lightsail delete-key-pair</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSKeyPair.html">Remove-LSKeyPair</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-load-balancer.html">aws lightsail delete-load-balancer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSLoadBalancer.html">Remove-LSLoadBalancer</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-load-balancer-tls-certificate.html">aws lightsail delete-load-balancer-tls-certificate</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSLoadBalancerTlsCertificate.html">Remove-LSLoadBalancerTlsCertificate</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-relational-database.html">aws lightsail delete-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSRelationalDatabase.html">Remove-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-relational-database-snapshot.html">aws lightsail delete-relational-database-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSRelationalDatabaseSnapshot.html">Remove-LSRelationalDatabaseSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/detach-disk.html">aws lightsail detach-disk</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-LSDisk.html">Dismount-LSDisk</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/detach-instances-from-load-balancer.html">aws lightsail detach-instances-from-load-balancer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-LSInstancesFromLoadBalancer.html">Dismount-LSInstancesFromLoadBalancer</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/detach-static-ip.html">aws lightsail detach-static-ip</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-LSStaticIp.html">Dismount-LSStaticIp</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/download-default-key-pair.html">aws lightsail download-default-key-pair</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Read-LSDefaultKeyPair.html">Read-LSDefaultKeyPair</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/export-snapshot.html">aws lightsail export-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Export-LSSnapshot.html">Export-LSSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-active-names.html">aws lightsail get-active-names</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSActiveNameList.html">Get-LSActiveNameList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-blueprints.html">aws lightsail get-blueprints</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSBlueprintList.html">Get-LSBlueprintList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-bundles.html">aws lightsail get-bundles</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSBundleList.html">Get-LSBundleList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-cloud-formation-stack-records.html">aws lightsail get-cloud-formation-stack-records</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCloudFormationStackRecord.html">Get-LSCloudFormationStackRecord</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk.html">aws lightsail get-disk</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDisk.html">Get-LSDisk</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk-snapshot.html">aws lightsail get-disk-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskSnapshot.html">Get-LSDiskSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk-snapshots.html">aws lightsail get-disk-snapshots</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskSnapshotList.html">Get-LSDiskSnapshotList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disks.html">aws lightsail get-disks</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskList.html">Get-LSDiskList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-domain.html">aws lightsail get-domain</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDomain.html">Get-LSDomain</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-domains.html">aws lightsail get-domains</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDomainList.html">Get-LSDomainList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-export-snapshot-records.html">aws lightsail get-export-snapshot-records</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSExportSnapshotRecord.html">Get-LSExportSnapshotRecord</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance.html">aws lightsail get-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstance.html">Get-LSInstance</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance-access-details.html">aws lightsail get-instance-access-details</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstanceAccessDetail.html">Get-LSInstanceAccessDetail</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance-metric-data.html">aws lightsail get-instance-metric-data</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstanceMetricData.html">Get-LSInstanceMetricData</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance-port-states.html">aws lightsail get-instance-port-states</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstancePortStateList.html">Get-LSInstancePortStateList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance-snapshot.html">aws lightsail get-instance-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstanceSnapshot.html">Get-LSInstanceSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance-snapshots.html">aws lightsail get-instance-snapshots</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstanceSnapshotList.html">Get-LSInstanceSnapshotList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instance-state.html">aws lightsail get-instance-state</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstanceState.html">Get-LSInstanceState</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-instances.html">aws lightsail get-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSInstanceList.html">Get-LSInstanceList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-key-pair.html">aws lightsail get-key-pair</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSKeyPairInfo.html">Get-LSKeyPairInfo</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-key-pairs.html">aws lightsail get-key-pairs</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSKeypairList.html">Get-LSKeypairList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer.html">aws lightsail get-load-balancer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancer.html">Get-LSLoadBalancer</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer-metric-data.html">aws lightsail get-load-balancer-metric-data</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerMetricData.html">Get-LSLoadBalancerMetricData</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer-tls-certificates.html">aws lightsail get-load-balancer-tls-certificates</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerTlsCertificate.html">Get-LSLoadBalancerTlsCertificate</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancers.html">aws lightsail get-load-balancers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerList.html">Get-LSLoadBalancerList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-operation.html">aws lightsail get-operation</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperation.html">Get-LSOperation</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-operations.html">aws lightsail get-operations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperationList.html">Get-LSOperationList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-operations-for-resource.html">aws lightsail get-operations-for-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperationListForResource.html">Get-LSOperationListForResource</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-regions.html">aws lightsail get-regions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRegionList.html">Get-LSRegionList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database.html">aws lightsail get-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabase.html">Get-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-blueprints.html">aws lightsail get-relational-database-blueprints</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseBlueprint.html">Get-LSRelationalDatabaseBlueprint</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-bundles.html">aws lightsail get-relational-database-bundles</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseBundle.html">Get-LSRelationalDatabaseBundle</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-events.html">aws lightsail get-relational-database-events</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseEvent.html">Get-LSRelationalDatabaseEvent</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-log-events.html">aws lightsail get-relational-database-log-events</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseLogEvent.html">Get-LSRelationalDatabaseLogEvent</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-log-streams.html">aws lightsail get-relational-database-log-streams</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseLogStream.html">Get-LSRelationalDatabaseLogStream</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-master-user-password.html">aws lightsail get-relational-database-master-user-password</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseMasterUserPassword.html">Get-LSRelationalDatabaseMasterUserPassword</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-metric-data.html">aws lightsail get-relational-database-metric-data</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseMetricData.html">Get-LSRelationalDatabaseMetricData</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-parameters.html">aws lightsail get-relational-database-parameters</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseParameter.html">Get-LSRelationalDatabaseParameter</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-snapshot.html">aws lightsail get-relational-database-snapshot</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseSnapshot.html">Get-LSRelationalDatabaseSnapshot</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-database-snapshots.html">aws lightsail get-relational-database-snapshots</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseSnapshotList.html">Get-LSRelationalDatabaseSnapshotList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-relational-databases.html">aws lightsail get-relational-databases</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseList.html">Get-LSRelationalDatabaseList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-static-ip.html">aws lightsail get-static-ip</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSStaticIp.html">Get-LSStaticIp</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-static-ips.html">aws lightsail get-static-ips</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSStaticIpList.html">Get-LSStaticIpList</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/import-key-pair.html">aws lightsail import-key-pair</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Import-LSKeyPair.html">Import-LSKeyPair</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/is-vpc-peered.html">aws lightsail is-vpc-peered</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Test-LSVpcPeered.html">Test-LSVpcPeered</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/open-instance-public-ports.html">aws lightsail open-instance-public-ports</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Open-LSInstancePublicPort.html">Open-LSInstancePublicPort</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/peer-vpc.html">aws lightsail peer-vpc</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSPeerVpc.html">Add-LSPeerVpc</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/put-instance-public-ports.html">aws lightsail put-instance-public-ports</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSInstancePublicPort.html">Set-LSInstancePublicPort</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/reboot-instance.html">aws lightsail reboot-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-LSInstance.html">Restart-LSInstance</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/reboot-relational-database.html">aws lightsail reboot-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-LSRelationalDatabase.html">Restart-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/release-static-ip.html">aws lightsail release-static-ip</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSStaticIp.html">Remove-LSStaticIp</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-instance.html">aws lightsail start-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSInstance.html">Start-LSInstance</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-relational-database.html">aws lightsail start-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSRelationalDatabase.html">Start-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-instance.html">aws lightsail stop-instance</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSInstance.html">Stop-LSInstance</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-relational-database.html">aws lightsail stop-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSRelationalDatabase.html">Stop-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/tag-resource.html">aws lightsail tag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSResourceTag.html">Add-LSResourceTag</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/unpeer-vpc.html">aws lightsail unpeer-vpc</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSPeerVpc.html">Remove-LSPeerVpc</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/untag-resource.html">aws lightsail untag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSResourceTag.html">Remove-LSResourceTag</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-domain-entry.html">aws lightsail update-domain-entry</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDomainEntry.html">Update-LSDomainEntry</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-load-balancer-attribute.html">aws lightsail update-load-balancer-attribute</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSLoadBalancerAttribute.html">Update-LSLoadBalancerAttribute</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-relational-database.html">aws lightsail update-relational-database</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSRelationalDatabase.html">Update-LSRelationalDatabase</a></td>
+<td align="center">LS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-relational-database-parameters.html">aws lightsail update-relational-database-parameters</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSRelationalDatabaseParameter.html">Update-LSRelationalDatabaseParameter</a></td>
+<td align="center">LS</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

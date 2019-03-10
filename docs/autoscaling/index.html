@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.54.0" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/autoscaling/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>autoscaling | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="/">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://twitter.com/stknohg">Twitter</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2019-03-10</p>
+
+
+
+<h2 id="autoscaling">autoscaling</h2>
+
+<h3 id="aws-auto-scaling-https-aws-amazon-com-autoscaling"><a href="https://aws.amazon.com/autoscaling/">AWS Auto Scaling</a></h3>
+
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/index.html">CLI Reference</a></li>
+</ul>
+
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+<th align="center">Prefix</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-instances.html">aws autoscaling attach-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-ASInstance.html">Mount-ASInstance</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-load-balancer-target-groups.html">aws autoscaling attach-load-balancer-target-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASLoadBalancerTargetGroup.html">Add-ASLoadBalancerTargetGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-load-balancers.html">aws autoscaling attach-load-balancers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASLoadBalancer.html">Add-ASLoadBalancer</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/batch-delete-scheduled-action.html">aws autoscaling batch-delete-scheduled-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASScheduledActionBatch.html">Remove-ASScheduledActionBatch</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/batch-put-scheduled-update-group-action.html">aws autoscaling batch-put-scheduled-update-group-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASScheduledUpdateGroupActionBatch.html">Set-ASScheduledUpdateGroupActionBatch</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/complete-lifecycle-action.html">aws autoscaling complete-lifecycle-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-ASLifecycleAction.html">Complete-ASLifecycleAction</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-auto-scaling-group.html">aws autoscaling create-auto-scaling-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASAutoScalingGroup.html">New-ASAutoScalingGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-launch-configuration.html">aws autoscaling create-launch-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASLaunchConfiguration.html">New-ASLaunchConfiguration</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-or-update-tags.html">aws autoscaling create-or-update-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASTag.html">Set-ASTag</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-auto-scaling-group.html">aws autoscaling delete-auto-scaling-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASAutoScalingGroup.html">Remove-ASAutoScalingGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-launch-configuration.html">aws autoscaling delete-launch-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASLaunchConfiguration.html">Remove-ASLaunchConfiguration</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-lifecycle-hook.html">aws autoscaling delete-lifecycle-hook</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASLifecycleHook.html">Remove-ASLifecycleHook</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-notification-configuration.html">aws autoscaling delete-notification-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASNotificationConfiguration.html">Remove-ASNotificationConfiguration</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-policy.html">aws autoscaling delete-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASPolicy.html">Remove-ASPolicy</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-scheduled-action.html">aws autoscaling delete-scheduled-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASScheduledAction.html">Remove-ASScheduledAction</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-tags.html">aws autoscaling delete-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASTag.html">Remove-ASTag</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-account-limits.html">aws autoscaling describe-account-limits</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAccountLimit.html">Get-ASAccountLimit</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-adjustment-types.html">aws autoscaling describe-adjustment-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAdjustmentType.html">Get-ASAdjustmentType</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-groups.html">aws autoscaling describe-auto-scaling-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingGroup.html">Get-ASAutoScalingGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-instances.html">aws autoscaling describe-auto-scaling-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingInstance.html">Get-ASAutoScalingInstance</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-notification-types.html">aws autoscaling describe-auto-scaling-notification-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingNotificationType.html">Get-ASAutoScalingNotificationType</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-launch-configurations.html">aws autoscaling describe-launch-configurations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLaunchConfiguration.html">Get-ASLaunchConfiguration</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-lifecycle-hook-types.html">aws autoscaling describe-lifecycle-hook-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLifecycleHookType.html">Get-ASLifecycleHookType</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-lifecycle-hooks.html">aws autoscaling describe-lifecycle-hooks</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLifecycleHook.html">Get-ASLifecycleHook</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-load-balancer-target-groups.html">aws autoscaling describe-load-balancer-target-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLoadBalancerTargetGroup.html">Get-ASLoadBalancerTargetGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-load-balancers.html">aws autoscaling describe-load-balancers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLoadBalancer.html">Get-ASLoadBalancer</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-metric-collection-types.html">aws autoscaling describe-metric-collection-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASMetricCollectionType.html">Get-ASMetricCollectionType</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-notification-configurations.html">aws autoscaling describe-notification-configurations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASNotificationConfiguration.html">Get-ASNotificationConfiguration</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-policies.html">aws autoscaling describe-policies</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASPolicy.html">Get-ASPolicy</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-scaling-activities.html">aws autoscaling describe-scaling-activities</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASScalingActivity.html">Get-ASScalingActivity</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-scaling-process-types.html">aws autoscaling describe-scaling-process-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASScalingProcessType.html">Get-ASScalingProcessType</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-scheduled-actions.html">aws autoscaling describe-scheduled-actions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASScheduledAction.html">Get-ASScheduledAction</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-tags.html">aws autoscaling describe-tags</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTag.html">Get-ASTag</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-termination-policy-types.html">aws autoscaling describe-termination-policy-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTerminationPolicyType.html">Get-ASTerminationPolicyType</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-instances.html">aws autoscaling detach-instances</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASInstance.html">Dismount-ASInstance</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-load-balancer-target-groups.html">aws autoscaling detach-load-balancer-target-groups</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASLoadBalancerTargetGroup.html">Dismount-ASLoadBalancerTargetGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-load-balancers.html">aws autoscaling detach-load-balancers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASLoadBalancer.html">Dismount-ASLoadBalancer</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/disable-metrics-collection.html">aws autoscaling disable-metrics-collection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-ASMetricsCollection.html">Disable-ASMetricsCollection</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/enable-metrics-collection.html">aws autoscaling enable-metrics-collection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-ASMetricsCollection.html">Enable-ASMetricsCollection</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/enter-standby.html">aws autoscaling enter-standby</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Enter-ASStandby.html">Enter-ASStandby</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/execute-policy.html">aws autoscaling execute-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASPolicy.html">Start-ASPolicy</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/exit-standby.html">aws autoscaling exit-standby</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Exit-ASStandby.html">Exit-ASStandby</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-lifecycle-hook.html">aws autoscaling put-lifecycle-hook</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleHook.html">Write-ASLifecycleHook</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-notification-configuration.html">aws autoscaling put-notification-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASNotificationConfiguration.html">Write-ASNotificationConfiguration</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-scaling-policy.html">aws autoscaling put-scaling-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScalingPolicy.html">Write-ASScalingPolicy</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-scheduled-update-group-action.html">aws autoscaling put-scheduled-update-group-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScheduledUpdateGroupAction.html">Write-ASScheduledUpdateGroupAction</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/record-lifecycle-action-heartbeat.html">aws autoscaling record-lifecycle-action-heartbeat</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleActionHeartbeat.html">Write-ASLifecycleActionHeartbeat</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/resume-processes.html">aws autoscaling resume-processes</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-ASProcess.html">Resume-ASProcess</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-desired-capacity.html">aws autoscaling set-desired-capacity</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASDesiredCapacity.html">Set-ASDesiredCapacity</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-instance-health.html">aws autoscaling set-instance-health</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASInstanceHealth.html">Set-ASInstanceHealth</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-instance-protection.html">aws autoscaling set-instance-protection</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASInstanceProtection.html">Set-ASInstanceProtection</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/suspend-processes.html">aws autoscaling suspend-processes</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-ASProcess.html">Suspend-ASProcess</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/terminate-instance-in-auto-scaling-group.html">aws autoscaling terminate-instance-in-auto-scaling-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASInstanceInAutoScalingGroup.html">Stop-ASInstanceInAutoScalingGroup</a></td>
+<td align="center">AS</td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/autoscaling/update-auto-scaling-group.html">aws autoscaling update-auto-scaling-group</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASAutoScalingGroup.html">Update-ASAutoScalingGroup</a></td>
+<td align="center">AS</td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-1', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

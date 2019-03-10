@@ -1,0 +1,8 @@
+{{ define "main" }}
+
+{{ $dateFormat := $.Site.Params.dateFormat | default "" }}
+<p class="text-right"><strong>Last update: </strong>{{ .PublishDate.Format $dateFormat }}</p>
+
+{{ .Content }}
+
+{{ end }}

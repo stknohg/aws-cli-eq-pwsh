@@ -3,7 +3,7 @@ html {
   font-size: calc(1em + 0.33vw);
 }
 body {
-  background-image: url('http://localhost:1313/aws-cli-eq-pwsh/img/geometry2.png');
+  background-image: url('https://stknohg.github.io/aws-cli-eq-pwsh/img/geometry2.png');
 }
 
 /* anchors */

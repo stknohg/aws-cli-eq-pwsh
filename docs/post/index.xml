@@ -1277,7 +1277,7 @@
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://stknohg.github.io/aws-cli-eq-pwsh/runtime.sagemaker/</guid>
-      <description> runtime.sagemaker -  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws runtime.sagemaker invoke-endpoint      </description>
+      <description> runtime.sagemaker -  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws runtime.sagemaker invoke-endpoint Invoke-SMREndpoint SMR    </description>
     </item>
     
     <item>

@@ -15,7 +15,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ### Summary
 
 |Service|CLI sub command|PowerShell prefix|Notes|
-|----|----|----|----|
+|----|----|:--:|----|
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|||
 |[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB||
@@ -193,3 +193,4 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||
 |[Amazon WorkSpaces](https://aws.amazon.com/workspaces/)|[workspaces]({{%relref "post/workspaces.md" %}})|WKS||
 |[AWS X-Ray](https://aws.amazon.com/xray/)|[xray]({{%relref "post/xray.md" %}})|XR||
+

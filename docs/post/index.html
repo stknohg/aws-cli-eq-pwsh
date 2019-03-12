@@ -526,7 +526,7 @@
     </a>
   </h2>
   
-     pinpoint-sms-voice Amazon Pinpoint SMS and Voice Messaging  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws pinpoint-sms-voice create-configuration-set     aws pinpoint-sms-voice create-configuration-set-event-destination     aws pinpoint-sms-voice delete-configuration-set     aws pinpoint-sms-voice delete-configuration-set-event-destination     aws pinpoint-sms-voice get-configuration-set-event-destinations     aws pinpoint-sms-voice send-voice-message     aws pinpoint-sms-voice update-configuration-set-event-destination      
+     pinpoint-sms-voice Amazon Pinpoint SMS and Voice Messaging  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws pinpoint-sms-voice create-configuration-set New-PINEConfigurationSet PINE   aws pinpoint-sms-voice create-configuration-set-event-destination New-PINEConfigurationSetEventDestination PINE   aws pinpoint-sms-voice delete-configuration-set Remove-PINEConfigurationSet PINE   aws pinpoint-sms-voice delete-configuration-set-event-destination Remove-PINEConfigurationSetEventDestination PINE   aws pinpoint-sms-voice get-configuration-set-event-destinations Get-PINEConfigurationSetEventDestination PINE   aws pinpoint-sms-voice send-voice-message     aws pinpoint-sms-voice update-configuration-set-event-destination Update-PINEConfigurationSetEventDestination PINE    
   
 
   <h2 class="post-list summary">
@@ -895,7 +895,7 @@
     </a>
   </h2>
   
-     iot-jobs-data AWS IoT Jobs  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws iot-jobs-data describe-job-execution     aws iot-jobs-data get-pending-job-executions     aws iot-jobs-data start-next-pending-job-execution     aws iot-jobs-data update-job-execution      
+     iot-jobs-data AWS IoT Jobs  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws iot-jobs-data describe-job-execution Get-IOTJJobExecution IOTJ   aws iot-jobs-data get-pending-job-executions Get-IOTJPendingJobExecution IOTJ   aws iot-jobs-data start-next-pending-job-execution Start-IOTJNextPendingJobExecution IOTJ   aws iot-jobs-data update-job-execution Update-IOTJJobExecution IOTJ    
   
 
   <h2 class="post-list summary">
@@ -1165,7 +1165,7 @@
     </a>
   </h2>
   
-     dynamodbstreams Amazon DynamoDB Streams  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws dynamodbstreams describe-stream     aws dynamodbstreams get-records     aws dynamodbstreams get-shard-iterator     aws dynamodbstreams list-streams      
+     dynamodbstreams Amazon DynamoDB Streams  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws dynamodbstreams describe-stream Get-DDBStream DDB   aws dynamodbstreams get-records     aws dynamodbstreams get-shard-iterator     aws dynamodbstreams list-streams Get-DDBStreamList DDB    
   
 
   <h2 class="post-list summary">
@@ -1435,7 +1435,7 @@
     </a>
   </h2>
   
-     cloudhsmv2 AWS CloudHSM  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws cloudhsmv2 copy-backup-to-region     aws cloudhsmv2 create-cluster     aws cloudhsmv2 create-hsm     aws cloudhsmv2 delete-backup     aws cloudhsmv2 delete-cluster     aws cloudhsmv2 delete-hsm     aws cloudhsmv2 describe-backups     aws cloudhsmv2 describe-clusters     aws cloudhsmv2 initialize-cluster     aws cloudhsmv2 list-tags     aws cloudhsmv2 restore-backup     aws cloudhsmv2 tag-resource     aws cloudhsmv2 untag-resource      
+     cloudhsmv2 AWS CloudHSM  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws cloudhsmv2 copy-backup-to-region Copy-HSM2BackupToRegion HSM2   aws cloudhsmv2 create-cluster New-HSM2Cluster HSM2   aws cloudhsmv2 create-hsm New-HSM2Hsm HSM2   aws cloudhsmv2 delete-backup Remove-HSM2Backup HSM2   aws cloudhsmv2 delete-cluster Remove-HSM2Cluster HSM2   aws cloudhsmv2 delete-hsm Remove-HSM2Hsm HSM2   aws cloudhsmv2 describe-backups Get-HSM2Backup HSM2   aws cloudhsmv2 describe-clusters Get-HSM2Cluster HSM2   aws cloudhsmv2 initialize-cluster Initialize-HSM2Cluster HSM2   aws cloudhsmv2 list-tags Get-HSM2ResourceTag HSM2   aws cloudhsmv2 restore-backup Restore-HSM2Backup HSM2   aws cloudhsmv2 tag-resource Add-HSM2ResourceTag HSM2   aws cloudhsmv2 untag-resource Remove-HSM2ResourceTag HSM2    
   
 
   <h2 class="post-list summary">
@@ -1444,7 +1444,7 @@
     </a>
   </h2>
   
-     cloudhsm AWS CloudHSM  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws cloudhsm add-tags-to-resource     aws cloudhsm create-hapg     aws cloudhsm create-hsm     aws cloudhsm create-luna-client     aws cloudhsm delete-hapg     aws cloudhsm delete-hsm     aws cloudhsm delete-luna-client     aws cloudhsm describe-hapg     aws cloudhsm describe-hsm     aws cloudhsm describe-luna-client     aws cloudhsm get-config     aws cloudhsm list-available-zones     aws cloudhsm list-hapgs     aws cloudhsm list-hsms     aws cloudhsm list-luna-clients     aws cloudhsm list-tags-for-resource     aws cloudhsm modify-hapg     aws cloudhsm modify-hsm     aws cloudhsm modify-luna-client     aws cloudhsm remove-tags-from-resource      
+     cloudhsm AWS CloudHSM  CLI Reference     AWS CLI PowerShell Cmdlet Prefix     aws cloudhsm add-tags-to-resource Set-HSMResourceTag HSM   aws cloudhsm create-hapg New-HSMPartitionGroup HSM   aws cloudhsm create-hsm New-HSMItem HSM   aws cloudhsm create-luna-client New-HSMLunaClient HSM   aws cloudhsm delete-hapg Remove-HSMPartitionGroup HSM   aws cloudhsm delete-hsm Remove-HSMItem HSM   aws cloudhsm delete-luna-client Remove-HSMLunaClient HSM   aws cloudhsm describe-hapg Get-HSMPartitionGroup HSM   aws cloudhsm describe-hsm Get-HSMItem HSM   aws cloudhsm describe-luna-client Get-HSMLunaClient HSM   aws cloudhsm get-config Get-HSMConfig HSM   aws cloudhsm list-available-zones Get-HSMAvailableZone HSM   aws cloudhsm list-hapgs Get-HSMPartitionGroupList HSM   aws cloudhsm list-hsms Get-HSMItemList HSM   aws cloudhsm list-luna-clients Get-HSMLunaClientList HSM   aws cloudhsm list-tags-for-resource Get-HSMResourceTag HSM   aws cloudhsm modify-hapg Edit-HSMPartitionGroup HSM   aws cloudhsm modify-hsm Edit-HSMItem HSM   aws cloudhsm modify-luna-client Edit-HSMLunaClient HSM   aws cloudhsm remove-tags-from-resource Remove-HSMResourceTag HSM    
   
 
   <h2 class="post-list summary">

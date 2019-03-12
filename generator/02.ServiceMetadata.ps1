@@ -8,6 +8,8 @@ $g_SubCommandAlias = @{
     'autoscaling'                  = 'as';
     'autoscaling-plans'            = 'asp';
     'clouddirectory'               = 'cdir';
+    'cloudhsm'                     = 'hsm';
+    'cloudhsmv2'                   = 'hsm2';
     'cloudsearch'                  = 'cs';
     'cloudwatch'                   = 'cw';
     'cognito-identity'             = 'cgi';
@@ -22,11 +24,13 @@ $g_SubCommandAlias = @{
     'directconnect'                = 'dc';
     'docdb'                        = 'doc';
     'dynamodb'                     = 'ddb';
+    'dynamodbstreams'              = 'ddb';
     'elasticbeanstalk'             = 'eb';
     'elastictranscoder'            = 'ets';
     'elbv2'                        = 'elb2';
     'globalaccelerator'            = 'gacl'
     'importexport'                 = 'ie';
+    'iot-jobs-data'                = 'iotj'
     'kinesis'                      = 'kin';
     'kinesisanalytics'             = 'kina';
     'kinesisanalyticsv2'           = 'kina2';
@@ -45,6 +49,7 @@ $g_SubCommandAlias = @{
     'opsworks-cm'                  = 'owcm';
     'pinpoint'                     = 'pin';
     'pinpoint-email'               = 'pine';
+    'pinpoint-sms-voice'           = 'pine'
     'pricing'                      = 'pls';
     'rds-data'                     = 'rdsd';
     'resource-groups'              = 'rg';
@@ -90,8 +95,8 @@ $g_AWSServices = @{
     'clouddirectory'               = [PSCustomObject]@{ Prefix = 'CDIR'; Name = 'Amazon Cloud Directory'; Url = 'https://aws.amazon.com/cloud-directory/'; Note = ''};
     'cloudformation'               = [PSCustomObject]@{ Prefix = 'CFN'; Name = 'AWS Cloud​Formation'; Url = 'https://aws.amazon.com/cloudformation/'; Note = ''};
     'cloudfront'                   = [PSCustomObject]@{ Prefix = 'CF'; Name = 'Amazon CloudFront'; Url = 'https://aws.amazon.com/cloudfront/'; Note = ''};
-    'cloudhsm'                     = [PSCustomObject]@{ Prefix = ''; Name = 'AWS CloudHSM'; Url = 'https://aws.amazon.com/cloudhsm/'; Note = ''};
-    'cloudhsmv2'                   = [PSCustomObject]@{ Prefix = ''; Name = 'AWS CloudHSM'; Url = 'https://aws.amazon.com/cloudhsm/'; Note = ''};
+    'cloudhsm'                     = [PSCustomObject]@{ Prefix = 'HSM'; Name = 'AWS CloudHSM'; Url = 'https://aws.amazon.com/cloudhsm/'; Note = ''};
+    'cloudhsmv2'                   = [PSCustomObject]@{ Prefix = 'HSM2'; Name = 'AWS CloudHSM'; Url = 'https://aws.amazon.com/cloudhsm/'; Note = ''};
     'cloudsearch'                  = [PSCustomObject]@{ Prefix = 'CS'; Name = 'Amazon CloudSearch'; Url = 'https://aws.amazon.com/cloudsearch/'; Note = ''};
     'cloudsearchdomain'            = [PSCustomObject]@{ Prefix = 'CSD'; Name = 'Amazon CloudSearch'; Url = 'https://aws.amazon.com/cloudsearch/'; Note = ''};
     'cloudtrail'                   = [PSCustomObject]@{ Prefix = 'CT'; Name = 'AWS CloudTrail'; Url = 'https://aws.amazon.com/cloudtrail/'; Note = ''};
@@ -121,7 +126,7 @@ $g_AWSServices = @{
     'docdb'                        = [PSCustomObject]@{ Prefix = 'DOC'; Name = 'Amazon DocumentDB'; Url = 'https://aws.amazon.com/documentdb/'; Note = ''};
     'ds'                           = [PSCustomObject]@{ Prefix = 'DS'; Name = 'AWS Directory Service'; Url = 'https://aws.amazon.com/directoryservice/'; Note = ''};
     'dynamodb'                     = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = ''};
-    'dynamodbstreams'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon DynamoDB Streams'; Url = 'https://aws.amazon.com/dynamodb/'; Note = ''};
+    'dynamodbstreams'              = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB Streams'; Url = 'https://aws.amazon.com/dynamodb/'; Note = ''};
     'ec2'                          = [PSCustomObject]@{ Prefix = 'EC2'; Name = 'Amazon EC2'; Url = 'https://aws.amazon.com/ec2/'; Note = ''};
     'ecr'                          = [PSCustomObject]@{ Prefix = 'ECR'; Name = 'Amazon Elastic Container Registry'; Url = 'https://aws.amazon.com/ecr/'; Note = ''};
     'ecs'                          = [PSCustomObject]@{ Prefix = 'ECS'; Name = 'Amazon Elastic Container Service'; Url = 'https://aws.amazon.com/ecs/'; Note = ''};
@@ -151,7 +156,7 @@ $g_AWSServices = @{
     'inspector'                    = [PSCustomObject]@{ Prefix = 'INS'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = ''};
     'iot'                          = [PSCustomObject]@{ Prefix = 'IOT'; Name = 'AWS IoT'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
     'iot-data'                     = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT-Data'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
-    'iot-jobs-data'                = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT Jobs'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
+    'iot-jobs-data'                = [PSCustomObject]@{ Prefix = 'IOTJ'; Name = 'AWS IoT Jobs'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
     'iot1click-devices'            = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT 1-Click Devices'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
     'iot1click-projects'           = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT 1-Click Project'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
     'iotanalytics'                 = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT Analytics'; Url = 'https://aws.amazon.com/iot/'; Note = ''};
@@ -192,7 +197,7 @@ $g_AWSServices = @{
     'pi'                           = [PSCustomObject]@{ Prefix = 'PI'; Name = 'AWS Performance Insights'; Url = 'https://aws.amazon.com/rds/performance-insights/'; Note = ''};
     'pinpoint'                     = [PSCustomObject]@{ Prefix = 'PIN'; Name = 'Amazon Pinpoint'; Url = 'https://aws.amazon.com/pinpoint/'; Note = ''};
     'pinpoint-email'               = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint Email'; Url = 'https://aws.amazon.com/pinpoint/'; Note = ''};
-    'pinpoint-sms-voice'           = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = ''};
+    'pinpoint-sms-voice'           = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = ''};
     'polly'                        = [PSCustomObject]@{ Prefix = 'POL'; Name = 'Amazon Polly'; Url = 'https://aws.amazon.com/pinpoint/polly/'; Note = ''};
     'pricing'                      = [PSCustomObject]@{ Prefix = 'PLS'; Name = 'AWS Price List Service'; Url = 'https://aws.amazon.com/pricing/'; Note = ''};
     'quicksight'                   = [PSCustomObject]@{ Prefix = 'QS'; Name = 'Amazon QuickSight'; Url = 'https://aws.amazon.com/quicksight/'; Note = ''};

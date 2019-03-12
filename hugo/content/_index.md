@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2019-03-10
+date: 2019-03-12
 ---
 
 <br/>
@@ -45,8 +45,8 @@ For that reason, some content may not be accurate.
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
 |[AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
 |[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CF||
-|[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsm]({{%relref "post/cloudhsm.md" %}})|||
-|[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsmv2]({{%relref "post/cloudhsmv2.md" %}})|||
+|[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsm]({{%relref "post/cloudhsm.md" %}})|HSM||
+|[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsmv2]({{%relref "post/cloudhsmv2.md" %}})|HSM2||
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearch]({{%relref "post/cloudsearch.md" %}})|CS||
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearchdomain]({{%relref "post/cloudsearchdomain.md" %}})|CSD||
 |[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)|[cloudtrail]({{%relref "post/cloudtrail.md" %}})|CT||
@@ -76,7 +76,7 @@ For that reason, some content may not be accurate.
 |[Amazon DocumentDB](https://aws.amazon.com/documentdb/)|[docdb]({{%relref "post/docdb.md" %}})|DOC||
 |[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds]({{%relref "post/ds.md" %}})|DS||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[dynamodb]({{%relref "post/dynamodb.md" %}})|DDB||
-|[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|||
+|[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|DDB||
 |[Amazon EC2](https://aws.amazon.com/ec2/)|[ec2]({{%relref "post/ec2.md" %}})|EC2||
 |[Amazon Elastic Container Registry](https://aws.amazon.com/ecr/)|[ecr]({{%relref "post/ecr.md" %}})|ECR||
 |[Amazon Elastic Container Service](https://aws.amazon.com/ecs/)|[ecs]({{%relref "post/ecs.md" %}})|ECS||
@@ -106,7 +106,7 @@ For that reason, some content may not be accurate.
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
-|[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|||
+|[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
 |[AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)|[iot1click-devices]({{%relref "post/iot1click-devices.md" %}})|||
 |[AWS IoT 1-Click Project](https://aws.amazon.com/iot/)|[iot1click-projects]({{%relref "post/iot1click-projects.md" %}})|||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
@@ -147,7 +147,7 @@ For that reason, some content may not be accurate.
 |[AWS Performance Insights](https://aws.amazon.com/rds/performance-insights/)|[pi]({{%relref "post/pi.md" %}})|PI||
 |[Amazon Pinpoint](https://aws.amazon.com/pinpoint/)|[pinpoint]({{%relref "post/pinpoint.md" %}})|PIN||
 |[Amazon Pinpoint Email](https://aws.amazon.com/pinpoint/)|[pinpoint-email]({{%relref "post/pinpoint-email.md" %}})|PINE||
-|[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice]({{%relref "post/pinpoint-sms-voice.md" %}})|||
+|[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice]({{%relref "post/pinpoint-sms-voice.md" %}})|PINE||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
 |[Amazon QuickSight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||

@@ -1,6 +1,6 @@
 ---
 title: pinpoint-sms-voice
-date: 2019-03-10
+date: 2019-03-12
 ---
 
 ## pinpoint-sms-voice
@@ -11,11 +11,11 @@ date: 2019-03-10
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
-|[aws pinpoint-sms-voice create-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/create-configuration-set.html)|||
-|[aws pinpoint-sms-voice create-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/create-configuration-set-event-destination.html)|||
-|[aws pinpoint-sms-voice delete-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/delete-configuration-set.html)|||
-|[aws pinpoint-sms-voice delete-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/delete-configuration-set-event-destination.html)|||
-|[aws pinpoint-sms-voice get-configuration-set-event-destinations](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/get-configuration-set-event-destinations.html)|||
+|[aws pinpoint-sms-voice create-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/create-configuration-set.html)|[New-PINEConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINEConfigurationSet.html)|PINE|
+|[aws pinpoint-sms-voice create-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/create-configuration-set-event-destination.html)|[New-PINEConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINEConfigurationSetEventDestination.html)|PINE|
+|[aws pinpoint-sms-voice delete-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/delete-configuration-set.html)|[Remove-PINEConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEConfigurationSet.html)|PINE|
+|[aws pinpoint-sms-voice delete-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/delete-configuration-set-event-destination.html)|[Remove-PINEConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEConfigurationSetEventDestination.html)|PINE|
+|[aws pinpoint-sms-voice get-configuration-set-event-destinations](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/get-configuration-set-event-destinations.html)|[Get-PINEConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEConfigurationSetEventDestination.html)|PINE|
 |[aws pinpoint-sms-voice send-voice-message](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/send-voice-message.html)|||
-|[aws pinpoint-sms-voice update-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/update-configuration-set-event-destination.html)|||
+|[aws pinpoint-sms-voice update-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/update-configuration-set-event-destination.html)|[Update-PINEConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEConfigurationSetEventDestination.html)|PINE|
 

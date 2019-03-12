@@ -1,6 +1,6 @@
 ---
 title: iot-jobs-data
-date: 2019-03-10
+date: 2019-03-12
 ---
 
 ## iot-jobs-data
@@ -11,8 +11,8 @@ date: 2019-03-10
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
-|[aws iot-jobs-data describe-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/describe-job-execution.html)|||
-|[aws iot-jobs-data get-pending-job-executions](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/get-pending-job-executions.html)|||
-|[aws iot-jobs-data start-next-pending-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/start-next-pending-job-execution.html)|||
-|[aws iot-jobs-data update-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/update-job-execution.html)|||
+|[aws iot-jobs-data describe-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/describe-job-execution.html)|[Get-IOTJJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJJobExecution.html)|IOTJ|
+|[aws iot-jobs-data get-pending-job-executions](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/get-pending-job-executions.html)|[Get-IOTJPendingJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJPendingJobExecution.html)|IOTJ|
+|[aws iot-jobs-data start-next-pending-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/start-next-pending-job-execution.html)|[Start-IOTJNextPendingJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IOTJNextPendingJobExecution.html)|IOTJ|
+|[aws iot-jobs-data update-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/update-job-execution.html)|[Update-IOTJJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTJJobExecution.html)|IOTJ|
 

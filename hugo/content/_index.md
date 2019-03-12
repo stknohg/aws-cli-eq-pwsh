@@ -9,8 +9,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* AWS CLI : 1.16.120
-* AWS Tools for PowerShell : 3.3.462.0
+* [AWS CLI](https://aws.amazon.com/cli/) : 1.16.120
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/) : 3.3.462.0
 
 ### Contents
 
@@ -23,13 +23,13 @@ For that reason, some content may not be accurate.
 |Service|CLI sub command|PowerShell prefix|Notes|
 |----|----|:--:|----|
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
-|[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|||
+|[AWS Certificate Manager Private Certificate Authority](https://aws.amazon.com/certificate-manager/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA||
 |[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigateway]({{%relref "post/apigateway.md" %}})|AG||
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
-|[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|ASS||
+|[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
@@ -113,7 +113,7 @@ For that reason, some content may not be accurate.
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||
-|[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-media]({{%relref "post/kinesis-video-media.md" %}})|||
+|[Amazon Kinesis Video Streams Media](https://aws.amazon.com/kinesis/)|[kinesis-video-media]({{%relref "post/kinesis-video-media.md" %}})|KVM||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalytics]({{%relref "post/kinesisanalytics.md" %}})|KINA||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalyticsv2]({{%relref "post/kinesisanalyticsv2.md" %}})|KINA2||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisvideo]({{%relref "post/kinesisvideo.md" %}})|KV||
@@ -173,7 +173,7 @@ For that reason, some content may not be accurate.
 |[AWS Security Hub](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||
 |[AWS Service Catalog](https://aws.amazon.com/servicecatalog/)|[servicecatalog]({{%relref "post/servicecatalog.md" %}})|SC||
-|[AWS Cloud Map](https://aws.amazon.com/cloud-map/)|[servicediscovery]({{%relref "post/servicediscovery.md" %}})|||
+|[Amazon Route 53 Auto Naming](https://aws.amazon.com/route53/)|[servicediscovery]({{%relref "post/servicediscovery.md" %}})|SD||
 |[Amazon Simple Email Service](https://aws.amazon.com/ses/)|[ses]({{%relref "post/ses.md" %}})|SES||
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://aws.amazon.com/certificate-manager/)|[signer]({{%relref "post/signer.md" %}})|||

@@ -41,8 +41,8 @@ function Export-TopPageMarkdown {
         ""
         "### Version"
         ""
-        "* AWS CLI : {0}" -f (Get-Content -LiteralPath $CLIVersionMetadataPath -Encoding ascii)
-        "* AWS Tools for PowerShell : {0}" -f $cmdletVersion
+        "* [AWS CLI](https://aws.amazon.com/cli/) : {0}" -f (Get-Content -LiteralPath $CLIVersionMetadataPath -Encoding ascii)
+        "* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/) : {0}" -f $cmdletVersion
         ""
         "### Contents"
         ""

@@ -1,4 +1,5 @@
 $g_SubCommandAlias = @{
+    'acm-pca'                      = 'pca';
     'application-autoscaling'      = 'aas';
     'alexaforbusiness'             = 'alxb';
     'apigateway'                   = 'ag';
@@ -32,6 +33,7 @@ $g_SubCommandAlias = @{
     'importexport'                 = 'ie';
     'iot-jobs-data'                = 'iotj'
     'kinesis'                      = 'kin';
+    'kinesis-video-media'          = 'kvm';
     'kinesisanalytics'             = 'kina';
     'kinesisanalyticsv2'           = 'kina2';
     'kinesisvideo'                 = 'kv';
@@ -59,12 +61,13 @@ $g_SubCommandAlias = @{
     'route53resolver'              = 'r53r';
     's3control'                    = 's3c';
     'sagemaker'                    = 'sm';
-    'sagemaker-runtime'            = 'smr';
+    'sagemaker-runtime'            = 'smr';        
     'runtime.sagemaker'            = 'smr';
     'secretsmanager'               = 'sec';
     'securityhub'                  = 'shub';
     'serverlessrepo'               = 'sar';
     'servicecatalog'               = 'sc';
+    'servicediscovery'             = 'sd';
     'stepfunctions'                = 'sfn';
     'storagegateway'               = 'sg';
     'waf-regional'                 = 'wafr';
@@ -73,13 +76,13 @@ $g_SubCommandAlias = @{
 
 $g_AWSServices = @{
     'acm'                          = [PSCustomObject]@{ Prefix = 'ACM'; Name = 'AWS Certificate Manager'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = ''};
-    'acm-pca'                      = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Certificate Manager'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = ''};
+    'acm-pca'                      = [PSCustomObject]@{ Prefix = 'PCA'; Name = 'AWS Certificate Manager Private Certificate Authority'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = ''};
     'alexaforbusiness'             = [PSCustomObject]@{ Prefix = 'ALXB'; Name = 'Alexa for Business'; Url = 'https://aws.amazon.com/alexaforbusiness/'; Note = ''};
     'amplify'                      = [PSCustomObject]@{ Prefix = 'AMP'; Name = 'AWS Amplify'; Url = 'https://aws.amazon.com/amplify/'; Note = ''};
     'apigateway'                   = [PSCustomObject]@{ Prefix = 'AG'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = ''};
     'apigatewaymanagementapi'      = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = ''};
     'apigatewayv2'                 = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = ''};
-    'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'ASS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = ''};  
+    'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = ''};  
     'appmesh'                      = [PSCustomObject]@{ Prefix = 'AMSH'; Name = 'AWS App Mesh'; Url = 'https://aws.amazon.com/app-mesh/'; Note = ''};
     'appstream'                    = [PSCustomObject]@{ Prefix = 'APS'; Name = 'Amazon AppStream 2.0'; Url = 'https://aws.amazon.com/appstream2/'; Note = ''};
     'appsync'                      = [PSCustomObject]@{ Prefix = 'ASYN'; Name = 'AWS AppSync'; Url = 'https://aws.amazon.com/appsync/'; Note = ''};
@@ -163,7 +166,7 @@ $g_AWSServices = @{
     'kafka'                        = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = ''};
     'kinesis'                      = [PSCustomObject]@{ Prefix = 'KIN'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
     'kinesis-video-archived-media' = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
-    'kinesis-video-media'          = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
+    'kinesis-video-media'          = [PSCustomObject]@{ Prefix = 'KVM'; Name = 'Amazon Kinesis Video Streams Media'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
     'kinesisanalytics'             = [PSCustomObject]@{ Prefix = 'KINA'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
     'kinesisanalyticsv2'           = [PSCustomObject]@{ Prefix = 'KINA2'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
     'kinesisvideo'                 = [PSCustomObject]@{ Prefix = 'KV'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = ''};
@@ -223,7 +226,7 @@ $g_AWSServices = @{
     'securityhub'                  = [PSCustomObject]@{ Prefix = 'SHUB'; Name = 'AWS Security Hub'; Url = 'https://aws.amazon.com/securityhub/'; Note = ''};
     'serverlessrepo'               = [PSCustomObject]@{ Prefix = 'SAR'; Name = 'AWS Serverless Application Repository'; Url = 'https://aws.amazon.com/serverless/serverlessrepo/'; Note = ''};
     'servicecatalog'               = [PSCustomObject]@{ Prefix = 'SC'; Name = 'AWS Service Catalog'; Url = 'https://aws.amazon.com/servicecatalog/'; Note = ''};
-    'servicediscovery'             = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Cloud Map'; Url = 'https://aws.amazon.com/cloud-map/'; Note = ''};
+    'servicediscovery'             = [PSCustomObject]@{ Prefix = 'SD'; Name = 'Amazon Route 53 Auto Naming'; Url = 'https://aws.amazon.com/route53/'; Note = ''};
     'ses'                          = [PSCustomObject]@{ Prefix = 'SES'; Name = 'Amazon Simple Email Service'; Url = 'https://aws.amazon.com/ses/'; Note = ''};
     'shield'                       = [PSCustomObject]@{ Prefix = 'SHLD'; Name = 'AWS Shield'; Url = 'https://aws.amazon.com/shield/'; Note = ''};
     'signer'                       = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Signer'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = ''};

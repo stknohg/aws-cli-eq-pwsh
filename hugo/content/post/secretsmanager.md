@@ -1,6 +1,6 @@
 ---
 title: secretsmanager
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## secretsmanager
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Secrets_Manager_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

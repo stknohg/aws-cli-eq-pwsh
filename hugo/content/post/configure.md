@@ -1,6 +1,6 @@
 ---
 title: configure
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## configure
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### -
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/configure/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Shell_Configuration_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

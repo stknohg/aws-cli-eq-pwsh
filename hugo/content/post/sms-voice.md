@@ -1,6 +1,6 @@
 ---
 title: sms-voice
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## sms-voice
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### -
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sms-voice/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

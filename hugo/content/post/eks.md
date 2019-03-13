@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## eks
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Elastic Container Service for Kubernetes](https://aws.amazon.com/eks/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/eks/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Container_Service_for_Kubernetes_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

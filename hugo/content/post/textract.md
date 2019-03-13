@@ -1,6 +1,6 @@
 ---
 title: textract
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## textract
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Textract](https://aws.amazon.com/textract/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/textract/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

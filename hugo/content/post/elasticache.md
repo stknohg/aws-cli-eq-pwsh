@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## elasticache
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/elasticache/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_ElastiCache_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

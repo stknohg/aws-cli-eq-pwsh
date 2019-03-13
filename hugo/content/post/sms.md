@@ -1,6 +1,6 @@
 ---
 title: sms
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## sms
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Sever Migration Service](https://aws.amazon.com/server-migration-service/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sms/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Server_Migration_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

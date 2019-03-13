@@ -1,6 +1,6 @@
 ---
 title: sdb
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## sdb
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon SimpleDB](https://aws.amazon.com/simpledb/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sdb/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## kms
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Key Management Service](https://aws.amazon.com/kms/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kms/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Key_Management_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

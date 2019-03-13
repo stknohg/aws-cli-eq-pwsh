@@ -1,6 +1,6 @@
 ---
 title: marketplacecommerceanalytics
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## marketplacecommerceanalytics
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/marketplacecommerceanalytics/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Commerce_Analytics_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

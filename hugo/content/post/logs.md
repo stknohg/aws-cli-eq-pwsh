@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## logs
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/logs/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Logs_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

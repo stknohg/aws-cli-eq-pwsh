@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## appstream
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/appstream/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppStream_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

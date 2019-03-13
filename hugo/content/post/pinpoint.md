@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## pinpoint
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Pinpoint](https://aws.amazon.com/pinpoint/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Pinpoint_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: robomaker
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## robomaker
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS RoboMaker](https://aws.amazon.com/robomaker/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/robomaker/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RoboMaker_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

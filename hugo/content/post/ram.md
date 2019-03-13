@@ -1,6 +1,6 @@
 ---
 title: ram
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## ram
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Resource Access Manager](https://aws.amazon.com/ram/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ram/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Access_Manager_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

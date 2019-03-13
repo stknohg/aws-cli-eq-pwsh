@@ -88,6 +88,8 @@ function Export-PostPageMarkdown {
         $displayUrl = $metadata.Url
     }
     $displayUrllink = if ($displayUrl -eq '') {$displayName} else {"[$displayName]($displayUrl)"}
+    $cliUrlLink = "[CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/index.html)"
+    $cmdletUrlLink = if ($g_CmdletReferenceLinks[$ServiceName] -eq '') {"Cmdlet Reference"} else {"[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))"}
     $markdown = if ($null -eq $Commands) {
         & {
             "---"
@@ -113,7 +115,8 @@ function Export-PostPageMarkdown {
             ""
             "### $displayUrllink"
             ""
-            "* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/index.html)"
+            "* $cliUrlLink"
+            "* $cmdletUrlLink"
             ""
             "|AWS CLI|PowerShell Cmdlet|Prefix|"
             "|----|----|:--:|"

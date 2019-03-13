@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 <br/>

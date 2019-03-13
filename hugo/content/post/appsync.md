@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## appsync
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS AppSync](https://aws.amazon.com/appsync/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/appsync/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppSync_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

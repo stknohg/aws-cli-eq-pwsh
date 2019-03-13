@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## ec2
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon EC2](https://aws.amazon.com/ec2/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ec2/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Compute_Cloud_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

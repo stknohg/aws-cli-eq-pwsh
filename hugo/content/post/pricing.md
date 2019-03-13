@@ -1,6 +1,6 @@
 ---
 title: pricing
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## pricing
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Price List Service](https://aws.amazon.com/pricing/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/pricing/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## transfer
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Transfer for SFTP](https://aws.amazon.com/sftp/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/transfer/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

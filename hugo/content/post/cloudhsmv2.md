@@ -1,6 +1,6 @@
 ---
 title: cloudhsmv2
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## cloudhsmv2
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS CloudHSM](https://aws.amazon.com/cloudhsm/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud_HSM_V2_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

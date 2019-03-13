@@ -1,6 +1,6 @@
 ---
 title: servicecatalog
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## servicecatalog
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Service Catalog](https://aws.amazon.com/servicecatalog/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Service_Catalog_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

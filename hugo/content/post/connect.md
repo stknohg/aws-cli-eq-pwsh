@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## connect
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Connect](https://aws.amazon.com/connect/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/connect/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Connect_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

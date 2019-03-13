@@ -1,6 +1,6 @@
 ---
 title: meteringmarketplace
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## meteringmarketplace
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/meteringmarketplace/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Metering_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

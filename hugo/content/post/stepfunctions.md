@@ -1,6 +1,6 @@
 ---
 title: stepfunctions
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## stepfunctions
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Step Functions](https://aws.amazon.com/step-functions/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Step_Functions_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

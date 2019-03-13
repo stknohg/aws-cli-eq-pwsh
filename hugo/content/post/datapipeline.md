@@ -1,6 +1,6 @@
 ---
 title: datapipeline
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## datapipeline
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Data Pipeline](https://aws.amazon.com/datapipeline/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/datapipeline/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Data_Pipeline_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

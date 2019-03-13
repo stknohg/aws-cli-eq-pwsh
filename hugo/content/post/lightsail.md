@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## lightsail
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Lightsail](https://aws.amazon.com/lightsail/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/lightsail/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lightsail_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

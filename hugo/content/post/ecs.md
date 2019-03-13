@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## ecs
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Elastic Container Service](https://aws.amazon.com/ecs/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ecs/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_EC2_Container_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

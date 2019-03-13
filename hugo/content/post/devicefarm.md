@@ -1,6 +1,6 @@
 ---
 title: devicefarm
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## devicefarm
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Device Farm](https://aws.amazon.com/device-farm/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Device_Farm_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

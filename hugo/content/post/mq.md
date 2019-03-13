@@ -1,6 +1,6 @@
 ---
 title: mq
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## mq
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon MQ](https://aws.amazon.com/amazon-mq/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/mq/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MQ_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

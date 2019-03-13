@@ -1,6 +1,6 @@
 ---
 title: apigatewaymanagementapi
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## apigatewaymanagementapi
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

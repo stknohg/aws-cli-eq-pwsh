@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## workspaces
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon WorkSpaces](https://aws.amazon.com/workspaces/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/workspaces/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkSpaces_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: runtime.sagemaker
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## runtime.sagemaker
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### -
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/runtime.sagemaker/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

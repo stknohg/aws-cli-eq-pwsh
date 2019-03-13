@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## workmail
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon WorkMail](https://aws.amazon.com/workmail/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/workmail/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkMail_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

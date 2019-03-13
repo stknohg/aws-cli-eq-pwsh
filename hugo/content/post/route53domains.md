@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## route53domains
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Route 53 Domains](https://aws.amazon.com/route53/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/route53domains/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Domains_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

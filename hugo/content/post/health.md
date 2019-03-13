@@ -1,6 +1,6 @@
 ---
 title: health
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## health
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Health](https://phd.aws.amazon.com/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/health/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Health_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

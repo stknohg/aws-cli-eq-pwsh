@@ -1,6 +1,6 @@
 ---
 title: apigateway
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## apigateway
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/apigateway/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

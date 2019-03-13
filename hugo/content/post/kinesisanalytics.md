@@ -1,6 +1,6 @@
 ---
 title: kinesisanalytics
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## kinesisanalytics
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Kinesis](https://aws.amazon.com/kinesis/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Analytics_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

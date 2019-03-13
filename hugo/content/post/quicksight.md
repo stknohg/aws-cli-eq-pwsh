@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## quicksight
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon QuickSight](https://aws.amazon.com/quicksight/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/quicksight/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_QuickSight_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

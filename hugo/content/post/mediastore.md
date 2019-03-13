@@ -1,6 +1,6 @@
 ---
 title: mediastore
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## mediastore
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Elemental MediaStore](https://aws.amazon.com/mediastore/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/mediastore/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

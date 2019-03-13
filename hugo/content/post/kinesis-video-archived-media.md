@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-archived-media
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## kinesis-video-archived-media
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Kinesis](https://aws.amazon.com/kinesis/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: acm
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## acm
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/acm/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Certificate_Manager_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

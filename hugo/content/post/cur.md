@@ -1,6 +1,6 @@
 ---
 title: cur
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## cur
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cur/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_and_Usage_Report_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

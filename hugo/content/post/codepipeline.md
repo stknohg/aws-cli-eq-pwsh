@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## codepipeline
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS CodePipeline](https://aws.amazon.com/codepipeline/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodePipeline_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

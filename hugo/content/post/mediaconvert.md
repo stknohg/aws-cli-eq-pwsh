@@ -1,6 +1,6 @@
 ---
 title: mediaconvert
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## mediaconvert
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Elemental MediaConvert](https://aws.amazon.com/mediaconvert/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/mediaconvert/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaConvert_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

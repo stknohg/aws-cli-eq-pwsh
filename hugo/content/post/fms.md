@@ -1,6 +1,6 @@
 ---
 title: fms
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## fms
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Firewall Manager](https://aws.amazon.com/waf/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/fms/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Firewall_Management_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## cognito-idp
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Cognito Identity Provider](https://aws.amazon.com/cognito/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Cognito_Identity_Provider_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: marketplace-entitlement
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## marketplace-entitlement
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/marketplace-entitlement/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Entitlement_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

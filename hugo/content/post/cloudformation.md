@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## cloudformation
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CloudFormation_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

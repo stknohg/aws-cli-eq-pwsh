@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## iam
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Identity and Access Management](https://aws.amazon.com/iam/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iam/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Identity_and_Access_Management_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

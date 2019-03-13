@@ -1,6 +1,6 @@
 ---
 title: inspector
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## inspector
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Inspector](https://aws.amazon.com/inspector/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/inspector/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Inspector_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

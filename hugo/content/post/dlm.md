@@ -1,6 +1,6 @@
 ---
 title: dlm
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## dlm
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Data Lifecycle Manager](https://aws.amazon.com/ebs/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/dlm/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Data_Lifecycle_Manager_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

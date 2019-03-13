@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## dynamodb
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

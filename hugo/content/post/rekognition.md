@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## rekognition
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Rekognition](https://aws.amazon.com/rekognition/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/rekognition/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Rekognition_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

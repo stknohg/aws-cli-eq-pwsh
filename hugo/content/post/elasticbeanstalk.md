@@ -1,6 +1,6 @@
 ---
 title: elasticbeanstalk
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## elasticbeanstalk
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elastic_Beanstalk_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

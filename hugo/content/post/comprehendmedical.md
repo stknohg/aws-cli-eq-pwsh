@@ -1,6 +1,6 @@
 ---
 title: comprehendmedical
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## comprehendmedical
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Comprehend](https://aws.amazon.com/comprehend/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/comprehendmedical/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Comprehend_Medical_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

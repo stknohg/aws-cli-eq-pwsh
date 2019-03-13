@@ -1,6 +1,6 @@
 ---
 title: dynamodbstreams
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## dynamodbstreams
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/dynamodbstreams/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

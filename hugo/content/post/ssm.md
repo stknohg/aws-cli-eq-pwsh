@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## ssm
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Systems Manager](https://aws.amazon.com/systems-manager/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ssm/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Systems_Manager_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

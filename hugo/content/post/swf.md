@@ -1,6 +1,6 @@
 ---
 title: swf
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## swf
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Simple Workflow](https://aws.amazon.com/swf/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/swf/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Simple_Workflow_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

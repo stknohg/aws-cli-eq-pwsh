@@ -1,6 +1,6 @@
 ---
 title: iot1click-devices
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## iot1click-devices
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iot1click-devices/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

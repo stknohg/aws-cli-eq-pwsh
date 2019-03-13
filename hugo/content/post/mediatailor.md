@@ -1,6 +1,6 @@
 ---
 title: mediatailor
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## mediatailor
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaTailor_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: s3control
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## s3control
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon S3](https://aws.amazon.com/s3/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/s3control/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_S3_Control_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

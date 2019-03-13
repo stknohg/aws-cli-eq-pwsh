@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## cloudtrail
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS CloudTrail](https://aws.amazon.com/cloudtrail/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CloudTrail_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

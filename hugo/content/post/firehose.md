@@ -1,6 +1,6 @@
 ---
 title: firehose
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## firehose
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/firehose/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

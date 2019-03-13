@@ -1,6 +1,6 @@
 ---
 title: mediaconnect
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## mediaconnect
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Elemental MediaConnect](https://aws.amazon.com/mediaconnect/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaConnect_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

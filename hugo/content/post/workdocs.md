@@ -1,6 +1,6 @@
 ---
 title: workdocs
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## workdocs
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon WorkDocs](https://aws.amazon.com/workdocs/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/workdocs/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkDocs_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

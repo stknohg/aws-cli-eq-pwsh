@@ -1,6 +1,6 @@
 ---
 title: glacier
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## glacier
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon S3 Glacier](https://aws.amazon.com/glacier/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/glacier/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Glacier_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: elastictranscoder
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## elastictranscoder
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/elastictranscoder/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Transcoder_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

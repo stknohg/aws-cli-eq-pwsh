@@ -1,6 +1,6 @@
 ---
 title: mturk
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## mturk
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Mechanical Turk](https://www.mturk.com/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/mturk/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MTurk_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

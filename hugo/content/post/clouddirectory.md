@@ -1,6 +1,6 @@
 ---
 title: clouddirectory
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## clouddirectory
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/clouddirectory/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud_Directory_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

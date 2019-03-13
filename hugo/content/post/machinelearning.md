@@ -1,6 +1,6 @@
 ---
 title: machinelearning
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## machinelearning
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Machine Learning](https://aws.amazon.com/machinelearning/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/machinelearning/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

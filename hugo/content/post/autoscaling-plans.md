@@ -1,6 +1,6 @@
 ---
 title: autoscaling-plans
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## autoscaling-plans
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Auto Scaling](https://aws.amazon.com/autoscaling/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/autoscaling-plans/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Auto_Scaling_Plans_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

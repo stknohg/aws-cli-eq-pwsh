@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## datasync
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS DataSync](https://aws.amazon.com/datasync/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/datasync/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_DataSync_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

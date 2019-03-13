@@ -1,6 +1,6 @@
 ---
 title: sts
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## sts
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Security Token Service](https://aws.amazon.com/iam/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sts/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Token_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

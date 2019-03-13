@@ -1,6 +1,6 @@
 ---
 title: iot-jobs-data
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## iot-jobs-data
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS IoT Jobs](https://aws.amazon.com/iot/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iot-jobs-data/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Jobs_Data_Plane_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

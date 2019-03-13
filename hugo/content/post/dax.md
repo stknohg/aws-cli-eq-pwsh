@@ -1,6 +1,6 @@
 ---
 title: dax
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## dax
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/dax/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_Accelerator_(DAX)_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

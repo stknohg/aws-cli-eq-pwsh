@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## emr
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon EMR](https://aws.amazon.com/emr/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/emr/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

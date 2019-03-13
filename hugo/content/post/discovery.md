@@ -1,6 +1,6 @@
 ---
 title: discovery
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## discovery
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Application Discovery Service](https://aws.amazon.com/application-discovery/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/discovery/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Discovery_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

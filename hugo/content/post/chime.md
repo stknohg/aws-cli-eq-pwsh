@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## chime
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Chime](https://aws.amazon.com/chime/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/chime/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

@@ -1,6 +1,6 @@
 ---
 title: alexaforbusiness
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## alexaforbusiness
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Alexa for Business](https://aws.amazon.com/alexaforbusiness/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Alexa_For_Business_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

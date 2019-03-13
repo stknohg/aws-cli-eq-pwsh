@@ -1,6 +1,6 @@
 ---
 title: signer
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## signer
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Signer](https://aws.amazon.com/certificate-manager/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/signer/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

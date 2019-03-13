@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## iot
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS IoT](https://aws.amazon.com/iot/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iot/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

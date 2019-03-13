@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## redshift
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Redshift](https://aws.amazon.com/redshift/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/redshift/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Redshift_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

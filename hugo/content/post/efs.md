@@ -1,6 +1,6 @@
 ---
 title: efs
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## efs
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Elastic File System](https://aws.amazon.com/efs/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/efs/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_File_System_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

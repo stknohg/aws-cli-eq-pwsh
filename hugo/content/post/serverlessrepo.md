@@ -1,6 +1,6 @@
 ---
 title: serverlessrepo
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## serverlessrepo
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/serverlessrepo/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Serverless_Application_Repository_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

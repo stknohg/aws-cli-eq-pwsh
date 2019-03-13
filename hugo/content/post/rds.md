@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## rds
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Relational Database Service](https://aws.amazon.com/rds/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/rds/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Relational_Database_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

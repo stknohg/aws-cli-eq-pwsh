@@ -1,6 +1,6 @@
 ---
 title: iotanalytics
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## iotanalytics
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS IoT Analytics](https://aws.amazon.com/iot/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iotanalytics/index.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

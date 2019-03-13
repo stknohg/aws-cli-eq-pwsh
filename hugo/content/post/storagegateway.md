@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## storagegateway
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Storage Gateway](https://aws.amazon.com/storagegateway/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Storage_Gateway_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

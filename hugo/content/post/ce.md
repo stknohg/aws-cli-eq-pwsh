@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## ce
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ce/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

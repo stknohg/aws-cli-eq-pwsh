@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## apigatewayv2
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_V2_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

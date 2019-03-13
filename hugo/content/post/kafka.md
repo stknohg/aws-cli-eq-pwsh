@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## kafka
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kafka/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

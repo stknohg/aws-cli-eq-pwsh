@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## ds
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS Directory Service](https://aws.amazon.com/directoryservice/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ds/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Directory_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

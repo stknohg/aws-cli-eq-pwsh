@@ -1,6 +1,6 @@
 ---
 title: codestar
-date: 2019-03-12
+date: 2019-03-13
 ---
 
 ## codestar
@@ -8,6 +8,7 @@ date: 2019-03-12
 ### [AWS CodeStar](https://aws.amazon.com/codestar/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/codestar/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeStar_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

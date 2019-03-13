@@ -10,8 +10,8 @@ echo_error () {
 
 # 
 export_path="./temp"
-# exclude help, opsworkscm(mistake of opsworks-cm)
-subcommands=$(aws list-commands 2>&1 | tail -n +9 | awk -F'|' '{printf "%s\n%s\n",$1,$2}' | tr -d ' '| sed -e /help/d -e /opsworkscm/d | sort)
+# exclude help
+subcommands=$(aws help | col -b | sed -n '/AVAILABLE SERVICES/,/SEE ALSO/p' | grep 'o ' | sed s/'o '//g | tr -d ' ' | sed -e /help/d | sort)
 cliversion=$(aws --version 2>&1 | awk '{print $1}' | awk -F'/' '{print $2}')
 
 # output metadata
@@ -26,6 +26,6 @@ for c in $subcommands
 do
     # excluce wait, help, space
     echo_info "$c..."
-    eval "aws $c list-subcommands" 2>&1 | tail -n +9 | awk -F'|' '{printf "%s\n%s\n",$1,$2}' | tr -d ' ' | sed -e /wait/d -e /help/d -e /^$/d | \
+    eval "aws $c dummy_error_command" 2>&1 | tail -n +9 | awk -F'|' '{printf "%s\n%s\n",$1,$2}' | tr -d ' ' | sed -e /wait/d -e /help/d -e /^$/d | sort | \
         awk -v "v1=$c" '{printf "aws %s %s\n",v1,$0}'  >  "$export_path/$c.txt"
 done

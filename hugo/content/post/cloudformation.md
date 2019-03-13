@@ -22,6 +22,7 @@ date: 2019-03-13
 |[aws cloudformation delete-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-stack.html)|[Remove-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNStack.html)|CFN|
 |[aws cloudformation delete-stack-instances](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-stack-instances.html)|[Remove-CFNStackInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNStackInstance.html)|CFN|
 |[aws cloudformation delete-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-stack-set.html)|[Remove-CFNStackSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNStackSet.html)|CFN|
+|[aws cloudformation deploy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy.html)|||
 |[aws cloudformation describe-account-limits](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-account-limits.html)|[Get-CFNAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNAccountLimit.html)|CFN|
 |[aws cloudformation describe-change-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-change-set.html)|[Get-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSet.html)|CFN|
 |[aws cloudformation describe-stack-drift-detection-status](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stack-drift-detection-status.html)|[Get-CFNStackDriftDetectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackDriftDetectionStatus.html)|CFN|
@@ -51,6 +52,7 @@ date: 2019-03-13
 |[aws cloudformation list-stack-set-operations](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-stack-set-operations.html)|[Get-CFNStackSetOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetOperationList.html)|CFN|
 |[aws cloudformation list-stack-sets](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-stack-sets.html)|[Get-CFNStackSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetList.html)|CFN|
 |[aws cloudformation list-stacks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-stacks.html)|[Get-CFNStackSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSummary.html)|CFN|
+|[aws cloudformation package](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/package.html)|||
 |[aws cloudformation set-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-stack-policy.html)|[Set-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNStackPolicy.html)|CFN|
 |[aws cloudformation signal-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/signal-resource.html)|[Send-CFNResourceSignal](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CFNResourceSignal.html)|CFN|
 |[aws cloudformation stop-stack-set-operation](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/stop-stack-set-operation.html)|[Stop-CFNStackSetOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFNStackSetOperation.html)|CFN|
@@ -59,6 +61,4 @@ date: 2019-03-13
 |[aws cloudformation update-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/update-stack-set.html)|[Update-CFNStackSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFNStackSet.html)|CFN|
 |[aws cloudformation update-termination-protection](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/update-termination-protection.html)|[Update-CFNTerminationProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFNTerminationProtection.html)|CFN|
 |[aws cloudformation validate-template](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/validate-template.html)|[Test-CFNTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CFNTemplate.html)|CFN|
-|[aws cloudformation package](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/package.html)|||
-|[aws cloudformation deploy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy.html)|||
 

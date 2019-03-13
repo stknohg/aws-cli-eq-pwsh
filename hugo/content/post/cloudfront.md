@@ -49,6 +49,7 @@ date: 2019-03-13
 |[aws cloudfront list-public-keys](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-public-keys.html)|[Get-CFPublicKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFPublicKeyList.html)|CF|
 |[aws cloudfront list-streaming-distributions](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-streaming-distributions.html)|[Get-CFStreamingDistributionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFStreamingDistributionList.html)|CF|
 |[aws cloudfront list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-tags-for-resource.html)|[Get-CFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFResourceTag.html)|CF|
+|[aws cloudfront sign](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/sign.html)|||
 |[aws cloudfront tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/tag-resource.html)|[Add-CFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CFResourceTag.html)|CF|
 |[aws cloudfront untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/untag-resource.html)|[Remove-CFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFResourceTag.html)|CF|
 |[aws cloudfront update-cloud-front-origin-access-identity](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-cloud-front-origin-access-identity.html)|[Update-CFCloudFrontOriginAccessIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFCloudFrontOriginAccessIdentity.html)|CF|
@@ -57,5 +58,4 @@ date: 2019-03-13
 |[aws cloudfront update-field-level-encryption-profile](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-field-level-encryption-profile.html)|[Update-CFFieldLevelEncryptionProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFFieldLevelEncryptionProfile.html)|CF|
 |[aws cloudfront update-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-public-key.html)|[Update-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFPublicKey.html)|CF|
 |[aws cloudfront update-streaming-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-streaming-distribution.html)|[Update-CFStreamingDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFStreamingDistribution.html)|CF|
-|[aws cloudfront sign](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/sign.html)|||
 

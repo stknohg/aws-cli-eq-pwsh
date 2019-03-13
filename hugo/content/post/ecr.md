@@ -26,6 +26,7 @@ date: 2019-03-13
 |[aws ecr get-download-url-for-layer](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-download-url-for-layer.html)|[Get-ECRDownloadUrlForLayer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRDownloadUrlForLayer.html)|ECR|
 |[aws ecr get-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-lifecycle-policy.html)|[Get-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRLifecyclePolicy.html)|ECR|
 |[aws ecr get-lifecycle-policy-preview](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-lifecycle-policy-preview.html)|[Get-ECRLifecyclePolicyPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRLifecyclePolicyPreview.html)|ECR|
+|[aws ecr get-login](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-login.html)|||
 |[aws ecr get-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-repository-policy.html)|[Get-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepositoryPolicy.html)|ECR|
 |[aws ecr initiate-layer-upload](https://docs.aws.amazon.com/cli/latest/reference/ecr/initiate-layer-upload.html)|[Start-ECRLayerUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLayerUpload.html)|ECR|
 |[aws ecr list-images](https://docs.aws.amazon.com/cli/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|ECR|
@@ -37,5 +38,4 @@ date: 2019-03-13
 |[aws ecr tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr/tag-resource.html)|[Add-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECRResourceTag.html)|ECR|
 |[aws ecr untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr/untag-resource.html)|[Remove-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRResourceTag.html)|ECR|
 |[aws ecr upload-layer-part](https://docs.aws.amazon.com/cli/latest/reference/ecr/upload-layer-part.html)|[Send-ECRLayerPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ECRLayerPart.html)|ECR|
-|[aws ecr get-login](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-login.html)|||
 

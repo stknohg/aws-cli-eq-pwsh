@@ -62,7 +62,6 @@ $g_SubCommandAlias = @{
     's3control'                    = 's3c';
     'sagemaker'                    = 'sm';
     'sagemaker-runtime'            = 'smr';        
-    'runtime.sagemaker'            = 'smr';
     'secretsmanager'               = 'sec';
     'securityhub'                  = 'shub';
     'serverlessrepo'               = 'sar';
@@ -215,7 +214,6 @@ $g_AWSServices = @{
     'route53'                      = [PSCustomObject]@{ Prefix = 'R53'; Name = 'Amazon Route 53'; Url = 'https://aws.amazon.com/route53/'; Note = ''};
     'route53domains'               = [PSCustomObject]@{ Prefix = 'R53D'; Name = 'Amazon Route 53 Domains'; Url = 'https://aws.amazon.com/route53/'; Note = ''};
     'route53resolver'              = [PSCustomObject]@{ Prefix = 'R53R'; Name = 'Amazon Route 53 Resolver'; Url = 'https://aws.amazon.com/route53/'; Note = ''};
-    'runtime.sagemaker'            = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = 'Alias of aws sagemaker-runtime'};
     's3'                           = [PSCustomObject]@{ Prefix = 'S3'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '* Currntly, failed to create the list...'};
     's3api'                        = [PSCustomObject]@{ Prefix = 'S3'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '* Currntly, failed to create the list...'};
     's3control'                    = [PSCustomObject]@{ Prefix = 'S3C'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = ''};
@@ -231,7 +229,6 @@ $g_AWSServices = @{
     'shield'                       = [PSCustomObject]@{ Prefix = 'SHLD'; Name = 'AWS Shield'; Url = 'https://aws.amazon.com/shield/'; Note = ''};
     'signer'                       = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Signer'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = ''};
     'sms'                          = [PSCustomObject]@{ Prefix = 'SMS'; Name = 'AWS Sever Migration Service'; Url = 'https://aws.amazon.com/server-migration-service/'; Note = ''};
-    'sms-voice'                    = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = ''};
     'snowball'                     = [PSCustomObject]@{ Prefix = 'SNOW'; Name = 'AWS Snowball'; Url = 'https://aws.amazon.com/snowball/'; Note = ''};
     'sns'                          = [PSCustomObject]@{ Prefix = 'SNS'; Name = 'Amazon Simple Notification Service'; Url = 'https://aws.amazon.com/sns/'; Note = ''};
     'sqs'                          = [PSCustomObject]@{ Prefix = 'SQS'; Name = 'Amazon Simple Queue Service'; Url = 'https://aws.amazon.com/sqs/'; Note = ''};
@@ -395,7 +392,6 @@ $g_CmdletReferenceLinks = @{
     'route53'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_cmdlets.html';
     'route53domains'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Domains_cmdlets.html';
     'route53resolver'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Resolver_cmdlets.html';
-    'runtime.sagemaker'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html';
     's3'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html';
     's3api'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html';
     's3control'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_S3_Control_cmdlets.html';
@@ -411,7 +407,6 @@ $g_CmdletReferenceLinks = @{
     'shield'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Shield_cmdlets.html';
     'signer'                       = '';
     'sms'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Server_Migration_Service_cmdlets.html';
-    'sms-voice'                    = '';
     'snowball'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_Snowball_cmdlets.html';
     'sns'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Notification_Service_cmdlets.html';
     'sqs'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Queue_Service_cmdlets.html';

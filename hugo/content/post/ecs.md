@@ -18,6 +18,7 @@ date: 2019-03-13
 |[aws ecs delete-attributes](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-attributes.html)|[Remove-ECSAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSAttribute.html)|ECS|
 |[aws ecs delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-cluster.html)|[Remove-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSCluster.html)|ECS|
 |[aws ecs delete-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-service.html)|[Remove-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSService.html)|ECS|
+|[aws ecs deploy](https://docs.aws.amazon.com/cli/latest/reference/ecs/deploy.html)|||
 |[aws ecs deregister-container-instance](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-container-instance.html)|[Unregister-ECSContainerInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSContainerInstance.html)|ECS|
 |[aws ecs deregister-task-definition](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-task-definition.html)|[Unregister-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSTaskDefinition.html)|ECS|
 |[aws ecs describe-clusters](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-clusters.html)|[Get-ECSClusterDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterDetail.html)|ECS|
@@ -50,5 +51,4 @@ date: 2019-03-13
 |[aws ecs update-container-agent](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-agent.html)|[Update-ECSContainerAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerAgent.html)|ECS|
 |[aws ecs update-container-instances-state](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|ECS|
 |[aws ecs update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html)|[Update-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSService.html)|ECS|
-|[aws ecs deploy](https://docs.aws.amazon.com/cli/latest/reference/ecs/deploy.html)|||
 

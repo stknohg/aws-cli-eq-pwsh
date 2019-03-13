@@ -126,6 +126,4 @@ date: 2019-03-13
 |[aws ssm update-managed-instance-role](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-managed-instance-role.html)|[Update-SSMManagedInstanceRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMManagedInstanceRole.html)|SSM|
 |[aws ssm update-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-patch-baseline.html)|[Update-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMPatchBaseline.html)|SSM|
 |[aws ssm update-service-setting](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-service-setting.html)|||
-|[aws ssm Invalidchoice:'list-subcommands',maybeyoumeant:](https://docs.aws.amazon.com/cli/latest/reference/ssm/Invalidchoice:'list-subcommands',maybeyoumeant:.html)|||
-|[aws ssm *list-commands](https://docs.aws.amazon.com/cli/latest/reference/ssm/*list-commands.html)|[Get-SSMCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommand.html)|SSM|
 

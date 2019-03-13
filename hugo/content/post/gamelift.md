@@ -54,6 +54,7 @@ date: 2019-03-13
 |[aws gamelift describe-scaling-policies](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-scaling-policies.html)|[Get-GMLScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLScalingPolicy.html)|GML|
 |[aws gamelift describe-vpc-peering-authorizations](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-vpc-peering-authorizations.html)|[Get-GMLVpcPeeringAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLVpcPeeringAuthorization.html)|GML|
 |[aws gamelift describe-vpc-peering-connections](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-vpc-peering-connections.html)|[Get-GMLVpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLVpcPeeringConnection.html)|GML|
+|[aws gamelift get-game-session-log](https://docs.aws.amazon.com/cli/latest/reference/gamelift/get-game-session-log.html)|||
 |[aws gamelift get-game-session-log-url](https://docs.aws.amazon.com/cli/latest/reference/gamelift/get-game-session-log-url.html)|[Get-GMLGameSessionLogUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionLogUrl.html)|GML|
 |[aws gamelift get-instance-access](https://docs.aws.amazon.com/cli/latest/reference/gamelift/get-instance-access.html)|[Get-GMLInstanceAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLInstanceAccess.html)|GML|
 |[aws gamelift list-aliases](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-aliases.html)|[Get-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAlias.html)|GML|
@@ -79,7 +80,6 @@ date: 2019-03-13
 |[aws gamelift update-game-session-queue](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-game-session-queue.html)|[Update-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLGameSessionQueue.html)|GML|
 |[aws gamelift update-matchmaking-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-matchmaking-configuration.html)|[Update-GMLMatchmakingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLMatchmakingConfiguration.html)|GML|
 |[aws gamelift update-runtime-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-runtime-configuration.html)|[Update-GMLRuntimeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLRuntimeConfiguration.html)|GML|
-|[aws gamelift validate-matchmaking-rule-set](https://docs.aws.amazon.com/cli/latest/reference/gamelift/validate-matchmaking-rule-set.html)|[Test-GMLMatchmakingRuleSetValidity](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-GMLMatchmakingRuleSetValidity.html)|GML|
 |[aws gamelift upload-build](https://docs.aws.amazon.com/cli/latest/reference/gamelift/upload-build.html)|||
-|[aws gamelift get-game-session-log](https://docs.aws.amazon.com/cli/latest/reference/gamelift/get-game-session-log.html)|||
+|[aws gamelift validate-matchmaking-rule-set](https://docs.aws.amazon.com/cli/latest/reference/gamelift/validate-matchmaking-rule-set.html)|[Test-GMLMatchmakingRuleSetValidity](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-GMLMatchmakingRuleSetValidity.html)|GML|
 

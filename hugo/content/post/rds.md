@@ -12,6 +12,7 @@ date: 2019-03-13
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
+|[aws rds add-option-to-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/add-option-to-option-group.html)|||
 |[aws rds add-role-to-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/add-role-to-db-cluster.html)|[Add-RDSRoleToDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RDSRoleToDBCluster.html)|RDS|
 |[aws rds add-role-to-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/add-role-to-db-instance.html)|[Add-RDSRoleToDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RDSRoleToDBInstance.html)|RDS|
 |[aws rds add-source-identifier-to-subscription](https://docs.aws.amazon.com/cli/latest/reference/rds/add-source-identifier-to-subscription.html)|[Add-RDSSourceIdentifierToSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RDSSourceIdentifierToSubscription.html)|RDS|
@@ -85,6 +86,7 @@ date: 2019-03-13
 |[aws rds describe-valid-db-instance-modifications](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-valid-db-instance-modifications.html)|[Get-RDSValidDBInstanceModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSValidDBInstanceModification.html)|RDS|
 |[aws rds download-db-log-file-portion](https://docs.aws.amazon.com/cli/latest/reference/rds/download-db-log-file-portion.html)|[Get-RDSDBLogFilePortion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBLogFilePortion.html)|RDS|
 |[aws rds failover-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-db-cluster.html)|[Start-RDSDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBClusterFailover.html)|RDS|
+|[aws rds generate-db-auth-token](https://docs.aws.amazon.com/cli/latest/reference/rds/generate-db-auth-token.html)|||
 |[aws rds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rds/list-tags-for-resource.html)|[Get-RDSTagForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTagForResource.html)|RDS|
 |[aws rds modify-current-db-cluster-capacity](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-current-db-cluster-capacity.html)|[Edit-RDSCurrentDBClusterCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCurrentDBClusterCapacity.html)|RDS|
 |[aws rds modify-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-cluster.html)|[Edit-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBCluster.html)|RDS|
@@ -103,6 +105,7 @@ date: 2019-03-13
 |[aws rds purchase-reserved-db-instances-offering](https://docs.aws.amazon.com/cli/latest/reference/rds/purchase-reserved-db-instances-offering.html)|[New-RDSReservedDBInstancesOfferingPurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSReservedDBInstancesOfferingPurchase.html)|RDS|
 |[aws rds reboot-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/reboot-db-instance.html)|[Restart-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RDSDBInstance.html)|RDS|
 |[aws rds remove-from-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-from-global-cluster.html)|[Remove-RDSFromGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSFromGlobalCluster.html)|RDS|
+|[aws rds remove-option-from-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-option-from-option-group.html)|||
 |[aws rds remove-role-from-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-role-from-db-cluster.html)|[Remove-RDSRoleFromDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSRoleFromDBCluster.html)|RDS|
 |[aws rds remove-role-from-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-role-from-db-instance.html)|[Remove-RDSRoleFromDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSRoleFromDBInstance.html)|RDS|
 |[aws rds remove-source-identifier-from-subscription](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-source-identifier-from-subscription.html)|[Remove-RDSSourceIdentifierFromSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSSourceIdentifierFromSubscription.html)|RDS|
@@ -120,7 +123,4 @@ date: 2019-03-13
 |[aws rds start-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-instance.html)|[Start-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBInstance.html)|RDS|
 |[aws rds stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-cluster.html)|[Stop-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBCluster.html)|RDS|
 |[aws rds stop-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|RDS|
-|[aws rds add-option-to-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/add-option-to-option-group.html)|||
-|[aws rds remove-option-from-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-option-from-option-group.html)|||
-|[aws rds generate-db-auth-token](https://docs.aws.amazon.com/cli/latest/reference/rds/generate-db-auth-token.html)|||
 

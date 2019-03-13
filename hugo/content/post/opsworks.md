@@ -61,6 +61,7 @@ date: 2019-03-13
 |[aws opsworks grant-access](https://docs.aws.amazon.com/cli/latest/reference/opsworks/grant-access.html)|[Grant-OPSAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-OPSAccess.html)|OPS|
 |[aws opsworks list-tags](https://docs.aws.amazon.com/cli/latest/reference/opsworks/list-tags.html)|[Get-OPSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OPSResourceTag.html)|OPS|
 |[aws opsworks reboot-instance](https://docs.aws.amazon.com/cli/latest/reference/opsworks/reboot-instance.html)|[Restart-OPSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-OPSInstance.html)|OPS|
+|[aws opsworks register](https://docs.aws.amazon.com/cli/latest/reference/opsworks/register.html)|||
 |[aws opsworks register-ecs-cluster](https://docs.aws.amazon.com/cli/latest/reference/opsworks/register-ecs-cluster.html)|[Register-OPSEcsCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-OPSEcsCluster.html)|OPS|
 |[aws opsworks register-elastic-ip](https://docs.aws.amazon.com/cli/latest/reference/opsworks/register-elastic-ip.html)|[Register-OPSElasticIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-OPSElasticIp.html)|OPS|
 |[aws opsworks register-instance](https://docs.aws.amazon.com/cli/latest/reference/opsworks/register-instance.html)|[Register-OPSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-OPSInstance.html)|OPS|
@@ -86,5 +87,4 @@ date: 2019-03-13
 |[aws opsworks update-stack](https://docs.aws.amazon.com/cli/latest/reference/opsworks/update-stack.html)|[Update-OPSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OPSStack.html)|OPS|
 |[aws opsworks update-user-profile](https://docs.aws.amazon.com/cli/latest/reference/opsworks/update-user-profile.html)|[Update-OPSUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OPSUserProfile.html)|OPS|
 |[aws opsworks update-volume](https://docs.aws.amazon.com/cli/latest/reference/opsworks/update-volume.html)|[Update-OPSVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OPSVolume.html)|OPS|
-|[aws opsworks register](https://docs.aws.amazon.com/cli/latest/reference/opsworks/register.html)|||
 

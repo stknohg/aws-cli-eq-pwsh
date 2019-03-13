@@ -47,6 +47,7 @@ date: 2019-03-13
 |[aws configservice get-compliance-summary-by-resource-type](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-compliance-summary-by-resource-type.html)|[Get-CFGComplianceSummaryByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGComplianceSummaryByResourceType.html)|CFG|
 |[aws configservice get-discovered-resource-counts](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-discovered-resource-counts.html)|[Get-CFGDiscoveredResourceCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDiscoveredResourceCount.html)|CFG|
 |[aws configservice get-resource-config-history](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-resource-config-history.html)|[Get-CFGResourceConfigHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceConfigHistory.html)|CFG|
+|[aws configservice get-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-status.html)|||
 |[aws configservice list-aggregate-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-aggregate-discovered-resources.html)|[Get-CFGAggregateDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateDiscoveredResourceList.html)|CFG|
 |[aws configservice list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-discovered-resources.html)|[Get-CFGDiscoveredResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDiscoveredResource.html)|CFG|
 |[aws configservice put-aggregation-authorization](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-aggregation-authorization.html)|[Write-CFGAggregationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGAggregationAuthorization.html)|CFG|
@@ -60,5 +61,4 @@ date: 2019-03-13
 |[aws configservice start-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-configuration-recorder.html)|[Start-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigurationRecorder.html)|CFG|
 |[aws configservice stop-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/stop-configuration-recorder.html)|[Stop-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFGConfigurationRecorder.html)|CFG|
 |[aws configservice subscribe](https://docs.aws.amazon.com/cli/latest/reference/configservice/subscribe.html)|||
-|[aws configservice get-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-status.html)|||
 

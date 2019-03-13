@@ -12,6 +12,6 @@ date: 2019-03-13
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
-|[aws sdb orbyrunning:](https://docs.aws.amazon.com/cli/latest/reference/sdb/orbyrunning:.html)|||
 |[aws sdb awsconfiguresetpreview.sdbtrue](https://docs.aws.amazon.com/cli/latest/reference/sdb/awsconfiguresetpreview.sdbtrue.html)|||
+|[aws sdb orbyrunning:](https://docs.aws.amazon.com/cli/latest/reference/sdb/orbyrunning:.html)|||
 

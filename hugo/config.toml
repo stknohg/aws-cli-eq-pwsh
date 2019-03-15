@@ -16,7 +16,7 @@ googleAnalytics = "UA-47904214-2"
   quality = 99
 
 [params]
-  homeMetaContent = "A Hugo theme made with PaperCSS, the less formal CSS framework."
+  homeMetaContent = "This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "2006-01-02"
 

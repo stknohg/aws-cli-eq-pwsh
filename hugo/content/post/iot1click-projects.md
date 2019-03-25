@@ -1,6 +1,6 @@
 ---
 title: iot1click-projects
-date: 2019-03-13
+date: 2019-03-25
 ---
 
 ## iot1click-projects
@@ -23,6 +23,9 @@ date: 2019-03-13
 |[aws iot1click-projects get-devices-in-placement](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/get-devices-in-placement.html)|||
 |[aws iot1click-projects list-placements](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/list-placements.html)|||
 |[aws iot1click-projects list-projects](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/list-projects.html)|||
+|[aws iot1click-projects list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/list-tags-for-resource.html)|||
+|[aws iot1click-projects tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/tag-resource.html)|||
+|[aws iot1click-projects untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/untag-resource.html)|||
 |[aws iot1click-projects update-placement](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/update-placement.html)|||
 |[aws iot1click-projects update-project](https://docs.aws.amazon.com/cli/latest/reference/iot1click-projects/update-project.html)|||
 

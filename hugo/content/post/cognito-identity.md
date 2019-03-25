@@ -1,6 +1,6 @@
 ---
 title: cognito-identity
-date: 2019-03-13
+date: 2019-03-25
 ---
 
 ## cognito-identity
@@ -24,10 +24,13 @@ date: 2019-03-13
 |[aws cognito-identity get-open-id-token-for-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-open-id-token-for-developer-identity.html)|||
 |[aws cognito-identity list-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-identities.html)|||
 |[aws cognito-identity list-identity-pools](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-identity-pools.html)|[Get-CGIIdentityPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIIdentityPoolList.html)|CGI|
+|[aws cognito-identity list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-tags-for-resource.html)|||
 |[aws cognito-identity lookup-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/lookup-developer-identity.html)|||
 |[aws cognito-identity merge-developer-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/merge-developer-identities.html)|||
 |[aws cognito-identity set-identity-pool-roles](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/set-identity-pool-roles.html)|[Set-CGIIdentityPoolRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIIdentityPoolRole.html)|CGI|
+|[aws cognito-identity tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/tag-resource.html)|||
 |[aws cognito-identity unlink-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/unlink-developer-identity.html)|||
 |[aws cognito-identity unlink-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/unlink-identity.html)|||
+|[aws cognito-identity untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/untag-resource.html)|||
 |[aws cognito-identity update-identity-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/update-identity-pool.html)|[Update-CGIIdentityPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIIdentityPool.html)|CGI|
 

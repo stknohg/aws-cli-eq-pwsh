@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2019-03-13
+date: 2019-03-25
 ---
 
 ## eks
@@ -18,6 +18,7 @@ date: 2019-03-13
 |[aws eks describe-update](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-update.html)|[Get-EKSUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdate.html)|EKS|
 |[aws eks list-clusters](https://docs.aws.amazon.com/cli/latest/reference/eks/list-clusters.html)|[Get-EKSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSClusterList.html)|EKS|
 |[aws eks list-updates](https://docs.aws.amazon.com/cli/latest/reference/eks/list-updates.html)|[Get-EKSUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdateList.html)|EKS|
+|[aws eks update-cluster-config](https://docs.aws.amazon.com/cli/latest/reference/eks/update-cluster-config.html)|||
 |[aws eks update-cluster-version](https://docs.aws.amazon.com/cli/latest/reference/eks/update-cluster-version.html)|[Update-EKSClusterVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSClusterVersion.html)|EKS|
 |[aws eks update-kubeconfig](https://docs.aws.amazon.com/cli/latest/reference/eks/update-kubeconfig.html)|||
 

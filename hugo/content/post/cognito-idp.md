@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2019-03-13
+date: 2019-03-25
 ---
 
 ## cognito-idp
@@ -82,6 +82,7 @@ date: 2019-03-13
 |[aws cognito-idp list-groups](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-groups.html)|[Get-CGIPGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPGroupList.html)|CGIP|
 |[aws cognito-idp list-identity-providers](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-identity-providers.html)|[Get-CGIPIdentityProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPIdentityProviderList.html)|CGIP|
 |[aws cognito-idp list-resource-servers](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-resource-servers.html)|[Get-CGIPResourceServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPResourceServerList.html)|CGIP|
+|[aws cognito-idp list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-tags-for-resource.html)|||
 |[aws cognito-idp list-user-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-user-import-jobs.html)|[Get-CGIPUserImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserImportJobList.html)|CGIP|
 |[aws cognito-idp list-user-pool-clients](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-user-pool-clients.html)|[Get-CGIPUserPoolClientList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolClientList.html)|CGIP|
 |[aws cognito-idp list-user-pools](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-user-pools.html)|[Get-CGIPUserPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolList.html)|CGIP|
@@ -97,6 +98,8 @@ date: 2019-03-13
 |[aws cognito-idp sign-up](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/sign-up.html)|||
 |[aws cognito-idp start-user-import-job](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/start-user-import-job.html)|[Start-CGIPUserImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CGIPUserImportJob.html)|CGIP|
 |[aws cognito-idp stop-user-import-job](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/stop-user-import-job.html)|[Stop-CGIPUserImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CGIPUserImportJob.html)|CGIP|
+|[aws cognito-idp tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/tag-resource.html)|||
+|[aws cognito-idp untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/untag-resource.html)|||
 |[aws cognito-idp update-auth-event-feedback](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-auth-event-feedback.html)|[Update-CGIPAuthEventFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPAuthEventFeedback.html)|CGIP|
 |[aws cognito-idp update-device-status](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-device-status.html)|[Edit-CGIPDeviceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-CGIPDeviceStatus.html)|CGIP|
 |[aws cognito-idp update-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-group.html)|[Update-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPGroup.html)|CGIP|

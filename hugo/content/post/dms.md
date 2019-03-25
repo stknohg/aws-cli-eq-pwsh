@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2019-03-13
+date: 2019-03-25
 ---
 
 ## dms
@@ -13,6 +13,7 @@ date: 2019-03-13
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
 |[aws dms add-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/dms/add-tags-to-resource.html)|[Set-DMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DMSResourceTag.html)|DMS|
+|[aws dms apply-pending-maintenance-action](https://docs.aws.amazon.com/cli/latest/reference/dms/apply-pending-maintenance-action.html)|||
 |[aws dms create-endpoint](https://docs.aws.amazon.com/cli/latest/reference/dms/create-endpoint.html)|[New-DMSEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEndpoint.html)|DMS|
 |[aws dms create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/dms/create-event-subscription.html)|[New-DMSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEventSubscription.html)|DMS|
 |[aws dms create-replication-instance](https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-instance.html)|[New-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationInstance.html)|DMS|
@@ -33,6 +34,7 @@ date: 2019-03-13
 |[aws dms describe-event-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-event-subscriptions.html)|[Get-DMSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEventSubscription.html)|DMS|
 |[aws dms describe-events](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-events.html)|[Get-DMSEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEvent.html)|DMS|
 |[aws dms describe-orderable-replication-instances](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-orderable-replication-instances.html)|[Get-DMSOrderableReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSOrderableReplicationInstance.html)|DMS|
+|[aws dms describe-pending-maintenance-actions](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-pending-maintenance-actions.html)|||
 |[aws dms describe-refresh-schemas-status](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-refresh-schemas-status.html)|[Get-DMSRefreshSchemasStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSRefreshSchemasStatus.html)|DMS|
 |[aws dms describe-replication-instance-task-logs](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instance-task-logs.html)|[Get-DMSReplicationInstanceTaskLog](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstanceTaskLog.html)|DMS|
 |[aws dms describe-replication-instances](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instances.html)|[Get-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstance.html)|DMS|

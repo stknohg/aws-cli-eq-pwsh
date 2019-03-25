@@ -1,6 +1,6 @@
 ---
 title: events
-date: 2019-03-13
+date: 2019-03-25
 ---
 
 ## events
@@ -19,6 +19,7 @@ date: 2019-03-13
 |[aws events enable-rule](https://docs.aws.amazon.com/cli/latest/reference/events/enable-rule.html)|[Enable-CWERule](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CWERule.html)|CWE|
 |[aws events list-rule-names-by-target](https://docs.aws.amazon.com/cli/latest/reference/events/list-rule-names-by-target.html)|[Get-CWERuleNamesByTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWERuleNamesByTarget.html)|CWE|
 |[aws events list-rules](https://docs.aws.amazon.com/cli/latest/reference/events/list-rules.html)|[Get-CWERule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWERule.html)|CWE|
+|[aws events list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/events/list-tags-for-resource.html)|||
 |[aws events list-targets-by-rule](https://docs.aws.amazon.com/cli/latest/reference/events/list-targets-by-rule.html)|[Get-CWETargetsByRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWETargetsByRule.html)|CWE|
 |[aws events put-events](https://docs.aws.amazon.com/cli/latest/reference/events/put-events.html)|[Write-CWEEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWEEvent.html)|CWE|
 |[aws events put-permission](https://docs.aws.amazon.com/cli/latest/reference/events/put-permission.html)|[Write-CWEPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWEPermission.html)|CWE|
@@ -26,5 +27,7 @@ date: 2019-03-13
 |[aws events put-targets](https://docs.aws.amazon.com/cli/latest/reference/events/put-targets.html)|[Write-CWETarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWETarget.html)|CWE|
 |[aws events remove-permission](https://docs.aws.amazon.com/cli/latest/reference/events/remove-permission.html)|[Remove-CWEPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWEPermission.html)|CWE|
 |[aws events remove-targets](https://docs.aws.amazon.com/cli/latest/reference/events/remove-targets.html)|[Remove-CWETarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWETarget.html)|CWE|
+|[aws events tag-resource](https://docs.aws.amazon.com/cli/latest/reference/events/tag-resource.html)|||
 |[aws events test-event-pattern](https://docs.aws.amazon.com/cli/latest/reference/events/test-event-pattern.html)|[Test-CWEEventPattern](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CWEEventPattern.html)|CWE|
+|[aws events untag-resource](https://docs.aws.amazon.com/cli/latest/reference/events/untag-resource.html)|||
 

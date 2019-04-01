@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## codepipeline
@@ -27,7 +27,7 @@ date: 2019-03-25
 |[aws codepipeline get-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-pipeline-execution.html)|[Get-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineExecution.html)|CP|
 |[aws codepipeline get-pipeline-state](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-pipeline-state.html)|[Get-CPPipelineState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineState.html)|CP|
 |[aws codepipeline get-third-party-job-details](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-third-party-job-details.html)|[Get-CPThirdPartyJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPThirdPartyJobDetail.html)|CP|
-|[aws codepipeline list-action-executions](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-action-executions.html)|||
+|[aws codepipeline list-action-executions](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-action-executions.html)|[Get-CPActionExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionExecutionList.html)|CP|
 |[aws codepipeline list-action-types](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-action-types.html)|[Get-CPActionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionType.html)|CP|
 |[aws codepipeline list-pipeline-executions](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-pipeline-executions.html)|[Get-CPPipelineExecutionSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineExecutionSummary.html)|CP|
 |[aws codepipeline list-pipelines](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-pipelines.html)|[Get-CPPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineList.html)|CP|

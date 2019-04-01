@@ -1,6 +1,6 @@
 ---
 title: acm
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## acm
@@ -21,7 +21,7 @@ date: 2019-03-25
 |[aws acm list-certificates](https://docs.aws.amazon.com/cli/latest/reference/acm/list-certificates.html)|[Get-ACMCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMCertificateList.html)|ACM|
 |[aws acm list-tags-for-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm/list-tags-for-certificate.html)|[Get-ACMCertificateTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMCertificateTagList.html)|ACM|
 |[aws acm remove-tags-from-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm/remove-tags-from-certificate.html)|[Remove-ACMCertificateTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ACMCertificateTag.html)|ACM|
-|[aws acm renew-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm/renew-certificate.html)|||
+|[aws acm renew-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm/renew-certificate.html)|[Invoke-ACMCertificateRenewal](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-ACMCertificateRenewal.html)|ACM|
 |[aws acm request-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm/request-certificate.html)|[New-ACMCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ACMCertificate.html)|ACM|
 |[aws acm resend-validation-email](https://docs.aws.amazon.com/cli/latest/reference/acm/resend-validation-email.html)|[Send-ACMValidationEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ACMValidationEmail.html)|ACM|
 |[aws acm update-certificate-options](https://docs.aws.amazon.com/cli/latest/reference/acm/update-certificate-options.html)|[Update-ACMCertificateOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ACMCertificateOption.html)|ACM|

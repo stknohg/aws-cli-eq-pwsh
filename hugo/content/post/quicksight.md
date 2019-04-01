@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## quicksight
@@ -17,7 +17,7 @@ date: 2019-03-25
 |[aws quicksight delete-group](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-group.html)|[Remove-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSGroup.html)|QS|
 |[aws quicksight delete-group-membership](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-group-membership.html)|[Remove-QSGroupMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSGroupMembership.html)|QS|
 |[aws quicksight delete-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user.html)|[Remove-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUser.html)|QS|
-|[aws quicksight delete-user-by-principal-id](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user-by-principal-id.html)|||
+|[aws quicksight delete-user-by-principal-id](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user-by-principal-id.html)|[Remove-QSUserByPrincipalId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUserByPrincipalId.html)|QS|
 |[aws quicksight describe-group](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-group.html)|[Get-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroup.html)|QS|
 |[aws quicksight describe-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-user.html)|[Get-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUser.html)|QS|
 |[aws quicksight get-dashboard-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-dashboard-embed-url.html)|[Get-QSDashboardEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardEmbedUrl.html)|QS|

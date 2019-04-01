@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## iot
@@ -98,7 +98,7 @@ date: 2019-03-25
 |[aws iot get-policy](https://docs.aws.amazon.com/cli/latest/reference/iot/get-policy.html)|[Get-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicy.html)|IOT|
 |[aws iot get-policy-version](https://docs.aws.amazon.com/cli/latest/reference/iot/get-policy-version.html)|[Get-IOTPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyVersion.html)|IOT|
 |[aws iot get-registration-code](https://docs.aws.amazon.com/cli/latest/reference/iot/get-registration-code.html)|[Get-IOTRegistrationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRegistrationCode.html)|IOT|
-|[aws iot get-statistics](https://docs.aws.amazon.com/cli/latest/reference/iot/get-statistics.html)|||
+|[aws iot get-statistics](https://docs.aws.amazon.com/cli/latest/reference/iot/get-statistics.html)|[Get-IOTStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTStatistic.html)|IOT|
 |[aws iot get-topic-rule](https://docs.aws.amazon.com/cli/latest/reference/iot/get-topic-rule.html)|[Get-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTopicRule.html)|IOT|
 |[aws iot get-v2-logging-options](https://docs.aws.amazon.com/cli/latest/reference/iot/get-v2-logging-options.html)|[Get-IOTV2LoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTV2LoggingOption.html)|IOT|
 |[aws iot list-active-violations](https://docs.aws.amazon.com/cli/latest/reference/iot/list-active-violations.html)|[Get-IOTActiveViolationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTActiveViolationList.html)|IOT|

@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## configservice
@@ -21,7 +21,7 @@ date: 2019-03-25
 |[aws configservice delete-delivery-channel](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-delivery-channel.html)|[Remove-CFGDeliveryChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGDeliveryChannel.html)|CFG|
 |[aws configservice delete-evaluation-results](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-evaluation-results.html)|[Remove-CFGEvaluationResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGEvaluationResult.html)|CFG|
 |[aws configservice delete-pending-aggregation-request](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-pending-aggregation-request.html)|[Remove-CFGPendingAggregationRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGPendingAggregationRequest.html)|CFG|
-|[aws configservice delete-remediation-configuration](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-remediation-configuration.html)|||
+|[aws configservice delete-remediation-configuration](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-remediation-configuration.html)|[Remove-CFGRemediationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGRemediationConfiguration.html)|CFG|
 |[aws configservice delete-retention-configuration](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-retention-configuration.html)|[Remove-CFGRetentionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGRetentionConfiguration.html)|CFG|
 |[aws configservice deliver-config-snapshot](https://docs.aws.amazon.com/cli/latest/reference/configservice/deliver-config-snapshot.html)|[Submit-CFGConfigSnapshotDelivery](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-CFGConfigSnapshotDelivery.html)|CFG|
 |[aws configservice describe-aggregate-compliance-by-config-rules](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-aggregate-compliance-by-config-rules.html)|[Get-CFGAggregateComplianceByConfigRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateComplianceByConfigRuleList.html)|CFG|
@@ -37,8 +37,8 @@ date: 2019-03-25
 |[aws configservice describe-delivery-channel-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-delivery-channel-status.html)|[Get-CFGDeliveryChannelStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDeliveryChannelStatus.html)|CFG|
 |[aws configservice describe-delivery-channels](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-delivery-channels.html)|[Get-CFGDeliveryChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDeliveryChannel.html)|CFG|
 |[aws configservice describe-pending-aggregation-requests](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-pending-aggregation-requests.html)|[Get-CFGPendingAggregationRequestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGPendingAggregationRequestList.html)|CFG|
-|[aws configservice describe-remediation-configurations](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-remediation-configurations.html)|||
-|[aws configservice describe-remediation-execution-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-remediation-execution-status.html)|||
+|[aws configservice describe-remediation-configurations](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-remediation-configurations.html)|[Get-CFGRemediationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGRemediationConfiguration.html)|CFG|
+|[aws configservice describe-remediation-execution-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-remediation-execution-status.html)|[Get-CFGRemediationExecutionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGRemediationExecutionStatus.html)|CFG|
 |[aws configservice describe-retention-configurations](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-retention-configurations.html)|[Get-CFGRetentionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGRetentionConfiguration.html)|CFG|
 |[aws configservice get-aggregate-compliance-details-by-config-rule](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-compliance-details-by-config-rule.html)|[Get-CFGAggregateComplianceDetailsByConfigRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateComplianceDetailsByConfigRule.html)|CFG|
 |[aws configservice get-aggregate-config-rule-compliance-summary](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-config-rule-compliance-summary.html)|[Get-CFGAggregateConfigRuleComplianceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateConfigRuleComplianceSummary.html)|CFG|
@@ -53,21 +53,21 @@ date: 2019-03-25
 |[aws configservice get-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-status.html)|||
 |[aws configservice list-aggregate-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-aggregate-discovered-resources.html)|[Get-CFGAggregateDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateDiscoveredResourceList.html)|CFG|
 |[aws configservice list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-discovered-resources.html)|[Get-CFGDiscoveredResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDiscoveredResource.html)|CFG|
-|[aws configservice list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-tags-for-resource.html)|||
+|[aws configservice list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-tags-for-resource.html)|[Get-CFGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceTag.html)|CFG|
 |[aws configservice put-aggregation-authorization](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-aggregation-authorization.html)|[Write-CFGAggregationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGAggregationAuthorization.html)|CFG|
 |[aws configservice put-config-rule](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-config-rule.html)|[Write-CFGConfigRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGConfigRule.html)|CFG|
 |[aws configservice put-configuration-aggregator](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-configuration-aggregator.html)|[Write-CFGConfigurationAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGConfigurationAggregator.html)|CFG|
 |[aws configservice put-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-configuration-recorder.html)|[Write-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGConfigurationRecorder.html)|CFG|
 |[aws configservice put-delivery-channel](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-delivery-channel.html)|[Write-CFGDeliveryChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGDeliveryChannel.html)|CFG|
 |[aws configservice put-evaluations](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-evaluations.html)|[Write-CFGEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGEvaluation.html)|CFG|
-|[aws configservice put-remediation-configurations](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-remediation-configurations.html)|||
+|[aws configservice put-remediation-configurations](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-remediation-configurations.html)|[Write-CFGRemediationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGRemediationConfiguration.html)|CFG|
 |[aws configservice put-retention-configuration](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-retention-configuration.html)|[Write-CFGRetentionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGRetentionConfiguration.html)|CFG|
-|[aws configservice select-resource-config](https://docs.aws.amazon.com/cli/latest/reference/configservice/select-resource-config.html)|||
+|[aws configservice select-resource-config](https://docs.aws.amazon.com/cli/latest/reference/configservice/select-resource-config.html)|[Select-CFGResourceConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Select-CFGResourceConfig.html)|CFG|
 |[aws configservice start-config-rules-evaluation](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-config-rules-evaluation.html)|[Start-CFGConfigRulesEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigRulesEvaluation.html)|CFG|
 |[aws configservice start-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-configuration-recorder.html)|[Start-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigurationRecorder.html)|CFG|
-|[aws configservice start-remediation-execution](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-remediation-execution.html)|||
+|[aws configservice start-remediation-execution](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-remediation-execution.html)|[Start-CFGRemediationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGRemediationExecution.html)|CFG|
 |[aws configservice stop-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/stop-configuration-recorder.html)|[Stop-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFGConfigurationRecorder.html)|CFG|
 |[aws configservice subscribe](https://docs.aws.amazon.com/cli/latest/reference/configservice/subscribe.html)|||
-|[aws configservice tag-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/tag-resource.html)|||
-|[aws configservice untag-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/untag-resource.html)|||
+|[aws configservice tag-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/tag-resource.html)|[Add-CFGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CFGResourceTag.html)|CFG|
+|[aws configservice untag-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/untag-resource.html)|[Remove-CFGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGResourceTag.html)|CFG|
 

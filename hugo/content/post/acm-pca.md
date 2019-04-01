@@ -1,6 +1,6 @@
 ---
 title: acm-pca
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## acm-pca
@@ -14,9 +14,9 @@ date: 2019-03-25
 |----|----|:--:|
 |[aws acm-pca create-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/create-certificate-authority.html)|[New-PCACertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PCACertificateAuthority.html)|PCA|
 |[aws acm-pca create-certificate-authority-audit-report](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/create-certificate-authority-audit-report.html)|[New-PCACertificateAuthorityAuditReport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PCACertificateAuthorityAuditReport.html)|PCA|
-|[aws acm-pca create-permission](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/create-permission.html)|||
+|[aws acm-pca create-permission](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/create-permission.html)|[New-PCAPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PCAPermission.html)|PCA|
 |[aws acm-pca delete-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/delete-certificate-authority.html)|[Remove-PCACertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PCACertificateAuthority.html)|PCA|
-|[aws acm-pca delete-permission](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/delete-permission.html)|||
+|[aws acm-pca delete-permission](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/delete-permission.html)|[Remove-PCAPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PCAPermission.html)|PCA|
 |[aws acm-pca describe-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/describe-certificate-authority.html)|[Get-PCACertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCACertificateAuthority.html)|PCA|
 |[aws acm-pca describe-certificate-authority-audit-report](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/describe-certificate-authority-audit-report.html)|[Get-PCACertificateAuthorityAuditReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCACertificateAuthorityAuditReport.html)|PCA|
 |[aws acm-pca get-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/get-certificate.html)|[Get-PCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCACertificate.html)|PCA|
@@ -25,7 +25,7 @@ date: 2019-03-25
 |[aws acm-pca import-certificate-authority-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/import-certificate-authority-certificate.html)|[Import-PCACertificateAuthorityCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-PCACertificateAuthorityCertificate.html)|PCA|
 |[aws acm-pca issue-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/issue-certificate.html)|[New-PCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PCACertificate.html)|PCA|
 |[aws acm-pca list-certificate-authorities](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/list-certificate-authorities.html)|[Get-PCACertificateAuthorityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCACertificateAuthorityList.html)|PCA|
-|[aws acm-pca list-permissions](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/list-permissions.html)|||
+|[aws acm-pca list-permissions](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/list-permissions.html)|[Get-PCAPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAPermissionList.html)|PCA|
 |[aws acm-pca list-tags](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/list-tags.html)|[Get-PCACertificateAuthorityTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCACertificateAuthorityTagList.html)|PCA|
 |[aws acm-pca restore-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/restore-certificate-authority.html)|[Restore-PCACertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-PCACertificateAuthority.html)|PCA|
 |[aws acm-pca revoke-certificate](https://docs.aws.amazon.com/cli/latest/reference/acm-pca/revoke-certificate.html)|[Revoke-PCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-PCACertificate.html)|PCA|

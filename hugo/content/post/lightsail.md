@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## lightsail
@@ -41,7 +41,7 @@ date: 2019-03-25
 |[aws lightsail delete-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-instance.html)|[Remove-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSInstance.html)|LS|
 |[aws lightsail delete-instance-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-instance-snapshot.html)|[Remove-LSInstanceSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSInstanceSnapshot.html)|LS|
 |[aws lightsail delete-key-pair](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-key-pair.html)|[Remove-LSKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSKeyPair.html)|LS|
-|[aws lightsail delete-known-host-keys](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-known-host-keys.html)|||
+|[aws lightsail delete-known-host-keys](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-known-host-keys.html)|[Remove-LSKnownHostKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSKnownHostKey.html)|LS|
 |[aws lightsail delete-load-balancer](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-load-balancer.html)|[Remove-LSLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSLoadBalancer.html)|LS|
 |[aws lightsail delete-load-balancer-tls-certificate](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-load-balancer-tls-certificate.html)|[Remove-LSLoadBalancerTlsCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSLoadBalancerTlsCertificate.html)|LS|
 |[aws lightsail delete-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-relational-database.html)|[Remove-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSRelationalDatabase.html)|LS|

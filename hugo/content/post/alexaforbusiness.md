@@ -1,6 +1,6 @@
 ---
 title: alexaforbusiness
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## alexaforbusiness
@@ -48,7 +48,7 @@ date: 2019-03-25
 |[aws alexaforbusiness get-conference-provider](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-conference-provider.html)|[Get-ALXBConferenceProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBConferenceProvider.html)|ALXB|
 |[aws alexaforbusiness get-contact](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-contact.html)|[Get-ALXBContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBContact.html)|ALXB|
 |[aws alexaforbusiness get-device](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-device.html)|[Get-ALXBDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBDevice.html)|ALXB|
-|[aws alexaforbusiness get-invitation-configuration](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-invitation-configuration.html)|||
+|[aws alexaforbusiness get-invitation-configuration](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-invitation-configuration.html)|[Get-ALXBInvitationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBInvitationConfiguration.html)|ALXB|
 |[aws alexaforbusiness get-profile](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-profile.html)|[Get-ALXBProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBProfile.html)|ALXB|
 |[aws alexaforbusiness get-room](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-room.html)|[Get-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBRoom.html)|ALXB|
 |[aws alexaforbusiness get-room-skill-parameter](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-room-skill-parameter.html)|[Get-ALXBRoomSkillParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBRoomSkillParameter.html)|ALXB|
@@ -62,7 +62,7 @@ date: 2019-03-25
 |[aws alexaforbusiness list-smart-home-appliances](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-smart-home-appliances.html)|[Get-ALXBSmartHomeApplianceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBSmartHomeApplianceList.html)|ALXB|
 |[aws alexaforbusiness list-tags](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-tags.html)|[Get-ALXBTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBTagList.html)|ALXB|
 |[aws alexaforbusiness put-conference-preference](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/put-conference-preference.html)|[Write-ALXBConferencePreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ALXBConferencePreference.html)|ALXB|
-|[aws alexaforbusiness put-invitation-configuration](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/put-invitation-configuration.html)|||
+|[aws alexaforbusiness put-invitation-configuration](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/put-invitation-configuration.html)|[Write-ALXBInvitationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ALXBInvitationConfiguration.html)|ALXB|
 |[aws alexaforbusiness put-room-skill-parameter](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/put-room-skill-parameter.html)|[Set-ALXBRoomSkillParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ALXBRoomSkillParameter.html)|ALXB|
 |[aws alexaforbusiness put-skill-authorization](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/put-skill-authorization.html)|[Write-ALXBSkillAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ALXBSkillAuthorization.html)|ALXB|
 |[aws alexaforbusiness register-avs-device](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/register-avs-device.html)|[Register-ALXBAVSDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-ALXBAVSDevice.html)|ALXB|

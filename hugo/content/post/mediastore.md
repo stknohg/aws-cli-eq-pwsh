@@ -1,6 +1,6 @@
 ---
 title: mediastore
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## mediastore
@@ -25,6 +25,6 @@ date: 2019-03-25
 |[aws mediastore put-container-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/put-container-policy.html)|[Write-EMSContainerPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMSContainerPolicy.html)|EMS|
 |[aws mediastore put-cors-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/put-cors-policy.html)|[Write-EMSCorsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMSCorsPolicy.html)|EMS|
 |[aws mediastore put-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/put-lifecycle-policy.html)|[Write-EMSLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMSLifecyclePolicy.html)|EMS|
-|[aws mediastore start-access-logging](https://docs.aws.amazon.com/cli/latest/reference/mediastore/start-access-logging.html)|||
-|[aws mediastore stop-access-logging](https://docs.aws.amazon.com/cli/latest/reference/mediastore/stop-access-logging.html)|||
+|[aws mediastore start-access-logging](https://docs.aws.amazon.com/cli/latest/reference/mediastore/start-access-logging.html)|[Start-EMSAccessLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMSAccessLogging.html)|EMS|
+|[aws mediastore stop-access-logging](https://docs.aws.amazon.com/cli/latest/reference/mediastore/stop-access-logging.html)|[Stop-EMSAccessLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMSAccessLogging.html)|EMS|
 

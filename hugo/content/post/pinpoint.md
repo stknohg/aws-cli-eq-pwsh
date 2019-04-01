@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## pinpoint
@@ -65,15 +65,15 @@ date: 2019-03-25
 |[aws pinpoint get-sms-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-sms-channel.html)|[Get-PINSmsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSmsChannel.html)|PIN|
 |[aws pinpoint get-user-endpoints](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-user-endpoints.html)|[Get-PINUserEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINUserEndpoint.html)|PIN|
 |[aws pinpoint get-voice-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-voice-channel.html)|[Get-PINVoiceChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINVoiceChannel.html)|PIN|
-|[aws pinpoint list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-tags-for-resource.html)|||
+|[aws pinpoint list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-tags-for-resource.html)|[Get-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINResourceTag.html)|PIN|
 |[aws pinpoint phone-number-validate](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/phone-number-validate.html)|[Confirm-PINPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-PINPhoneNumber.html)|PIN|
 |[aws pinpoint put-event-stream](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/put-event-stream.html)|[Write-PINEventStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEventStream.html)|PIN|
 |[aws pinpoint put-events](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/put-events.html)|[Write-PINEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEvent.html)|PIN|
 |[aws pinpoint remove-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/remove-attributes.html)|[Remove-PINAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINAttribute.html)|PIN|
 |[aws pinpoint send-messages](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/send-messages.html)|[Send-PINMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PINMessage.html)|PIN|
 |[aws pinpoint send-users-messages](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/send-users-messages.html)|[Send-PINUserMessageBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PINUserMessageBatch.html)|PIN|
-|[aws pinpoint tag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/tag-resource.html)|||
-|[aws pinpoint untag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/untag-resource.html)|||
+|[aws pinpoint tag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/tag-resource.html)|[Add-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PINResourceTag.html)|PIN|
+|[aws pinpoint untag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/untag-resource.html)|[Remove-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINResourceTag.html)|PIN|
 |[aws pinpoint update-adm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-adm-channel.html)|[Update-PINAdmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINAdmChannel.html)|PIN|
 |[aws pinpoint update-apns-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-apns-channel.html)|[Update-PINApnsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINApnsChannel.html)|PIN|
 |[aws pinpoint update-apns-sandbox-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-apns-sandbox-channel.html)|[Update-PINApnsSandboxChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINApnsSandboxChannel.html)|PIN|

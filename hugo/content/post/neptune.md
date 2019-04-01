@@ -1,6 +1,6 @@
 ---
 title: neptune
-date: 2019-03-25
+date: 2019-04-01
 ---
 
 ## neptune
@@ -50,7 +50,7 @@ date: 2019-03-25
 |[aws neptune describe-events](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-events.html)|[Get-NPTEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTEvent.html)|NPT|
 |[aws neptune describe-orderable-db-instance-options](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-orderable-db-instance-options.html)|[Get-NPTOrderableDBInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTOrderableDBInstanceOption.html)|NPT|
 |[aws neptune describe-pending-maintenance-actions](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-pending-maintenance-actions.html)|[Get-NPTPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTPendingMaintenanceAction.html)|NPT|
-|[aws neptune describe-valid-db-instance-modifications](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-valid-db-instance-modifications.html)|[Get-NPTValidDBInstanceModifications](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTValidDBInstanceModifications.html)|NPT|
+|[aws neptune describe-valid-db-instance-modifications](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-valid-db-instance-modifications.html)|[Get-NPTValidDBInstanceModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTValidDBInstanceModification.html)|NPT|
 |[aws neptune failover-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/neptune/failover-db-cluster.html)|[Start-NPTDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NPTDBClusterFailover.html)|NPT|
 |[aws neptune list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/neptune/list-tags-for-resource.html)|[Get-NPTResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTResourceTagList.html)|NPT|
 |[aws neptune modify-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/neptune/modify-db-cluster.html)|[Edit-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBCluster.html)|NPT|

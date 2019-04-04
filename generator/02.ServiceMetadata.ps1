@@ -238,7 +238,7 @@ $g_AWSServices = @{
     'sts'                          = [PSCustomObject]@{ Prefix = 'STS'; Name = 'AWS Security Token Service'; Url = 'https://aws.amazon.com/iam/'; Note = ''};
     'support'                      = [PSCustomObject]@{ Prefix = 'ASA'; Name = 'AWS Support'; Url = 'https://aws.amazon.com/premiumsupport/'; Note = ''};
     'swf'                          = [PSCustomObject]@{ Prefix = 'SWF'; Name = 'Amazon Simple Workflow'; Url = 'https://aws.amazon.com/swf/'; Note = ''};
-    'textract'                     = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Textract'; Url = 'https://aws.amazon.com/textract/'; Note = ''};
+    'textract'                     = [PSCustomObject]@{ Prefix = 'TXT'; Name = 'Amazon Textract'; Url = 'https://aws.amazon.com/textract/'; Note = ''};
     'transcribe'                   = [PSCustomObject]@{ Prefix = 'TRS'; Name = 'Amazon Transcribe'; Url = 'https://aws.amazon.com/transcribe/'; Note = ''};
     'transfer'                     = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer for SFTP'; Url = 'https://aws.amazon.com/sftp/'; Note = ''};
     'translate'                    = [PSCustomObject]@{ Prefix = 'TRN'; Name = 'Amazon Translate'; Url = 'https://aws.amazon.com/translate/'; Note = ''};
@@ -416,7 +416,7 @@ $g_CmdletReferenceLinks = @{
     'sts'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Token_Service_cmdlets.html';
     'support'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Support_API_cmdlets.html';
     'swf'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Simple_Workflow_Service_cmdlets.html';
-    'textract'                     = '';
+    'textract'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Textract_cmdlets.html';
     'transcribe'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Transcribe_Service_cmdlets.html';
     'transfer'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html';
     'translate'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Translate_cmdlets.html';

@@ -8,7 +8,7 @@ date: 2019-04-04
 ### [Amazon Textract](https://aws.amazon.com/textract/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/textract/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Textract_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|

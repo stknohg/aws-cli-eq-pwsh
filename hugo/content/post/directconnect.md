@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2019-04-01
+date: 2019-04-04
 ---
 
 ## directconnect
@@ -12,6 +12,7 @@ date: 2019-04-01
 
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
+|[aws directconnect accept-direct-connect-gateway-association-proposal](https://docs.aws.amazon.com/cli/latest/reference/directconnect/accept-direct-connect-gateway-association-proposal.html)|[Confirm-DCDirectConnectGatewayAssociationProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCDirectConnectGatewayAssociationProposal.html)|DC|
 |[aws directconnect allocate-connection-on-interconnect](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-connection-on-interconnect.html)|[Enable-DCConnectionOnInterconnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DCConnectionOnInterconnect.html)|DC|
 |[aws directconnect allocate-hosted-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-hosted-connection.html)|[New-DCHostedConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCHostedConnection.html)|DC|
 |[aws directconnect allocate-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-private-virtual-interface.html)|[Enable-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DCPrivateVirtualInterface.html)|DC|
@@ -26,6 +27,7 @@ date: 2019-04-01
 |[aws directconnect create-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-connection.html)|[New-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCConnection.html)|DC|
 |[aws directconnect create-direct-connect-gateway](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-direct-connect-gateway.html)|[New-DCGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCGateway.html)|DC|
 |[aws directconnect create-direct-connect-gateway-association](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-direct-connect-gateway-association.html)|[New-DCGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCGatewayAssociation.html)|DC|
+|[aws directconnect create-direct-connect-gateway-association-proposal](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-direct-connect-gateway-association-proposal.html)|[New-DCDirectConnectGatewayAssociationProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCDirectConnectGatewayAssociationProposal.html)|DC|
 |[aws directconnect create-interconnect](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-interconnect.html)|[New-DCInterconnect](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCInterconnect.html)|DC|
 |[aws directconnect create-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-lag.html)|[New-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCLag.html)|DC|
 |[aws directconnect create-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-private-virtual-interface.html)|[New-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCPrivateVirtualInterface.html)|DC|
@@ -34,12 +36,14 @@ date: 2019-04-01
 |[aws directconnect delete-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-connection.html)|[Remove-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCConnection.html)|DC|
 |[aws directconnect delete-direct-connect-gateway](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-direct-connect-gateway.html)|[Remove-DCGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCGateway.html)|DC|
 |[aws directconnect delete-direct-connect-gateway-association](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-direct-connect-gateway-association.html)|[Remove-DCGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCGatewayAssociation.html)|DC|
+|[aws directconnect delete-direct-connect-gateway-association-proposal](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-direct-connect-gateway-association-proposal.html)|[Remove-DCDirectConnectGatewayAssociationProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCDirectConnectGatewayAssociationProposal.html)|DC|
 |[aws directconnect delete-interconnect](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-interconnect.html)|[Remove-DCInterconnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCInterconnect.html)|DC|
 |[aws directconnect delete-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-lag.html)|[Remove-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCLag.html)|DC|
 |[aws directconnect delete-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-virtual-interface.html)|[Remove-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCVirtualInterface.html)|DC|
 |[aws directconnect describe-connection-loa](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-connection-loa.html)|[Get-DCConnectionLoa](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCConnectionLoa.html)|DC|
 |[aws directconnect describe-connections](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-connections.html)|[Get-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCConnection.html)|DC|
 |[aws directconnect describe-connections-on-interconnect](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-connections-on-interconnect.html)|[Get-DCConnectionsOnInterconnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCConnectionsOnInterconnect.html)|DC|
+|[aws directconnect describe-direct-connect-gateway-association-proposals](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateway-association-proposals.html)|[Get-DCDirectConnectGatewayAssociationProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCDirectConnectGatewayAssociationProposal.html)|DC|
 |[aws directconnect describe-direct-connect-gateway-associations](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateway-associations.html)|[Get-DCGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCGatewayAssociation.html)|DC|
 |[aws directconnect describe-direct-connect-gateway-attachments](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateway-attachments.html)|[Get-DCGatewayAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCGatewayAttachment.html)|DC|
 |[aws directconnect describe-direct-connect-gateways](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateways.html)|[Get-DCGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCGateway.html)|DC|
@@ -55,6 +59,7 @@ date: 2019-04-01
 |[aws directconnect disassociate-connection-from-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/disassociate-connection-from-lag.html)|[Unregister-DCConnectionFromLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DCConnectionFromLag.html)|DC|
 |[aws directconnect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/tag-resource.html)|[Add-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DCResourceTag.html)|DC|
 |[aws directconnect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/untag-resource.html)|[Remove-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCResourceTag.html)|DC|
+|[aws directconnect update-direct-connect-gateway-association](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-direct-connect-gateway-association.html)|[Update-DCDirectConnectGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCDirectConnectGatewayAssociation.html)|DC|
 |[aws directconnect update-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-lag.html)|[Update-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCLag.html)|DC|
 |[aws directconnect update-virtual-interface-attributes](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-virtual-interface-attributes.html)|[Update-DCVirtualInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCVirtualInterfaceAttribute.html)|DC|
 

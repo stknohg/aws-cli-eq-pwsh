@@ -1,6 +1,6 @@
 ---
 title: fms
-date: 2019-04-01
+date: 2019-04-04
 ---
 
 ## fms
@@ -20,6 +20,7 @@ date: 2019-04-01
 |[aws fms get-compliance-detail](https://docs.aws.amazon.com/cli/latest/reference/fms/get-compliance-detail.html)|[Get-FMSComplianceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSComplianceDetail.html)|FMS|
 |[aws fms get-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/fms/get-notification-channel.html)|[Get-FMSNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSNotificationChannel.html)|FMS|
 |[aws fms get-policy](https://docs.aws.amazon.com/cli/latest/reference/fms/get-policy.html)|[Get-FMSPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSPolicy.html)|FMS|
+|[aws fms get-protection-status](https://docs.aws.amazon.com/cli/latest/reference/fms/get-protection-status.html)|[Get-FMSProtectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSProtectionStatus.html)|FMS|
 |[aws fms list-compliance-status](https://docs.aws.amazon.com/cli/latest/reference/fms/list-compliance-status.html)|[Get-FMSComplianceStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSComplianceStatusList.html)|FMS|
 |[aws fms list-member-accounts](https://docs.aws.amazon.com/cli/latest/reference/fms/list-member-accounts.html)|[Get-FMSMemberAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSMemberAccountList.html)|FMS|
 |[aws fms list-policies](https://docs.aws.amazon.com/cli/latest/reference/fms/list-policies.html)|[Get-FMSPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSPolicyList.html)|FMS|

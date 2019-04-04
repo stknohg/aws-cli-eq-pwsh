@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2019-04-01
+date: 2019-04-04
 ---
 
 ## cloudwatch
@@ -25,8 +25,11 @@ date: 2019-04-01
 |[aws cloudwatch get-metric-widget-image](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/get-metric-widget-image.html)|[Get-CWMetricWidgetImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricWidgetImage.html)|CW|
 |[aws cloudwatch list-dashboards](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-dashboards.html)|[Get-CWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboardList.html)|CW|
 |[aws cloudwatch list-metrics](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-metrics.html)|[Get-CWMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricList.html)|CW|
+|[aws cloudwatch list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-tags-for-resource.html)|||
 |[aws cloudwatch put-dashboard](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-dashboard.html)|[Write-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWDashboard.html)|CW|
 |[aws cloudwatch put-metric-alarm](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-alarm.html)|[Write-CWMetricAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricAlarm.html)|CW|
 |[aws cloudwatch put-metric-data](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-data.html)|[Write-CWMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricData.html)|CW|
 |[aws cloudwatch set-alarm-state](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/set-alarm-state.html)|[Set-CWAlarmState](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CWAlarmState.html)|CW|
+|[aws cloudwatch tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/tag-resource.html)|||
+|[aws cloudwatch untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/untag-resource.html)|||
 

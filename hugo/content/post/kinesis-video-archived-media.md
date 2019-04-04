@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-archived-media
-date: 2019-04-01
+date: 2019-04-04
 ---
 
 ## kinesis-video-archived-media

@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2019-04-01
+date: 2019-04-04
 ---
 
 ## ecs
@@ -14,10 +14,12 @@ date: 2019-04-01
 |----|----|:--:|
 |[aws ecs create-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-cluster.html)|[New-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCluster.html)|ECS|
 |[aws ecs create-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-service.html)|[New-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSService.html)|ECS|
+|[aws ecs create-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-task-set.html)|[New-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTaskSet.html)|ECS|
 |[aws ecs delete-account-setting](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-account-setting.html)|[Remove-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSAccountSetting.html)|ECS|
 |[aws ecs delete-attributes](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-attributes.html)|[Remove-ECSAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSAttribute.html)|ECS|
 |[aws ecs delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-cluster.html)|[Remove-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSCluster.html)|ECS|
 |[aws ecs delete-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-service.html)|[Remove-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSService.html)|ECS|
+|[aws ecs delete-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-task-set.html)|[Remove-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSTaskSet.html)|ECS|
 |[aws ecs deploy](https://docs.aws.amazon.com/cli/latest/reference/ecs/deploy.html)|||
 |[aws ecs deregister-container-instance](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-container-instance.html)|[Unregister-ECSContainerInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSContainerInstance.html)|ECS|
 |[aws ecs deregister-task-definition](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-task-definition.html)|[Unregister-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSTaskDefinition.html)|ECS|
@@ -25,6 +27,7 @@ date: 2019-04-01
 |[aws ecs describe-container-instances](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-container-instances.html)|[Get-ECSContainerInstanceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSContainerInstanceDetail.html)|ECS|
 |[aws ecs describe-services](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-services.html)|[Get-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSService.html)|ECS|
 |[aws ecs describe-task-definition](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-task-definition.html)|[Get-ECSTaskDefinitionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDefinitionDetail.html)|ECS|
+|[aws ecs describe-task-sets](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-task-sets.html)|[Get-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskSet.html)|ECS|
 |[aws ecs describe-tasks](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-tasks.html)|[Get-ECSTaskDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDetail.html)|ECS|
 |[aws ecs discover-poll-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ecs/discover-poll-endpoint.html)|||
 |[aws ecs list-account-settings](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-account-settings.html)|[Get-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSAccountSetting.html)|ECS|
@@ -51,4 +54,6 @@ date: 2019-04-01
 |[aws ecs update-container-agent](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-agent.html)|[Update-ECSContainerAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerAgent.html)|ECS|
 |[aws ecs update-container-instances-state](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|ECS|
 |[aws ecs update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html)|[Update-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSService.html)|ECS|
+|[aws ecs update-service-primary-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service-primary-task-set.html)|[Update-ECSServicePrimaryTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSServicePrimaryTaskSet.html)|ECS|
+|[aws ecs update-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-task-set.html)|[Update-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSTaskSet.html)|ECS|
 

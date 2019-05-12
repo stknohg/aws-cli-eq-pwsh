@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aws-cli-eq-pwsh.shibata.tech/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/acm/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url>
@@ -879,11 +884,6 @@
   
   <url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/xray/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aws-cli-eq-pwsh.shibata.tech/</loc>
     <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url>
   

@@ -32,7 +32,7 @@ function Export-TopPageMarkdown {
     return & {
         "---"
         "title: AWS CLI -eq PowerShell"
-        "date: $((Get-Date).ToString('yyyy-MM-dd', [CultureInfo]::InvariantCulture)))"
+        "date: $((Get-Date).ToString('yyyy-MM-dd', [CultureInfo]::InvariantCulture))"
         "---"
         ""
         "<br/>"
@@ -94,7 +94,7 @@ function Export-PostPageMarkdown {
         & {
             "---"
             "title: $ServiceName"
-            "date: $((Get-Date).ToString('yyyy-MM-dd', [CultureInfo]::InvariantCulture)))"
+            "date: $((Get-Date).ToString('yyyy-MM-dd', [CultureInfo]::InvariantCulture))"
             "---"
             ""
             "## $ServiceName"

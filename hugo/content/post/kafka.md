@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## kafka
@@ -18,4 +18,7 @@ date: 2019-04-04
 |[aws kafka get-bootstrap-brokers](https://docs.aws.amazon.com/cli/latest/reference/kafka/get-bootstrap-brokers.html)|[Get-MSKBootstrapBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKBootstrapBroker.html)|MSK|
 |[aws kafka list-clusters](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-clusters.html)|[Get-MSKClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterList.html)|MSK|
 |[aws kafka list-nodes](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-nodes.html)|[Get-MSKNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKNodeList.html)|MSK|
+|[aws kafka list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-tags-for-resource.html)|[Get-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKResourceTag.html)|MSK|
+|[aws kafka tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/tag-resource.html)|[Add-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MSKResourceTag.html)|MSK|
+|[aws kafka untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/untag-resource.html)|[Remove-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKResourceTag.html)|MSK|
 

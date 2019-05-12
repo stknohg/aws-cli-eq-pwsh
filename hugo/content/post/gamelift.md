@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## gamelift
@@ -22,6 +22,7 @@ date: 2019-04-04
 |[aws gamelift create-matchmaking-rule-set](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-matchmaking-rule-set.html)|[New-GMLMatchmakingRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLMatchmakingRuleSet.html)|GML|
 |[aws gamelift create-player-session](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-player-session.html)|||
 |[aws gamelift create-player-sessions](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-player-sessions.html)|[New-GMLPlayerSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLPlayerSession.html)|GML|
+|[aws gamelift create-script](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-script.html)|||
 |[aws gamelift create-vpc-peering-authorization](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-vpc-peering-authorization.html)|[New-GMLVpcPeeringAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLVpcPeeringAuthorization.html)|GML|
 |[aws gamelift create-vpc-peering-connection](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-vpc-peering-connection.html)|[New-GMLVpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLVpcPeeringConnection.html)|GML|
 |[aws gamelift delete-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-alias.html)|[Remove-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLAlias.html)|GML|
@@ -31,6 +32,7 @@ date: 2019-04-04
 |[aws gamelift delete-matchmaking-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-matchmaking-configuration.html)|[Remove-GMLMatchmakingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLMatchmakingConfiguration.html)|GML|
 |[aws gamelift delete-matchmaking-rule-set](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-matchmaking-rule-set.html)|[Remove-GMLMatchmakingRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLMatchmakingRuleSet.html)|GML|
 |[aws gamelift delete-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-scaling-policy.html)|[Remove-GMLScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLScalingPolicy.html)|GML|
+|[aws gamelift delete-script](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-script.html)|||
 |[aws gamelift delete-vpc-peering-authorization](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-vpc-peering-authorization.html)|[Remove-GMLVpcPeeringAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLVpcPeeringAuthorization.html)|GML|
 |[aws gamelift delete-vpc-peering-connection](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-vpc-peering-connection.html)|[Remove-GMLVpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLVpcPeeringConnection.html)|GML|
 |[aws gamelift describe-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-alias.html)|[Get-GMLAliasDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAliasDetail.html)|GML|
@@ -52,6 +54,7 @@ date: 2019-04-04
 |[aws gamelift describe-player-sessions](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-player-sessions.html)|[Get-GMLPlayerSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLPlayerSession.html)|GML|
 |[aws gamelift describe-runtime-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-runtime-configuration.html)|[Get-GMLRuntimeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLRuntimeConfiguration.html)|GML|
 |[aws gamelift describe-scaling-policies](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-scaling-policies.html)|[Get-GMLScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLScalingPolicy.html)|GML|
+|[aws gamelift describe-script](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-script.html)|||
 |[aws gamelift describe-vpc-peering-authorizations](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-vpc-peering-authorizations.html)|[Get-GMLVpcPeeringAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLVpcPeeringAuthorization.html)|GML|
 |[aws gamelift describe-vpc-peering-connections](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-vpc-peering-connections.html)|[Get-GMLVpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLVpcPeeringConnection.html)|GML|
 |[aws gamelift get-game-session-log](https://docs.aws.amazon.com/cli/latest/reference/gamelift/get-game-session-log.html)|||
@@ -60,6 +63,7 @@ date: 2019-04-04
 |[aws gamelift list-aliases](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-aliases.html)|[Get-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAlias.html)|GML|
 |[aws gamelift list-builds](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-builds.html)|[Get-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLBuild.html)|GML|
 |[aws gamelift list-fleets](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-fleets.html)|[Get-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleet.html)|GML|
+|[aws gamelift list-scripts](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-scripts.html)|||
 |[aws gamelift put-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/gamelift/put-scaling-policy.html)|[Write-GMLScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GMLScalingPolicy.html)|GML|
 |[aws gamelift request-upload-credentials](https://docs.aws.amazon.com/cli/latest/reference/gamelift/request-upload-credentials.html)|[Request-GMLUploadCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-GMLUploadCredential.html)|GML|
 |[aws gamelift resolve-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/resolve-alias.html)|[Resolve-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Resolve-GMLAlias.html)|GML|
@@ -80,6 +84,7 @@ date: 2019-04-04
 |[aws gamelift update-game-session-queue](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-game-session-queue.html)|[Update-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLGameSessionQueue.html)|GML|
 |[aws gamelift update-matchmaking-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-matchmaking-configuration.html)|[Update-GMLMatchmakingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLMatchmakingConfiguration.html)|GML|
 |[aws gamelift update-runtime-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-runtime-configuration.html)|[Update-GMLRuntimeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLRuntimeConfiguration.html)|GML|
+|[aws gamelift update-script](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-script.html)|||
 |[aws gamelift upload-build](https://docs.aws.amazon.com/cli/latest/reference/gamelift/upload-build.html)|||
 |[aws gamelift validate-matchmaking-rule-set](https://docs.aws.amazon.com/cli/latest/reference/gamelift/validate-matchmaking-rule-set.html)|[Test-GMLMatchmakingRuleSetValidity](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-GMLMatchmakingRuleSetValidity.html)|GML|
 

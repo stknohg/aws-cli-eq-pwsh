@@ -1,6 +1,6 @@
 ---
 title: xray
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## xray
@@ -24,6 +24,7 @@ date: 2019-04-04
 |[aws xray get-sampling-statistic-summaries](https://docs.aws.amazon.com/cli/latest/reference/xray/get-sampling-statistic-summaries.html)|[Get-XRSamplingStatisticSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRSamplingStatisticSummary.html)|XR|
 |[aws xray get-sampling-targets](https://docs.aws.amazon.com/cli/latest/reference/xray/get-sampling-targets.html)|[Get-XRSamplingTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRSamplingTarget.html)|XR|
 |[aws xray get-service-graph](https://docs.aws.amazon.com/cli/latest/reference/xray/get-service-graph.html)|[Get-XRServiceGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRServiceGraph.html)|XR|
+|[aws xray get-time-series-service-statistics](https://docs.aws.amazon.com/cli/latest/reference/xray/get-time-series-service-statistics.html)|||
 |[aws xray get-trace-graph](https://docs.aws.amazon.com/cli/latest/reference/xray/get-trace-graph.html)|[Get-XRTraceGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTraceGraph.html)|XR|
 |[aws xray get-trace-summaries](https://docs.aws.amazon.com/cli/latest/reference/xray/get-trace-summaries.html)|[Get-XRTraceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTraceSummary.html)|XR|
 |[aws xray put-encryption-config](https://docs.aws.amazon.com/cli/latest/reference/xray/put-encryption-config.html)|[Write-XREncryptionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XREncryptionConfig.html)|XR|

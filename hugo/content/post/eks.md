@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## eks
@@ -16,6 +16,7 @@ date: 2019-04-04
 |[aws eks delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/delete-cluster.html)|[Remove-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSCluster.html)|EKS|
 |[aws eks describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-cluster.html)|[Get-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCluster.html)|EKS|
 |[aws eks describe-update](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-update.html)|[Get-EKSUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdate.html)|EKS|
+|[aws eks get-token](https://docs.aws.amazon.com/cli/latest/reference/eks/get-token.html)|||
 |[aws eks list-clusters](https://docs.aws.amazon.com/cli/latest/reference/eks/list-clusters.html)|[Get-EKSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSClusterList.html)|EKS|
 |[aws eks list-updates](https://docs.aws.amazon.com/cli/latest/reference/eks/list-updates.html)|[Get-EKSUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdateList.html)|EKS|
 |[aws eks update-cluster-config](https://docs.aws.amazon.com/cli/latest/reference/eks/update-cluster-config.html)|[Update-EKSClusterConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSClusterConfig.html)|EKS|

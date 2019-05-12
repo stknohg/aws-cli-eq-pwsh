@@ -1,6 +1,6 @@
 ---
 title: alexaforbusiness
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## alexaforbusiness
@@ -22,6 +22,7 @@ date: 2019-04-04
 |[aws alexaforbusiness create-business-report-schedule](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-business-report-schedule.html)|[New-ALXBBusinessReportSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBBusinessReportSchedule.html)|ALXB|
 |[aws alexaforbusiness create-conference-provider](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-conference-provider.html)|[New-ALXBConferenceProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBConferenceProvider.html)|ALXB|
 |[aws alexaforbusiness create-contact](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-contact.html)|[New-ALXBContact](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBContact.html)|ALXB|
+|[aws alexaforbusiness create-gateway-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-gateway-group.html)|[New-ALXBGatewayGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBGatewayGroup.html)|ALXB|
 |[aws alexaforbusiness create-profile](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-profile.html)|[New-ALXBProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBProfile.html)|ALXB|
 |[aws alexaforbusiness create-room](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-room.html)|[New-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBRoom.html)|ALXB|
 |[aws alexaforbusiness create-skill-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/create-skill-group.html)|[New-ALXBSkillGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ALXBSkillGroup.html)|ALXB|
@@ -31,6 +32,8 @@ date: 2019-04-04
 |[aws alexaforbusiness delete-conference-provider](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-conference-provider.html)|[Remove-ALXBConferenceProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBConferenceProvider.html)|ALXB|
 |[aws alexaforbusiness delete-contact](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-contact.html)|[Remove-ALXBContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBContact.html)|ALXB|
 |[aws alexaforbusiness delete-device](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-device.html)|[Remove-ALXBDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBDevice.html)|ALXB|
+|[aws alexaforbusiness delete-device-usage-data](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-device-usage-data.html)|||
+|[aws alexaforbusiness delete-gateway-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-gateway-group.html)|[Remove-ALXBGatewayGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBGatewayGroup.html)|ALXB|
 |[aws alexaforbusiness delete-profile](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-profile.html)|[Remove-ALXBProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBProfile.html)|ALXB|
 |[aws alexaforbusiness delete-room](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-room.html)|[Remove-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBRoom.html)|ALXB|
 |[aws alexaforbusiness delete-room-skill-parameter](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-room-skill-parameter.html)|[Remove-ALXBRoomSkillParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBRoomSkillParameter.html)|ALXB|
@@ -48,6 +51,8 @@ date: 2019-04-04
 |[aws alexaforbusiness get-conference-provider](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-conference-provider.html)|[Get-ALXBConferenceProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBConferenceProvider.html)|ALXB|
 |[aws alexaforbusiness get-contact](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-contact.html)|[Get-ALXBContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBContact.html)|ALXB|
 |[aws alexaforbusiness get-device](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-device.html)|[Get-ALXBDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBDevice.html)|ALXB|
+|[aws alexaforbusiness get-gateway](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-gateway.html)|[Get-ALXBGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBGateway.html)|ALXB|
+|[aws alexaforbusiness get-gateway-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-gateway-group.html)|[Get-ALXBGatewayGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBGatewayGroup.html)|ALXB|
 |[aws alexaforbusiness get-invitation-configuration](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-invitation-configuration.html)|[Get-ALXBInvitationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBInvitationConfiguration.html)|ALXB|
 |[aws alexaforbusiness get-profile](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-profile.html)|[Get-ALXBProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBProfile.html)|ALXB|
 |[aws alexaforbusiness get-room](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/get-room.html)|[Get-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBRoom.html)|ALXB|
@@ -56,6 +61,8 @@ date: 2019-04-04
 |[aws alexaforbusiness list-business-report-schedules](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-business-report-schedules.html)|[Get-ALXBBusinessReportScheduleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBBusinessReportScheduleList.html)|ALXB|
 |[aws alexaforbusiness list-conference-providers](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-conference-providers.html)|[Get-ALXBConferenceProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBConferenceProviderList.html)|ALXB|
 |[aws alexaforbusiness list-device-events](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-device-events.html)|[Get-ALXBDeviceEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBDeviceEventList.html)|ALXB|
+|[aws alexaforbusiness list-gateway-groups](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-gateway-groups.html)|[Get-ALXBGatewayGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBGatewayGroupList.html)|ALXB|
+|[aws alexaforbusiness list-gateways](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-gateways.html)|[Get-ALXBGatewayList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBGatewayList.html)|ALXB|
 |[aws alexaforbusiness list-skills](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-skills.html)|[Get-ALXBSkillList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBSkillList.html)|ALXB|
 |[aws alexaforbusiness list-skills-store-categories](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-skills-store-categories.html)|[Get-ALXBSkillsStoreCategoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBSkillsStoreCategoryList.html)|ALXB|
 |[aws alexaforbusiness list-skills-store-skills-by-category](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/list-skills-store-skills-by-category.html)|[Get-ALXBSkillsStoreSkillListByCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ALXBSkillsStoreSkillListByCategory.html)|ALXB|
@@ -76,6 +83,7 @@ date: 2019-04-04
 |[aws alexaforbusiness search-rooms](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/search-rooms.html)|[Find-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-ALXBRoom.html)|ALXB|
 |[aws alexaforbusiness search-skill-groups](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/search-skill-groups.html)|[Find-ALXBSkillGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-ALXBSkillGroup.html)|ALXB|
 |[aws alexaforbusiness search-users](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/search-users.html)|[Find-ALXBUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-ALXBUser.html)|ALXB|
+|[aws alexaforbusiness send-announcement](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/send-announcement.html)|||
 |[aws alexaforbusiness send-invitation](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/send-invitation.html)|[Send-ALXBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ALXBInvitation.html)|ALXB|
 |[aws alexaforbusiness start-device-sync](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/start-device-sync.html)|[Start-ALXBDeviceSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ALXBDeviceSync.html)|ALXB|
 |[aws alexaforbusiness start-smart-home-appliance-discovery](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/start-smart-home-appliance-discovery.html)|[Start-ALXBSmartHomeApplianceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ALXBSmartHomeApplianceDiscovery.html)|ALXB|
@@ -86,6 +94,8 @@ date: 2019-04-04
 |[aws alexaforbusiness update-conference-provider](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-conference-provider.html)|[Update-ALXBConferenceProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBConferenceProvider.html)|ALXB|
 |[aws alexaforbusiness update-contact](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-contact.html)|[Update-ALXBContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBContact.html)|ALXB|
 |[aws alexaforbusiness update-device](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-device.html)|[Update-ALXBDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBDevice.html)|ALXB|
+|[aws alexaforbusiness update-gateway](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-gateway.html)|[Update-ALXBGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBGateway.html)|ALXB|
+|[aws alexaforbusiness update-gateway-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-gateway-group.html)|[Update-ALXBGatewayGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBGatewayGroup.html)|ALXB|
 |[aws alexaforbusiness update-profile](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-profile.html)|[Update-ALXBProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBProfile.html)|ALXB|
 |[aws alexaforbusiness update-room](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-room.html)|[Update-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBRoom.html)|ALXB|
 |[aws alexaforbusiness update-skill-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/update-skill-group.html)|[Update-ALXBSkillGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ALXBSkillGroup.html)|ALXB|

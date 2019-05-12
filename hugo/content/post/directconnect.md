@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## directconnect
@@ -17,12 +17,14 @@ date: 2019-04-04
 |[aws directconnect allocate-hosted-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-hosted-connection.html)|[New-DCHostedConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCHostedConnection.html)|DC|
 |[aws directconnect allocate-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-private-virtual-interface.html)|[Enable-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DCPrivateVirtualInterface.html)|DC|
 |[aws directconnect allocate-public-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-public-virtual-interface.html)|[Enable-DCPublicVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DCPublicVirtualInterface.html)|DC|
+|[aws directconnect allocate-transit-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-transit-virtual-interface.html)|||
 |[aws directconnect associate-connection-with-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-connection-with-lag.html)|[Register-DCConnectionWithLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCConnectionWithLag.html)|DC|
 |[aws directconnect associate-hosted-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-hosted-connection.html)|[Register-DCHostedConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCHostedConnection.html)|DC|
 |[aws directconnect associate-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-virtual-interface.html)|[Register-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCVirtualInterface.html)|DC|
 |[aws directconnect confirm-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-connection.html)|[Confirm-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCConnection.html)|DC|
 |[aws directconnect confirm-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-private-virtual-interface.html)|[Confirm-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCPrivateVirtualInterface.html)|DC|
 |[aws directconnect confirm-public-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-public-virtual-interface.html)|[Confirm-DCPublicVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCPublicVirtualInterface.html)|DC|
+|[aws directconnect confirm-transit-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-transit-virtual-interface.html)|||
 |[aws directconnect create-bgp-peer](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-bgp-peer.html)|[New-DCBGPPeer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCBGPPeer.html)|DC|
 |[aws directconnect create-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-connection.html)|[New-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCConnection.html)|DC|
 |[aws directconnect create-direct-connect-gateway](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-direct-connect-gateway.html)|[New-DCGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCGateway.html)|DC|
@@ -32,6 +34,7 @@ date: 2019-04-04
 |[aws directconnect create-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-lag.html)|[New-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCLag.html)|DC|
 |[aws directconnect create-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-private-virtual-interface.html)|[New-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCPrivateVirtualInterface.html)|DC|
 |[aws directconnect create-public-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-public-virtual-interface.html)|[New-DCPublicVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DCPublicVirtualInterface.html)|DC|
+|[aws directconnect create-transit-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/create-transit-virtual-interface.html)|||
 |[aws directconnect delete-bgp-peer](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-bgp-peer.html)|[Remove-DCBGPPeer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCBGPPeer.html)|DC|
 |[aws directconnect delete-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-connection.html)|[Remove-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCConnection.html)|DC|
 |[aws directconnect delete-direct-connect-gateway](https://docs.aws.amazon.com/cli/latest/reference/directconnect/delete-direct-connect-gateway.html)|[Remove-DCGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCGateway.html)|DC|

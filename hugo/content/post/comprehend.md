@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## comprehend
@@ -41,7 +41,7 @@ date: 2019-04-04
 |[aws comprehend list-entity-recognizers](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-entity-recognizers.html)|[Get-COMPEntityRecognizerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEntityRecognizerList.html)|COMP|
 |[aws comprehend list-key-phrases-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-key-phrases-detection-jobs.html)|[Get-COMPKeyPhrasesDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPKeyPhrasesDetectionJobList.html)|COMP|
 |[aws comprehend list-sentiment-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-sentiment-detection-jobs.html)|[Get-COMPSentimentDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPSentimentDetectionJobList.html)|COMP|
-|[aws comprehend list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-tags-for-resource.html)|||
+|[aws comprehend list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-tags-for-resource.html)|[Get-COMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPResourceTag.html)|COMP|
 |[aws comprehend list-topics-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-topics-detection-jobs.html)|[Get-COMPTopicsDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPTopicsDetectionJobList.html)|COMP|
 |[aws comprehend start-document-classification-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/start-document-classification-job.html)|[Start-COMPDocumentClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-COMPDocumentClassificationJob.html)|COMP|
 |[aws comprehend start-dominant-language-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/start-dominant-language-detection-job.html)|[Start-COMPDominantLanguageDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-COMPDominantLanguageDetectionJob.html)|COMP|
@@ -55,6 +55,6 @@ date: 2019-04-04
 |[aws comprehend stop-sentiment-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/stop-sentiment-detection-job.html)|[Stop-COMPSentimentDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-COMPSentimentDetectionJob.html)|COMP|
 |[aws comprehend stop-training-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/stop-training-document-classifier.html)|[Stop-COMPTrainingDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-COMPTrainingDocumentClassifier.html)|COMP|
 |[aws comprehend stop-training-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/stop-training-entity-recognizer.html)|[Stop-COMPTrainingEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-COMPTrainingEntityRecognizer.html)|COMP|
-|[aws comprehend tag-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/tag-resource.html)|||
-|[aws comprehend untag-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/untag-resource.html)|||
+|[aws comprehend tag-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/tag-resource.html)|[Add-COMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-COMPResourceTag.html)|COMP|
+|[aws comprehend untag-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/untag-resource.html)|[Remove-COMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPResourceTag.html)|COMP|
 

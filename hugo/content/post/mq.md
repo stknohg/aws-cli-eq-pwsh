@@ -1,6 +1,6 @@
 ---
 title: mq
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## mq
@@ -20,6 +20,8 @@ date: 2019-04-04
 |[aws mq delete-tags](https://docs.aws.amazon.com/cli/latest/reference/mq/delete-tags.html)|[Remove-MQTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MQTag.html)|MQ|
 |[aws mq delete-user](https://docs.aws.amazon.com/cli/latest/reference/mq/delete-user.html)|[Remove-MQUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MQUser.html)|MQ|
 |[aws mq describe-broker](https://docs.aws.amazon.com/cli/latest/reference/mq/describe-broker.html)|[Get-MQBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQBroker.html)|MQ|
+|[aws mq describe-broker-engine-types](https://docs.aws.amazon.com/cli/latest/reference/mq/describe-broker-engine-types.html)|[Get-MQBrokerEngineType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQBrokerEngineType.html)|MQ|
+|[aws mq describe-broker-instance-options](https://docs.aws.amazon.com/cli/latest/reference/mq/describe-broker-instance-options.html)|[Get-MQBrokerInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQBrokerInstanceOption.html)|MQ|
 |[aws mq describe-configuration](https://docs.aws.amazon.com/cli/latest/reference/mq/describe-configuration.html)|[Get-MQConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQConfiguration.html)|MQ|
 |[aws mq describe-configuration-revision](https://docs.aws.amazon.com/cli/latest/reference/mq/describe-configuration-revision.html)|[Get-MQConfigurationRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQConfigurationRevision.html)|MQ|
 |[aws mq describe-user](https://docs.aws.amazon.com/cli/latest/reference/mq/describe-user.html)|[Get-MQUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQUser.html)|MQ|

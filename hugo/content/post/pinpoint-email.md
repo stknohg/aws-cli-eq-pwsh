@@ -1,6 +1,6 @@
 ---
 title: pinpoint-email
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## pinpoint-email
@@ -35,7 +35,7 @@ date: 2019-04-04
 |[aws pinpoint-email list-dedicated-ip-pools](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-dedicated-ip-pools.html)|[Get-PINEDedicatedIpPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDedicatedIpPoolList.html)|PINE|
 |[aws pinpoint-email list-deliverability-test-reports](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-deliverability-test-reports.html)|[Get-PINEDeliverabilityTestReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDeliverabilityTestReportList.html)|PINE|
 |[aws pinpoint-email list-email-identities](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-email-identities.html)|[Get-PINEEmailIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEEmailIdentityList.html)|PINE|
-|[aws pinpoint-email list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-tags-for-resource.html)|||
+|[aws pinpoint-email list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-tags-for-resource.html)|[Get-PINEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEResourceTag.html)|PINE|
 |[aws pinpoint-email put-account-dedicated-ip-warmup-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/put-account-dedicated-ip-warmup-attributes.html)|[Write-PINEAccountDedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEAccountDedicatedIpWarmupAttribute.html)|PINE|
 |[aws pinpoint-email put-account-sending-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/put-account-sending-attributes.html)|[Write-PINEAccountSendingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEAccountSendingAttribute.html)|PINE|
 |[aws pinpoint-email put-configuration-set-delivery-options](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/put-configuration-set-delivery-options.html)|[Write-PINEConfigurationSetDeliveryOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEConfigurationSetDeliveryOption.html)|PINE|
@@ -49,7 +49,7 @@ date: 2019-04-04
 |[aws pinpoint-email put-email-identity-feedback-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/put-email-identity-feedback-attributes.html)|[Write-PINEEmailIdentityFeedbackAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEEmailIdentityFeedbackAttribute.html)|PINE|
 |[aws pinpoint-email put-email-identity-mail-from-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/put-email-identity-mail-from-attributes.html)|[Write-PINEEmailIdentityMailFromAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEEmailIdentityMailFromAttribute.html)|PINE|
 |[aws pinpoint-email send-email](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/send-email.html)|[Send-PINEEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PINEEmail.html)|PINE|
-|[aws pinpoint-email tag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/tag-resource.html)|||
-|[aws pinpoint-email untag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/untag-resource.html)|||
+|[aws pinpoint-email tag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/tag-resource.html)|[Add-PINEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PINEResourceTag.html)|PINE|
+|[aws pinpoint-email untag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/untag-resource.html)|[Remove-PINEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEResourceTag.html)|PINE|
 |[aws pinpoint-email update-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/update-configuration-set-event-destination.html)|[Update-PINEConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEConfigurationSetEventDestination.html)|PINE|
 

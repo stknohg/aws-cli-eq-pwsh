@@ -1,6 +1,6 @@
 ---
 title: kinesisanalytics
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## kinesisanalytics
@@ -26,7 +26,10 @@ date: 2019-04-04
 |[aws kinesisanalytics describe-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/describe-application.html)|[Get-KINAApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINAApplication.html)|KINA|
 |[aws kinesisanalytics discover-input-schema](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/discover-input-schema.html)|[Find-KINAInputSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-KINAInputSchema.html)|KINA|
 |[aws kinesisanalytics list-applications](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/list-applications.html)|[Get-KINAApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINAApplicationList.html)|KINA|
+|[aws kinesisanalytics list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/list-tags-for-resource.html)|||
 |[aws kinesisanalytics start-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/start-application.html)|[Start-KINAApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KINAApplication.html)|KINA|
 |[aws kinesisanalytics stop-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/stop-application.html)|[Stop-KINAApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINAApplication.html)|KINA|
+|[aws kinesisanalytics tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/tag-resource.html)|||
+|[aws kinesisanalytics untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/untag-resource.html)|||
 |[aws kinesisanalytics update-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalytics/update-application.html)|[Update-KINAApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINAApplication.html)|KINA|
 

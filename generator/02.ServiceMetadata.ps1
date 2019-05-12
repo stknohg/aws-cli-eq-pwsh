@@ -178,6 +178,7 @@ $g_AWSServices = @{
     'logs'                         = [PSCustomObject]@{ Prefix = 'CWL'; Name = 'Amazon CloudWatch Logs'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = ''};
     'machinelearning'              = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = ''};
     'macie'                        = [PSCustomObject]@{ Prefix = 'MAC'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = ''};
+    'managedblockchain'            = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Managed Blockchain'; Url = 'https://aws.amazon.com/jp/managed-blockchain/'; Note = ''};
     'marketplace-entitlement'      = [PSCustomObject]@{ Prefix = 'MES'; Name = 'AWS Marketplace Entitlement Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = ''};
     'marketplacecommerceanalytics' = [PSCustomObject]@{ Prefix = 'MCA'; Name = 'AWS Marketplace Commerce Analytics'; Url = 'https://aws.amazon.com/marketplace/'; Note = ''};
     'mediaconnect'                 = [PSCustomObject]@{ Prefix = 'EMCN'; Name = 'AWS Elemental MediaConnect'; Url = 'https://aws.amazon.com/mediaconnect/'; Note = ''};

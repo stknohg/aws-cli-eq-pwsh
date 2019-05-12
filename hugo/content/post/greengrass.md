@@ -1,6 +1,6 @@
 ---
 title: greengrass
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## greengrass
@@ -86,12 +86,12 @@ date: 2019-04-04
 |[aws greengrass list-resource-definitions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-resource-definitions.html)|[Get-GGResourceDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinitionList.html)|GG|
 |[aws greengrass list-subscription-definition-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-subscription-definition-versions.html)|[Get-GGSubscriptionDefinitionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionVersionList.html)|GG|
 |[aws greengrass list-subscription-definitions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-subscription-definitions.html)|[Get-GGSubscriptionDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionList.html)|GG|
-|[aws greengrass list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-tags-for-resource.html)|||
+|[aws greengrass list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-tags-for-resource.html)|[Get-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceTag.html)|GG|
 |[aws greengrass reset-deployments](https://docs.aws.amazon.com/cli/latest/reference/greengrass/reset-deployments.html)|[Reset-GGDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GGDeployment.html)|GG|
 |[aws greengrass start-bulk-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrass/start-bulk-deployment.html)|[Start-GGBulkDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GGBulkDeployment.html)|GG|
 |[aws greengrass stop-bulk-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrass/stop-bulk-deployment.html)|[Stop-GGBulkDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GGBulkDeployment.html)|GG|
-|[aws greengrass tag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/tag-resource.html)|||
-|[aws greengrass untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/untag-resource.html)|||
+|[aws greengrass tag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/tag-resource.html)|[Add-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGResourceTag.html)|GG|
+|[aws greengrass untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/untag-resource.html)|[Remove-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGResourceTag.html)|GG|
 |[aws greengrass update-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connectivity-info.html)|[Update-GGConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectivityInfo.html)|GG|
 |[aws greengrass update-connector-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connector-definition.html)|[Update-GGConnectorDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectorDefinition.html)|GG|
 |[aws greengrass update-core-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-core-definition.html)|[Update-GGCoreDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGCoreDefinition.html)|GG|

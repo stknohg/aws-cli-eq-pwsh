@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2019-04-04
+date: 01-05-12
 ---
 
 <br/>
@@ -9,8 +9,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 1.16.138 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.485.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 1.16.156 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.498.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -126,6 +126,7 @@ For that reason, some content may not be accurate.
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
+|[Amazon Managed Blockchain](https://aws.amazon.com/jp/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
 |[AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)|[marketplacecommerceanalytics]({{%relref "post/marketplacecommerceanalytics.md" %}})|MCA||
 |[AWS Elemental MediaConnect](https://aws.amazon.com/mediaconnect/)|[mediaconnect]({{%relref "post/mediaconnect.md" %}})|EMCN||

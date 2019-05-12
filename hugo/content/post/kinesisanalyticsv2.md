@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## kinesisanalyticsv2
@@ -30,7 +30,10 @@ date: 2019-04-04
 |[aws kinesisanalyticsv2 discover-input-schema](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/discover-input-schema.html)|[Find-KINA2InputSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-KINA2InputSchema.html)|KINA2|
 |[aws kinesisanalyticsv2 list-application-snapshots](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-application-snapshots.html)|[Get-KINA2ApplicationSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationSnapshotList.html)|KINA2|
 |[aws kinesisanalyticsv2 list-applications](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-applications.html)|[Get-KINA2ApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationList.html)|KINA2|
+|[aws kinesisanalyticsv2 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-tags-for-resource.html)|||
 |[aws kinesisanalyticsv2 start-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/start-application.html)|[Start-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KINA2Application.html)|KINA2|
 |[aws kinesisanalyticsv2 stop-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/stop-application.html)|[Stop-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINA2Application.html)|KINA2|
+|[aws kinesisanalyticsv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/tag-resource.html)|||
+|[aws kinesisanalyticsv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/untag-resource.html)|||
 |[aws kinesisanalyticsv2 update-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/update-application.html)|[Update-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINA2Application.html)|KINA2|
 

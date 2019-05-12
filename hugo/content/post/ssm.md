@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2019-04-04
+date: 01-05-12
 ---
 
 ## ssm
@@ -64,6 +64,7 @@ date: 2019-04-04
 |[aws ssm describe-patch-baselines](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-baselines.html)|[Get-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchBaseline.html)|SSM|
 |[aws ssm describe-patch-group-state](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-group-state.html)|[Get-SSMPatchGroupState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchGroupState.html)|SSM|
 |[aws ssm describe-patch-groups](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-groups.html)|[Get-SSMPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchGroup.html)|SSM|
+|[aws ssm describe-patch-properties](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-properties.html)|||
 |[aws ssm describe-sessions](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-sessions.html)|[Get-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMSession.html)|SSM|
 |[aws ssm get-automation-execution](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-automation-execution.html)|[Get-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAutomationExecution.html)|SSM|
 |[aws ssm get-command-invocation](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-command-invocation.html)|[Get-SSMCommandInvocationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommandInvocationDetail.html)|SSM|

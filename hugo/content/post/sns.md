@@ -1,6 +1,6 @@
 ---
 title: sns
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## sns
@@ -31,7 +31,7 @@ date: 2019-05-12
 |[aws sns list-platform-applications](https://docs.aws.amazon.com/cli/latest/reference/sns/list-platform-applications.html)|[Get-SNSPlatformApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSPlatformApplicationList.html)|SNS|
 |[aws sns list-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/sns/list-subscriptions.html)|[Get-SNSSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSSubscription.html)|SNS|
 |[aws sns list-subscriptions-by-topic](https://docs.aws.amazon.com/cli/latest/reference/sns/list-subscriptions-by-topic.html)|[Get-SNSSubscriptionByTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSSubscriptionByTopic.html)|SNS|
-|[aws sns list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/sns/list-tags-for-resource.html)|||
+|[aws sns list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/sns/list-tags-for-resource.html)|[Get-SNSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSResourceTag.html)|SNS|
 |[aws sns list-topics](https://docs.aws.amazon.com/cli/latest/reference/sns/list-topics.html)|[Get-SNSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSTopic.html)|SNS|
 |[aws sns opt-in-phone-number](https://docs.aws.amazon.com/cli/latest/reference/sns/opt-in-phone-number.html)|[Enable-SNSPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SNSPhoneNumber.html)|SNS|
 |[aws sns publish](https://docs.aws.amazon.com/cli/latest/reference/sns/publish.html)|[Publish-SNSMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SNSMessage.html)|SNS|
@@ -42,7 +42,7 @@ date: 2019-05-12
 |[aws sns set-subscription-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/set-subscription-attributes.html)|[Set-SNSSubscriptionAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSSubscriptionAttribute.html)|SNS|
 |[aws sns set-topic-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/set-topic-attributes.html)|[Set-SNSTopicAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSTopicAttribute.html)|SNS|
 |[aws sns subscribe](https://docs.aws.amazon.com/cli/latest/reference/sns/subscribe.html)|[Connect-SNSNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-SNSNotification.html)|SNS|
-|[aws sns tag-resource](https://docs.aws.amazon.com/cli/latest/reference/sns/tag-resource.html)|||
+|[aws sns tag-resource](https://docs.aws.amazon.com/cli/latest/reference/sns/tag-resource.html)|[Add-SNSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SNSResourceTag.html)|SNS|
 |[aws sns unsubscribe](https://docs.aws.amazon.com/cli/latest/reference/sns/unsubscribe.html)|[Disconnect-SNSNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-SNSNotification.html)|SNS|
-|[aws sns untag-resource](https://docs.aws.amazon.com/cli/latest/reference/sns/untag-resource.html)|||
+|[aws sns untag-resource](https://docs.aws.amazon.com/cli/latest/reference/sns/untag-resource.html)|[Remove-SNSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSResourceTag.html)|SNS|
 

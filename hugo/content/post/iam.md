@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## iam
@@ -126,7 +126,7 @@ date: 2019-05-12
 |[aws iam reset-service-specific-credential](https://docs.aws.amazon.com/cli/latest/reference/iam/reset-service-specific-credential.html)|[Reset-IAMServiceSpecificCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IAMServiceSpecificCredential.html)|IAM|
 |[aws iam resync-mfa-device](https://docs.aws.amazon.com/cli/latest/reference/iam/resync-mfa-device.html)|[Sync-IAMMFADevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Sync-IAMMFADevice.html)|IAM|
 |[aws iam set-default-policy-version](https://docs.aws.amazon.com/cli/latest/reference/iam/set-default-policy-version.html)|[Set-IAMDefaultPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-IAMDefaultPolicyVersion.html)|IAM|
-|[aws iam set-security-token-service-preferences](https://docs.aws.amazon.com/cli/latest/reference/iam/set-security-token-service-preferences.html)|||
+|[aws iam set-security-token-service-preferences](https://docs.aws.amazon.com/cli/latest/reference/iam/set-security-token-service-preferences.html)|[Set-IAMSecurityTokenServicePreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-IAMSecurityTokenServicePreference.html)|IAM|
 |[aws iam simulate-custom-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/simulate-custom-policy.html)|[Test-IAMCustomPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IAMCustomPolicy.html)|IAM|
 |[aws iam simulate-principal-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/simulate-principal-policy.html)|[Test-IAMPrincipalPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IAMPrincipalPolicy.html)|IAM|
 |[aws iam tag-role](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-role.html)|[Add-IAMRoleTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMRoleTag.html)|IAM|

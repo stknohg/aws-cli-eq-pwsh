@@ -43,6 +43,7 @@ $g_SubCommandAlias = @{
     'machinelearning'              = 'ml';
     'marketplace-entitlement'      = 'mes';
     'marketplacecommerceanalytics' = 'mca';
+    'managedblockchain'            = 'mbc';
     'mediastore'                   = 'ems';
     'mediastore-data'              = 'emsd';
     'meteringmarketplace'          = 'mm';
@@ -178,7 +179,7 @@ $g_AWSServices = @{
     'logs'                         = [PSCustomObject]@{ Prefix = 'CWL'; Name = 'Amazon CloudWatch Logs'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = ''};
     'machinelearning'              = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = ''};
     'macie'                        = [PSCustomObject]@{ Prefix = 'MAC'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = ''};
-    'managedblockchain'            = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Managed Blockchain'; Url = 'https://aws.amazon.com/jp/managed-blockchain/'; Note = ''};
+    'managedblockchain'            = [PSCustomObject]@{ Prefix = 'MBC'; Name = 'Amazon Managed Blockchain'; Url = 'https://aws.amazon.com/jp/managed-blockchain/'; Note = ''};
     'marketplace-entitlement'      = [PSCustomObject]@{ Prefix = 'MES'; Name = 'AWS Marketplace Entitlement Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = ''};
     'marketplacecommerceanalytics' = [PSCustomObject]@{ Prefix = 'MCA'; Name = 'AWS Marketplace Commerce Analytics'; Url = 'https://aws.amazon.com/marketplace/'; Note = ''};
     'mediaconnect'                 = [PSCustomObject]@{ Prefix = 'EMCN'; Name = 'AWS Elemental MediaConnect'; Url = 'https://aws.amazon.com/mediaconnect/'; Note = ''};
@@ -357,6 +358,7 @@ $g_CmdletReferenceLinks = @{
     'logs'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Logs_cmdlets.html';
     'machinelearning'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html';
     'macie'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Macie_cmdlets.html';
+    'managedblockchain'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Managed_Blockchain_cmdlets.html';
     'marketplace-entitlement'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Entitlement_Service_cmdlets.html';
     'marketplacecommerceanalytics' = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Commerce_Analytics_cmdlets.html';
     'mediaconnect'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaConnect_cmdlets.html';

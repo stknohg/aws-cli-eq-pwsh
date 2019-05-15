@@ -1,6 +1,6 @@
 ---
 title: cognito-identity
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## cognito-identity

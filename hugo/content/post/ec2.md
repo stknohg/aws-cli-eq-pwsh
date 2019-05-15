@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## ec2
@@ -296,7 +296,7 @@ date: 2019-05-12
 |[aws ec2 modify-vpc-endpoint-service-permissions](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint-service-permissions.html)|[Edit-EC2EndpointServicePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2EndpointServicePermission.html)|EC2|
 |[aws ec2 modify-vpc-peering-connection-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-peering-connection-options.html)|[Edit-EC2VpcPeeringConnectionOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcPeeringConnectionOption.html)|EC2|
 |[aws ec2 modify-vpc-tenancy](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-tenancy.html)|[Edit-EC2VpcTenancy](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcTenancy.html)|EC2|
-|[aws ec2 modify-vpn-connection](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpn-connection.html)|||
+|[aws ec2 modify-vpn-connection](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpn-connection.html)|[Edit-EC2VpnConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpnConnection.html)|EC2|
 |[aws ec2 monitor-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/monitor-instances.html)|[Start-EC2InstanceMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2InstanceMonitoring.html)|EC2|
 |[aws ec2 move-address-to-vpc](https://docs.aws.amazon.com/cli/latest/reference/ec2/move-address-to-vpc.html)|[Move-EC2AddressToVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EC2AddressToVpc.html)|EC2|
 |[aws ec2 provision-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/provision-byoip-cidr.html)|[Register-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2ByoipCidr.html)|EC2|

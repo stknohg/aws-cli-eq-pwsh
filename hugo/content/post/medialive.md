@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## medialive
@@ -21,7 +21,7 @@ date: 2019-05-12
 |[aws medialive delete-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-input.html)|[Remove-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLInput.html)|EML|
 |[aws medialive delete-input-security-group](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-input-security-group.html)|[Remove-EMLInputSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLInputSecurityGroup.html)|EML|
 |[aws medialive delete-reservation](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-reservation.html)|[Remove-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLReservation.html)|EML|
-|[aws medialive delete-schedule](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-schedule.html)|||
+|[aws medialive delete-schedule](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-schedule.html)|[Remove-EMLSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLSchedule.html)|EML|
 |[aws medialive delete-tags](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-tags.html)|[Remove-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLResourceTag.html)|EML|
 |[aws medialive describe-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-channel.html)|[Get-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLChannel.html)|EML|
 |[aws medialive describe-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-input.html)|[Get-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInput.html)|EML|
@@ -39,7 +39,7 @@ date: 2019-05-12
 |[aws medialive start-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/start-channel.html)|[Start-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLChannel.html)|EML|
 |[aws medialive stop-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/stop-channel.html)|[Stop-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLChannel.html)|EML|
 |[aws medialive update-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/update-channel.html)|[Update-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLChannel.html)|EML|
-|[aws medialive update-channel-class](https://docs.aws.amazon.com/cli/latest/reference/medialive/update-channel-class.html)|||
+|[aws medialive update-channel-class](https://docs.aws.amazon.com/cli/latest/reference/medialive/update-channel-class.html)|[Update-EMLChannelClass](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLChannelClass.html)|EML|
 |[aws medialive update-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/update-input.html)|[Update-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLInput.html)|EML|
 |[aws medialive update-input-security-group](https://docs.aws.amazon.com/cli/latest/reference/medialive/update-input-security-group.html)|[Update-EMLInputSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLInputSecurityGroup.html)|EML|
 |[aws medialive update-reservation](https://docs.aws.amazon.com/cli/latest/reference/medialive/update-reservation.html)|[Update-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLReservation.html)|EML|

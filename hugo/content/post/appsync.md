@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## appsync
@@ -37,11 +37,11 @@ date: 2019-05-12
 |[aws appsync list-graphql-apis](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-graphql-apis.html)|[Get-ASYNGraphqlApiList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNGraphqlApiList.html)|ASYN|
 |[aws appsync list-resolvers](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-resolvers.html)|[Get-ASYNResolverList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResolverList.html)|ASYN|
 |[aws appsync list-resolvers-by-function](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-resolvers-by-function.html)|[Get-ASYNResolverListByFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResolverListByFunction.html)|ASYN|
-|[aws appsync list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-tags-for-resource.html)|||
+|[aws appsync list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-tags-for-resource.html)|[Get-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResourceTag.html)|ASYN|
 |[aws appsync list-types](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-types.html)|[Get-ASYNTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypeList.html)|ASYN|
 |[aws appsync start-schema-creation](https://docs.aws.amazon.com/cli/latest/reference/appsync/start-schema-creation.html)|[Start-ASYNSchemaCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaCreation.html)|ASYN|
-|[aws appsync tag-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/tag-resource.html)|||
-|[aws appsync untag-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/untag-resource.html)|||
+|[aws appsync tag-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/tag-resource.html)|[Add-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASYNResourceTag.html)|ASYN|
+|[aws appsync untag-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/untag-resource.html)|[Remove-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASYNResourceTag.html)|ASYN|
 |[aws appsync update-api-key](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-api-key.html)|[Update-ASYNApiKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNApiKey.html)|ASYN|
 |[aws appsync update-data-source](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-data-source.html)|[Update-ASYNDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNDataSource.html)|ASYN|
 |[aws appsync update-function](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-function.html)|[Update-ASYNFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNFunction.html)|ASYN|

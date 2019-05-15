@@ -1,6 +1,6 @@
 ---
 title: alexaforbusiness
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## alexaforbusiness
@@ -32,7 +32,7 @@ date: 2019-05-12
 |[aws alexaforbusiness delete-conference-provider](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-conference-provider.html)|[Remove-ALXBConferenceProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBConferenceProvider.html)|ALXB|
 |[aws alexaforbusiness delete-contact](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-contact.html)|[Remove-ALXBContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBContact.html)|ALXB|
 |[aws alexaforbusiness delete-device](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-device.html)|[Remove-ALXBDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBDevice.html)|ALXB|
-|[aws alexaforbusiness delete-device-usage-data](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-device-usage-data.html)|||
+|[aws alexaforbusiness delete-device-usage-data](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-device-usage-data.html)|[Remove-ALXBDeviceUsageData](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBDeviceUsageData.html)|ALXB|
 |[aws alexaforbusiness delete-gateway-group](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-gateway-group.html)|[Remove-ALXBGatewayGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBGatewayGroup.html)|ALXB|
 |[aws alexaforbusiness delete-profile](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-profile.html)|[Remove-ALXBProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBProfile.html)|ALXB|
 |[aws alexaforbusiness delete-room](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/delete-room.html)|[Remove-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ALXBRoom.html)|ALXB|
@@ -83,7 +83,7 @@ date: 2019-05-12
 |[aws alexaforbusiness search-rooms](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/search-rooms.html)|[Find-ALXBRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-ALXBRoom.html)|ALXB|
 |[aws alexaforbusiness search-skill-groups](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/search-skill-groups.html)|[Find-ALXBSkillGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-ALXBSkillGroup.html)|ALXB|
 |[aws alexaforbusiness search-users](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/search-users.html)|[Find-ALXBUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-ALXBUser.html)|ALXB|
-|[aws alexaforbusiness send-announcement](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/send-announcement.html)|||
+|[aws alexaforbusiness send-announcement](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/send-announcement.html)|[Send-ALXBAnnouncement](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ALXBAnnouncement.html)|ALXB|
 |[aws alexaforbusiness send-invitation](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/send-invitation.html)|[Send-ALXBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ALXBInvitation.html)|ALXB|
 |[aws alexaforbusiness start-device-sync](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/start-device-sync.html)|[Start-ALXBDeviceSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ALXBDeviceSync.html)|ALXB|
 |[aws alexaforbusiness start-smart-home-appliance-discovery](https://docs.aws.amazon.com/cli/latest/reference/alexaforbusiness/start-smart-home-appliance-discovery.html)|[Start-ALXBSmartHomeApplianceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ALXBSmartHomeApplianceDiscovery.html)|ALXB|

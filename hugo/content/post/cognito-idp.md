@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## cognito-idp
@@ -33,7 +33,7 @@ date: 2019-05-12
 |[aws cognito-idp admin-reset-user-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-reset-user-password.html)|[Reset-CGIPUserPasswordAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-CGIPUserPasswordAdmin.html)|CGIP|
 |[aws cognito-idp admin-respond-to-auth-challenge](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-respond-to-auth-challenge.html)|[Send-CGIPAuthChallengeResponseAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPAuthChallengeResponseAdmin.html)|CGIP|
 |[aws cognito-idp admin-set-user-mfa-preference](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-set-user-mfa-preference.html)|[Set-CGIPUserMFAPreferenceAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserMFAPreferenceAdmin.html)|CGIP|
-|[aws cognito-idp admin-set-user-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-set-user-password.html)|||
+|[aws cognito-idp admin-set-user-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-set-user-password.html)|[Set-CGIPUserPasswordAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserPasswordAdmin.html)|CGIP|
 |[aws cognito-idp admin-set-user-settings](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-set-user-settings.html)|[Set-CGIPUserSettingAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserSettingAdmin.html)|CGIP|
 |[aws cognito-idp admin-update-auth-event-feedback](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-update-auth-event-feedback.html)|[Update-CGIPAuthEventFeedbackAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPAuthEventFeedbackAdmin.html)|CGIP|
 |[aws cognito-idp admin-update-device-status](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-update-device-status.html)|[Edit-CGIPDeviceStatusAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-CGIPDeviceStatusAdmin.html)|CGIP|

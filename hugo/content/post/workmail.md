@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## workmail
@@ -30,7 +30,7 @@ date: 2019-05-12
 |[aws workmail describe-user](https://docs.aws.amazon.com/cli/latest/reference/workmail/describe-user.html)|[Get-WMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMUser.html)|WM|
 |[aws workmail disassociate-delegate-from-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/disassociate-delegate-from-resource.html)|[Remove-WMDelegateFromResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMDelegateFromResource.html)|WM|
 |[aws workmail disassociate-member-from-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/disassociate-member-from-group.html)|[Remove-WMMemberFromGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMemberFromGroup.html)|WM|
-|[aws workmail get-mailbox-details](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-mailbox-details.html)|||
+|[aws workmail get-mailbox-details](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-mailbox-details.html)|[Get-WMMailboxDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxDetail.html)|WM|
 |[aws workmail list-aliases](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-aliases.html)|[Get-WMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAliasList.html)|WM|
 |[aws workmail list-group-members](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-group-members.html)|[Get-WMMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMemberList.html)|WM|
 |[aws workmail list-groups](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-groups.html)|[Get-WMGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroupList.html)|WM|
@@ -42,7 +42,7 @@ date: 2019-05-12
 |[aws workmail put-mailbox-permissions](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-mailbox-permissions.html)|[Write-WMMailboxPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMMailboxPermission.html)|WM|
 |[aws workmail register-to-work-mail](https://docs.aws.amazon.com/cli/latest/reference/workmail/register-to-work-mail.html)|[Register-WMToWorkMail](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WMToWorkMail.html)|WM|
 |[aws workmail reset-password](https://docs.aws.amazon.com/cli/latest/reference/workmail/reset-password.html)|[Reset-WMPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-WMPassword.html)|WM|
-|[aws workmail update-mailbox-quota](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-mailbox-quota.html)|||
+|[aws workmail update-mailbox-quota](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-mailbox-quota.html)|[Update-WMMailboxQuota](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMailboxQuota.html)|WM|
 |[aws workmail update-primary-email-address](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-primary-email-address.html)|[Update-WMPrimaryEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMPrimaryEmailAddress.html)|WM|
 |[aws workmail update-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-resource.html)|[Update-WMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMResource.html)|WM|
 

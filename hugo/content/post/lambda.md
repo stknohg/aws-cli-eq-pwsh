@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2019-05-12
+date: 2019-05-15
 ---
 
 ## lambda
@@ -28,7 +28,7 @@ date: 2019-05-12
 |[aws lambda get-function](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function.html)|[Get-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunction.html)|LM|
 |[aws lambda get-function-configuration](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-function-configuration.html)|[Get-LMFunctionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunctionConfiguration.html)|LM|
 |[aws lambda get-layer-version](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-layer-version.html)|[Get-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersion.html)|LM|
-|[aws lambda get-layer-version-by-arn](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-layer-version-by-arn.html)|||
+|[aws lambda get-layer-version-by-arn](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-layer-version-by-arn.html)|[Get-LMLayerVersionByArn](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersionByArn.html)|LM|
 |[aws lambda get-layer-version-policy](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-layer-version-policy.html)|[Get-LMLayerVersionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersionPolicy.html)|LM|
 |[aws lambda get-policy](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-policy.html)|[Get-LMPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMPolicy.html)|LM|
 |[aws lambda invoke](https://docs.aws.amazon.com/cli/latest/reference/lambda/invoke.html)|[Invoke-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunction.html)|LM|

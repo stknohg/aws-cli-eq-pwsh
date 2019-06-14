@@ -89,7 +89,7 @@ function Export-PostPageMarkdown {
     }
     $displayUrllink = if ($displayUrl -eq '') {$displayName} else {"[$displayName]($displayUrl)"}
     $cliUrlLink = "[CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/index.html)"
-    $cmdletUrlLink = if ($g_CmdletReferenceLinks[$ServiceName] -eq '') {"Cmdlet Reference"} else {"[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))"}
+    $cmdletUrlLink = if ($null -eq $g_CmdletReferenceLinks[$ServiceName] -or $g_CmdletReferenceLinks[$ServiceName] -eq '') {"Cmdlet Reference"} else {"[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))"}
     $markdown = if ($null -eq $Commands) {
         & {
             "---"
@@ -118,14 +118,14 @@ function Export-PostPageMarkdown {
             "* $cliUrlLink"
             "* $cmdletUrlLink"
             ""
-            "|AWS CLI|PowerShell Cmdlet|Prefix|"
-            "|----|----|:--:|"
+            "|AWS CLI|PowerShell Cmdlet|"
+            "|----|----|"
             foreach ($c in $Commands) {
                 if ($c.CmdLet) {
-                    "|[$($c.CLI)]($($c.CLIUrl))|[$($c.CmdLet)]($($c.CmdletUrl))|$($c.Prefix)|"
+                    "|[$($c.CLI)]($($c.CLIUrl))|[$($c.CmdLet)]($($c.CmdletUrl))|"
                 }
                 else {
-                    "|[$($c.CLI)]($($c.CLIUrl))||$($c.Prefix)|"
+                    "|[$($c.CLI)]($($c.CLIUrl))||"
                 }
             }
         } | Out-String

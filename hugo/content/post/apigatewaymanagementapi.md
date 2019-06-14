@@ -10,7 +10,7 @@ date: 2019-06-14
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html)
 
-|AWS CLI|PowerShell Cmdlet|Prefix|
-|----|----|:--:|
-|[aws apigatewaymanagementapi post-to-connection](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/post-to-connection.html)|[Send-AGMDataToConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-AGMDataToConnection.html)|AGM|
+|AWS CLI|PowerShell Cmdlet|
+|----|----|
+|[aws apigatewaymanagementapi post-to-connection](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/post-to-connection.html)|[Send-AGMDataToConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-AGMDataToConnection.html)|
 

@@ -10,7 +10,7 @@ date: 2019-06-14
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html)
 
-|AWS CLI|PowerShell Cmdlet|Prefix|
-|----|----|:--:|
-|[aws sagemaker-runtime invoke-endpoint](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/invoke-endpoint.html)|[Invoke-SMREndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpoint.html)|SMR|
+|AWS CLI|PowerShell Cmdlet|
+|----|----|
+|[aws sagemaker-runtime invoke-endpoint](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/invoke-endpoint.html)|[Invoke-SMREndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpoint.html)|
 

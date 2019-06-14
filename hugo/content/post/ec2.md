@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## ec2
@@ -79,6 +79,7 @@ date: 2019-05-15
 |[aws ec2 create-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-route-table.html)|[New-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2RouteTable.html)|EC2|
 |[aws ec2 create-security-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-security-group.html)|[New-EC2SecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SecurityGroup.html)|EC2|
 |[aws ec2 create-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-snapshot.html)|[New-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Snapshot.html)|EC2|
+|[aws ec2 create-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-snapshots.html)|[New-EC2SnapshotBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SnapshotBatch.html)|EC2|
 |[aws ec2 create-spot-datafeed-subscription](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-spot-datafeed-subscription.html)|[New-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SpotDatafeedSubscription.html)|EC2|
 |[aws ec2 create-subnet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-subnet.html)|[New-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Subnet.html)|EC2|
 |[aws ec2 create-tags](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-tags.html)|[New-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Tag.html)|EC2|
@@ -235,6 +236,7 @@ date: 2019-05-15
 |[aws ec2 detach-network-interface](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-network-interface.html)|[Dismount-EC2NetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2NetworkInterface.html)|EC2|
 |[aws ec2 detach-volume](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-volume.html)|[Dismount-EC2Volume](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2Volume.html)|EC2|
 |[aws ec2 detach-vpn-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-vpn-gateway.html)|[Dismount-EC2VpnGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2VpnGateway.html)|EC2|
+|[aws ec2 disable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-ebs-encryption-by-default.html)|[Disable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2EbsEncryptionByDefault.html)|EC2|
 |[aws ec2 disable-transit-gateway-route-table-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-transit-gateway-route-table-propagation.html)|[Disable-EC2TransitGatewayRouteTablePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2TransitGatewayRouteTablePropagation.html)|EC2|
 |[aws ec2 disable-vgw-route-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-vgw-route-propagation.html)|[Disable-EC2VgwRoutePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2VgwRoutePropagation.html)|EC2|
 |[aws ec2 disable-vpc-classic-link](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-vpc-classic-link.html)|[Disable-EC2VpcClassicLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2VpcClassicLink.html)|EC2|
@@ -246,6 +248,7 @@ date: 2019-05-15
 |[aws ec2 disassociate-subnet-cidr-block](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-subnet-cidr-block.html)|[Unregister-EC2SubnetCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2SubnetCidrBlock.html)|EC2|
 |[aws ec2 disassociate-transit-gateway-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-transit-gateway-route-table.html)|[Unregister-EC2TransitGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayRouteTable.html)|EC2|
 |[aws ec2 disassociate-vpc-cidr-block](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-vpc-cidr-block.html)|[Unregister-EC2VpcCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2VpcCidrBlock.html)|EC2|
+|[aws ec2 enable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-ebs-encryption-by-default.html)|[Enable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2EbsEncryptionByDefault.html)|EC2|
 |[aws ec2 enable-transit-gateway-route-table-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-transit-gateway-route-table-propagation.html)|[Enable-EC2TransitGatewayRouteTablePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2TransitGatewayRouteTablePropagation.html)|EC2|
 |[aws ec2 enable-vgw-route-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-vgw-route-propagation.html)|[Enable-EC2VgwRoutePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2VgwRoutePropagation.html)|EC2|
 |[aws ec2 enable-volume-io](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-volume-io.html)|[Enable-EC2VolumeIO](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2VolumeIO.html)|EC2|
@@ -256,6 +259,8 @@ date: 2019-05-15
 |[aws ec2 export-transit-gateway-routes](https://docs.aws.amazon.com/cli/latest/reference/ec2/export-transit-gateway-routes.html)|[Export-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2TransitGatewayRoute.html)|EC2|
 |[aws ec2 get-console-output](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-console-output.html)|[Get-EC2ConsoleOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ConsoleOutput.html)|EC2|
 |[aws ec2 get-console-screenshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-console-screenshot.html)|[Get-EC2ConsoleScreenshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ConsoleScreenshot.html)|EC2|
+|[aws ec2 get-ebs-default-kms-key-id](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ebs-default-kms-key-id.html)|[Get-EC2EbsDefaultKmsKeyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2EbsDefaultKmsKeyId.html)|EC2|
+|[aws ec2 get-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ebs-encryption-by-default.html)|[Get-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2EbsEncryptionByDefault.html)|EC2|
 |[aws ec2 get-host-reservation-purchase-preview](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|EC2|
 |[aws ec2 get-launch-template-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-launch-template-data.html)|[Get-EC2LaunchTemplateData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LaunchTemplateData.html)|EC2|
 |[aws ec2 get-password-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|EC2|
@@ -269,6 +274,7 @@ date: 2019-05-15
 |[aws ec2 import-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-snapshot.html)|[Import-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Snapshot.html)|EC2|
 |[aws ec2 modify-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-capacity-reservation.html)|[Edit-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2CapacityReservation.html)|EC2|
 |[aws ec2 modify-client-vpn-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-client-vpn-endpoint.html)|[Edit-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ClientVpnEndpoint.html)|EC2|
+|[aws ec2 modify-ebs-default-kms-key-id](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ebs-default-kms-key-id.html)|[Edit-EC2EbsDefaultKmsKeyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2EbsDefaultKmsKeyId.html)|EC2|
 |[aws ec2 modify-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-fleet.html)|[Edit-EC2Fleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Fleet.html)|EC2|
 |[aws ec2 modify-fpga-image-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-fpga-image-attribute.html)|[Edit-EC2FpgaImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2FpgaImageAttribute.html)|EC2|
 |[aws ec2 modify-hosts](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-hosts.html)|[Edit-EC2Host](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Host.html)|EC2|
@@ -319,6 +325,7 @@ date: 2019-05-15
 |[aws ec2 report-instance-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/report-instance-status.html)|[Send-EC2InstanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2InstanceStatus.html)|EC2|
 |[aws ec2 request-spot-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-fleet.html)|[Request-EC2SpotFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-EC2SpotFleet.html)|EC2|
 |[aws ec2 request-spot-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-instances.html)|[Request-EC2SpotInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-EC2SpotInstance.html)|EC2|
+|[aws ec2 reset-ebs-default-kms-key-id](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-ebs-default-kms-key-id.html)|[Reset-EC2EbsDefaultKmsKeyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2EbsDefaultKmsKeyId.html)|EC2|
 |[aws ec2 reset-fpga-image-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-fpga-image-attribute.html)|[Reset-EC2FpgaImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2FpgaImageAttribute.html)|EC2|
 |[aws ec2 reset-image-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-image-attribute.html)|[Reset-EC2ImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2ImageAttribute.html)|EC2|
 |[aws ec2 reset-instance-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-instance-attribute.html)|[Reset-EC2InstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2InstanceAttribute.html)|EC2|

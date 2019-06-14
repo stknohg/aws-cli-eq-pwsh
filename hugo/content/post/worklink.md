@@ -1,6 +1,6 @@
 ---
 title: worklink
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## worklink
@@ -13,6 +13,7 @@ date: 2019-05-15
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
 |[aws worklink associate-domain](https://docs.aws.amazon.com/cli/latest/reference/worklink/associate-domain.html)|[Register-WLDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WLDomain.html)|WL|
+|[aws worklink associate-website-authorization-provider](https://docs.aws.amazon.com/cli/latest/reference/worklink/associate-website-authorization-provider.html)|[Add-WLWebsiteAuthorizationProviderToFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WLWebsiteAuthorizationProviderToFleet.html)|WL|
 |[aws worklink associate-website-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/worklink/associate-website-certificate-authority.html)|[Register-WLWebsiteCertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WLWebsiteCertificateAuthority.html)|WL|
 |[aws worklink create-fleet](https://docs.aws.amazon.com/cli/latest/reference/worklink/create-fleet.html)|[New-WLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WLFleet.html)|WL|
 |[aws worklink delete-fleet](https://docs.aws.amazon.com/cli/latest/reference/worklink/delete-fleet.html)|[Remove-WLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WLFleet.html)|WL|
@@ -25,10 +26,12 @@ date: 2019-05-15
 |[aws worklink describe-identity-provider-configuration](https://docs.aws.amazon.com/cli/latest/reference/worklink/describe-identity-provider-configuration.html)|[Get-WLIdentityProviderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLIdentityProviderConfiguration.html)|WL|
 |[aws worklink describe-website-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/worklink/describe-website-certificate-authority.html)|[Get-WLWebsiteCertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLWebsiteCertificateAuthority.html)|WL|
 |[aws worklink disassociate-domain](https://docs.aws.amazon.com/cli/latest/reference/worklink/disassociate-domain.html)|[Unregister-WLDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WLDomain.html)|WL|
+|[aws worklink disassociate-website-authorization-provider](https://docs.aws.amazon.com/cli/latest/reference/worklink/disassociate-website-authorization-provider.html)|[Remove-WLWebsiteAuthorizationProviderFromFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WLWebsiteAuthorizationProviderFromFleet.html)|WL|
 |[aws worklink disassociate-website-certificate-authority](https://docs.aws.amazon.com/cli/latest/reference/worklink/disassociate-website-certificate-authority.html)|[Unregister-WLWebsiteCertificateAuthority](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WLWebsiteCertificateAuthority.html)|WL|
 |[aws worklink list-devices](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-devices.html)|[Get-WLDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLDeviceList.html)|WL|
 |[aws worklink list-domains](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-domains.html)|[Get-WLDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLDomainList.html)|WL|
 |[aws worklink list-fleets](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-fleets.html)|[Get-WLFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLFleetList.html)|WL|
+|[aws worklink list-website-authorization-providers](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-website-authorization-providers.html)|[Get-WLWebsiteAuthorizationProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLWebsiteAuthorizationProviderList.html)|WL|
 |[aws worklink list-website-certificate-authorities](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-website-certificate-authorities.html)|[Get-WLWebsiteCertificateAuthorityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLWebsiteCertificateAuthorityList.html)|WL|
 |[aws worklink restore-domain-access](https://docs.aws.amazon.com/cli/latest/reference/worklink/restore-domain-access.html)|[Restore-WLDomainAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-WLDomainAccess.html)|WL|
 |[aws worklink revoke-domain-access](https://docs.aws.amazon.com/cli/latest/reference/worklink/revoke-domain-access.html)|[Revoke-WLDomainAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-WLDomainAccess.html)|WL|

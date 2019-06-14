@@ -1,6 +1,6 @@
 ---
 title: robomaker
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## robomaker
@@ -13,6 +13,7 @@ date: 2019-05-15
 |AWS CLI|PowerShell Cmdlet|Prefix|
 |----|----|:--:|
 |[aws robomaker batch-describe-simulation-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/batch-describe-simulation-job.html)|[Get-ROBOSimulationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationJobList.html)|ROBO|
+|[aws robomaker cancel-deployment-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/cancel-deployment-job.html)|[Stop-ROBODeploymentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ROBODeploymentJob.html)|ROBO|
 |[aws robomaker cancel-simulation-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/cancel-simulation-job.html)|[Stop-ROBOSimulationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ROBOSimulationJob.html)|ROBO|
 |[aws robomaker create-deployment-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/create-deployment-job.html)|[New-ROBODeploymentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ROBODeploymentJob.html)|ROBO|
 |[aws robomaker create-fleet](https://docs.aws.amazon.com/cli/latest/reference/robomaker/create-fleet.html)|[New-ROBOFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ROBOFleet.html)|ROBO|

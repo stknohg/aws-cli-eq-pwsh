@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 <br/>
@@ -9,8 +9,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 1.16.156 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.509.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 1.16.178 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.522.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -98,6 +98,7 @@ For that reason, some content may not be accurate.
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrass]({{%relref "post/greengrass.md" %}})|GG||
+|[AWS Ground Station](https://aws.amazon.com/ground-station/)|[groundstation]({{%relref "post/groundstation.md" %}})|GS||
 |[Amazon Guard​Duty](https://aws.amazon.com/guardduty/)|[guardduty]({{%relref "post/guardduty.md" %}})|GD||
 |[AWS Health](https://phd.aws.amazon.com/)|[health]({{%relref "post/health.md" %}})|HLTH||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
@@ -110,6 +111,9 @@ For that reason, some content may not be accurate.
 |[AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)|[iot1click-devices]({{%relref "post/iot1click-devices.md" %}})|||
 |[AWS IoT 1-Click Project](https://aws.amazon.com/iot/)|[iot1click-projects]({{%relref "post/iot1click-projects.md" %}})|||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
+|[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
+|[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
+|[AWS IoT Things Graph](https://aws.amazon.com/iot-things-graph/)|[iotthingsgraph]({{%relref "post/iotthingsgraph.md" %}})|IOTTG||
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||
@@ -133,6 +137,7 @@ For that reason, some content may not be accurate.
 |[AWS Elemental MediaConvert](https://aws.amazon.com/mediaconvert/)|[mediaconvert]({{%relref "post/mediaconvert.md" %}})|EMC||
 |[AWS Elemental MediaLive](https://aws.amazon.com/medialive/)|[medialive]({{%relref "post/medialive.md" %}})|EML||
 |[AWS Elemental MediaPackage](https://aws.amazon.com/mediapackage/)|[mediapackage]({{%relref "post/mediapackage.md" %}})|EMP||
+|[AWS Elemental MediaPackage VOD](https://aws.amazon.com/mediapackage/)|[mediapackage-vod]({{%relref "post/mediapackage-vod.md" %}})|EMPV||
 |[AWS Elemental MediaStore](https://aws.amazon.com/mediastore/)|[mediastore]({{%relref "post/mediastore.md" %}})|EMS||
 |[AWS Elemental MediaStore Data Plane](https://aws.amazon.com/mediastore/)|[mediastore-data]({{%relref "post/mediastore-data.md" %}})|EMSD||
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||
@@ -145,6 +150,9 @@ For that reason, some content may not be accurate.
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
+|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|||
+|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|||
+|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|||
 |[AWS Performance Insights](https://aws.amazon.com/rds/performance-insights/)|[pi]({{%relref "post/pi.md" %}})|PI||
 |[Amazon Pinpoint](https://aws.amazon.com/pinpoint/)|[pinpoint]({{%relref "post/pinpoint.md" %}})|PIN||
 |[Amazon Pinpoint Email](https://aws.amazon.com/pinpoint/)|[pinpoint-email]({{%relref "post/pinpoint-email.md" %}})|PINE||
@@ -176,7 +184,7 @@ For that reason, some content may not be accurate.
 |[Amazon Route 53 Auto Naming](https://aws.amazon.com/route53/)|[servicediscovery]({{%relref "post/servicediscovery.md" %}})|SD||
 |[Amazon Simple Email Service](https://aws.amazon.com/ses/)|[ses]({{%relref "post/ses.md" %}})|SES||
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
-|[AWS Signer](https://aws.amazon.com/certificate-manager/)|[signer]({{%relref "post/signer.md" %}})|||
+|[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
 |[AWS Sever Migration Service](https://aws.amazon.com/server-migration-service/)|[sms]({{%relref "post/sms.md" %}})|SMS||
 |[AWS Snowball](https://aws.amazon.com/snowball/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||

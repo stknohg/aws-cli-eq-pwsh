@@ -1,6 +1,6 @@
 ---
 title: servicecatalog
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## servicecatalog
@@ -78,6 +78,7 @@ date: 2019-05-15
 |[aws servicecatalog list-resources-for-tag-option](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-resources-for-tag-option.html)|[Get-SCResourcesForTagOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCResourcesForTagOption.html)|SC|
 |[aws servicecatalog list-service-actions](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-service-actions.html)|[Get-SCServiceActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCServiceActionList.html)|SC|
 |[aws servicecatalog list-service-actions-for-provisioning-artifact](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-service-actions-for-provisioning-artifact.html)|[Get-SCServiceActionsForProvisioningArtifactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCServiceActionsForProvisioningArtifactList.html)|SC|
+|[aws servicecatalog list-stack-instances-for-provisioned-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-stack-instances-for-provisioned-product.html)|[Get-SCStackInstancesForProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCStackInstancesForProvisionedProduct.html)|SC|
 |[aws servicecatalog list-tag-options](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-tag-options.html)|[Get-SCTagOptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCTagOptionList.html)|SC|
 |[aws servicecatalog provision-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/provision-product.html)|[New-SCProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SCProvisionedProduct.html)|SC|
 |[aws servicecatalog reject-portfolio-share](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/reject-portfolio-share.html)|[Deny-SCPortfolioShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-SCPortfolioShare.html)|SC|
@@ -90,6 +91,7 @@ date: 2019-05-15
 |[aws servicecatalog update-portfolio](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-portfolio.html)|[Update-SCPortfolio](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCPortfolio.html)|SC|
 |[aws servicecatalog update-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-product.html)|[Update-SCProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProduct.html)|SC|
 |[aws servicecatalog update-provisioned-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-provisioned-product.html)|[Update-SCProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProvisionedProduct.html)|SC|
+|[aws servicecatalog update-provisioned-product-properties](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-provisioned-product-properties.html)|[Update-SCProvisionedProductProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProvisionedProductProperty.html)|SC|
 |[aws servicecatalog update-provisioning-artifact](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-provisioning-artifact.html)|[Update-SCProvisioningArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProvisioningArtifact.html)|SC|
 |[aws servicecatalog update-service-action](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-service-action.html)|[Update-SCServiceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCServiceAction.html)|SC|
 |[aws servicecatalog update-tag-option](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-tag-option.html)|[Update-SCTagOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCTagOption.html)|SC|

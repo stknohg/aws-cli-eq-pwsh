@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## rds
@@ -119,8 +119,10 @@ date: 2019-05-15
 |[aws rds restore-db-instance-from-s3](https://docs.aws.amazon.com/cli/latest/reference/rds/restore-db-instance-from-s3.html)|[Restore-RDSDBInstanceFromS3](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RDSDBInstanceFromS3.html)|RDS|
 |[aws rds restore-db-instance-to-point-in-time](https://docs.aws.amazon.com/cli/latest/reference/rds/restore-db-instance-to-point-in-time.html)|[Restore-RDSDBInstanceToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RDSDBInstanceToPointInTime.html)|RDS|
 |[aws rds revoke-db-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/rds/revoke-db-security-group-ingress.html)|[Revoke-RDSDBSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RDSDBSecurityGroupIngress.html)|RDS|
+|[aws rds start-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/start-activity-stream.html)|[Start-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSActivityStream.html)|RDS|
 |[aws rds start-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-cluster.html)|[Start-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBCluster.html)|RDS|
 |[aws rds start-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-instance.html)|[Start-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBInstance.html)|RDS|
+|[aws rds stop-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-activity-stream.html)|[Stop-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSActivityStream.html)|RDS|
 |[aws rds stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-cluster.html)|[Stop-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBCluster.html)|RDS|
 |[aws rds stop-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|RDS|
 

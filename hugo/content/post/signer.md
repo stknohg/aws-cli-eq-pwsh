@@ -1,11 +1,11 @@
 ---
 title: signer
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## signer
 
-### [AWS Signer](https://aws.amazon.com/certificate-manager/)
+### [AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/signer/index.html)
 * Cmdlet Reference

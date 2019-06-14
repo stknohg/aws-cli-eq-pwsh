@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## elasticache
@@ -14,6 +14,8 @@ date: 2019-05-15
 |----|----|:--:|
 |[aws elasticache add-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/elasticache/add-tags-to-resource.html)|[Add-ECTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECTag.html)|EC|
 |[aws elasticache authorize-cache-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/elasticache/authorize-cache-security-group-ingress.html)|[Approve-ECCacheSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-ECCacheSecurityGroupIngress.html)|EC|
+|[aws elasticache batch-apply-update-action](https://docs.aws.amazon.com/cli/latest/reference/elasticache/batch-apply-update-action.html)|||
+|[aws elasticache batch-stop-update-action](https://docs.aws.amazon.com/cli/latest/reference/elasticache/batch-stop-update-action.html)|||
 |[aws elasticache copy-snapshot](https://docs.aws.amazon.com/cli/latest/reference/elasticache/copy-snapshot.html)|[Copy-ECSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-ECSnapshot.html)|EC|
 |[aws elasticache create-cache-cluster](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-cache-cluster.html)|[New-ECCacheCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECCacheCluster.html)|EC|
 |[aws elasticache create-cache-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-cache-parameter-group.html)|[New-ECCacheParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECCacheParameterGroup.html)|EC|
@@ -39,7 +41,9 @@ date: 2019-05-15
 |[aws elasticache describe-replication-groups](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-replication-groups.html)|[Get-ECReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECReplicationGroup.html)|EC|
 |[aws elasticache describe-reserved-cache-nodes](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-reserved-cache-nodes.html)|[Get-ECReservedCacheNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECReservedCacheNode.html)|EC|
 |[aws elasticache describe-reserved-cache-nodes-offerings](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-reserved-cache-nodes-offerings.html)|[Get-ECReservedCacheNodesOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECReservedCacheNodesOffering.html)|EC|
+|[aws elasticache describe-service-updates](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-service-updates.html)|||
 |[aws elasticache describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-snapshots.html)|[Get-ECSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSnapshot.html)|EC|
+|[aws elasticache describe-update-actions](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-update-actions.html)|||
 |[aws elasticache increase-replica-count](https://docs.aws.amazon.com/cli/latest/reference/elasticache/increase-replica-count.html)|[Request-ECReplicaCountIncrease](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECReplicaCountIncrease.html)|EC|
 |[aws elasticache list-allowed-node-type-modifications](https://docs.aws.amazon.com/cli/latest/reference/elasticache/list-allowed-node-type-modifications.html)|[Get-ECAllowedNodeTypeModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECAllowedNodeTypeModification.html)|EC|
 |[aws elasticache list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/elasticache/list-tags-for-resource.html)|[Get-ECTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECTag.html)|EC|

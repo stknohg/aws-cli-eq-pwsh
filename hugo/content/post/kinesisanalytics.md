@@ -1,6 +1,6 @@
 ---
 title: kinesisanalytics
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## kinesisanalytics

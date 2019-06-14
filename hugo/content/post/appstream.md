@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## appstream
@@ -22,6 +22,7 @@ date: 2019-05-15
 |[aws appstream create-image-builder-streaming-url](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-image-builder-streaming-url.html)|[New-APSImageBuilderStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImageBuilderStreamingURL.html)|APS|
 |[aws appstream create-stack](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-stack.html)|[New-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStack.html)|APS|
 |[aws appstream create-streaming-url](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-streaming-url.html)|[New-APSStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStreamingURL.html)|APS|
+|[aws appstream create-usage-report-subscription](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-usage-report-subscription.html)|[New-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUsageReportSubscription.html)|APS|
 |[aws appstream create-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-user.html)|[New-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUser.html)|APS|
 |[aws appstream delete-directory-config](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-directory-config.html)|[Remove-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSDirectoryConfig.html)|APS|
 |[aws appstream delete-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-fleet.html)|[Remove-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSFleet.html)|APS|
@@ -29,6 +30,7 @@ date: 2019-05-15
 |[aws appstream delete-image-builder](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-image-builder.html)|[Remove-APSImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSImageBuilder.html)|APS|
 |[aws appstream delete-image-permissions](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-image-permissions.html)|[Remove-APSImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSImagePermission.html)|APS|
 |[aws appstream delete-stack](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-stack.html)|[Remove-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSStack.html)|APS|
+|[aws appstream delete-usage-report-subscription](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-usage-report-subscription.html)|[Remove-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSUsageReportSubscription.html)|APS|
 |[aws appstream delete-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-user.html)|[Remove-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSUser.html)|APS|
 |[aws appstream describe-directory-configs](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-directory-configs.html)|[Get-APSDirectoryConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSDirectoryConfigList.html)|APS|
 |[aws appstream describe-fleets](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-fleets.html)|[Get-APSFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSFleetList.html)|APS|
@@ -37,6 +39,7 @@ date: 2019-05-15
 |[aws appstream describe-images](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-images.html)|[Get-APSImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSImageList.html)|APS|
 |[aws appstream describe-sessions](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-sessions.html)|[Get-APSSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSSessionList.html)|APS|
 |[aws appstream describe-stacks](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-stacks.html)|[Get-APSStackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSStackList.html)|APS|
+|[aws appstream describe-usage-report-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-usage-report-subscriptions.html)|[Get-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUsageReportSubscription.html)|APS|
 |[aws appstream describe-user-stack-associations](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-user-stack-associations.html)|[Get-APSUserStackAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUserStackAssociation.html)|APS|
 |[aws appstream describe-users](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-users.html)|[Get-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUser.html)|APS|
 |[aws appstream disable-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/disable-user.html)|[Disable-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-APSUser.html)|APS|

@@ -1,6 +1,6 @@
 ---
 title: devicefarm
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## devicefarm
@@ -59,6 +59,7 @@ date: 2019-05-15
 |[aws devicefarm list-runs](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-runs.html)|[Get-DFRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFRunList.html)|DF|
 |[aws devicefarm list-samples](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-samples.html)|[Get-DFSampleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFSampleList.html)|DF|
 |[aws devicefarm list-suites](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-suites.html)|[Get-DFSuiteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFSuiteList.html)|DF|
+|[aws devicefarm list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-tags-for-resource.html)|[Get-DFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFResourceTag.html)|DF|
 |[aws devicefarm list-tests](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-tests.html)|[Get-DFTestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFTestList.html)|DF|
 |[aws devicefarm list-unique-problems](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-unique-problems.html)|[Get-DFUniqueProblemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFUniqueProblemList.html)|DF|
 |[aws devicefarm list-uploads](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-uploads.html)|[Get-DFUploadList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFUploadList.html)|DF|
@@ -69,6 +70,8 @@ date: 2019-05-15
 |[aws devicefarm stop-job](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/stop-job.html)|[Stop-DFJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DFJob.html)|DF|
 |[aws devicefarm stop-remote-access-session](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/stop-remote-access-session.html)|[Stop-DFRemoteAccessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DFRemoteAccessSession.html)|DF|
 |[aws devicefarm stop-run](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/stop-run.html)|[Stop-DFRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DFRun.html)|DF|
+|[aws devicefarm tag-resource](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/tag-resource.html)|[Add-DFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DFResourceTag.html)|DF|
+|[aws devicefarm untag-resource](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/untag-resource.html)|[Remove-DFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFResourceTag.html)|DF|
 |[aws devicefarm update-device-instance](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-device-instance.html)|[Update-DFDeviceInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFDeviceInstance.html)|DF|
 |[aws devicefarm update-device-pool](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-device-pool.html)|[Update-DFDevicePool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFDevicePool.html)|DF|
 |[aws devicefarm update-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-instance-profile.html)|[Update-DFInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFInstanceProfile.html)|DF|

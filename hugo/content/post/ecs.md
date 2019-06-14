@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## ecs
@@ -47,6 +47,7 @@ date: 2019-05-15
 |[aws ecs run-task](https://docs.aws.amazon.com/cli/latest/reference/ecs/run-task.html)|[New-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTask.html)|ECS|
 |[aws ecs start-task](https://docs.aws.amazon.com/cli/latest/reference/ecs/start-task.html)|[Start-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECSTask.html)|ECS|
 |[aws ecs stop-task](https://docs.aws.amazon.com/cli/latest/reference/ecs/stop-task.html)|[Stop-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ECSTask.html)|ECS|
+|[aws ecs submit-attachment-state-changes](https://docs.aws.amazon.com/cli/latest/reference/ecs/submit-attachment-state-changes.html)|||
 |[aws ecs submit-container-state-change](https://docs.aws.amazon.com/cli/latest/reference/ecs/submit-container-state-change.html)|||
 |[aws ecs submit-task-state-change](https://docs.aws.amazon.com/cli/latest/reference/ecs/submit-task-state-change.html)|||
 |[aws ecs tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/tag-resource.html)|[Add-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECSResourceTag.html)|ECS|

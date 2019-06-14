@@ -1,6 +1,6 @@
 ---
 title: ses
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## ses
@@ -52,6 +52,7 @@ date: 2019-05-15
 |[aws ses list-receipt-filters](https://docs.aws.amazon.com/cli/latest/reference/ses/list-receipt-filters.html)|[Get-SESReceiptFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SESReceiptFilterList.html)|SES|
 |[aws ses list-receipt-rule-sets](https://docs.aws.amazon.com/cli/latest/reference/ses/list-receipt-rule-sets.html)|[Get-SESReceiptRuleSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SESReceiptRuleSetList.html)|SES|
 |[aws ses list-templates](https://docs.aws.amazon.com/cli/latest/reference/ses/list-templates.html)|[Get-SESTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SESTemplateList.html)|SES|
+|[aws ses put-configuration-set-delivery-options](https://docs.aws.amazon.com/cli/latest/reference/ses/put-configuration-set-delivery-options.html)|||
 |[aws ses put-identity-policy](https://docs.aws.amazon.com/cli/latest/reference/ses/put-identity-policy.html)|[Write-SESIdentityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SESIdentityPolicy.html)|SES|
 |[aws ses reorder-receipt-rule-set](https://docs.aws.amazon.com/cli/latest/reference/ses/reorder-receipt-rule-set.html)|[Set-SESReceiptRuleSetOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SESReceiptRuleSetOrder.html)|SES|
 |[aws ses send-bounce](https://docs.aws.amazon.com/cli/latest/reference/ses/send-bounce.html)|[Send-SESBounce](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SESBounce.html)|SES|

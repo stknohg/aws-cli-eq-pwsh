@@ -1,6 +1,6 @@
 ---
 title: pinpoint-email
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## pinpoint-email
@@ -29,11 +29,13 @@ date: 2019-05-15
 |[aws pinpoint-email get-dedicated-ips](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/get-dedicated-ips.html)|[Get-PINEDedicatedIpList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDedicatedIpList.html)|PINE|
 |[aws pinpoint-email get-deliverability-dashboard-options](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/get-deliverability-dashboard-options.html)|[Get-PINEDeliverabilityDashboardOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDeliverabilityDashboardOption.html)|PINE|
 |[aws pinpoint-email get-deliverability-test-report](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/get-deliverability-test-report.html)|[Get-PINEDeliverabilityTestReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDeliverabilityTestReport.html)|PINE|
+|[aws pinpoint-email get-domain-deliverability-campaign](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/get-domain-deliverability-campaign.html)|[Get-PINEDomainDeliverabilityCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDomainDeliverabilityCampaign.html)|PINE|
 |[aws pinpoint-email get-domain-statistics-report](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/get-domain-statistics-report.html)|[Get-PINEDomainStatisticsReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDomainStatisticsReport.html)|PINE|
 |[aws pinpoint-email get-email-identity](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/get-email-identity.html)|[Get-PINEEmailIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEEmailIdentity.html)|PINE|
 |[aws pinpoint-email list-configuration-sets](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-configuration-sets.html)|[Get-PINEConfigurationSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEConfigurationSetList.html)|PINE|
 |[aws pinpoint-email list-dedicated-ip-pools](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-dedicated-ip-pools.html)|[Get-PINEDedicatedIpPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDedicatedIpPoolList.html)|PINE|
 |[aws pinpoint-email list-deliverability-test-reports](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-deliverability-test-reports.html)|[Get-PINEDeliverabilityTestReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDeliverabilityTestReportList.html)|PINE|
+|[aws pinpoint-email list-domain-deliverability-campaigns](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-domain-deliverability-campaigns.html)|[Get-PINEDomainDeliverabilityCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEDomainDeliverabilityCampaignList.html)|PINE|
 |[aws pinpoint-email list-email-identities](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-email-identities.html)|[Get-PINEEmailIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEEmailIdentityList.html)|PINE|
 |[aws pinpoint-email list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/list-tags-for-resource.html)|[Get-PINEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEResourceTag.html)|PINE|
 |[aws pinpoint-email put-account-dedicated-ip-warmup-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/put-account-dedicated-ip-warmup-attributes.html)|[Write-PINEAccountDedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEAccountDedicatedIpWarmupAttribute.html)|PINE|

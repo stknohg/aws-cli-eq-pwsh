@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## storagegateway
@@ -17,6 +17,7 @@ date: 2019-05-15
 |[aws storagegateway add-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/add-tags-to-resource.html)|[Add-SGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGResourceTag.html)|SG|
 |[aws storagegateway add-upload-buffer](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/add-upload-buffer.html)|[Add-SGUploadBuffer](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGUploadBuffer.html)|SG|
 |[aws storagegateway add-working-storage](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/add-working-storage.html)|[Add-SGWorkingStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGWorkingStorage.html)|SG|
+|[aws storagegateway assign-tape-pool](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/assign-tape-pool.html)|[Add-SGTapeToTapePool](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGTapeToTapePool.html)|SG|
 |[aws storagegateway attach-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/attach-volume.html)|[Mount-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-SGVolume.html)|SG|
 |[aws storagegateway cancel-archival](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/cancel-archival.html)|[Stop-SGArchival](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SGArchival.html)|SG|
 |[aws storagegateway cancel-retrieval](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/cancel-retrieval.html)|[Stop-SGRetrieval](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SGRetrieval.html)|SG|
@@ -81,6 +82,7 @@ date: 2019-05-15
 |[aws storagegateway update-maintenance-start-time](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-maintenance-start-time.html)|[Update-SGMaintenanceStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGMaintenanceStartTime.html)|SG|
 |[aws storagegateway update-nfs-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-nfs-file-share.html)|[Update-SGNFSFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGNFSFileShare.html)|SG|
 |[aws storagegateway update-smb-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-file-share.html)|[Update-SGSMBFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBFileShare.html)|SG|
+|[aws storagegateway update-smb-security-strategy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-security-strategy.html)|||
 |[aws storagegateway update-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-snapshot-schedule.html)|[Update-SGSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSnapshotSchedule.html)|SG|
 |[aws storagegateway update-vtl-device-type](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-vtl-device-type.html)|[Update-SGVTLDeviceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGVTLDeviceType.html)|SG|
 

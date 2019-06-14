@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## securityhub
@@ -22,6 +22,7 @@ date: 2019-05-15
 |[aws securityhub delete-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-insight.html)|[Remove-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBInsight.html)|SHUB|
 |[aws securityhub delete-invitations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-invitations.html)|[Remove-SHUBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBInvitation.html)|SHUB|
 |[aws securityhub delete-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-members.html)|[Remove-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMember.html)|SHUB|
+|[aws securityhub describe-products](https://docs.aws.amazon.com/cli/latest/reference/securityhub/describe-products.html)|[Get-SHUBProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBProduct.html)|SHUB|
 |[aws securityhub disable-import-findings-for-product](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-import-findings-for-product.html)|[Disable-SHUBImportFindingsForProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBImportFindingsForProduct.html)|SHUB|
 |[aws securityhub disable-security-hub](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-security-hub.html)|[Disable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBSecurityHub.html)|SHUB|
 |[aws securityhub disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disassociate-from-master-account.html)|[Remove-SHUBMasterAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMasterAccountAssociation.html)|SHUB|
@@ -39,6 +40,7 @@ date: 2019-05-15
 |[aws securityhub list-enabled-products-for-import](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-enabled-products-for-import.html)|[Get-SHUBEnabledProductsForImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledProductsForImportList.html)|SHUB|
 |[aws securityhub list-invitations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-invitations.html)|[Get-SHUBInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationList.html)|SHUB|
 |[aws securityhub list-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-members.html)|[Get-SHUBMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMemberList.html)|SHUB|
+|[aws securityhub list-product-subscribers](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-product-subscribers.html)|[Get-SHUBProductSubscriberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBProductSubscriberList.html)|SHUB|
 |[aws securityhub update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-findings.html)|[Update-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFinding.html)|SHUB|
 |[aws securityhub update-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-insight.html)|[Update-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBInsight.html)|SHUB|
 

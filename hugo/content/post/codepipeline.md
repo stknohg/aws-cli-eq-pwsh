@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2019-05-15
+date: 2019-06-14
 ---
 
 ## codepipeline
@@ -31,6 +31,7 @@ date: 2019-05-15
 |[aws codepipeline list-action-types](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-action-types.html)|[Get-CPActionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionType.html)|CP|
 |[aws codepipeline list-pipeline-executions](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-pipeline-executions.html)|[Get-CPPipelineExecutionSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineExecutionSummary.html)|CP|
 |[aws codepipeline list-pipelines](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-pipelines.html)|[Get-CPPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineList.html)|CP|
+|[aws codepipeline list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-tags-for-resource.html)|[Get-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPResourceTag.html)|CP|
 |[aws codepipeline list-webhooks](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/list-webhooks.html)|[Get-CPWebhookList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPWebhookList.html)|CP|
 |[aws codepipeline poll-for-jobs](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/poll-for-jobs.html)|[Get-CPActionableJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionableJobList.html)|CP|
 |[aws codepipeline poll-for-third-party-jobs](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/poll-for-third-party-jobs.html)|[Get-CPActionableThirdPartyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionableThirdPartyJobList.html)|CP|
@@ -44,5 +45,7 @@ date: 2019-05-15
 |[aws codepipeline register-webhook-with-third-party](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/register-webhook-with-third-party.html)|[Register-CPWebhookWithThirdParty](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CPWebhookWithThirdParty.html)|CP|
 |[aws codepipeline retry-stage-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/retry-stage-execution.html)|[Redo-CPStageExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Redo-CPStageExecution.html)|CP|
 |[aws codepipeline start-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/start-pipeline-execution.html)|[Start-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CPPipelineExecution.html)|CP|
+|[aws codepipeline tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/tag-resource.html)|[Add-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CPResourceTag.html)|CP|
+|[aws codepipeline untag-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/untag-resource.html)|[Remove-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPResourceTag.html)|CP|
 |[aws codepipeline update-pipeline](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/update-pipeline.html)|[Update-CPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CPPipeline.html)|CP|
 

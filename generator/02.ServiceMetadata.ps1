@@ -229,7 +229,7 @@ $g_AWSServices = @{
     'servicediscovery'             = [PSCustomObject]@{ Prefix = 'SD'; Name = 'Amazon Route 53 Auto Naming'; Url = 'https://aws.amazon.com/route53/'; Note = ''};
     'ses'                          = [PSCustomObject]@{ Prefix = 'SES'; Name = 'Amazon Simple Email Service'; Url = 'https://aws.amazon.com/ses/'; Note = ''};
     'shield'                       = [PSCustomObject]@{ Prefix = 'SHLD'; Name = 'AWS Shield'; Url = 'https://aws.amazon.com/shield/'; Note = ''};
-    'signer'                       = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Signer'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = ''};
+    'signer'                       = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Signer'; Url = 'https://docs.aws.amazon.com/signer/latest/api/Welcome.html'; Note = ''};
     'sms'                          = [PSCustomObject]@{ Prefix = 'SMS'; Name = 'AWS Sever Migration Service'; Url = 'https://aws.amazon.com/server-migration-service/'; Note = ''};
     'snowball'                     = [PSCustomObject]@{ Prefix = 'SNOW'; Name = 'AWS Snowball'; Url = 'https://aws.amazon.com/snowball/'; Note = ''};
     'sns'                          = [PSCustomObject]@{ Prefix = 'SNS'; Name = 'Amazon Simple Notification Service'; Url = 'https://aws.amazon.com/sns/'; Note = ''};

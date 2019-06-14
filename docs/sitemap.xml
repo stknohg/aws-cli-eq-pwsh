@@ -8,6 +8,12 @@
   </url>
   
   <url>
+    <loc>https://aws-cli-eq-pwsh.shibata.tech/post/</loc>
+    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/acm/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
   </url>
@@ -925,12 +931,6 @@
   <url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/xray/</loc>
     <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://aws-cli-eq-pwsh.shibata.tech/post/</loc>
-    <lastmod>2019-06-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -72,6 +72,7 @@ $g_SubCommandAlias = @{
     'secretsmanager'               = 'sec';
     'securityhub'                  = 'shub';
     'serverlessrepo'               = 'sar';
+    'service-quotas'               = 'sq';
     'servicecatalog'               = 'sc';
     'servicediscovery'             = 'sd';
     'stepfunctions'                = 'sfn';

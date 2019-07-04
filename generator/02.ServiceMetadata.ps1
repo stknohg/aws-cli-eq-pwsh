@@ -427,6 +427,7 @@ $g_CmdletReferenceLinks = @{
     'secretsmanager'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Secrets_Manager_cmdlets.html';
     'securityhub'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Hub_cmdlets.html';
     'serverlessrepo'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Serverless_Application_Repository_cmdlets.html';
+    'service-quotas'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Service_Quotas_cmdlets.html';
     'servicecatalog'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Service_Catalog_cmdlets.html';
     'servicediscovery'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Auto_Naming_cmdlets.html';
     'ses'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Email_Service_cmdlets.html';

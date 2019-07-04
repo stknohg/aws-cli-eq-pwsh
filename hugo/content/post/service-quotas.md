@@ -8,7 +8,7 @@ date: 2019-07-04
 ### [AWS Service Quotas](https://console.aws.amazon.com/servicequotas/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Service_Quotas_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

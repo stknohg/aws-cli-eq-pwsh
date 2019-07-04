@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## ssm
@@ -20,7 +20,7 @@ date: 2019-06-14
 |[aws ssm create-association-batch](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-association-batch.html)|[New-SSMAssociationFromBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMAssociationFromBatch.html)|
 |[aws ssm create-document](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-document.html)|[New-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMDocument.html)|
 |[aws ssm create-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-maintenance-window.html)|[New-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMMaintenanceWindow.html)|
-|[aws ssm create-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-ops-item.html)||
+|[aws ssm create-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-ops-item.html)|[New-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMOpsItem.html)|
 |[aws ssm create-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-patch-baseline.html)|[New-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMPatchBaseline.html)|
 |[aws ssm create-resource-data-sync](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-resource-data-sync.html)|[New-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMResourceDataSync.html)|
 |[aws ssm delete-activation](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-activation.html)|[Remove-SSMActivation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMActivation.html)|
@@ -61,7 +61,7 @@ date: 2019-06-14
 |[aws ssm describe-maintenance-window-tasks](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-maintenance-window-tasks.html)|[Get-SSMMaintenanceWindowTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowTaskList.html)|
 |[aws ssm describe-maintenance-windows](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-maintenance-windows.html)|[Get-SSMMaintenanceWindowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowList.html)|
 |[aws ssm describe-maintenance-windows-for-target](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-maintenance-windows-for-target.html)|[Get-SSMMaintenanceWindowsForTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowsForTarget.html)|
-|[aws ssm describe-ops-items](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-ops-items.html)||
+|[aws ssm describe-ops-items](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-ops-items.html)|[Get-SSMOpsItemSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsItemSummary.html)|
 |[aws ssm describe-parameters](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-parameters.html)|[Get-SSMParameterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParameterList.html)|
 |[aws ssm describe-patch-baselines](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-baselines.html)|[Get-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchBaseline.html)|
 |[aws ssm describe-patch-group-state](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-group-state.html)|[Get-SSMPatchGroupState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchGroupState.html)|
@@ -81,8 +81,8 @@ date: 2019-06-14
 |[aws ssm get-maintenance-window-execution-task](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-maintenance-window-execution-task.html)|[Get-SSMMaintenanceWindowExecutionTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowExecutionTask.html)|
 |[aws ssm get-maintenance-window-execution-task-invocation](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-maintenance-window-execution-task-invocation.html)|[Get-SSMMaintenanceWindowExecutionTaskInvocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowExecutionTaskInvocation.html)|
 |[aws ssm get-maintenance-window-task](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-maintenance-window-task.html)|[Get-SSMMaintenanceWindowTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowTask.html)|
-|[aws ssm get-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-item.html)||
-|[aws ssm get-ops-summary](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-summary.html)||
+|[aws ssm get-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-item.html)|[Get-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsItem.html)|
+|[aws ssm get-ops-summary](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-summary.html)|[Get-SSMOpsSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsSummary.html)|
 |[aws ssm get-parameter](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-parameter.html)|[Get-SSMParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParameter.html)|
 |[aws ssm get-parameter-history](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-parameter-history.html)|[Get-SSMParameterHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParameterHistory.html)|
 |[aws ssm get-parameters](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-parameters.html)|[Get-SSMParameterValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParameterValue.html)|
@@ -129,7 +129,7 @@ date: 2019-06-14
 |[aws ssm update-maintenance-window-target](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-maintenance-window-target.html)|[Update-SSMMaintenanceWindowTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMMaintenanceWindowTarget.html)|
 |[aws ssm update-maintenance-window-task](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-maintenance-window-task.html)|[Update-SSMMaintenanceWindowTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMMaintenanceWindowTask.html)|
 |[aws ssm update-managed-instance-role](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-managed-instance-role.html)|[Update-SSMManagedInstanceRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMManagedInstanceRole.html)|
-|[aws ssm update-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-ops-item.html)||
+|[aws ssm update-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-ops-item.html)|[Update-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMOpsItem.html)|
 |[aws ssm update-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-patch-baseline.html)|[Update-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMPatchBaseline.html)|
 |[aws ssm update-service-setting](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-service-setting.html)|[Update-SSMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMServiceSetting.html)|
 

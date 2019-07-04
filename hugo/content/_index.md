@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 <br/>
@@ -9,8 +9,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 1.16.178 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.522.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 1.16.193 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.542.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -30,6 +30,7 @@ For that reason, some content may not be accurate.
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
+||[application-insights]({{%relref "post/application-insights.md" %}})|||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
@@ -78,6 +79,7 @@ For that reason, some content may not be accurate.
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[dynamodb]({{%relref "post/dynamodb.md" %}})|DDB||
 |[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|DDB||
 |[Amazon EC2](https://aws.amazon.com/ec2/)|[ec2]({{%relref "post/ec2.md" %}})|EC2||
+|[AWS EC2 Connect Service](https://aws.amazon.com/ec2/)|[ec2-instance-connect]({{%relref "post/ec2-instance-connect.md" %}})|||
 |[Amazon Elastic Container Registry](https://aws.amazon.com/ecr/)|[ecr]({{%relref "post/ecr.md" %}})|ECR||
 |[Amazon Elastic Container Service](https://aws.amazon.com/ecs/)|[ecs]({{%relref "post/ecs.md" %}})|ECS||
 |[Amazon Elastic File System](https://aws.amazon.com/efs/)|[efs]({{%relref "post/efs.md" %}})|EFS||
@@ -180,6 +182,7 @@ For that reason, some content may not be accurate.
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
 |[AWS Security Hub](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||
+|[AWS Service Quotas](https://console.aws.amazon.com/servicequotas/)|[service-quotas]({{%relref "post/service-quotas.md" %}})|SQ||
 |[AWS Service Catalog](https://aws.amazon.com/servicecatalog/)|[servicecatalog]({{%relref "post/servicecatalog.md" %}})|SC||
 |[Amazon Route 53 Auto Naming](https://aws.amazon.com/route53/)|[servicediscovery]({{%relref "post/servicediscovery.md" %}})|SD||
 |[Amazon Simple Email Service](https://aws.amazon.com/ses/)|[ses]({{%relref "post/ses.md" %}})|SES||

@@ -88,7 +88,8 @@ $g_AWSServices = @{
     'apigateway'                   = [PSCustomObject]@{ Prefix = 'AG'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewaymanagementapi'      = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewayv2'                 = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
-    'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };  
+    'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
+    'application-insigths'         = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights for .NET and SQL Server'; Url = 'http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
     'appmesh'                      = [PSCustomObject]@{ Prefix = 'AMSH'; Name = 'AWS App Mesh'; Url = 'https://aws.amazon.com/app-mesh/'; Note = '' };
     'appstream'                    = [PSCustomObject]@{ Prefix = 'APS'; Name = 'Amazon AppStream 2.0'; Url = 'https://aws.amazon.com/appstream2/'; Note = '' };
     'appsync'                      = [PSCustomObject]@{ Prefix = 'ASYN'; Name = 'AWS AppSync'; Url = 'https://aws.amazon.com/appsync/'; Note = '' };
@@ -137,6 +138,7 @@ $g_AWSServices = @{
     'dynamodb'                     = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
     'dynamodbstreams'              = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB Streams'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
     'ec2'                          = [PSCustomObject]@{ Prefix = 'EC2'; Name = 'Amazon EC2'; Url = 'https://aws.amazon.com/ec2/'; Note = '' };
+    'ec2-instance-connect'         = [PSCustomObject]@{ Prefix = ''; Name = 'AWS EC2 Connect Service'; Url = 'https://aws.amazon.com/ec2/'; Note = '' };
     'ecr'                          = [PSCustomObject]@{ Prefix = 'ECR'; Name = 'Amazon Elastic Container Registry'; Url = 'https://aws.amazon.com/ecr/'; Note = '' };
     'ecs'                          = [PSCustomObject]@{ Prefix = 'ECS'; Name = 'Amazon Elastic Container Service'; Url = 'https://aws.amazon.com/ecs/'; Note = '' };
     'efs'                          = [PSCustomObject]@{ Prefix = 'EFS'; Name = 'Amazon Elastic File System'; Url = 'https://aws.amazon.com/efs/'; Note = '' };
@@ -239,6 +241,7 @@ $g_AWSServices = @{
     'secretsmanager'               = [PSCustomObject]@{ Prefix = 'SEC'; Name = 'AWS Secrets Manager'; Url = 'https://aws.amazon.com/secrets-manager/'; Note = '' };
     'securityhub'                  = [PSCustomObject]@{ Prefix = 'SHUB'; Name = 'AWS Security Hub'; Url = 'https://aws.amazon.com/securityhub/'; Note = '' };
     'serverlessrepo'               = [PSCustomObject]@{ Prefix = 'SAR'; Name = 'AWS Serverless Application Repository'; Url = 'https://aws.amazon.com/serverless/serverlessrepo/'; Note = '' };
+    'service-quotas'               = [PSCustomObject]@{ Prefix = 'SQ'; Name = 'AWS Service Quotas'; Url = 'https://console.aws.amazon.com/servicequotas/'; Note = '' };
     'servicecatalog'               = [PSCustomObject]@{ Prefix = 'SC'; Name = 'AWS Service Catalog'; Url = 'https://aws.amazon.com/servicecatalog/'; Note = '' };
     'servicediscovery'             = [PSCustomObject]@{ Prefix = 'SD'; Name = 'Amazon Route 53 Auto Naming'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
     'ses'                          = [PSCustomObject]@{ Prefix = 'SES'; Name = 'Amazon Simple Email Service'; Url = 'https://aws.amazon.com/ses/'; Note = '' };

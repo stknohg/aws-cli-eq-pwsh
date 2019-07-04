@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## storagegateway
@@ -82,7 +82,7 @@ date: 2019-06-14
 |[aws storagegateway update-maintenance-start-time](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-maintenance-start-time.html)|[Update-SGMaintenanceStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGMaintenanceStartTime.html)|
 |[aws storagegateway update-nfs-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-nfs-file-share.html)|[Update-SGNFSFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGNFSFileShare.html)|
 |[aws storagegateway update-smb-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-file-share.html)|[Update-SGSMBFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBFileShare.html)|
-|[aws storagegateway update-smb-security-strategy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-security-strategy.html)||
+|[aws storagegateway update-smb-security-strategy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-security-strategy.html)|[Update-SGSMBSecurityStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBSecurityStrategy.html)|
 |[aws storagegateway update-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-snapshot-schedule.html)|[Update-SGSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSnapshotSchedule.html)|
 |[aws storagegateway update-vtl-device-type](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-vtl-device-type.html)|[Update-SGVTLDeviceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGVTLDeviceType.html)|
 

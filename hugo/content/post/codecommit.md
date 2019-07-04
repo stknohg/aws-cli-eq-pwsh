@@ -1,6 +1,6 @@
 ---
 title: codecommit
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## codecommit
@@ -12,18 +12,18 @@ date: 2019-06-14
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws codecommit batch-describe-merge-conflicts](https://docs.aws.amazon.com/cli/latest/reference/codecommit/batch-describe-merge-conflicts.html)||
+|[aws codecommit batch-describe-merge-conflicts](https://docs.aws.amazon.com/cli/latest/reference/codecommit/batch-describe-merge-conflicts.html)|[Get-CCFileMergeConflictBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCFileMergeConflictBatch.html)|
 |[aws codecommit batch-get-repositories](https://docs.aws.amazon.com/cli/latest/reference/codecommit/batch-get-repositories.html)|[Get-CCRepositoryBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCRepositoryBatch.html)|
 |[aws codecommit create-branch](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-branch.html)|[New-CCBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCBranch.html)|
 |[aws codecommit create-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-commit.html)|[New-CCCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCCommit.html)|
 |[aws codecommit create-pull-request](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-pull-request.html)|[New-CCPullRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCPullRequest.html)|
 |[aws codecommit create-repository](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-repository.html)|[New-CCRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCRepository.html)|
-|[aws codecommit create-unreferenced-merge-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-unreferenced-merge-commit.html)||
+|[aws codecommit create-unreferenced-merge-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/create-unreferenced-merge-commit.html)|[New-CCUnreferencedMergeCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCUnreferencedMergeCommit.html)|
 |[aws codecommit delete-branch](https://docs.aws.amazon.com/cli/latest/reference/codecommit/delete-branch.html)|[Remove-CCBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCBranch.html)|
 |[aws codecommit delete-comment-content](https://docs.aws.amazon.com/cli/latest/reference/codecommit/delete-comment-content.html)|[Remove-CCCommentContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCCommentContent.html)|
 |[aws codecommit delete-file](https://docs.aws.amazon.com/cli/latest/reference/codecommit/delete-file.html)|[Remove-CCFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCFile.html)|
 |[aws codecommit delete-repository](https://docs.aws.amazon.com/cli/latest/reference/codecommit/delete-repository.html)|[Remove-CCRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCRepository.html)|
-|[aws codecommit describe-merge-conflicts](https://docs.aws.amazon.com/cli/latest/reference/codecommit/describe-merge-conflicts.html)||
+|[aws codecommit describe-merge-conflicts](https://docs.aws.amazon.com/cli/latest/reference/codecommit/describe-merge-conflicts.html)|[Get-CCFileMergeConflict](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCFileMergeConflict.html)|
 |[aws codecommit describe-pull-request-events](https://docs.aws.amazon.com/cli/latest/reference/codecommit/describe-pull-request-events.html)|[Get-CCPullRequestEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCPullRequestEvent.html)|
 |[aws codecommit get-blob](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-blob.html)|[Get-CCBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBlob.html)|
 |[aws codecommit get-branch](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-branch.html)|[Get-CCBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBranch.html)|
@@ -34,9 +34,9 @@ date: 2019-06-14
 |[aws codecommit get-differences](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-differences.html)|[Get-CCDifferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCDifferenceList.html)|
 |[aws codecommit get-file](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-file.html)|[Get-CCFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCFile.html)|
 |[aws codecommit get-folder](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-folder.html)|[Get-CCFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCFolder.html)|
-|[aws codecommit get-merge-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-merge-commit.html)||
+|[aws codecommit get-merge-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-merge-commit.html)|[Get-CCMergeCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCMergeCommit.html)|
 |[aws codecommit get-merge-conflicts](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-merge-conflicts.html)|[Get-CCMergeConflict](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCMergeConflict.html)|
-|[aws codecommit get-merge-options](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-merge-options.html)||
+|[aws codecommit get-merge-options](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-merge-options.html)|[Get-CCMergeOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCMergeOption.html)|
 |[aws codecommit get-pull-request](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-pull-request.html)|[Get-CCPullRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCPullRequest.html)|
 |[aws codecommit get-repository](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-repository.html)|[Get-CCRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCRepository.html)|
 |[aws codecommit get-repository-triggers](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-repository-triggers.html)|[Get-CCRepositoryTrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCRepositoryTrigger.html)|
@@ -44,12 +44,12 @@ date: 2019-06-14
 |[aws codecommit list-pull-requests](https://docs.aws.amazon.com/cli/latest/reference/codecommit/list-pull-requests.html)|[Get-CCPullRequestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCPullRequestList.html)|
 |[aws codecommit list-repositories](https://docs.aws.amazon.com/cli/latest/reference/codecommit/list-repositories.html)|[Get-CCRepositoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCRepositoryList.html)|
 |[aws codecommit list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/codecommit/list-tags-for-resource.html)|[Get-CCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCResourceTag.html)|
-|[aws codecommit merge-branches-by-fast-forward](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-branches-by-fast-forward.html)||
-|[aws codecommit merge-branches-by-squash](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-branches-by-squash.html)||
-|[aws codecommit merge-branches-by-three-way](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-branches-by-three-way.html)||
+|[aws codecommit merge-branches-by-fast-forward](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-branches-by-fast-forward.html)|[Merge-CCBranchesByFastForward](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CCBranchesByFastForward.html)|
+|[aws codecommit merge-branches-by-squash](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-branches-by-squash.html)|[Merge-CCBranchesBySquash](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CCBranchesBySquash.html)|
+|[aws codecommit merge-branches-by-three-way](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-branches-by-three-way.html)|[Merge-CCBranchesByThreeWay](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CCBranchesByThreeWay.html)|
 |[aws codecommit merge-pull-request-by-fast-forward](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-pull-request-by-fast-forward.html)|[Merge-CCPullRequestByFastForward](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CCPullRequestByFastForward.html)|
-|[aws codecommit merge-pull-request-by-squash](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-pull-request-by-squash.html)||
-|[aws codecommit merge-pull-request-by-three-way](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-pull-request-by-three-way.html)||
+|[aws codecommit merge-pull-request-by-squash](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-pull-request-by-squash.html)|[Merge-CCPullRequestBySquash](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CCPullRequestBySquash.html)|
+|[aws codecommit merge-pull-request-by-three-way](https://docs.aws.amazon.com/cli/latest/reference/codecommit/merge-pull-request-by-three-way.html)|[Merge-CCPullRequestByThreeWay](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CCPullRequestByThreeWay.html)|
 |[aws codecommit post-comment-for-compared-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/post-comment-for-compared-commit.html)|[Send-CCCommentForComparedCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CCCommentForComparedCommit.html)|
 |[aws codecommit post-comment-for-pull-request](https://docs.aws.amazon.com/cli/latest/reference/codecommit/post-comment-for-pull-request.html)|[Send-CCCommentForPullRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CCCommentForPullRequest.html)|
 |[aws codecommit post-comment-reply](https://docs.aws.amazon.com/cli/latest/reference/codecommit/post-comment-reply.html)|[Send-CCCommentReply](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CCCommentReply.html)|

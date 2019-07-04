@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## iam
@@ -62,6 +62,7 @@ date: 2019-06-14
 |[aws iam detach-user-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/detach-user-policy.html)|[Unregister-IAMUserPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-IAMUserPolicy.html)|
 |[aws iam enable-mfa-device](https://docs.aws.amazon.com/cli/latest/reference/iam/enable-mfa-device.html)|[Enable-IAMMFADevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-IAMMFADevice.html)|
 |[aws iam generate-credential-report](https://docs.aws.amazon.com/cli/latest/reference/iam/generate-credential-report.html)|[Request-IAMCredentialReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-IAMCredentialReport.html)|
+|[aws iam generate-organizations-access-report](https://docs.aws.amazon.com/cli/latest/reference/iam/generate-organizations-access-report.html)|[New-IAMOrganizationsAccessReport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMOrganizationsAccessReport.html)|
 |[aws iam generate-service-last-accessed-details](https://docs.aws.amazon.com/cli/latest/reference/iam/generate-service-last-accessed-details.html)|[Request-IAMServiceLastAccessedDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-IAMServiceLastAccessedDetail.html)|
 |[aws iam get-access-key-last-used](https://docs.aws.amazon.com/cli/latest/reference/iam/get-access-key-last-used.html)|[Get-IAMAccessKeyLastUsed](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccessKeyLastUsed.html)|
 |[aws iam get-account-authorization-details](https://docs.aws.amazon.com/cli/latest/reference/iam/get-account-authorization-details.html)|[Get-IAMAccountAuthorizationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccountAuthorizationDetail.html)|
@@ -75,6 +76,7 @@ date: 2019-06-14
 |[aws iam get-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/iam/get-instance-profile.html)|[Get-IAMInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMInstanceProfile.html)|
 |[aws iam get-login-profile](https://docs.aws.amazon.com/cli/latest/reference/iam/get-login-profile.html)|[Get-IAMLoginProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMLoginProfile.html)|
 |[aws iam get-open-id-connect-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/get-open-id-connect-provider.html)|[Get-IAMOpenIDConnectProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOpenIDConnectProvider.html)|
+|[aws iam get-organizations-access-report](https://docs.aws.amazon.com/cli/latest/reference/iam/get-organizations-access-report.html)|[Get-IAMOrganizationsAccessReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOrganizationsAccessReport.html)|
 |[aws iam get-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/get-policy.html)|[Get-IAMPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicy.html)|
 |[aws iam get-policy-version](https://docs.aws.amazon.com/cli/latest/reference/iam/get-policy-version.html)|[Get-IAMPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyVersion.html)|
 |[aws iam get-role](https://docs.aws.amazon.com/cli/latest/reference/iam/get-role.html)|[Get-IAMRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRole.html)|

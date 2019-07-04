@@ -1,6 +1,6 @@
 ---
 title: swf
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## swf
@@ -28,6 +28,7 @@ date: 2019-06-14
 |[aws swf list-closed-workflow-executions](https://docs.aws.amazon.com/cli/latest/reference/swf/list-closed-workflow-executions.html)|[Get-SWFClosedWorkflowExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SWFClosedWorkflowExecutionList.html)|
 |[aws swf list-domains](https://docs.aws.amazon.com/cli/latest/reference/swf/list-domains.html)|[Get-SWFDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SWFDomainList.html)|
 |[aws swf list-open-workflow-executions](https://docs.aws.amazon.com/cli/latest/reference/swf/list-open-workflow-executions.html)||
+|[aws swf list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/swf/list-tags-for-resource.html)||
 |[aws swf list-workflow-types](https://docs.aws.amazon.com/cli/latest/reference/swf/list-workflow-types.html)|[Get-SWFWorkflowTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SWFWorkflowTypeList.html)|
 |[aws swf poll-for-activity-task](https://docs.aws.amazon.com/cli/latest/reference/swf/poll-for-activity-task.html)||
 |[aws swf poll-for-decision-task](https://docs.aws.amazon.com/cli/latest/reference/swf/poll-for-decision-task.html)||
@@ -42,5 +43,10 @@ date: 2019-06-14
 |[aws swf respond-decision-task-completed](https://docs.aws.amazon.com/cli/latest/reference/swf/respond-decision-task-completed.html)||
 |[aws swf signal-workflow-execution](https://docs.aws.amazon.com/cli/latest/reference/swf/signal-workflow-execution.html)|[Send-SWFSignalToWorkflowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SWFSignalToWorkflowExecution.html)|
 |[aws swf start-workflow-execution](https://docs.aws.amazon.com/cli/latest/reference/swf/start-workflow-execution.html)|[Start-SWFWorkflowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SWFWorkflowExecution.html)|
+|[aws swf tag-resource](https://docs.aws.amazon.com/cli/latest/reference/swf/tag-resource.html)||
 |[aws swf terminate-workflow-execution](https://docs.aws.amazon.com/cli/latest/reference/swf/terminate-workflow-execution.html)|[Stop-SWFWorkflowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SWFWorkflowExecution.html)|
+|[aws swf undeprecate-activity-type](https://docs.aws.amazon.com/cli/latest/reference/swf/undeprecate-activity-type.html)||
+|[aws swf undeprecate-domain](https://docs.aws.amazon.com/cli/latest/reference/swf/undeprecate-domain.html)||
+|[aws swf undeprecate-workflow-type](https://docs.aws.amazon.com/cli/latest/reference/swf/undeprecate-workflow-type.html)||
+|[aws swf untag-resource](https://docs.aws.amazon.com/cli/latest/reference/swf/untag-resource.html)||
 

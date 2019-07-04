@@ -1,6 +1,6 @@
 ---
 title: organizations
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## organizations
@@ -50,12 +50,12 @@ date: 2019-06-14
 |[aws organizations list-policies](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-policies.html)|[Get-ORGPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGPolicyList.html)|
 |[aws organizations list-policies-for-target](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-policies-for-target.html)|[Get-ORGPolicyForTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGPolicyForTarget.html)|
 |[aws organizations list-roots](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-roots.html)|[Get-ORGRoot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGRoot.html)|
-|[aws organizations list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-tags-for-resource.html)||
+|[aws organizations list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-tags-for-resource.html)|[Get-ORGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGResourceTag.html)|
 |[aws organizations list-targets-for-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-targets-for-policy.html)|[Get-ORGTargetForPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGTargetForPolicy.html)|
 |[aws organizations move-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/move-account.html)|[Move-ORGAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-ORGAccount.html)|
 |[aws organizations remove-account-from-organization](https://docs.aws.amazon.com/cli/latest/reference/organizations/remove-account-from-organization.html)|[Remove-ORGAccountFromOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGAccountFromOrganization.html)|
-|[aws organizations tag-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/tag-resource.html)||
-|[aws organizations untag-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/untag-resource.html)||
+|[aws organizations tag-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/tag-resource.html)|[Add-ORGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ORGResourceTag.html)|
+|[aws organizations untag-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/untag-resource.html)|[Remove-ORGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGResourceTag.html)|
 |[aws organizations update-organizational-unit](https://docs.aws.amazon.com/cli/latest/reference/organizations/update-organizational-unit.html)|[Update-ORGOrganizationalUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ORGOrganizationalUnit.html)|
 |[aws organizations update-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/update-policy.html)|[Update-ORGPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ORGPolicy.html)|
 

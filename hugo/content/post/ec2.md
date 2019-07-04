@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## ec2
@@ -83,6 +83,10 @@ date: 2019-06-14
 |[aws ec2 create-spot-datafeed-subscription](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-spot-datafeed-subscription.html)|[New-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SpotDatafeedSubscription.html)|
 |[aws ec2 create-subnet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-subnet.html)|[New-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Subnet.html)|
 |[aws ec2 create-tags](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-tags.html)|[New-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Tag.html)|
+|[aws ec2 create-traffic-mirror-filter](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-traffic-mirror-filter.html)|[New-EC2TrafficMirrorFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TrafficMirrorFilter.html)|
+|[aws ec2 create-traffic-mirror-filter-rule](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-traffic-mirror-filter-rule.html)|[New-EC2TrafficMirrorFilterRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TrafficMirrorFilterRule.html)|
+|[aws ec2 create-traffic-mirror-session](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-traffic-mirror-session.html)|[New-EC2TrafficMirrorSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TrafficMirrorSession.html)|
+|[aws ec2 create-traffic-mirror-target](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-traffic-mirror-target.html)|[New-EC2TrafficMirrorTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TrafficMirrorTarget.html)|
 |[aws ec2 create-transit-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-transit-gateway.html)|[New-EC2TransitGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TransitGateway.html)|
 |[aws ec2 create-transit-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-transit-gateway-route.html)|[New-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TransitGatewayRoute.html)|
 |[aws ec2 create-transit-gateway-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-transit-gateway-route-table.html)|[New-EC2TransitGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TransitGatewayRouteTable.html)|
@@ -121,6 +125,10 @@ date: 2019-06-14
 |[aws ec2 delete-spot-datafeed-subscription](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-spot-datafeed-subscription.html)|[Remove-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2SpotDatafeedSubscription.html)|
 |[aws ec2 delete-subnet](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-subnet.html)|[Remove-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Subnet.html)|
 |[aws ec2 delete-tags](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-tags.html)|[Remove-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Tag.html)|
+|[aws ec2 delete-traffic-mirror-filter](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-traffic-mirror-filter.html)|[Remove-EC2TrafficMirrorFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TrafficMirrorFilter.html)|
+|[aws ec2 delete-traffic-mirror-filter-rule](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-traffic-mirror-filter-rule.html)|[Remove-EC2TrafficMirrorFilterRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TrafficMirrorFilterRule.html)|
+|[aws ec2 delete-traffic-mirror-session](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-traffic-mirror-session.html)|[Remove-EC2TrafficMirrorSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TrafficMirrorSession.html)|
+|[aws ec2 delete-traffic-mirror-target](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-traffic-mirror-target.html)|[Remove-EC2TrafficMirrorTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TrafficMirrorTarget.html)|
 |[aws ec2 delete-transit-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-transit-gateway.html)|[Remove-EC2TransitGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TransitGateway.html)|
 |[aws ec2 delete-transit-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-transit-gateway-route.html)|[Remove-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TransitGatewayRoute.html)|
 |[aws ec2 delete-transit-gateway-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-transit-gateway-route-table.html)|[Remove-EC2TransitGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TransitGatewayRouteTable.html)|
@@ -210,6 +218,9 @@ date: 2019-06-14
 |[aws ec2 describe-stale-security-groups](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-stale-security-groups.html)|[Get-EC2StaleSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2StaleSecurityGroup.html)|
 |[aws ec2 describe-subnets](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-subnets.html)|[Get-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Subnet.html)|
 |[aws ec2 describe-tags](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-tags.html)|[Get-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Tag.html)|
+|[aws ec2 describe-traffic-mirror-filters](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-traffic-mirror-filters.html)|[Get-EC2TrafficMirrorFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorFilter.html)|
+|[aws ec2 describe-traffic-mirror-sessions](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-traffic-mirror-sessions.html)|[Get-EC2TrafficMirrorSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorSession.html)|
+|[aws ec2 describe-traffic-mirror-targets](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-traffic-mirror-targets.html)|[Get-EC2TrafficMirrorTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorTarget.html)|
 |[aws ec2 describe-transit-gateway-attachments](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-transit-gateway-attachments.html)|[Get-EC2TransitGatewayAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayAttachment.html)|
 |[aws ec2 describe-transit-gateway-route-tables](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-transit-gateway-route-tables.html)|[Get-EC2TransitGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayRouteTable.html)|
 |[aws ec2 describe-transit-gateway-vpc-attachments](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-transit-gateway-vpc-attachments.html)|[Get-EC2TransitGatewayVpcAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayVpcAttachment.html)|
@@ -292,6 +303,9 @@ date: 2019-06-14
 |[aws ec2 modify-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-snapshot-attribute.html)|[Edit-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SnapshotAttribute.html)|
 |[aws ec2 modify-spot-fleet-request](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-spot-fleet-request.html)|[Edit-EC2SpotFleetRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SpotFleetRequest.html)|
 |[aws ec2 modify-subnet-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-subnet-attribute.html)|[Edit-EC2SubnetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SubnetAttribute.html)|
+|[aws ec2 modify-traffic-mirror-filter-network-services](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-traffic-mirror-filter-network-services.html)|[Edit-EC2TrafficMirrorFilterNetworkService](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2TrafficMirrorFilterNetworkService.html)|
+|[aws ec2 modify-traffic-mirror-filter-rule](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-traffic-mirror-filter-rule.html)|[Edit-EC2TrafficMirrorFilterRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2TrafficMirrorFilterRule.html)|
+|[aws ec2 modify-traffic-mirror-session](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-traffic-mirror-session.html)|[Edit-EC2TrafficMirrorSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2TrafficMirrorSession.html)|
 |[aws ec2 modify-transit-gateway-vpc-attachment](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-transit-gateway-vpc-attachment.html)|[Edit-EC2TransitGatewayVpcAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2TransitGatewayVpcAttachment.html)|
 |[aws ec2 modify-volume](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-volume.html)|[Edit-EC2Volume](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Volume.html)|
 |[aws ec2 modify-volume-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-volume-attribute.html)|[Edit-EC2VolumeAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VolumeAttribute.html)|

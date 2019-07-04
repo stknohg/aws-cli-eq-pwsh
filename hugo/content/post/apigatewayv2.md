@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## apigatewayv2
@@ -57,6 +57,9 @@ date: 2019-06-14
 |[aws apigatewayv2 get-routes](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-routes.html)|[Get-AG2RouteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2RouteList.html)|
 |[aws apigatewayv2 get-stage](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-stage.html)|[Get-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Stage.html)|
 |[aws apigatewayv2 get-stages](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-stages.html)|[Get-AG2StageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2StageList.html)|
+|[aws apigatewayv2 get-tags](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-tags.html)|[Get-AG2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Tag.html)|
+|[aws apigatewayv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/tag-resource.html)|[Add-AG2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AG2ResourceTag.html)|
+|[aws apigatewayv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/untag-resource.html)|[Remove-AG2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2ResourceTag.html)|
 |[aws apigatewayv2 update-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-api.html)|[Update-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2Api.html)|
 |[aws apigatewayv2 update-api-mapping](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-api-mapping.html)|[Update-AG2ApiMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2ApiMapping.html)|
 |[aws apigatewayv2 update-authorizer](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-authorizer.html)|[Update-AG2Authorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2Authorizer.html)|

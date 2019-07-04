@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## guardduty
@@ -45,13 +45,13 @@ date: 2019-06-14
 |[aws guardduty list-invitations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-invitations.html)|[Get-GDInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html)|
 |[aws guardduty list-ip-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-ip-sets.html)|[Get-GDIPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html)|
 |[aws guardduty list-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-members.html)|[Get-GDMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberList.html)|
-|[aws guardduty list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-tags-for-resource.html)||
+|[aws guardduty list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-tags-for-resource.html)|[Get-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDResourceTag.html)|
 |[aws guardduty list-threat-intel-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-threat-intel-sets.html)|[Get-GDThreatIntelSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSetList.html)|
 |[aws guardduty start-monitoring-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/start-monitoring-members.html)|[Start-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMonitoringMember.html)|
 |[aws guardduty stop-monitoring-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/stop-monitoring-members.html)|[Stop-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GDMonitoringMember.html)|
-|[aws guardduty tag-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/tag-resource.html)||
+|[aws guardduty tag-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/tag-resource.html)|[Add-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GDResourceTag.html)|
 |[aws guardduty unarchive-findings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/unarchive-findings.html)|[Restore-GDFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-GDFinding.html)|
-|[aws guardduty untag-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/untag-resource.html)||
+|[aws guardduty untag-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/untag-resource.html)|[Remove-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDResourceTag.html)|
 |[aws guardduty update-detector](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-detector.html)|[Update-GDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDDetector.html)|
 |[aws guardduty update-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-filter.html)|[Update-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFilter.html)|
 |[aws guardduty update-findings-feedback](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-findings-feedback.html)|[Update-GDFindingFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFindingFeedback.html)|

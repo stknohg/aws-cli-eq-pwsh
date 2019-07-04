@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## quicksight

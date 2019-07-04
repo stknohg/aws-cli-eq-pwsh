@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2019-06-14
+date: 2019-07-04
 ---
 
 ## workspaces
@@ -14,6 +14,7 @@ date: 2019-06-14
 |----|----|
 |[aws workspaces associate-ip-groups](https://docs.aws.amazon.com/cli/latest/reference/workspaces/associate-ip-groups.html)|[Register-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WKSIpGroup.html)|
 |[aws workspaces authorize-ip-rules](https://docs.aws.amazon.com/cli/latest/reference/workspaces/authorize-ip-rules.html)|[Approve-WKSIpRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-WKSIpRule.html)|
+|[aws workspaces copy-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/copy-workspace-image.html)|[Copy-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-WKSWorkspaceImage.html)|
 |[aws workspaces create-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-ip-group.html)|[New-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSIpGroup.html)|
 |[aws workspaces create-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-tags.html)|[New-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSTag.html)|
 |[aws workspaces create-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspaces.html)|[New-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspace.html)|

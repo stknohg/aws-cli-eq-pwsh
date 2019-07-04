@@ -1,6 +1,7 @@
 $g_SubCommandAlias = @{
     'acm-pca'                      = 'pca';
     'application-autoscaling'      = 'aas';
+    'application-insights'         = 'cwai';
     'alexaforbusiness'             = 'alxb';
     'apigateway'                   = 'ag';
     'apigatewaymanagementapi'      = 'agm';
@@ -94,7 +95,7 @@ $g_AWSServices = @{
     'apigatewaymanagementapi'      = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewayv2'                 = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
-    'application-insigths'         = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights for .NET and SQL Server'; Url = 'http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
+    'application-insights'         = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights'; Url = 'http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
     'appmesh'                      = [PSCustomObject]@{ Prefix = 'AMSH'; Name = 'AWS App Mesh'; Url = 'https://aws.amazon.com/app-mesh/'; Note = '' };
     'appstream'                    = [PSCustomObject]@{ Prefix = 'APS'; Name = 'Amazon AppStream 2.0'; Url = 'https://aws.amazon.com/appstream2/'; Note = '' };
     'appsync'                      = [PSCustomObject]@{ Prefix = 'ASYN'; Name = 'AWS AppSync'; Url = 'https://aws.amazon.com/appsync/'; Note = '' };
@@ -284,6 +285,7 @@ $g_CmdletReferenceLinks = @{
     'apigatewaymanagementapi'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html';
     'apigatewayv2'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_V2_cmdlets.html';
     'application-autoscaling'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Auto_Scaling_cmdlets.html';
+    'application-insights'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Application_Insights_cmdlets.html';
     'appmesh'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_App_Mesh_cmdlets.html';
     'appstream'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppStream_cmdlets.html';
     'appsync'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppSync_cmdlets.html';

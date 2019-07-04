@@ -30,7 +30,7 @@ For that reason, some content may not be accurate.
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
-||[application-insights]({{%relref "post/application-insights.md" %}})|||
+|[Amazon CloudWatch Application Insights](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||

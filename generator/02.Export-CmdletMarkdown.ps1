@@ -1,4 +1,6 @@
 #Requires -Version 6.0
+param ([string]$CliServiceName = '')
+
 Import-Module AWSPowerShell.NetCore
 
 # get the version of AWS Tools for PowerShell
@@ -211,7 +213,11 @@ Export-TopPageMarkdown -CLIVersionMetadataPath '.\temp\_cli.version.cfg' -CLIMet
     Out-File -FilePath ".\markdown\_index.md"
 
 # export each subcommands pages
-Get-ChildItem ".\temp\*.txt" | ForEach-Object {
+$query = '*.txt'
+if ($CliServiceName -ne '') {
+    $query = "${CliServiceName}.txt"
+}
+Get-ChildItem ".\temp\$query" | ForEach-Object {
     "Exporting $($_.BaseName)..." | Write-HostInfo
     $serviceName = $_.BaseName
     #
@@ -220,3 +226,4 @@ Get-ChildItem ".\temp\*.txt" | ForEach-Object {
     Export-PostPageMarkdown -ServiceName $serviceName -Commands $commands |
         Out-File -FilePath ".\markdown\post\$($_.BaseName).md"
 }
+

@@ -152,9 +152,9 @@ For that reason, some content may not be accurate.
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
-|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|||
-|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|||
-|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|||
+|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|PERS||
+|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|PERSE||
+|[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|PERSR||
 |[AWS Performance Insights](https://aws.amazon.com/rds/performance-insights/)|[pi]({{%relref "post/pi.md" %}})|PI||
 |[Amazon Pinpoint](https://aws.amazon.com/pinpoint/)|[pinpoint]({{%relref "post/pinpoint.md" %}})|PIN||
 |[Amazon Pinpoint Email](https://aws.amazon.com/pinpoint/)|[pinpoint-email]({{%relref "post/pinpoint-email.md" %}})|PINE||

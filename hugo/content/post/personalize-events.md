@@ -8,9 +8,9 @@ date: 2019-07-04
 ### [Amazon Personalize](https://aws.amazon.com/personalize/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/personalize-events/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Personalize_Events_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws personalize-events put-events](https://docs.aws.amazon.com/cli/latest/reference/personalize-events/put-events.html)||
+|[aws personalize-events put-events](https://docs.aws.amazon.com/cli/latest/reference/personalize-events/put-events.html)|[Write-PERSEEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PERSEEvent.html)|
 

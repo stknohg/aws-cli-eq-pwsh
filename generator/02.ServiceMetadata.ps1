@@ -56,6 +56,9 @@ $g_SubCommandAlias = @{
     'mgh'                          = 'mh';
     'opsworks'                     = 'ops';
     'opsworks-cm'                  = 'owcm';
+    'personalize'                  = 'pers';
+    'personalize-events'           = 'perse';
+    'personalize-runtime'          = 'persr';
     'pinpoint'                     = 'pin';
     'pinpoint-email'               = 'pine';
     'pinpoint-sms-voice'           = 'pine'
@@ -68,7 +71,7 @@ $g_SubCommandAlias = @{
     'route53resolver'              = 'r53r';
     's3control'                    = 's3c';
     'sagemaker'                    = 'sm';
-    'sagemaker-runtime'            = 'smr';        
+    'sagemaker-runtime'            = 'smr';
     'secretsmanager'               = 'sec';
     'securityhub'                  = 'shub';
     'serverlessrepo'               = 'sar';
@@ -212,9 +215,9 @@ $g_AWSServices = @{
     'opsworks'                     = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                  = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
-    'personalize'                  = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
-    'personalize-events'           = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
-    'personalize-runtime'          = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
+    'personalize'                  = [PSCustomObject]@{ Prefix = 'PERS'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
+    'personalize-events'           = [PSCustomObject]@{ Prefix = 'PERSE'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
+    'personalize-runtime'          = [PSCustomObject]@{ Prefix = 'PERSR'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
     'pi'                           = [PSCustomObject]@{ Prefix = 'PI'; Name = 'AWS Performance Insights'; Url = 'https://aws.amazon.com/rds/performance-insights/'; Note = '' };
     'pinpoint'                     = [PSCustomObject]@{ Prefix = 'PIN'; Name = 'Amazon Pinpoint'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'pinpoint-email'               = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint Email'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
@@ -400,6 +403,9 @@ $g_CmdletReferenceLinks = @{
     'opsworks'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
     'organizations'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html';
+    'personalize'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_cmdlets.html';
+    'personalize-events'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Personalize_Events_cmdlets.html';
+    'personalize-runtime'          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_Runtime_cmdlets.html';
     'pi'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Performance_Insights_cmdlets.html';
     'pinpoint'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Pinpoint_cmdlets.html';
     'pinpoint-email'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Pinpoint_Email_cmdlets.html';

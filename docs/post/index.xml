@@ -1187,7 +1187,7 @@
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aws-cli-eq-pwsh.shibata.tech/personalize/</guid>
-      <description> personalize Amazon Personalize  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws personalize create-campaign    aws personalize create-dataset    aws personalize create-dataset-group    aws personalize create-dataset-import-job    aws personalize create-event-tracker    aws personalize create-schema    aws personalize create-solution    aws personalize create-solution-version    aws personalize delete-campaign    aws personalize delete-dataset    aws personalize delete-dataset-group    aws personalize delete-event-tracker    aws personalize delete-schema    aws personalize delete-solution    aws personalize describe-algorithm    aws personalize describe-campaign    aws personalize describe-dataset    aws personalize describe-dataset-group    aws personalize describe-dataset-import-job    aws personalize describe-event-tracker    aws personalize describe-feature-transformation    aws personalize describe-recipe    aws personalize describe-schema    aws personalize describe-solution    aws personalize describe-solution-version    aws personalize get-solution-metrics    aws personalize list-campaigns    aws personalize list-dataset-groups    aws personalize list-dataset-import-jobs    aws personalize list-datasets    aws personalize list-event-trackers    aws personalize list-recipes    aws personalize list-schemas    aws personalize list-solution-versions    aws personalize list-solutions    aws personalize update-campaign     </description>
+      <description> personalize Amazon Personalize  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws personalize create-campaign New-PERSCampaign   aws personalize create-dataset New-PERSDataset   aws personalize create-dataset-group New-PERSDatasetGroup   aws personalize create-dataset-import-job New-PERSDatasetImportJob   aws personalize create-event-tracker New-PERSEventTracker   aws personalize create-schema New-PERSSchema   aws personalize create-solution New-PERSSolution   aws personalize create-solution-version New-PERSSolutionVersion   aws personalize delete-campaign Remove-PERSCampaign   aws personalize delete-dataset Remove-PERSDataset   aws personalize delete-dataset-group Remove-PERSDatasetGroup   aws personalize delete-event-tracker Remove-PERSEventTracker   aws personalize delete-schema Remove-PERSSchema   aws personalize delete-solution Remove-PERSSolution   aws personalize describe-algorithm Get-PERSAlgorithm   aws personalize describe-campaign Get-PERSCampaign   aws personalize describe-dataset Get-PERSDataset   aws personalize describe-dataset-group Get-PERSDatasetGroup   aws personalize describe-dataset-import-job Get-PERSDatasetImportJob   aws personalize describe-event-tracker Get-PERSEventTracker   aws personalize describe-feature-transformation Get-PERSFeatureTransformation   aws personalize describe-recipe Get-PERSRecipe   aws personalize describe-schema Get-PERSSchema   aws personalize describe-solution Get-PERSSolution   aws personalize describe-solution-version Get-PERSSolutionVersion   aws personalize get-solution-metrics Get-PERSSolutionMetric   aws personalize list-campaigns Get-PERSCampaignList   aws personalize list-dataset-groups Get-PERSDatasetGroupList   aws personalize list-dataset-import-jobs Get-PERSDatasetImportJobList   aws personalize list-datasets Get-PERSDatasetList   aws personalize list-event-trackers Get-PERSEventTrackerList   aws personalize list-recipes Get-PERSRecipeList   aws personalize list-schemas Get-PERSSchemaList   aws personalize list-solution-versions Get-PERSSolutionVersionList   aws personalize list-solutions Get-PERSSolutionList   aws personalize update-campaign Update-PERSCampaign    </description>
     </item>
     
     <item>
@@ -1196,7 +1196,7 @@
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aws-cli-eq-pwsh.shibata.tech/personalize-events/</guid>
-      <description> personalize-events Amazon Personalize  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws personalize-events put-events     </description>
+      <description> personalize-events Amazon Personalize  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws personalize-events put-events Write-PERSEEvent    </description>
     </item>
     
     <item>
@@ -1205,7 +1205,7 @@
       <pubDate>Thu, 04 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://aws-cli-eq-pwsh.shibata.tech/personalize-runtime/</guid>
-      <description> personalize-runtime Amazon Personalize  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws personalize-runtime get-personalized-ranking    aws personalize-runtime get-recommendations     </description>
+      <description> personalize-runtime Amazon Personalize  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws personalize-runtime get-personalized-ranking Get-PERSRPersonalizedRanking   aws personalize-runtime get-recommendations Get-PERSRRecommendation    </description>
     </item>
     
     <item>

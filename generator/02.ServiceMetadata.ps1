@@ -29,6 +29,7 @@ $g_SubCommandAlias = @{
     'elasticbeanstalk'             = 'eb';
     'elastictranscoder'            = 'ets';
     'elbv2'                        = 'elb2';
+    'events'                       = 'cwe';
     'globalaccelerator'            = 'gacl';
     'groundstation'                = 'gs';
     'importexport'                 = 'ie';

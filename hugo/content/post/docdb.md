@@ -1,6 +1,6 @@
 ---
 title: docdb
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## docdb
@@ -51,6 +51,6 @@ date: 2019-07-04
 |[aws docdb reset-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/reset-db-cluster-parameter-group.html)|[Reset-DOCDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-DOCDBClusterParameterGroup.html)|
 |[aws docdb restore-db-cluster-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/docdb/restore-db-cluster-from-snapshot.html)|[Restore-DOCDBClusterFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DOCDBClusterFromSnapshot.html)|
 |[aws docdb restore-db-cluster-to-point-in-time](https://docs.aws.amazon.com/cli/latest/reference/docdb/restore-db-cluster-to-point-in-time.html)|[Restore-DOCDBClusterToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DOCDBClusterToPointInTime.html)|
-|[aws docdb start-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/start-db-cluster.html)||
-|[aws docdb stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/stop-db-cluster.html)||
+|[aws docdb start-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/start-db-cluster.html)|[Start-DOCDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DOCDBCluster.html)|
+|[aws docdb stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/stop-db-cluster.html)|[Stop-DOCDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DOCDBCluster.html)|
 

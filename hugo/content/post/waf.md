@@ -1,6 +1,6 @@
 ---
 title: waf
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## waf
@@ -69,10 +69,13 @@ date: 2019-07-04
 |[aws waf list-size-constraint-sets](https://docs.aws.amazon.com/cli/latest/reference/waf/list-size-constraint-sets.html)|[Get-WAFSizeConstraintSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSizeConstraintSetList.html)|
 |[aws waf list-sql-injection-match-sets](https://docs.aws.amazon.com/cli/latest/reference/waf/list-sql-injection-match-sets.html)|[Get-WAFSqlInjectionMatchSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSqlInjectionMatchSetList.html)|
 |[aws waf list-subscribed-rule-groups](https://docs.aws.amazon.com/cli/latest/reference/waf/list-subscribed-rule-groups.html)|[Get-WAFSubscribedRuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFSubscribedRuleGroupList.html)|
+|[aws waf list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/waf/list-tags-for-resource.html)|[Get-WAFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFResourceTag.html)|
 |[aws waf list-web-acls](https://docs.aws.amazon.com/cli/latest/reference/waf/list-web-acls.html)|[Get-WAFWebACLList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFWebACLList.html)|
 |[aws waf list-xss-match-sets](https://docs.aws.amazon.com/cli/latest/reference/waf/list-xss-match-sets.html)|[Get-WAFXssMatchSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFXssMatchSetList.html)|
 |[aws waf put-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/waf/put-logging-configuration.html)|[Write-WAFLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFLoggingConfiguration.html)|
 |[aws waf put-permission-policy](https://docs.aws.amazon.com/cli/latest/reference/waf/put-permission-policy.html)|[Write-WAFPermissionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFPermissionPolicy.html)|
+|[aws waf tag-resource](https://docs.aws.amazon.com/cli/latest/reference/waf/tag-resource.html)|[Add-WAFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WAFResourceTag.html)|
+|[aws waf untag-resource](https://docs.aws.amazon.com/cli/latest/reference/waf/untag-resource.html)|[Remove-WAFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFResourceTag.html)|
 |[aws waf update-byte-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf/update-byte-match-set.html)|[Update-WAFByteMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFByteMatchSet.html)|
 |[aws waf update-geo-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf/update-geo-match-set.html)|[Update-WAFGeoMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFGeoMatchSet.html)|
 |[aws waf update-ip-set](https://docs.aws.amazon.com/cli/latest/reference/waf/update-ip-set.html)|[Update-WAFIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFIPSet.html)|

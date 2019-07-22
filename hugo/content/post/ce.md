@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## ce
@@ -19,4 +19,5 @@ date: 2019-07-04
 |[aws ce get-reservation-purchase-recommendation](https://docs.aws.amazon.com/cli/latest/reference/ce/get-reservation-purchase-recommendation.html)|[Get-CEReservationPurchaseRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationPurchaseRecommendation.html)|
 |[aws ce get-reservation-utilization](https://docs.aws.amazon.com/cli/latest/reference/ce/get-reservation-utilization.html)|[Get-CEReservationUtilization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationUtilization.html)|
 |[aws ce get-tags](https://docs.aws.amazon.com/cli/latest/reference/ce/get-tags.html)|[Get-CETag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CETag.html)|
+|[aws ce get-usage-forecast](https://docs.aws.amazon.com/cli/latest/reference/ce/get-usage-forecast.html)|[Get-CEUsageForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEUsageForecast.html)|
 

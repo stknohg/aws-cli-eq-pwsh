@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-archived-media
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## kinesis-video-archived-media
@@ -12,6 +12,7 @@ date: 2019-07-04
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws kinesis-video-archived-media get-dash-streaming-session-url](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/get-dash-streaming-session-url.html)||
 |[aws kinesis-video-archived-media get-hls-streaming-session-url](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/get-hls-streaming-session-url.html)||
 |[aws kinesis-video-archived-media get-media-for-fragment-list](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/get-media-for-fragment-list.html)||
 |[aws kinesis-video-archived-media list-fragments](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-archived-media/list-fragments.html)||

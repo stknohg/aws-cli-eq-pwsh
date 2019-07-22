@@ -1,6 +1,6 @@
 ---
 title: mediastore
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## mediastore
@@ -22,12 +22,12 @@ date: 2019-07-04
 |[aws mediastore get-cors-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/get-cors-policy.html)|[Get-EMSCorsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMSCorsPolicy.html)|
 |[aws mediastore get-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/get-lifecycle-policy.html)|[Get-EMSLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMSLifecyclePolicy.html)|
 |[aws mediastore list-containers](https://docs.aws.amazon.com/cli/latest/reference/mediastore/list-containers.html)|[Get-EMSContainerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMSContainerList.html)|
-|[aws mediastore list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/mediastore/list-tags-for-resource.html)||
+|[aws mediastore list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/mediastore/list-tags-for-resource.html)|[Get-EMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMSResourceTag.html)|
 |[aws mediastore put-container-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/put-container-policy.html)|[Write-EMSContainerPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMSContainerPolicy.html)|
 |[aws mediastore put-cors-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/put-cors-policy.html)|[Write-EMSCorsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMSCorsPolicy.html)|
 |[aws mediastore put-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/mediastore/put-lifecycle-policy.html)|[Write-EMSLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMSLifecyclePolicy.html)|
 |[aws mediastore start-access-logging](https://docs.aws.amazon.com/cli/latest/reference/mediastore/start-access-logging.html)|[Start-EMSAccessLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMSAccessLogging.html)|
 |[aws mediastore stop-access-logging](https://docs.aws.amazon.com/cli/latest/reference/mediastore/stop-access-logging.html)|[Stop-EMSAccessLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMSAccessLogging.html)|
-|[aws mediastore tag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediastore/tag-resource.html)||
-|[aws mediastore untag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediastore/untag-resource.html)||
+|[aws mediastore tag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediastore/tag-resource.html)|[Add-EMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMSResourceTag.html)|
+|[aws mediastore untag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediastore/untag-resource.html)|[Remove-EMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMSResourceTag.html)|
 

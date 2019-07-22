@@ -1,6 +1,6 @@
 ---
 title: servicecatalog
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## servicecatalog
@@ -50,6 +50,7 @@ date: 2019-07-04
 |[aws servicecatalog describe-provisioning-parameters](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-provisioning-parameters.html)|[Get-SCProvisioningParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCProvisioningParameter.html)|
 |[aws servicecatalog describe-record](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-record.html)|[Get-SCRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCRecord.html)|
 |[aws servicecatalog describe-service-action](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-service-action.html)|[Get-SCServiceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCServiceAction.html)|
+|[aws servicecatalog describe-service-action-execution-parameters](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-service-action-execution-parameters.html)|[Get-SCServiceActionExecutionParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCServiceActionExecutionParameter.html)|
 |[aws servicecatalog describe-tag-option](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-tag-option.html)|[Get-SCTagOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCTagOption.html)|
 |[aws servicecatalog disable-aws-organizations-access](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/disable-aws-organizations-access.html)|[Disable-SCAWSOrganizationsAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SCAWSOrganizationsAccess.html)|
 |[aws servicecatalog disassociate-budget-from-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/disassociate-budget-from-resource.html)|[Unregister-SCBudgetFromResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SCBudgetFromResource.html)|

@@ -1,6 +1,6 @@
 ---
 title: waf-regional
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## waf-regional
@@ -73,10 +73,13 @@ date: 2019-07-04
 |[aws waf-regional list-size-constraint-sets](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-size-constraint-sets.html)|[Get-WAFRSizeConstraintSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSizeConstraintSetList.html)|
 |[aws waf-regional list-sql-injection-match-sets](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-sql-injection-match-sets.html)|[Get-WAFRSqlInjectionMatchSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSqlInjectionMatchSetList.html)|
 |[aws waf-regional list-subscribed-rule-groups](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-subscribed-rule-groups.html)|[Get-WAFRSubscribedRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRSubscribedRuleGroup.html)|
+|[aws waf-regional list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-tags-for-resource.html)|[Get-WAFRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRResourceTag.html)|
 |[aws waf-regional list-web-acls](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-web-acls.html)|[Get-WAFRWebACLList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRWebACLList.html)|
 |[aws waf-regional list-xss-match-sets](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/list-xss-match-sets.html)|[Get-WAFRXssMatchSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAFRXssMatchSetList.html)|
 |[aws waf-regional put-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/put-logging-configuration.html)|[Write-WAFRLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFRLoggingConfiguration.html)|
 |[aws waf-regional put-permission-policy](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/put-permission-policy.html)|[Write-WAFRPermissionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAFRPermissionPolicy.html)|
+|[aws waf-regional tag-resource](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/tag-resource.html)|[Add-WAFRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WAFRResourceTag.html)|
+|[aws waf-regional untag-resource](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/untag-resource.html)|[Remove-WAFRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRResourceTag.html)|
 |[aws waf-regional update-byte-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-byte-match-set.html)|[Update-WAFRByteMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRByteMatchSet.html)|
 |[aws waf-regional update-geo-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-geo-match-set.html)|[Update-WAFRGeoMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRGeoMatchSet.html)|
 |[aws waf-regional update-ip-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/update-ip-set.html)|[Update-WAFRIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WAFRIPSet.html)|

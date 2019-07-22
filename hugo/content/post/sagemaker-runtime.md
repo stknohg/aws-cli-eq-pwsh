@@ -1,6 +1,6 @@
 ---
 title: sagemaker-runtime
-date: 2019-07-04
+date: 2019-07-22
 ---
 
 ## sagemaker-runtime

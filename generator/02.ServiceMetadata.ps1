@@ -189,6 +189,7 @@ $g_AWSServices = @{
     'kinesisanalyticsv2'           = [PSCustomObject]@{ Prefix = 'KINA2'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesisvideo'                 = [PSCustomObject]@{ Prefix = 'KV'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kms'                          = [PSCustomObject]@{ Prefix = 'KMS'; Name = 'AWS Key Management Service'; Url = 'https://aws.amazon.com/kms/'; Note = '' };
+    'lakeformation'                = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Lake Formation'; Url = 'https://aws.amazon.com/lake-formation/'; Note = '' };
     'lambda'                       = [PSCustomObject]@{ Prefix = 'LM'; Name = 'AWS Lambda'; Url = 'https://aws.amazon.com/lambda/'; Note = '' };
     'lex-models'                   = [PSCustomObject]@{ Prefix = 'LMB'; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
     'lex-runtime'                  = [PSCustomObject]@{ Prefix = 'LEX'; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
@@ -378,6 +379,7 @@ $g_CmdletReferenceLinks = @{
     'kinesisanalyticsv2'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Analytics_(v2)_cmdlets.html';
     'kinesisvideo'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Video_Streams_cmdlets.html';
     'kms'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Key_Management_Service_cmdlets.html';
+    'lakeformation'                = '';
     'lambda'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Lambda_cmdlets.html';
     'lex-models'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lex_Model_Building_Service_cmdlets.html';
     'lex-runtime'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lex_cmdlets.html';

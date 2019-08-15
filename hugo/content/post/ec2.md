@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 ## ec2
@@ -268,6 +268,7 @@ date: 2019-07-22
 |[aws ec2 export-client-vpn-client-certificate-revocation-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/export-client-vpn-client-certificate-revocation-list.html)|[Export-EC2ClientVpnClientCertificateRevocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2ClientVpnClientCertificateRevocationList.html)|
 |[aws ec2 export-client-vpn-client-configuration](https://docs.aws.amazon.com/cli/latest/reference/ec2/export-client-vpn-client-configuration.html)|[Export-EC2ClientVpnClientConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2ClientVpnClientConfiguration.html)|
 |[aws ec2 export-transit-gateway-routes](https://docs.aws.amazon.com/cli/latest/reference/ec2/export-transit-gateway-routes.html)|[Export-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2TransitGatewayRoute.html)|
+|[aws ec2 get-capacity-reservation-usage](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-capacity-reservation-usage.html)|[Get-EC2CapacityReservationUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationUsage.html)|
 |[aws ec2 get-console-output](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-console-output.html)|[Get-EC2ConsoleOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ConsoleOutput.html)|
 |[aws ec2 get-console-screenshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-console-screenshot.html)|[Get-EC2ConsoleScreenshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ConsoleScreenshot.html)|
 |[aws ec2 get-ebs-default-kms-key-id](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ebs-default-kms-key-id.html)|[Get-EC2EbsDefaultKmsKeyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2EbsDefaultKmsKeyId.html)|
@@ -352,6 +353,7 @@ date: 2019-07-22
 |[aws ec2 run-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/run-instances.html)|[New-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Instance.html)|
 |[aws ec2 run-scheduled-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/run-scheduled-instances.html)|[New-EC2ScheduledInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ScheduledInstance.html)|
 |[aws ec2 search-transit-gateway-routes](https://docs.aws.amazon.com/cli/latest/reference/ec2/search-transit-gateway-routes.html)|[Search-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-EC2TransitGatewayRoute.html)|
+|[aws ec2 send-diagnostic-interrupt](https://docs.aws.amazon.com/cli/latest/reference/ec2/send-diagnostic-interrupt.html)||
 |[aws ec2 start-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/start-instances.html)|[Start-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2Instance.html)|
 |[aws ec2 stop-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/stop-instances.html)|[Stop-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2Instance.html)|
 |[aws ec2 terminate-client-vpn-connections](https://docs.aws.amazon.com/cli/latest/reference/ec2/terminate-client-vpn-connections.html)|[Stop-EC2ClientVpnConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ClientVpnConnection.html)|

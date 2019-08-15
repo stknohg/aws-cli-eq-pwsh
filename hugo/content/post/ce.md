@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 ## ce
@@ -18,6 +18,7 @@ date: 2019-07-22
 |[aws ce get-reservation-coverage](https://docs.aws.amazon.com/cli/latest/reference/ce/get-reservation-coverage.html)|[Get-CEReservationCoverage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationCoverage.html)|
 |[aws ce get-reservation-purchase-recommendation](https://docs.aws.amazon.com/cli/latest/reference/ce/get-reservation-purchase-recommendation.html)|[Get-CEReservationPurchaseRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationPurchaseRecommendation.html)|
 |[aws ce get-reservation-utilization](https://docs.aws.amazon.com/cli/latest/reference/ce/get-reservation-utilization.html)|[Get-CEReservationUtilization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationUtilization.html)|
+|[aws ce get-rightsizing-recommendation](https://docs.aws.amazon.com/cli/latest/reference/ce/get-rightsizing-recommendation.html)|[Get-CERightsizingRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CERightsizingRecommendation.html)|
 |[aws ce get-tags](https://docs.aws.amazon.com/cli/latest/reference/ce/get-tags.html)|[Get-CETag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CETag.html)|
 |[aws ce get-usage-forecast](https://docs.aws.amazon.com/cli/latest/reference/ce/get-usage-forecast.html)|[Get-CEUsageForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEUsageForecast.html)|
 

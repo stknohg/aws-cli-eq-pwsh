@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 ## pinpoint
@@ -39,11 +39,13 @@ date: 2019-07-22
 |[aws pinpoint get-apns-voip-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-apns-voip-channel.html)|[Get-PINApnsVoipChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApnsVoipChannel.html)|
 |[aws pinpoint get-apns-voip-sandbox-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-apns-voip-sandbox-channel.html)|[Get-PINApnsVoipSandboxChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApnsVoipSandboxChannel.html)|
 |[aws pinpoint get-app](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-app.html)|[Get-PINApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApp.html)|
+|[aws pinpoint get-application-date-range-kpi](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-application-date-range-kpi.html)|[Get-PINApplicationDateRangeKpi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApplicationDateRangeKpi.html)|
 |[aws pinpoint get-application-settings](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-application-settings.html)|[Get-PINApplicationSettingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApplicationSettingList.html)|
 |[aws pinpoint get-apps](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-apps.html)|[Get-PINAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINAppList.html)|
 |[aws pinpoint get-baidu-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-baidu-channel.html)|[Get-PINBaiduChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINBaiduChannel.html)|
 |[aws pinpoint get-campaign](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaign.html)|[Get-PINCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaign.html)|
 |[aws pinpoint get-campaign-activities](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaign-activities.html)|[Get-PINCampaignActivityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaignActivityList.html)|
+|[aws pinpoint get-campaign-date-range-kpi](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaign-date-range-kpi.html)|[Get-PINCampaignDateRangeKpi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaignDateRangeKpi.html)|
 |[aws pinpoint get-campaign-version](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaign-version.html)|[Get-PINCampaignVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaignVersion.html)|
 |[aws pinpoint get-campaign-versions](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaign-versions.html)|[Get-PINCampaignVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaignVersionList.html)|
 |[aws pinpoint get-campaigns](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaigns.html)|[Get-PINCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaignList.html)|

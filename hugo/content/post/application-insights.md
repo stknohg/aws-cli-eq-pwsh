@@ -1,6 +1,6 @@
 ---
 title: application-insights
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 ## application-insights
@@ -26,6 +26,7 @@ date: 2019-07-22
 |[aws application-insights list-applications](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-applications.html)|[Get-CWAIApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIApplicationList.html)|
 |[aws application-insights list-components](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-components.html)|[Get-CWAIComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIComponentList.html)|
 |[aws application-insights list-problems](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-problems.html)|[Get-CWAIProblemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIProblemList.html)|
+|[aws application-insights update-application](https://docs.aws.amazon.com/cli/latest/reference/application-insights/update-application.html)|[Update-CWAIApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIApplication.html)|
 |[aws application-insights update-component](https://docs.aws.amazon.com/cli/latest/reference/application-insights/update-component.html)|[Update-CWAIComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIComponent.html)|
 |[aws application-insights update-component-configuration](https://docs.aws.amazon.com/cli/latest/reference/application-insights/update-component-configuration.html)|[Update-CWAIComponentConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIComponentConfiguration.html)|
 

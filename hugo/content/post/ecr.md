@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 ## ecr
@@ -32,6 +32,7 @@ date: 2019-07-22
 |[aws ecr list-images](https://docs.aws.amazon.com/cli/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|
 |[aws ecr list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr/list-tags-for-resource.html)|[Get-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRResourceTag.html)|
 |[aws ecr put-image](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-image.html)|[Write-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImage.html)|
+|[aws ecr put-image-tag-mutability](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-image-tag-mutability.html)|[Write-ECRImageTagMutability](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImageTagMutability.html)|
 |[aws ecr put-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-lifecycle-policy.html)|[Write-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRLifecyclePolicy.html)|
 |[aws ecr set-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/set-repository-policy.html)|[Set-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ECRRepositoryPolicy.html)|
 |[aws ecr start-lifecycle-policy-preview](https://docs.aws.amazon.com/cli/latest/reference/ecr/start-lifecycle-policy-preview.html)|[Start-ECRLifecyclePolicyPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLifecyclePolicyPreview.html)|

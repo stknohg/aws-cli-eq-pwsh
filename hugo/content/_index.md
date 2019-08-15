@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 <br/>
@@ -9,8 +9,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 1.16.202 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.553.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 1.16.218 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 3.3.563.1 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -124,6 +124,7 @@ For that reason, some content may not be accurate.
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalyticsv2]({{%relref "post/kinesisanalyticsv2.md" %}})|KINA2||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisvideo]({{%relref "post/kinesisvideo.md" %}})|KV||
 |[AWS Key Management Service](https://aws.amazon.com/kms/)|[kms]({{%relref "post/kms.md" %}})|KMS||
+|[AWS Lake Formation](https://aws.amazon.com/lake-formation/)|[lakeformation]({{%relref "post/lakeformation.md" %}})|||
 |[AWS Lambda](https://aws.amazon.com/lambda/)|[lambda]({{%relref "post/lambda.md" %}})|LM||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-models]({{%relref "post/lex-models.md" %}})|LMB||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||

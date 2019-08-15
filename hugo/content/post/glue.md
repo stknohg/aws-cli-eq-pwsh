@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2019-07-22
+date: 2019-08-15
 ---
 
 ## glue
@@ -24,12 +24,14 @@ date: 2019-07-22
 |[aws glue batch-get-triggers](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-triggers.html)|[Get-GLUETriggerBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerBatch.html)|
 |[aws glue batch-get-workflows](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-workflows.html)|[Get-GLUEWorkflowBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowBatch.html)|
 |[aws glue batch-stop-job-run](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-stop-job-run.html)|[Stop-GLUEJobRunBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEJobRunBatch.html)|
+|[aws glue cancel-ml-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/cancel-ml-task-run.html)||
 |[aws glue create-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/create-classifier.html)|[New-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEClassifier.html)|
 |[aws glue create-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/create-connection.html)|[New-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEConnection.html)|
 |[aws glue create-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/create-crawler.html)|[New-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUECrawler.html)|
 |[aws glue create-database](https://docs.aws.amazon.com/cli/latest/reference/glue/create-database.html)|[New-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDatabase.html)|
 |[aws glue create-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/create-dev-endpoint.html)|[New-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDevEndpoint.html)|
 |[aws glue create-job](https://docs.aws.amazon.com/cli/latest/reference/glue/create-job.html)|[New-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEJob.html)|
+|[aws glue create-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/create-ml-transform.html)||
 |[aws glue create-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/create-partition.html)|[New-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEPartition.html)|
 |[aws glue create-script](https://docs.aws.amazon.com/cli/latest/reference/glue/create-script.html)|[New-GLUEScript](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEScript.html)|
 |[aws glue create-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/create-security-configuration.html)|[New-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUESecurityConfiguration.html)|
@@ -43,6 +45,7 @@ date: 2019-07-22
 |[aws glue delete-database](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-database.html)|[Remove-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDatabase.html)|
 |[aws glue delete-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-dev-endpoint.html)|[Remove-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDevEndpoint.html)|
 |[aws glue delete-job](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-job.html)|[Remove-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEJob.html)|
+|[aws glue delete-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-ml-transform.html)||
 |[aws glue delete-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-partition.html)|[Remove-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEPartition.html)|
 |[aws glue delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-resource-policy.html)|[Remove-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourcePolicy.html)|
 |[aws glue delete-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-security-configuration.html)|[Remove-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESecurityConfiguration.html)|
@@ -66,10 +69,16 @@ date: 2019-07-22
 |[aws glue get-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/get-dev-endpoint.html)|[Get-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpoint.html)|
 |[aws glue get-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/get-dev-endpoints.html)|[Get-GLUEDevEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointList.html)|
 |[aws glue get-job](https://docs.aws.amazon.com/cli/latest/reference/glue/get-job.html)|[Get-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJob.html)|
+|[aws glue get-job-bookmark](https://docs.aws.amazon.com/cli/latest/reference/glue/get-job-bookmark.html)|[Get-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobBookmark.html)|
+|[aws glue get-job-bookmarks](https://docs.aws.amazon.com/cli/latest/reference/glue/get-job-bookmarks.html)||
 |[aws glue get-job-run](https://docs.aws.amazon.com/cli/latest/reference/glue/get-job-run.html)|[Get-GLUEJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobRun.html)|
 |[aws glue get-job-runs](https://docs.aws.amazon.com/cli/latest/reference/glue/get-job-runs.html)|[Get-GLUEJobRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobRunList.html)|
 |[aws glue get-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/get-jobs.html)|[Get-GLUEJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobList.html)|
 |[aws glue get-mapping](https://docs.aws.amazon.com/cli/latest/reference/glue/get-mapping.html)|[Get-GLUEMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMapping.html)|
+|[aws glue get-ml-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/get-ml-task-run.html)||
+|[aws glue get-ml-task-runs](https://docs.aws.amazon.com/cli/latest/reference/glue/get-ml-task-runs.html)||
+|[aws glue get-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/get-ml-transform.html)||
+|[aws glue get-ml-transforms](https://docs.aws.amazon.com/cli/latest/reference/glue/get-ml-transforms.html)||
 |[aws glue get-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partition.html)|[Get-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartition.html)|
 |[aws glue get-partitions](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partitions.html)|[Get-GLUEPartitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartitionList.html)|
 |[aws glue get-plan](https://docs.aws.amazon.com/cli/latest/reference/glue/get-plan.html)|[Get-GLUEPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPlan.html)|
@@ -99,9 +108,14 @@ date: 2019-07-22
 |[aws glue put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/put-resource-policy.html)|[Set-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEResourcePolicy.html)|
 |[aws glue put-workflow-run-properties](https://docs.aws.amazon.com/cli/latest/reference/glue/put-workflow-run-properties.html)|[Write-GLUEWorkflowRunProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEWorkflowRunProperty.html)|
 |[aws glue reset-job-bookmark](https://docs.aws.amazon.com/cli/latest/reference/glue/reset-job-bookmark.html)|[Reset-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GLUEJobBookmark.html)|
+|[aws glue search-tables](https://docs.aws.amazon.com/cli/latest/reference/glue/search-tables.html)||
 |[aws glue start-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler.html)|[Start-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawler.html)|
 |[aws glue start-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler-schedule.html)|[Start-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawlerSchedule.html)|
+|[aws glue start-export-labels-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-export-labels-task-run.html)||
+|[aws glue start-import-labels-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-import-labels-task-run.html)||
 |[aws glue start-job-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-job-run.html)|[Start-GLUEJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEJobRun.html)|
+|[aws glue start-ml-evaluation-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-ml-evaluation-task-run.html)||
+|[aws glue start-ml-labeling-set-generation-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-ml-labeling-set-generation-task-run.html)||
 |[aws glue start-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/start-trigger.html)|[Start-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUETrigger.html)|
 |[aws glue start-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-workflow-run.html)|[Start-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEWorkflowRun.html)|
 |[aws glue stop-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-crawler.html)|[Stop-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawler.html)|
@@ -116,6 +130,7 @@ date: 2019-07-22
 |[aws glue update-database](https://docs.aws.amazon.com/cli/latest/reference/glue/update-database.html)|[Update-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDatabase.html)|
 |[aws glue update-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/update-dev-endpoint.html)|[Update-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDevEndpoint.html)|
 |[aws glue update-job](https://docs.aws.amazon.com/cli/latest/reference/glue/update-job.html)|[Update-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEJob.html)|
+|[aws glue update-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/update-ml-transform.html)||
 |[aws glue update-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-partition.html)|[Update-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEPartition.html)|
 |[aws glue update-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-table.html)|[Update-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETable.html)|
 |[aws glue update-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/update-trigger.html)|[Update-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETrigger.html)|

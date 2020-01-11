@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## comprehend
@@ -17,13 +17,17 @@ date: 2019-08-15
 |[aws comprehend batch-detect-key-phrases](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-key-phrases.html)|[Find-COMPKeyPhrasesBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPKeyPhrasesBatch.html)|
 |[aws comprehend batch-detect-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-sentiment.html)|[Find-COMPSentimentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSentimentBatch.html)|
 |[aws comprehend batch-detect-syntax](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-syntax.html)|[Find-COMPSyntaxBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSyntaxBatch.html)|
+|[aws comprehend classify-document](https://docs.aws.amazon.com/cli/latest/reference/comprehend/classify-document.html)|[Invoke-COMPDocumentClassification](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-COMPDocumentClassification.html)|
 |[aws comprehend create-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-document-classifier.html)|[New-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPDocumentClassifier.html)|
+|[aws comprehend create-endpoint](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-endpoint.html)|[New-COMPEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPEndpoint.html)|
 |[aws comprehend create-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-entity-recognizer.html)|[New-COMPEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPEntityRecognizer.html)|
 |[aws comprehend delete-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-document-classifier.html)|[Remove-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPDocumentClassifier.html)|
+|[aws comprehend delete-endpoint](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-endpoint.html)|[Remove-COMPEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPEndpoint.html)|
 |[aws comprehend delete-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-entity-recognizer.html)|[Remove-COMPEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPEntityRecognizer.html)|
 |[aws comprehend describe-document-classification-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-document-classification-job.html)|[Get-COMPDocumentClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassificationJob.html)|
 |[aws comprehend describe-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-document-classifier.html)|[Get-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassifier.html)|
 |[aws comprehend describe-dominant-language-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-dominant-language-detection-job.html)|[Get-COMPDominantLanguageDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDominantLanguageDetectionJob.html)|
+|[aws comprehend describe-endpoint](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-endpoint.html)|[Get-COMPEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEndpoint.html)|
 |[aws comprehend describe-entities-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-entities-detection-job.html)|[Get-COMPEntitiesDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEntitiesDetectionJob.html)|
 |[aws comprehend describe-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-entity-recognizer.html)|[Get-COMPEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEntityRecognizer.html)|
 |[aws comprehend describe-key-phrases-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-key-phrases-detection-job.html)|[Get-COMPKeyPhrasesDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPKeyPhrasesDetectionJob.html)|
@@ -37,6 +41,7 @@ date: 2019-08-15
 |[aws comprehend list-document-classification-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classification-jobs.html)|[Get-COMPDocumentClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassificationJobList.html)|
 |[aws comprehend list-document-classifiers](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classifiers.html)|[Get-COMPDocumentClassifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassifierList.html)|
 |[aws comprehend list-dominant-language-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-dominant-language-detection-jobs.html)|[Get-COMPDominantLanguageDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDominantLanguageDetectionJobList.html)|
+|[aws comprehend list-endpoints](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-endpoints.html)|[Get-COMPEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEndpointList.html)|
 |[aws comprehend list-entities-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-entities-detection-jobs.html)|[Get-COMPEntitiesDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEntitiesDetectionJobList.html)|
 |[aws comprehend list-entity-recognizers](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-entity-recognizers.html)|[Get-COMPEntityRecognizerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEntityRecognizerList.html)|
 |[aws comprehend list-key-phrases-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-key-phrases-detection-jobs.html)|[Get-COMPKeyPhrasesDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPKeyPhrasesDetectionJobList.html)|
@@ -57,4 +62,5 @@ date: 2019-08-15
 |[aws comprehend stop-training-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/stop-training-entity-recognizer.html)|[Stop-COMPTrainingEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-COMPTrainingEntityRecognizer.html)|
 |[aws comprehend tag-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/tag-resource.html)|[Add-COMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-COMPResourceTag.html)|
 |[aws comprehend untag-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/untag-resource.html)|[Remove-COMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPResourceTag.html)|
+|[aws comprehend update-endpoint](https://docs.aws.amazon.com/cli/latest/reference/comprehend/update-endpoint.html)|[Update-COMPEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-COMPEndpoint.html)|
 

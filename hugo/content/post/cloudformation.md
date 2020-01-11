@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## cloudformation
@@ -23,6 +23,7 @@ date: 2019-08-15
 |[aws cloudformation delete-stack-instances](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-stack-instances.html)|[Remove-CFNStackInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNStackInstance.html)|
 |[aws cloudformation delete-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-stack-set.html)|[Remove-CFNStackSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNStackSet.html)|
 |[aws cloudformation deploy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deploy.html)||
+|[aws cloudformation deregister-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deregister-type.html)|[Unregister-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CFNType.html)|
 |[aws cloudformation describe-account-limits](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-account-limits.html)|[Get-CFNAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNAccountLimit.html)|
 |[aws cloudformation describe-change-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-change-set.html)|[Get-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSet.html)|
 |[aws cloudformation describe-stack-drift-detection-status](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stack-drift-detection-status.html)|[Get-CFNStackDriftDetectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackDriftDetectionStatus.html)|
@@ -36,8 +37,11 @@ date: 2019-08-15
 |[aws cloudformation describe-stacks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stacks.html)|[Get-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStack.html)|
 |[aws cloudformation describe-stacks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stacks.html)|[Test-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CFNStack.html)|
 |[aws cloudformation describe-stacks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stacks.html)|[Wait-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Wait-CFNStack.html)|
+|[aws cloudformation describe-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-type.html)|[Get-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNType.html)|
+|[aws cloudformation describe-type-registration](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-type-registration.html)|[Get-CFNTypeRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTypeRegistration.html)|
 |[aws cloudformation detect-stack-drift](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/detect-stack-drift.html)|[Start-CFNStackDriftDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNStackDriftDetection.html)|
 |[aws cloudformation detect-stack-resource-drift](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/detect-stack-resource-drift.html)|[Get-CFNStackResourceDrift](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackResourceDrift.html)|
+|[aws cloudformation detect-stack-set-drift](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/detect-stack-set-drift.html)|[Start-CFNStackSetDriftDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNStackSetDriftDetection.html)|
 |[aws cloudformation estimate-template-cost](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/estimate-template-cost.html)|[Measure-CFNTemplateCost](https://docs.aws.amazon.com/powershell/latest/reference/items/Measure-CFNTemplateCost.html)|
 |[aws cloudformation execute-change-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/execute-change-set.html)|[Start-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNChangeSet.html)|
 |[aws cloudformation get-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-stack-policy.html)|[Get-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackPolicy.html)|
@@ -52,8 +56,14 @@ date: 2019-08-15
 |[aws cloudformation list-stack-set-operations](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-stack-set-operations.html)|[Get-CFNStackSetOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetOperationList.html)|
 |[aws cloudformation list-stack-sets](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-stack-sets.html)|[Get-CFNStackSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetList.html)|
 |[aws cloudformation list-stacks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-stacks.html)|[Get-CFNStackSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSummary.html)|
+|[aws cloudformation list-type-registrations](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-type-registrations.html)|[Get-CFNTypeRegistrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTypeRegistrationList.html)|
+|[aws cloudformation list-type-versions](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-type-versions.html)|[Get-CFNTypeVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTypeVersion.html)|
+|[aws cloudformation list-types](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-types.html)|[Get-CFNTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTypeList.html)|
 |[aws cloudformation package](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/package.html)||
+|[aws cloudformation record-handler-progress](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/record-handler-progress.html)|[Write-CFNHandlerProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFNHandlerProgress.html)|
+|[aws cloudformation register-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/register-type.html)|[Register-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNType.html)|
 |[aws cloudformation set-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-stack-policy.html)|[Set-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNStackPolicy.html)|
+|[aws cloudformation set-type-default-version](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-type-default-version.html)|[Set-CFNTypeDefaultVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeDefaultVersion.html)|
 |[aws cloudformation signal-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/signal-resource.html)|[Send-CFNResourceSignal](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CFNResourceSignal.html)|
 |[aws cloudformation stop-stack-set-operation](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/stop-stack-set-operation.html)|[Stop-CFNStackSetOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFNStackSetOperation.html)|
 |[aws cloudformation update-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/update-stack.html)|[Update-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFNStack.html)|

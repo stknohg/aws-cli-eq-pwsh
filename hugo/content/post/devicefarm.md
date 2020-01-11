@@ -1,6 +1,6 @@
 ---
 title: devicefarm
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## devicefarm
@@ -17,6 +17,8 @@ date: 2019-08-15
 |[aws devicefarm create-network-profile](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-network-profile.html)|[New-DFNetworkProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DFNetworkProfile.html)|
 |[aws devicefarm create-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-project.html)|[New-DFProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DFProject.html)|
 |[aws devicefarm create-remote-access-session](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-remote-access-session.html)|[New-DFRemoteAccessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DFRemoteAccessSession.html)|
+|[aws devicefarm create-test-grid-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-test-grid-project.html)||
+|[aws devicefarm create-test-grid-url](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-test-grid-url.html)||
 |[aws devicefarm create-upload](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-upload.html)|[New-DFUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DFUpload.html)|
 |[aws devicefarm create-vpce-configuration](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/create-vpce-configuration.html)|[New-DFVPCEConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DFVPCEConfiguration.html)|
 |[aws devicefarm delete-device-pool](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-device-pool.html)|[Remove-DFDevicePool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFDevicePool.html)|
@@ -25,6 +27,7 @@ date: 2019-08-15
 |[aws devicefarm delete-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-project.html)|[Remove-DFProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFProject.html)|
 |[aws devicefarm delete-remote-access-session](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-remote-access-session.html)|[Remove-DFRemoteAccessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFRemoteAccessSession.html)|
 |[aws devicefarm delete-run](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-run.html)|[Remove-DFRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFRun.html)|
+|[aws devicefarm delete-test-grid-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-test-grid-project.html)||
 |[aws devicefarm delete-upload](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-upload.html)|[Remove-DFUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFUpload.html)|
 |[aws devicefarm delete-vpce-configuration](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/delete-vpce-configuration.html)|[Remove-DFVPCEConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DFVPCEConfiguration.html)|
 |[aws devicefarm get-account-settings](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-account-settings.html)|[Get-DFAccountSettingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFAccountSettingList.html)|
@@ -41,6 +44,8 @@ date: 2019-08-15
 |[aws devicefarm get-run](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-run.html)|[Get-DFRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFRun.html)|
 |[aws devicefarm get-suite](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-suite.html)|[Get-DFSuite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFSuite.html)|
 |[aws devicefarm get-test](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-test.html)|[Get-DFTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFTest.html)|
+|[aws devicefarm get-test-grid-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-test-grid-project.html)||
+|[aws devicefarm get-test-grid-session](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-test-grid-session.html)||
 |[aws devicefarm get-upload](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-upload.html)|[Get-DFUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFUpload.html)|
 |[aws devicefarm get-vpce-configuration](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/get-vpce-configuration.html)|[Get-DFVPCEConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFVPCEConfiguration.html)|
 |[aws devicefarm install-to-remote-access-session](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/install-to-remote-access-session.html)|[Install-DFToRemoteAccessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Install-DFToRemoteAccessSession.html)|
@@ -60,6 +65,10 @@ date: 2019-08-15
 |[aws devicefarm list-samples](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-samples.html)|[Get-DFSampleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFSampleList.html)|
 |[aws devicefarm list-suites](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-suites.html)|[Get-DFSuiteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFSuiteList.html)|
 |[aws devicefarm list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-tags-for-resource.html)|[Get-DFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFResourceTag.html)|
+|[aws devicefarm list-test-grid-projects](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-test-grid-projects.html)||
+|[aws devicefarm list-test-grid-session-actions](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-test-grid-session-actions.html)||
+|[aws devicefarm list-test-grid-session-artifacts](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-test-grid-session-artifacts.html)||
+|[aws devicefarm list-test-grid-sessions](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-test-grid-sessions.html)||
 |[aws devicefarm list-tests](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-tests.html)|[Get-DFTestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFTestList.html)|
 |[aws devicefarm list-unique-problems](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-unique-problems.html)|[Get-DFUniqueProblemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFUniqueProblemList.html)|
 |[aws devicefarm list-uploads](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/list-uploads.html)|[Get-DFUploadList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DFUploadList.html)|
@@ -77,6 +86,7 @@ date: 2019-08-15
 |[aws devicefarm update-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-instance-profile.html)|[Update-DFInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFInstanceProfile.html)|
 |[aws devicefarm update-network-profile](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-network-profile.html)|[Update-DFNetworkProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFNetworkProfile.html)|
 |[aws devicefarm update-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-project.html)|[Update-DFProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFProject.html)|
+|[aws devicefarm update-test-grid-project](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-test-grid-project.html)||
 |[aws devicefarm update-upload](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-upload.html)|[Update-DFUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFUpload.html)|
 |[aws devicefarm update-vpce-configuration](https://docs.aws.amazon.com/cli/latest/reference/devicefarm/update-vpce-configuration.html)|[Update-DFVPCEConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DFVPCEConfiguration.html)|
 

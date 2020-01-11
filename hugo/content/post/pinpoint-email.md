@@ -1,6 +1,6 @@
 ---
 title: pinpoint-email
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## pinpoint-email
@@ -8,7 +8,7 @@ date: 2019-08-15
 ### [Amazon Pinpoint Email](https://aws.amazon.com/pinpoint/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-email/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Pinpoint_Email_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

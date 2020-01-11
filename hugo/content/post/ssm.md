@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## ssm
@@ -69,6 +69,7 @@ date: 2019-08-15
 |[aws ssm describe-patch-properties](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-patch-properties.html)|[Get-SSMPatchProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchProperty.html)|
 |[aws ssm describe-sessions](https://docs.aws.amazon.com/cli/latest/reference/ssm/describe-sessions.html)|[Get-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMSession.html)|
 |[aws ssm get-automation-execution](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-automation-execution.html)|[Get-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAutomationExecution.html)|
+|[aws ssm get-calendar-state](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-calendar-state.html)|[Get-SSMCalendarState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCalendarState.html)|
 |[aws ssm get-command-invocation](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-command-invocation.html)|[Get-SSMCommandInvocationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommandInvocationDetail.html)|
 |[aws ssm get-connection-status](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-connection-status.html)|[Get-SSMConnectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMConnectionStatus.html)|
 |[aws ssm get-default-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-default-patch-baseline.html)|[Get-SSMDefaultPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDefaultPatchBaseline.html)|
@@ -131,5 +132,6 @@ date: 2019-08-15
 |[aws ssm update-managed-instance-role](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-managed-instance-role.html)|[Update-SSMManagedInstanceRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMManagedInstanceRole.html)|
 |[aws ssm update-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-ops-item.html)|[Update-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMOpsItem.html)|
 |[aws ssm update-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-patch-baseline.html)|[Update-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMPatchBaseline.html)|
+|[aws ssm update-resource-data-sync](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-resource-data-sync.html)|[Update-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMResourceDataSync.html)|
 |[aws ssm update-service-setting](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-service-setting.html)|[Update-SSMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMServiceSetting.html)|
 

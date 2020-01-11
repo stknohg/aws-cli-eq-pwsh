@@ -1,6 +1,6 @@
 ---
 title: license-manager
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## license-manager
@@ -17,6 +17,7 @@ date: 2019-08-15
 |[aws license-manager get-license-configuration](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-license-configuration.html)|[Get-LICMLicenseConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseConfiguration.html)|
 |[aws license-manager get-service-settings](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-service-settings.html)|[Get-LICMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMServiceSetting.html)|
 |[aws license-manager list-associations-for-license-configuration](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-associations-for-license-configuration.html)|[Get-LICMAssociationsForLicenseConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMAssociationsForLicenseConfigurationList.html)|
+|[aws license-manager list-failures-for-license-configuration-operations](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-failures-for-license-configuration-operations.html)|[Get-LICMFailuresForLicenseConfigurationOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMFailuresForLicenseConfigurationOperationList.html)|
 |[aws license-manager list-license-configurations](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-configurations.html)|[Get-LICMLicenseConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseConfigurationList.html)|
 |[aws license-manager list-license-specifications-for-resource](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-specifications-for-resource.html)|[Get-LICMLicenseSpecificationsForResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseSpecificationsForResourceList.html)|
 |[aws license-manager list-resource-inventory](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-resource-inventory.html)|[Get-LICMResourceInventoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMResourceInventoryList.html)|

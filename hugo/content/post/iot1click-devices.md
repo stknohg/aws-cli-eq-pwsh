@@ -1,6 +1,6 @@
 ---
 title: iot1click-devices
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## iot1click-devices

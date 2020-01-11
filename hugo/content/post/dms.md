@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## dms
@@ -20,6 +20,7 @@ date: 2019-08-15
 |[aws dms create-replication-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-subnet-group.html)|[New-DMSReplicationSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationSubnetGroup.html)|
 |[aws dms create-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-task.html)|[New-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationTask.html)|
 |[aws dms delete-certificate](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-certificate.html)|[Remove-DMSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSCertificate.html)|
+|[aws dms delete-connection](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-connection.html)|[Remove-DMSConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSConnection.html)|
 |[aws dms delete-endpoint](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-endpoint.html)|[Remove-DMSEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSEndpoint.html)|
 |[aws dms delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-event-subscription.html)|[Remove-DMSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSEventSubscription.html)|
 |[aws dms delete-replication-instance](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-instance.html)|[Remove-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationInstance.html)|

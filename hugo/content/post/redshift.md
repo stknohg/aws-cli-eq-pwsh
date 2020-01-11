@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## redshift
@@ -27,6 +27,7 @@ date: 2019-08-15
 |[aws redshift create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-event-subscription.html)|[New-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSEventSubscription.html)|
 |[aws redshift create-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-hsm-client-certificate.html)|[New-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmClientCertificate.html)|
 |[aws redshift create-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-hsm-configuration.html)|[New-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmConfiguration.html)|
+|[aws redshift create-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-scheduled-action.html)|[New-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSScheduledAction.html)|
 |[aws redshift create-snapshot-copy-grant](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-snapshot-copy-grant.html)|[New-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotCopyGrant.html)|
 |[aws redshift create-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-snapshot-schedule.html)|[New-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotSchedule.html)|
 |[aws redshift create-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-tags.html)|[New-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSResourceTag.html)|
@@ -38,6 +39,7 @@ date: 2019-08-15
 |[aws redshift delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-event-subscription.html)|[Remove-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSEventSubscription.html)|
 |[aws redshift delete-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-client-certificate.html)|[Remove-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmClientCertificate.html)|
 |[aws redshift delete-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-configuration.html)|[Remove-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmConfiguration.html)|
+|[aws redshift delete-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-scheduled-action.html)|[Remove-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSScheduledAction.html)|
 |[aws redshift delete-snapshot-copy-grant](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-copy-grant.html)|[Remove-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotCopyGrant.html)|
 |[aws redshift delete-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-schedule.html)|[Remove-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotSchedule.html)|
 |[aws redshift delete-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-tags.html)|[Remove-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSResourceTag.html)|
@@ -58,10 +60,12 @@ date: 2019-08-15
 |[aws redshift describe-hsm-client-certificates](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-hsm-client-certificates.html)|[Get-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSHsmClientCertificate.html)|
 |[aws redshift describe-hsm-configurations](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-hsm-configurations.html)|[Get-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSHsmConfiguration.html)|
 |[aws redshift describe-logging-status](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-logging-status.html)|[Get-RSLoggingStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSLoggingStatus.html)|
+|[aws redshift describe-node-configuration-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-node-configuration-options.html)|[Get-RSNodeConfigurationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSNodeConfigurationOption.html)|
 |[aws redshift describe-orderable-cluster-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-orderable-cluster-options.html)|[Get-RSOrderableClusterOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSOrderableClusterOption.html)|
 |[aws redshift describe-reserved-node-offerings](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-node-offerings.html)|[Get-RSReservedNodeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeOffering.html)|
 |[aws redshift describe-reserved-nodes](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-nodes.html)|[Get-RSReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNode.html)|
 |[aws redshift describe-resize](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-resize.html)|[Get-RSResize](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSResize.html)|
+|[aws redshift describe-scheduled-actions](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-scheduled-actions.html)|[Get-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSScheduledAction.html)|
 |[aws redshift describe-snapshot-copy-grants](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-snapshot-copy-grants.html)|[Get-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSnapshotCopyGrant.html)|
 |[aws redshift describe-snapshot-schedules](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-snapshot-schedules.html)|[Get-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSnapshotSchedule.html)|
 |[aws redshift describe-storage](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-storage.html)|[Get-RSStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSStorage.html)|
@@ -82,6 +86,7 @@ date: 2019-08-15
 |[aws redshift modify-cluster-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-snapshot-schedule.html)|[Edit-RSClusterSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterSnapshotSchedule.html)|
 |[aws redshift modify-cluster-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-subnet-group.html)|[Edit-RSClusterSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterSubnetGroup.html)|
 |[aws redshift modify-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-event-subscription.html)|[Edit-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSEventSubscription.html)|
+|[aws redshift modify-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-scheduled-action.html)|[Edit-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSScheduledAction.html)|
 |[aws redshift modify-snapshot-copy-retention-period](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-copy-retention-period.html)|[Edit-RSSnapshotCopyRetentionPeriod](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotCopyRetentionPeriod.html)|
 |[aws redshift modify-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-schedule.html)|[Edit-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotSchedule.html)|
 |[aws redshift purchase-reserved-node-offering](https://docs.aws.amazon.com/cli/latest/reference/redshift/purchase-reserved-node-offering.html)|[Request-RSReservedNodeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-RSReservedNodeOffering.html)|

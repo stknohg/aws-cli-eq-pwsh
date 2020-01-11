@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## ecs
@@ -12,6 +12,7 @@ date: 2019-08-15
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws ecs create-capacity-provider](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-capacity-provider.html)|[New-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCapacityProvider.html)|
 |[aws ecs create-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-cluster.html)|[New-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCluster.html)|
 |[aws ecs create-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-service.html)|[New-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSService.html)|
 |[aws ecs create-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-task-set.html)|[New-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTaskSet.html)|
@@ -23,6 +24,7 @@ date: 2019-08-15
 |[aws ecs deploy](https://docs.aws.amazon.com/cli/latest/reference/ecs/deploy.html)||
 |[aws ecs deregister-container-instance](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-container-instance.html)|[Unregister-ECSContainerInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSContainerInstance.html)|
 |[aws ecs deregister-task-definition](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-task-definition.html)|[Unregister-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSTaskDefinition.html)|
+|[aws ecs describe-capacity-providers](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-capacity-providers.html)|[Get-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSCapacityProvider.html)|
 |[aws ecs describe-clusters](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-clusters.html)|[Get-ECSClusterDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterDetail.html)|
 |[aws ecs describe-container-instances](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-container-instances.html)|[Get-ECSContainerInstanceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSContainerInstanceDetail.html)|
 |[aws ecs describe-services](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-services.html)|[Get-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSService.html)|
@@ -42,6 +44,7 @@ date: 2019-08-15
 |[aws ecs put-account-setting](https://docs.aws.amazon.com/cli/latest/reference/ecs/put-account-setting.html)|[Write-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECSAccountSetting.html)|
 |[aws ecs put-account-setting-default](https://docs.aws.amazon.com/cli/latest/reference/ecs/put-account-setting-default.html)|[Write-ECSAccountSettingDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECSAccountSettingDefault.html)|
 |[aws ecs put-attributes](https://docs.aws.amazon.com/cli/latest/reference/ecs/put-attributes.html)|[Write-ECSAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECSAttribute.html)|
+|[aws ecs put-cluster-capacity-providers](https://docs.aws.amazon.com/cli/latest/reference/ecs/put-cluster-capacity-providers.html)|[Write-ECSClusterCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECSClusterCapacityProvider.html)|
 |[aws ecs register-container-instance](https://docs.aws.amazon.com/cli/latest/reference/ecs/register-container-instance.html)||
 |[aws ecs register-task-definition](https://docs.aws.amazon.com/cli/latest/reference/ecs/register-task-definition.html)|[Register-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-ECSTaskDefinition.html)|
 |[aws ecs run-task](https://docs.aws.amazon.com/cli/latest/reference/ecs/run-task.html)|[New-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTask.html)|
@@ -52,6 +55,7 @@ date: 2019-08-15
 |[aws ecs submit-task-state-change](https://docs.aws.amazon.com/cli/latest/reference/ecs/submit-task-state-change.html)||
 |[aws ecs tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/tag-resource.html)|[Add-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECSResourceTag.html)|
 |[aws ecs untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/untag-resource.html)|[Remove-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSResourceTag.html)|
+|[aws ecs update-cluster-settings](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-cluster-settings.html)|[Update-ECSClusterSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSClusterSetting.html)|
 |[aws ecs update-container-agent](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-agent.html)|[Update-ECSContainerAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerAgent.html)|
 |[aws ecs update-container-instances-state](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|
 |[aws ecs update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html)|[Update-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSService.html)|

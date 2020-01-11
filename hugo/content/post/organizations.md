@@ -1,6 +1,6 @@
 ---
 title: organizations
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## organizations
@@ -26,6 +26,7 @@ date: 2019-08-15
 |[aws organizations delete-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/delete-policy.html)|[Remove-ORGPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGPolicy.html)|
 |[aws organizations describe-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-account.html)|[Get-ORGAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccount.html)|
 |[aws organizations describe-create-account-status](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-create-account-status.html)|[Get-ORGAccountCreationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountCreationStatus.html)|
+|[aws organizations describe-effective-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-effective-policy.html)|[Get-ORGEffectivePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGEffectivePolicy.html)|
 |[aws organizations describe-handshake](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-handshake.html)|[Get-ORGHandshake](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGHandshake.html)|
 |[aws organizations describe-organization](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-organization.html)|[Get-ORGOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGOrganization.html)|
 |[aws organizations describe-organizational-unit](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-organizational-unit.html)|[Get-ORGOrganizationalUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGOrganizationalUnit.html)|

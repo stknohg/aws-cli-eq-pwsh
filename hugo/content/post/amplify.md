@@ -1,6 +1,6 @@
 ---
 title: amplify
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## amplify
@@ -13,21 +13,28 @@ date: 2019-08-15
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws amplify create-app](https://docs.aws.amazon.com/cli/latest/reference/amplify/create-app.html)|[New-AMPApp](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPApp.html)|
+|[aws amplify create-backend-environment](https://docs.aws.amazon.com/cli/latest/reference/amplify/create-backend-environment.html)|[New-AMPBackendEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPBackendEnvironment.html)|
 |[aws amplify create-branch](https://docs.aws.amazon.com/cli/latest/reference/amplify/create-branch.html)|[New-AMPBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPBranch.html)|
 |[aws amplify create-deployment](https://docs.aws.amazon.com/cli/latest/reference/amplify/create-deployment.html)|[New-AMPDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPDeployment.html)|
 |[aws amplify create-domain-association](https://docs.aws.amazon.com/cli/latest/reference/amplify/create-domain-association.html)|[New-AMPDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPDomainAssociation.html)|
 |[aws amplify create-webhook](https://docs.aws.amazon.com/cli/latest/reference/amplify/create-webhook.html)|[New-AMPWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPWebhook.html)|
 |[aws amplify delete-app](https://docs.aws.amazon.com/cli/latest/reference/amplify/delete-app.html)|[Remove-AMPApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPApp.html)|
+|[aws amplify delete-backend-environment](https://docs.aws.amazon.com/cli/latest/reference/amplify/delete-backend-environment.html)|[Remove-AMPBackendEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPBackendEnvironment.html)|
 |[aws amplify delete-branch](https://docs.aws.amazon.com/cli/latest/reference/amplify/delete-branch.html)|[Remove-AMPBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPBranch.html)|
 |[aws amplify delete-domain-association](https://docs.aws.amazon.com/cli/latest/reference/amplify/delete-domain-association.html)|[Remove-AMPDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPDomainAssociation.html)|
 |[aws amplify delete-job](https://docs.aws.amazon.com/cli/latest/reference/amplify/delete-job.html)|[Remove-AMPJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPJob.html)|
 |[aws amplify delete-webhook](https://docs.aws.amazon.com/cli/latest/reference/amplify/delete-webhook.html)|[Remove-AMPWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPWebhook.html)|
+|[aws amplify generate-access-logs](https://docs.aws.amazon.com/cli/latest/reference/amplify/generate-access-logs.html)|[New-AMPAccessLog](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPAccessLog.html)|
 |[aws amplify get-app](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-app.html)|[Get-AMPApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPApp.html)|
+|[aws amplify get-artifact-url](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-artifact-url.html)|[Get-AMPArtifactUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPArtifactUrl.html)|
+|[aws amplify get-backend-environment](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-backend-environment.html)|[Get-AMPBackendEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBackendEnvironment.html)|
 |[aws amplify get-branch](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-branch.html)|[Get-AMPBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBranch.html)|
 |[aws amplify get-domain-association](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-domain-association.html)|[Get-AMPDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPDomainAssociation.html)|
 |[aws amplify get-job](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-job.html)|[Get-AMPJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPJob.html)|
 |[aws amplify get-webhook](https://docs.aws.amazon.com/cli/latest/reference/amplify/get-webhook.html)|[Get-AMPWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPWebhook.html)|
 |[aws amplify list-apps](https://docs.aws.amazon.com/cli/latest/reference/amplify/list-apps.html)|[Get-AMPAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPAppList.html)|
+|[aws amplify list-artifacts](https://docs.aws.amazon.com/cli/latest/reference/amplify/list-artifacts.html)|[Get-AMPArtifactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPArtifactList.html)|
+|[aws amplify list-backend-environments](https://docs.aws.amazon.com/cli/latest/reference/amplify/list-backend-environments.html)|[Get-AMPBackendEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBackendEnvironmentList.html)|
 |[aws amplify list-branches](https://docs.aws.amazon.com/cli/latest/reference/amplify/list-branches.html)|[Get-AMPBranchList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBranchList.html)|
 |[aws amplify list-domain-associations](https://docs.aws.amazon.com/cli/latest/reference/amplify/list-domain-associations.html)|[Get-AMPDomainAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPDomainAssociationList.html)|
 |[aws amplify list-jobs](https://docs.aws.amazon.com/cli/latest/reference/amplify/list-jobs.html)|[Get-AMPJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPJobList.html)|

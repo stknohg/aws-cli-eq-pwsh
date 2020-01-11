@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## kinesisanalyticsv2
@@ -17,6 +17,7 @@ date: 2019-08-15
 |[aws kinesisanalyticsv2 add-application-input-processing-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/add-application-input-processing-configuration.html)|[Add-KINA2ApplicationInputProcessingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ApplicationInputProcessingConfiguration.html)|
 |[aws kinesisanalyticsv2 add-application-output](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/add-application-output.html)|[Add-KINA2ApplicationOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ApplicationOutput.html)|
 |[aws kinesisanalyticsv2 add-application-reference-data-source](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/add-application-reference-data-source.html)|[Add-KINA2ApplicationReferenceDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ApplicationReferenceDataSource.html)|
+|[aws kinesisanalyticsv2 add-application-vpc-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/add-application-vpc-configuration.html)|[Add-KINA2ApplicationVpcConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ApplicationVpcConfiguration.html)|
 |[aws kinesisanalyticsv2 create-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/create-application.html)|[New-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINA2Application.html)|
 |[aws kinesisanalyticsv2 create-application-snapshot](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/create-application-snapshot.html)|[New-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINA2ApplicationSnapshot.html)|
 |[aws kinesisanalyticsv2 delete-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application.html)|[Remove-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2Application.html)|
@@ -25,6 +26,7 @@ date: 2019-08-15
 |[aws kinesisanalyticsv2 delete-application-output](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application-output.html)|[Remove-KINA2ApplicationOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationOutput.html)|
 |[aws kinesisanalyticsv2 delete-application-reference-data-source](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application-reference-data-source.html)|[Remove-KINA2ApplicationReferenceDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationReferenceDataSource.html)|
 |[aws kinesisanalyticsv2 delete-application-snapshot](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application-snapshot.html)|[Remove-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationSnapshot.html)|
+|[aws kinesisanalyticsv2 delete-application-vpc-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application-vpc-configuration.html)|[Remove-KINA2ApplicationVpcConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationVpcConfiguration.html)|
 |[aws kinesisanalyticsv2 describe-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/describe-application.html)|[Get-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2Application.html)|
 |[aws kinesisanalyticsv2 describe-application-snapshot](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/describe-application-snapshot.html)|[Get-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationSnapshot.html)|
 |[aws kinesisanalyticsv2 discover-input-schema](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/discover-input-schema.html)|[Find-KINA2InputSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-KINA2InputSchema.html)|

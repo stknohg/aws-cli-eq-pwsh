@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## ecr
@@ -20,6 +20,7 @@ date: 2019-08-15
 |[aws ecr delete-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/delete-lifecycle-policy.html)|[Remove-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRLifecyclePolicy.html)|
 |[aws ecr delete-repository](https://docs.aws.amazon.com/cli/latest/reference/ecr/delete-repository.html)|[Remove-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepository.html)|
 |[aws ecr delete-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/delete-repository-policy.html)|[Remove-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepositoryPolicy.html)|
+|[aws ecr describe-image-scan-findings](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-image-scan-findings.html)|[Get-ECRImageScanFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageScanFinding.html)|
 |[aws ecr describe-images](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-images.html)|[Get-ECRImageMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageMetadata.html)|
 |[aws ecr describe-repositories](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-repositories.html)|[Get-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepository.html)|
 |[aws ecr get-authorization-token](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-authorization-token.html)|[Get-ECRAuthorizationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRAuthorizationToken.html)|
@@ -32,9 +33,11 @@ date: 2019-08-15
 |[aws ecr list-images](https://docs.aws.amazon.com/cli/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|
 |[aws ecr list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr/list-tags-for-resource.html)|[Get-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRResourceTag.html)|
 |[aws ecr put-image](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-image.html)|[Write-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImage.html)|
+|[aws ecr put-image-scanning-configuration](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-image-scanning-configuration.html)|[Write-ECRImageScanningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImageScanningConfiguration.html)|
 |[aws ecr put-image-tag-mutability](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-image-tag-mutability.html)|[Write-ECRImageTagMutability](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImageTagMutability.html)|
 |[aws ecr put-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/put-lifecycle-policy.html)|[Write-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRLifecyclePolicy.html)|
 |[aws ecr set-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/set-repository-policy.html)|[Set-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ECRRepositoryPolicy.html)|
+|[aws ecr start-image-scan](https://docs.aws.amazon.com/cli/latest/reference/ecr/start-image-scan.html)|[Start-ECRImageScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRImageScan.html)|
 |[aws ecr start-lifecycle-policy-preview](https://docs.aws.amazon.com/cli/latest/reference/ecr/start-lifecycle-policy-preview.html)|[Start-ECRLifecyclePolicyPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLifecyclePolicyPreview.html)|
 |[aws ecr tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr/tag-resource.html)|[Add-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECRResourceTag.html)|
 |[aws ecr untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr/untag-resource.html)|[Remove-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRResourceTag.html)|

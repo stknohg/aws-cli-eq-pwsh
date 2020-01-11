@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## ds
@@ -30,24 +30,31 @@ date: 2019-08-15
 |[aws ds delete-log-subscription](https://docs.aws.amazon.com/cli/latest/reference/ds/delete-log-subscription.html)|[Remove-DSLogSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSLogSubscription.html)|
 |[aws ds delete-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ds/delete-snapshot.html)|[Remove-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSSnapshot.html)|
 |[aws ds delete-trust](https://docs.aws.amazon.com/cli/latest/reference/ds/delete-trust.html)|[Remove-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSTrust.html)|
+|[aws ds deregister-certificate](https://docs.aws.amazon.com/cli/latest/reference/ds/deregister-certificate.html)|[Unregister-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSCertificate.html)|
 |[aws ds deregister-event-topic](https://docs.aws.amazon.com/cli/latest/reference/ds/deregister-event-topic.html)|[Unregister-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSEventTopic.html)|
+|[aws ds describe-certificate](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-certificate.html)|[Get-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCertificate.html)|
 |[aws ds describe-conditional-forwarders](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-conditional-forwarders.html)|[Get-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSConditionalForwarder.html)|
 |[aws ds describe-directories](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-directories.html)|[Get-DSDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectory.html)|
 |[aws ds describe-domain-controllers](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-domain-controllers.html)|[Get-DSDomainControllerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDomainControllerList.html)|
 |[aws ds describe-event-topics](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-event-topics.html)|[Get-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSEventTopic.html)|
+|[aws ds describe-ldaps-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-ldaps-settings.html)|[Get-DSLDAPSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLDAPSSetting.html)|
 |[aws ds describe-shared-directories](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-shared-directories.html)|[Get-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSharedDirectory.html)|
 |[aws ds describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-snapshots.html)|[Get-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshot.html)|
 |[aws ds describe-trusts](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-trusts.html)|[Get-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSTrust.html)|
+|[aws ds disable-ldaps](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-ldaps.html)|[Disable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSLDAPS.html)|
 |[aws ds disable-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-radius.html)|[Disable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSRadius.html)|
 |[aws ds disable-sso](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-sso.html)|[Disable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSSso.html)|
+|[aws ds enable-ldaps](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-ldaps.html)|[Enable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSLDAPS.html)|
 |[aws ds enable-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-radius.html)|[Enable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSRadius.html)|
 |[aws ds enable-sso](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-sso.html)|[Enable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSSso.html)|
 |[aws ds get-directory-limits](https://docs.aws.amazon.com/cli/latest/reference/ds/get-directory-limits.html)|[Get-DSDirectoryLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectoryLimit.html)|
 |[aws ds get-snapshot-limits](https://docs.aws.amazon.com/cli/latest/reference/ds/get-snapshot-limits.html)|[Get-DSSnapshotLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshotLimit.html)|
+|[aws ds list-certificates](https://docs.aws.amazon.com/cli/latest/reference/ds/list-certificates.html)|[Get-DSCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCertificateList.html)|
 |[aws ds list-ip-routes](https://docs.aws.amazon.com/cli/latest/reference/ds/list-ip-routes.html)|[Get-DSIpRouteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSIpRouteList.html)|
 |[aws ds list-log-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/ds/list-log-subscriptions.html)|[Get-DSLogSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLogSubscriptionList.html)|
 |[aws ds list-schema-extensions](https://docs.aws.amazon.com/cli/latest/reference/ds/list-schema-extensions.html)|[Get-DSSchemaExtension](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSchemaExtension.html)|
 |[aws ds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ds/list-tags-for-resource.html)|[Get-DSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSResourceTag.html)|
+|[aws ds register-certificate](https://docs.aws.amazon.com/cli/latest/reference/ds/register-certificate.html)|[Register-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DSCertificate.html)|
 |[aws ds register-event-topic](https://docs.aws.amazon.com/cli/latest/reference/ds/register-event-topic.html)|[Register-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DSEventTopic.html)|
 |[aws ds reject-shared-directory](https://docs.aws.amazon.com/cli/latest/reference/ds/reject-shared-directory.html)|[Deny-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DSSharedDirectory.html)|
 |[aws ds remove-ip-routes](https://docs.aws.amazon.com/cli/latest/reference/ds/remove-ip-routes.html)|[Remove-DSIpRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSIpRoute.html)|

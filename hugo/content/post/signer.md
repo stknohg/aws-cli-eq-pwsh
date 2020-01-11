@@ -1,6 +1,6 @@
 ---
 title: signer
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## signer
@@ -19,6 +19,9 @@ date: 2019-08-15
 |[aws signer list-signing-jobs](https://docs.aws.amazon.com/cli/latest/reference/signer/list-signing-jobs.html)||
 |[aws signer list-signing-platforms](https://docs.aws.amazon.com/cli/latest/reference/signer/list-signing-platforms.html)||
 |[aws signer list-signing-profiles](https://docs.aws.amazon.com/cli/latest/reference/signer/list-signing-profiles.html)||
+|[aws signer list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/signer/list-tags-for-resource.html)||
 |[aws signer put-signing-profile](https://docs.aws.amazon.com/cli/latest/reference/signer/put-signing-profile.html)||
 |[aws signer start-signing-job](https://docs.aws.amazon.com/cli/latest/reference/signer/start-signing-job.html)||
+|[aws signer tag-resource](https://docs.aws.amazon.com/cli/latest/reference/signer/tag-resource.html)||
+|[aws signer untag-resource](https://docs.aws.amazon.com/cli/latest/reference/signer/untag-resource.html)||
 

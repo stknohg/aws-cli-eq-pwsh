@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## kms
@@ -31,11 +31,14 @@ date: 2019-08-15
 |[aws kms enable-key-rotation](https://docs.aws.amazon.com/cli/latest/reference/kms/enable-key-rotation.html)|[Enable-KMSKeyRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-KMSKeyRotation.html)|
 |[aws kms encrypt](https://docs.aws.amazon.com/cli/latest/reference/kms/encrypt.html)|[Invoke-KMSEncrypt](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSEncrypt.html)|
 |[aws kms generate-data-key](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key.html)|[New-KMSDataKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKey.html)|
+|[aws kms generate-data-key-pair](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key-pair.html)|[New-KMSDataKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyPair.html)|
+|[aws kms generate-data-key-pair-without-plaintext](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key-pair-without-plaintext.html)|[New-KMSDataKeyPairWithoutPlaintext](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyPairWithoutPlaintext.html)|
 |[aws kms generate-data-key-without-plaintext](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key-without-plaintext.html)|[New-KMSDataKeyWithoutPlaintext](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyWithoutPlaintext.html)|
 |[aws kms generate-random](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-random.html)|[New-KMSRandom](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSRandom.html)|
 |[aws kms get-key-policy](https://docs.aws.amazon.com/cli/latest/reference/kms/get-key-policy.html)|[Get-KMSKeyPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyPolicy.html)|
 |[aws kms get-key-rotation-status](https://docs.aws.amazon.com/cli/latest/reference/kms/get-key-rotation-status.html)|[Get-KMSKeyRotationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyRotationStatus.html)|
 |[aws kms get-parameters-for-import](https://docs.aws.amazon.com/cli/latest/reference/kms/get-parameters-for-import.html)|[Get-KMSParametersForImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSParametersForImport.html)|
+|[aws kms get-public-key](https://docs.aws.amazon.com/cli/latest/reference/kms/get-public-key.html)|[Get-KMSPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSPublicKey.html)|
 |[aws kms import-key-material](https://docs.aws.amazon.com/cli/latest/reference/kms/import-key-material.html)|[Import-KMSKeyMaterial](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-KMSKeyMaterial.html)|
 |[aws kms list-aliases](https://docs.aws.amazon.com/cli/latest/reference/kms/list-aliases.html)|[Get-KMSAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSAliasList.html)|
 |[aws kms list-grants](https://docs.aws.amazon.com/cli/latest/reference/kms/list-grants.html)|[Get-KMSGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSGrantList.html)|
@@ -48,9 +51,11 @@ date: 2019-08-15
 |[aws kms retire-grant](https://docs.aws.amazon.com/cli/latest/reference/kms/retire-grant.html)|[Disable-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-KMSGrant.html)|
 |[aws kms revoke-grant](https://docs.aws.amazon.com/cli/latest/reference/kms/revoke-grant.html)|[Revoke-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-KMSGrant.html)|
 |[aws kms schedule-key-deletion](https://docs.aws.amazon.com/cli/latest/reference/kms/schedule-key-deletion.html)|[Request-KMSKeyDeletion](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-KMSKeyDeletion.html)|
+|[aws kms sign](https://docs.aws.amazon.com/cli/latest/reference/kms/sign.html)|[Invoke-KMSSigning](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSSigning.html)|
 |[aws kms tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kms/tag-resource.html)|[Add-KMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KMSResourceTag.html)|
 |[aws kms untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kms/untag-resource.html)|[Remove-KMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KMSResourceTag.html)|
 |[aws kms update-alias](https://docs.aws.amazon.com/cli/latest/reference/kms/update-alias.html)|[Update-KMSAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSAlias.html)|
 |[aws kms update-custom-key-store](https://docs.aws.amazon.com/cli/latest/reference/kms/update-custom-key-store.html)|[Update-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSCustomKeyStore.html)|
 |[aws kms update-key-description](https://docs.aws.amazon.com/cli/latest/reference/kms/update-key-description.html)|[Update-KMSKeyDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSKeyDescription.html)|
+|[aws kms verify](https://docs.aws.amazon.com/cli/latest/reference/kms/verify.html)|[Test-KMSSignature](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-KMSSignature.html)|
 

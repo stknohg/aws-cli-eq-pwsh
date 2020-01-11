@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## datasync
@@ -17,6 +17,7 @@ date: 2019-08-15
 |[aws datasync create-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-efs.html)|[New-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationEfs.html)|
 |[aws datasync create-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-nfs.html)|[New-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationNfs.html)|
 |[aws datasync create-location-s3](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-s3.html)|[New-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationS3.html)|
+|[aws datasync create-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-smb.html)|[New-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationSmb.html)|
 |[aws datasync create-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-task.html)|[New-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNTask.html)|
 |[aws datasync delete-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/delete-agent.html)|[Remove-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNAgent.html)|
 |[aws datasync delete-location](https://docs.aws.amazon.com/cli/latest/reference/datasync/delete-location.html)|[Remove-DSYNLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNLocation.html)|
@@ -25,6 +26,7 @@ date: 2019-08-15
 |[aws datasync describe-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-efs.html)|[Get-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationEfs.html)|
 |[aws datasync describe-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-nfs.html)|[Get-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationNfs.html)|
 |[aws datasync describe-location-s3](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-s3.html)|[Get-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationS3.html)|
+|[aws datasync describe-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-smb.html)|[Get-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationSmb.html)|
 |[aws datasync describe-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-task.html)|[Get-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNTask.html)|
 |[aws datasync describe-task-execution](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-task-execution.html)|[Get-DSYNTaskExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNTaskExecution.html)|
 |[aws datasync list-agents](https://docs.aws.amazon.com/cli/latest/reference/datasync/list-agents.html)|[Get-DSYNAgentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNAgentList.html)|

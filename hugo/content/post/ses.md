@@ -1,6 +1,6 @@
 ---
 title: ses
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## ses
@@ -8,7 +8,7 @@ date: 2019-08-15
 ### [Amazon Simple Email Service](https://aws.amazon.com/ses/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ses/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Email_Service_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmail_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

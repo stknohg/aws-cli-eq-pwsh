@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## cloudtrail
@@ -18,11 +18,15 @@ date: 2019-08-15
 |[aws cloudtrail delete-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/delete-trail.html)|[Remove-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTTrail.html)|
 |[aws cloudtrail describe-trails](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/describe-trails.html)|[Get-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrail.html)|
 |[aws cloudtrail get-event-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-event-selectors.html)|[Get-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventSelector.html)|
+|[aws cloudtrail get-insight-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-insight-selectors.html)|[Get-CTInsightSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTInsightSelector.html)|
+|[aws cloudtrail get-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-trail.html)|[Get-CTTrailByName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrailByName.html)|
 |[aws cloudtrail get-trail-status](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-trail-status.html)|[Get-CTTrailStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrailStatus.html)|
 |[aws cloudtrail list-public-keys](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-public-keys.html)|[Get-CTPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTPublicKey.html)|
 |[aws cloudtrail list-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-tags.html)|[Get-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTResourceTag.html)|
+|[aws cloudtrail list-trails](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-trails.html)|[Get-CTTrailSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrailSummary.html)|
 |[aws cloudtrail lookup-events](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/lookup-events.html)|[Find-CTEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CTEvent.html)|
 |[aws cloudtrail put-event-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/put-event-selectors.html)|[Write-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTEventSelector.html)|
+|[aws cloudtrail put-insight-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/put-insight-selectors.html)|[Write-CTInsightSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTInsightSelector.html)|
 |[aws cloudtrail remove-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/remove-tags.html)|[Remove-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTResourceTag.html)|
 |[aws cloudtrail start-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-logging.html)|[Start-CTLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTLogging.html)|
 |[aws cloudtrail stop-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/stop-logging.html)|[Stop-CTLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CTLogging.html)|

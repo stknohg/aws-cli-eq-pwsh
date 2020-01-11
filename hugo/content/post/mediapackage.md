@@ -1,6 +1,6 @@
 ---
 title: mediapackage
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## mediapackage
@@ -13,12 +13,15 @@ date: 2019-08-15
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws mediapackage create-channel](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/create-channel.html)|[New-EMPChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPChannel.html)|
+|[aws mediapackage create-harvest-job](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/create-harvest-job.html)|[New-EMPHarvestJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPHarvestJob.html)|
 |[aws mediapackage create-origin-endpoint](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/create-origin-endpoint.html)|[New-EMPOriginEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPOriginEndpoint.html)|
 |[aws mediapackage delete-channel](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/delete-channel.html)|[Remove-EMPChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMPChannel.html)|
 |[aws mediapackage delete-origin-endpoint](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/delete-origin-endpoint.html)|[Remove-EMPOriginEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMPOriginEndpoint.html)|
 |[aws mediapackage describe-channel](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/describe-channel.html)|[Get-EMPChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPChannel.html)|
+|[aws mediapackage describe-harvest-job](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/describe-harvest-job.html)|[Get-EMPHarvestJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPHarvestJob.html)|
 |[aws mediapackage describe-origin-endpoint](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/describe-origin-endpoint.html)|[Get-EMPOriginEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPOriginEndpoint.html)|
 |[aws mediapackage list-channels](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/list-channels.html)|[Get-EMPChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPChannelList.html)|
+|[aws mediapackage list-harvest-jobs](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/list-harvest-jobs.html)|[Get-EMPHarvestJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPHarvestJobList.html)|
 |[aws mediapackage list-origin-endpoints](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/list-origin-endpoints.html)|[Get-EMPOriginEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPOriginEndpointList.html)|
 |[aws mediapackage list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/list-tags-for-resource.html)|[Get-EMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPResourceTag.html)|
 |[aws mediapackage rotate-channel-credentials](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/rotate-channel-credentials.html)|[Invoke-EMPChannelCredentialRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-EMPChannelCredentialRotation.html)|

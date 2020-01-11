@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## rekognition
@@ -14,12 +14,17 @@ date: 2019-08-15
 |----|----|
 |[aws rekognition compare-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/compare-faces.html)|[Compare-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Compare-REKFace.html)|
 |[aws rekognition create-collection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-collection.html)|[New-REKCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKCollection.html)|
+|[aws rekognition create-project](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-project.html)|[New-REKProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKProject.html)|
+|[aws rekognition create-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-project-version.html)|[New-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKProjectVersion.html)|
 |[aws rekognition create-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-stream-processor.html)|[New-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKStreamProcessor.html)|
 |[aws rekognition delete-collection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-collection.html)|[Remove-REKCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKCollection.html)|
 |[aws rekognition delete-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-faces.html)|[Remove-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKFace.html)|
 |[aws rekognition delete-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-stream-processor.html)|[Remove-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKStreamProcessor.html)|
 |[aws rekognition describe-collection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/describe-collection.html)|[Get-REKCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCollection.html)|
+|[aws rekognition describe-project-versions](https://docs.aws.amazon.com/cli/latest/reference/rekognition/describe-project-versions.html)|[Get-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKProjectVersion.html)|
+|[aws rekognition describe-projects](https://docs.aws.amazon.com/cli/latest/reference/rekognition/describe-projects.html)|[Get-REKProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKProject.html)|
 |[aws rekognition describe-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/describe-stream-processor.html)|[Get-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKStreamProcessor.html)|
+|[aws rekognition detect-custom-labels](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-custom-labels.html)|[Find-REKCustomLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKCustomLabel.html)|
 |[aws rekognition detect-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-faces.html)|[Find-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKFace.html)|
 |[aws rekognition detect-labels](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-labels.html)|[Find-REKLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKLabel.html)|
 |[aws rekognition detect-moderation-labels](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-moderation-labels.html)|[Find-REKModerationLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKModerationLabel.html)|
@@ -44,6 +49,8 @@ date: 2019-08-15
 |[aws rekognition start-face-search](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-face-search.html)|[Start-REKFaceSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKFaceSearch.html)|
 |[aws rekognition start-label-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-label-detection.html)|[Start-REKLabelDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKLabelDetection.html)|
 |[aws rekognition start-person-tracking](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-person-tracking.html)|[Start-REKPersonTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKPersonTracking.html)|
+|[aws rekognition start-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-project-version.html)|[Start-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKProjectVersion.html)|
 |[aws rekognition start-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-stream-processor.html)|[Start-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKStreamProcessor.html)|
+|[aws rekognition stop-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/stop-project-version.html)|[Stop-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-REKProjectVersion.html)|
 |[aws rekognition stop-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/stop-stream-processor.html)|[Stop-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-REKStreamProcessor.html)|
 

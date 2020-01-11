@@ -1,6 +1,6 @@
 ---
 title: cloudsearch
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## cloudsearch
@@ -25,6 +25,7 @@ date: 2019-08-15
 |[aws cloudsearch delete-suggester](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/delete-suggester.html)|[Remove-CSSuggester](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CSSuggester.html)|
 |[aws cloudsearch describe-analysis-schemes](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/describe-analysis-schemes.html)|[Get-CSAnalysisScheme](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSAnalysisScheme.html)|
 |[aws cloudsearch describe-availability-options](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/describe-availability-options.html)|[Get-CSAvailabilityOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSAvailabilityOption.html)|
+|[aws cloudsearch describe-domain-endpoint-options](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/describe-domain-endpoint-options.html)|[Get-CSDomainEndpointOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSDomainEndpointOption.html)|
 |[aws cloudsearch describe-domains](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/describe-domains.html)|[Get-CSDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSDomain.html)|
 |[aws cloudsearch describe-expressions](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/describe-expressions.html)|[Get-CSExpression](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSExpression.html)|
 |[aws cloudsearch describe-index-fields](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/describe-index-fields.html)|[Get-CSIndexField](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSIndexField.html)|
@@ -34,6 +35,7 @@ date: 2019-08-15
 |[aws cloudsearch index-documents](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/index-documents.html)|[Start-CSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CSIndex.html)|
 |[aws cloudsearch list-domain-names](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/list-domain-names.html)|[Get-CSDomainNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSDomainNameList.html)|
 |[aws cloudsearch update-availability-options](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/update-availability-options.html)|[Update-CSAvailabilityOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CSAvailabilityOption.html)|
+|[aws cloudsearch update-domain-endpoint-options](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/update-domain-endpoint-options.html)|[Update-CSDomainEndpointOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CSDomainEndpointOption.html)|
 |[aws cloudsearch update-scaling-parameters](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/update-scaling-parameters.html)|[Update-CSScalingParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CSScalingParameter.html)|
 |[aws cloudsearch update-service-access-policies](https://docs.aws.amazon.com/cli/latest/reference/cloudsearch/update-service-access-policies.html)|[Update-CSServiceAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CSServiceAccessPolicy.html)|
 

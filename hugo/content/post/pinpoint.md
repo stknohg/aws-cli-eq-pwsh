@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## pinpoint
@@ -8,15 +8,20 @@ date: 2019-08-15
 ### [Amazon Pinpoint](https://aws.amazon.com/pinpoint/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Pinpoint_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Pinpoint_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws pinpoint create-app](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-app.html)|[New-PINApp](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINApp.html)|
 |[aws pinpoint create-campaign](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-campaign.html)|[New-PINCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINCampaign.html)|
+|[aws pinpoint create-email-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-email-template.html)|[New-PINEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINEmailTemplate.html)|
 |[aws pinpoint create-export-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-export-job.html)|[New-PINExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINExportJob.html)|
 |[aws pinpoint create-import-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-import-job.html)|[New-PINImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINImportJob.html)|
+|[aws pinpoint create-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-journey.html)|[New-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINJourney.html)|
+|[aws pinpoint create-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-push-template.html)|[New-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINPushTemplate.html)|
 |[aws pinpoint create-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-segment.html)|[New-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINSegment.html)|
+|[aws pinpoint create-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-sms-template.html)|[New-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINSmsTemplate.html)|
+|[aws pinpoint create-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-voice-template.html)|[New-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINVoiceTemplate.html)|
 |[aws pinpoint delete-adm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-adm-channel.html)|[Remove-PINAdmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINAdmChannel.html)|
 |[aws pinpoint delete-apns-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-apns-channel.html)|[Remove-PINApnsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINApnsChannel.html)|
 |[aws pinpoint delete-apns-sandbox-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-apns-sandbox-channel.html)|[Remove-PINApnsSandboxChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINApnsSandboxChannel.html)|
@@ -26,13 +31,18 @@ date: 2019-08-15
 |[aws pinpoint delete-baidu-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-baidu-channel.html)|[Remove-PINBaiduChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINBaiduChannel.html)|
 |[aws pinpoint delete-campaign](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-campaign.html)|[Remove-PINCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINCampaign.html)|
 |[aws pinpoint delete-email-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-email-channel.html)|[Remove-PINEmailChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEmailChannel.html)|
+|[aws pinpoint delete-email-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-email-template.html)|[Remove-PINEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEmailTemplate.html)|
 |[aws pinpoint delete-endpoint](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-endpoint.html)|[Remove-PINEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEndpoint.html)|
 |[aws pinpoint delete-event-stream](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-event-stream.html)|[Remove-PINEventStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEventStream.html)|
 |[aws pinpoint delete-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-gcm-channel.html)|[Remove-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINGcmChannel.html)|
+|[aws pinpoint delete-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-journey.html)|[Remove-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINJourney.html)|
+|[aws pinpoint delete-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-push-template.html)|[Remove-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINPushTemplate.html)|
 |[aws pinpoint delete-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-segment.html)|[Remove-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINSegment.html)|
 |[aws pinpoint delete-sms-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-sms-channel.html)|[Remove-PINSmsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINSmsChannel.html)|
+|[aws pinpoint delete-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-sms-template.html)|[Remove-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINSmsTemplate.html)|
 |[aws pinpoint delete-user-endpoints](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-user-endpoints.html)|[Remove-PINUserEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINUserEndpoint.html)|
 |[aws pinpoint delete-voice-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-voice-channel.html)|[Remove-PINVoiceChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINVoiceChannel.html)|
+|[aws pinpoint delete-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-voice-template.html)|[Remove-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINVoiceTemplate.html)|
 |[aws pinpoint get-adm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-adm-channel.html)|[Get-PINAdmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINAdmChannel.html)|
 |[aws pinpoint get-apns-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-apns-channel.html)|[Get-PINApnsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApnsChannel.html)|
 |[aws pinpoint get-apns-sandbox-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-apns-sandbox-channel.html)|[Get-PINApnsSandboxChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINApnsSandboxChannel.html)|
@@ -51,6 +61,7 @@ date: 2019-08-15
 |[aws pinpoint get-campaigns](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-campaigns.html)|[Get-PINCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINCampaignList.html)|
 |[aws pinpoint get-channels](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-channels.html)|[Get-PINChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINChannel.html)|
 |[aws pinpoint get-email-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-email-channel.html)|[Get-PINEmailChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEmailChannel.html)|
+|[aws pinpoint get-email-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-email-template.html)|[Get-PINEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEmailTemplate.html)|
 |[aws pinpoint get-endpoint](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-endpoint.html)|[Get-PINEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEndpoint.html)|
 |[aws pinpoint get-event-stream](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-event-stream.html)|[Get-PINEventStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINEventStream.html)|
 |[aws pinpoint get-export-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-export-job.html)|[Get-PINExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINExportJob.html)|
@@ -58,6 +69,11 @@ date: 2019-08-15
 |[aws pinpoint get-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-gcm-channel.html)|[Get-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINGcmChannel.html)|
 |[aws pinpoint get-import-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-import-job.html)|[Get-PINImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINImportJob.html)|
 |[aws pinpoint get-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-import-jobs.html)|[Get-PINImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINImportJobList.html)|
+|[aws pinpoint get-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey.html)|[Get-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourney.html)|
+|[aws pinpoint get-journey-date-range-kpi](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-date-range-kpi.html)|[Get-PINJourneyDateRangeKpi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyDateRangeKpi.html)|
+|[aws pinpoint get-journey-execution-activity-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-activity-metrics.html)|[Get-PINJourneyExecutionActivityMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionActivityMetric.html)|
+|[aws pinpoint get-journey-execution-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-metrics.html)|[Get-PINJourneyExecutionMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionMetric.html)|
+|[aws pinpoint get-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-push-template.html)|[Get-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINPushTemplate.html)|
 |[aws pinpoint get-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment.html)|[Get-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegment.html)|
 |[aws pinpoint get-segment-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment-export-jobs.html)|[Get-PINSegmentExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegmentExportJobList.html)|
 |[aws pinpoint get-segment-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment-import-jobs.html)|[Get-PINSegmentImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegmentImportJobList.html)|
@@ -65,9 +81,14 @@ date: 2019-08-15
 |[aws pinpoint get-segment-versions](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment-versions.html)|[Get-PINSegmentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegmentVersionList.html)|
 |[aws pinpoint get-segments](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segments.html)|[Get-PINSegmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegmentList.html)|
 |[aws pinpoint get-sms-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-sms-channel.html)|[Get-PINSmsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSmsChannel.html)|
+|[aws pinpoint get-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-sms-template.html)|[Get-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSmsTemplate.html)|
 |[aws pinpoint get-user-endpoints](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-user-endpoints.html)|[Get-PINUserEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINUserEndpoint.html)|
 |[aws pinpoint get-voice-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-voice-channel.html)|[Get-PINVoiceChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINVoiceChannel.html)|
+|[aws pinpoint get-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-voice-template.html)|[Get-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINVoiceTemplate.html)|
+|[aws pinpoint list-journeys](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-journeys.html)|[Get-PINJourneyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyList.html)|
 |[aws pinpoint list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-tags-for-resource.html)|[Get-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINResourceTag.html)|
+|[aws pinpoint list-template-versions](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-template-versions.html)||
+|[aws pinpoint list-templates](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-templates.html)|[Get-PINTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINTemplateList.html)|
 |[aws pinpoint phone-number-validate](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/phone-number-validate.html)|[Confirm-PINPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-PINPhoneNumber.html)|
 |[aws pinpoint put-event-stream](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/put-event-stream.html)|[Write-PINEventStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEventStream.html)|
 |[aws pinpoint put-events](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/put-events.html)|[Write-PINEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEvent.html)|
@@ -85,10 +106,17 @@ date: 2019-08-15
 |[aws pinpoint update-baidu-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-baidu-channel.html)|[Update-PINBaiduChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINBaiduChannel.html)|
 |[aws pinpoint update-campaign](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-campaign.html)|[Update-PINCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINCampaign.html)|
 |[aws pinpoint update-email-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-email-channel.html)|[Update-PINEmailChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEmailChannel.html)|
+|[aws pinpoint update-email-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-email-template.html)|[Update-PINEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEmailTemplate.html)|
 |[aws pinpoint update-endpoint](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-endpoint.html)|[Update-PINEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEndpoint.html)|
 |[aws pinpoint update-endpoints-batch](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-endpoints-batch.html)|[Update-PINEndpointsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEndpointsBatch.html)|
 |[aws pinpoint update-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-gcm-channel.html)|[Update-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINGcmChannel.html)|
+|[aws pinpoint update-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-journey.html)|[Update-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINJourney.html)|
+|[aws pinpoint update-journey-state](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-journey-state.html)|[Update-PINJourneyState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINJourneyState.html)|
+|[aws pinpoint update-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-push-template.html)|[Update-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINPushTemplate.html)|
 |[aws pinpoint update-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-segment.html)|[Update-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINSegment.html)|
 |[aws pinpoint update-sms-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-sms-channel.html)|[Update-PINSmsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINSmsChannel.html)|
+|[aws pinpoint update-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-sms-template.html)|[Update-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINSmsTemplate.html)|
+|[aws pinpoint update-template-active-version](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-template-active-version.html)||
 |[aws pinpoint update-voice-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-voice-channel.html)|[Update-PINVoiceChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINVoiceChannel.html)|
+|[aws pinpoint update-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-voice-template.html)|[Update-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINVoiceTemplate.html)|
 

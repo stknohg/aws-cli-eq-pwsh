@@ -1,6 +1,6 @@
 ---
 title: cur
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## cur
@@ -14,5 +14,6 @@ date: 2019-08-15
 |----|----|
 |[aws cur delete-report-definition](https://docs.aws.amazon.com/cli/latest/reference/cur/delete-report-definition.html)|[Remove-CURReportDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CURReportDefinition.html)|
 |[aws cur describe-report-definitions](https://docs.aws.amazon.com/cli/latest/reference/cur/describe-report-definitions.html)|[Get-CURReportDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CURReportDefinition.html)|
+|[aws cur modify-report-definition](https://docs.aws.amazon.com/cli/latest/reference/cur/modify-report-definition.html)|[Edit-CURReportDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-CURReportDefinition.html)|
 |[aws cur put-report-definition](https://docs.aws.amazon.com/cli/latest/reference/cur/put-report-definition.html)|[Write-CURReportDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CURReportDefinition.html)|
 

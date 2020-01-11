@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## lightsail
@@ -34,6 +34,7 @@ date: 2019-08-15
 |[aws lightsail create-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database.html)|[New-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabase.html)|
 |[aws lightsail create-relational-database-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database-from-snapshot.html)|[New-LSRelationalDatabaseFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabaseFromSnapshot.html)|
 |[aws lightsail create-relational-database-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database-snapshot.html)|[New-LSRelationalDatabaseSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabaseSnapshot.html)|
+|[aws lightsail delete-auto-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-auto-snapshot.html)|[Remove-LSAutoSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSAutoSnapshot.html)|
 |[aws lightsail delete-disk](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-disk.html)|[Remove-LSDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDisk.html)|
 |[aws lightsail delete-disk-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-disk-snapshot.html)|[Remove-LSDiskSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDiskSnapshot.html)|
 |[aws lightsail delete-domain](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-domain.html)|[Remove-LSDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDomain.html)|
@@ -49,9 +50,12 @@ date: 2019-08-15
 |[aws lightsail detach-disk](https://docs.aws.amazon.com/cli/latest/reference/lightsail/detach-disk.html)|[Dismount-LSDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-LSDisk.html)|
 |[aws lightsail detach-instances-from-load-balancer](https://docs.aws.amazon.com/cli/latest/reference/lightsail/detach-instances-from-load-balancer.html)|[Dismount-LSInstancesFromLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-LSInstancesFromLoadBalancer.html)|
 |[aws lightsail detach-static-ip](https://docs.aws.amazon.com/cli/latest/reference/lightsail/detach-static-ip.html)|[Dismount-LSStaticIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-LSStaticIp.html)|
+|[aws lightsail disable-add-on](https://docs.aws.amazon.com/cli/latest/reference/lightsail/disable-add-on.html)|[Disable-LSAddOn](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-LSAddOn.html)|
 |[aws lightsail download-default-key-pair](https://docs.aws.amazon.com/cli/latest/reference/lightsail/download-default-key-pair.html)|[Read-LSDefaultKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-LSDefaultKeyPair.html)|
+|[aws lightsail enable-add-on](https://docs.aws.amazon.com/cli/latest/reference/lightsail/enable-add-on.html)|[Enable-LSAddOn](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-LSAddOn.html)|
 |[aws lightsail export-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/export-snapshot.html)|[Export-LSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-LSSnapshot.html)|
 |[aws lightsail get-active-names](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-active-names.html)|[Get-LSActiveNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSActiveNameList.html)|
+|[aws lightsail get-auto-snapshots](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-auto-snapshots.html)|[Get-LSAutoSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSAutoSnapshot.html)|
 |[aws lightsail get-blueprints](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-blueprints.html)|[Get-LSBlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSBlueprintList.html)|
 |[aws lightsail get-bundles](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-bundles.html)|[Get-LSBundleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSBundleList.html)|
 |[aws lightsail get-cloud-formation-stack-records](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-cloud-formation-stack-records.html)|[Get-LSCloudFormationStackRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCloudFormationStackRecord.html)|

@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## cognito-idp
@@ -40,10 +40,10 @@ date: 2019-08-15
 |[aws cognito-idp admin-update-user-attributes](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-update-user-attributes.html)|[Update-CGIPUserAttributeAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserAttributeAdmin.html)|
 |[aws cognito-idp admin-user-global-sign-out](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/admin-user-global-sign-out.html)|[Disconnect-CGIPUserGlobalAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-CGIPUserGlobalAdmin.html)|
 |[aws cognito-idp associate-software-token](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/associate-software-token.html)|[Add-CGIPSoftwareToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CGIPSoftwareToken.html)|
-|[aws cognito-idp change-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/change-password.html)||
+|[aws cognito-idp change-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/change-password.html)|[Update-CGIPPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPPassword.html)|
 |[aws cognito-idp confirm-device](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/confirm-device.html)|[Approve-CGIPDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-CGIPDevice.html)|
-|[aws cognito-idp confirm-forgot-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/confirm-forgot-password.html)||
-|[aws cognito-idp confirm-sign-up](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/confirm-sign-up.html)||
+|[aws cognito-idp confirm-forgot-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/confirm-forgot-password.html)|[Confirm-CGIPForgotPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-CGIPForgotPassword.html)|
+|[aws cognito-idp confirm-sign-up](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/confirm-sign-up.html)|[Confirm-CGIPUserRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-CGIPUserRegistration.html)|
 |[aws cognito-idp create-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/create-group.html)|[New-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPGroup.html)|
 |[aws cognito-idp create-identity-provider](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/create-identity-provider.html)|[New-CGIPIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPIdentityProvider.html)|
 |[aws cognito-idp create-resource-server](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/create-resource-server.html)|[New-CGIPResourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPResourceServer.html)|
@@ -54,8 +54,8 @@ date: 2019-08-15
 |[aws cognito-idp delete-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-group.html)|[Remove-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPGroup.html)|
 |[aws cognito-idp delete-identity-provider](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-identity-provider.html)|[Remove-CGIPIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPIdentityProvider.html)|
 |[aws cognito-idp delete-resource-server](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-resource-server.html)|[Remove-CGIPResourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPResourceServer.html)|
-|[aws cognito-idp delete-user](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user.html)||
-|[aws cognito-idp delete-user-attributes](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user-attributes.html)||
+|[aws cognito-idp delete-user](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user.html)|[Remove-CGIPUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUser.html)|
+|[aws cognito-idp delete-user-attributes](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user-attributes.html)|[Remove-CGIPUserAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserAttribute.html)|
 |[aws cognito-idp delete-user-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user-pool.html)|[Remove-CGIPUserPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPool.html)|
 |[aws cognito-idp delete-user-pool-client](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user-pool-client.html)|[Remove-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPoolClient.html)|
 |[aws cognito-idp delete-user-pool-domain](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/delete-user-pool-domain.html)|[Remove-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPoolDomain.html)|
@@ -67,15 +67,15 @@ date: 2019-08-15
 |[aws cognito-idp describe-user-pool-client](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/describe-user-pool-client.html)|[Get-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolClient.html)|
 |[aws cognito-idp describe-user-pool-domain](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/describe-user-pool-domain.html)|[Get-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolDomain.html)|
 |[aws cognito-idp forget-device](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/forget-device.html)|[Stop-CGIPDeviceTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CGIPDeviceTracking.html)|
-|[aws cognito-idp forgot-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/forgot-password.html)||
+|[aws cognito-idp forgot-password](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/forgot-password.html)|[Reset-CGIPForgottenPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-CGIPForgottenPassword.html)|
 |[aws cognito-idp get-csv-header](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-csv-header.html)|[Get-CGIPCSVHeader](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPCSVHeader.html)|
 |[aws cognito-idp get-device](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-device.html)|[Get-CGIPDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPDevice.html)|
 |[aws cognito-idp get-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-group.html)|[Get-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPGroup.html)|
 |[aws cognito-idp get-identity-provider-by-identifier](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-identity-provider-by-identifier.html)|[Get-CGIPIdentityProviderByIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPIdentityProviderByIdentifier.html)|
 |[aws cognito-idp get-signing-certificate](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-signing-certificate.html)|[Get-CGIPSigningCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPSigningCertificate.html)|
 |[aws cognito-idp get-ui-customization](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-ui-customization.html)|[Get-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUICustomization.html)|
-|[aws cognito-idp get-user](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-user.html)||
-|[aws cognito-idp get-user-attribute-verification-code](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-user-attribute-verification-code.html)||
+|[aws cognito-idp get-user](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-user.html)|[Get-CGIPUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUser.html)|
+|[aws cognito-idp get-user-attribute-verification-code](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-user-attribute-verification-code.html)|[Get-CGIPUserAttributeVerificationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserAttributeVerificationCode.html)|
 |[aws cognito-idp get-user-pool-mfa-config](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/get-user-pool-mfa-config.html)|[Get-CGIPUserPoolMfaConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolMfaConfig.html)|
 |[aws cognito-idp global-sign-out](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/global-sign-out.html)|[Disconnect-CGIPDeviceGlobal](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-CGIPDeviceGlobal.html)|
 |[aws cognito-idp initiate-auth](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/initiate-auth.html)|[Start-CGIPAuth](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CGIPAuth.html)|
@@ -89,14 +89,14 @@ date: 2019-08-15
 |[aws cognito-idp list-user-pools](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-user-pools.html)|[Get-CGIPUserPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolList.html)|
 |[aws cognito-idp list-users](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-users.html)|[Get-CGIPUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserList.html)|
 |[aws cognito-idp list-users-in-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-users-in-group.html)|[Get-CGIPUsersInGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUsersInGroup.html)|
-|[aws cognito-idp resend-confirmation-code](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/resend-confirmation-code.html)||
+|[aws cognito-idp resend-confirmation-code](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/resend-confirmation-code.html)|[Send-CGIPConfirmationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPConfirmationCode.html)|
 |[aws cognito-idp respond-to-auth-challenge](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/respond-to-auth-challenge.html)|[Send-CGIPAuthChallengeResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPAuthChallengeResponse.html)|
 |[aws cognito-idp set-risk-configuration](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-risk-configuration.html)|[Set-CGIPRiskConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPRiskConfiguration.html)|
 |[aws cognito-idp set-ui-customization](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-ui-customization.html)|[Set-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUICustomization.html)|
 |[aws cognito-idp set-user-mfa-preference](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-user-mfa-preference.html)|[Set-CGIPUserMFAPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserMFAPreference.html)|
 |[aws cognito-idp set-user-pool-mfa-config](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-user-pool-mfa-config.html)|[Set-CGIPUserPoolMfaConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserPoolMfaConfig.html)|
-|[aws cognito-idp set-user-settings](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-user-settings.html)||
-|[aws cognito-idp sign-up](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/sign-up.html)||
+|[aws cognito-idp set-user-settings](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-user-settings.html)|[Set-CGIPUserSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserSetting.html)|
+|[aws cognito-idp sign-up](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/sign-up.html)|[Register-CGIPUserInPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CGIPUserInPool.html)|
 |[aws cognito-idp start-user-import-job](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/start-user-import-job.html)|[Start-CGIPUserImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CGIPUserImportJob.html)|
 |[aws cognito-idp stop-user-import-job](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/stop-user-import-job.html)|[Stop-CGIPUserImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CGIPUserImportJob.html)|
 |[aws cognito-idp tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/tag-resource.html)|[Add-CGIPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CGIPResourceTag.html)|
@@ -106,10 +106,10 @@ date: 2019-08-15
 |[aws cognito-idp update-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-group.html)|[Update-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPGroup.html)|
 |[aws cognito-idp update-identity-provider](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-identity-provider.html)|[Update-CGIPIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPIdentityProvider.html)|
 |[aws cognito-idp update-resource-server](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-resource-server.html)|[Update-CGIPResourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPResourceServer.html)|
-|[aws cognito-idp update-user-attributes](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-user-attributes.html)||
+|[aws cognito-idp update-user-attributes](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-user-attributes.html)|[Update-CGIPUserAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserAttribute.html)|
 |[aws cognito-idp update-user-pool](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-user-pool.html)|[Update-CGIPUserPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPool.html)|
 |[aws cognito-idp update-user-pool-client](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-user-pool-client.html)|[Update-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPoolClient.html)|
 |[aws cognito-idp update-user-pool-domain](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/update-user-pool-domain.html)|[Update-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPoolDomain.html)|
 |[aws cognito-idp verify-software-token](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/verify-software-token.html)|[Test-CGIPSoftwareToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CGIPSoftwareToken.html)|
-|[aws cognito-idp verify-user-attribute](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/verify-user-attribute.html)||
+|[aws cognito-idp verify-user-attribute](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/verify-user-attribute.html)|[Test-CGIPUserAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CGIPUserAttribute.html)|
 

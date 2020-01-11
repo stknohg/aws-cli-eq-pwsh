@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <meta name="generator" content="Hugo 0.55.6" />
+  <meta name="generator" content="Hugo 0.58.3" />
   <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/">
 
   
@@ -66,7 +66,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2019-08-15</p>
+<p class="text-right"><strong>Last update: </strong>2020-01-11</p>
 
 
 
@@ -77,8 +77,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 <h3 id="version">Version</h3>
 
 <ul>
-<li><a href="https://aws.amazon.com/cli/">AWS CLI</a>: 1.16.218 (<a href="https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst">CHANGELOG</a>)</li>
-<li><a href="https://aws.amazon.com/powershell/">AWS Tools for PowerShell</a>: 3.3.563.1 (<a href="https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md">CHANGELOG</a>)</li>
+<li><a href="https://aws.amazon.com/cli/">AWS CLI</a>: 1.17.0 (<a href="https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst">CHANGELOG</a>)</li>
+<li><a href="https://aws.amazon.com/powershell/">AWS Tools for PowerShell</a>: 4.0.2.0 (<a href="https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md">CHANGELOG</a>)</li>
 </ul>
 
 <h3 id="contents">Contents</h3>
@@ -102,6 +102,13 @@ For that reason, some content may not be accurate.
 </thead>
 
 <tbody>
+<tr>
+<td><a href="https://aws.amazon.com/iam/">AWS IAM Access Analyzer</a></td>
+<td><a href="./accessanalyzer/">accessanalyzer</a></td>
+<td align="center">IAMAA</td>
+<td></td>
+</tr>
+
 <tr>
 <td><a href="https://aws.amazon.com/certificate-manager/">AWS Certificate Manager</a></td>
 <td><a href="./acm/">acm</a></td>
@@ -148,6 +155,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/api-gateway/">Amazon API Gateway</a></td>
 <td><a href="./apigatewayv2/">apigatewayv2</a></td>
 <td align="center">AG2</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html">AWS AppConfig</a></td>
+<td><a href="./appconfig/">appconfig</a></td>
+<td align="center">APPC</td>
 <td></td>
 </tr>
 
@@ -327,6 +341,20 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/codeguru/">Amazon CodeGuru Reviewer</a></td>
+<td><a href="./codeguru-reviewer/">codeguru-reviewer</a></td>
+<td align="center">CGR</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/codeguru/">Amazon CodeGuru Profiler</a></td>
+<td><a href="./codeguruprofiler/">codeguruprofiler</a></td>
+<td align="center">CGP</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/codepipeline/">AWS CodePipeline</a></td>
 <td><a href="./codepipeline/">codepipeline</a></td>
 <td align="center">CP</td>
@@ -337,6 +365,20 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/codestar/">AWS CodeStar</a></td>
 <td><a href="./codestar/">codestar</a></td>
 <td align="center">CST</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/codestar/">AWS CodeStar Connections </a></td>
+<td><a href="./codestar-connections/">codestar-connections</a></td>
+<td align="center"></td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/codestar/">AWS CodeStar Notifications</a></td>
+<td><a href="./codestar-notifications/">codestar-notifications</a></td>
+<td align="center">CSTN</td>
 <td></td>
 </tr>
 
@@ -376,6 +418,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/compute-optimizer/">AWS Compute Optimizer</a></td>
+<td><a href="./compute-optimizer/">compute-optimizer</a></td>
+<td align="center">CO</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/config/">AWS Config</a></td>
 <td><a href="./configservice/">configservice</a></td>
 <td align="center">CFG</td>
@@ -397,9 +446,23 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/connect/">Amazon Connect Participant Service</a></td>
+<td><a href="./connectparticipant/">connectparticipant</a></td>
+<td align="center">CONNP</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/">AWS Cost and Usage Report</a></td>
 <td><a href="./cur/">cur</a></td>
 <td align="center">CUR</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/data-exchange/">AWS Data Exchange</a></td>
+<td><a href="./dataexchange/">dataexchange</a></td>
+<td align="center">DTEX</td>
 <td></td>
 </tr>
 
@@ -428,6 +491,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/codedeploy/">AWS CodeDeploy</a></td>
 <td><a href="./deploy/">deploy</a></td>
 <td align="center">CD</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/detective/">Amazon Detective</a></td>
+<td><a href="./detective/">detective</a></td>
+<td align="center"></td>
 <td></td>
 </tr>
 
@@ -495,6 +565,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/ebs/">Amazon Elastic Block Store</a></td>
+<td><a href="./ebs/">ebs</a></td>
+<td align="center">EBS</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/ec2/">Amazon EC2</a></td>
 <td><a href="./ec2/">ec2</a></td>
 <td align="center">EC2</td>
@@ -533,6 +610,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/eks/">Amazon Elastic Container Service for Kubernetes</a></td>
 <td><a href="./eks/">eks</a></td>
 <td align="center">EKS</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/machine-learning/elastic-inference/">Amazon Elastic Inference</a></td>
+<td><a href="./elastic-inference/">elastic-inference</a></td>
+<td align="center">EI</td>
 <td></td>
 </tr>
 
@@ -603,6 +687,27 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/waf/">AWS Firewall Manager</a></td>
 <td><a href="./fms/">fms</a></td>
 <td align="center">FMS</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/forecast/">Amazon Forecast</a></td>
+<td><a href="./forecast/">forecast</a></td>
+<td align="center">FRC</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/forecast/">Amazon Forecast Query Service</a></td>
+<td><a href="./forecastquery/">forecastquery</a></td>
+<td align="center">FRCQ</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/fraud-detector/">Amazon Fraud Detector</a></td>
+<td><a href="./frauddetector/">frauddetector</a></td>
+<td align="center">FD</td>
 <td></td>
 </tr>
 
@@ -684,6 +789,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/image-builder/">EC2 Image Builder</a></td>
+<td><a href="./imagebuilder/">imagebuilder</a></td>
+<td align="center">EC2IB</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/snowball/">AWS Import/Export</a></td>
 <td><a href="./importexport/">importexport</a></td>
 <td align="center">IE</td>
@@ -754,6 +866,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html">AWS IoT Secure Tunneling</a></td>
+<td><a href="./iotsecuretunneling/">iotsecuretunneling</a></td>
+<td align="center">IOTST</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/iot-things-graph/">AWS IoT Things Graph</a></td>
 <td><a href="./iotthingsgraph/">iotthingsgraph</a></td>
 <td align="center">IOTTG</td>
@@ -764,6 +883,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/msk/">Amazon Managed Streaming for Kafka</a></td>
 <td><a href="./kafka/">kafka</a></td>
 <td align="center">MSK</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/kendra//">Amazon Kendra</a></td>
+<td><a href="./kendra/">kendra</a></td>
+<td align="center">KNDR</td>
 <td></td>
 </tr>
 
@@ -785,6 +911,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/kinesis/">Amazon Kinesis Video Streams Media</a></td>
 <td><a href="./kinesis-video-media/">kinesis-video-media</a></td>
 <td align="center">KVM</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/kinesis/">Amazon Kinesis Video Signaling Channels</a></td>
+<td><a href="./kinesis-video-signaling/">kinesis-video-signaling</a></td>
+<td align="center">KVSC</td>
 <td></td>
 </tr>
 
@@ -887,6 +1020,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/marketplace/">AWS Marketplace Catalog Service</a></td>
+<td><a href="./marketplace-catalog/">marketplace-catalog</a></td>
+<td align="center">MCAT</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/marketplace/">AWS Marketplace Entitlement Service</a></td>
 <td><a href="./marketplace-entitlement/">marketplace-entitlement</a></td>
 <td align="center">MES</td>
@@ -971,6 +1111,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/migration-hub/">AWS Migration Hub Config</a></td>
+<td><a href="./migrationhub-config/">migrationhub-config</a></td>
+<td align="center">MHC</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/amplify/">AWS Mobile</a></td>
 <td><a href="./mobile/">mobile</a></td>
 <td align="center">MOBL</td>
@@ -999,6 +1146,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/transit-gateway/network-manager/">AWS Transit Gateway network manager</a></td>
+<td><a href="./networkmanager/">networkmanager</a></td>
+<td align="center">NMGR</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/opsworks/">AWS OpsWorks</a></td>
 <td><a href="./opsworks/">opsworks</a></td>
 <td align="center">OPS</td>
@@ -1016,6 +1170,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/organizations/">AWS Organizations</a></td>
 <td><a href="./organizations/">organizations</a></td>
 <td align="center">ORG</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/outposts/">AWS Outposts</a></td>
+<td><a href="./outposts/">outposts</a></td>
+<td align="center">OUTP</td>
 <td></td>
 </tr>
 
@@ -1079,6 +1240,20 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/pricing/">AWS Price List Service</a></td>
 <td><a href="./pricing/">pricing</a></td>
 <td align="center">PLS</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/qldb/">Amazon Quantum Ledger Database (QLDB)</a></td>
+<td><a href="./qldb/">qldb</a></td>
+<td align="center">QLDB</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/qldb/">Amazon QLDB Session</a></td>
+<td><a href="./qldb-session/">qldb-session</a></td>
+<td align="center">QLDBS</td>
 <td></td>
 </tr>
 
@@ -1195,9 +1370,30 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/augmented-ai/">Amazon Augmented AI</a></td>
+<td><a href="./sagemaker-a2i-runtime/">sagemaker-a2i-runtime</a></td>
+<td align="center">A2IR</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/sagemaker/">Amazon SageMaker</a></td>
 <td><a href="./sagemaker-runtime/">sagemaker-runtime</a></td>
 <td align="center">SMR</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/savingsplans/">AWS Savings Plans</a></td>
+<td><a href="./savingsplans/">savingsplans</a></td>
+<td align="center">SP</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/eventbridge/">AWS EventBridge Schemas</a></td>
+<td><a href="./schemas/">schemas</a></td>
+<td align="center"></td>
 <td></td>
 </tr>
 
@@ -1258,6 +1454,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/ses/">Amazon Simple Email Service V2</a></td>
+<td><a href="./sesv2/">sesv2</a></td>
+<td align="center">SES2</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/shield/">AWS Shield</a></td>
 <td><a href="./shield/">shield</a></td>
 <td align="center">SHLD</td>
@@ -1303,6 +1506,20 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/systems-manager/">AWS Systems Manager</a></td>
 <td><a href="./ssm/">ssm</a></td>
 <td align="center">SSM</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/single-sign-on/">AWS Single Sign-On</a></td>
+<td><a href="./sso/">sso</a></td>
+<td align="center">SSO</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/single-sign-on/">AWS Single Sign-On OIDC</a></td>
+<td><a href="./sso-oidc/">sso-oidc</a></td>
+<td align="center">SSOOIDC</td>
 <td></td>
 </tr>
 
@@ -1384,6 +1601,13 @@ For that reason, some content may not be accurate.
 </tr>
 
 <tr>
+<td><a href="https://aws.amazon.com/waf/">AWS WAF V2 </a></td>
+<td><a href="./wafv2/">wafv2</a></td>
+<td align="center">WAF2</td>
+<td></td>
+</tr>
+
+<tr>
 <td><a href="https://aws.amazon.com/workdocs/">Amazon WorkDocs</a></td>
 <td><a href="./workdocs/">workdocs</a></td>
 <td align="center">WD</td>
@@ -1401,6 +1625,13 @@ For that reason, some content may not be accurate.
 <td><a href="https://aws.amazon.com/workmail/">Amazon WorkMail</a></td>
 <td><a href="./workmail/">workmail</a></td>
 <td align="center">WM</td>
+<td></td>
+</tr>
+
+<tr>
+<td><a href="https://aws.amazon.com/workmail/">Amazon WorkMail Message Flow</a></td>
+<td><a href="./workmailmessageflow/">workmailmessageflow</a></td>
+<td align="center">WMMF</td>
 <td></td>
 </tr>
 

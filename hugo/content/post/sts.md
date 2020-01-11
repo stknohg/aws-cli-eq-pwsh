@@ -1,6 +1,6 @@
 ---
 title: sts
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## sts
@@ -13,8 +13,8 @@ date: 2019-08-15
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws sts assume-role](https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role.html)|[Use-STSRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Use-STSRole.html)|
-|[aws sts assume-role-with-saml](https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role-with-saml.html)||
-|[aws sts assume-role-with-web-identity](https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role-with-web-identity.html)||
+|[aws sts assume-role-with-saml](https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role-with-saml.html)|[Use-STSRoleWithSAML](https://docs.aws.amazon.com/powershell/latest/reference/items/Use-STSRoleWithSAML.html)|
+|[aws sts assume-role-with-web-identity](https://docs.aws.amazon.com/cli/latest/reference/sts/assume-role-with-web-identity.html)|[Use-STSWebIdentityRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Use-STSWebIdentityRole.html)|
 |[aws sts decode-authorization-message](https://docs.aws.amazon.com/cli/latest/reference/sts/decode-authorization-message.html)|[Convert-STSAuthorizationMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-STSAuthorizationMessage.html)|
 |[aws sts get-access-key-info](https://docs.aws.amazon.com/cli/latest/reference/sts/get-access-key-info.html)|[Get-STSAccessKeyInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSAccessKeyInfo.html)|
 |[aws sts get-caller-identity](https://docs.aws.amazon.com/cli/latest/reference/sts/get-caller-identity.html)|[Get-STSCallerIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSCallerIdentity.html)|

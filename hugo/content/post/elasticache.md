@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## elasticache
@@ -16,6 +16,7 @@ date: 2019-08-15
 |[aws elasticache authorize-cache-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/elasticache/authorize-cache-security-group-ingress.html)|[Approve-ECCacheSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-ECCacheSecurityGroupIngress.html)|
 |[aws elasticache batch-apply-update-action](https://docs.aws.amazon.com/cli/latest/reference/elasticache/batch-apply-update-action.html)|[Start-ECUpdateActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECUpdateActionBatch.html)|
 |[aws elasticache batch-stop-update-action](https://docs.aws.amazon.com/cli/latest/reference/elasticache/batch-stop-update-action.html)|[Stop-ECUpdateActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ECUpdateActionBatch.html)|
+|[aws elasticache complete-migration](https://docs.aws.amazon.com/cli/latest/reference/elasticache/complete-migration.html)|[Complete-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-ECMigration.html)|
 |[aws elasticache copy-snapshot](https://docs.aws.amazon.com/cli/latest/reference/elasticache/copy-snapshot.html)|[Copy-ECSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-ECSnapshot.html)|
 |[aws elasticache create-cache-cluster](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-cache-cluster.html)|[New-ECCacheCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECCacheCluster.html)|
 |[aws elasticache create-cache-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-cache-parameter-group.html)|[New-ECCacheParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECCacheParameterGroup.html)|
@@ -57,5 +58,6 @@ date: 2019-08-15
 |[aws elasticache remove-tags-from-resource](https://docs.aws.amazon.com/cli/latest/reference/elasticache/remove-tags-from-resource.html)|[Remove-ECTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECTag.html)|
 |[aws elasticache reset-cache-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/reset-cache-parameter-group.html)|[Reset-ECCacheParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-ECCacheParameterGroup.html)|
 |[aws elasticache revoke-cache-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/elasticache/revoke-cache-security-group-ingress.html)|[Revoke-ECCacheSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-ECCacheSecurityGroupIngress.html)|
+|[aws elasticache start-migration](https://docs.aws.amazon.com/cli/latest/reference/elasticache/start-migration.html)|[Start-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECMigration.html)|
 |[aws elasticache test-failover](https://docs.aws.amazon.com/cli/latest/reference/elasticache/test-failover.html)|[Test-ECFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECFailover.html)|
 

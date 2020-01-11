@@ -1,6 +1,6 @@
 ---
 title: pinpoint-sms-voice
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## pinpoint-sms-voice
@@ -8,7 +8,7 @@ date: 2019-08-15
 ### [Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/pinpoint-sms-voice/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

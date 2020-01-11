@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## guardduty
@@ -18,6 +18,7 @@ date: 2019-08-15
 |[aws guardduty create-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-filter.html)|[New-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDFilter.html)|
 |[aws guardduty create-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-ip-set.html)|[New-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDIPSet.html)|
 |[aws guardduty create-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-members.html)|[New-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDMember.html)|
+|[aws guardduty create-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-publishing-destination.html)|[New-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDPublishingDestination.html)|
 |[aws guardduty create-sample-findings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-sample-findings.html)|[New-GDSampleFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDSampleFinding.html)|
 |[aws guardduty create-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-threat-intel-set.html)|[New-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDThreatIntelSet.html)|
 |[aws guardduty decline-invitations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/decline-invitations.html)|[Deny-GDInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-GDInvitation.html)|
@@ -26,7 +27,9 @@ date: 2019-08-15
 |[aws guardduty delete-invitations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-invitations.html)|[Remove-GDInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDInvitation.html)|
 |[aws guardduty delete-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-ip-set.html)|[Remove-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDIPSet.html)|
 |[aws guardduty delete-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-members.html)|[Remove-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDMember.html)|
+|[aws guardduty delete-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-publishing-destination.html)|[Remove-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDPublishingDestination.html)|
 |[aws guardduty delete-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-threat-intel-set.html)|[Remove-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDThreatIntelSet.html)|
+|[aws guardduty describe-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-publishing-destination.html)|[Get-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestination.html)|
 |[aws guardduty disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-from-master-account.html)|[Unregister-GDFromMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDFromMasterAccount.html)|
 |[aws guardduty disassociate-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-members.html)|[Unregister-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDMember.html)|
 |[aws guardduty get-detector](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-detector.html)|[Get-GDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetector.html)|
@@ -45,6 +48,7 @@ date: 2019-08-15
 |[aws guardduty list-invitations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-invitations.html)|[Get-GDInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html)|
 |[aws guardduty list-ip-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-ip-sets.html)|[Get-GDIPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html)|
 |[aws guardduty list-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-members.html)|[Get-GDMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberList.html)|
+|[aws guardduty list-publishing-destinations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-publishing-destinations.html)|[Get-GDPublishingDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestinationList.html)|
 |[aws guardduty list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-tags-for-resource.html)|[Get-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDResourceTag.html)|
 |[aws guardduty list-threat-intel-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-threat-intel-sets.html)|[Get-GDThreatIntelSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSetList.html)|
 |[aws guardduty start-monitoring-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/start-monitoring-members.html)|[Start-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMonitoringMember.html)|
@@ -56,5 +60,6 @@ date: 2019-08-15
 |[aws guardduty update-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-filter.html)|[Update-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFilter.html)|
 |[aws guardduty update-findings-feedback](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-findings-feedback.html)|[Update-GDFindingFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFindingFeedback.html)|
 |[aws guardduty update-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-ip-set.html)|[Update-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDIPSet.html)|
+|[aws guardduty update-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-publishing-destination.html)|[Update-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDPublishingDestination.html)|
 |[aws guardduty update-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-threat-intel-set.html)|[Update-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDThreatIntelSet.html)|
 

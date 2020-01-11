@@ -1,6 +1,6 @@
 ---
 title: docdb
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## docdb
@@ -26,6 +26,7 @@ date: 2019-08-15
 |[aws docdb delete-db-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-cluster-snapshot.html)|[Remove-DOCDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBClusterSnapshot.html)|
 |[aws docdb delete-db-instance](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-instance.html)|[Remove-DOCDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBInstance.html)|
 |[aws docdb delete-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-subnet-group.html)|[Remove-DOCDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBSubnetGroup.html)|
+|[aws docdb describe-certificates](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-certificates.html)|[Get-DOCCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCCertificate.html)|
 |[aws docdb describe-db-cluster-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-db-cluster-parameter-groups.html)|[Get-DOCDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCDBClusterParameterGroup.html)|
 |[aws docdb describe-db-cluster-parameters](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-db-cluster-parameters.html)|[Get-DOCDBClusterParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCDBClusterParameter.html)|
 |[aws docdb describe-db-cluster-snapshot-attributes](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-db-cluster-snapshot-attributes.html)|[Get-DOCDBClusterSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCDBClusterSnapshotAttribute.html)|

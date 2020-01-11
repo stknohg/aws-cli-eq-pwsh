@@ -1,6 +1,6 @@
 ---
 title: snowball
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## snowball
@@ -24,6 +24,7 @@ date: 2019-08-15
 |[aws snowball get-job-manifest](https://docs.aws.amazon.com/cli/latest/reference/snowball/get-job-manifest.html)|[Get-SNOWJobManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWJobManifest.html)|
 |[aws snowball get-job-unlock-code](https://docs.aws.amazon.com/cli/latest/reference/snowball/get-job-unlock-code.html)|[Get-SNOWJobUnlockCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWJobUnlockCode.html)|
 |[aws snowball get-snowball-usage](https://docs.aws.amazon.com/cli/latest/reference/snowball/get-snowball-usage.html)|[Get-SNOWSnowballUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWSnowballUsage.html)|
+|[aws snowball get-software-updates](https://docs.aws.amazon.com/cli/latest/reference/snowball/get-software-updates.html)|[Get-SNOWSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWSoftwareUpdate.html)|
 |[aws snowball list-cluster-jobs](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-cluster-jobs.html)|[Get-SNOWClusterJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWClusterJobList.html)|
 |[aws snowball list-clusters](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-clusters.html)|[Get-SNOWClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWClusterList.html)|
 |[aws snowball list-compatible-images](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-compatible-images.html)|[Get-SNOWCompatibleImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWCompatibleImageList.html)|

@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## storagegateway
@@ -37,6 +37,7 @@ date: 2019-08-15
 |[aws storagegateway delete-tape](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-tape.html)|[Remove-SGTape](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGTape.html)|
 |[aws storagegateway delete-tape-archive](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-tape-archive.html)|[Remove-SGTapeArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGTapeArchive.html)|
 |[aws storagegateway delete-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-volume.html)|[Remove-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGVolume.html)|
+|[aws storagegateway describe-availability-monitor-test](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-availability-monitor-test.html)|[Get-SGAvailabilityMonitorTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGAvailabilityMonitorTest.html)|
 |[aws storagegateway describe-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-bandwidth-rate-limit.html)|[Get-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGBandwidthRateLimit.html)|
 |[aws storagegateway describe-cache](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-cache.html)|[Get-SGCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCache.html)|
 |[aws storagegateway describe-cached-iscsi-volumes](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-cached-iscsi-volumes.html)|[Get-SGCachediSCSIVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCachediSCSIVolume.html)|
@@ -74,6 +75,7 @@ date: 2019-08-15
 |[aws storagegateway set-local-console-password](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/set-local-console-password.html)|[Set-SGLocalConsolePassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SGLocalConsolePassword.html)|
 |[aws storagegateway set-smb-guest-password](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/set-smb-guest-password.html)|[Set-SGSMBGuestPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SGSMBGuestPassword.html)|
 |[aws storagegateway shutdown-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/shutdown-gateway.html)|[Stop-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SGGateway.html)|
+|[aws storagegateway start-availability-monitor-test](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/start-availability-monitor-test.html)|[Start-SGAvailabilityMonitorTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SGAvailabilityMonitorTest.html)|
 |[aws storagegateway start-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/start-gateway.html)|[Start-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SGGateway.html)|
 |[aws storagegateway update-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-bandwidth-rate-limit.html)|[Update-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGBandwidthRateLimit.html)|
 |[aws storagegateway update-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-chap-credentials.html)|[Update-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGChapCredential.html)|

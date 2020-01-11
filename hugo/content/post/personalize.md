@@ -1,6 +1,6 @@
 ---
 title: personalize
-date: 2019-08-15
+date: 2020-01-11
 ---
 
 ## personalize
@@ -12,6 +12,7 @@ date: 2019-08-15
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws personalize create-batch-inference-job](https://docs.aws.amazon.com/cli/latest/reference/personalize/create-batch-inference-job.html)|[New-PERSBatchInferenceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSBatchInferenceJob.html)|
 |[aws personalize create-campaign](https://docs.aws.amazon.com/cli/latest/reference/personalize/create-campaign.html)|[New-PERSCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSCampaign.html)|
 |[aws personalize create-dataset](https://docs.aws.amazon.com/cli/latest/reference/personalize/create-dataset.html)|[New-PERSDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSDataset.html)|
 |[aws personalize create-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/personalize/create-dataset-group.html)|[New-PERSDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSDatasetGroup.html)|
@@ -27,6 +28,7 @@ date: 2019-08-15
 |[aws personalize delete-schema](https://docs.aws.amazon.com/cli/latest/reference/personalize/delete-schema.html)|[Remove-PERSSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PERSSchema.html)|
 |[aws personalize delete-solution](https://docs.aws.amazon.com/cli/latest/reference/personalize/delete-solution.html)|[Remove-PERSSolution](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PERSSolution.html)|
 |[aws personalize describe-algorithm](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-algorithm.html)|[Get-PERSAlgorithm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSAlgorithm.html)|
+|[aws personalize describe-batch-inference-job](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-batch-inference-job.html)|[Get-PERSBatchInferenceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSBatchInferenceJob.html)|
 |[aws personalize describe-campaign](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-campaign.html)|[Get-PERSCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSCampaign.html)|
 |[aws personalize describe-dataset](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-dataset.html)|[Get-PERSDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDataset.html)|
 |[aws personalize describe-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-dataset-group.html)|[Get-PERSDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetGroup.html)|
@@ -38,6 +40,7 @@ date: 2019-08-15
 |[aws personalize describe-solution](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-solution.html)|[Get-PERSSolution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSSolution.html)|
 |[aws personalize describe-solution-version](https://docs.aws.amazon.com/cli/latest/reference/personalize/describe-solution-version.html)|[Get-PERSSolutionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSSolutionVersion.html)|
 |[aws personalize get-solution-metrics](https://docs.aws.amazon.com/cli/latest/reference/personalize/get-solution-metrics.html)|[Get-PERSSolutionMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSSolutionMetric.html)|
+|[aws personalize list-batch-inference-jobs](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-batch-inference-jobs.html)|[Get-PERSBatchInferenceJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSBatchInferenceJobList.html)|
 |[aws personalize list-campaigns](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-campaigns.html)|[Get-PERSCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSCampaignList.html)|
 |[aws personalize list-dataset-groups](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-dataset-groups.html)|[Get-PERSDatasetGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetGroupList.html)|
 |[aws personalize list-dataset-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-dataset-import-jobs.html)|[Get-PERSDatasetImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetImportJobList.html)|

@@ -14,11 +14,14 @@ $g_SubCommandAlias = @{
     'cloudhsmv2'                   = 'hsm2';
     'cloudsearch'                  = 'cs';
     'cloudwatch'                   = 'cw';
+    'codeguru-reviewer'            = 'cgr';
+    'codestar-notifications'       = 'cstn';
     'cognito-identity'             = 'cgi';
     'cognito-idp'                  = 'cgip';
     'cognito-sync'                 = 'cgis';
     'comprehend'                   = 'comp';
     'comprehendmedical'            = 'cmpm';
+    'compute-optimizer'            = 'co';
     'configservice'                = 'cfg';
     'connect'                      = 'conn';
     'datapipeline'                 = 'dp';
@@ -27,6 +30,7 @@ $g_SubCommandAlias = @{
     'docdb'                        = 'doc';
     'dynamodb'                     = 'ddb';
     'dynamodbstreams'              = 'ddb';
+    'elastic-inference'            = 'ei';
     'elasticbeanstalk'             = 'eb';
     'elastictranscoder'            = 'ets';
     'elbv2'                        = 'elb2';
@@ -40,6 +44,7 @@ $g_SubCommandAlias = @{
     'iotthingsgraph'               = 'iottg';
     'kinesis'                      = 'kin';
     'kinesis-video-media'          = 'kvm';
+    'kinesis-video-signaling'      = 'kvsc';
     'kinesisanalytics'             = 'kina';
     'kinesisanalyticsv2'           = 'kina2';
     'kinesisvideo'                 = 'kv';
@@ -47,6 +52,7 @@ $g_SubCommandAlias = @{
     'lex-runtime'                  = 'lex';
     'license-manager'              = 'licm';
     'machinelearning'              = 'ml';
+    'marketplace-catalog'          = 'mcat';
     'marketplace-entitlement'      = 'mes';
     'marketplacecommerceanalytics' = 'mca';
     'managedblockchain'            = 'mbc';
@@ -56,6 +62,7 @@ $g_SubCommandAlias = @{
     'mediapackage-vod'             = 'empv';
     'meteringmarketplace'          = 'mm';
     'mgh'                          = 'mh';
+    'migrationhub-config'          = 'mhc';
     'opsworks'                     = 'ops';
     'opsworks-cm'                  = 'owcm';
     'personalize'                  = 'pers';
@@ -65,6 +72,7 @@ $g_SubCommandAlias = @{
     'pinpoint-email'               = 'pine';
     'pinpoint-sms-voice'           = 'pine'
     'pricing'                      = 'pls';
+    'qldb-session'                 = 'qldbs';
     'rds-data'                     = 'rdsd';
     'resource-groups'              = 'rg';
     'resourcegroupstaggingapi'     = 'rgt';
@@ -73,6 +81,7 @@ $g_SubCommandAlias = @{
     'route53resolver'              = 'r53r';
     's3control'                    = 's3c';
     'sagemaker'                    = 'sm';
+    'sagemaker-a2i-runtime'        = 'a2ir';
     'sagemaker-runtime'            = 'smr';
     'secretsmanager'               = 'sec';
     'securityhub'                  = 'shub';
@@ -80,6 +89,8 @@ $g_SubCommandAlias = @{
     'service-quotas'               = 'sq';
     'servicecatalog'               = 'sc';
     'servicediscovery'             = 'sd';
+    'sesv2'                        = 'ses2';
+    'sso-oidc'                     = 'ssooidc';
     'stepfunctions'                = 'sfn';
     'storagegateway'               = 'sg';
     'waf-regional'                 = 'wafr';
@@ -208,7 +219,7 @@ $g_AWSServices = @{
     'kinesisanalyticsv2'           = [PSCustomObject]@{ Prefix = 'KINA2'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesisvideo'                 = [PSCustomObject]@{ Prefix = 'KV'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kms'                          = [PSCustomObject]@{ Prefix = 'KMS'; Name = 'AWS Key Management Service'; Url = 'https://aws.amazon.com/kms/'; Note = '' };
-    'lakeformation'                = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Lake Formation'; Url = 'https://aws.amazon.com/lake-formation/'; Note = '' };
+    'lakeformation'                = [PSCustomObject]@{ Prefix = 'LKF'; Name = 'AWS Lake Formation'; Url = 'https://aws.amazon.com/lake-formation/'; Note = '' };
     'lambda'                       = [PSCustomObject]@{ Prefix = 'LM'; Name = 'AWS Lambda'; Url = 'https://aws.amazon.com/lambda/'; Note = '' };
     'lex-models'                   = [PSCustomObject]@{ Prefix = 'LMB'; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
     'lex-runtime'                  = [PSCustomObject]@{ Prefix = 'LEX'; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };

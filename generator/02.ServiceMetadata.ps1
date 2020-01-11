@@ -236,7 +236,7 @@ $g_AWSServices = @{
     'mq'                           = [PSCustomObject]@{ Prefix = 'MQ'; Name = 'Amazon MQ'; Url = 'https://aws.amazon.com/amazon-mq/'; Note = '' };
     'mturk'                        = [PSCustomObject]@{ Prefix = 'MTR'; Name = 'Amazon Mechanical Turk'; Url = 'https://www.mturk.com/'; Note = '' };
     'neptune'                      = [PSCustomObject]@{ Prefix = 'NPT'; Name = 'Amazon Neptune'; Url = 'https://aws.amazon.com/neptune/'; Note = '' };
-    'networkmanager'               = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = ''
+    'networkmanager'               = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = '' }
     'opsworks'                     = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                  = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
@@ -305,7 +305,7 @@ $g_AWSServices = @{
     'workdocs'                     = [PSCustomObject]@{ Prefix = 'WD'; Name = 'Amazon WorkDocs'; Url = 'https://aws.amazon.com/workdocs/'; Note = '' };
     'worklink'                     = [PSCustomObject]@{ Prefix = 'WL'; Name = 'Amazon WorkLink'; Url = 'https://aws.amazon.com/worklink/'; Note = '' };
     'workmail'                     = [PSCustomObject]@{ Prefix = 'WM'; Name = 'Amazon WorkMail'; Url = 'https://aws.amazon.com/workmail/'; Note = '' };
-    'workmailmessageflow'          = [PSCustomObject]@{ Prefix = 'WMMF'; Name = Amazon WorkMail Message Flow; Url = 'https://aws.amazon.com/workmail/'; Note = '' 
+    'workmailmessageflow'          = [PSCustomObject]@{ Prefix = 'WMMF'; Name = 'Amazon WorkMail Message Flow'; Url = 'https://aws.amazon.com/workmail/'; Note = '' };
     'workspaces'                   = [PSCustomObject]@{ Prefix = 'WKS'; Name = 'Amazon WorkSpaces'; Url = 'https://aws.amazon.com/workspaces/'; Note = '' };
     'xray'                         = [PSCustomObject]@{ Prefix = 'XR'; Name = 'AWS X-Ray'; Url = 'https://aws.amazon.com/xray/'; Note = '' };
 }
@@ -349,7 +349,7 @@ $g_CmdletReferenceLinks = @{
     'codeguruprofiler'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruProfiler_cmdlets.html'
     'codepipeline'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodePipeline_cmdlets.html';
     'codestar'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeStar_cmdlets.html';
-    'codestar-connections'         = ''
+    'codestar-connections'         = '';
     'codestar-notifications'       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarNotifications_cmdlets.html'
     'cognito-identity'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Cognito_Identity_cmdlets.html';
     'cognito-idp'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Cognito_Identity_Provider_cmdlets.html';
@@ -367,7 +367,7 @@ $g_CmdletReferenceLinks = @{
     'datasync'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_DataSync_cmdlets.html';
     'dax'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_Accelerator_(DAX)_cmdlets.html';
     'deploy'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeDeploy_cmdlets.html';
-    'detective'                    = ''
+    'detective'                    = '';
     'devicefarm'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Device_Farm_cmdlets.html';
     'directconnect'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Direct_Connect_cmdlets.html';
     'discovery'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Discovery_Service_cmdlets.html';
@@ -493,8 +493,8 @@ $g_CmdletReferenceLinks = @{
     'sagemaker'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Service_cmdlets.html';
     'sagemaker-a2i-runtime'        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AugmentedAIRuntime_cmdlets.html';
     'sagemaker-runtime'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html';
-    'savingsplans'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html'
-    'schemas'                      = ''
+    'savingsplans'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html';
+    'schemas'                      = '';
     'sdb'                          = '';
     'secretsmanager'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Secrets_Manager_cmdlets.html';
     'securityhub'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Hub_cmdlets.html';

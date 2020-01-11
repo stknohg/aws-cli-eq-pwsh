@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2020-01-11
+date: 2020-01-12
 ---
 
 ## kinesisanalyticsv2

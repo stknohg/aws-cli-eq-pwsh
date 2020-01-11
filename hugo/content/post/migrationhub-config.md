@@ -1,6 +1,6 @@
 ---
 title: migrationhub-config
-date: 2020-01-11
+date: 2020-01-12
 ---
 
 ## migrationhub-config
@@ -12,7 +12,7 @@ date: 2020-01-11
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws migrationhub-config create-home-region-control](https://docs.aws.amazon.com/cli/latest/reference/migrationhub-config/create-home-region-control.html)||
-|[aws migrationhub-config describe-home-region-controls](https://docs.aws.amazon.com/cli/latest/reference/migrationhub-config/describe-home-region-controls.html)||
-|[aws migrationhub-config get-home-region](https://docs.aws.amazon.com/cli/latest/reference/migrationhub-config/get-home-region.html)||
+|[aws migrationhub-config create-home-region-control](https://docs.aws.amazon.com/cli/latest/reference/migrationhub-config/create-home-region-control.html)|[New-MHCHomeRegionControl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MHCHomeRegionControl.html)|
+|[aws migrationhub-config describe-home-region-controls](https://docs.aws.amazon.com/cli/latest/reference/migrationhub-config/describe-home-region-controls.html)|[Get-MHCHomeRegionControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHCHomeRegionControl.html)|
+|[aws migrationhub-config get-home-region](https://docs.aws.amazon.com/cli/latest/reference/migrationhub-config/get-home-region.html)|[Get-MHCHomeRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHCHomeRegion.html)|
 

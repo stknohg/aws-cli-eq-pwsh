@@ -1,6 +1,6 @@
 ---
 title: qldb-session
-date: 2020-01-11
+date: 2020-01-12
 ---
 
 ## qldb-session
@@ -12,5 +12,5 @@ date: 2020-01-11
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws qldb-session send-command](https://docs.aws.amazon.com/cli/latest/reference/qldb-session/send-command.html)||
+|[aws qldb-session send-command](https://docs.aws.amazon.com/cli/latest/reference/qldb-session/send-command.html)|[Send-QLDBSCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-QLDBSCommand.html)|
 

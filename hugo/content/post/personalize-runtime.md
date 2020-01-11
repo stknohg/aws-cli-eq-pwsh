@@ -1,6 +1,6 @@
 ---
 title: personalize-runtime
-date: 2020-01-11
+date: 2020-01-12
 ---
 
 ## personalize-runtime

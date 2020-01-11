@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2020-01-11
+date: 2020-01-12
 ---
 
 <br/>
@@ -143,7 +143,7 @@ For that reason, some content may not be accurate.
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalyticsv2]({{%relref "post/kinesisanalyticsv2.md" %}})|KINA2||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisvideo]({{%relref "post/kinesisvideo.md" %}})|KV||
 |[AWS Key Management Service](https://aws.amazon.com/kms/)|[kms]({{%relref "post/kms.md" %}})|KMS||
-|[AWS Lake Formation](https://aws.amazon.com/lake-formation/)|[lakeformation]({{%relref "post/lakeformation.md" %}})|||
+|[AWS Lake Formation](https://aws.amazon.com/lake-formation/)|[lakeformation]({{%relref "post/lakeformation.md" %}})|LKF||
 |[AWS Lambda](https://aws.amazon.com/lambda/)|[lambda]({{%relref "post/lambda.md" %}})|LM||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-models]({{%relref "post/lex-models.md" %}})|LMB||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||

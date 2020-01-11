@@ -1,6 +1,6 @@
 ---
 title: kinesisvideo
-date: 2020-01-11
+date: 2020-01-12
 ---
 
 ## kinesisvideo

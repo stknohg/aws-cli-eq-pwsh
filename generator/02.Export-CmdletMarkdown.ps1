@@ -149,14 +149,21 @@ function Get-CLISubCommands {
             # Some CLI subcommand dosen't return PowerShell Cmdlet information directly.
             # So, we must to use Cmdlet prefix instead of subcommand name.($g_SubCommandAlias)
             $awsCLI = $_
-            $searchCLI = $_
+            # split aws commandline tokens
+            $cliTokens = -split $_
+            if ($cliTokens.Count -ne 3) {
+                Write-Error "Failed to parse AWS CLI command line. ($_)"
+            }
+            $searchService = $cliTokens[1] -replace "-", ""
+            $searchOperation = $cliTokens[2] -replace "-", ""
             if ($null -ne $g_SubCommandAlias[$ServiceName]) {
-                $searchCLI = $_ -replace "aws $ServiceName", "aws $($g_SubCommandAlias[$ServiceName])"
+                $searchService = $g_SubCommandAlias[$ServiceName]
             }
             # Get-AWSCmdletName は1つの AwsCliCommand から複数の Cmdlet を返す場合がある
-            $awsCLISubcommandName = ($awsCLI -replace "aws $ServiceName", "").Trim()
+            $awsCLISubcommandName = $cliTokens[2]
             $awsCLIUrl = "https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/$awsCLISubcommandName.html"
-            $cmdletNames = Get-AWSCmdletName -AwsCliCommand $searchCLI
+            # Fix #2 : Since AWS Tools for PowerShell 4, Get-AWSCmdletName -AwsCliCommand is obsolete.
+            $cmdletNames = Get-AWSCmdletName -Service $searchService -ApiOperation $searchOperation
             if($null -eq $cmdletNames) {
                 $o = [PSCustomObject]@{
                     CLI              = $awsCLI

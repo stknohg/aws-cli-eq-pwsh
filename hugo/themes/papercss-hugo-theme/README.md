@@ -25,7 +25,7 @@ https://papercss-hugo-theme.netlify.com/
 
 ## Minimum Hugo version
 
-Hugo version `0.54.0` or higher is required. View the [Hugo releases](https://github.com/gohugoio/hugo/releases) and download the binary for your OS.
+Hugo version `0.60.1` or higher is required. View the [Hugo releases](https://github.com/gohugoio/hugo/releases) and download the binary for your OS.
 
 ## Installation
 
@@ -53,7 +53,7 @@ hugo server --themesDir ../..
 
 ## Configuration
 
-Copy the `config.toml` or `config.yaml` from the [`exampleSite`](https://github.com/zwbetz-gh/papercss-hugo-theme/tree/master/exampleSite), then edit as desired. 
+Copy `config.yaml` from the [`exampleSite`](https://github.com/zwbetz-gh/papercss-hugo-theme/tree/master/exampleSite), then edit as desired. 
 
 ## Favicons
 
@@ -76,12 +76,12 @@ toc: false
 
 ## Disable summary for a blog post
 
-The homepage blog post listing shows a summary for each post. To disable this for an individual post set `summary` to `false`. For example:
+The homepage blog post listing shows a summary for each post. To disable this for an individual post set `show_summary` to `false`. For example:
 
 ```
 ---
 title: "My page with some stellar content"
-summary: false
+show_summary: false
 ---
 ```
 

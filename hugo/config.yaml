@@ -1,0 +1,65 @@
+publishDir: "../docs"
+baseURL: "https://aws-cli-eq-pwsh.shibata.tech/"
+relativeURLs: true
+languageCode: "en-us"
+title: "AWS CLI -eq PowerShell"
+theme: "papercss-hugo-theme"
+googleAnalytics: "UA-47904214-2"
+
+taxonomies:
+  tag: "tags"
+
+permalinks:
+  post: "/:filename/"
+
+imaging:
+  quality: 99
+
+params:
+  homeMetaContent: "This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: "2006-01-02"
+
+menu:
+  nav:
+    - name: "GitHub"
+      url: "https://github.com/stknohg/aws-cli-eq-pwsh/"
+      weight: 1
+    - name: "Twitter"
+      url: "https://twitter.com/stknohg"
+      weight: 2
+    - name: "Theme"
+      url: "https://themes.gohugo.io/papercss-hugo-theme/"
+      weight: 3
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
+

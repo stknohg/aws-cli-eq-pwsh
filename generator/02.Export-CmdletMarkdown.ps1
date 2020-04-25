@@ -41,7 +41,7 @@ function Export-TopPageMarkdown {
         ""
         "### Version"
         ""
-        "* [AWS CLI](https://aws.amazon.com/cli/): {0} ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))" -f (Get-Content -LiteralPath $CLIVersionMetadataPath -Encoding ascii)
+        "* [AWS CLI](https://aws.amazon.com/cli/): {0} ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))" -f (Get-Content -LiteralPath $CLIVersionMetadataPath -Encoding ascii)
         "* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): {0} ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))" -f $cmdletVersion
         ""
         "### Contents"

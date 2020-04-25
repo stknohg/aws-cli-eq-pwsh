@@ -7,7 +7,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.0.8 ([CHANGELOG](https://github.com/aws/aws-cli/blob/develop/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.0.8 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.0.5.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents

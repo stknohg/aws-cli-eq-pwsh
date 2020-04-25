@@ -8,10 +8,10 @@ echo_error () {
     echo -e "\e[31m$1\e[m" >&2
 }
 
-# 
+# * We need the latest AWS CLI v2
 export_path="./temp"
-# exclude help
-subcommands=$(aws help | col -b | sed -n '/AVAILABLE SERVICES/,/SEE ALSO/p' | grep 'o ' | sed s/'o '//g | tr -d ' ' | sed -e /help/d | sort)
+# exclude cli-dev, help
+subcommands=$(aws help | col -b | sed -n '/AVAILABLE SERVICES/,/SEE ALSO/p' | grep 'o ' | sed s/'o '//g | tr -d ' ' | sed -e /help/d -e /cli-dev/d | sort)
 cliversion=$(aws --version 2>&1 | awk '{print $1}' | awk -F'/' '{print $2}')
 
 # output metadata

@@ -25,12 +25,9 @@ menu:
     - name: "GitHub"
       url: "https://github.com/stknohg/aws-cli-eq-pwsh/"
       weight: 1
-    - name: "Twitter"
-      url: "https://twitter.com/stknohg"
-      weight: 2
     - name: "Theme"
       url: "https://themes.gohugo.io/papercss-hugo-theme/"
-      weight: 3
+      weight: 2
 
 markup:
   defaultMarkdownHandler: goldmark

@@ -507,6 +507,15 @@
     </item>
     
     <item>
+      <title>ddb</title>
+      <link>https://aws-cli-eq-pwsh.shibata.tech/ddb/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aws-cli-eq-pwsh.shibata.tech/ddb/</guid>
+      <description>ddb Amazon DynamoDB  CLI Reference Cmdlet Reference     AWS CLI PowerShell Cmdlet     aws ddb put    aws ddb select     </description>
+    </item>
+    
+    <item>
       <title>deploy</title>
       <link>https://aws-cli-eq-pwsh.shibata.tech/deploy/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>

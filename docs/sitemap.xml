@@ -283,6 +283,11 @@
   </url>
   
   <url>
+    <loc>https://aws-cli-eq-pwsh.shibata.tech/ddb/</loc>
+    <lastmod>2020-04-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/deploy/</loc>
     <lastmod>2020-04-25T00:00:00+00:00</lastmod>
   </url>

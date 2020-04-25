@@ -163,6 +163,7 @@ $g_AWSServices = @{
     'docdb'                        = [PSCustomObject]@{ Prefix = 'DOC'; Name = 'Amazon DocumentDB'; Url = 'https://aws.amazon.com/documentdb/'; Note = '' };
     'ds'                           = [PSCustomObject]@{ Prefix = 'DS'; Name = 'AWS Directory Service'; Url = 'https://aws.amazon.com/directoryservice/'; Note = '' };
     'dynamodb'                     = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
+    'ddb'                          = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = 'High level DynamoDB commands.' };
     'dynamodbstreams'              = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB Streams'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
     'ebs'                          = [PSCustomObject]@{ Prefix = 'EBS'; Name = 'Amazon Elastic Block Store'; Url = 'https://aws.amazon.com/ebs/'; Note = '' };
     'ec2'                          = [PSCustomObject]@{ Prefix = 'EC2'; Name = 'Amazon EC2'; Url = 'https://aws.amazon.com/ec2/'; Note = '' };

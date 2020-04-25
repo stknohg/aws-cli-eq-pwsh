@@ -75,6 +75,7 @@ For that reason, some content may not be accurate.
 |[AWS Data Pipeline](https://aws.amazon.com/datapipeline/)|[datapipeline]({{%relref "post/datapipeline.md" %}})|DP||
 |[AWS DataSync](https://aws.amazon.com/datasync/)|[datasync]({{%relref "post/datasync.md" %}})|DSYN||
 |[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/)|[dax]({{%relref "post/dax.md" %}})|DAX||
+|[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})|DDB|High level DynamoDB commands.|
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
 |[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|||
 |[AWS Device Farm](https://aws.amazon.com/device-farm/)|[devicefarm]({{%relref "post/devicefarm.md" %}})|DF||

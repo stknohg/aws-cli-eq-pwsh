@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## securityhub
@@ -27,6 +27,8 @@ date: 2020-01-12
 |[aws securityhub describe-action-targets](https://docs.aws.amazon.com/cli/latest/reference/securityhub/describe-action-targets.html)|[Get-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBActionTarget.html)|
 |[aws securityhub describe-hub](https://docs.aws.amazon.com/cli/latest/reference/securityhub/describe-hub.html)|[Get-SHUBHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBHub.html)|
 |[aws securityhub describe-products](https://docs.aws.amazon.com/cli/latest/reference/securityhub/describe-products.html)|[Get-SHUBProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBProduct.html)|
+|[aws securityhub describe-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/describe-standards.html)|[Get-SHUBStandard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBStandard.html)|
+|[aws securityhub describe-standards-controls](https://docs.aws.amazon.com/cli/latest/reference/securityhub/describe-standards-controls.html)|[Get-SHUBStandardsControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBStandardsControl.html)|
 |[aws securityhub disable-import-findings-for-product](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-import-findings-for-product.html)|[Disable-SHUBImportFindingsForProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBImportFindingsForProduct.html)|
 |[aws securityhub disable-security-hub](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-security-hub.html)|[Disable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBSecurityHub.html)|
 |[aws securityhub disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disassociate-from-master-account.html)|[Remove-SHUBMasterAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMasterAccountAssociation.html)|
@@ -50,4 +52,5 @@ date: 2020-01-12
 |[aws securityhub update-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-action-target.html)|[Update-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBActionTarget.html)|
 |[aws securityhub update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-findings.html)|[Update-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFinding.html)|
 |[aws securityhub update-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-insight.html)|[Update-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBInsight.html)|
+|[aws securityhub update-standards-control](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-standards-control.html)|[Update-SHUBStandardsControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBStandardsControl.html)|
 

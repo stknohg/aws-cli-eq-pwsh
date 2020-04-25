@@ -1,6 +1,6 @@
 ---
 title: robomaker
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## robomaker
@@ -15,6 +15,7 @@ date: 2020-01-12
 |[aws robomaker batch-describe-simulation-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/batch-describe-simulation-job.html)|[Get-ROBOSimulationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationJobList.html)|
 |[aws robomaker cancel-deployment-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/cancel-deployment-job.html)|[Stop-ROBODeploymentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ROBODeploymentJob.html)|
 |[aws robomaker cancel-simulation-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/cancel-simulation-job.html)|[Stop-ROBOSimulationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ROBOSimulationJob.html)|
+|[aws robomaker cancel-simulation-job-batch](https://docs.aws.amazon.com/cli/latest/reference/robomaker/cancel-simulation-job-batch.html)|[Stop-ROBOSimulationJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ROBOSimulationJobBatch.html)|
 |[aws robomaker create-deployment-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/create-deployment-job.html)|[New-ROBODeploymentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ROBODeploymentJob.html)|
 |[aws robomaker create-fleet](https://docs.aws.amazon.com/cli/latest/reference/robomaker/create-fleet.html)|[New-ROBOFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ROBOFleet.html)|
 |[aws robomaker create-robot](https://docs.aws.amazon.com/cli/latest/reference/robomaker/create-robot.html)|[New-ROBORobot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ROBORobot.html)|
@@ -34,15 +35,18 @@ date: 2020-01-12
 |[aws robomaker describe-robot-application](https://docs.aws.amazon.com/cli/latest/reference/robomaker/describe-robot-application.html)|[Get-ROBORobotApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBORobotApplication.html)|
 |[aws robomaker describe-simulation-application](https://docs.aws.amazon.com/cli/latest/reference/robomaker/describe-simulation-application.html)|[Get-ROBOSimulationApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationApplication.html)|
 |[aws robomaker describe-simulation-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/describe-simulation-job.html)|[Get-ROBOSimulationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationJob.html)|
+|[aws robomaker describe-simulation-job-batch](https://docs.aws.amazon.com/cli/latest/reference/robomaker/describe-simulation-job-batch.html)|[Get-ROBOSimulationJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationJobBatch.html)|
 |[aws robomaker list-deployment-jobs](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-deployment-jobs.html)|[Get-ROBODeploymentJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBODeploymentJobList.html)|
 |[aws robomaker list-fleets](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-fleets.html)|[Get-ROBOFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOFleetList.html)|
 |[aws robomaker list-robot-applications](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-robot-applications.html)|[Get-ROBORobotApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBORobotApplicationList.html)|
 |[aws robomaker list-robots](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-robots.html)|[Get-ROBORobotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBORobotList.html)|
 |[aws robomaker list-simulation-applications](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-simulation-applications.html)|[Get-ROBOSimulationApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationApplicationList.html)|
+|[aws robomaker list-simulation-job-batches](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-simulation-job-batches.html)|[Get-ROBOSimulationJobBatchList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationJobBatchList.html)|
 |[aws robomaker list-simulation-jobs](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-simulation-jobs.html)|[Get-ROBOSimulationJobSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOSimulationJobSummary.html)|
 |[aws robomaker list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/robomaker/list-tags-for-resource.html)|[Get-ROBOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ROBOResourceTag.html)|
 |[aws robomaker register-robot](https://docs.aws.amazon.com/cli/latest/reference/robomaker/register-robot.html)|[Register-ROBORobot](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-ROBORobot.html)|
 |[aws robomaker restart-simulation-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/restart-simulation-job.html)|[Restart-ROBOSimulationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-ROBOSimulationJob.html)|
+|[aws robomaker start-simulation-job-batch](https://docs.aws.amazon.com/cli/latest/reference/robomaker/start-simulation-job-batch.html)|[Start-ROBOSimulationJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ROBOSimulationJobBatch.html)|
 |[aws robomaker sync-deployment-job](https://docs.aws.amazon.com/cli/latest/reference/robomaker/sync-deployment-job.html)|[Sync-ROBODeploymentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Sync-ROBODeploymentJob.html)|
 |[aws robomaker tag-resource](https://docs.aws.amazon.com/cli/latest/reference/robomaker/tag-resource.html)|[Add-ROBOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ROBOResourceTag.html)|
 |[aws robomaker untag-resource](https://docs.aws.amazon.com/cli/latest/reference/robomaker/untag-resource.html)|[Remove-ROBOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ROBOResourceTag.html)|

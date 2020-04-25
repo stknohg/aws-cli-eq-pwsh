@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## lambda
@@ -61,4 +61,5 @@ date: 2020-01-12
 |[aws lambda update-function-code](https://docs.aws.amazon.com/cli/latest/reference/lambda/update-function-code.html)|[Update-LMFunctionCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMFunctionCode.html)|
 |[aws lambda update-function-configuration](https://docs.aws.amazon.com/cli/latest/reference/lambda/update-function-configuration.html)|[Update-LMFunctionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMFunctionConfiguration.html)|
 |[aws lambda update-function-event-invoke-config](https://docs.aws.amazon.com/cli/latest/reference/lambda/update-function-event-invoke-config.html)|[Update-LMFunctionEventInvokeConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMFunctionEventInvokeConfig.html)|
+|[aws lambda wizard](https://docs.aws.amazon.com/cli/latest/reference/lambda/wizard.html)||
 

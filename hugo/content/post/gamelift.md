@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## gamelift
@@ -13,9 +13,11 @@ date: 2020-01-12
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws gamelift accept-match](https://docs.aws.amazon.com/cli/latest/reference/gamelift/accept-match.html)|[Confirm-GMLMatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-GMLMatch.html)|
+|[aws gamelift claim-game-server](https://docs.aws.amazon.com/cli/latest/reference/gamelift/claim-game-server.html)||
 |[aws gamelift create-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-alias.html)|[New-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLAlias.html)|
 |[aws gamelift create-build](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-build.html)|[New-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLBuild.html)|
 |[aws gamelift create-fleet](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-fleet.html)|[New-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLFleet.html)|
+|[aws gamelift create-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-game-server-group.html)||
 |[aws gamelift create-game-session](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-game-session.html)|[New-GMLGameSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLGameSession.html)|
 |[aws gamelift create-game-session-queue](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-game-session-queue.html)|[New-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLGameSessionQueue.html)|
 |[aws gamelift create-matchmaking-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-matchmaking-configuration.html)|[New-GMLMatchmakingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLMatchmakingConfiguration.html)|
@@ -28,6 +30,7 @@ date: 2020-01-12
 |[aws gamelift delete-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-alias.html)|[Remove-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLAlias.html)|
 |[aws gamelift delete-build](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-build.html)|[Remove-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLBuild.html)|
 |[aws gamelift delete-fleet](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-fleet.html)|[Remove-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLFleet.html)|
+|[aws gamelift delete-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-game-server-group.html)||
 |[aws gamelift delete-game-session-queue](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-game-session-queue.html)|[Remove-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLGameSessionQueue.html)|
 |[aws gamelift delete-matchmaking-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-matchmaking-configuration.html)|[Remove-GMLMatchmakingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLMatchmakingConfiguration.html)|
 |[aws gamelift delete-matchmaking-rule-set](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-matchmaking-rule-set.html)|[Remove-GMLMatchmakingRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLMatchmakingRuleSet.html)|
@@ -35,6 +38,7 @@ date: 2020-01-12
 |[aws gamelift delete-script](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-script.html)|[Remove-GMLScript](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLScript.html)|
 |[aws gamelift delete-vpc-peering-authorization](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-vpc-peering-authorization.html)|[Remove-GMLVpcPeeringAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLVpcPeeringAuthorization.html)|
 |[aws gamelift delete-vpc-peering-connection](https://docs.aws.amazon.com/cli/latest/reference/gamelift/delete-vpc-peering-connection.html)|[Remove-GMLVpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLVpcPeeringConnection.html)|
+|[aws gamelift deregister-game-server](https://docs.aws.amazon.com/cli/latest/reference/gamelift/deregister-game-server.html)||
 |[aws gamelift describe-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-alias.html)|[Get-GMLAliasDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAliasDetail.html)|
 |[aws gamelift describe-build](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-build.html)|[Get-GMLBuildDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLBuildDetail.html)|
 |[aws gamelift describe-ec2-instance-limits](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-ec2-instance-limits.html)|[Get-GMLEC2InstanceLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLEC2InstanceLimit.html)|
@@ -43,6 +47,8 @@ date: 2020-01-12
 |[aws gamelift describe-fleet-events](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-fleet-events.html)|[Get-GMLFleetEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetEvent.html)|
 |[aws gamelift describe-fleet-port-settings](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-fleet-port-settings.html)|[Get-GMLFleetPortSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetPortSetting.html)|
 |[aws gamelift describe-fleet-utilization](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-fleet-utilization.html)|[Get-GMLFleetUtilization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetUtilization.html)|
+|[aws gamelift describe-game-server](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-server.html)||
+|[aws gamelift describe-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-server-group.html)||
 |[aws gamelift describe-game-session-details](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-session-details.html)|[Get-GMLGameSessionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionDetail.html)|
 |[aws gamelift describe-game-session-placement](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-session-placement.html)|[Get-GMLGameSessionPlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionPlacement.html)|
 |[aws gamelift describe-game-session-queues](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-session-queues.html)|[Get-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionQueue.html)|
@@ -63,11 +69,15 @@ date: 2020-01-12
 |[aws gamelift list-aliases](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-aliases.html)|[Get-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAlias.html)|
 |[aws gamelift list-builds](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-builds.html)|[Get-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLBuild.html)|
 |[aws gamelift list-fleets](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-fleets.html)|[Get-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleet.html)|
+|[aws gamelift list-game-server-groups](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-game-server-groups.html)||
+|[aws gamelift list-game-servers](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-game-servers.html)||
 |[aws gamelift list-scripts](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-scripts.html)|[Get-GMLScriptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLScriptList.html)|
-|[aws gamelift list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-tags-for-resource.html)||
+|[aws gamelift list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/gamelift/list-tags-for-resource.html)|[Get-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLResourceTag.html)|
 |[aws gamelift put-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/gamelift/put-scaling-policy.html)|[Write-GMLScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GMLScalingPolicy.html)|
+|[aws gamelift register-game-server](https://docs.aws.amazon.com/cli/latest/reference/gamelift/register-game-server.html)||
 |[aws gamelift request-upload-credentials](https://docs.aws.amazon.com/cli/latest/reference/gamelift/request-upload-credentials.html)|[Request-GMLUploadCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-GMLUploadCredential.html)|
 |[aws gamelift resolve-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/resolve-alias.html)|[Resolve-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Resolve-GMLAlias.html)|
+|[aws gamelift resume-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/resume-game-server-group.html)||
 |[aws gamelift search-game-sessions](https://docs.aws.amazon.com/cli/latest/reference/gamelift/search-game-sessions.html)|[Find-GMLGameSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GMLGameSession.html)|
 |[aws gamelift start-fleet-actions](https://docs.aws.amazon.com/cli/latest/reference/gamelift/start-fleet-actions.html)|[Start-GMLFleetAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GMLFleetAction.html)|
 |[aws gamelift start-game-session-placement](https://docs.aws.amazon.com/cli/latest/reference/gamelift/start-game-session-placement.html)|[Start-GMLGameSessionPlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GMLGameSessionPlacement.html)|
@@ -76,13 +86,16 @@ date: 2020-01-12
 |[aws gamelift stop-fleet-actions](https://docs.aws.amazon.com/cli/latest/reference/gamelift/stop-fleet-actions.html)|[Stop-GMLFleetAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLFleetAction.html)|
 |[aws gamelift stop-game-session-placement](https://docs.aws.amazon.com/cli/latest/reference/gamelift/stop-game-session-placement.html)|[Stop-GMLGameSessionPlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLGameSessionPlacement.html)|
 |[aws gamelift stop-matchmaking](https://docs.aws.amazon.com/cli/latest/reference/gamelift/stop-matchmaking.html)|[Stop-GMLMatchmaking](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLMatchmaking.html)|
-|[aws gamelift tag-resource](https://docs.aws.amazon.com/cli/latest/reference/gamelift/tag-resource.html)||
-|[aws gamelift untag-resource](https://docs.aws.amazon.com/cli/latest/reference/gamelift/untag-resource.html)||
+|[aws gamelift suspend-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/suspend-game-server-group.html)||
+|[aws gamelift tag-resource](https://docs.aws.amazon.com/cli/latest/reference/gamelift/tag-resource.html)|[Add-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GMLResourceTag.html)|
+|[aws gamelift untag-resource](https://docs.aws.amazon.com/cli/latest/reference/gamelift/untag-resource.html)|[Remove-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLResourceTag.html)|
 |[aws gamelift update-alias](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-alias.html)|[Update-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLAlias.html)|
 |[aws gamelift update-build](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-build.html)|[Update-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLBuild.html)|
 |[aws gamelift update-fleet-attributes](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-fleet-attributes.html)|[Update-GMLFleetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLFleetAttribute.html)|
 |[aws gamelift update-fleet-capacity](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-fleet-capacity.html)|[Update-GMLFleetCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLFleetCapacity.html)|
 |[aws gamelift update-fleet-port-settings](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-fleet-port-settings.html)|[Update-GMLFleetPortSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLFleetPortSetting.html)|
+|[aws gamelift update-game-server](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-game-server.html)||
+|[aws gamelift update-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-game-server-group.html)||
 |[aws gamelift update-game-session](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-game-session.html)|[Update-GMLGameSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLGameSession.html)|
 |[aws gamelift update-game-session-queue](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-game-session-queue.html)|[Update-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLGameSessionQueue.html)|
 |[aws gamelift update-matchmaking-configuration](https://docs.aws.amazon.com/cli/latest/reference/gamelift/update-matchmaking-configuration.html)|[Update-GMLMatchmakingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLMatchmakingConfiguration.html)|

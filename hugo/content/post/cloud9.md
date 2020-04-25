@@ -1,6 +1,6 @@
 ---
 title: cloud9
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## cloud9
@@ -20,6 +20,9 @@ date: 2020-01-12
 |[aws cloud9 describe-environment-status](https://docs.aws.amazon.com/cli/latest/reference/cloud9/describe-environment-status.html)|[Get-C9EnvironmentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-C9EnvironmentStatus.html)|
 |[aws cloud9 describe-environments](https://docs.aws.amazon.com/cli/latest/reference/cloud9/describe-environments.html)|[Get-C9EnvironmentData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-C9EnvironmentData.html)|
 |[aws cloud9 list-environments](https://docs.aws.amazon.com/cli/latest/reference/cloud9/list-environments.html)|[Get-C9EnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-C9EnvironmentList.html)|
+|[aws cloud9 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cloud9/list-tags-for-resource.html)|[Get-C9ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-C9ResourceTag.html)|
+|[aws cloud9 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloud9/tag-resource.html)|[Add-C9ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-C9ResourceTag.html)|
+|[aws cloud9 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloud9/untag-resource.html)|[Remove-C9ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-C9ResourceTag.html)|
 |[aws cloud9 update-environment](https://docs.aws.amazon.com/cli/latest/reference/cloud9/update-environment.html)|[Update-C9Environment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-C9Environment.html)|
 |[aws cloud9 update-environment-membership](https://docs.aws.amazon.com/cli/latest/reference/cloud9/update-environment-membership.html)|[Update-C9EnvironmentMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-C9EnvironmentMembership.html)|
 

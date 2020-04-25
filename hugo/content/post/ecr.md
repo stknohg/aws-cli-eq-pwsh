@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## ecr
@@ -27,7 +27,7 @@ date: 2020-01-12
 |[aws ecr get-download-url-for-layer](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-download-url-for-layer.html)|[Get-ECRDownloadUrlForLayer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRDownloadUrlForLayer.html)|
 |[aws ecr get-lifecycle-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-lifecycle-policy.html)|[Get-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRLifecyclePolicy.html)|
 |[aws ecr get-lifecycle-policy-preview](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-lifecycle-policy-preview.html)|[Get-ECRLifecyclePolicyPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRLifecyclePolicyPreview.html)|
-|[aws ecr get-login](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-login.html)||
+|[aws ecr get-login-password](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-login-password.html)||
 |[aws ecr get-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/get-repository-policy.html)|[Get-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepositoryPolicy.html)|
 |[aws ecr initiate-layer-upload](https://docs.aws.amazon.com/cli/latest/reference/ecr/initiate-layer-upload.html)|[Start-ECRLayerUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLayerUpload.html)|
 |[aws ecr list-images](https://docs.aws.amazon.com/cli/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|

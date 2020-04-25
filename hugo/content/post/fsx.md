@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## fsx
@@ -12,15 +12,15 @@ date: 2020-01-12
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws fsx cancel-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/cancel-data-repository-task.html)||
+|[aws fsx cancel-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/cancel-data-repository-task.html)|[Stop-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FSXDataRepositoryTask.html)|
 |[aws fsx create-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-backup.html)|[New-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXBackup.html)|
-|[aws fsx create-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-data-repository-task.html)||
+|[aws fsx create-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-data-repository-task.html)|[New-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryTask.html)|
 |[aws fsx create-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-file-system.html)|[New-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXFileSystem.html)|
 |[aws fsx create-file-system-from-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-file-system-from-backup.html)|[New-FSXFileSystemFromBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXFileSystemFromBackup.html)|
 |[aws fsx delete-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-backup.html)|[Remove-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXBackup.html)|
 |[aws fsx delete-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-file-system.html)|[Remove-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXFileSystem.html)|
 |[aws fsx describe-backups](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-backups.html)|[Get-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXBackup.html)|
-|[aws fsx describe-data-repository-tasks](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-data-repository-tasks.html)||
+|[aws fsx describe-data-repository-tasks](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-data-repository-tasks.html)|[Get-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXDataRepositoryTask.html)|
 |[aws fsx describe-file-systems](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-systems.html)|[Get-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystem.html)|
 |[aws fsx list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/list-tags-for-resource.html)|[Get-FSXResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXResourceTagList.html)|
 |[aws fsx tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/tag-resource.html)|[Add-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FSXResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## pinpoint
@@ -19,6 +19,7 @@ date: 2020-01-12
 |[aws pinpoint create-import-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-import-job.html)|[New-PINImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINImportJob.html)|
 |[aws pinpoint create-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-journey.html)|[New-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINJourney.html)|
 |[aws pinpoint create-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-push-template.html)|[New-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINPushTemplate.html)|
+|[aws pinpoint create-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-recommender-configuration.html)|[New-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINRecommenderConfiguration.html)|
 |[aws pinpoint create-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-segment.html)|[New-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINSegment.html)|
 |[aws pinpoint create-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-sms-template.html)|[New-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINSmsTemplate.html)|
 |[aws pinpoint create-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-voice-template.html)|[New-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINVoiceTemplate.html)|
@@ -37,6 +38,7 @@ date: 2020-01-12
 |[aws pinpoint delete-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-gcm-channel.html)|[Remove-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINGcmChannel.html)|
 |[aws pinpoint delete-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-journey.html)|[Remove-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINJourney.html)|
 |[aws pinpoint delete-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-push-template.html)|[Remove-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINPushTemplate.html)|
+|[aws pinpoint delete-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-recommender-configuration.html)|[Remove-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINRecommenderConfiguration.html)|
 |[aws pinpoint delete-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-segment.html)|[Remove-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINSegment.html)|
 |[aws pinpoint delete-sms-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-sms-channel.html)|[Remove-PINSmsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINSmsChannel.html)|
 |[aws pinpoint delete-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-sms-template.html)|[Remove-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINSmsTemplate.html)|
@@ -74,6 +76,8 @@ date: 2020-01-12
 |[aws pinpoint get-journey-execution-activity-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-activity-metrics.html)|[Get-PINJourneyExecutionActivityMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionActivityMetric.html)|
 |[aws pinpoint get-journey-execution-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-metrics.html)|[Get-PINJourneyExecutionMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionMetric.html)|
 |[aws pinpoint get-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-push-template.html)|[Get-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINPushTemplate.html)|
+|[aws pinpoint get-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-recommender-configuration.html)|[Get-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINRecommenderConfiguration.html)|
+|[aws pinpoint get-recommender-configurations](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-recommender-configurations.html)|[Get-PINRecommenderConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINRecommenderConfigurationList.html)|
 |[aws pinpoint get-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment.html)|[Get-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegment.html)|
 |[aws pinpoint get-segment-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment-export-jobs.html)|[Get-PINSegmentExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegmentExportJobList.html)|
 |[aws pinpoint get-segment-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-segment-import-jobs.html)|[Get-PINSegmentImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINSegmentImportJobList.html)|
@@ -87,7 +91,7 @@ date: 2020-01-12
 |[aws pinpoint get-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-voice-template.html)|[Get-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINVoiceTemplate.html)|
 |[aws pinpoint list-journeys](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-journeys.html)|[Get-PINJourneyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyList.html)|
 |[aws pinpoint list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-tags-for-resource.html)|[Get-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINResourceTag.html)|
-|[aws pinpoint list-template-versions](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-template-versions.html)||
+|[aws pinpoint list-template-versions](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-template-versions.html)|[Get-PINTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINTemplateVersionList.html)|
 |[aws pinpoint list-templates](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/list-templates.html)|[Get-PINTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINTemplateList.html)|
 |[aws pinpoint phone-number-validate](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/phone-number-validate.html)|[Confirm-PINPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-PINPhoneNumber.html)|
 |[aws pinpoint put-event-stream](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/put-event-stream.html)|[Write-PINEventStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEventStream.html)|
@@ -113,10 +117,11 @@ date: 2020-01-12
 |[aws pinpoint update-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-journey.html)|[Update-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINJourney.html)|
 |[aws pinpoint update-journey-state](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-journey-state.html)|[Update-PINJourneyState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINJourneyState.html)|
 |[aws pinpoint update-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-push-template.html)|[Update-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINPushTemplate.html)|
+|[aws pinpoint update-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-recommender-configuration.html)|[Update-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINRecommenderConfiguration.html)|
 |[aws pinpoint update-segment](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-segment.html)|[Update-PINSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINSegment.html)|
 |[aws pinpoint update-sms-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-sms-channel.html)|[Update-PINSmsChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINSmsChannel.html)|
 |[aws pinpoint update-sms-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-sms-template.html)|[Update-PINSmsTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINSmsTemplate.html)|
-|[aws pinpoint update-template-active-version](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-template-active-version.html)||
+|[aws pinpoint update-template-active-version](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-template-active-version.html)|[Update-PINTemplateActiveVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINTemplateActiveVersion.html)|
 |[aws pinpoint update-voice-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-voice-channel.html)|[Update-PINVoiceChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINVoiceChannel.html)|
 |[aws pinpoint update-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-voice-template.html)|[Update-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINVoiceTemplate.html)|
 

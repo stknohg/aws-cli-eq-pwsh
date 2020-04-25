@@ -1,6 +1,6 @@
 ---
 title: mgh
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## mgh
@@ -21,7 +21,7 @@ date: 2020-01-12
 |[aws mgh disassociate-created-artifact](https://docs.aws.amazon.com/cli/latest/reference/mgh/disassociate-created-artifact.html)|[Remove-MHCreatedArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHCreatedArtifact.html)|
 |[aws mgh disassociate-discovered-resource](https://docs.aws.amazon.com/cli/latest/reference/mgh/disassociate-discovered-resource.html)|[Remove-MHDiscoveredResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHDiscoveredResource.html)|
 |[aws mgh import-migration-task](https://docs.aws.amazon.com/cli/latest/reference/mgh/import-migration-task.html)|[Import-MHMigrationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-MHMigrationTask.html)|
-|[aws mgh list-application-states](https://docs.aws.amazon.com/cli/latest/reference/mgh/list-application-states.html)||
+|[aws mgh list-application-states](https://docs.aws.amazon.com/cli/latest/reference/mgh/list-application-states.html)|[Get-MHApplicationStateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHApplicationStateList.html)|
 |[aws mgh list-created-artifacts](https://docs.aws.amazon.com/cli/latest/reference/mgh/list-created-artifacts.html)|[Get-MHCreatedArtifactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHCreatedArtifactList.html)|
 |[aws mgh list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/mgh/list-discovered-resources.html)|[Get-MHDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHDiscoveredResourceList.html)|
 |[aws mgh list-migration-tasks](https://docs.aws.amazon.com/cli/latest/reference/mgh/list-migration-tasks.html)|[Get-MHMigrationTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHMigrationTaskList.html)|

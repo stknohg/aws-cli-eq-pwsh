@@ -1,6 +1,6 @@
 ---
 title: application-insights
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## application-insights
@@ -28,6 +28,7 @@ date: 2020-01-12
 |[aws application-insights describe-problem-observations](https://docs.aws.amazon.com/cli/latest/reference/application-insights/describe-problem-observations.html)|[Get-CWAIProblemObservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIProblemObservation.html)|
 |[aws application-insights list-applications](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-applications.html)|[Get-CWAIApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIApplicationList.html)|
 |[aws application-insights list-components](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-components.html)|[Get-CWAIComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIComponentList.html)|
+|[aws application-insights list-configuration-history](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-configuration-history.html)|[Get-CWAIConfigurationHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIConfigurationHistoryList.html)|
 |[aws application-insights list-log-pattern-sets](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-log-pattern-sets.html)|[Get-CWAILogPatternSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAILogPatternSetList.html)|
 |[aws application-insights list-log-patterns](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-log-patterns.html)|[Get-CWAILogPatternList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAILogPatternList.html)|
 |[aws application-insights list-problems](https://docs.aws.amazon.com/cli/latest/reference/application-insights/list-problems.html)|[Get-CWAIProblemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIProblemList.html)|

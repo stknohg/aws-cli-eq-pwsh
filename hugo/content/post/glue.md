@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## glue
@@ -101,6 +101,7 @@ date: 2020-01-12
 |[aws glue list-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-crawlers.html)|[Get-GLUECrawlerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerNameList.html)|
 |[aws glue list-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-dev-endpoints.html)|[Get-GLUEDevEndpointNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointNameList.html)|
 |[aws glue list-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
+|[aws glue list-ml-transforms](https://docs.aws.amazon.com/cli/latest/reference/glue/list-ml-transforms.html)|[Get-GLUEMLTransformIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransformIdentifier.html)|
 |[aws glue list-triggers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-triggers.html)|[Get-GLUETriggerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerNameList.html)|
 |[aws glue list-workflows](https://docs.aws.amazon.com/cli/latest/reference/glue/list-workflows.html)|[Get-GLUEWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowList.html)|
 |[aws glue put-data-catalog-encryption-settings](https://docs.aws.amazon.com/cli/latest/reference/glue/put-data-catalog-encryption-settings.html)|[Set-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEDataCatalogEncryptionSetting.html)|

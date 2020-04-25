@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## dynamodb
@@ -54,4 +54,5 @@ date: 2020-01-12
 |[aws dynamodb update-table](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/update-table.html)|[Update-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBTable.html)|
 |[aws dynamodb update-table-replica-auto-scaling](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/update-table-replica-auto-scaling.html)|[Update-DDBTableReplicaAutoScaling](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBTableReplicaAutoScaling.html)|
 |[aws dynamodb update-time-to-live](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/update-time-to-live.html)|[Update-DDBTimeToLive](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBTimeToLive.html)|
+|[aws dynamodb wizard](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/wizard.html)||
 

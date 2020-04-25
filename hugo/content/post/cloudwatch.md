@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## cloudwatch
@@ -34,6 +34,7 @@ date: 2020-01-12
 |[aws cloudwatch list-metrics](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-metrics.html)|[Get-CWMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricList.html)|
 |[aws cloudwatch list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-tags-for-resource.html)|[Get-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWResourceTag.html)|
 |[aws cloudwatch put-anomaly-detector](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-anomaly-detector.html)|[Write-CWAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWAnomalyDetector.html)|
+|[aws cloudwatch put-composite-alarm](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-composite-alarm.html)|[Write-CWCompositeAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWCompositeAlarm.html)|
 |[aws cloudwatch put-dashboard](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-dashboard.html)|[Write-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWDashboard.html)|
 |[aws cloudwatch put-insight-rule](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-insight-rule.html)|[Write-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWInsightRule.html)|
 |[aws cloudwatch put-metric-alarm](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-alarm.html)|[Write-CWMetricAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricAlarm.html)|

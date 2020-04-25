@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## rds
@@ -20,6 +20,7 @@ date: 2020-01-12
 |[aws rds apply-pending-maintenance-action](https://docs.aws.amazon.com/cli/latest/reference/rds/apply-pending-maintenance-action.html)|[Submit-RDSPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-RDSPendingMaintenanceAction.html)|
 |[aws rds authorize-db-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/rds/authorize-db-security-group-ingress.html)|[Enable-RDSDBSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RDSDBSecurityGroupIngress.html)|
 |[aws rds backtrack-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/backtrack-db-cluster.html)|[Reset-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-RDSDBCluster.html)|
+|[aws rds cancel-export-task](https://docs.aws.amazon.com/cli/latest/reference/rds/cancel-export-task.html)|[Stop-RDSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSExportTask.html)|
 |[aws rds copy-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-cluster-parameter-group.html)|[Copy-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBClusterParameterGroup.html)|
 |[aws rds copy-db-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-cluster-snapshot.html)|[Copy-RDSDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBClusterSnapshot.html)|
 |[aws rds copy-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-parameter-group.html)|[Copy-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBParameterGroup.html)|
@@ -85,6 +86,7 @@ date: 2020-01-12
 |[aws rds describe-event-categories](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-event-categories.html)|[Get-RDSEventCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSEventCategory.html)|
 |[aws rds describe-event-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-event-subscriptions.html)|[Get-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSEventSubscription.html)|
 |[aws rds describe-events](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-events.html)|[Get-RDSEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSEvent.html)|
+|[aws rds describe-export-tasks](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-export-tasks.html)|[Get-RDSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSExportTask.html)|
 |[aws rds describe-global-clusters](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-global-clusters.html)|[Get-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSGlobalCluster.html)|
 |[aws rds describe-installation-media](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-installation-media.html)|[Get-RDSInstallationMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSInstallationMedia.html)|
 |[aws rds describe-option-group-options](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-option-group-options.html)|[Get-RDSOptionGroupOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOptionGroupOption.html)|
@@ -100,7 +102,7 @@ date: 2020-01-12
 |[aws rds generate-db-auth-token](https://docs.aws.amazon.com/cli/latest/reference/rds/generate-db-auth-token.html)||
 |[aws rds import-installation-media](https://docs.aws.amazon.com/cli/latest/reference/rds/import-installation-media.html)|[Import-RDSInstallationMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-RDSInstallationMedia.html)|
 |[aws rds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rds/list-tags-for-resource.html)|[Get-RDSTagForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTagForResource.html)|
-|[aws rds modify-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-certificates.html)||
+|[aws rds modify-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-certificates.html)|[Edit-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCertificate.html)|
 |[aws rds modify-current-db-cluster-capacity](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-current-db-cluster-capacity.html)|[Edit-RDSCurrentDBClusterCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCurrentDBClusterCapacity.html)|
 |[aws rds modify-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-cluster.html)|[Edit-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBCluster.html)|
 |[aws rds modify-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-cluster-endpoint.html)|[Edit-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBClusterEndpoint.html)|
@@ -138,6 +140,7 @@ date: 2020-01-12
 |[aws rds start-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/start-activity-stream.html)|[Start-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSActivityStream.html)|
 |[aws rds start-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-cluster.html)|[Start-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBCluster.html)|
 |[aws rds start-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-instance.html)|[Start-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBInstance.html)|
+|[aws rds start-export-task](https://docs.aws.amazon.com/cli/latest/reference/rds/start-export-task.html)|[Start-RDSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSExportTask.html)|
 |[aws rds stop-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-activity-stream.html)|[Stop-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSActivityStream.html)|
 |[aws rds stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-cluster.html)|[Stop-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBCluster.html)|
 |[aws rds stop-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|

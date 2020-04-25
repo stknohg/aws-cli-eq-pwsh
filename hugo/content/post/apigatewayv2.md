@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## apigatewayv2
@@ -23,6 +23,8 @@ date: 2020-01-12
 |[aws apigatewayv2 create-route](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/create-route.html)|[New-AG2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2Route.html)|
 |[aws apigatewayv2 create-route-response](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/create-route-response.html)|[New-AG2RouteResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2RouteResponse.html)|
 |[aws apigatewayv2 create-stage](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/create-stage.html)|[New-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2Stage.html)|
+|[aws apigatewayv2 create-vpc-link](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/create-vpc-link.html)|[New-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2VpcLink.html)|
+|[aws apigatewayv2 delete-access-log-settings](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-access-log-settings.html)|[Remove-AG2AccessLogSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2AccessLogSetting.html)|
 |[aws apigatewayv2 delete-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-api.html)|[Remove-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Api.html)|
 |[aws apigatewayv2 delete-api-mapping](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-api-mapping.html)|[Remove-AG2ApiMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2ApiMapping.html)|
 |[aws apigatewayv2 delete-authorizer](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-authorizer.html)|[Remove-AG2Authorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Authorizer.html)|
@@ -33,9 +35,11 @@ date: 2020-01-12
 |[aws apigatewayv2 delete-integration-response](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-integration-response.html)|[Remove-AG2IntegrationResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2IntegrationResponse.html)|
 |[aws apigatewayv2 delete-model](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-model.html)|[Remove-AG2Model](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Model.html)|
 |[aws apigatewayv2 delete-route](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-route.html)|[Remove-AG2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Route.html)|
+|[aws apigatewayv2 delete-route-request-parameter](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-route-request-parameter.html)|[Remove-AG2RouteRequestParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteRequestParameter.html)|
 |[aws apigatewayv2 delete-route-response](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-route-response.html)|[Remove-AG2RouteResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteResponse.html)|
 |[aws apigatewayv2 delete-route-settings](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-route-settings.html)|[Remove-AG2RouteSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteSetting.html)|
 |[aws apigatewayv2 delete-stage](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-stage.html)|[Remove-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Stage.html)|
+|[aws apigatewayv2 delete-vpc-link](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-vpc-link.html)|[Remove-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2VpcLink.html)|
 |[aws apigatewayv2 get-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-api.html)|[Get-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Api.html)|
 |[aws apigatewayv2 get-api-mapping](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-api-mapping.html)|[Get-AG2ApiMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2ApiMapping.html)|
 |[aws apigatewayv2 get-api-mappings](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-api-mappings.html)|[Get-AG2ApiMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2ApiMappingList.html)|
@@ -60,6 +64,8 @@ date: 2020-01-12
 |[aws apigatewayv2 get-stage](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-stage.html)|[Get-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Stage.html)|
 |[aws apigatewayv2 get-stages](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-stages.html)|[Get-AG2StageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2StageList.html)|
 |[aws apigatewayv2 get-tags](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-tags.html)|[Get-AG2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Tag.html)|
+|[aws apigatewayv2 get-vpc-link](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-vpc-link.html)|[Get-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2VpcLink.html)|
+|[aws apigatewayv2 get-vpc-links](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-vpc-links.html)|[Get-AG2VpcLinkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2VpcLinkList.html)|
 |[aws apigatewayv2 import-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/import-api.html)|[Import-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AG2Api.html)|
 |[aws apigatewayv2 reimport-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/reimport-api.html)|[Update-AG2ApiImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2ApiImport.html)|
 |[aws apigatewayv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/tag-resource.html)|[Add-AG2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AG2ResourceTag.html)|
@@ -75,4 +81,5 @@ date: 2020-01-12
 |[aws apigatewayv2 update-route](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-route.html)|[Update-AG2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2Route.html)|
 |[aws apigatewayv2 update-route-response](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-route-response.html)|[Update-AG2RouteResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2RouteResponse.html)|
 |[aws apigatewayv2 update-stage](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-stage.html)|[Update-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2Stage.html)|
+|[aws apigatewayv2 update-vpc-link](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-vpc-link.html)|[Update-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2VpcLink.html)|
 

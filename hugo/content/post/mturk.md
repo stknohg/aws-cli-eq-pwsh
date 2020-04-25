@@ -1,6 +1,6 @@
 ---
 title: mturk
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## mturk
@@ -33,7 +33,6 @@ date: 2020-01-12
 |[aws mturk get-qualification-type](https://docs.aws.amazon.com/cli/latest/reference/mturk/get-qualification-type.html)|[Get-MTRQualificationType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRQualificationType.html)|
 |[aws mturk list-assignments-for-hit](https://docs.aws.amazon.com/cli/latest/reference/mturk/list-assignments-for-hit.html)|[Get-MTRHITAssignmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRHITAssignmentList.html)|
 |[aws mturk list-bonus-payments](https://docs.aws.amazon.com/cli/latest/reference/mturk/list-bonus-payments.html)|[Get-MTRBonusPaymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRBonusPaymentList.html)|
-|[aws mturk list-hi-ts-for-qualification-type](https://docs.aws.amazon.com/cli/latest/reference/mturk/list-hi-ts-for-qualification-type.html)|[Get-MTRHITListForQualificationType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRHITListForQualificationType.html)|
 |[aws mturk list-hits](https://docs.aws.amazon.com/cli/latest/reference/mturk/list-hits.html)|[Get-MTRHITList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRHITList.html)|
 |[aws mturk list-hits-for-qualification-type](https://docs.aws.amazon.com/cli/latest/reference/mturk/list-hits-for-qualification-type.html)|[Get-MTRHITListForQualificationType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRHITListForQualificationType.html)|
 |[aws mturk list-qualification-requests](https://docs.aws.amazon.com/cli/latest/reference/mturk/list-qualification-requests.html)|[Get-MTRQualificationRequestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MTRQualificationRequestList.html)|

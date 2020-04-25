@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## iam
@@ -152,4 +152,5 @@ date: 2020-01-12
 |[aws iam upload-server-certificate](https://docs.aws.amazon.com/cli/latest/reference/iam/upload-server-certificate.html)|[Publish-IAMServerCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-IAMServerCertificate.html)|
 |[aws iam upload-signing-certificate](https://docs.aws.amazon.com/cli/latest/reference/iam/upload-signing-certificate.html)|[Publish-IAMSigningCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-IAMSigningCertificate.html)|
 |[aws iam upload-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/iam/upload-ssh-public-key.html)|[Publish-IAMSSHPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-IAMSSHPublicKey.html)|
+|[aws iam wizard](https://docs.aws.amazon.com/cli/latest/reference/iam/wizard.html)||
 

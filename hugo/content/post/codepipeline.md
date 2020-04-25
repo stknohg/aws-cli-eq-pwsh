@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## codepipeline
@@ -45,6 +45,7 @@ date: 2020-01-12
 |[aws codepipeline register-webhook-with-third-party](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/register-webhook-with-third-party.html)|[Register-CPWebhookWithThirdParty](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CPWebhookWithThirdParty.html)|
 |[aws codepipeline retry-stage-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/retry-stage-execution.html)|[Redo-CPStageExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Redo-CPStageExecution.html)|
 |[aws codepipeline start-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/start-pipeline-execution.html)|[Start-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CPPipelineExecution.html)|
+|[aws codepipeline stop-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/stop-pipeline-execution.html)|[Stop-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CPPipelineExecution.html)|
 |[aws codepipeline tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/tag-resource.html)|[Add-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CPResourceTag.html)|
 |[aws codepipeline untag-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/untag-resource.html)|[Remove-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPResourceTag.html)|
 |[aws codepipeline update-pipeline](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/update-pipeline.html)|[Update-CPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CPPipeline.html)|

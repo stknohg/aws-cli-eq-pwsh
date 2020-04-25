@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## cloudtrail
@@ -13,7 +13,6 @@ date: 2020-01-12
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws cloudtrail add-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/add-tags.html)|[Add-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CTResourceTag.html)|
-|[aws cloudtrail create-subscription](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/create-subscription.html)||
 |[aws cloudtrail create-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/create-trail.html)|[New-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CTTrail.html)|
 |[aws cloudtrail delete-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/delete-trail.html)|[Remove-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTTrail.html)|
 |[aws cloudtrail describe-trails](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/describe-trails.html)|[Get-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrail.html)|
@@ -30,7 +29,6 @@ date: 2020-01-12
 |[aws cloudtrail remove-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/remove-tags.html)|[Remove-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTResourceTag.html)|
 |[aws cloudtrail start-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-logging.html)|[Start-CTLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTLogging.html)|
 |[aws cloudtrail stop-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/stop-logging.html)|[Stop-CTLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CTLogging.html)|
-|[aws cloudtrail update-subscription](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/update-subscription.html)||
 |[aws cloudtrail update-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/update-trail.html)|[Update-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CTTrail.html)|
 |[aws cloudtrail validate-logs](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/validate-logs.html)||
 

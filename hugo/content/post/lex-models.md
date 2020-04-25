@@ -1,6 +1,6 @@
 ---
 title: lex-models
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## lex-models
@@ -43,9 +43,12 @@ date: 2020-01-12
 |[aws lex-models get-slot-type-versions](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-slot-type-versions.html)|[Get-LMBSlotTypeVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBSlotTypeVersionList.html)|
 |[aws lex-models get-slot-types](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-slot-types.html)|[Get-LMBSlotTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBSlotTypeList.html)|
 |[aws lex-models get-utterances-view](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-utterances-view.html)|[Get-LMBUtterancesView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBUtterancesView.html)|
+|[aws lex-models list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/lex-models/list-tags-for-resource.html)|[Get-LMBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBResourceTag.html)|
 |[aws lex-models put-bot](https://docs.aws.amazon.com/cli/latest/reference/lex-models/put-bot.html)|[Write-LMBBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMBBot.html)|
 |[aws lex-models put-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lex-models/put-bot-alias.html)|[Write-LMBBotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMBBotAlias.html)|
 |[aws lex-models put-intent](https://docs.aws.amazon.com/cli/latest/reference/lex-models/put-intent.html)|[Write-LMBIntent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMBIntent.html)|
 |[aws lex-models put-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lex-models/put-slot-type.html)|[Write-LMBSlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMBSlotType.html)|
 |[aws lex-models start-import](https://docs.aws.amazon.com/cli/latest/reference/lex-models/start-import.html)|[Start-LMBImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBImport.html)|
+|[aws lex-models tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lex-models/tag-resource.html)|[Add-LMBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMBResourceTag.html)|
+|[aws lex-models untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lex-models/untag-resource.html)|[Remove-LMBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBResourceTag.html)|
 

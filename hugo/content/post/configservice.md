@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## configservice
@@ -84,6 +84,7 @@ date: 2020-01-12
 |[aws configservice put-remediation-exceptions](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-remediation-exceptions.html)|[Write-CFGRemediationException](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGRemediationException.html)|
 |[aws configservice put-resource-config](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-resource-config.html)|[Write-CFGResourceConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGResourceConfig.html)|
 |[aws configservice put-retention-configuration](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-retention-configuration.html)|[Write-CFGRetentionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGRetentionConfiguration.html)|
+|[aws configservice select-aggregate-resource-config](https://docs.aws.amazon.com/cli/latest/reference/configservice/select-aggregate-resource-config.html)|[Select-CFGAggregateResourceConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Select-CFGAggregateResourceConfig.html)|
 |[aws configservice select-resource-config](https://docs.aws.amazon.com/cli/latest/reference/configservice/select-resource-config.html)|[Select-CFGResourceConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Select-CFGResourceConfig.html)|
 |[aws configservice start-config-rules-evaluation](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-config-rules-evaluation.html)|[Start-CFGConfigRulesEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigRulesEvaluation.html)|
 |[aws configservice start-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-configuration-recorder.html)|[Start-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigurationRecorder.html)|

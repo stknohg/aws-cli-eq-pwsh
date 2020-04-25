@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## route53domains

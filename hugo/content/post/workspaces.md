@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## workspaces
@@ -36,7 +36,7 @@ date: 2020-01-12
 |[aws workspaces disassociate-ip-groups](https://docs.aws.amazon.com/cli/latest/reference/workspaces/disassociate-ip-groups.html)|[Unregister-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSIpGroup.html)|
 |[aws workspaces import-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/import-workspace-image.html)|[Import-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSWorkspaceImage.html)|
 |[aws workspaces list-available-management-cidr-ranges](https://docs.aws.amazon.com/cli/latest/reference/workspaces/list-available-management-cidr-ranges.html)|[Get-WKSAvailableManagementCidrRangeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAvailableManagementCidrRangeList.html)|
-|[aws workspaces migrate-workspace](https://docs.aws.amazon.com/cli/latest/reference/workspaces/migrate-workspace.html)||
+|[aws workspaces migrate-workspace](https://docs.aws.amazon.com/cli/latest/reference/workspaces/migrate-workspace.html)|[Start-WKSWorkspaceMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WKSWorkspaceMigration.html)|
 |[aws workspaces modify-account](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-account.html)|[Edit-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSAccount.html)|
 |[aws workspaces modify-client-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-client-properties.html)|[Edit-WKSClientProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSClientProperty.html)|
 |[aws workspaces modify-selfservice-permissions](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-selfservice-permissions.html)|[Edit-WKSSelfservicePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSelfservicePermission.html)|

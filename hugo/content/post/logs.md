@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## logs
@@ -49,6 +49,7 @@ date: 2020-01-12
 |[aws logs start-query](https://docs.aws.amazon.com/cli/latest/reference/logs/start-query.html)|[Start-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLQuery.html)|
 |[aws logs stop-query](https://docs.aws.amazon.com/cli/latest/reference/logs/stop-query.html)|[Stop-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLQuery.html)|
 |[aws logs tag-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/tag-log-group.html)|[Add-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWLLogGroupTag.html)|
+|[aws logs tail](https://docs.aws.amazon.com/cli/latest/reference/logs/tail.html)||
 |[aws logs test-metric-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/test-metric-filter.html)|[Test-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CWLMetricFilter.html)|
 |[aws logs untag-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/untag-log-group.html)|[Remove-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroupTag.html)|
 

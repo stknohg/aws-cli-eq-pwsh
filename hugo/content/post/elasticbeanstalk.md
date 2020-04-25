@@ -1,6 +1,6 @@
 ---
 title: elasticbeanstalk
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## elasticbeanstalk
@@ -41,6 +41,7 @@ date: 2020-01-12
 |[aws elasticbeanstalk describe-instances-health](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/describe-instances-health.html)|[Get-EBInstanceHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBInstanceHealth.html)|
 |[aws elasticbeanstalk describe-platform-version](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/describe-platform-version.html)|[Get-EBPlatformVersionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBPlatformVersionDetail.html)|
 |[aws elasticbeanstalk list-available-solution-stacks](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-available-solution-stacks.html)|[Get-EBAvailableSolutionStackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBAvailableSolutionStackList.html)|
+|[aws elasticbeanstalk list-platform-branches](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-platform-branches.html)||
 |[aws elasticbeanstalk list-platform-versions](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-platform-versions.html)|[Get-EBPlatformVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBPlatformVersion.html)|
 |[aws elasticbeanstalk list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-tags-for-resource.html)|[Get-EBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBResourceTag.html)|
 |[aws elasticbeanstalk rebuild-environment](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/rebuild-environment.html)|[Start-EBEnvironmentRebuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EBEnvironmentRebuild.html)|

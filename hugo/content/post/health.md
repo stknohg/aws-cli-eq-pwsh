@@ -1,6 +1,6 @@
 ---
 title: health
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## health
@@ -12,17 +12,17 @@ date: 2020-01-12
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws health describe-affected-accounts-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-affected-accounts-for-organization.html)||
+|[aws health describe-affected-accounts-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-affected-accounts-for-organization.html)|[Get-HLTHAffectedAccountsForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHAffectedAccountsForOrganization.html)|
 |[aws health describe-affected-entities](https://docs.aws.amazon.com/cli/latest/reference/health/describe-affected-entities.html)|[Get-HLTHAffectedEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHAffectedEntity.html)|
-|[aws health describe-affected-entities-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-affected-entities-for-organization.html)||
+|[aws health describe-affected-entities-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-affected-entities-for-organization.html)|[Get-HLTHAffectedEntitiesForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHAffectedEntitiesForOrganization.html)|
 |[aws health describe-entity-aggregates](https://docs.aws.amazon.com/cli/latest/reference/health/describe-entity-aggregates.html)|[Get-HLTHEntityAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEntityAggregate.html)|
 |[aws health describe-event-aggregates](https://docs.aws.amazon.com/cli/latest/reference/health/describe-event-aggregates.html)|[Get-HLTHEventAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventAggregate.html)|
 |[aws health describe-event-details](https://docs.aws.amazon.com/cli/latest/reference/health/describe-event-details.html)|[Get-HLTHEventDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventDetail.html)|
-|[aws health describe-event-details-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-event-details-for-organization.html)||
+|[aws health describe-event-details-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-event-details-for-organization.html)|[Get-HLTHEventDetailsForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventDetailsForOrganization.html)|
 |[aws health describe-event-types](https://docs.aws.amazon.com/cli/latest/reference/health/describe-event-types.html)|[Get-HLTHEventType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventType.html)|
 |[aws health describe-events](https://docs.aws.amazon.com/cli/latest/reference/health/describe-events.html)|[Get-HLTHEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEvent.html)|
-|[aws health describe-events-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-events-for-organization.html)||
-|[aws health describe-health-service-status-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-health-service-status-for-organization.html)||
-|[aws health disable-health-service-access-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/disable-health-service-access-for-organization.html)||
-|[aws health enable-health-service-access-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/enable-health-service-access-for-organization.html)||
+|[aws health describe-events-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-events-for-organization.html)|[Get-HLTHEventsForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventsForOrganization.html)|
+|[aws health describe-health-service-status-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/describe-health-service-status-for-organization.html)|[Get-HLTHHealthServiceStatusForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHHealthServiceStatusForOrganization.html)|
+|[aws health disable-health-service-access-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/disable-health-service-access-for-organization.html)|[Disable-HLTHHealthServiceAccessForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-HLTHHealthServiceAccessForOrganization.html)|
+|[aws health enable-health-service-access-for-organization](https://docs.aws.amazon.com/cli/latest/reference/health/enable-health-service-access-for-organization.html)|[Enable-HLTHHealthServiceAccessForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-HLTHHealthServiceAccessForOrganization.html)|
 

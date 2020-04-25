@@ -1,6 +1,6 @@
 ---
 title: shield
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## shield
@@ -14,6 +14,7 @@ date: 2020-01-12
 |----|----|
 |[aws shield associate-drt-log-bucket](https://docs.aws.amazon.com/cli/latest/reference/shield/associate-drt-log-bucket.html)|[Grant-SHLDDRTLogBucketAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-SHLDDRTLogBucketAssociation.html)|
 |[aws shield associate-drt-role](https://docs.aws.amazon.com/cli/latest/reference/shield/associate-drt-role.html)|[Grant-SHLDDRTRoleAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-SHLDDRTRoleAssociation.html)|
+|[aws shield associate-health-check](https://docs.aws.amazon.com/cli/latest/reference/shield/associate-health-check.html)|[Add-SHLDHealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SHLDHealthCheck.html)|
 |[aws shield create-protection](https://docs.aws.amazon.com/cli/latest/reference/shield/create-protection.html)|[New-SHLDProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHLDProtection.html)|
 |[aws shield create-subscription](https://docs.aws.amazon.com/cli/latest/reference/shield/create-subscription.html)|[New-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHLDSubscription.html)|
 |[aws shield delete-protection](https://docs.aws.amazon.com/cli/latest/reference/shield/delete-protection.html)|[Remove-SHLDProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDProtection.html)|
@@ -25,6 +26,7 @@ date: 2020-01-12
 |[aws shield describe-subscription](https://docs.aws.amazon.com/cli/latest/reference/shield/describe-subscription.html)|[Get-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDSubscription.html)|
 |[aws shield disassociate-drt-log-bucket](https://docs.aws.amazon.com/cli/latest/reference/shield/disassociate-drt-log-bucket.html)|[Revoke-SHLDDRTLogBucketAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-SHLDDRTLogBucketAssociation.html)|
 |[aws shield disassociate-drt-role](https://docs.aws.amazon.com/cli/latest/reference/shield/disassociate-drt-role.html)|[Revoke-SHLDDRTRoleAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-SHLDDRTRoleAssociation.html)|
+|[aws shield disassociate-health-check](https://docs.aws.amazon.com/cli/latest/reference/shield/disassociate-health-check.html)|[Remove-SHLDHealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDHealthCheck.html)|
 |[aws shield get-subscription-state](https://docs.aws.amazon.com/cli/latest/reference/shield/get-subscription-state.html)|[Get-SHLDSubscriptionState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDSubscriptionState.html)|
 |[aws shield list-attacks](https://docs.aws.amazon.com/cli/latest/reference/shield/list-attacks.html)|[Get-SHLDAttackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDAttackList.html)|
 |[aws shield list-protections](https://docs.aws.amazon.com/cli/latest/reference/shield/list-protections.html)|[Get-SHLDProtectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDProtectionList.html)|

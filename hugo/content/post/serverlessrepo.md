@@ -1,6 +1,6 @@
 ---
 title: serverlessrepo
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## serverlessrepo
@@ -24,5 +24,6 @@ date: 2020-01-12
 |[aws serverlessrepo list-application-versions](https://docs.aws.amazon.com/cli/latest/reference/serverlessrepo/list-application-versions.html)|[Get-SARApplicationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SARApplicationVersionList.html)|
 |[aws serverlessrepo list-applications](https://docs.aws.amazon.com/cli/latest/reference/serverlessrepo/list-applications.html)|[Get-SARApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SARApplicationList.html)|
 |[aws serverlessrepo put-application-policy](https://docs.aws.amazon.com/cli/latest/reference/serverlessrepo/put-application-policy.html)|[Set-SARApplicationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SARApplicationPolicy.html)|
+|[aws serverlessrepo unshare-application](https://docs.aws.amazon.com/cli/latest/reference/serverlessrepo/unshare-application.html)|[Revoke-SARApplicationSharing](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-SARApplicationSharing.html)|
 |[aws serverlessrepo update-application](https://docs.aws.amazon.com/cli/latest/reference/serverlessrepo/update-application.html)|[Update-SARApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SARApplication.html)|
 

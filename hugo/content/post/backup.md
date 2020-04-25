@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## backup
@@ -23,6 +23,7 @@ date: 2020-01-12
 |[aws backup delete-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-recovery-point.html)|[Remove-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKRecoveryPoint.html)|
 |[aws backup describe-backup-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-backup-job.html)|[Get-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJob.html)|
 |[aws backup describe-backup-vault](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-backup-vault.html)|[Get-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVault.html)|
+|[aws backup describe-copy-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-copy-job.html)|[Get-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJob.html)|
 |[aws backup describe-protected-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-protected-resource.html)|[Get-BAKProtectedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResource.html)|
 |[aws backup describe-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-recovery-point.html)|[Get-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPoint.html)|
 |[aws backup describe-restore-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-restore-job.html)|[Get-BAKRestoreJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJob.html)|
@@ -41,6 +42,7 @@ date: 2020-01-12
 |[aws backup list-backup-plans](https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-plans.html)|[Get-BAKBackupPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanList.html)|
 |[aws backup list-backup-selections](https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-selections.html)|[Get-BAKBackupSelectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupSelectionList.html)|
 |[aws backup list-backup-vaults](https://docs.aws.amazon.com/cli/latest/reference/backup/list-backup-vaults.html)|[Get-BAKBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultList.html)|
+|[aws backup list-copy-jobs](https://docs.aws.amazon.com/cli/latest/reference/backup/list-copy-jobs.html)|[Get-BAKCopyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJobList.html)|
 |[aws backup list-protected-resources](https://docs.aws.amazon.com/cli/latest/reference/backup/list-protected-resources.html)|[Get-BAKProtectedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResourceList.html)|
 |[aws backup list-recovery-points-by-backup-vault](https://docs.aws.amazon.com/cli/latest/reference/backup/list-recovery-points-by-backup-vault.html)|[Get-BAKRecoveryPointsByBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByBackupVaultList.html)|
 |[aws backup list-recovery-points-by-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/list-recovery-points-by-resource.html)|[Get-BAKRecoveryPointsByResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByResourceList.html)|
@@ -49,6 +51,7 @@ date: 2020-01-12
 |[aws backup put-backup-vault-access-policy](https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-access-policy.html)|[Write-BAKBackupVaultAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultAccessPolicy.html)|
 |[aws backup put-backup-vault-notifications](https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-notifications.html)|[Write-BAKBackupVaultNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultNotification.html)|
 |[aws backup start-backup-job](https://docs.aws.amazon.com/cli/latest/reference/backup/start-backup-job.html)|[Start-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKBackupJob.html)|
+|[aws backup start-copy-job](https://docs.aws.amazon.com/cli/latest/reference/backup/start-copy-job.html)|[Start-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKCopyJob.html)|
 |[aws backup start-restore-job](https://docs.aws.amazon.com/cli/latest/reference/backup/start-restore-job.html)|[Start-BAKRestoreJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKRestoreJob.html)|
 |[aws backup stop-backup-job](https://docs.aws.amazon.com/cli/latest/reference/backup/stop-backup-job.html)|[Stop-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BAKBackupJob.html)|
 |[aws backup tag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/tag-resource.html)|[Add-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKResourceTag.html)|

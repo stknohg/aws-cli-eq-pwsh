@@ -1,6 +1,6 @@
 ---
 title: detective
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## detective
@@ -12,15 +12,16 @@ date: 2020-01-12
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws detective accept-invitation](https://docs.aws.amazon.com/cli/latest/reference/detective/accept-invitation.html)||
-|[aws detective create-graph](https://docs.aws.amazon.com/cli/latest/reference/detective/create-graph.html)||
-|[aws detective create-members](https://docs.aws.amazon.com/cli/latest/reference/detective/create-members.html)||
-|[aws detective delete-graph](https://docs.aws.amazon.com/cli/latest/reference/detective/delete-graph.html)||
-|[aws detective delete-members](https://docs.aws.amazon.com/cli/latest/reference/detective/delete-members.html)||
-|[aws detective disassociate-membership](https://docs.aws.amazon.com/cli/latest/reference/detective/disassociate-membership.html)||
-|[aws detective get-members](https://docs.aws.amazon.com/cli/latest/reference/detective/get-members.html)||
-|[aws detective list-graphs](https://docs.aws.amazon.com/cli/latest/reference/detective/list-graphs.html)||
-|[aws detective list-invitations](https://docs.aws.amazon.com/cli/latest/reference/detective/list-invitations.html)||
-|[aws detective list-members](https://docs.aws.amazon.com/cli/latest/reference/detective/list-members.html)||
-|[aws detective reject-invitation](https://docs.aws.amazon.com/cli/latest/reference/detective/reject-invitation.html)||
+|[aws detective accept-invitation](https://docs.aws.amazon.com/cli/latest/reference/detective/accept-invitation.html)|[Approve-DTCTInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-DTCTInvitation.html)|
+|[aws detective create-graph](https://docs.aws.amazon.com/cli/latest/reference/detective/create-graph.html)|[New-DTCTGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DTCTGraph.html)|
+|[aws detective create-members](https://docs.aws.amazon.com/cli/latest/reference/detective/create-members.html)|[New-DTCTMember](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DTCTMember.html)|
+|[aws detective delete-graph](https://docs.aws.amazon.com/cli/latest/reference/detective/delete-graph.html)|[Remove-DTCTGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DTCTGraph.html)|
+|[aws detective delete-members](https://docs.aws.amazon.com/cli/latest/reference/detective/delete-members.html)|[Remove-DTCTMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DTCTMember.html)|
+|[aws detective disassociate-membership](https://docs.aws.amazon.com/cli/latest/reference/detective/disassociate-membership.html)|[Remove-DTCTMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DTCTMembership.html)|
+|[aws detective get-members](https://docs.aws.amazon.com/cli/latest/reference/detective/get-members.html)|[Get-DTCTMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTMember.html)|
+|[aws detective list-graphs](https://docs.aws.amazon.com/cli/latest/reference/detective/list-graphs.html)|[Get-DTCTGraphList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTGraphList.html)|
+|[aws detective list-invitations](https://docs.aws.amazon.com/cli/latest/reference/detective/list-invitations.html)|[Get-DTCTInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTInvitationList.html)|
+|[aws detective list-members](https://docs.aws.amazon.com/cli/latest/reference/detective/list-members.html)|[Get-DTCTMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTMemberList.html)|
+|[aws detective reject-invitation](https://docs.aws.amazon.com/cli/latest/reference/detective/reject-invitation.html)|[Deny-DTCTInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DTCTInvitation.html)|
+|[aws detective start-monitoring-member](https://docs.aws.amazon.com/cli/latest/reference/detective/start-monitoring-member.html)||
 

@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## kafka
@@ -24,6 +24,7 @@ date: 2020-01-12
 |[aws kafka list-clusters](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-clusters.html)|[Get-MSKClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterList.html)|
 |[aws kafka list-configuration-revisions](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-configuration-revisions.html)|[Get-MSKConfigurationRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevisionList.html)|
 |[aws kafka list-configurations](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-configurations.html)|[Get-MSKConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationList.html)|
+|[aws kafka list-kafka-versions](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-kafka-versions.html)|[Get-MSKKafkaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKKafkaVersionList.html)|
 |[aws kafka list-nodes](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-nodes.html)|[Get-MSKNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKNodeList.html)|
 |[aws kafka list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-tags-for-resource.html)|[Get-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKResourceTag.html)|
 |[aws kafka tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/tag-resource.html)|[Add-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MSKResourceTag.html)|

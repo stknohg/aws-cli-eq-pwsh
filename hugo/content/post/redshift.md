@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## redshift
@@ -89,12 +89,14 @@ date: 2020-01-12
 |[aws redshift modify-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-scheduled-action.html)|[Edit-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSScheduledAction.html)|
 |[aws redshift modify-snapshot-copy-retention-period](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-copy-retention-period.html)|[Edit-RSSnapshotCopyRetentionPeriod](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotCopyRetentionPeriod.html)|
 |[aws redshift modify-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-schedule.html)|[Edit-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotSchedule.html)|
+|[aws redshift pause-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/pause-cluster.html)|[Stop-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RSCluster.html)|
 |[aws redshift purchase-reserved-node-offering](https://docs.aws.amazon.com/cli/latest/reference/redshift/purchase-reserved-node-offering.html)|[Request-RSReservedNodeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-RSReservedNodeOffering.html)|
 |[aws redshift reboot-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/reboot-cluster.html)|[Restart-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RSCluster.html)|
 |[aws redshift reset-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/reset-cluster-parameter-group.html)|[Reset-RSClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-RSClusterParameterGroup.html)|
 |[aws redshift resize-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/resize-cluster.html)|[Set-RSClusterSize](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-RSClusterSize.html)|
 |[aws redshift restore-from-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/restore-from-cluster-snapshot.html)|[Restore-RSFromClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RSFromClusterSnapshot.html)|
 |[aws redshift restore-table-from-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/restore-table-from-cluster-snapshot.html)|[Restore-RSTableFromClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RSTableFromClusterSnapshot.html)|
+|[aws redshift resume-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/resume-cluster.html)|[Start-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RSCluster.html)|
 |[aws redshift revoke-cluster-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-cluster-security-group-ingress.html)|[Revoke-RSClusterSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSClusterSecurityGroupIngress.html)|
 |[aws redshift revoke-snapshot-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-snapshot-access.html)|[Revoke-RSSnapshotAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSSnapshotAccess.html)|
 |[aws redshift rotate-encryption-key](https://docs.aws.amazon.com/cli/latest/reference/redshift/rotate-encryption-key.html)|[Switch-RSEncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RSEncryptionKey.html)|

@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## sagemaker
@@ -84,6 +84,7 @@ date: 2020-01-12
 |[aws sagemaker describe-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-trial.html)|[Get-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrial.html)|
 |[aws sagemaker describe-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-trial-component.html)|[Get-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrialComponent.html)|
 |[aws sagemaker describe-user-profile](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-user-profile.html)|[Get-SMUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMUserProfile.html)|
+|[aws sagemaker describe-workforce](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-workforce.html)|[Get-SMWorkforce](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMWorkforce.html)|
 |[aws sagemaker describe-workteam](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-workteam.html)|[Get-SMWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMWorkteam.html)|
 |[aws sagemaker disassociate-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/disassociate-trial-component.html)|[Unregister-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SMTrialComponent.html)|
 |[aws sagemaker get-search-suggestions](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/get-search-suggestions.html)|[Get-SMSearchSuggestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSearchSuggestion.html)|
@@ -142,5 +143,6 @@ date: 2020-01-12
 |[aws sagemaker update-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-trial.html)|[Update-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMTrial.html)|
 |[aws sagemaker update-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-trial-component.html)|[Update-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMTrialComponent.html)|
 |[aws sagemaker update-user-profile](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-user-profile.html)|[Update-SMUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMUserProfile.html)|
+|[aws sagemaker update-workforce](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-workforce.html)|[Update-SMWorkforce](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMWorkforce.html)|
 |[aws sagemaker update-workteam](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-workteam.html)|[Update-SMWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMWorkteam.html)|
 

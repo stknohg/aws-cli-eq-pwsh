@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## quicksight
@@ -62,6 +62,7 @@ date: 2020-01-12
 |[aws quicksight list-user-groups](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-user-groups.html)|[Get-QSUserGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserGroupList.html)|
 |[aws quicksight list-users](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-users.html)|[Get-QSUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserList.html)|
 |[aws quicksight register-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/register-user.html)|[Register-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-QSUser.html)|
+|[aws quicksight search-dashboards](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-dashboards.html)|[Search-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDashboard.html)|
 |[aws quicksight tag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|
 |[aws quicksight untag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/untag-resource.html)|[Remove-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSResourceTag.html)|
 |[aws quicksight update-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-dashboard.html)|[Update-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboard.html)|

@@ -1,6 +1,6 @@
 ---
 title: sdb
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## sdb
@@ -12,6 +12,14 @@ date: 2020-01-12
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws sdb awsconfiguresetpreview.sdbtrue](https://docs.aws.amazon.com/cli/latest/reference/sdb/awsconfiguresetpreview.sdbtrue.html)||
-|[aws sdb orbyrunning:](https://docs.aws.amazon.com/cli/latest/reference/sdb/orbyrunning:.html)||
+|[aws sdb batch-delete-attributes](https://docs.aws.amazon.com/cli/latest/reference/sdb/batch-delete-attributes.html)||
+|[aws sdb batch-put-attributes](https://docs.aws.amazon.com/cli/latest/reference/sdb/batch-put-attributes.html)||
+|[aws sdb create-domain](https://docs.aws.amazon.com/cli/latest/reference/sdb/create-domain.html)||
+|[aws sdb delete-attributes](https://docs.aws.amazon.com/cli/latest/reference/sdb/delete-attributes.html)||
+|[aws sdb delete-domain](https://docs.aws.amazon.com/cli/latest/reference/sdb/delete-domain.html)||
+|[aws sdb domain-metadata](https://docs.aws.amazon.com/cli/latest/reference/sdb/domain-metadata.html)||
+|[aws sdb get-attributes](https://docs.aws.amazon.com/cli/latest/reference/sdb/get-attributes.html)||
+|[aws sdb list-domains](https://docs.aws.amazon.com/cli/latest/reference/sdb/list-domains.html)||
+|[aws sdb put-attributes](https://docs.aws.amazon.com/cli/latest/reference/sdb/put-attributes.html)||
+|[aws sdb select](https://docs.aws.amazon.com/cli/latest/reference/sdb/select.html)||
 

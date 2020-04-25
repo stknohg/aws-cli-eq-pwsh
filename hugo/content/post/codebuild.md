@@ -1,6 +1,6 @@
 ---
 title: codebuild
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## codebuild
@@ -23,11 +23,11 @@ date: 2020-01-12
 |[aws codebuild delete-project](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-project.html)|[Remove-CBProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBProject.html)|
 |[aws codebuild delete-report](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-report.html)|[Remove-CBReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBReport.html)|
 |[aws codebuild delete-report-group](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-report-group.html)|[Remove-CBReportGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBReportGroup.html)|
-|[aws codebuild delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-resource-policy.html)||
+|[aws codebuild delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-resource-policy.html)|[Remove-CBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBResourcePolicy.html)|
 |[aws codebuild delete-source-credentials](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-source-credentials.html)|[Remove-CBSourceCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBSourceCredential.html)|
 |[aws codebuild delete-webhook](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-webhook.html)|[Remove-CBWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBWebhook.html)|
 |[aws codebuild describe-test-cases](https://docs.aws.amazon.com/cli/latest/reference/codebuild/describe-test-cases.html)|[Get-CBTestCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBTestCase.html)|
-|[aws codebuild get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/get-resource-policy.html)||
+|[aws codebuild get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/get-resource-policy.html)|[Get-CBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBResourcePolicy.html)|
 |[aws codebuild import-source-credentials](https://docs.aws.amazon.com/cli/latest/reference/codebuild/import-source-credentials.html)|[Import-CBSourceCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-CBSourceCredential.html)|
 |[aws codebuild invalidate-project-cache](https://docs.aws.amazon.com/cli/latest/reference/codebuild/invalidate-project-cache.html)|[Reset-CBProjectCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-CBProjectCache.html)|
 |[aws codebuild list-builds](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-builds.html)|[Get-CBBuildIdList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBBuildIdList.html)|
@@ -37,10 +37,10 @@ date: 2020-01-12
 |[aws codebuild list-report-groups](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-report-groups.html)|[Get-CBReportGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportGroupList.html)|
 |[aws codebuild list-reports](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-reports.html)|[Get-CBReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportList.html)|
 |[aws codebuild list-reports-for-report-group](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-reports-for-report-group.html)|[Get-CBReportsForReportGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportsForReportGroupList.html)|
-|[aws codebuild list-shared-projects](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-shared-projects.html)||
-|[aws codebuild list-shared-report-groups](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-shared-report-groups.html)||
+|[aws codebuild list-shared-projects](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-shared-projects.html)|[Get-CBSharedProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBSharedProjectList.html)|
+|[aws codebuild list-shared-report-groups](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-shared-report-groups.html)|[Get-CBSharedReportGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBSharedReportGroupList.html)|
 |[aws codebuild list-source-credentials](https://docs.aws.amazon.com/cli/latest/reference/codebuild/list-source-credentials.html)|[Get-CBSourceCredentialList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBSourceCredentialList.html)|
-|[aws codebuild put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/put-resource-policy.html)||
+|[aws codebuild put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/put-resource-policy.html)|[Write-CBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CBResourcePolicy.html)|
 |[aws codebuild start-build](https://docs.aws.amazon.com/cli/latest/reference/codebuild/start-build.html)|[Start-CBBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CBBuild.html)|
 |[aws codebuild stop-build](https://docs.aws.amazon.com/cli/latest/reference/codebuild/stop-build.html)|[Stop-CBBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CBBuild.html)|
 |[aws codebuild update-project](https://docs.aws.amazon.com/cli/latest/reference/codebuild/update-project.html)|[Update-CBProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBProject.html)|

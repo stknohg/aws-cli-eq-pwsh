@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## outposts
@@ -13,6 +13,8 @@ date: 2020-01-12
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws outposts create-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/create-outpost.html)|[New-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPOutpost.html)|
+|[aws outposts delete-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/delete-outpost.html)|[Remove-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPOutpost.html)|
+|[aws outposts delete-site](https://docs.aws.amazon.com/cli/latest/reference/outposts/delete-site.html)|[Remove-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPSite.html)|
 |[aws outposts get-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-outpost.html)|[Get-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpost.html)|
 |[aws outposts get-outpost-instance-types](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
 |[aws outposts list-outposts](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-outposts.html)|[Get-OUTPOutpostList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostList.html)|

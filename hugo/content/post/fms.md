@@ -1,6 +1,6 @@
 ---
 title: fms
-date: 2020-01-12
+date: 2020-04-25
 ---
 
 ## fms
@@ -24,9 +24,9 @@ date: 2020-01-12
 |[aws fms list-compliance-status](https://docs.aws.amazon.com/cli/latest/reference/fms/list-compliance-status.html)|[Get-FMSComplianceStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSComplianceStatusList.html)|
 |[aws fms list-member-accounts](https://docs.aws.amazon.com/cli/latest/reference/fms/list-member-accounts.html)|[Get-FMSMemberAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSMemberAccountList.html)|
 |[aws fms list-policies](https://docs.aws.amazon.com/cli/latest/reference/fms/list-policies.html)|[Get-FMSPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSPolicyList.html)|
-|[aws fms list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/list-tags-for-resource.html)||
+|[aws fms list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/list-tags-for-resource.html)|[Get-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceTag.html)|
 |[aws fms put-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/fms/put-notification-channel.html)|[Write-FMSNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSNotificationChannel.html)|
 |[aws fms put-policy](https://docs.aws.amazon.com/cli/latest/reference/fms/put-policy.html)|[Set-FMSPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-FMSPolicy.html)|
-|[aws fms tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/tag-resource.html)||
-|[aws fms untag-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/untag-resource.html)||
+|[aws fms tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/tag-resource.html)|[Add-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FMSResourceTag.html)|
+|[aws fms untag-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/untag-resource.html)|[Remove-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSResourceTag.html)|
 

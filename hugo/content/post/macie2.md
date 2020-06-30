@@ -8,7 +8,7 @@ date: 2020-06-30
 ### [Amazon Macie](https://aws.amazon.com/macie/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/macie2/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Macie2_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

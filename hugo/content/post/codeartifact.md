@@ -8,7 +8,7 @@ date: 2020-06-30
 ### [AWS Artifact](https://aws.amazon.com/artifact/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CodeArtifact_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

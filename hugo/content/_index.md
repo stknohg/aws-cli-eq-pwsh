@@ -59,7 +59,7 @@ For that reason, some content may not be accurate.
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||
 |[AWS CodePipeline](https://aws.amazon.com/codepipeline/)|[codepipeline]({{%relref "post/codepipeline.md" %}})|CP||
 |[AWS CodeStar](https://aws.amazon.com/codestar/)|[codestar]({{%relref "post/codestar.md" %}})|CST||
-|[AWS CodeStar Connections ](https://aws.amazon.com/codestar/)|[codestar-connections]({{%relref "post/codestar-connections.md" %}})|||
+|[AWS CodeStar Connections ](https://aws.amazon.com/codestar/)|[codestar-connections]({{%relref "post/codestar-connections.md" %}})|CSTC||
 |[AWS CodeStar Notifications](https://aws.amazon.com/codestar/)|[codestar-notifications]({{%relref "post/codestar-notifications.md" %}})|CSTN||
 |[Amazon Cognito uniquely identifies](https://aws.amazon.com/cognito/)|[cognito-identity]({{%relref "post/cognito-identity.md" %}})|CGI||
 |[Amazon Cognito Identity Provider](https://aws.amazon.com/cognito/)|[cognito-idp]({{%relref "post/cognito-idp.md" %}})|CGIP||
@@ -78,7 +78,7 @@ For that reason, some content may not be accurate.
 |[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/)|[dax]({{%relref "post/dax.md" %}})|DAX||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})|DDB|High level DynamoDB commands.|
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
-|[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|||
+|[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|DTCT||
 |[AWS Device Farm](https://aws.amazon.com/device-farm/)|[devicefarm]({{%relref "post/devicefarm.md" %}})|DF||
 |[AWS Direct Connect](https://aws.amazon.com/directconnect/)|[directconnect]({{%relref "post/directconnect.md" %}})|DC||
 |[AWS Application Discovery Service](https://aws.amazon.com/application-discovery/)|[discovery]({{%relref "post/discovery.md" %}})|ADS||

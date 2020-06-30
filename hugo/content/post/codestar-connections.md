@@ -8,7 +8,7 @@ date: 2020-06-30
 ### [AWS CodeStar Connections ](https://aws.amazon.com/codestar/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/codestar-connections/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarconnections_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

@@ -8,7 +8,7 @@ date: 2020-06-30
 ### [Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSiteWise_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

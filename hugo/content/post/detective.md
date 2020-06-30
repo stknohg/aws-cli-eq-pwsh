@@ -8,7 +8,7 @@ date: 2020-06-30
 ### [Amazon Detective](https://aws.amazon.com/detective/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/detective/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Detective_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

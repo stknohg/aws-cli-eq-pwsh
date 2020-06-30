@@ -8,7 +8,7 @@ date: 2020-06-30
 ### [Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/synthetics/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Synthetics_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

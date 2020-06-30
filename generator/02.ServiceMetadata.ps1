@@ -130,6 +130,7 @@ $g_AWSServices = @{
     'cloudsearchdomain'            = [PSCustomObject]@{ Prefix = 'CSD'; Name = 'Amazon CloudSearch'; Url = 'https://aws.amazon.com/cloudsearch/'; Note = '' };
     'cloudtrail'                   = [PSCustomObject]@{ Prefix = 'CT'; Name = 'AWS CloudTrail'; Url = 'https://aws.amazon.com/cloudtrail/'; Note = '' };
     'cloudwatch'                   = [PSCustomObject]@{ Prefix = 'CW'; Name = 'Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
+    'codeartifact'                 = [PSCustomObject]@{ Prefix = 'CA'; Name = 'AWS Artifact'; Url = 'https://aws.amazon.com/artifact/'; Note = '' };
     'codebuild'                    = [PSCustomObject]@{ Prefix = 'CB'; Name = 'AWS CodeBuild'; Url = 'https://aws.amazon.com/codebuild/'; Note = '' };
     'codecommit'                   = [PSCustomObject]@{ Prefix = 'CC'; Name = 'AWS CodeCommit'; Url = 'https://aws.amazon.com/codecommit/'; Note = '' };
     'codeguru-reviewer'            = [PSCustomObject]@{ Prefix = 'CGR'; Name = 'Amazon CodeGuru Reviewer'; Url = 'https://aws.amazon.com/codeguru/'; Note = '' };
@@ -196,6 +197,7 @@ $g_AWSServices = @{
     'guardduty'                    = [PSCustomObject]@{ Prefix = 'GD'; Name = 'Amazon Guard​Duty'; Url = 'https://aws.amazon.com/guardduty/'; Note = '' };
     'health'                       = [PSCustomObject]@{ Prefix = 'HLTH'; Name = 'AWS Health'; Url = 'https://phd.aws.amazon.com/'; Note = '' };
     'history'                      = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = 'Commands to interact with the history of AWS CLI commands ran over time.' };
+    'honeycode'                    = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Honeycode'; Url = 'https://www.honeycode.aws/'; Note = 'Beta version' };
     'iam'                          = [PSCustomObject]@{ Prefix = 'IAM'; Name = 'AWS Identity and Access Management'; Url = 'https://aws.amazon.com/iam/'; Note = '' };
     'imagebuilder'                 = [PSCustomObject]@{ Prefix = 'EC2IB'; Name = 'EC2 Image Builder'; Url = 'https://aws.amazon.com/image-builder/'; Note = '' };
     'importexport'                 = [PSCustomObject]@{ Prefix = 'IE'; Name = 'AWS Import/Export'; Url = 'https://aws.amazon.com/snowball/'; Note = '' };
@@ -209,6 +211,7 @@ $g_AWSServices = @{
     'iotevents'                    = [PSCustomObject]@{ Prefix = 'IOTE'; Name = 'AWS IoT Events'; Url = 'https://aws.amazon.com/iot-events/'; Note = '' };
     'iotevents-data'               = [PSCustomObject]@{ Prefix = 'IOTED'; Name = 'AWS IoT Events'; Url = 'https://aws.amazon.com/iot-events/'; Note = '' };
     'iotsecuretunneling'           = [PSCustomObject]@{ Prefix = 'IOTST'; Name = 'AWS IoT Secure Tunneling'; Url = 'https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html'; Note = '' };
+    'iotsitewise'                  = [PSCustomObject]@{ Prefix = 'IOTSW'; Name = 'Amazon IoT SiteWise'; Url = 'https://aws.amazon.com/iot-sitewise/'; Note = '' };
     'iotthingsgraph'               = [PSCustomObject]@{ Prefix = 'IOTTG'; Name = 'AWS IoT Things Graph'; Url = 'https://aws.amazon.com/iot-things-graph/'; Note = '' };
     'kafka'                        = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kendra'                       = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra//'; Note = '' };
@@ -229,6 +232,7 @@ $g_AWSServices = @{
     'logs'                         = [PSCustomObject]@{ Prefix = 'CWL'; Name = 'Amazon CloudWatch Logs'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'machinelearning'              = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = '' };
     'macie'                        = [PSCustomObject]@{ Prefix = 'MAC'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
+    'macie2'                       = [PSCustomObject]@{ Prefix = 'MAC2'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
     'managedblockchain'            = [PSCustomObject]@{ Prefix = 'MBC'; Name = 'Amazon Managed Blockchain'; Url = 'https://aws.amazon.com/jp/managed-blockchain/'; Note = '' };
     'marketplace-catalog'          = [PSCustomObject]@{ Prefix = 'MCAT'; Name = 'AWS Marketplace Catalog Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'marketplace-entitlement'      = [PSCustomObject]@{ Prefix = 'MES'; Name = 'AWS Marketplace Entitlement Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
@@ -307,6 +311,7 @@ $g_AWSServices = @{
     'sts'                          = [PSCustomObject]@{ Prefix = 'STS'; Name = 'AWS Security Token Service'; Url = 'https://aws.amazon.com/iam/'; Note = '' };
     'support'                      = [PSCustomObject]@{ Prefix = 'ASA'; Name = 'AWS Support'; Url = 'https://aws.amazon.com/premiumsupport/'; Note = '' };
     'swf'                          = [PSCustomObject]@{ Prefix = 'SWF'; Name = 'Amazon Simple Workflow'; Url = 'https://aws.amazon.com/swf/'; Note = '' };
+    'synthetics'                   = [PSCustomObject]@{ Prefix = 'CWSYN'; Name = 'Amazon CloudWatch Synthetics'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'textract'                     = [PSCustomObject]@{ Prefix = 'TXT'; Name = 'Amazon Textract'; Url = 'https://aws.amazon.com/textract/'; Note = '' };
     'transcribe'                   = [PSCustomObject]@{ Prefix = 'TRS'; Name = 'Amazon Transcribe'; Url = 'https://aws.amazon.com/transcribe/'; Note = '' };
     'transfer'                     = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer for SFTP'; Url = 'https://aws.amazon.com/sftp/'; Note = '' };

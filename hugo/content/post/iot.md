@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## iot
@@ -30,7 +30,7 @@ date: 2020-04-25
 |[aws iot create-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/create-authorizer.html)|[New-IOTAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTAuthorizer.html)|
 |[aws iot create-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/create-billing-group.html)|[New-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTBillingGroup.html)|
 |[aws iot create-certificate-from-csr](https://docs.aws.amazon.com/cli/latest/reference/iot/create-certificate-from-csr.html)|[New-IOTCertificateFromCsr](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTCertificateFromCsr.html)|
-|[aws iot create-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/create-dimension.html)||
+|[aws iot create-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/create-dimension.html)|[New-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDimension.html)|
 |[aws iot create-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/create-domain-configuration.html)|[New-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDomainConfiguration.html)|
 |[aws iot create-dynamic-thing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/create-dynamic-thing-group.html)|[New-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDynamicThingGroup.html)|
 |[aws iot create-job](https://docs.aws.amazon.com/cli/latest/reference/iot/create-job.html)|[New-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTJob.html)|
@@ -56,7 +56,7 @@ date: 2020-04-25
 |[aws iot delete-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-billing-group.html)|[Remove-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTBillingGroup.html)|
 |[aws iot delete-ca-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-ca-certificate.html)|[Remove-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCACertificate.html)|
 |[aws iot delete-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-certificate.html)|[Remove-IOTCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCertificate.html)|
-|[aws iot delete-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-dimension.html)||
+|[aws iot delete-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-dimension.html)|[Remove-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDimension.html)|
 |[aws iot delete-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-domain-configuration.html)|[Remove-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDomainConfiguration.html)|
 |[aws iot delete-dynamic-thing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-dynamic-thing-group.html)|[Remove-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDynamicThingGroup.html)|
 |[aws iot delete-job](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-job.html)|[Remove-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTJob.html)|
@@ -88,7 +88,7 @@ date: 2020-04-25
 |[aws iot describe-ca-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-ca-certificate.html)|[Get-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCACertificate.html)|
 |[aws iot describe-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-certificate.html)|[Get-IOTCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCertificate.html)|
 |[aws iot describe-default-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-default-authorizer.html)|[Get-IOTDefaultAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDefaultAuthorizer.html)|
-|[aws iot describe-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-dimension.html)||
+|[aws iot describe-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-dimension.html)|[Get-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDimension.html)|
 |[aws iot describe-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-domain-configuration.html)|[Get-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDomainConfiguration.html)|
 |[aws iot describe-endpoint](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-endpoint.html)|[Get-IOTEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEndpoint.html)|
 |[aws iot describe-event-configurations](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-event-configurations.html)|[Get-IOTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEventConfiguration.html)|
@@ -137,7 +137,7 @@ date: 2020-04-25
 |[aws iot list-ca-certificates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-ca-certificates.html)|[Get-IOTCACertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCACertificateList.html)|
 |[aws iot list-certificates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-certificates.html)|[Get-IOTCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCertificateList.html)|
 |[aws iot list-certificates-by-ca](https://docs.aws.amazon.com/cli/latest/reference/iot/list-certificates-by-ca.html)|[Get-IOTCertificateListByCA](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCertificateListByCA.html)|
-|[aws iot list-dimensions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-dimensions.html)||
+|[aws iot list-dimensions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-dimensions.html)|[Get-IOTDimensionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDimensionList.html)|
 |[aws iot list-domain-configurations](https://docs.aws.amazon.com/cli/latest/reference/iot/list-domain-configurations.html)|[Get-IOTDomainConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDomainConfigurationList.html)|
 |[aws iot list-indices](https://docs.aws.amazon.com/cli/latest/reference/iot/list-indices.html)|[Get-IOTIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTIndexList.html)|
 |[aws iot list-job-executions-for-job](https://docs.aws.amazon.com/cli/latest/reference/iot/list-job-executions-for-job.html)|[Get-IOTJobExecutionsForJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobExecutionsForJobList.html)|
@@ -176,6 +176,7 @@ date: 2020-04-25
 |[aws iot list-violation-events](https://docs.aws.amazon.com/cli/latest/reference/iot/list-violation-events.html)|[Get-IOTViolationEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTViolationEventList.html)|
 |[aws iot register-ca-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/register-ca-certificate.html)|[Register-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-IOTCACertificate.html)|
 |[aws iot register-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/register-certificate.html)|[Register-IOTCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-IOTCertificate.html)|
+|[aws iot register-certificate-without-ca](https://docs.aws.amazon.com/cli/latest/reference/iot/register-certificate-without-ca.html)|[Register-IOTCertificateWithoutCA](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-IOTCertificateWithoutCA.html)|
 |[aws iot register-thing](https://docs.aws.amazon.com/cli/latest/reference/iot/register-thing.html)|[Register-IOTThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-IOTThing.html)|
 |[aws iot reject-certificate-transfer](https://docs.aws.amazon.com/cli/latest/reference/iot/reject-certificate-transfer.html)|[Deny-IOTCertificateTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-IOTCertificateTransfer.html)|
 |[aws iot remove-thing-from-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/remove-thing-from-billing-group.html)|[Remove-IOTThingFromBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTThingFromBillingGroup.html)|
@@ -201,7 +202,7 @@ date: 2020-04-25
 |[aws iot update-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/update-billing-group.html)|[Update-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTBillingGroup.html)|
 |[aws iot update-ca-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/update-ca-certificate.html)|[Update-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCACertificate.html)|
 |[aws iot update-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/update-certificate.html)|[Update-IOTCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCertificate.html)|
-|[aws iot update-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/update-dimension.html)||
+|[aws iot update-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/update-dimension.html)|[Update-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDimension.html)|
 |[aws iot update-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/update-domain-configuration.html)|[Update-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDomainConfiguration.html)|
 |[aws iot update-dynamic-thing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/update-dynamic-thing-group.html)|[Update-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDynamicThingGroup.html)|
 |[aws iot update-event-configurations](https://docs.aws.amazon.com/cli/latest/reference/iot/update-event-configurations.html)|[Update-IOTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTEventConfiguration.html)|

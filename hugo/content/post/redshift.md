@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## redshift
@@ -31,6 +31,7 @@ date: 2020-04-25
 |[aws redshift create-snapshot-copy-grant](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-snapshot-copy-grant.html)|[New-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotCopyGrant.html)|
 |[aws redshift create-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-snapshot-schedule.html)|[New-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotSchedule.html)|
 |[aws redshift create-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-tags.html)|[New-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSResourceTag.html)|
+|[aws redshift create-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-usage-limit.html)|[New-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSUsageLimit.html)|
 |[aws redshift delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster.html)|[Remove-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSCluster.html)|
 |[aws redshift delete-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-parameter-group.html)|[Remove-RSClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterParameterGroup.html)|
 |[aws redshift delete-cluster-security-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-security-group.html)|[Remove-RSClusterSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSecurityGroup.html)|
@@ -43,6 +44,7 @@ date: 2020-04-25
 |[aws redshift delete-snapshot-copy-grant](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-copy-grant.html)|[Remove-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotCopyGrant.html)|
 |[aws redshift delete-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-schedule.html)|[Remove-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotSchedule.html)|
 |[aws redshift delete-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-tags.html)|[Remove-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSResourceTag.html)|
+|[aws redshift delete-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-usage-limit.html)|[Remove-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSUsageLimit.html)|
 |[aws redshift describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-account-attributes.html)|[Get-RSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSAccountAttribute.html)|
 |[aws redshift describe-cluster-db-revisions](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-cluster-db-revisions.html)|[Get-RSClusterDbRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterDbRevision.html)|
 |[aws redshift describe-cluster-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-cluster-parameter-groups.html)|[Get-RSClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterParameterGroup.html)|
@@ -71,6 +73,7 @@ date: 2020-04-25
 |[aws redshift describe-storage](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-storage.html)|[Get-RSStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSStorage.html)|
 |[aws redshift describe-table-restore-status](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-table-restore-status.html)|[Get-RSTableRestoreStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSTableRestoreStatus.html)|
 |[aws redshift describe-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-tags.html)|[Get-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSResourceTag.html)|
+|[aws redshift describe-usage-limits](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-usage-limits.html)|[Get-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSUsageLimit.html)|
 |[aws redshift disable-logging](https://docs.aws.amazon.com/cli/latest/reference/redshift/disable-logging.html)|[Disable-RSLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-RSLogging.html)|
 |[aws redshift disable-snapshot-copy](https://docs.aws.amazon.com/cli/latest/reference/redshift/disable-snapshot-copy.html)|[Disable-RSSnapshotCopy](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-RSSnapshotCopy.html)|
 |[aws redshift enable-logging](https://docs.aws.amazon.com/cli/latest/reference/redshift/enable-logging.html)|[Enable-RSLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RSLogging.html)|
@@ -89,6 +92,7 @@ date: 2020-04-25
 |[aws redshift modify-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-scheduled-action.html)|[Edit-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSScheduledAction.html)|
 |[aws redshift modify-snapshot-copy-retention-period](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-copy-retention-period.html)|[Edit-RSSnapshotCopyRetentionPeriod](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotCopyRetentionPeriod.html)|
 |[aws redshift modify-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-schedule.html)|[Edit-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotSchedule.html)|
+|[aws redshift modify-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-usage-limit.html)|[Edit-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSUsageLimit.html)|
 |[aws redshift pause-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/pause-cluster.html)|[Stop-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RSCluster.html)|
 |[aws redshift purchase-reserved-node-offering](https://docs.aws.amazon.com/cli/latest/reference/redshift/purchase-reserved-node-offering.html)|[Request-RSReservedNodeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-RSReservedNodeOffering.html)|
 |[aws redshift reboot-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/reboot-cluster.html)|[Restart-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RSCluster.html)|

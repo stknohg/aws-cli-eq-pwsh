@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## guardduty
@@ -29,9 +29,12 @@ date: 2020-04-25
 |[aws guardduty delete-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-members.html)|[Remove-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDMember.html)|
 |[aws guardduty delete-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-publishing-destination.html)|[Remove-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDPublishingDestination.html)|
 |[aws guardduty delete-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-threat-intel-set.html)|[Remove-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDThreatIntelSet.html)|
+|[aws guardduty describe-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-organization-configuration.html)|[Get-GDOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDOrganizationConfiguration.html)|
 |[aws guardduty describe-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-publishing-destination.html)|[Get-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestination.html)|
+|[aws guardduty disable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disable-organization-admin-account.html)|[Disable-GDOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-GDOrganizationAdminAccount.html)|
 |[aws guardduty disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-from-master-account.html)|[Unregister-GDFromMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDFromMasterAccount.html)|
 |[aws guardduty disassociate-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-members.html)|[Unregister-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDMember.html)|
+|[aws guardduty enable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/enable-organization-admin-account.html)|[Enable-GDOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-GDOrganizationAdminAccount.html)|
 |[aws guardduty get-detector](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-detector.html)|[Get-GDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetector.html)|
 |[aws guardduty get-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-filter.html)|[Get-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilter.html)|
 |[aws guardduty get-findings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-findings.html)|[Get-GDFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFinding.html)|
@@ -48,6 +51,7 @@ date: 2020-04-25
 |[aws guardduty list-invitations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-invitations.html)|[Get-GDInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html)|
 |[aws guardduty list-ip-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-ip-sets.html)|[Get-GDIPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html)|
 |[aws guardduty list-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-members.html)|[Get-GDMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberList.html)|
+|[aws guardduty list-organization-admin-accounts](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-organization-admin-accounts.html)|[Get-GDOrganizationAdminAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDOrganizationAdminAccountList.html)|
 |[aws guardduty list-publishing-destinations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-publishing-destinations.html)|[Get-GDPublishingDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestinationList.html)|
 |[aws guardduty list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-tags-for-resource.html)|[Get-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDResourceTag.html)|
 |[aws guardduty list-threat-intel-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-threat-intel-sets.html)|[Get-GDThreatIntelSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSetList.html)|
@@ -60,6 +64,7 @@ date: 2020-04-25
 |[aws guardduty update-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-filter.html)|[Update-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFilter.html)|
 |[aws guardduty update-findings-feedback](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-findings-feedback.html)|[Update-GDFindingFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFindingFeedback.html)|
 |[aws guardduty update-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-ip-set.html)|[Update-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDIPSet.html)|
+|[aws guardduty update-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-organization-configuration.html)|[Update-GDOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDOrganizationConfiguration.html)|
 |[aws guardduty update-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-publishing-destination.html)|[Update-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDPublishingDestination.html)|
 |[aws guardduty update-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-threat-intel-set.html)|[Update-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDThreatIntelSet.html)|
 

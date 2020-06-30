@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## directconnect
@@ -60,6 +60,9 @@ date: 2020-04-25
 |[aws directconnect describe-virtual-gateways](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-virtual-gateways.html)|[Get-DCVirtualGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualGateway.html)|
 |[aws directconnect describe-virtual-interfaces](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-virtual-interfaces.html)|[Get-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterface.html)|
 |[aws directconnect disassociate-connection-from-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/disassociate-connection-from-lag.html)|[Unregister-DCConnectionFromLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DCConnectionFromLag.html)|
+|[aws directconnect list-virtual-interface-test-history](https://docs.aws.amazon.com/cli/latest/reference/directconnect/list-virtual-interface-test-history.html)|[Get-DCVirtualInterfaceTestHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterfaceTestHistoryList.html)|
+|[aws directconnect start-bgp-failover-test](https://docs.aws.amazon.com/cli/latest/reference/directconnect/start-bgp-failover-test.html)|[Start-DCBgpFailoverTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DCBgpFailoverTest.html)|
+|[aws directconnect stop-bgp-failover-test](https://docs.aws.amazon.com/cli/latest/reference/directconnect/stop-bgp-failover-test.html)|[Stop-DCBgpFailoverTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DCBgpFailoverTest.html)|
 |[aws directconnect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/tag-resource.html)|[Add-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DCResourceTag.html)|
 |[aws directconnect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/untag-resource.html)|[Remove-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCResourceTag.html)|
 |[aws directconnect update-direct-connect-gateway-association](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-direct-connect-gateway-association.html)|[Update-DCDirectConnectGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCDirectConnectGatewayAssociation.html)|

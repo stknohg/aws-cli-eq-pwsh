@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## emr
@@ -28,6 +28,7 @@ date: 2020-04-25
 |[aws emr disable-hbase-backups](https://docs.aws.amazon.com/cli/latest/reference/emr/disable-hbase-backups.html)||
 |[aws emr get](https://docs.aws.amazon.com/cli/latest/reference/emr/get.html)||
 |[aws emr get-block-public-access-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/get-block-public-access-configuration.html)|[Get-EMRBlockPublicAccessConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRBlockPublicAccessConfiguration.html)|
+|[aws emr get-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/get-managed-scaling-policy.html)|[Get-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRManagedScalingPolicy.html)|
 |[aws emr install-applications](https://docs.aws.amazon.com/cli/latest/reference/emr/install-applications.html)||
 |[aws emr list-clusters](https://docs.aws.amazon.com/cli/latest/reference/emr/list-clusters.html)|[Get-EMRClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRClusterList.html)|
 |[aws emr list-instance-fleets](https://docs.aws.amazon.com/cli/latest/reference/emr/list-instance-fleets.html)|[Get-EMRInstanceFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRInstanceFleetList.html)|
@@ -41,7 +42,9 @@ date: 2020-04-25
 |[aws emr put](https://docs.aws.amazon.com/cli/latest/reference/emr/put.html)||
 |[aws emr put-auto-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/put-auto-scaling-policy.html)|[Write-EMRAutoScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMRAutoScalingPolicy.html)|
 |[aws emr put-block-public-access-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/put-block-public-access-configuration.html)|[Write-EMRBlockPublicAccessConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMRBlockPublicAccessConfiguration.html)|
+|[aws emr put-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/put-managed-scaling-policy.html)|[Write-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMRManagedScalingPolicy.html)|
 |[aws emr remove-auto-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-auto-scaling-policy.html)|[Remove-EMRAutoScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRAutoScalingPolicy.html)|
+|[aws emr remove-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-managed-scaling-policy.html)|[Remove-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRManagedScalingPolicy.html)|
 |[aws emr remove-tags](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-tags.html)|[Remove-EMRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRResourceTag.html)|
 |[aws emr restore-from-hbase-backup](https://docs.aws.amazon.com/cli/latest/reference/emr/restore-from-hbase-backup.html)||
 |[aws emr schedule-hbase-backup](https://docs.aws.amazon.com/cli/latest/reference/emr/schedule-hbase-backup.html)||

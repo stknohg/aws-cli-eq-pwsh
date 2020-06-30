@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## logs
@@ -21,6 +21,7 @@ date: 2020-04-25
 |[aws logs delete-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-log-group.html)|[Remove-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroup.html)|
 |[aws logs delete-log-stream](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-log-stream.html)|[Remove-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogStream.html)|
 |[aws logs delete-metric-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-metric-filter.html)|[Remove-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLMetricFilter.html)|
+|[aws logs delete-query-definition](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-query-definition.html)|[Remove-CWLQueryDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLQueryDefinition.html)|
 |[aws logs delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-resource-policy.html)|[Remove-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLResourcePolicy.html)|
 |[aws logs delete-retention-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-retention-policy.html)|[Remove-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLRetentionPolicy.html)|
 |[aws logs delete-subscription-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-subscription-filter.html)|[Remove-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLSubscriptionFilter.html)|
@@ -30,6 +31,7 @@ date: 2020-04-25
 |[aws logs describe-log-streams](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-log-streams.html)|[Get-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogStream.html)|
 |[aws logs describe-metric-filters](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-metric-filters.html)|[Get-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLMetricFilter.html)|
 |[aws logs describe-queries](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-queries.html)|[Get-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQuery.html)|
+|[aws logs describe-query-definitions](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-query-definitions.html)|[Get-CWLQueryDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQueryDefinition.html)|
 |[aws logs describe-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-resource-policies.html)|[Get-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourcePolicy.html)|
 |[aws logs describe-subscription-filters](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-subscription-filters.html)|[Get-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLSubscriptionFilter.html)|
 |[aws logs disassociate-kms-key](https://docs.aws.amazon.com/cli/latest/reference/logs/disassociate-kms-key.html)|[Unregister-CWLKmsKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CWLKmsKey.html)|
@@ -43,6 +45,7 @@ date: 2020-04-25
 |[aws logs put-destination-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination-policy.html)|[Write-CWLDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestinationPolicy.html)|
 |[aws logs put-log-events](https://docs.aws.amazon.com/cli/latest/reference/logs/put-log-events.html)|[Write-CWLLogEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLLogEvent.html)|
 |[aws logs put-metric-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/put-metric-filter.html)|[Write-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLMetricFilter.html)|
+|[aws logs put-query-definition](https://docs.aws.amazon.com/cli/latest/reference/logs/put-query-definition.html)|[Write-CWLQueryDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLQueryDefinition.html)|
 |[aws logs put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-resource-policy.html)|[Write-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLResourcePolicy.html)|
 |[aws logs put-retention-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-retention-policy.html)|[Write-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLRetentionPolicy.html)|
 |[aws logs put-subscription-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/put-subscription-filter.html)|[Write-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLSubscriptionFilter.html)|

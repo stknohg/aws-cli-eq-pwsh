@@ -1,6 +1,6 @@
 ---
 title: codeguruprofiler
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## codeguruprofiler
@@ -16,12 +16,12 @@ date: 2020-04-25
 |[aws codeguruprofiler create-profiling-group](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/create-profiling-group.html)|[New-CGPProfilingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGPProfilingGroup.html)|
 |[aws codeguruprofiler delete-profiling-group](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/delete-profiling-group.html)|[Remove-CGPProfilingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGPProfilingGroup.html)|
 |[aws codeguruprofiler describe-profiling-group](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/describe-profiling-group.html)|[Get-CGPProfilingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGPProfilingGroup.html)|
-|[aws codeguruprofiler get-policy](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/get-policy.html)||
+|[aws codeguruprofiler get-policy](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/get-policy.html)|[Get-CGPPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGPPolicy.html)|
 |[aws codeguruprofiler get-profile](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/get-profile.html)|[Get-CGPProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGPProfile.html)|
 |[aws codeguruprofiler list-profile-times](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/list-profile-times.html)|[Get-CGPProfileTimeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGPProfileTimeList.html)|
 |[aws codeguruprofiler list-profiling-groups](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/list-profiling-groups.html)|[Get-CGPProfilingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGPProfilingGroupList.html)|
 |[aws codeguruprofiler post-agent-profile](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/post-agent-profile.html)|[Send-CGPAgentProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGPAgentProfile.html)|
-|[aws codeguruprofiler put-permission](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/put-permission.html)||
-|[aws codeguruprofiler remove-permission](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/remove-permission.html)||
+|[aws codeguruprofiler put-permission](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/put-permission.html)|[Write-CGPPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CGPPermission.html)|
+|[aws codeguruprofiler remove-permission](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/remove-permission.html)|[Remove-CGPPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGPPermission.html)|
 |[aws codeguruprofiler update-profiling-group](https://docs.aws.amazon.com/cli/latest/reference/codeguruprofiler/update-profiling-group.html)|[Update-CGPProfilingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGPProfilingGroup.html)|
 

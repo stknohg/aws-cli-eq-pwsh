@@ -1,6 +1,6 @@
 ---
 title: waf
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## waf
@@ -23,6 +23,7 @@ date: 2020-04-25
 |[aws waf create-size-constraint-set](https://docs.aws.amazon.com/cli/latest/reference/waf/create-size-constraint-set.html)|[New-WAFSizeConstraintSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFSizeConstraintSet.html)|
 |[aws waf create-sql-injection-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf/create-sql-injection-match-set.html)|[New-WAFSqlInjectionMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFSqlInjectionMatchSet.html)|
 |[aws waf create-web-acl](https://docs.aws.amazon.com/cli/latest/reference/waf/create-web-acl.html)|[New-WAFWebACL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFWebACL.html)|
+|[aws waf create-web-acl-migration-stack](https://docs.aws.amazon.com/cli/latest/reference/waf/create-web-acl-migration-stack.html)|[New-WAFWebACLMigrationStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFWebACLMigrationStack.html)|
 |[aws waf create-xss-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf/create-xss-match-set.html)|[New-WAFXssMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFXssMatchSet.html)|
 |[aws waf delete-byte-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf/delete-byte-match-set.html)|[Remove-WAFByteMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFByteMatchSet.html)|
 |[aws waf delete-geo-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf/delete-geo-match-set.html)|[Remove-WAFGeoMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFGeoMatchSet.html)|

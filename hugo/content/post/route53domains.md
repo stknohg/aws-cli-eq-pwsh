@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## route53domains
@@ -12,6 +12,8 @@ date: 2020-04-25
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws route53domains accept-domain-transfer-from-another-aws-account](https://docs.aws.amazon.com/cli/latest/reference/route53domains/accept-domain-transfer-from-another-aws-account.html)|[Approve-R53DDomainTransferFromAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-R53DDomainTransferFromAnotherAwsAccount.html)|
+|[aws route53domains cancel-domain-transfer-to-another-aws-account](https://docs.aws.amazon.com/cli/latest/reference/route53domains/cancel-domain-transfer-to-another-aws-account.html)|[Stop-R53DDomainTransferToAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-R53DDomainTransferToAnotherAwsAccount.html)|
 |[aws route53domains check-domain-availability](https://docs.aws.amazon.com/cli/latest/reference/route53domains/check-domain-availability.html)|[Test-R53DDomainAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-R53DDomainAvailability.html)|
 |[aws route53domains check-domain-transferability](https://docs.aws.amazon.com/cli/latest/reference/route53domains/check-domain-transferability.html)|[Test-R53DDomainTransferability](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-R53DDomainTransferability.html)|
 |[aws route53domains delete-tags-for-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/delete-tags-for-domain.html)|[Remove-R53DTagsForDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53DTagsForDomain.html)|
@@ -27,10 +29,12 @@ date: 2020-04-25
 |[aws route53domains list-operations](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-operations.html)|[Get-R53DOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DOperationList.html)|
 |[aws route53domains list-tags-for-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-tags-for-domain.html)|[Get-R53DTagsForDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DTagsForDomain.html)|
 |[aws route53domains register-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/register-domain.html)|[Register-R53DDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-R53DDomain.html)|
+|[aws route53domains reject-domain-transfer-from-another-aws-account](https://docs.aws.amazon.com/cli/latest/reference/route53domains/reject-domain-transfer-from-another-aws-account.html)|[Deny-R53DDomainTransferFromAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-R53DDomainTransferFromAnotherAwsAccount.html)|
 |[aws route53domains renew-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/renew-domain.html)|[Update-R53DDomainRenewal](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53DDomainRenewal.html)|
 |[aws route53domains resend-contact-reachability-email](https://docs.aws.amazon.com/cli/latest/reference/route53domains/resend-contact-reachability-email.html)|[Send-R53DContactReachabilityEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-R53DContactReachabilityEmail.html)|
 |[aws route53domains retrieve-domain-auth-code](https://docs.aws.amazon.com/cli/latest/reference/route53domains/retrieve-domain-auth-code.html)|[Get-R53DDomainAuthCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainAuthCode.html)|
 |[aws route53domains transfer-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/transfer-domain.html)|[Invoke-R53DDomainTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-R53DDomainTransfer.html)|
+|[aws route53domains transfer-domain-to-another-aws-account](https://docs.aws.amazon.com/cli/latest/reference/route53domains/transfer-domain-to-another-aws-account.html)|[Move-R53DDomainToAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-R53DDomainToAnotherAwsAccount.html)|
 |[aws route53domains update-domain-contact](https://docs.aws.amazon.com/cli/latest/reference/route53domains/update-domain-contact.html)|[Update-R53DDomainContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53DDomainContact.html)|
 |[aws route53domains update-domain-contact-privacy](https://docs.aws.amazon.com/cli/latest/reference/route53domains/update-domain-contact-privacy.html)|[Update-R53DDomainContactPrivacy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53DDomainContactPrivacy.html)|
 |[aws route53domains update-domain-nameservers](https://docs.aws.amazon.com/cli/latest/reference/route53domains/update-domain-nameservers.html)|[Update-R53DDomainNameserver](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53DDomainNameserver.html)|

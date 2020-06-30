@@ -1,6 +1,6 @@
 ---
 title: managedblockchain
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## managedblockchain
@@ -29,7 +29,7 @@ date: 2020-04-25
 |[aws managedblockchain list-proposal-votes](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-proposal-votes.html)|[Get-MBCProposalVoteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCProposalVoteList.html)|
 |[aws managedblockchain list-proposals](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-proposals.html)|[Get-MBCProposalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCProposalList.html)|
 |[aws managedblockchain reject-invitation](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/reject-invitation.html)|[Deny-MBCInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-MBCInvitation.html)|
-|[aws managedblockchain update-member](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/update-member.html)||
-|[aws managedblockchain update-node](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/update-node.html)||
+|[aws managedblockchain update-member](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/update-member.html)|[Update-MBCMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MBCMember.html)|
+|[aws managedblockchain update-node](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/update-node.html)|[Update-MBCNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MBCNode.html)|
 |[aws managedblockchain vote-on-proposal](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/vote-on-proposal.html)|[Send-MBCProposalVote](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-MBCProposalVote.html)|
 

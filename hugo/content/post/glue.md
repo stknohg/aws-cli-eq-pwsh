@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## glue
@@ -40,6 +40,8 @@ date: 2020-04-25
 |[aws glue create-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/create-user-defined-function.html)|[New-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEUserDefinedFunction.html)|
 |[aws glue create-workflow](https://docs.aws.amazon.com/cli/latest/reference/glue/create-workflow.html)|[New-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEWorkflow.html)|
 |[aws glue delete-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-classifier.html)|[Remove-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEClassifier.html)|
+|[aws glue delete-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-partition.html)||
+|[aws glue delete-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-table.html)||
 |[aws glue delete-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-connection.html)|[Remove-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEConnection.html)|
 |[aws glue delete-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-crawler.html)|[Remove-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUECrawler.html)|
 |[aws glue delete-database](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-database.html)|[Remove-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDatabase.html)|
@@ -57,6 +59,8 @@ date: 2020-04-25
 |[aws glue get-catalog-import-status](https://docs.aws.amazon.com/cli/latest/reference/glue/get-catalog-import-status.html)|[Get-GLUECatalogImportStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECatalogImportStatus.html)|
 |[aws glue get-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/get-classifier.html)|[Get-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEClassifier.html)|
 |[aws glue get-classifiers](https://docs.aws.amazon.com/cli/latest/reference/glue/get-classifiers.html)|[Get-GLUEClassifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEClassifierList.html)|
+|[aws glue get-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-column-statistics-for-partition.html)||
+|[aws glue get-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/get-column-statistics-for-table.html)||
 |[aws glue get-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/get-connection.html)|[Get-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEConnection.html)|
 |[aws glue get-connections](https://docs.aws.amazon.com/cli/latest/reference/glue/get-connections.html)|[Get-GLUEConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEConnectionList.html)|
 |[aws glue get-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/get-crawler.html)|[Get-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawler.html)|
@@ -121,9 +125,12 @@ date: 2020-04-25
 |[aws glue stop-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-crawler.html)|[Stop-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawler.html)|
 |[aws glue stop-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-crawler-schedule.html)|[Stop-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawlerSchedule.html)|
 |[aws glue stop-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-trigger.html)|[Stop-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUETrigger.html)|
+|[aws glue stop-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-workflow-run.html)|[Stop-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEWorkflowRun.html)|
 |[aws glue tag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/tag-resource.html)|[Add-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GLUEResourceTag.html)|
 |[aws glue untag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/untag-resource.html)|[Remove-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourceTag.html)|
 |[aws glue update-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/update-classifier.html)|[Update-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEClassifier.html)|
+|[aws glue update-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-partition.html)||
+|[aws glue update-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-table.html)||
 |[aws glue update-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/update-connection.html)|[Update-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEConnection.html)|
 |[aws glue update-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/update-crawler.html)|[Update-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUECrawler.html)|
 |[aws glue update-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/update-crawler-schedule.html)|[Update-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUECrawlerSchedule.html)|

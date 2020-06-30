@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## backup
@@ -26,6 +26,7 @@ date: 2020-04-25
 |[aws backup describe-copy-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-copy-job.html)|[Get-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJob.html)|
 |[aws backup describe-protected-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-protected-resource.html)|[Get-BAKProtectedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResource.html)|
 |[aws backup describe-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-recovery-point.html)|[Get-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPoint.html)|
+|[aws backup describe-region-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-region-settings.html)|[Get-BAKRegionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRegionSetting.html)|
 |[aws backup describe-restore-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-restore-job.html)|[Get-BAKRestoreJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJob.html)|
 |[aws backup export-backup-plan-template](https://docs.aws.amazon.com/cli/latest/reference/backup/export-backup-plan-template.html)|[Export-BAKBackupPlanTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-BAKBackupPlanTemplate.html)|
 |[aws backup get-backup-plan](https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-plan.html)|[Get-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlan.html)|
@@ -58,4 +59,5 @@ date: 2020-04-25
 |[aws backup untag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/untag-resource.html)|[Remove-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKResourceTag.html)|
 |[aws backup update-backup-plan](https://docs.aws.amazon.com/cli/latest/reference/backup/update-backup-plan.html)|[Update-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKBackupPlan.html)|
 |[aws backup update-recovery-point-lifecycle](https://docs.aws.amazon.com/cli/latest/reference/backup/update-recovery-point-lifecycle.html)|[Update-BAKRecoveryPointLifecycle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRecoveryPointLifecycle.html)|
+|[aws backup update-region-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/update-region-settings.html)|[Update-BAKRegionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRegionSetting.html)|
 

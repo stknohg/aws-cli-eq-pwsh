@@ -1,6 +1,6 @@
 ---
 title: elasticbeanstalk
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## elasticbeanstalk
@@ -14,6 +14,7 @@ date: 2020-04-25
 |----|----|
 |[aws elasticbeanstalk abort-environment-update](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/abort-environment-update.html)|[Stop-EBEnvironmentUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EBEnvironmentUpdate.html)|
 |[aws elasticbeanstalk apply-environment-managed-action](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/apply-environment-managed-action.html)|[Submit-EBEnvironmentManagedAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-EBEnvironmentManagedAction.html)|
+|[aws elasticbeanstalk associate-environment-operations-role](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/associate-environment-operations-role.html)|[Register-EBEnvironmentOperationsRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EBEnvironmentOperationsRole.html)|
 |[aws elasticbeanstalk check-dns-availability](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/check-dns-availability.html)|[Get-EBDNSAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBDNSAvailability.html)|
 |[aws elasticbeanstalk compose-environments](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/compose-environments.html)|[Group-EBEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Group-EBEnvironment.html)|
 |[aws elasticbeanstalk create-application](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/create-application.html)|[New-EBApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EBApplication.html)|
@@ -40,8 +41,9 @@ date: 2020-04-25
 |[aws elasticbeanstalk describe-events](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/describe-events.html)|[Get-EBEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBEvent.html)|
 |[aws elasticbeanstalk describe-instances-health](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/describe-instances-health.html)|[Get-EBInstanceHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBInstanceHealth.html)|
 |[aws elasticbeanstalk describe-platform-version](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/describe-platform-version.html)|[Get-EBPlatformVersionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBPlatformVersionDetail.html)|
+|[aws elasticbeanstalk disassociate-environment-operations-role](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/disassociate-environment-operations-role.html)|[Unregister-EBEnvironmentOperationsRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EBEnvironmentOperationsRole.html)|
 |[aws elasticbeanstalk list-available-solution-stacks](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-available-solution-stacks.html)|[Get-EBAvailableSolutionStackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBAvailableSolutionStackList.html)|
-|[aws elasticbeanstalk list-platform-branches](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-platform-branches.html)||
+|[aws elasticbeanstalk list-platform-branches](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-platform-branches.html)|[Get-EBPlatformBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBPlatformBranch.html)|
 |[aws elasticbeanstalk list-platform-versions](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-platform-versions.html)|[Get-EBPlatformVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBPlatformVersion.html)|
 |[aws elasticbeanstalk list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/list-tags-for-resource.html)|[Get-EBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EBResourceTag.html)|
 |[aws elasticbeanstalk rebuild-environment](https://docs.aws.amazon.com/cli/latest/reference/elasticbeanstalk/rebuild-environment.html)|[Start-EBEnvironmentRebuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EBEnvironmentRebuild.html)|

@@ -1,14 +1,14 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.0.8 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.0.5.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.0.26 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.0.6.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -52,6 +52,7 @@ For that reason, some content may not be accurate.
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearchdomain]({{%relref "post/cloudsearchdomain.md" %}})|CSD||
 |[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)|[cloudtrail]({{%relref "post/cloudtrail.md" %}})|CT||
 |[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[cloudwatch]({{%relref "post/cloudwatch.md" %}})|CW||
+|[AWS Artifact](https://aws.amazon.com/artifact/)|[codeartifact]({{%relref "post/codeartifact.md" %}})|CA||
 |[AWS CodeBuild](https://aws.amazon.com/codebuild/)|[codebuild]({{%relref "post/codebuild.md" %}})|CB||
 |[AWS CodeCommit](https://aws.amazon.com/codecommit/)|[codecommit]({{%relref "post/codecommit.md" %}})|CC||
 |[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)|[codeguru-reviewer]({{%relref "post/codeguru-reviewer.md" %}})|CGR||
@@ -118,6 +119,7 @@ For that reason, some content may not be accurate.
 |[Amazon Guard​Duty](https://aws.amazon.com/guardduty/)|[guardduty]({{%relref "post/guardduty.md" %}})|GD||
 |[AWS Health](https://phd.aws.amazon.com/)|[health]({{%relref "post/health.md" %}})|HLTH||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
+|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})||Beta version|
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||
@@ -131,6 +133,7 @@ For that reason, some content may not be accurate.
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
+|[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
 |[AWS IoT Things Graph](https://aws.amazon.com/iot-things-graph/)|[iotthingsgraph]({{%relref "post/iotthingsgraph.md" %}})|IOTTG||
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Kendra](https://aws.amazon.com/kendra//)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
@@ -151,6 +154,7 @@ For that reason, some content may not be accurate.
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
+|[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2||
 |[Amazon Managed Blockchain](https://aws.amazon.com/jp/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
@@ -229,6 +233,7 @@ For that reason, some content may not be accurate.
 |[AWS Security Token Service](https://aws.amazon.com/iam/)|[sts]({{%relref "post/sts.md" %}})|STS||
 |[AWS Support](https://aws.amazon.com/premiumsupport/)|[support]({{%relref "post/support.md" %}})|ASA||
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
+|[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||
 |[Amazon Textract](https://aws.amazon.com/textract/)|[textract]({{%relref "post/textract.md" %}})|TXT||
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer for SFTP](https://aws.amazon.com/sftp/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||

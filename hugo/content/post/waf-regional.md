@@ -1,6 +1,6 @@
 ---
 title: waf-regional
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## waf-regional
@@ -24,6 +24,7 @@ date: 2020-04-25
 |[aws waf-regional create-size-constraint-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-size-constraint-set.html)|[New-WAFRSizeConstraintSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRSizeConstraintSet.html)|
 |[aws waf-regional create-sql-injection-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-sql-injection-match-set.html)|[New-WAFRSqlInjectionMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRSqlInjectionMatchSet.html)|
 |[aws waf-regional create-web-acl](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-web-acl.html)|[New-WAFRWebACL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRWebACL.html)|
+|[aws waf-regional create-web-acl-migration-stack](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-web-acl-migration-stack.html)|[New-WAFRWebACLMigrationStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRWebACLMigrationStack.html)|
 |[aws waf-regional create-xss-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/create-xss-match-set.html)|[New-WAFRXssMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAFRXssMatchSet.html)|
 |[aws waf-regional delete-byte-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-byte-match-set.html)|[Remove-WAFRByteMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRByteMatchSet.html)|
 |[aws waf-regional delete-geo-match-set](https://docs.aws.amazon.com/cli/latest/reference/waf-regional/delete-geo-match-set.html)|[Remove-WAFRGeoMatchSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAFRGeoMatchSet.html)|

@@ -1,6 +1,6 @@
 ---
 title: deploy
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## deploy
@@ -29,6 +29,7 @@ date: 2020-04-25
 |[aws deploy delete-deployment-config](https://docs.aws.amazon.com/cli/latest/reference/deploy/delete-deployment-config.html)|[Remove-CDDeploymentConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CDDeploymentConfig.html)|
 |[aws deploy delete-deployment-group](https://docs.aws.amazon.com/cli/latest/reference/deploy/delete-deployment-group.html)|[Remove-CDDeploymentGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CDDeploymentGroup.html)|
 |[aws deploy delete-git-hub-account-token](https://docs.aws.amazon.com/cli/latest/reference/deploy/delete-git-hub-account-token.html)|[Remove-CDGitHubAccountToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CDGitHubAccountToken.html)|
+|[aws deploy delete-resources-by-external-id](https://docs.aws.amazon.com/cli/latest/reference/deploy/delete-resources-by-external-id.html)|[Remove-CDResourcesByExternalId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CDResourcesByExternalId.html)|
 |[aws deploy deregister](https://docs.aws.amazon.com/cli/latest/reference/deploy/deregister.html)||
 |[aws deploy deregister-on-premises-instance](https://docs.aws.amazon.com/cli/latest/reference/deploy/deregister-on-premises-instance.html)|[Unregister-CDOnPremiseInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CDOnPremiseInstance.html)|
 |[aws deploy get-application](https://docs.aws.amazon.com/cli/latest/reference/deploy/get-application.html)|[Get-CDApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDApplication.html)|

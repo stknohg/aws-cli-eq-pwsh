@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## securityhub
@@ -16,6 +16,7 @@ date: 2020-04-25
 |[aws securityhub batch-disable-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-disable-standards.html)|[Disable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBStandardsBatch.html)|
 |[aws securityhub batch-enable-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-enable-standards.html)|[Enable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBStandardsBatch.html)|
 |[aws securityhub batch-import-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-import-findings.html)|[Import-SHUBFindingsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SHUBFindingsBatch.html)|
+|[aws securityhub batch-update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-update-findings.html)|[Update-SHUBFindingsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFindingsBatch.html)|
 |[aws securityhub create-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-action-target.html)|[New-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBActionTarget.html)|
 |[aws securityhub create-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-insight.html)|[New-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBInsight.html)|
 |[aws securityhub create-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-members.html)|[New-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBMember.html)|

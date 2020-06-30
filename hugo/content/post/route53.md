@@ -1,6 +1,6 @@
 ---
 title: route53
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## route53
@@ -52,6 +52,7 @@ date: 2020-04-25
 |[aws route53 list-health-checks](https://docs.aws.amazon.com/cli/latest/reference/route53/list-health-checks.html)|[Get-R53HealthCheckList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HealthCheckList.html)|
 |[aws route53 list-hosted-zones](https://docs.aws.amazon.com/cli/latest/reference/route53/list-hosted-zones.html)|[Get-R53HostedZoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HostedZoneList.html)|
 |[aws route53 list-hosted-zones-by-name](https://docs.aws.amazon.com/cli/latest/reference/route53/list-hosted-zones-by-name.html)|[Get-R53HostedZonesByName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HostedZonesByName.html)|
+|[aws route53 list-hosted-zones-by-vpc](https://docs.aws.amazon.com/cli/latest/reference/route53/list-hosted-zones-by-vpc.html)||
 |[aws route53 list-query-logging-configs](https://docs.aws.amazon.com/cli/latest/reference/route53/list-query-logging-configs.html)|[Get-R53QueryLoggingConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53QueryLoggingConfigList.html)|
 |[aws route53 list-resource-record-sets](https://docs.aws.amazon.com/cli/latest/reference/route53/list-resource-record-sets.html)|[Get-R53ResourceRecordSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53ResourceRecordSet.html)|
 |[aws route53 list-reusable-delegation-sets](https://docs.aws.amazon.com/cli/latest/reference/route53/list-reusable-delegation-sets.html)|[Get-R53ReusableDelegationSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53ReusableDelegationSetList.html)|

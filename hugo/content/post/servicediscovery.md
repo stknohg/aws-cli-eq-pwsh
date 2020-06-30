@@ -1,6 +1,6 @@
 ---
 title: servicediscovery
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## servicediscovery
@@ -29,7 +29,10 @@ date: 2020-04-25
 |[aws servicediscovery list-namespaces](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/list-namespaces.html)|[Get-SDNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDNamespaceList.html)|
 |[aws servicediscovery list-operations](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/list-operations.html)|[Get-SDOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDOperationList.html)|
 |[aws servicediscovery list-services](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/list-services.html)|[Get-SDServiceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDServiceList.html)|
+|[aws servicediscovery list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/list-tags-for-resource.html)|[Get-SDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDResourceTag.html)|
 |[aws servicediscovery register-instance](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/register-instance.html)|[New-SDInstanceRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SDInstanceRegistration.html)|
+|[aws servicediscovery tag-resource](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/tag-resource.html)|[Add-SDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SDResourceTag.html)|
+|[aws servicediscovery untag-resource](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/untag-resource.html)|[Remove-SDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDResourceTag.html)|
 |[aws servicediscovery update-instance-custom-health-status](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-instance-custom-health-status.html)|[Update-SDInstanceCustomHealthStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDInstanceCustomHealthStatus.html)|
 |[aws servicediscovery update-service](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-service.html)|[Update-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDService.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: frauddetector
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## frauddetector
@@ -18,8 +18,10 @@ date: 2020-04-25
 |[aws frauddetector create-model-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model-version.html)|[New-FDModelVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModelVersion.html)|
 |[aws frauddetector create-rule](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-rule.html)|[New-FDRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDRule.html)|
 |[aws frauddetector create-variable](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-variable.html)|[New-FDVariable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDVariable.html)|
+|[aws frauddetector delete-detector](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-detector.html)|[Remove-FDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDDetector.html)|
 |[aws frauddetector delete-detector-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-detector-version.html)|[Remove-FDDetectorVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDDetectorVersion.html)|
 |[aws frauddetector delete-event](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-event.html)|[Remove-FDEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDEvent.html)|
+|[aws frauddetector delete-rule-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-rule-version.html)|[Remove-FDRuleVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDRuleVersion.html)|
 |[aws frauddetector describe-detector](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/describe-detector.html)|[Get-FDDetectorVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDDetectorVersionList.html)|
 |[aws frauddetector describe-model-versions](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/describe-model-versions.html)|[Get-FDModelVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDModelVersionList.html)|
 |[aws frauddetector get-detector-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-detector-version.html)|[Get-FDDetectorVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDDetectorVersion.html)|

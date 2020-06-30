@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## kafka
@@ -20,6 +20,7 @@ date: 2020-04-25
 |[aws kafka describe-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-configuration.html)|[Get-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfiguration.html)|
 |[aws kafka describe-configuration-revision](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-configuration-revision.html)|[Get-MSKConfigurationRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevision.html)|
 |[aws kafka get-bootstrap-brokers](https://docs.aws.amazon.com/cli/latest/reference/kafka/get-bootstrap-brokers.html)|[Get-MSKBootstrapBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKBootstrapBroker.html)|
+|[aws kafka get-compatible-kafka-versions](https://docs.aws.amazon.com/cli/latest/reference/kafka/get-compatible-kafka-versions.html)|[Get-MSKCompatibleKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCompatibleKafkaVersion.html)|
 |[aws kafka list-cluster-operations](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-cluster-operations.html)|[Get-MSKClusterOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperationList.html)|
 |[aws kafka list-clusters](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-clusters.html)|[Get-MSKClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterList.html)|
 |[aws kafka list-configuration-revisions](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-configuration-revisions.html)|[Get-MSKConfigurationRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevisionList.html)|
@@ -32,5 +33,6 @@ date: 2020-04-25
 |[aws kafka update-broker-count](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-count.html)|[Update-MSKBrokerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerCount.html)|
 |[aws kafka update-broker-storage](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-storage.html)|[Update-MSKBrokerStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerStorage.html)|
 |[aws kafka update-cluster-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-configuration.html)|[Update-MSKClusterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterConfiguration.html)|
+|[aws kafka update-cluster-kafka-version](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-kafka-version.html)|[Update-MSKClusterKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterKafkaVersion.html)|
 |[aws kafka update-monitoring](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-monitoring.html)|[Update-MSKMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKMonitoring.html)|
 

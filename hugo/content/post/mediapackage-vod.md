@@ -1,6 +1,6 @@
 ---
 title: mediapackage-vod
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## mediapackage-vod
@@ -24,4 +24,8 @@ date: 2020-04-25
 |[aws mediapackage-vod list-assets](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/list-assets.html)|[Get-EMPVAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPVAssetList.html)|
 |[aws mediapackage-vod list-packaging-configurations](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/list-packaging-configurations.html)|[Get-EMPVPackagingConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPVPackagingConfigurationList.html)|
 |[aws mediapackage-vod list-packaging-groups](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/list-packaging-groups.html)|[Get-EMPVPackagingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPVPackagingGroupList.html)|
+|[aws mediapackage-vod list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/list-tags-for-resource.html)|[Get-EMPVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPVResourceTag.html)|
+|[aws mediapackage-vod tag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/tag-resource.html)|[Add-EMPVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMPVResourceTag.html)|
+|[aws mediapackage-vod untag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/untag-resource.html)|[Remove-EMPVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMPVResourceTag.html)|
+|[aws mediapackage-vod update-packaging-group](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/update-packaging-group.html)|[Update-EMPVPackagingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMPVPackagingGroup.html)|
 

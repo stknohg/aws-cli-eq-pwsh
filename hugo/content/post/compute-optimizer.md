@@ -1,6 +1,6 @@
 ---
 title: compute-optimizer
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## compute-optimizer
@@ -12,6 +12,9 @@ date: 2020-04-25
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws compute-optimizer describe-recommendation-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/describe-recommendation-export-jobs.html)|[Get-CORecommendationExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CORecommendationExportJob.html)|
+|[aws compute-optimizer export-auto-scaling-group-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-auto-scaling-group-recommendations.html)|[Export-COAutoScalingGroupRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COAutoScalingGroupRecommendation.html)|
+|[aws compute-optimizer export-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-ec2-instance-recommendations.html)|[Export-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COEC2InstanceRecommendation.html)|
 |[aws compute-optimizer get-auto-scaling-group-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-auto-scaling-group-recommendations.html)|[Get-COAutoScalingGroupRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COAutoScalingGroupRecommendation.html)|
 |[aws compute-optimizer get-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-instance-recommendations.html)|[Get-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2InstanceRecommendation.html)|
 |[aws compute-optimizer get-ec2-recommendation-projected-metrics](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-recommendation-projected-metrics.html)|[Get-COEC2RecommendationProjectedMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2RecommendationProjectedMetric.html)|

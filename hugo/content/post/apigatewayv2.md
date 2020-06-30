@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## apigatewayv2
@@ -40,6 +40,7 @@ date: 2020-04-25
 |[aws apigatewayv2 delete-route-settings](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-route-settings.html)|[Remove-AG2RouteSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteSetting.html)|
 |[aws apigatewayv2 delete-stage](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-stage.html)|[Remove-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Stage.html)|
 |[aws apigatewayv2 delete-vpc-link](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/delete-vpc-link.html)|[Remove-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2VpcLink.html)|
+|[aws apigatewayv2 export-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/export-api.html)|[Export-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-AG2Api.html)|
 |[aws apigatewayv2 get-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-api.html)|[Get-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Api.html)|
 |[aws apigatewayv2 get-api-mapping](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-api-mapping.html)|[Get-AG2ApiMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2ApiMapping.html)|
 |[aws apigatewayv2 get-api-mappings](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-api-mappings.html)|[Get-AG2ApiMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2ApiMappingList.html)|

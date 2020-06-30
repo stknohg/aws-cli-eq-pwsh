@@ -1,6 +1,6 @@
 ---
 title: ram
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## ram
@@ -29,6 +29,7 @@ date: 2020-04-25
 |[aws ram list-permissions](https://docs.aws.amazon.com/cli/latest/reference/ram/list-permissions.html)|[Get-RAMPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMPermissionList.html)|
 |[aws ram list-principals](https://docs.aws.amazon.com/cli/latest/reference/ram/list-principals.html)|[Get-RAMPrincipalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMPrincipalList.html)|
 |[aws ram list-resource-share-permissions](https://docs.aws.amazon.com/cli/latest/reference/ram/list-resource-share-permissions.html)|[Get-RAMResourceSharePermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceSharePermissionList.html)|
+|[aws ram list-resource-types](https://docs.aws.amazon.com/cli/latest/reference/ram/list-resource-types.html)|[Get-RAMResourceTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceTypeList.html)|
 |[aws ram list-resources](https://docs.aws.amazon.com/cli/latest/reference/ram/list-resources.html)|[Get-RAMResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceList.html)|
 |[aws ram promote-resource-share-created-from-policy](https://docs.aws.amazon.com/cli/latest/reference/ram/promote-resource-share-created-from-policy.html)|[Convert-RAMPolicyBasedResourceShareToPromoted](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RAMPolicyBasedResourceShareToPromoted.html)|
 |[aws ram reject-resource-share-invitation](https://docs.aws.amazon.com/cli/latest/reference/ram/reject-resource-share-invitation.html)|[Deny-RAMResourceShareInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-RAMResourceShareInvitation.html)|

@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## storagegateway
@@ -29,6 +29,7 @@ date: 2020-04-25
 |[aws storagegateway create-stored-iscsi-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-stored-iscsi-volume.html)|[New-SGStorediSCSIVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGStorediSCSIVolume.html)|
 |[aws storagegateway create-tape-with-barcode](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-tape-with-barcode.html)|[New-SGTapeWithBarcode](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGTapeWithBarcode.html)|
 |[aws storagegateway create-tapes](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-tapes.html)|[New-SGTape](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGTape.html)|
+|[aws storagegateway delete-automatic-tape-creation-policy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-automatic-tape-creation-policy.html)|[Remove-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGAutomaticTapeCreationPolicy.html)|
 |[aws storagegateway delete-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-bandwidth-rate-limit.html)|[Remove-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGBandwidthRateLimit.html)|
 |[aws storagegateway delete-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-chap-credentials.html)|[Remove-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGChapCredential.html)|
 |[aws storagegateway delete-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-file-share.html)|[Remove-SGFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGFileShare.html)|
@@ -58,6 +59,7 @@ date: 2020-04-25
 |[aws storagegateway detach-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/detach-volume.html)|[Dismount-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-SGVolume.html)|
 |[aws storagegateway disable-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/disable-gateway.html)|[Disable-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SGGateway.html)|
 |[aws storagegateway join-domain](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/join-domain.html)|[Join-SGDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-SGDomain.html)|
+|[aws storagegateway list-automatic-tape-creation-policies](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-automatic-tape-creation-policies.html)|[Get-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGAutomaticTapeCreationPolicy.html)|
 |[aws storagegateway list-file-shares](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-file-shares.html)|[Get-SGFileShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGFileShareList.html)|
 |[aws storagegateway list-gateways](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-gateways.html)|[Get-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGGateway.html)|
 |[aws storagegateway list-local-disks](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-local-disks.html)|[Get-SGLocalDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGLocalDisk.html)|
@@ -77,6 +79,7 @@ date: 2020-04-25
 |[aws storagegateway shutdown-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/shutdown-gateway.html)|[Stop-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SGGateway.html)|
 |[aws storagegateway start-availability-monitor-test](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/start-availability-monitor-test.html)|[Start-SGAvailabilityMonitorTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SGAvailabilityMonitorTest.html)|
 |[aws storagegateway start-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/start-gateway.html)|[Start-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SGGateway.html)|
+|[aws storagegateway update-automatic-tape-creation-policy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-automatic-tape-creation-policy.html)|[Update-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGAutomaticTapeCreationPolicy.html)|
 |[aws storagegateway update-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-bandwidth-rate-limit.html)|[Update-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGBandwidthRateLimit.html)|
 |[aws storagegateway update-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-chap-credentials.html)|[Update-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGChapCredential.html)|
 |[aws storagegateway update-gateway-information](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-gateway-information.html)|[Update-SGGatewayInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGGatewayInformation.html)|

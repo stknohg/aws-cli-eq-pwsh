@@ -1,6 +1,6 @@
 ---
 title: worklink
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## worklink
@@ -31,11 +31,14 @@ date: 2020-04-25
 |[aws worklink list-devices](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-devices.html)|[Get-WLDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLDeviceList.html)|
 |[aws worklink list-domains](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-domains.html)|[Get-WLDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLDomainList.html)|
 |[aws worklink list-fleets](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-fleets.html)|[Get-WLFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLFleetList.html)|
+|[aws worklink list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-tags-for-resource.html)|[Get-WLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLResourceTag.html)|
 |[aws worklink list-website-authorization-providers](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-website-authorization-providers.html)|[Get-WLWebsiteAuthorizationProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLWebsiteAuthorizationProviderList.html)|
 |[aws worklink list-website-certificate-authorities](https://docs.aws.amazon.com/cli/latest/reference/worklink/list-website-certificate-authorities.html)|[Get-WLWebsiteCertificateAuthorityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WLWebsiteCertificateAuthorityList.html)|
 |[aws worklink restore-domain-access](https://docs.aws.amazon.com/cli/latest/reference/worklink/restore-domain-access.html)|[Restore-WLDomainAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-WLDomainAccess.html)|
 |[aws worklink revoke-domain-access](https://docs.aws.amazon.com/cli/latest/reference/worklink/revoke-domain-access.html)|[Revoke-WLDomainAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-WLDomainAccess.html)|
 |[aws worklink sign-out-user](https://docs.aws.amazon.com/cli/latest/reference/worklink/sign-out-user.html)|[Disconnect-WLUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-WLUser.html)|
+|[aws worklink tag-resource](https://docs.aws.amazon.com/cli/latest/reference/worklink/tag-resource.html)|[Add-WLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WLResourceTag.html)|
+|[aws worklink untag-resource](https://docs.aws.amazon.com/cli/latest/reference/worklink/untag-resource.html)|[Remove-WLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WLResourceTag.html)|
 |[aws worklink update-audit-stream-configuration](https://docs.aws.amazon.com/cli/latest/reference/worklink/update-audit-stream-configuration.html)|[Update-WLAuditStreamConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WLAuditStreamConfiguration.html)|
 |[aws worklink update-company-network-configuration](https://docs.aws.amazon.com/cli/latest/reference/worklink/update-company-network-configuration.html)|[Update-WLCompanyNetworkConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WLCompanyNetworkConfiguration.html)|
 |[aws worklink update-device-policy-configuration](https://docs.aws.amazon.com/cli/latest/reference/worklink/update-device-policy-configuration.html)|[Update-WLDevicePolicyConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WLDevicePolicyConfiguration.html)|

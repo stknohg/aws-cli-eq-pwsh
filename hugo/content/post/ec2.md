@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## ec2
@@ -155,7 +155,7 @@ date: 2020-04-25
 |[aws ec2 delete-vpn-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-vpn-gateway.html)|[Remove-EC2VpnGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2VpnGateway.html)|
 |[aws ec2 deprovision-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/deprovision-byoip-cidr.html)|[Unregister-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2ByoipCidr.html)|
 |[aws ec2 deregister-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-image.html)|[Unregister-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2Image.html)|
-|[aws ec2 deregister-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-instance-event-notification-attributes.html)||
+|[aws ec2 deregister-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-instance-event-notification-attributes.html)|[Unregister-EC2InstanceEventNotificationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2InstanceEventNotificationAttribute.html)|
 |[aws ec2 deregister-transit-gateway-multicast-group-members](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-transit-gateway-multicast-group-members.html)|[Unregister-EC2TransitGatewayMulticastGroupMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastGroupMember.html)|
 |[aws ec2 deregister-transit-gateway-multicast-group-sources](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-transit-gateway-multicast-group-sources.html)|[Unregister-EC2TransitGatewayMulticastGroupSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastGroupSource.html)|
 |[aws ec2 describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-account-attributes.html)|[Get-EC2AccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AccountAttribute.html)|
@@ -198,7 +198,7 @@ date: 2020-04-25
 |[aws ec2 describe-import-snapshot-tasks](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-import-snapshot-tasks.html)|[Get-EC2ImportSnapshotTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImportSnapshotTask.html)|
 |[aws ec2 describe-instance-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-attribute.html)|[Get-EC2InstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceAttribute.html)|
 |[aws ec2 describe-instance-credit-specifications](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-credit-specifications.html)|[Get-EC2CreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CreditSpecification.html)|
-|[aws ec2 describe-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-event-notification-attributes.html)||
+|[aws ec2 describe-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-event-notification-attributes.html)|[Get-EC2InstanceEventNotificationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceEventNotificationAttribute.html)|
 |[aws ec2 describe-instance-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-status.html)|[Get-EC2InstanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceStatus.html)|
 |[aws ec2 describe-instance-type-offerings](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-type-offerings.html)|[Get-EC2InstanceTypeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypeOffering.html)|
 |[aws ec2 describe-instance-types](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-types.html)|[Get-EC2InstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceType.html)|
@@ -368,7 +368,7 @@ date: 2020-04-25
 |[aws ec2 purchase-scheduled-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/purchase-scheduled-instances.html)|[New-EC2ScheduledInstancePurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ScheduledInstancePurchase.html)|
 |[aws ec2 reboot-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/reboot-instances.html)|[Restart-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EC2Instance.html)|
 |[aws ec2 register-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/register-image.html)|[Register-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2Image.html)|
-|[aws ec2 register-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/register-instance-event-notification-attributes.html)||
+|[aws ec2 register-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/register-instance-event-notification-attributes.html)|[Register-EC2InstanceEventNotificationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2InstanceEventNotificationAttribute.html)|
 |[aws ec2 register-transit-gateway-multicast-group-members](https://docs.aws.amazon.com/cli/latest/reference/ec2/register-transit-gateway-multicast-group-members.html)|[Register-EC2TransitGatewayMulticastGroupMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2TransitGatewayMulticastGroupMember.html)|
 |[aws ec2 register-transit-gateway-multicast-group-sources](https://docs.aws.amazon.com/cli/latest/reference/ec2/register-transit-gateway-multicast-group-sources.html)|[Register-EC2TransitGatewayMulticastGroupSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2TransitGatewayMulticastGroupSource.html)|
 |[aws ec2 reject-transit-gateway-peering-attachment](https://docs.aws.amazon.com/cli/latest/reference/ec2/reject-transit-gateway-peering-attachment.html)|[Deny-EC2TransitGatewayPeeringAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-EC2TransitGatewayPeeringAttachment.html)|

@@ -1,6 +1,6 @@
 ---
 title: detective
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## detective
@@ -23,5 +23,5 @@ date: 2020-04-25
 |[aws detective list-invitations](https://docs.aws.amazon.com/cli/latest/reference/detective/list-invitations.html)|[Get-DTCTInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTInvitationList.html)|
 |[aws detective list-members](https://docs.aws.amazon.com/cli/latest/reference/detective/list-members.html)|[Get-DTCTMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTMemberList.html)|
 |[aws detective reject-invitation](https://docs.aws.amazon.com/cli/latest/reference/detective/reject-invitation.html)|[Deny-DTCTInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DTCTInvitation.html)|
-|[aws detective start-monitoring-member](https://docs.aws.amazon.com/cli/latest/reference/detective/start-monitoring-member.html)||
+|[aws detective start-monitoring-member](https://docs.aws.amazon.com/cli/latest/reference/detective/start-monitoring-member.html)|[Start-DTCTMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DTCTMonitoringMember.html)|
 

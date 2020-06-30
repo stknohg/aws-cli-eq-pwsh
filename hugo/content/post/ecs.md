@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2020-04-25
+date: 2020-06-30
 ---
 
 ## ecs
@@ -18,6 +18,7 @@ date: 2020-04-25
 |[aws ecs create-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/create-task-set.html)|[New-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTaskSet.html)|
 |[aws ecs delete-account-setting](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-account-setting.html)|[Remove-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSAccountSetting.html)|
 |[aws ecs delete-attributes](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-attributes.html)|[Remove-ECSAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSAttribute.html)|
+|[aws ecs delete-capacity-provider](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-capacity-provider.html)||
 |[aws ecs delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-cluster.html)|[Remove-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSCluster.html)|
 |[aws ecs delete-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-service.html)|[Remove-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSService.html)|
 |[aws ecs delete-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-task-set.html)|[Remove-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSTaskSet.html)|

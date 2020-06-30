@@ -137,7 +137,7 @@ $g_AWSServices = @{
     'codeguruprofiler'             = [PSCustomObject]@{ Prefix = 'CGP'; Name = 'Amazon CodeGuru Profiler'; Url = 'https://aws.amazon.com/codeguru/'; Note = '' };
     'codepipeline'                 = [PSCustomObject]@{ Prefix = 'CP'; Name = 'AWS CodePipeline'; Url = 'https://aws.amazon.com/codepipeline/'; Note = '' };
     'codestar'                     = [PSCustomObject]@{ Prefix = 'CST'; Name = 'AWS CodeStar'; Url = 'https://aws.amazon.com/codestar/'; Note = '' };
-    'codestar-connections'         = [PSCustomObject]@{ Prefix = ''; Name = 'AWS CodeStar Connections '; Url = 'https://aws.amazon.com/codestar/'; Note = '' };
+    'codestar-connections'         = [PSCustomObject]@{ Prefix = 'CSTC'; Name = 'AWS CodeStar Connections '; Url = 'https://aws.amazon.com/codestar/'; Note = '' };
     'codestar-notifications'       = [PSCustomObject]@{ Prefix = 'CSTN'; Name = 'AWS CodeStar Notifications'; Url = 'https://aws.amazon.com/codestar/'; Note = '' };
     'cognito-identity'             = [PSCustomObject]@{ Prefix = 'CGI'; Name = 'Amazon Cognito uniquely identifies'; Url = 'https://aws.amazon.com/cognito/'; Note = '' };
     'cognito-idp'                  = [PSCustomObject]@{ Prefix = 'CGIP'; Name = 'Amazon Cognito Identity Provider'; Url = 'https://aws.amazon.com/cognito/'; Note = '' };
@@ -155,7 +155,7 @@ $g_AWSServices = @{
     'datasync'                     = [PSCustomObject]@{ Prefix = 'DSYN'; Name = 'AWS DataSync'; Url = 'https://aws.amazon.com/datasync/'; Note = '' };
     'dax'                          = [PSCustomObject]@{ Prefix = 'DAX'; Name = 'Amazon DynamoDB Accelerator'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
     'deploy'                       = [PSCustomObject]@{ Prefix = 'CD'; Name = 'AWS CodeDeploy'; Url = 'https://aws.amazon.com/codedeploy/'; Note = '' };
-    'detective'                    = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Detective'; Url = 'https://aws.amazon.com/detective/'; Note = '' };
+    'detective'                    = [PSCustomObject]@{ Prefix = 'DTCT'; Name = 'Amazon Detective'; Url = 'https://aws.amazon.com/detective/'; Note = '' };
     'devicefarm'                   = [PSCustomObject]@{ Prefix = 'DF'; Name = 'AWS Device Farm'; Url = 'https://aws.amazon.com/device-farm/'; Note = '' };
     'directconnect'                = [PSCustomObject]@{ Prefix = 'DC'; Name = 'AWS Direct Connect'; Url = 'https://aws.amazon.com/directconnect/'; Note = '' };
     'discovery'                    = [PSCustomObject]@{ Prefix = 'ADS'; Name = 'AWS Application Discovery Service'; Url = 'https://aws.amazon.com/application-discovery/'; Note = '' };
@@ -360,13 +360,14 @@ $g_CmdletReferenceLinks = @{
     'cloudsearchdomain'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudSearchDomain_cmdlets.html';
     'cloudtrail'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CloudTrail_cmdlets.html';
     'cloudwatch'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_cmdlets.html';
+    'codeartifact'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeArtifact_cmdlets.html';
     'codebuild'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeBuild_cmdlets.html';
     'codecommit'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeCommit_cmdlets.html';
     'codeguru-reviewer'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruReviewer_cmdlets.html'
     'codeguruprofiler'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruProfiler_cmdlets.html'
     'codepipeline'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodePipeline_cmdlets.html';
     'codestar'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeStar_cmdlets.html';
-    'codestar-connections'         = '';
+    'codestar-connections'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarconnections_cmdlets.html';
     'codestar-notifications'       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarNotifications_cmdlets.html'
     'cognito-identity'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Cognito_Identity_cmdlets.html';
     'cognito-idp'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Cognito_Identity_Provider_cmdlets.html';
@@ -384,7 +385,7 @@ $g_CmdletReferenceLinks = @{
     'datasync'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_DataSync_cmdlets.html';
     'dax'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_Accelerator_(DAX)_cmdlets.html';
     'deploy'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeDeploy_cmdlets.html';
-    'detective'                    = '';
+    'detective'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Detective_cmdlets.html';
     'devicefarm'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Device_Farm_cmdlets.html';
     'directconnect'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Direct_Connect_cmdlets.html';
     'discovery'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Discovery_Service_cmdlets.html';
@@ -424,6 +425,7 @@ $g_CmdletReferenceLinks = @{
     'guardduty'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_GuardDuty_cmdlets.html';
     'health'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Health_cmdlets.html';
     'history'                      = '';
+    'honeycode'                    = '';
     'iam'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Identity_and_Access_Management_cmdlets.html';
     'imagebuilder'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Imagebuilder_cmdlets.html';
     'importexport'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_cmdlets.html';
@@ -437,6 +439,7 @@ $g_CmdletReferenceLinks = @{
     'iotevents'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Events_cmdlets.html';
     'iotevents-data'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Events_Data_cmdlets.html';
     'iotsecuretunneling'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSecureTunneling_cmdlets.html';
+    'iotsitewise'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSiteWise_cmdlets.html';
     'iotthingsgraph'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Things_Graph_cmdlets.html';
     'kafka'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
     'kendra'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Kendra_cmdlets.html';
@@ -457,6 +460,7 @@ $g_CmdletReferenceLinks = @{
     'logs'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Logs_cmdlets.html';
     'machinelearning'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html';
     'macie'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Macie_cmdlets.html';
+    'macie2'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Macie2_cmdlets.html';
     'managedblockchain'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Managed_Blockchain_cmdlets.html';
     'marketplace-catalog'          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MarketplaceCatalog_cmdlets.html';
     'marketplace-entitlement'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Entitlement_Service_cmdlets.html';
@@ -534,6 +538,7 @@ $g_CmdletReferenceLinks = @{
     'sts'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Token_Service_cmdlets.html';
     'support'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Support_API_cmdlets.html';
     'swf'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Simple_Workflow_Service_cmdlets.html';
+    'synthetics'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Synthetics_cmdlets.html';
     'textract'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Textract_cmdlets.html';
     'transcribe'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Transcribe_Service_cmdlets.html';
     'transfer'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html';

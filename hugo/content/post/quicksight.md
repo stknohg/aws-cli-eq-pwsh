@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2020-06-30
+date: 2020-07-15
 ---
 
 ## quicksight
@@ -22,6 +22,8 @@ date: 2020-06-30
 |[aws quicksight create-ingestion](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-ingestion.html)|[New-QSIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSIngestion.html)|
 |[aws quicksight create-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-template.html)|[New-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTemplate.html)|
 |[aws quicksight create-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-template-alias.html)|[New-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTemplateAlias.html)|
+|[aws quicksight create-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-theme.html)||
+|[aws quicksight create-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-theme-alias.html)||
 |[aws quicksight delete-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-dashboard.html)|[Remove-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSDashboard.html)|
 |[aws quicksight delete-data-set](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-data-set.html)|[Remove-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSDataSet.html)|
 |[aws quicksight delete-data-source](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-data-source.html)|[Remove-QSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSDataSource.html)|
@@ -30,6 +32,8 @@ date: 2020-06-30
 |[aws quicksight delete-iam-policy-assignment](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-iam-policy-assignment.html)|[Remove-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSIAMPolicyAssignment.html)|
 |[aws quicksight delete-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-template.html)|[Remove-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSTemplate.html)|
 |[aws quicksight delete-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-template-alias.html)|[Remove-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSTemplateAlias.html)|
+|[aws quicksight delete-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-theme.html)||
+|[aws quicksight delete-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-theme-alias.html)||
 |[aws quicksight delete-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user.html)|[Remove-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUser.html)|
 |[aws quicksight delete-user-by-principal-id](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user-by-principal-id.html)|[Remove-QSUserByPrincipalId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUserByPrincipalId.html)|
 |[aws quicksight describe-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard.html)|[Get-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboard.html)|
@@ -44,6 +48,9 @@ date: 2020-06-30
 |[aws quicksight describe-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template.html)|[Get-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplate.html)|
 |[aws quicksight describe-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template-alias.html)|[Get-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateAlias.html)|
 |[aws quicksight describe-template-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template-permissions.html)|[Get-QSTemplatePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplatePermission.html)|
+|[aws quicksight describe-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme.html)||
+|[aws quicksight describe-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-alias.html)||
+|[aws quicksight describe-theme-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-permissions.html)||
 |[aws quicksight describe-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-user.html)|[Get-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUser.html)|
 |[aws quicksight get-dashboard-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-dashboard-embed-url.html)|[Get-QSDashboardEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardEmbedUrl.html)|
 |[aws quicksight list-dashboard-versions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-dashboard-versions.html)|[Get-QSDashboardVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardVersionList.html)|
@@ -59,6 +66,9 @@ date: 2020-06-30
 |[aws quicksight list-template-aliases](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-template-aliases.html)|[Get-QSTemplateAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateAliasList.html)|
 |[aws quicksight list-template-versions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-template-versions.html)|[Get-QSTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateVersionList.html)|
 |[aws quicksight list-templates](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-templates.html)|[Get-QSTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateList.html)|
+|[aws quicksight list-theme-aliases](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-theme-aliases.html)||
+|[aws quicksight list-theme-versions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-theme-versions.html)||
+|[aws quicksight list-themes](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-themes.html)||
 |[aws quicksight list-user-groups](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-user-groups.html)|[Get-QSUserGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserGroupList.html)|
 |[aws quicksight list-users](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-users.html)|[Get-QSUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserList.html)|
 |[aws quicksight register-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/register-user.html)|[Register-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-QSUser.html)|
@@ -77,5 +87,8 @@ date: 2020-06-30
 |[aws quicksight update-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template.html)|[Update-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplate.html)|
 |[aws quicksight update-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template-alias.html)|[Update-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplateAlias.html)|
 |[aws quicksight update-template-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template-permissions.html)|[Update-QSTemplatePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplatePermission.html)|
+|[aws quicksight update-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-theme.html)||
+|[aws quicksight update-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-theme-alias.html)||
+|[aws quicksight update-theme-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-theme-permissions.html)||
 |[aws quicksight update-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-user.html)|[Update-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSUser.html)|
 

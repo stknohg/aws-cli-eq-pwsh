@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2020-06-30
+date: 2020-07-15
 ---
 
 ## ec2
@@ -72,6 +72,7 @@ date: 2020-06-30
 |[aws ec2 create-launch-template-version](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-launch-template-version.html)|[New-EC2LaunchTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LaunchTemplateVersion.html)|
 |[aws ec2 create-local-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-local-gateway-route.html)|[New-EC2LocalGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRoute.html)|
 |[aws ec2 create-local-gateway-route-table-vpc-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-local-gateway-route-table-vpc-association.html)|[New-EC2LocalGatewayRouteTableVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRouteTableVpcAssociation.html)|
+|[aws ec2 create-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-managed-prefix-list.html)||
 |[aws ec2 create-nat-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-nat-gateway.html)|[New-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NatGateway.html)|
 |[aws ec2 create-network-acl](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-acl.html)|[New-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkAcl.html)|
 |[aws ec2 create-network-acl-entry](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-acl-entry.html)|[New-EC2NetworkAclEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkAclEntry.html)|
@@ -120,6 +121,7 @@ date: 2020-06-30
 |[aws ec2 delete-launch-template-versions](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-launch-template-versions.html)|[Remove-EC2TemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TemplateVersion.html)|
 |[aws ec2 delete-local-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-local-gateway-route.html)|[Remove-EC2LocalGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LocalGatewayRoute.html)|
 |[aws ec2 delete-local-gateway-route-table-vpc-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-local-gateway-route-table-vpc-association.html)|[Remove-EC2LocalGatewayRouteTableVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LocalGatewayRouteTableVpcAssociation.html)|
+|[aws ec2 delete-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-managed-prefix-list.html)||
 |[aws ec2 delete-nat-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-nat-gateway.html)|[Remove-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NatGateway.html)|
 |[aws ec2 delete-network-acl](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-acl.html)|[Remove-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkAcl.html)|
 |[aws ec2 delete-network-acl-entry](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-acl-entry.html)|[Remove-EC2NetworkAclEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkAclEntry.html)|
@@ -214,6 +216,7 @@ date: 2020-06-30
 |[aws ec2 describe-local-gateway-virtual-interface-groups](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-local-gateway-virtual-interface-groups.html)|[Get-EC2LocalGatewayVirtualInterfaceGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LocalGatewayVirtualInterfaceGroup.html)|
 |[aws ec2 describe-local-gateway-virtual-interfaces](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-local-gateway-virtual-interfaces.html)|[Get-EC2LocalGatewayVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LocalGatewayVirtualInterface.html)|
 |[aws ec2 describe-local-gateways](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-local-gateways.html)|[Get-EC2LocalGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LocalGateway.html)|
+|[aws ec2 describe-managed-prefix-lists](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-managed-prefix-lists.html)||
 |[aws ec2 describe-moving-addresses](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-moving-addresses.html)|[Get-EC2MovingAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MovingAddress.html)|
 |[aws ec2 describe-nat-gateways](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-nat-gateways.html)|[Get-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NatGateway.html)|
 |[aws ec2 describe-network-acls](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-acls.html)|[Get-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkAcl.html)|
@@ -311,6 +314,8 @@ date: 2020-06-30
 |[aws ec2 get-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ebs-encryption-by-default.html)|[Get-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 get-host-reservation-purchase-preview](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|
 |[aws ec2 get-launch-template-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-launch-template-data.html)|[Get-EC2LaunchTemplateData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LaunchTemplateData.html)|
+|[aws ec2 get-managed-prefix-list-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-associations.html)||
+|[aws ec2 get-managed-prefix-list-entries](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-entries.html)||
 |[aws ec2 get-password-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
 |[aws ec2 get-reserved-instances-exchange-quote](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-reserved-instances-exchange-quote.html)|[Get-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ReservedInstancesExchangeQuote.html)|
 |[aws ec2 get-transit-gateway-attachment-propagations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-attachment-propagations.html)|[Get-EC2TransitGatewayAttachmentPropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayAttachmentPropagation.html)|
@@ -339,6 +344,7 @@ date: 2020-06-30
 |[aws ec2 modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html)|[Edit-EC2InstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataOption.html)|
 |[aws ec2 modify-instance-placement](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-placement.html)|[Edit-EC2InstancePlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstancePlacement.html)|
 |[aws ec2 modify-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-launch-template.html)|[Edit-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LaunchTemplate.html)|
+|[aws ec2 modify-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-managed-prefix-list.html)||
 |[aws ec2 modify-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 modify-reserved-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-reserved-instances.html)|[Edit-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ReservedInstance.html)|
 |[aws ec2 modify-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-snapshot-attribute.html)|[Edit-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SnapshotAttribute.html)|
@@ -393,6 +399,7 @@ date: 2020-06-30
 |[aws ec2 reset-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-network-interface-attribute.html)|[Reset-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 reset-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-snapshot-attribute.html)|[Reset-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2SnapshotAttribute.html)|
 |[aws ec2 restore-address-to-classic](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-address-to-classic.html)|[Restore-EC2AddressToClassic](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2AddressToClassic.html)|
+|[aws ec2 restore-managed-prefix-list-version](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-managed-prefix-list-version.html)||
 |[aws ec2 revoke-client-vpn-ingress](https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-client-vpn-ingress.html)|[Revoke-EC2ClientVpnIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EC2ClientVpnIngress.html)|
 |[aws ec2 revoke-security-group-egress](https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-security-group-egress.html)|[Revoke-EC2SecurityGroupEgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EC2SecurityGroupEgress.html)|
 |[aws ec2 revoke-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-security-group-ingress.html)|[Revoke-EC2SecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EC2SecurityGroupIngress.html)|

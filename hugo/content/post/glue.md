@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2020-06-30
+date: 2020-07-15
 ---
 
 ## glue
@@ -85,6 +85,7 @@ date: 2020-06-30
 |[aws glue get-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partition.html)|[Get-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartition.html)|
 |[aws glue get-partitions](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partitions.html)|[Get-GLUEPartitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartitionList.html)|
 |[aws glue get-plan](https://docs.aws.amazon.com/cli/latest/reference/glue/get-plan.html)|[Get-GLUEPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPlan.html)|
+|[aws glue get-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policies.html)||
 |[aws glue get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policy.html)|[Get-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEResourcePolicy.html)|
 |[aws glue get-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configuration.html)|[Get-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfiguration.html)|
 |[aws glue get-security-configurations](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configurations.html)|[Get-GLUESecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfigurationList.html)|

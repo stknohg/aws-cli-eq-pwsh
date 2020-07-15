@@ -1,6 +1,6 @@
 ---
 title: secretsmanager
-date: 2020-06-30
+date: 2020-07-15
 ---
 
 ## secretsmanager
@@ -30,4 +30,5 @@ date: 2020-06-30
 |[aws secretsmanager untag-resource](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/untag-resource.html)|[Remove-SECResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECResourceTag.html)|
 |[aws secretsmanager update-secret](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/update-secret.html)|[Update-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECSecret.html)|
 |[aws secretsmanager update-secret-version-stage](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/update-secret-version-stage.html)|[Update-SECSecretVersionStage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECSecretVersionStage.html)|
+|[aws secretsmanager validate-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/validate-resource-policy.html)||
 

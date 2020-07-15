@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2020-06-30
+date: 2020-07-15
 ---
 
 ## sagemaker
@@ -49,6 +49,7 @@ date: 2020-06-30
 |[aws sagemaker delete-endpoint-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-endpoint-config.html)|[Remove-SMEndpointConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMEndpointConfig.html)|
 |[aws sagemaker delete-experiment](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-experiment.html)|[Remove-SMExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMExperiment.html)|
 |[aws sagemaker delete-flow-definition](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-flow-definition.html)|[Remove-SMFlowDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMFlowDefinition.html)|
+|[aws sagemaker delete-human-task-ui](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-human-task-ui.html)||
 |[aws sagemaker delete-model](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-model.html)|[Remove-SMModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMModel.html)|
 |[aws sagemaker delete-model-package](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-model-package.html)|[Remove-SMModelPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMModelPackage.html)|
 |[aws sagemaker delete-monitoring-schedule](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-monitoring-schedule.html)|[Remove-SMMonitoringSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMMonitoringSchedule.html)|

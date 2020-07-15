@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2020-06-30
+date: 2020-07-15
 ---
 
 ## forecast
@@ -37,5 +37,8 @@ date: 2020-06-30
 |[aws forecast list-forecast-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-forecast-export-jobs.html)|[Get-FRCForecastExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCForecastExportJobList.html)|
 |[aws forecast list-forecasts](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-forecasts.html)|[Get-FRCForecastList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCForecastList.html)|
 |[aws forecast list-predictors](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictors.html)|[Get-FRCPredictorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorList.html)|
+|[aws forecast list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-tags-for-resource.html)||
+|[aws forecast tag-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/tag-resource.html)||
+|[aws forecast untag-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/untag-resource.html)||
 |[aws forecast update-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/update-dataset-group.html)|[Update-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FRCDatasetGroup.html)|
 

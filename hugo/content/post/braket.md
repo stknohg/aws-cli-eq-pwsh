@@ -8,7 +8,7 @@ date: 2020-09-08
 ### [Amazon Braket](https://aws.amazon.com/braket/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/braket/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

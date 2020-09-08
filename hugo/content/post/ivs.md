@@ -8,7 +8,7 @@ date: 2020-09-08
 ### [Amazon Interactive Video Service](https://aws.amazon.com/ivs/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ivs/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/IVS_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## kafka
@@ -15,6 +15,7 @@ date: 2020-07-15
 |[aws kafka create-cluster](https://docs.aws.amazon.com/cli/latest/reference/kafka/create-cluster.html)|[New-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKCluster.html)|
 |[aws kafka create-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/create-configuration.html)|[New-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKConfiguration.html)|
 |[aws kafka delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/kafka/delete-cluster.html)|[Remove-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCluster.html)|
+|[aws kafka delete-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/delete-configuration.html)||
 |[aws kafka describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-cluster.html)|[Get-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCluster.html)|
 |[aws kafka describe-cluster-operation](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-cluster-operation.html)|[Get-MSKClusterOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperation.html)|
 |[aws kafka describe-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-configuration.html)|[Get-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfiguration.html)|
@@ -28,11 +29,13 @@ date: 2020-07-15
 |[aws kafka list-kafka-versions](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-kafka-versions.html)|[Get-MSKKafkaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKKafkaVersionList.html)|
 |[aws kafka list-nodes](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-nodes.html)|[Get-MSKNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKNodeList.html)|
 |[aws kafka list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-tags-for-resource.html)|[Get-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKResourceTag.html)|
+|[aws kafka reboot-broker](https://docs.aws.amazon.com/cli/latest/reference/kafka/reboot-broker.html)|[Restart-MSKBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-MSKBroker.html)|
 |[aws kafka tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/tag-resource.html)|[Add-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MSKResourceTag.html)|
 |[aws kafka untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/untag-resource.html)|[Remove-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKResourceTag.html)|
 |[aws kafka update-broker-count](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-count.html)|[Update-MSKBrokerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerCount.html)|
 |[aws kafka update-broker-storage](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-storage.html)|[Update-MSKBrokerStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerStorage.html)|
 |[aws kafka update-cluster-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-configuration.html)|[Update-MSKClusterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterConfiguration.html)|
 |[aws kafka update-cluster-kafka-version](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-kafka-version.html)|[Update-MSKClusterKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterKafkaVersion.html)|
+|[aws kafka update-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-configuration.html)||
 |[aws kafka update-monitoring](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-monitoring.html)|[Update-MSKMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKMonitoring.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## connect
@@ -30,9 +30,13 @@ date: 2020-07-15
 |[aws connect list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/list-tags-for-resource.html)|[Get-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNResourceTag.html)|
 |[aws connect list-user-hierarchy-groups](https://docs.aws.amazon.com/cli/latest/reference/connect/list-user-hierarchy-groups.html)|[Get-CONNUserHierarchyGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroupList.html)|
 |[aws connect list-users](https://docs.aws.amazon.com/cli/latest/reference/connect/list-users.html)|[Get-CONNUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserList.html)|
+|[aws connect resume-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/resume-contact-recording.html)|[Resume-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CONNContactRecording.html)|
 |[aws connect start-chat-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/start-chat-contact.html)|[Start-CONNChatContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNChatContact.html)|
+|[aws connect start-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/start-contact-recording.html)|[Start-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactRecording.html)|
 |[aws connect start-outbound-voice-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/start-outbound-voice-contact.html)|[Start-CONNOutboundVoiceContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNOutboundVoiceContact.html)|
 |[aws connect stop-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/stop-contact.html)|[Stop-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CONNContact.html)|
+|[aws connect stop-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/stop-contact-recording.html)|[Stop-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CONNContactRecording.html)|
+|[aws connect suspend-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/suspend-contact-recording.html)|[Suspend-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-CONNContactRecording.html)|
 |[aws connect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/tag-resource.html)|[Add-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNResourceTag.html)|
 |[aws connect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/untag-resource.html)|[Remove-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNResourceTag.html)|
 |[aws connect update-contact-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-attributes.html)|[Update-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactAttribute.html)|

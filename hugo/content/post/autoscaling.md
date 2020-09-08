@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## autoscaling
@@ -17,7 +17,7 @@ date: 2020-07-15
 |[aws autoscaling attach-load-balancers](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-load-balancers.html)|[Add-ASLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASLoadBalancer.html)|
 |[aws autoscaling batch-delete-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/batch-delete-scheduled-action.html)|[Remove-ASScheduledActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASScheduledActionBatch.html)|
 |[aws autoscaling batch-put-scheduled-update-group-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/batch-put-scheduled-update-group-action.html)|[Set-ASScheduledUpdateGroupActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASScheduledUpdateGroupActionBatch.html)|
-|[aws autoscaling cancel-instance-refresh](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/cancel-instance-refresh.html)||
+|[aws autoscaling cancel-instance-refresh](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/cancel-instance-refresh.html)|[Stop-ASInstanceRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASInstanceRefresh.html)|
 |[aws autoscaling complete-lifecycle-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/complete-lifecycle-action.html)|[Complete-ASLifecycleAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-ASLifecycleAction.html)|
 |[aws autoscaling create-auto-scaling-group](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-auto-scaling-group.html)|[New-ASAutoScalingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASAutoScalingGroup.html)|
 |[aws autoscaling create-launch-configuration](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/create-launch-configuration.html)|[New-ASLaunchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASLaunchConfiguration.html)|
@@ -34,7 +34,7 @@ date: 2020-07-15
 |[aws autoscaling describe-auto-scaling-groups](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-groups.html)|[Get-ASAutoScalingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingGroup.html)|
 |[aws autoscaling describe-auto-scaling-instances](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-instances.html)|[Get-ASAutoScalingInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingInstance.html)|
 |[aws autoscaling describe-auto-scaling-notification-types](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-notification-types.html)|[Get-ASAutoScalingNotificationType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingNotificationType.html)|
-|[aws autoscaling describe-instance-refreshes](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-instance-refreshes.html)||
+|[aws autoscaling describe-instance-refreshes](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-instance-refreshes.html)|[Get-ASInstanceRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASInstanceRefresh.html)|
 |[aws autoscaling describe-launch-configurations](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-launch-configurations.html)|[Get-ASLaunchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLaunchConfiguration.html)|
 |[aws autoscaling describe-lifecycle-hook-types](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-lifecycle-hook-types.html)|[Get-ASLifecycleHookType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLifecycleHookType.html)|
 |[aws autoscaling describe-lifecycle-hooks](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-lifecycle-hooks.html)|[Get-ASLifecycleHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASLifecycleHook.html)|
@@ -65,7 +65,7 @@ date: 2020-07-15
 |[aws autoscaling set-desired-capacity](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-desired-capacity.html)|[Set-ASDesiredCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASDesiredCapacity.html)|
 |[aws autoscaling set-instance-health](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-instance-health.html)|[Set-ASInstanceHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASInstanceHealth.html)|
 |[aws autoscaling set-instance-protection](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-instance-protection.html)|[Set-ASInstanceProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASInstanceProtection.html)|
-|[aws autoscaling start-instance-refresh](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/start-instance-refresh.html)||
+|[aws autoscaling start-instance-refresh](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/start-instance-refresh.html)|[Start-ASInstanceRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASInstanceRefresh.html)|
 |[aws autoscaling suspend-processes](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/suspend-processes.html)|[Suspend-ASProcess](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-ASProcess.html)|
 |[aws autoscaling terminate-instance-in-auto-scaling-group](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/terminate-instance-in-auto-scaling-group.html)|[Stop-ASInstanceInAutoScalingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASInstanceInAutoScalingGroup.html)|
 |[aws autoscaling update-auto-scaling-group](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/update-auto-scaling-group.html)|[Update-ASAutoScalingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASAutoScalingGroup.html)|

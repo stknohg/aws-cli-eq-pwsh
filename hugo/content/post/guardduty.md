@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## guardduty
@@ -42,8 +42,10 @@ date: 2020-07-15
 |[aws guardduty get-invitations-count](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-invitations-count.html)|[Get-GDInvitationCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationCount.html)|
 |[aws guardduty get-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-ip-set.html)|[Get-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSet.html)|
 |[aws guardduty get-master-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-master-account.html)|[Get-GDMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMasterAccount.html)|
+|[aws guardduty get-member-detectors](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-member-detectors.html)|[Get-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberDetector.html)|
 |[aws guardduty get-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-members.html)|[Get-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMember.html)|
 |[aws guardduty get-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-threat-intel-set.html)|[Get-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSet.html)|
+|[aws guardduty get-usage-statistics](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-usage-statistics.html)|[Get-GDUsageStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDUsageStatistic.html)|
 |[aws guardduty invite-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/invite-members.html)|[Send-GDMemberInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-GDMemberInvitation.html)|
 |[aws guardduty list-detectors](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-detectors.html)|[Get-GDDetectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetectorList.html)|
 |[aws guardduty list-filters](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-filters.html)|[Get-GDFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilterList.html)|
@@ -64,6 +66,7 @@ date: 2020-07-15
 |[aws guardduty update-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-filter.html)|[Update-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFilter.html)|
 |[aws guardduty update-findings-feedback](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-findings-feedback.html)|[Update-GDFindingFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFindingFeedback.html)|
 |[aws guardduty update-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-ip-set.html)|[Update-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDIPSet.html)|
+|[aws guardduty update-member-detectors](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-member-detectors.html)|[Update-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDMemberDetector.html)|
 |[aws guardduty update-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-organization-configuration.html)|[Update-GDOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDOrganizationConfiguration.html)|
 |[aws guardduty update-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-publishing-destination.html)|[Update-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDPublishingDestination.html)|
 |[aws guardduty update-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-threat-intel-set.html)|[Update-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDThreatIntelSet.html)|

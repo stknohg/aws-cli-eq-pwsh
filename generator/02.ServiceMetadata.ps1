@@ -107,6 +107,7 @@ $g_AWSServices = @{
     'apigatewaymanagementapi'      = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewayv2'                 = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'appconfig'                    = [PSCustomObject]@{ Prefix = 'APPC'; Name = 'AWS AppConfig'; Url = 'https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html'; Note = '' };
+    'appflow'                      = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon AppFlow'; Url = 'https://aws.amazon.com/appflow/'; Note = '' };
     'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'application-insights'         = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights'; Url = 'http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
     'appmesh'                      = [PSCustomObject]@{ Prefix = 'AMSH'; Name = 'AWS App Mesh'; Url = 'https://aws.amazon.com/app-mesh/'; Note = '' };
@@ -117,6 +118,7 @@ $g_AWSServices = @{
     'autoscaling-plans'            = [PSCustomObject]@{ Prefix = 'ASP'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'backup'                       = [PSCustomObject]@{ Prefix = 'BAK'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = '' };
     'batch'                        = [PSCustomObject]@{ Prefix = 'BAT'; Name = 'AWS Batch'; Url = 'https://aws.amazon.com/batch/'; Note = '' };
+    'braket'                       = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
     'budgets'                      = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                           = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
     'chime'                        = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
@@ -199,6 +201,7 @@ $g_AWSServices = @{
     'history'                      = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = 'Commands to interact with the history of AWS CLI commands ran over time.' };
     'honeycode'                    = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Honeycode'; Url = 'https://www.honeycode.aws/'; Note = 'Beta version' };
     'iam'                          = [PSCustomObject]@{ Prefix = 'IAM'; Name = 'AWS Identity and Access Management'; Url = 'https://aws.amazon.com/iam/'; Note = '' };
+    'identitystore'                = [PSCustomObject]@{ Prefix = ''; Name = 'AWS SSO Identity Store'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
     'imagebuilder'                 = [PSCustomObject]@{ Prefix = 'EC2IB'; Name = 'EC2 Image Builder'; Url = 'https://aws.amazon.com/image-builder/'; Note = '' };
     'importexport'                 = [PSCustomObject]@{ Prefix = 'IE'; Name = 'AWS Import/Export'; Url = 'https://aws.amazon.com/snowball/'; Note = '' };
     'inspector'                    = [PSCustomObject]@{ Prefix = 'INS'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
@@ -213,6 +216,7 @@ $g_AWSServices = @{
     'iotsecuretunneling'           = [PSCustomObject]@{ Prefix = 'IOTST'; Name = 'AWS IoT Secure Tunneling'; Url = 'https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html'; Note = '' };
     'iotsitewise'                  = [PSCustomObject]@{ Prefix = 'IOTSW'; Name = 'Amazon IoT SiteWise'; Url = 'https://aws.amazon.com/iot-sitewise/'; Note = '' };
     'iotthingsgraph'               = [PSCustomObject]@{ Prefix = 'IOTTG'; Name = 'AWS IoT Things Graph'; Url = 'https://aws.amazon.com/iot-things-graph/'; Note = '' };
+    'ivs'                          = [PSCustomObject]@{ Prefix = 'IVS'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
     'kafka'                        = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kendra'                       = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra//'; Note = '' };
     'kinesis'                      = [PSCustomObject]@{ Prefix = 'KIN'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };

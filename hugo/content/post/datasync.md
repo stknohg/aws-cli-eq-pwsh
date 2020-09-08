@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## datasync
@@ -17,6 +17,7 @@ date: 2020-07-15
 |[aws datasync create-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-efs.html)|[New-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationEfs.html)|
 |[aws datasync create-location-fsx-windows](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-fsx-windows.html)|[New-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationFsxWindow.html)|
 |[aws datasync create-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-nfs.html)|[New-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationNfs.html)|
+|[aws datasync create-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-object-storage.html)|[New-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationObjectStorage.html)|
 |[aws datasync create-location-s3](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-s3.html)|[New-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationS3.html)|
 |[aws datasync create-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-smb.html)|[New-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationSmb.html)|
 |[aws datasync create-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-task.html)|[New-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNTask.html)|
@@ -27,6 +28,7 @@ date: 2020-07-15
 |[aws datasync describe-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-efs.html)|[Get-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationEfs.html)|
 |[aws datasync describe-location-fsx-windows](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-fsx-windows.html)|[Get-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationFsxWindow.html)|
 |[aws datasync describe-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-nfs.html)|[Get-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationNfs.html)|
+|[aws datasync describe-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-object-storage.html)|[Get-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationObjectStorage.html)|
 |[aws datasync describe-location-s3](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-s3.html)|[Get-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationS3.html)|
 |[aws datasync describe-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-smb.html)|[Get-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationSmb.html)|
 |[aws datasync describe-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-task.html)|[Get-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNTask.html)|

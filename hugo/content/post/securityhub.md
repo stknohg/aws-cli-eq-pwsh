@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## securityhub
@@ -53,5 +53,6 @@ date: 2020-07-15
 |[aws securityhub update-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-action-target.html)|[Update-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBActionTarget.html)|
 |[aws securityhub update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-findings.html)|[Update-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFinding.html)|
 |[aws securityhub update-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-insight.html)|[Update-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBInsight.html)|
+|[aws securityhub update-security-hub-configuration](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-security-hub-configuration.html)|[Update-SHUBSecurityHubConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBSecurityHubConfiguration.html)|
 |[aws securityhub update-standards-control](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-standards-control.html)|[Update-SHUBStandardsControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBStandardsControl.html)|
 

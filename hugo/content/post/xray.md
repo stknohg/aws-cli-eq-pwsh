@@ -1,6 +1,6 @@
 ---
 title: xray
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## xray
@@ -27,9 +27,12 @@ date: 2020-07-15
 |[aws xray get-time-series-service-statistics](https://docs.aws.amazon.com/cli/latest/reference/xray/get-time-series-service-statistics.html)|[Get-XRTimeSeriesServiceStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTimeSeriesServiceStatistic.html)|
 |[aws xray get-trace-graph](https://docs.aws.amazon.com/cli/latest/reference/xray/get-trace-graph.html)|[Get-XRTraceGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTraceGraph.html)|
 |[aws xray get-trace-summaries](https://docs.aws.amazon.com/cli/latest/reference/xray/get-trace-summaries.html)|[Get-XRTraceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTraceSummary.html)|
+|[aws xray list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/xray/list-tags-for-resource.html)||
 |[aws xray put-encryption-config](https://docs.aws.amazon.com/cli/latest/reference/xray/put-encryption-config.html)|[Write-XREncryptionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XREncryptionConfig.html)|
 |[aws xray put-telemetry-records](https://docs.aws.amazon.com/cli/latest/reference/xray/put-telemetry-records.html)|[Write-XRTelemetryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XRTelemetryRecord.html)|
 |[aws xray put-trace-segments](https://docs.aws.amazon.com/cli/latest/reference/xray/put-trace-segments.html)|[Write-XRTraceSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XRTraceSegment.html)|
+|[aws xray tag-resource](https://docs.aws.amazon.com/cli/latest/reference/xray/tag-resource.html)||
+|[aws xray untag-resource](https://docs.aws.amazon.com/cli/latest/reference/xray/untag-resource.html)||
 |[aws xray update-group](https://docs.aws.amazon.com/cli/latest/reference/xray/update-group.html)|[Update-XRGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-XRGroup.html)|
 |[aws xray update-sampling-rule](https://docs.aws.amazon.com/cli/latest/reference/xray/update-sampling-rule.html)|[Update-XRSamplingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-XRSamplingRule.html)|
 

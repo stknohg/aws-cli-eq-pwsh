@@ -1,6 +1,6 @@
 ---
 title: codeguru-reviewer
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## codeguru-reviewer
@@ -13,6 +13,7 @@ date: 2020-07-15
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws codeguru-reviewer associate-repository](https://docs.aws.amazon.com/cli/latest/reference/codeguru-reviewer/associate-repository.html)|[Register-CGRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CGRRepository.html)|
+|[aws codeguru-reviewer create-code-review](https://docs.aws.amazon.com/cli/latest/reference/codeguru-reviewer/create-code-review.html)||
 |[aws codeguru-reviewer describe-code-review](https://docs.aws.amazon.com/cli/latest/reference/codeguru-reviewer/describe-code-review.html)|[Get-CGRCodeReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGRCodeReview.html)|
 |[aws codeguru-reviewer describe-recommendation-feedback](https://docs.aws.amazon.com/cli/latest/reference/codeguru-reviewer/describe-recommendation-feedback.html)|[Get-CGRRecommendationFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGRRecommendationFeedback.html)|
 |[aws codeguru-reviewer describe-repository-association](https://docs.aws.amazon.com/cli/latest/reference/codeguru-reviewer/describe-repository-association.html)|[Get-CGRRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGRRepositoryAssociation.html)|

@@ -58,7 +58,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2020-07-15</p>
+<p class="text-right"><strong>Last update: </strong>2020-09-08</p>
 
 <h2 id="frauddetector">frauddetector</h2>
 <h3 id="amazon-fraud-detectorhttpsawsamazoncomfraud-detector"><a href="https://aws.amazon.com/fraud-detector/">Amazon Fraud Detector</a></h3>
@@ -87,6 +87,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDDetectorVersion.html">New-FDDetectorVersion</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model.html">aws frauddetector create-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModel.html">New-FDModel</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model-version.html">aws frauddetector create-model-version</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModelVersion.html">New-FDModelVersion</a></td>
 </tr>
@@ -111,8 +115,8 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDEvent.html">Remove-FDEvent</a></td>
 </tr>
 <tr>
-<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-rule-version.html">aws frauddetector delete-rule-version</a></td>
-<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDRuleVersion.html">Remove-FDRuleVersion</a></td>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-rule.html">aws frauddetector delete-rule</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDRule.html">Remove-FDRule</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/describe-detector.html">aws frauddetector describe-detector</a></td>
@@ -131,8 +135,28 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDDetector.html">Get-FDDetector</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-entity-types.html">aws frauddetector get-entity-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEntityType.html">Get-FDEntityType</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-event-prediction.html">aws frauddetector get-event-prediction</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEventPrediction.html">Get-FDEventPrediction</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-event-types.html">aws frauddetector get-event-types</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEventType.html">Get-FDEventType</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-external-models.html">aws frauddetector get-external-models</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDExternalModel.html">Get-FDExternalModel</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-kms-encryption-key.html">aws frauddetector get-kms-encryption-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDKMSEncryptionKey.html">Get-FDKMSEncryptionKey</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-labels.html">aws frauddetector get-labels</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDLabel.html">Get-FDLabel</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-model-version.html">aws frauddetector get-model-version</a></td>
@@ -147,10 +171,6 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDOutcome.html">Get-FDOutcome</a></td>
 </tr>
 <tr>
-<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-prediction.html">aws frauddetector get-prediction</a></td>
-<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDPrediction.html">Get-FDPrediction</a></td>
-</tr>
-<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-rules.html">aws frauddetector get-rules</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDRule.html">Get-FDRule</a></td>
 </tr>
@@ -159,20 +179,44 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDVariable.html">Get-FDVariable</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/list-tags-for-resource.html">aws frauddetector list-tags-for-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDResourceTag.html">Get-FDResourceTag</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-detector.html">aws frauddetector put-detector</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDDetector.html">Write-FDDetector</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-entity-type.html">aws frauddetector put-entity-type</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDEntityType.html">Write-FDEntityType</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-event-type.html">aws frauddetector put-event-type</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDEventType.html">Write-FDEventType</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-external-model.html">aws frauddetector put-external-model</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDExternalModel.html">Write-FDExternalModel</a></td>
 </tr>
 <tr>
-<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-model.html">aws frauddetector put-model</a></td>
-<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDModel.html">Write-FDModel</a></td>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-kms-encryption-key.html">aws frauddetector put-kms-encryption-key</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDKMSEncryptionKey.html">Write-FDKMSEncryptionKey</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-label.html">aws frauddetector put-label</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDLabel.html">Write-FDLabel</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-outcome.html">aws frauddetector put-outcome</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDOutcome.html">Write-FDOutcome</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/tag-resource.html">aws frauddetector tag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FDResourceTag.html">Add-FDResourceTag</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/untag-resource.html">aws frauddetector untag-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDResourceTag.html">Remove-FDResourceTag</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-detector-version.html">aws frauddetector update-detector-version</a></td>
@@ -187,8 +231,16 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDDetectorVersionStatus.html">Update-FDDetectorVersionStatus</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-model.html">aws frauddetector update-model</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDModel.html">Update-FDModel</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-model-version.html">aws frauddetector update-model-version</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDModelVersion.html">Update-FDModelVersion</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-model-version-status.html">aws frauddetector update-model-version-status</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDModelVersionStatus.html">Update-FDModelVersionStatus</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-rule-metadata.html">aws frauddetector update-rule-metadata</a></td>

@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## emr
@@ -23,6 +23,7 @@ date: 2020-07-15
 |[aws emr create-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/create-security-configuration.html)|[New-EMRSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMRSecurityConfiguration.html)|
 |[aws emr delete-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/delete-security-configuration.html)|[Remove-EMRSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRSecurityConfiguration.html)|
 |[aws emr describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-cluster.html)|[Get-EMRCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCluster.html)|
+|[aws emr describe-notebook-execution](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-notebook-execution.html)||
 |[aws emr describe-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-security-configuration.html)|[Get-EMRSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSecurityConfiguration.html)|
 |[aws emr describe-step](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-step.html)|[Get-EMRStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStep.html)|
 |[aws emr disable-hbase-backups](https://docs.aws.amazon.com/cli/latest/reference/emr/disable-hbase-backups.html)||
@@ -33,6 +34,7 @@ date: 2020-07-15
 |[aws emr list-clusters](https://docs.aws.amazon.com/cli/latest/reference/emr/list-clusters.html)|[Get-EMRClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRClusterList.html)|
 |[aws emr list-instance-fleets](https://docs.aws.amazon.com/cli/latest/reference/emr/list-instance-fleets.html)|[Get-EMRInstanceFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRInstanceFleetList.html)|
 |[aws emr list-instances](https://docs.aws.amazon.com/cli/latest/reference/emr/list-instances.html)|[Get-EMRInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRInstanceList.html)|
+|[aws emr list-notebook-executions](https://docs.aws.amazon.com/cli/latest/reference/emr/list-notebook-executions.html)||
 |[aws emr list-security-configurations](https://docs.aws.amazon.com/cli/latest/reference/emr/list-security-configurations.html)|[Get-EMRSecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSecurityConfigurationList.html)|
 |[aws emr list-steps](https://docs.aws.amazon.com/cli/latest/reference/emr/list-steps.html)|[Get-EMRStepList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStepList.html)|
 |[aws emr modify-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr/modify-cluster.html)|[Edit-EMRCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EMRCluster.html)|
@@ -50,5 +52,7 @@ date: 2020-07-15
 |[aws emr schedule-hbase-backup](https://docs.aws.amazon.com/cli/latest/reference/emr/schedule-hbase-backup.html)||
 |[aws emr socks](https://docs.aws.amazon.com/cli/latest/reference/emr/socks.html)||
 |[aws emr ssh](https://docs.aws.amazon.com/cli/latest/reference/emr/ssh.html)||
+|[aws emr start-notebook-execution](https://docs.aws.amazon.com/cli/latest/reference/emr/start-notebook-execution.html)||
+|[aws emr stop-notebook-execution](https://docs.aws.amazon.com/cli/latest/reference/emr/stop-notebook-execution.html)||
 |[aws emr terminate-clusters](https://docs.aws.amazon.com/cli/latest/reference/emr/terminate-clusters.html)||
 

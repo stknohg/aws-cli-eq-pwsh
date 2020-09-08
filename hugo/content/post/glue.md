@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## glue
@@ -40,8 +40,8 @@ date: 2020-07-15
 |[aws glue create-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/create-user-defined-function.html)|[New-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEUserDefinedFunction.html)|
 |[aws glue create-workflow](https://docs.aws.amazon.com/cli/latest/reference/glue/create-workflow.html)|[New-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEWorkflow.html)|
 |[aws glue delete-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-classifier.html)|[Remove-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEClassifier.html)|
-|[aws glue delete-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-partition.html)||
-|[aws glue delete-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-table.html)||
+|[aws glue delete-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-partition.html)|[Remove-GLUEColumnStatisticsForPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsForPartition.html)|
+|[aws glue delete-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-table.html)|[Remove-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsForTable.html)|
 |[aws glue delete-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-connection.html)|[Remove-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEConnection.html)|
 |[aws glue delete-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-crawler.html)|[Remove-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUECrawler.html)|
 |[aws glue delete-database](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-database.html)|[Remove-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDatabase.html)|
@@ -59,8 +59,8 @@ date: 2020-07-15
 |[aws glue get-catalog-import-status](https://docs.aws.amazon.com/cli/latest/reference/glue/get-catalog-import-status.html)|[Get-GLUECatalogImportStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECatalogImportStatus.html)|
 |[aws glue get-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/get-classifier.html)|[Get-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEClassifier.html)|
 |[aws glue get-classifiers](https://docs.aws.amazon.com/cli/latest/reference/glue/get-classifiers.html)|[Get-GLUEClassifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEClassifierList.html)|
-|[aws glue get-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-column-statistics-for-partition.html)||
-|[aws glue get-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/get-column-statistics-for-table.html)||
+|[aws glue get-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-column-statistics-for-partition.html)|[Get-GLUEColumnStatisticsForPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEColumnStatisticsForPartition.html)|
+|[aws glue get-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/get-column-statistics-for-table.html)|[Get-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEColumnStatisticsForTable.html)|
 |[aws glue get-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/get-connection.html)|[Get-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEConnection.html)|
 |[aws glue get-connections](https://docs.aws.amazon.com/cli/latest/reference/glue/get-connections.html)|[Get-GLUEConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEConnectionList.html)|
 |[aws glue get-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/get-crawler.html)|[Get-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawler.html)|
@@ -85,7 +85,7 @@ date: 2020-07-15
 |[aws glue get-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partition.html)|[Get-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartition.html)|
 |[aws glue get-partitions](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partitions.html)|[Get-GLUEPartitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartitionList.html)|
 |[aws glue get-plan](https://docs.aws.amazon.com/cli/latest/reference/glue/get-plan.html)|[Get-GLUEPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPlan.html)|
-|[aws glue get-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policies.html)||
+|[aws glue get-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policies.html)|[Get-GLUEGluePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGluePolicyList.html)|
 |[aws glue get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policy.html)|[Get-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEResourcePolicy.html)|
 |[aws glue get-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configuration.html)|[Get-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfiguration.html)|
 |[aws glue get-security-configurations](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configurations.html)|[Get-GLUESecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfigurationList.html)|
@@ -113,6 +113,7 @@ date: 2020-07-15
 |[aws glue put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/put-resource-policy.html)|[Set-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEResourcePolicy.html)|
 |[aws glue put-workflow-run-properties](https://docs.aws.amazon.com/cli/latest/reference/glue/put-workflow-run-properties.html)|[Write-GLUEWorkflowRunProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEWorkflowRunProperty.html)|
 |[aws glue reset-job-bookmark](https://docs.aws.amazon.com/cli/latest/reference/glue/reset-job-bookmark.html)|[Reset-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GLUEJobBookmark.html)|
+|[aws glue resume-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/resume-workflow-run.html)|[Resume-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-GLUEWorkflowRun.html)|
 |[aws glue search-tables](https://docs.aws.amazon.com/cli/latest/reference/glue/search-tables.html)|[Find-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GLUETable.html)|
 |[aws glue start-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler.html)|[Start-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawler.html)|
 |[aws glue start-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler-schedule.html)|[Start-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawlerSchedule.html)|
@@ -130,8 +131,8 @@ date: 2020-07-15
 |[aws glue tag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/tag-resource.html)|[Add-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GLUEResourceTag.html)|
 |[aws glue untag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/untag-resource.html)|[Remove-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourceTag.html)|
 |[aws glue update-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/update-classifier.html)|[Update-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEClassifier.html)|
-|[aws glue update-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-partition.html)||
-|[aws glue update-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-table.html)||
+|[aws glue update-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-partition.html)|[Update-GLUEColumnStatisticsForPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEColumnStatisticsForPartition.html)|
+|[aws glue update-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-table.html)|[Update-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEColumnStatisticsForTable.html)|
 |[aws glue update-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/update-connection.html)|[Update-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEConnection.html)|
 |[aws glue update-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/update-crawler.html)|[Update-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUECrawler.html)|
 |[aws glue update-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/update-crawler-schedule.html)|[Update-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUECrawlerSchedule.html)|

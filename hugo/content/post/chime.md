@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## chime
@@ -27,7 +27,7 @@ date: 2020-07-15
 |[aws chime create-attendee](https://docs.aws.amazon.com/cli/latest/reference/chime/create-attendee.html)|[New-CHMAttendee](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMAttendee.html)|
 |[aws chime create-bot](https://docs.aws.amazon.com/cli/latest/reference/chime/create-bot.html)|[New-CHMBot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMBot.html)|
 |[aws chime create-meeting](https://docs.aws.amazon.com/cli/latest/reference/chime/create-meeting.html)|[New-CHMMeeting](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMMeeting.html)|
-|[aws chime create-meeting-with-attendees](https://docs.aws.amazon.com/cli/latest/reference/chime/create-meeting-with-attendees.html)||
+|[aws chime create-meeting-with-attendees](https://docs.aws.amazon.com/cli/latest/reference/chime/create-meeting-with-attendees.html)|[New-CHMMeetingWithAttendee](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMMeetingWithAttendee.html)|
 |[aws chime create-phone-number-order](https://docs.aws.amazon.com/cli/latest/reference/chime/create-phone-number-order.html)|[New-CHMPhoneNumberOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMPhoneNumberOrder.html)|
 |[aws chime create-proxy-session](https://docs.aws.amazon.com/cli/latest/reference/chime/create-proxy-session.html)|[New-CHMProxySession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMProxySession.html)|
 |[aws chime create-room](https://docs.aws.amazon.com/cli/latest/reference/chime/create-room.html)|[New-CHMRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMRoom.html)|
@@ -44,7 +44,7 @@ date: 2020-07-15
 |[aws chime delete-room](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-room.html)|[Remove-CHMRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMRoom.html)|
 |[aws chime delete-room-membership](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-room-membership.html)|[Remove-CHMRoomMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMRoomMembership.html)|
 |[aws chime delete-voice-connector](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-voice-connector.html)|[Remove-CHMVoiceConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMVoiceConnector.html)|
-|[aws chime delete-voice-connector-emergency-calling-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-voice-connector-emergency-calling-configuration.html)||
+|[aws chime delete-voice-connector-emergency-calling-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-voice-connector-emergency-calling-configuration.html)|[Remove-CHMVoiceConnectorEmergencyCallingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMVoiceConnectorEmergencyCallingConfiguration.html)|
 |[aws chime delete-voice-connector-group](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-voice-connector-group.html)|[Remove-CHMVoiceConnectorGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMVoiceConnectorGroup.html)|
 |[aws chime delete-voice-connector-origination](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-voice-connector-origination.html)|[Remove-CHMVoiceConnectorOrigination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMVoiceConnectorOrigination.html)|
 |[aws chime delete-voice-connector-proxy](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-voice-connector-proxy.html)|[Remove-CHMVoiceConnectorProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMVoiceConnectorProxy.html)|
@@ -71,7 +71,7 @@ date: 2020-07-15
 |[aws chime get-user](https://docs.aws.amazon.com/cli/latest/reference/chime/get-user.html)|[Get-CHMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMUser.html)|
 |[aws chime get-user-settings](https://docs.aws.amazon.com/cli/latest/reference/chime/get-user-settings.html)|[Get-CHMUserSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMUserSetting.html)|
 |[aws chime get-voice-connector](https://docs.aws.amazon.com/cli/latest/reference/chime/get-voice-connector.html)|[Get-CHMVoiceConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnector.html)|
-|[aws chime get-voice-connector-emergency-calling-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/get-voice-connector-emergency-calling-configuration.html)||
+|[aws chime get-voice-connector-emergency-calling-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/get-voice-connector-emergency-calling-configuration.html)|[Get-CHMVoiceConnectorEmergencyCallingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnectorEmergencyCallingConfiguration.html)|
 |[aws chime get-voice-connector-group](https://docs.aws.amazon.com/cli/latest/reference/chime/get-voice-connector-group.html)|[Get-CHMVoiceConnectorGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnectorGroup.html)|
 |[aws chime get-voice-connector-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/get-voice-connector-logging-configuration.html)|[Get-CHMVoiceConnectorLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnectorLoggingConfiguration.html)|
 |[aws chime get-voice-connector-origination](https://docs.aws.amazon.com/cli/latest/reference/chime/get-voice-connector-origination.html)|[Get-CHMVoiceConnectorOrigination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnectorOrigination.html)|
@@ -99,7 +99,7 @@ date: 2020-07-15
 |[aws chime logout-user](https://docs.aws.amazon.com/cli/latest/reference/chime/logout-user.html)|[Invoke-CHMUserLogout](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CHMUserLogout.html)|
 |[aws chime put-events-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/put-events-configuration.html)|[Write-CHMEventsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMEventsConfiguration.html)|
 |[aws chime put-retention-settings](https://docs.aws.amazon.com/cli/latest/reference/chime/put-retention-settings.html)|[Write-CHMRetentionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMRetentionSetting.html)|
-|[aws chime put-voice-connector-emergency-calling-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/put-voice-connector-emergency-calling-configuration.html)||
+|[aws chime put-voice-connector-emergency-calling-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/put-voice-connector-emergency-calling-configuration.html)|[Write-CHMVoiceConnectorEmergencyCallingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMVoiceConnectorEmergencyCallingConfiguration.html)|
 |[aws chime put-voice-connector-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/put-voice-connector-logging-configuration.html)|[Write-CHMVoiceConnectorLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMVoiceConnectorLoggingConfiguration.html)|
 |[aws chime put-voice-connector-origination](https://docs.aws.amazon.com/cli/latest/reference/chime/put-voice-connector-origination.html)|[Write-CHMVoiceConnectorOrigination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMVoiceConnectorOrigination.html)|
 |[aws chime put-voice-connector-proxy](https://docs.aws.amazon.com/cli/latest/reference/chime/put-voice-connector-proxy.html)|[Write-CHMVoiceConnectorProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMVoiceConnectorProxy.html)|

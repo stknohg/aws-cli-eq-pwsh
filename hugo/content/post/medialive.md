@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## medialive
@@ -30,6 +30,7 @@ date: 2020-07-15
 |[aws medialive describe-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-channel.html)|[Get-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLChannel.html)|
 |[aws medialive describe-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-input.html)|[Get-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInput.html)|
 |[aws medialive describe-input-device](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-input-device.html)|[Get-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputDevice.html)|
+|[aws medialive describe-input-device-thumbnail](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-input-device-thumbnail.html)|[Get-EMLInputDeviceThumbnail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputDeviceThumbnail.html)|
 |[aws medialive describe-input-security-group](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-input-security-group.html)|[Get-EMLInputSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputSecurityGroup.html)|
 |[aws medialive describe-multiplex](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-multiplex.html)|[Get-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLMultiplex.html)|
 |[aws medialive describe-multiplex-program](https://docs.aws.amazon.com/cli/latest/reference/medialive/describe-multiplex-program.html)|[Get-EMLMultiplexProgram](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLMultiplexProgram.html)|

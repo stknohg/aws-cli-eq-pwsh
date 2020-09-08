@@ -1,6 +1,6 @@
 ---
 title: codecommit
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## codecommit
@@ -39,7 +39,7 @@ date: 2020-07-15
 |[aws codecommit get-blob](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-blob.html)|[Get-CCBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBlob.html)|
 |[aws codecommit get-branch](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-branch.html)|[Get-CCBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBranch.html)|
 |[aws codecommit get-comment](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-comment.html)|[Get-CCComment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCComment.html)|
-|[aws codecommit get-comment-reactions](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-comment-reactions.html)||
+|[aws codecommit get-comment-reactions](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-comment-reactions.html)|[Get-CCCommentReaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCCommentReaction.html)|
 |[aws codecommit get-comments-for-compared-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-comments-for-compared-commit.html)|[Get-CCCommentsForComparedCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCCommentsForComparedCommit.html)|
 |[aws codecommit get-comments-for-pull-request](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-comments-for-pull-request.html)|[Get-CCCommentsForPullRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCCommentsForPullRequest.html)|
 |[aws codecommit get-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/get-commit.html)|[Get-CCCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCCommit.html)|
@@ -71,7 +71,7 @@ date: 2020-07-15
 |[aws codecommit post-comment-for-compared-commit](https://docs.aws.amazon.com/cli/latest/reference/codecommit/post-comment-for-compared-commit.html)|[Send-CCCommentForComparedCommit](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CCCommentForComparedCommit.html)|
 |[aws codecommit post-comment-for-pull-request](https://docs.aws.amazon.com/cli/latest/reference/codecommit/post-comment-for-pull-request.html)|[Send-CCCommentForPullRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CCCommentForPullRequest.html)|
 |[aws codecommit post-comment-reply](https://docs.aws.amazon.com/cli/latest/reference/codecommit/post-comment-reply.html)|[Send-CCCommentReply](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CCCommentReply.html)|
-|[aws codecommit put-comment-reaction](https://docs.aws.amazon.com/cli/latest/reference/codecommit/put-comment-reaction.html)||
+|[aws codecommit put-comment-reaction](https://docs.aws.amazon.com/cli/latest/reference/codecommit/put-comment-reaction.html)|[Write-CCCommentReaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCCommentReaction.html)|
 |[aws codecommit put-file](https://docs.aws.amazon.com/cli/latest/reference/codecommit/put-file.html)|[Write-CCFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCFile.html)|
 |[aws codecommit put-repository-triggers](https://docs.aws.amazon.com/cli/latest/reference/codecommit/put-repository-triggers.html)|[Set-CCRepositoryTrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CCRepositoryTrigger.html)|
 |[aws codecommit tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codecommit/tag-resource.html)|[Add-CCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CCResourceTag.html)|

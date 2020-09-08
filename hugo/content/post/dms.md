@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## dms
@@ -14,6 +14,7 @@ date: 2020-07-15
 |----|----|
 |[aws dms add-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/dms/add-tags-to-resource.html)|[Set-DMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DMSResourceTag.html)|
 |[aws dms apply-pending-maintenance-action](https://docs.aws.amazon.com/cli/latest/reference/dms/apply-pending-maintenance-action.html)|[Complete-DMSPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-DMSPendingMaintenanceAction.html)|
+|[aws dms cancel-replication-task-assessment-run](https://docs.aws.amazon.com/cli/latest/reference/dms/cancel-replication-task-assessment-run.html)|[Stop-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DMSReplicationTaskAssessmentRun.html)|
 |[aws dms create-endpoint](https://docs.aws.amazon.com/cli/latest/reference/dms/create-endpoint.html)|[New-DMSEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEndpoint.html)|
 |[aws dms create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/dms/create-event-subscription.html)|[New-DMSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEventSubscription.html)|
 |[aws dms create-replication-instance](https://docs.aws.amazon.com/cli/latest/reference/dms/create-replication-instance.html)|[New-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSReplicationInstance.html)|
@@ -26,7 +27,9 @@ date: 2020-07-15
 |[aws dms delete-replication-instance](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-instance.html)|[Remove-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationInstance.html)|
 |[aws dms delete-replication-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-subnet-group.html)|[Remove-DMSReplicationSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationSubnetGroup.html)|
 |[aws dms delete-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-task.html)|[Remove-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationTask.html)|
+|[aws dms delete-replication-task-assessment-run](https://docs.aws.amazon.com/cli/latest/reference/dms/delete-replication-task-assessment-run.html)|[Remove-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSReplicationTaskAssessmentRun.html)|
 |[aws dms describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-account-attributes.html)|[Get-DMSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSAccountAttribute.html)|
+|[aws dms describe-applicable-individual-assessments](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-applicable-individual-assessments.html)|[Get-DMSApplicableIndividualAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSApplicableIndividualAssessment.html)|
 |[aws dms describe-certificates](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-certificates.html)|[Get-DMSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSCertificate.html)|
 |[aws dms describe-connections](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-connections.html)|[Get-DMSConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSConnection.html)|
 |[aws dms describe-endpoint-types](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoint-types.html)|[Get-DMSEndpointType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpointType.html)|
@@ -41,6 +44,8 @@ date: 2020-07-15
 |[aws dms describe-replication-instances](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instances.html)|[Get-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstance.html)|
 |[aws dms describe-replication-subnet-groups](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-subnet-groups.html)|[Get-DMSReplicationSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationSubnetGroup.html)|
 |[aws dms describe-replication-task-assessment-results](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-task-assessment-results.html)|[Get-DMSReplicationTaskAssessmentResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationTaskAssessmentResult.html)|
+|[aws dms describe-replication-task-assessment-runs](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-task-assessment-runs.html)|[Get-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationTaskAssessmentRun.html)|
+|[aws dms describe-replication-task-individual-assessments](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-task-individual-assessments.html)|[Get-DMSReplicationTaskIndividualAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationTaskIndividualAssessment.html)|
 |[aws dms describe-replication-tasks](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-tasks.html)|[Get-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationTask.html)|
 |[aws dms describe-schemas](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-schemas.html)|[Get-DMSSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSSchema.html)|
 |[aws dms describe-table-statistics](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-table-statistics.html)|[Get-DMSTableStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSTableStatistic.html)|
@@ -57,6 +62,7 @@ date: 2020-07-15
 |[aws dms remove-tags-from-resource](https://docs.aws.amazon.com/cli/latest/reference/dms/remove-tags-from-resource.html)|[Remove-DMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSResourceTag.html)|
 |[aws dms start-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task.html)|[Start-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTask.html)|
 |[aws dms start-replication-task-assessment](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task-assessment.html)|[Start-DMSReplicationTaskAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTaskAssessment.html)|
+|[aws dms start-replication-task-assessment-run](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task-assessment-run.html)|[Start-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTaskAssessmentRun.html)|
 |[aws dms stop-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/stop-replication-task.html)|[Stop-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DMSReplicationTask.html)|
 |[aws dms test-connection](https://docs.aws.amazon.com/cli/latest/reference/dms/test-connection.html)|[Test-DMSConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-DMSConnection.html)|
 

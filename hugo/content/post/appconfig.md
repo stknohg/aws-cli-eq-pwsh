@@ -1,6 +1,6 @@
 ---
 title: appconfig
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## appconfig
@@ -16,25 +16,25 @@ date: 2020-07-15
 |[aws appconfig create-configuration-profile](https://docs.aws.amazon.com/cli/latest/reference/appconfig/create-configuration-profile.html)|[New-APPCConfigurationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APPCConfigurationProfile.html)|
 |[aws appconfig create-deployment-strategy](https://docs.aws.amazon.com/cli/latest/reference/appconfig/create-deployment-strategy.html)|[New-APPCDeploymentStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APPCDeploymentStrategy.html)|
 |[aws appconfig create-environment](https://docs.aws.amazon.com/cli/latest/reference/appconfig/create-environment.html)|[New-APPCEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APPCEnvironment.html)|
-|[aws appconfig create-hosted-configuration-version](https://docs.aws.amazon.com/cli/latest/reference/appconfig/create-hosted-configuration-version.html)||
+|[aws appconfig create-hosted-configuration-version](https://docs.aws.amazon.com/cli/latest/reference/appconfig/create-hosted-configuration-version.html)|[New-APPCHostedConfigurationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APPCHostedConfigurationVersion.html)|
 |[aws appconfig delete-application](https://docs.aws.amazon.com/cli/latest/reference/appconfig/delete-application.html)|[Remove-APPCApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCApplication.html)|
 |[aws appconfig delete-configuration-profile](https://docs.aws.amazon.com/cli/latest/reference/appconfig/delete-configuration-profile.html)|[Remove-APPCConfigurationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCConfigurationProfile.html)|
 |[aws appconfig delete-deployment-strategy](https://docs.aws.amazon.com/cli/latest/reference/appconfig/delete-deployment-strategy.html)|[Remove-APPCDeploymentStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCDeploymentStrategy.html)|
 |[aws appconfig delete-environment](https://docs.aws.amazon.com/cli/latest/reference/appconfig/delete-environment.html)|[Remove-APPCEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCEnvironment.html)|
-|[aws appconfig delete-hosted-configuration-version](https://docs.aws.amazon.com/cli/latest/reference/appconfig/delete-hosted-configuration-version.html)||
+|[aws appconfig delete-hosted-configuration-version](https://docs.aws.amazon.com/cli/latest/reference/appconfig/delete-hosted-configuration-version.html)|[Remove-APPCHostedConfigurationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCHostedConfigurationVersion.html)|
 |[aws appconfig get-application](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-application.html)|[Get-APPCApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCApplication.html)|
 |[aws appconfig get-configuration](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-configuration.html)|[Get-APPCConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfiguration.html)|
 |[aws appconfig get-configuration-profile](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-configuration-profile.html)|[Get-APPCConfigurationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfigurationProfile.html)|
 |[aws appconfig get-deployment](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-deployment.html)|[Get-APPCDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCDeployment.html)|
 |[aws appconfig get-deployment-strategy](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-deployment-strategy.html)|[Get-APPCDeploymentStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCDeploymentStrategy.html)|
 |[aws appconfig get-environment](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-environment.html)|[Get-APPCEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCEnvironment.html)|
-|[aws appconfig get-hosted-configuration-version](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-hosted-configuration-version.html)||
+|[aws appconfig get-hosted-configuration-version](https://docs.aws.amazon.com/cli/latest/reference/appconfig/get-hosted-configuration-version.html)|[Get-APPCHostedConfigurationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCHostedConfigurationVersion.html)|
 |[aws appconfig list-applications](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-applications.html)|[Get-APPCApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCApplicationList.html)|
 |[aws appconfig list-configuration-profiles](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-configuration-profiles.html)|[Get-APPCConfigurationProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfigurationProfileList.html)|
 |[aws appconfig list-deployment-strategies](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-deployment-strategies.html)|[Get-APPCDeploymentStrategyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCDeploymentStrategyList.html)|
 |[aws appconfig list-deployments](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-deployments.html)|[Get-APPCDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCDeploymentList.html)|
 |[aws appconfig list-environments](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-environments.html)|[Get-APPCEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCEnvironmentList.html)|
-|[aws appconfig list-hosted-configuration-versions](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-hosted-configuration-versions.html)||
+|[aws appconfig list-hosted-configuration-versions](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-hosted-configuration-versions.html)|[Get-APPCHostedConfigurationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCHostedConfigurationVersionList.html)|
 |[aws appconfig list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/appconfig/list-tags-for-resource.html)|[Get-APPCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCResourceTag.html)|
 |[aws appconfig start-deployment](https://docs.aws.amazon.com/cli/latest/reference/appconfig/start-deployment.html)|[Start-APPCDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-APPCDeployment.html)|
 |[aws appconfig stop-deployment](https://docs.aws.amazon.com/cli/latest/reference/appconfig/stop-deployment.html)|[Stop-APPCDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-APPCDeployment.html)|

@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## rekognition
@@ -38,7 +38,7 @@ date: 2020-07-15
 |[aws rekognition get-face-search](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-face-search.html)|[Get-REKFaceSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceSearch.html)|
 |[aws rekognition get-label-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-label-detection.html)|[Get-REKLabelDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKLabelDetection.html)|
 |[aws rekognition get-person-tracking](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-person-tracking.html)|[Get-REKPersonTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKPersonTracking.html)|
-|[aws rekognition get-segment-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-segment-detection.html)||
+|[aws rekognition get-segment-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-segment-detection.html)|[Get-REKSegmentDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKSegmentDetection.html)|
 |[aws rekognition get-text-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-text-detection.html)|[Get-REKTextDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKTextDetection.html)|
 |[aws rekognition index-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/index-faces.html)|[Add-REKDetectedFacesToCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-REKDetectedFacesToCollection.html)|
 |[aws rekognition list-collections](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-collections.html)|[Get-REKCollectionIdList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCollectionIdList.html)|
@@ -54,7 +54,7 @@ date: 2020-07-15
 |[aws rekognition start-label-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-label-detection.html)|[Start-REKLabelDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKLabelDetection.html)|
 |[aws rekognition start-person-tracking](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-person-tracking.html)|[Start-REKPersonTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKPersonTracking.html)|
 |[aws rekognition start-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-project-version.html)|[Start-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKProjectVersion.html)|
-|[aws rekognition start-segment-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-segment-detection.html)||
+|[aws rekognition start-segment-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-segment-detection.html)|[Start-REKSegmentDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKSegmentDetection.html)|
 |[aws rekognition start-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-stream-processor.html)|[Start-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKStreamProcessor.html)|
 |[aws rekognition start-text-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-text-detection.html)|[Start-REKTextDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKTextDetection.html)|
 |[aws rekognition stop-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/stop-project-version.html)|[Stop-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-REKProjectVersion.html)|

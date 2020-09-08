@@ -1,6 +1,6 @@
 ---
 title: sagemaker-a2i-runtime
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## sagemaker-a2i-runtime

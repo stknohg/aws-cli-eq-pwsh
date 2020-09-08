@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## sagemaker
@@ -40,6 +40,7 @@ date: 2020-07-15
 |[aws sagemaker create-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-trial.html)|[New-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTrial.html)|
 |[aws sagemaker create-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-trial-component.html)|[New-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTrialComponent.html)|
 |[aws sagemaker create-user-profile](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-user-profile.html)|[New-SMUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMUserProfile.html)|
+|[aws sagemaker create-workforce](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-workforce.html)|[New-SMWorkforce](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMWorkforce.html)|
 |[aws sagemaker create-workteam](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-workteam.html)|[New-SMWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMWorkteam.html)|
 |[aws sagemaker delete-algorithm](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-algorithm.html)|[Remove-SMAlgorithm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMAlgorithm.html)|
 |[aws sagemaker delete-app](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-app.html)|[Remove-SMApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMApp.html)|
@@ -49,7 +50,7 @@ date: 2020-07-15
 |[aws sagemaker delete-endpoint-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-endpoint-config.html)|[Remove-SMEndpointConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMEndpointConfig.html)|
 |[aws sagemaker delete-experiment](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-experiment.html)|[Remove-SMExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMExperiment.html)|
 |[aws sagemaker delete-flow-definition](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-flow-definition.html)|[Remove-SMFlowDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMFlowDefinition.html)|
-|[aws sagemaker delete-human-task-ui](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-human-task-ui.html)||
+|[aws sagemaker delete-human-task-ui](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-human-task-ui.html)|[Remove-SMHumanTaskUi](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMHumanTaskUi.html)|
 |[aws sagemaker delete-model](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-model.html)|[Remove-SMModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMModel.html)|
 |[aws sagemaker delete-model-package](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-model-package.html)|[Remove-SMModelPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMModelPackage.html)|
 |[aws sagemaker delete-monitoring-schedule](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-monitoring-schedule.html)|[Remove-SMMonitoringSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMMonitoringSchedule.html)|
@@ -59,6 +60,7 @@ date: 2020-07-15
 |[aws sagemaker delete-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-trial.html)|[Remove-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrial.html)|
 |[aws sagemaker delete-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-trial-component.html)|[Remove-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrialComponent.html)|
 |[aws sagemaker delete-user-profile](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-user-profile.html)|[Remove-SMUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMUserProfile.html)|
+|[aws sagemaker delete-workforce](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-workforce.html)|[Remove-SMWorkforce](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMWorkforce.html)|
 |[aws sagemaker delete-workteam](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-workteam.html)|[Remove-SMWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMWorkteam.html)|
 |[aws sagemaker describe-algorithm](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-algorithm.html)|[Get-SMAlgorithm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAlgorithm.html)|
 |[aws sagemaker describe-app](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-app.html)|[Get-SMApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMApp.html)|
@@ -119,6 +121,7 @@ date: 2020-07-15
 |[aws sagemaker list-trial-components](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-trial-components.html)|[Get-SMTrialComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrialComponentList.html)|
 |[aws sagemaker list-trials](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-trials.html)|[Get-SMTrialList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrialList.html)|
 |[aws sagemaker list-user-profiles](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-user-profiles.html)|[Get-SMUserProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMUserProfileList.html)|
+|[aws sagemaker list-workforces](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-workforces.html)|[Get-SMWorkforceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMWorkforceList.html)|
 |[aws sagemaker list-workteams](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-workteams.html)|[Get-SMWorkteamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMWorkteamList.html)|
 |[aws sagemaker render-ui-template](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/render-ui-template.html)|[Invoke-SMUiTemplateRendering](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMUiTemplateRendering.html)|
 |[aws sagemaker search](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/search.html)|[Search-SMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-SMResource.html)|

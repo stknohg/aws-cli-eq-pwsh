@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## iot
@@ -27,6 +27,7 @@ date: 2020-07-15
 |[aws iot cancel-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot/cancel-job-execution.html)|[Stop-IOTJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IOTJobExecution.html)|
 |[aws iot clear-default-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/clear-default-authorizer.html)|[Clear-IOTDefaultAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-IOTDefaultAuthorizer.html)|
 |[aws iot confirm-topic-rule-destination](https://docs.aws.amazon.com/cli/latest/reference/iot/confirm-topic-rule-destination.html)|[Confirm-IOTTopicRuleDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-IOTTopicRuleDestination.html)|
+|[aws iot create-audit-suppression](https://docs.aws.amazon.com/cli/latest/reference/iot/create-audit-suppression.html)|[New-IOTAuditSuppression](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTAuditSuppression.html)|
 |[aws iot create-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/create-authorizer.html)|[New-IOTAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTAuthorizer.html)|
 |[aws iot create-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/create-billing-group.html)|[New-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTBillingGroup.html)|
 |[aws iot create-certificate-from-csr](https://docs.aws.amazon.com/cli/latest/reference/iot/create-certificate-from-csr.html)|[New-IOTCertificateFromCsr](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTCertificateFromCsr.html)|
@@ -52,6 +53,7 @@ date: 2020-07-15
 |[aws iot create-topic-rule](https://docs.aws.amazon.com/cli/latest/reference/iot/create-topic-rule.html)|[New-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTopicRule.html)|
 |[aws iot create-topic-rule-destination](https://docs.aws.amazon.com/cli/latest/reference/iot/create-topic-rule-destination.html)|[New-IOTTopicRuleDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTopicRuleDestination.html)|
 |[aws iot delete-account-audit-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-account-audit-configuration.html)|[Remove-IOTAccountAuditConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTAccountAuditConfiguration.html)|
+|[aws iot delete-audit-suppression](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-audit-suppression.html)|[Remove-IOTAuditSuppression](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTAuditSuppression.html)|
 |[aws iot delete-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-authorizer.html)|[Remove-IOTAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTAuthorizer.html)|
 |[aws iot delete-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-billing-group.html)|[Remove-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTBillingGroup.html)|
 |[aws iot delete-ca-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-ca-certificate.html)|[Remove-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCACertificate.html)|
@@ -82,6 +84,7 @@ date: 2020-07-15
 |[aws iot describe-account-audit-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-account-audit-configuration.html)|[Get-IOTAccountAuditConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAccountAuditConfiguration.html)|
 |[aws iot describe-audit-finding](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-audit-finding.html)|[Get-IOTAuditFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditFinding.html)|
 |[aws iot describe-audit-mitigation-actions-task](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-audit-mitigation-actions-task.html)|[Get-IOTAuditMitigationActionsTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditMitigationActionsTask.html)|
+|[aws iot describe-audit-suppression](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-audit-suppression.html)|[Get-IOTAuditSuppression](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditSuppression.html)|
 |[aws iot describe-audit-task](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-audit-task.html)|[Get-IOTAuditTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditTask.html)|
 |[aws iot describe-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-authorizer.html)|[Get-IOTAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuthorizer.html)|
 |[aws iot describe-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-billing-group.html)|[Get-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBillingGroup.html)|
@@ -131,6 +134,7 @@ date: 2020-07-15
 |[aws iot list-audit-findings](https://docs.aws.amazon.com/cli/latest/reference/iot/list-audit-findings.html)|[Get-IOTAuditFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditFindingList.html)|
 |[aws iot list-audit-mitigation-actions-executions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-audit-mitigation-actions-executions.html)|[Get-IOTAuditMitigationActionsExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditMitigationActionsExecutionList.html)|
 |[aws iot list-audit-mitigation-actions-tasks](https://docs.aws.amazon.com/cli/latest/reference/iot/list-audit-mitigation-actions-tasks.html)|[Get-IOTAuditMitigationActionsTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditMitigationActionsTaskList.html)|
+|[aws iot list-audit-suppressions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-audit-suppressions.html)|[Get-IOTAuditSuppressionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuditSuppressionList.html)|
 |[aws iot list-audit-tasks](https://docs.aws.amazon.com/cli/latest/reference/iot/list-audit-tasks.html)|[Get-IOTTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTaskList.html)|
 |[aws iot list-authorizers](https://docs.aws.amazon.com/cli/latest/reference/iot/list-authorizers.html)|[Get-IOTAuthorizerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTAuthorizerList.html)|
 |[aws iot list-billing-groups](https://docs.aws.amazon.com/cli/latest/reference/iot/list-billing-groups.html)|[Get-IOTBillingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBillingGroupList.html)|
@@ -198,6 +202,7 @@ date: 2020-07-15
 |[aws iot transfer-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/transfer-certificate.html)|[Request-IOTCertificateTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-IOTCertificateTransfer.html)|
 |[aws iot untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iot/untag-resource.html)|[Remove-IOTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTResourceTag.html)|
 |[aws iot update-account-audit-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/update-account-audit-configuration.html)|[Update-IOTAccountAuditConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTAccountAuditConfiguration.html)|
+|[aws iot update-audit-suppression](https://docs.aws.amazon.com/cli/latest/reference/iot/update-audit-suppression.html)|[Update-IOTAuditSuppression](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTAuditSuppression.html)|
 |[aws iot update-authorizer](https://docs.aws.amazon.com/cli/latest/reference/iot/update-authorizer.html)|[Update-IOTAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTAuthorizer.html)|
 |[aws iot update-billing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/update-billing-group.html)|[Update-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTBillingGroup.html)|
 |[aws iot update-ca-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/update-ca-certificate.html)|[Update-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCACertificate.html)|

@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## workspaces
@@ -29,6 +29,7 @@ date: 2020-07-15
 |[aws workspaces describe-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-tags.html)|[Get-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSTag.html)|
 |[aws workspaces describe-workspace-bundles](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspace-bundles.html)|[Get-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspaceBundle.html)|
 |[aws workspaces describe-workspace-directories](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspace-directories.html)|[Get-WKSWorkspaceDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspaceDirectory.html)|
+|[aws workspaces describe-workspace-image-permissions](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspace-image-permissions.html)|[Get-WKSWorkspaceImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspaceImagePermission.html)|
 |[aws workspaces describe-workspace-images](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspace-images.html)|[Get-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspaceImage.html)|
 |[aws workspaces describe-workspace-snapshots](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspace-snapshots.html)|[Get-WKSWorkspaceSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspaceSnapshot.html)|
 |[aws workspaces describe-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspaces.html)|[Get-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspace.html)|
@@ -53,4 +54,5 @@ date: 2020-07-15
 |[aws workspaces stop-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/stop-workspaces.html)|[Stop-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-WKSWorkspace.html)|
 |[aws workspaces terminate-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/terminate-workspaces.html)|[Remove-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSWorkspace.html)|
 |[aws workspaces update-rules-of-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/update-rules-of-ip-group.html)|[Update-WKSRulesOfIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WKSRulesOfIpGroup.html)|
+|[aws workspaces update-workspace-image-permission](https://docs.aws.amazon.com/cli/latest/reference/workspaces/update-workspace-image-permission.html)|[Update-WKSWorkspaceImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WKSWorkspaceImagePermission.html)|
 

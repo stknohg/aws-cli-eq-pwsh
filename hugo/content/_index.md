@@ -1,14 +1,14 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.0.30 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.0.6.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.0.46 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.0.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -29,6 +29,7 @@ For that reason, some content may not be accurate.
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
 |[AWS AppConfig](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfig]({{%relref "post/appconfig.md" %}})|APPC||
+|[Amazon AppFlow](https://aws.amazon.com/appflow/)|[appflow]({{%relref "post/appflow.md" %}})|||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
 |[Amazon CloudWatch Application Insights](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
@@ -39,6 +40,7 @@ For that reason, some content may not be accurate.
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling-plans]({{%relref "post/autoscaling-plans.md" %}})|ASP||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
+|[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime]({{%relref "post/chime.md" %}})|CHM||
@@ -121,6 +123,7 @@ For that reason, some content may not be accurate.
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
 |[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})||Beta version|
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
+|[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
@@ -135,6 +138,7 @@ For that reason, some content may not be accurate.
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
 |[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
 |[AWS IoT Things Graph](https://aws.amazon.com/iot-things-graph/)|[iotthingsgraph]({{%relref "post/iotthingsgraph.md" %}})|IOTTG||
+|[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivs]({{%relref "post/ivs.md" %}})|IVS||
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Kendra](https://aws.amazon.com/kendra//)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||

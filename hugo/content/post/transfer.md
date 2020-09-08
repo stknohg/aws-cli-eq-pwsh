@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2020-07-15
+date: 2020-09-08
 ---
 
 ## transfer
@@ -17,9 +17,11 @@ date: 2020-07-15
 |[aws transfer delete-server](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-server.html)|[Remove-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRServer.html)|
 |[aws transfer delete-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-ssh-public-key.html)|[Remove-TFRSshPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRSshPublicKey.html)|
 |[aws transfer delete-user](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-user.html)|[Remove-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRUser.html)|
+|[aws transfer describe-security-policy](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-security-policy.html)|[Get-TFRSecurityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRSecurityPolicy.html)|
 |[aws transfer describe-server](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-server.html)|[Get-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServer.html)|
 |[aws transfer describe-user](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-user.html)|[Get-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUser.html)|
 |[aws transfer import-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/import-ssh-public-key.html)|[Import-TFRSshPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRSshPublicKey.html)|
+|[aws transfer list-security-policies](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-security-policies.html)|[Get-TFRSecurityPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRSecurityPolicyList.html)|
 |[aws transfer list-servers](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-servers.html)|[Get-TFRServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServerList.html)|
 |[aws transfer list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-tags-for-resource.html)|[Get-TFRResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRResourceTagList.html)|
 |[aws transfer list-users](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-users.html)|[Get-TFRUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUserList.html)|

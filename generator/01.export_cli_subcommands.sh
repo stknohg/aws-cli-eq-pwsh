@@ -1,4 +1,6 @@
 #!/bin/bash
+# set for sort collation
+export LC_ALL=C.UTF-8
 
 # utils
 echo_info () {

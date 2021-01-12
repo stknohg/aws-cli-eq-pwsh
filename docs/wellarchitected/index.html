@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="generator" content="Hugo 0.69.2" />
+  <link rel="canonical" href="https://aws-cli-eq-pwsh.shibata.tech/wellarchitected/">
+
+  
+
+  <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+  <link rel="manifest" href="../site.webmanifest">
+  <link rel="mask-icon" href="../safari-pinned-tab.svg" color="#000000">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="theme-color" content="#ffffff">
+
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/paper.css">
+
+  
+  
+  <link rel="stylesheet" type="text/css" href="https://aws-cli-eq-pwsh.shibata.tech/css/custom.css">
+
+  
+  
+  <title>wellarchitected | AWS CLI -eq PowerShell</title>
+</head>
+  <body>
+    <div class="container paper">
+      <nav class="border split-nav">
+  <div class="nav-brand">
+    <h3><a href="../">AWS CLI -eq PowerShell</a></h3>
+  </div>
+  <div class="collapsible">
+    <input id="collapsible1" type="checkbox" name="collapsible1">
+    <button>
+    <label for="collapsible1">
+        <div class="bar1"></div>
+        <div class="bar2"></div>
+        <div class="bar3"></div>
+      </label>
+    </button>
+    <div class="collapsible-body">
+      <ul class="inline">
+      
+        <li><a href="https://github.com/stknohg/aws-cli-eq-pwsh/">GitHub</a></li>
+      
+        <li><a href="https://themes.gohugo.io/papercss-hugo-theme/">Theme</a></li>
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+      <main>
+        
+
+
+<p class="text-right"><strong>Last update: </strong>2021-01-12</p>
+
+<h2 id="wellarchitected">wellarchitected</h2>
+<h3 id="aws-well-architected-toolhttpsawsamazoncomwell-architected-tool"><a href="https://aws.amazon.com/well-architected-tool/">AWS Well-Architected Tool</a></h3>
+<ul>
+<li><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/index.html">CLI Reference</a></li>
+<li><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/WellArchitected_cmdlets.html">Cmdlet Reference</a></li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>AWS CLI</th>
+<th>PowerShell Cmdlet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/associate-lenses.html">aws wellarchitected associate-lenses</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WATLense.html">Add-WATLense</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-milestone.html">aws wellarchitected create-milestone</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WATMilestone.html">New-WATMilestone</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-workload.html">aws wellarchitected create-workload</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WATWorkload.html">New-WATWorkload</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-workload-share.html">aws wellarchitected create-workload-share</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-WATWorkloadShare.html">New-WATWorkloadShare</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/delete-workload.html">aws wellarchitected delete-workload</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATWorkload.html">Remove-WATWorkload</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/delete-workload-share.html">aws wellarchitected delete-workload-share</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATWorkloadShare.html">Remove-WATWorkloadShare</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/disassociate-lenses.html">aws wellarchitected disassociate-lenses</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATLense.html">Remove-WATLense</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-answer.html">aws wellarchitected get-answer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswer.html">Get-WATAnswer</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-review.html">aws wellarchitected get-lens-review</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReview.html">Get-WATLensReview</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-review-report.html">aws wellarchitected get-lens-review-report</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewReport.html">Get-WATLensReviewReport</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-version-difference.html">aws wellarchitected get-lens-version-difference</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensVersionDifference.html">Get-WATLensVersionDifference</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-milestone.html">aws wellarchitected get-milestone</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATMilestone.html">Get-WATMilestone</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-workload.html">aws wellarchitected get-workload</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkload.html">Get-WATWorkload</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-answers.html">aws wellarchitected list-answers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswerList.html">Get-WATAnswerList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-review-improvements.html">aws wellarchitected list-lens-review-improvements</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewImprovementList.html">Get-WATLensReviewImprovementList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-reviews.html">aws wellarchitected list-lens-reviews</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewList.html">Get-WATLensReviewList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lenses.html">aws wellarchitected list-lenses</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLenseList.html">Get-WATLenseList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-milestones.html">aws wellarchitected list-milestones</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATMilestoneList.html">Get-WATMilestoneList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-notifications.html">aws wellarchitected list-notifications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATNotificationList.html">Get-WATNotificationList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-share-invitations.html">aws wellarchitected list-share-invitations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATShareInvitationList.html">Get-WATShareInvitationList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-workload-shares.html">aws wellarchitected list-workload-shares</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkloadShareList.html">Get-WATWorkloadShareList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-workloads.html">aws wellarchitected list-workloads</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkloadList.html">Get-WATWorkloadList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-answer.html">aws wellarchitected update-answer</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATAnswer.html">Update-WATAnswer</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-lens-review.html">aws wellarchitected update-lens-review</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATLensReview.html">Update-WATLensReview</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-share-invitation.html">aws wellarchitected update-share-invitation</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATShareInvitation.html">Update-WATShareInvitation</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-workload.html">aws wellarchitected update-workload</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATWorkload.html">Update-WATWorkload</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-workload-share.html">aws wellarchitected update-workload-share</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATWorkloadShare.html">Update-WATWorkloadShare</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/upgrade-lens-review.html">aws wellarchitected upgrade-lens-review</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-WATLensReview.html">Convert-WATLensReview</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+      </main>
+      
+  
+  <script>
+  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+  ga('create', 'UA-47904214-2', 'auto');
+  ga('send', 'pageview');
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  
+
+  </div>
+  </body>
+</html>

@@ -1,6 +1,6 @@
 ---
 title: schemas
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## schemas
@@ -24,6 +24,7 @@ date: 2020-09-08
 |[aws schemas describe-discoverer](https://docs.aws.amazon.com/cli/latest/reference/schemas/describe-discoverer.html)||
 |[aws schemas describe-registry](https://docs.aws.amazon.com/cli/latest/reference/schemas/describe-registry.html)||
 |[aws schemas describe-schema](https://docs.aws.amazon.com/cli/latest/reference/schemas/describe-schema.html)||
+|[aws schemas export-schema](https://docs.aws.amazon.com/cli/latest/reference/schemas/export-schema.html)||
 |[aws schemas get-code-binding-source](https://docs.aws.amazon.com/cli/latest/reference/schemas/get-code-binding-source.html)||
 |[aws schemas get-discovered-schema](https://docs.aws.amazon.com/cli/latest/reference/schemas/get-discovered-schema.html)||
 |[aws schemas get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/schemas/get-resource-policy.html)||

@@ -1,6 +1,6 @@
 ---
 title: ivs
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## ivs
@@ -17,15 +17,15 @@ date: 2020-09-08
 |[aws ivs create-channel](https://docs.aws.amazon.com/cli/latest/reference/ivs/create-channel.html)|[New-IVSChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IVSChannel.html)|
 |[aws ivs create-stream-key](https://docs.aws.amazon.com/cli/latest/reference/ivs/create-stream-key.html)|[New-IVSStreamKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IVSStreamKey.html)|
 |[aws ivs delete-channel](https://docs.aws.amazon.com/cli/latest/reference/ivs/delete-channel.html)|[Remove-IVSChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IVSChannel.html)|
-|[aws ivs delete-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/delete-playback-key-pair.html)||
+|[aws ivs delete-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/delete-playback-key-pair.html)|[Remove-IVSPlaybackKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IVSPlaybackKeyPair.html)|
 |[aws ivs delete-stream-key](https://docs.aws.amazon.com/cli/latest/reference/ivs/delete-stream-key.html)|[Remove-IVSStreamKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IVSStreamKey.html)|
 |[aws ivs get-channel](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-channel.html)|[Get-IVSChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSChannel.html)|
-|[aws ivs get-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-playback-key-pair.html)||
+|[aws ivs get-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-playback-key-pair.html)|[Get-IVSPlaybackKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSPlaybackKeyPair.html)|
 |[aws ivs get-stream](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-stream.html)|[Get-IVSStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStream.html)|
 |[aws ivs get-stream-key](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-stream-key.html)|[Get-IVSStreamKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamKey.html)|
-|[aws ivs import-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/import-playback-key-pair.html)||
+|[aws ivs import-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/import-playback-key-pair.html)|[Import-IVSPlaybackKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-IVSPlaybackKeyPair.html)|
 |[aws ivs list-channels](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-channels.html)|[Get-IVSChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSChannelList.html)|
-|[aws ivs list-playback-key-pairs](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-playback-key-pairs.html)||
+|[aws ivs list-playback-key-pairs](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-playback-key-pairs.html)|[Get-IVSPlaybackKeyPairList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSPlaybackKeyPairList.html)|
 |[aws ivs list-stream-keys](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-stream-keys.html)|[Get-IVSStreamKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamKeyList.html)|
 |[aws ivs list-streams](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-streams.html)|[Get-IVSStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamList.html)|
 |[aws ivs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-tags-for-resource.html)|[Get-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSResourceTag.html)|

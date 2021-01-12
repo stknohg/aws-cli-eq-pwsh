@@ -1,6 +1,6 @@
 ---
 title: batch
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## batch
@@ -23,9 +23,12 @@ date: 2020-09-08
 |[aws batch describe-job-queues](https://docs.aws.amazon.com/cli/latest/reference/batch/describe-job-queues.html)|[Get-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobQueue.html)|
 |[aws batch describe-jobs](https://docs.aws.amazon.com/cli/latest/reference/batch/describe-jobs.html)|[Get-BATJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobDetail.html)|
 |[aws batch list-jobs](https://docs.aws.amazon.com/cli/latest/reference/batch/list-jobs.html)|[Get-BATJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobList.html)|
+|[aws batch list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/batch/list-tags-for-resource.html)|[Get-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATResourceTag.html)|
 |[aws batch register-job-definition](https://docs.aws.amazon.com/cli/latest/reference/batch/register-job-definition.html)|[Register-BATJobDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-BATJobDefinition.html)|
 |[aws batch submit-job](https://docs.aws.amazon.com/cli/latest/reference/batch/submit-job.html)|[Submit-BATJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-BATJob.html)|
+|[aws batch tag-resource](https://docs.aws.amazon.com/cli/latest/reference/batch/tag-resource.html)|[Add-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BATResourceTag.html)|
 |[aws batch terminate-job](https://docs.aws.amazon.com/cli/latest/reference/batch/terminate-job.html)|[Remove-BATJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATJob.html)|
+|[aws batch untag-resource](https://docs.aws.amazon.com/cli/latest/reference/batch/untag-resource.html)|[Remove-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATResourceTag.html)|
 |[aws batch update-compute-environment](https://docs.aws.amazon.com/cli/latest/reference/batch/update-compute-environment.html)|[Update-BATComputeEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATComputeEnvironment.html)|
 |[aws batch update-job-queue](https://docs.aws.amazon.com/cli/latest/reference/batch/update-job-queue.html)|[Update-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATJobQueue.html)|
 

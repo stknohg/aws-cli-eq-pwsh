@@ -1,14 +1,14 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.0.46 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.0.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.1.17 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.7.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -24,18 +24,22 @@ For that reason, some content may not be accurate.
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Certificate Manager Private Certificate Authority](https://aws.amazon.com/certificate-manager/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA||
 |[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB||
+|[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
+|[AWS Amplify Backend](https://aws.amazon.com/amplify/)|[amplifybackend]({{%relref "post/amplifybackend.md" %}})|AMPB||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigateway]({{%relref "post/apigateway.md" %}})|AG||
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
 |[AWS AppConfig](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfig]({{%relref "post/appconfig.md" %}})|APPC||
-|[Amazon AppFlow](https://aws.amazon.com/appflow/)|[appflow]({{%relref "post/appflow.md" %}})|||
+|[Amazon AppFlow](https://aws.amazon.com/appflow/)|[appflow]({{%relref "post/appflow.md" %}})|AF||
+|[Amazon AppIntegrations APIs](https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html)|[appintegrations]({{%relref "post/appintegrations.md" %}})|AIS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
 |[Amazon CloudWatch Application Insights](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
 |[Amazon Athena](https://aws.amazon.com/athena/)|[athena]({{%relref "post/athena.md" %}})|ATH||
+|[AWS Audit Manager](https://aws.amazon.com/audit-manager/)|[auditmanager]({{%relref "post/auditmanager.md" %}})|AUDM||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling]({{%relref "post/autoscaling.md" %}})|AS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling-plans]({{%relref "post/autoscaling-plans.md" %}})|ASP||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
@@ -72,8 +76,11 @@ For that reason, some content may not be accurate.
 |[AWS Config](https://aws.amazon.com/config/)|[configservice]({{%relref "post/configservice.md" %}})|CFG||
 |-|[configure]({{%relref "post/configure.md" %}})||Configure AWS CLI options.|
 |[Amazon Connect](https://aws.amazon.com/connect/)|[connect]({{%relref "post/connect.md" %}})|CONN||
+|[Contact Lens for Amazon Connect ](https://aws.amazon.com/connect/)|[connect-contact-lens]({{%relref "post/connect-contact-lens.md" %}})|CCL||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
 |[AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)|[cur]({{%relref "post/cur.md" %}})|CUR||
+|[Amazon Connect Customer Profiles](https://aws.amazon.com/connect/)|[customer-profiles]({{%relref "post/customer-profiles.md" %}})|CPF||
+|[AWS Glue DataBrew](https://aws.amazon.com/glue/features/databrew/)|[databrew]({{%relref "post/databrew.md" %}})|||
 |[AWS Data Exchange](https://aws.amazon.com/data-exchange/)|[dataexchange]({{%relref "post/dataexchange.md" %}})|DTEX||
 |[AWS Data Pipeline](https://aws.amazon.com/datapipeline/)|[datapipeline]({{%relref "post/datapipeline.md" %}})|DP||
 |[AWS DataSync](https://aws.amazon.com/datasync/)|[datasync]({{%relref "post/datasync.md" %}})|DSYN||
@@ -82,6 +89,7 @@ For that reason, some content may not be accurate.
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
 |[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|DTCT||
 |[AWS Device Farm](https://aws.amazon.com/device-farm/)|[devicefarm]({{%relref "post/devicefarm.md" %}})|DF||
+|[Amazon DevOps Guru](https://aws.amazon.com/devops-guru/)|[devops-guru]({{%relref "post/devops-guru.md" %}})|DGURU||
 |[AWS Direct Connect](https://aws.amazon.com/directconnect/)|[directconnect]({{%relref "post/directconnect.md" %}})|DC||
 |[AWS Application Discovery Service](https://aws.amazon.com/application-discovery/)|[discovery]({{%relref "post/discovery.md" %}})|ADS||
 |[Amazon Data Lifecycle Manager](https://aws.amazon.com/ebs/)|[dlm]({{%relref "post/dlm.md" %}})|DLM||
@@ -94,6 +102,7 @@ For that reason, some content may not be accurate.
 |[Amazon EC2](https://aws.amazon.com/ec2/)|[ec2]({{%relref "post/ec2.md" %}})|EC2||
 |[AWS EC2 Connect Service](https://aws.amazon.com/ec2/)|[ec2-instance-connect]({{%relref "post/ec2-instance-connect.md" %}})|||
 |[Amazon Elastic Container Registry](https://aws.amazon.com/ecr/)|[ecr]({{%relref "post/ecr.md" %}})|ECR||
+|[Amazon Elastic Container Registry Public](https://aws.amazon.com/ecr/)|[ecr-public]({{%relref "post/ecr-public.md" %}})|ECRP||
 |[Amazon Elastic Container Service](https://aws.amazon.com/ecs/)|[ecs]({{%relref "post/ecs.md" %}})|ECS||
 |[Amazon Elastic File System](https://aws.amazon.com/efs/)|[efs]({{%relref "post/efs.md" %}})|EFS||
 |[Amazon Elastic Container Service for Kubernetes](https://aws.amazon.com/eks/)|[eks]({{%relref "post/eks.md" %}})|EKS||
@@ -104,6 +113,7 @@ For that reason, some content may not be accurate.
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elb]({{%relref "post/elb.md" %}})|ELB||
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elbv2]({{%relref "post/elbv2.md" %}})|ELB2||
 |[Amazon EMR](https://aws.amazon.com/emr/)|[emr]({{%relref "post/emr.md" %}})|EMR||
+|[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
 |[Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF||
@@ -117,13 +127,15 @@ For that reason, some content may not be accurate.
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrass]({{%relref "post/greengrass.md" %}})|GG||
+|[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrassv2]({{%relref "post/greengrassv2.md" %}})|GGV2||
 |[AWS Ground Station](https://aws.amazon.com/ground-station/)|[groundstation]({{%relref "post/groundstation.md" %}})|GS||
 |[Amazon Guard​Duty](https://aws.amazon.com/guardduty/)|[guardduty]({{%relref "post/guardduty.md" %}})|GD||
 |[AWS Health](https://phd.aws.amazon.com/)|[health]({{%relref "post/health.md" %}})|HLTH||
+|[Amazon HealthLake](https://aws.amazon.com/healthlake/)|[healthlake]({{%relref "post/healthlake.md" %}})|AHLFHIR||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
-|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})||Beta version|
+|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})|||
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
-|[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|||
+|[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|IDS||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
@@ -133,11 +145,14 @@ For that reason, some content may not be accurate.
 |[AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)|[iot1click-devices]({{%relref "post/iot1click-devices.md" %}})|||
 |[AWS IoT 1-Click Project](https://aws.amazon.com/iot/)|[iot1click-projects]({{%relref "post/iot1click-projects.md" %}})|||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
+|[AWS IoT Core Device Advisor](https://aws.amazon.com/iot/)|[iotdeviceadvisor]({{%relref "post/iotdeviceadvisor.md" %}})|IOTDA||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
+|[Fleet Hub for AWS IoT Device Management](https://aws.amazon.com/iot/)|[iotfleethub]({{%relref "post/iotfleethub.md" %}})|IOTFH||
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
 |[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
 |[AWS IoT Things Graph](https://aws.amazon.com/iot-things-graph/)|[iotthingsgraph]({{%relref "post/iotthingsgraph.md" %}})|IOTTG||
+|[AWS IoT Wireless](https://aws.amazon.com/iot/)|[iotwireless]({{%relref "post/iotwireless.md" %}})|IOTW||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivs]({{%relref "post/ivs.md" %}})|IVS||
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Kendra](https://aws.amazon.com/kendra//)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
@@ -155,7 +170,9 @@ For that reason, some content may not be accurate.
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||
 |[AWS License Manager](https://aws.amazon.com/license-manager/)|[license-manager]({{%relref "post/license-manager.md" %}})|LICM||
 |[Amazon Lightsail](https://aws.amazon.com/lightsail/)|[lightsail]({{%relref "post/lightsail.md" %}})|LS||
+|[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
+|[Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)|[lookoutvision]({{%relref "post/lookoutvision.md" %}})|LFV||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2||
@@ -177,7 +194,9 @@ For that reason, some content may not be accurate.
 |[AWS Mobile](https://aws.amazon.com/amplify/)|[mobile]({{%relref "post/mobile.md" %}})|MOBL||
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||
 |[Amazon Mechanical Turk](https://www.mturk.com/)|[mturk]({{%relref "post/mturk.md" %}})|MTR||
+|[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/)|[mwaa]({{%relref "post/mwaa.md" %}})|MWAA||
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptune]({{%relref "post/neptune.md" %}})|NPT||
+|[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
@@ -199,6 +218,7 @@ For that reason, some content may not be accurate.
 |[Amazon Relational Database Service](https://aws.amazon.com/rds/)|[rds]({{%relref "post/rds.md" %}})|RDS||
 |[Amazon Relational Database Service](https://aws.amazon.com/rds/)|[rds-data]({{%relref "post/rds-data.md" %}})|RDSD||
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift]({{%relref "post/redshift.md" %}})|RS||
+|[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift-data]({{%relref "post/redshift-data.md" %}})|RSD||
 |[Amazon Rekognition](https://aws.amazon.com/rekognition/)|[rekognition]({{%relref "post/rekognition.md" %}})|REK||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
@@ -209,8 +229,11 @@ For that reason, some content may not be accurate.
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})|S3|* Currntly, failed to create the list...|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|* Currntly, failed to create the list...|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3control]({{%relref "post/s3control.md" %}})|S3C||
+|[Amazon S3 on Outposts](https://aws.amazon.com/outposts/)|[s3outposts]({{%relref "post/s3outposts.md" %}})|S3O||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker]({{%relref "post/sagemaker.md" %}})|SM||
 |[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/)|[sagemaker-a2i-runtime]({{%relref "post/sagemaker-a2i-runtime.md" %}})|A2IR||
+|[Amazon SageMaker Edge Manager](https://aws.amazon.com/sagemaker/edge-manager/)|[sagemaker-edge]({{%relref "post/sagemaker-edge.md" %}})|SME||
+|[Amazon SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)|[sagemaker-featurestore-runtime]({{%relref "post/sagemaker-featurestore-runtime.md" %}})|SMFS||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
 |[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|||
@@ -220,6 +243,7 @@ For that reason, some content may not be accurate.
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||
 |[AWS Service Quotas](https://console.aws.amazon.com/servicequotas/)|[service-quotas]({{%relref "post/service-quotas.md" %}})|SQ||
 |[AWS Service Catalog](https://aws.amazon.com/servicecatalog/)|[servicecatalog]({{%relref "post/servicecatalog.md" %}})|SC||
+|[AWS Service Catalog App Registry](https://aws.amazon.com/servicecatalog/)|[servicecatalog-appregistry]({{%relref "post/servicecatalog-appregistry.md" %}})|SCAR||
 |[Amazon Route 53 Auto Naming](https://aws.amazon.com/route53/)|[servicediscovery]({{%relref "post/servicediscovery.md" %}})|SD||
 |[Amazon Simple Email Service](https://aws.amazon.com/ses/)|[ses]({{%relref "post/ses.md" %}})|SES||
 |[Amazon Simple Email Service V2](https://aws.amazon.com/ses/)|[sesv2]({{%relref "post/sesv2.md" %}})|SES2||
@@ -231,6 +255,7 @@ For that reason, some content may not be accurate.
 |[Amazon Simple Queue Service](https://aws.amazon.com/sqs/)|[sqs]({{%relref "post/sqs.md" %}})|SQS||
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso]({{%relref "post/sso.md" %}})|SSO||
+|[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso-admin]({{%relref "post/sso-admin.md" %}})|SSOADMN||
 |[AWS Single Sign-On OIDC](https://aws.amazon.com/single-sign-on/)|[sso-oidc]({{%relref "post/sso-oidc.md" %}})|SSOOIDC||
 |[AWS Step Functions](https://aws.amazon.com/step-functions/)|[stepfunctions]({{%relref "post/stepfunctions.md" %}})|SFN||
 |[AWS Storage Gateway](https://aws.amazon.com/storagegateway/)|[storagegateway]({{%relref "post/storagegateway.md" %}})|SG||
@@ -239,12 +264,15 @@ For that reason, some content may not be accurate.
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
 |[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||
 |[Amazon Textract](https://aws.amazon.com/textract/)|[textract]({{%relref "post/textract.md" %}})|TXT||
+|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|||
+|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|||
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer for SFTP](https://aws.amazon.com/sftp/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
 |[AWS WAF](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||
 |[AWS WAF Regional ](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||
-|[AWS WAF V2 ](https://aws.amazon.com/waf/)|[wafv2]({{%relref "post/wafv2.md" %}})|WAF2||
+|[AWS WAF V2](https://aws.amazon.com/waf/)|[wafv2]({{%relref "post/wafv2.md" %}})|WAF2||
+|[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)|[wellarchitected]({{%relref "post/wellarchitected.md" %}})|WAT||
 |[Amazon WorkDocs](https://aws.amazon.com/workdocs/)|[workdocs]({{%relref "post/workdocs.md" %}})|WD||
 |[Amazon WorkLink](https://aws.amazon.com/worklink/)|[worklink]({{%relref "post/worklink.md" %}})|WL||
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||

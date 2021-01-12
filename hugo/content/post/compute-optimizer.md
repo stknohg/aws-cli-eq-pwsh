@@ -1,6 +1,6 @@
 ---
 title: compute-optimizer
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## compute-optimizer
@@ -16,9 +16,11 @@ date: 2020-09-08
 |[aws compute-optimizer export-auto-scaling-group-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-auto-scaling-group-recommendations.html)|[Export-COAutoScalingGroupRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COAutoScalingGroupRecommendation.html)|
 |[aws compute-optimizer export-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-ec2-instance-recommendations.html)|[Export-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COEC2InstanceRecommendation.html)|
 |[aws compute-optimizer get-auto-scaling-group-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-auto-scaling-group-recommendations.html)|[Get-COAutoScalingGroupRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COAutoScalingGroupRecommendation.html)|
+|[aws compute-optimizer get-ebs-volume-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ebs-volume-recommendations.html)|[Get-COEBSVolumeRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEBSVolumeRecommendation.html)|
 |[aws compute-optimizer get-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-instance-recommendations.html)|[Get-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2InstanceRecommendation.html)|
 |[aws compute-optimizer get-ec2-recommendation-projected-metrics](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-recommendation-projected-metrics.html)|[Get-COEC2RecommendationProjectedMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2RecommendationProjectedMetric.html)|
 |[aws compute-optimizer get-enrollment-status](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-enrollment-status.html)|[Get-COEnrollmentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEnrollmentStatus.html)|
+|[aws compute-optimizer get-lambda-function-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-lambda-function-recommendations.html)|[Get-COLambdaFunctionRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COLambdaFunctionRecommendation.html)|
 |[aws compute-optimizer get-recommendation-summaries](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-recommendation-summaries.html)|[Get-CORecommendationSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CORecommendationSummary.html)|
 |[aws compute-optimizer update-enrollment-status](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/update-enrollment-status.html)|[Update-COEnrollmentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-COEnrollmentStatus.html)|
 

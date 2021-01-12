@@ -1,11 +1,11 @@
 ---
 title: wafv2
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## wafv2
 
-### [AWS WAF V2 ](https://aws.amazon.com/waf/)
+### [AWS WAF V2](https://aws.amazon.com/waf/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/wafv2/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/WAFV2_cmdlets.html)

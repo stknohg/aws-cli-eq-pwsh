@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## backup
@@ -24,6 +24,7 @@ date: 2020-09-08
 |[aws backup describe-backup-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-backup-job.html)|[Get-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJob.html)|
 |[aws backup describe-backup-vault](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-backup-vault.html)|[Get-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVault.html)|
 |[aws backup describe-copy-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-copy-job.html)|[Get-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJob.html)|
+|[aws backup describe-global-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-global-settings.html)|[Get-BAKGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKGlobalSetting.html)|
 |[aws backup describe-protected-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-protected-resource.html)|[Get-BAKProtectedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResource.html)|
 |[aws backup describe-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-recovery-point.html)|[Get-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPoint.html)|
 |[aws backup describe-region-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-region-settings.html)|[Get-BAKRegionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRegionSetting.html)|
@@ -58,6 +59,7 @@ date: 2020-09-08
 |[aws backup tag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/tag-resource.html)|[Add-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKResourceTag.html)|
 |[aws backup untag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/untag-resource.html)|[Remove-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKResourceTag.html)|
 |[aws backup update-backup-plan](https://docs.aws.amazon.com/cli/latest/reference/backup/update-backup-plan.html)|[Update-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKBackupPlan.html)|
+|[aws backup update-global-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/update-global-settings.html)|[Update-BAKGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKGlobalSetting.html)|
 |[aws backup update-recovery-point-lifecycle](https://docs.aws.amazon.com/cli/latest/reference/backup/update-recovery-point-lifecycle.html)|[Update-BAKRecoveryPointLifecycle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRecoveryPointLifecycle.html)|
 |[aws backup update-region-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/update-region-settings.html)|[Update-BAKRegionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRegionSetting.html)|
 

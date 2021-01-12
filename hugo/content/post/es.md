@@ -1,6 +1,6 @@
 ---
 title: es
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## es
@@ -35,6 +35,7 @@ date: 2020-09-08
 |[aws es describe-reserved-elasticsearch-instances](https://docs.aws.amazon.com/cli/latest/reference/es/describe-reserved-elasticsearch-instances.html)|[Get-ESReservedElasticsearchInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESReservedElasticsearchInstanceList.html)|
 |[aws es dissociate-package](https://docs.aws.amazon.com/cli/latest/reference/es/dissociate-package.html)|[Start-ESDissociatePackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ESDissociatePackage.html)|
 |[aws es get-compatible-elasticsearch-versions](https://docs.aws.amazon.com/cli/latest/reference/es/get-compatible-elasticsearch-versions.html)|[Get-ESCompatibleElasticsearchVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESCompatibleElasticsearchVersion.html)|
+|[aws es get-package-version-history](https://docs.aws.amazon.com/cli/latest/reference/es/get-package-version-history.html)|[Get-ESPackageVersionHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESPackageVersionHistory.html)|
 |[aws es get-upgrade-history](https://docs.aws.amazon.com/cli/latest/reference/es/get-upgrade-history.html)|[Get-ESUpgradeHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESUpgradeHistory.html)|
 |[aws es get-upgrade-status](https://docs.aws.amazon.com/cli/latest/reference/es/get-upgrade-status.html)|[Get-ESUpgradeStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESUpgradeStatus.html)|
 |[aws es list-domain-names](https://docs.aws.amazon.com/cli/latest/reference/es/list-domain-names.html)|[Get-ESDomainNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainNameList.html)|
@@ -48,5 +49,6 @@ date: 2020-09-08
 |[aws es remove-tags](https://docs.aws.amazon.com/cli/latest/reference/es/remove-tags.html)|[Remove-ESResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESResourceTag.html)|
 |[aws es start-elasticsearch-service-software-update](https://docs.aws.amazon.com/cli/latest/reference/es/start-elasticsearch-service-software-update.html)|[Start-ESElasticsearchServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ESElasticsearchServiceSoftwareUpdate.html)|
 |[aws es update-elasticsearch-domain-config](https://docs.aws.amazon.com/cli/latest/reference/es/update-elasticsearch-domain-config.html)|[Update-ESDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESDomainConfig.html)|
+|[aws es update-package](https://docs.aws.amazon.com/cli/latest/reference/es/update-package.html)|[Update-ESPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESPackage.html)|
 |[aws es upgrade-elasticsearch-domain](https://docs.aws.amazon.com/cli/latest/reference/es/upgrade-elasticsearch-domain.html)|[Update-ESElasticsearchDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESElasticsearchDomain.html)|
 

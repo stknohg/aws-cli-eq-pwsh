@@ -1,6 +1,6 @@
 ---
 title: greengrass
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## greengrass
@@ -19,6 +19,7 @@ date: 2020-09-08
 |[aws greengrass create-core-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-core-definition.html)|[New-GGCoreDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGCoreDefinition.html)|
 |[aws greengrass create-core-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-core-definition-version.html)|[New-GGCoreDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGCoreDefinitionVersion.html)|
 |[aws greengrass create-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-deployment.html)|[New-GGDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGDeployment.html)|
+|[aws greengrass create-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-deployment.html)|[New-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGV2Deployment.html)|
 |[aws greengrass create-device-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-device-definition.html)|[New-GGDeviceDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGDeviceDefinition.html)|
 |[aws greengrass create-device-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-device-definition-version.html)|[New-GGDeviceDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGDeviceDefinitionVersion.html)|
 |[aws greengrass create-function-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-function-definition.html)|[New-GGFunctionDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGFunctionDefinition.html)|
@@ -66,6 +67,7 @@ date: 2020-09-08
 |[aws greengrass get-service-role-for-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-service-role-for-account.html)|[Get-GGServiceRoleForAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGServiceRoleForAccount.html)|
 |[aws greengrass get-subscription-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-subscription-definition.html)|[Get-GGSubscriptionDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinition.html)|
 |[aws greengrass get-subscription-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-subscription-definition-version.html)|[Get-GGSubscriptionDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionVersion.html)|
+|[aws greengrass get-thing-runtime-configuration](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-thing-runtime-configuration.html)|[Get-GGThingRuntimeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGThingRuntimeConfiguration.html)|
 |[aws greengrass list-bulk-deployment-detailed-reports](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-bulk-deployment-detailed-reports.html)|[Get-GGBulkDeploymentDetailedReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGBulkDeploymentDetailedReportList.html)|
 |[aws greengrass list-bulk-deployments](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-bulk-deployments.html)|[Get-GGBulkDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGBulkDeploymentList.html)|
 |[aws greengrass list-connector-definition-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-connector-definition-versions.html)|[Get-GGConnectorDefinitionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinitionVersionList.html)|
@@ -73,6 +75,7 @@ date: 2020-09-08
 |[aws greengrass list-core-definition-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-core-definition-versions.html)|[Get-GGCoreDefinitionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinitionVersionList.html)|
 |[aws greengrass list-core-definitions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-core-definitions.html)|[Get-GGCoreDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinitionList.html)|
 |[aws greengrass list-deployments](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-deployments.html)|[Get-GGDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeploymentList.html)|
+|[aws greengrass list-deployments](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-deployments.html)|[Get-GGV2DeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2DeploymentList.html)|
 |[aws greengrass list-device-definition-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-device-definition-versions.html)|[Get-GGDeviceDefinitionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeviceDefinitionVersionList.html)|
 |[aws greengrass list-device-definitions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-device-definitions.html)|[Get-GGDeviceDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGDeviceDefinitionList.html)|
 |[aws greengrass list-function-definition-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-function-definition-versions.html)|[Get-GGFunctionDefinitionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGFunctionDefinitionVersionList.html)|
@@ -87,11 +90,14 @@ date: 2020-09-08
 |[aws greengrass list-subscription-definition-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-subscription-definition-versions.html)|[Get-GGSubscriptionDefinitionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionVersionList.html)|
 |[aws greengrass list-subscription-definitions](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-subscription-definitions.html)|[Get-GGSubscriptionDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionList.html)|
 |[aws greengrass list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-tags-for-resource.html)|[Get-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceTag.html)|
+|[aws greengrass list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/list-tags-for-resource.html)|[Get-GGV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ResourceTag.html)|
 |[aws greengrass reset-deployments](https://docs.aws.amazon.com/cli/latest/reference/greengrass/reset-deployments.html)|[Reset-GGDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GGDeployment.html)|
 |[aws greengrass start-bulk-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrass/start-bulk-deployment.html)|[Start-GGBulkDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GGBulkDeployment.html)|
 |[aws greengrass stop-bulk-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrass/stop-bulk-deployment.html)|[Stop-GGBulkDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GGBulkDeployment.html)|
 |[aws greengrass tag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/tag-resource.html)|[Add-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGResourceTag.html)|
+|[aws greengrass tag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/tag-resource.html)|[Add-GGV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGV2ResourceTag.html)|
 |[aws greengrass untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/untag-resource.html)|[Remove-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGResourceTag.html)|
+|[aws greengrass untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/untag-resource.html)|[Remove-GGV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2ResourceTag.html)|
 |[aws greengrass update-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connectivity-info.html)|[Update-GGConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectivityInfo.html)|
 |[aws greengrass update-connector-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connector-definition.html)|[Update-GGConnectorDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectorDefinition.html)|
 |[aws greengrass update-core-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-core-definition.html)|[Update-GGCoreDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGCoreDefinition.html)|
@@ -102,4 +108,5 @@ date: 2020-09-08
 |[aws greengrass update-logger-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-logger-definition.html)|[Update-GGLoggerDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGLoggerDefinition.html)|
 |[aws greengrass update-resource-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-resource-definition.html)|[Update-GGResourceDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGResourceDefinition.html)|
 |[aws greengrass update-subscription-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-subscription-definition.html)|[Update-GGSubscriptionDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGSubscriptionDefinition.html)|
+|[aws greengrass update-thing-runtime-configuration](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-thing-runtime-configuration.html)|[Update-GGThingRuntimeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGThingRuntimeConfiguration.html)|
 

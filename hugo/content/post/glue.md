@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## glue
@@ -24,7 +24,9 @@ date: 2020-09-08
 |[aws glue batch-get-triggers](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-triggers.html)|[Get-GLUETriggerBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerBatch.html)|
 |[aws glue batch-get-workflows](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-workflows.html)|[Get-GLUEWorkflowBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowBatch.html)|
 |[aws glue batch-stop-job-run](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-stop-job-run.html)|[Stop-GLUEJobRunBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEJobRunBatch.html)|
+|[aws glue batch-update-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-update-partition.html)|[Update-GLUEPartitionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEPartitionBatch.html)|
 |[aws glue cancel-ml-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/cancel-ml-task-run.html)|[Stop-GLUEMLTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEMLTaskRun.html)|
+|[aws glue check-schema-version-validity](https://docs.aws.amazon.com/cli/latest/reference/glue/check-schema-version-validity.html)|[Get-GLUESchemaVersionValidity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionValidity.html)|
 |[aws glue create-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/create-classifier.html)|[New-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEClassifier.html)|
 |[aws glue create-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/create-connection.html)|[New-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEConnection.html)|
 |[aws glue create-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/create-crawler.html)|[New-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUECrawler.html)|
@@ -33,6 +35,9 @@ date: 2020-09-08
 |[aws glue create-job](https://docs.aws.amazon.com/cli/latest/reference/glue/create-job.html)|[New-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEJob.html)|
 |[aws glue create-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/create-ml-transform.html)|[New-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEMLTransform.html)|
 |[aws glue create-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/create-partition.html)|[New-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEPartition.html)|
+|[aws glue create-partition-index](https://docs.aws.amazon.com/cli/latest/reference/glue/create-partition-index.html)|[New-GLUEPartitionIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEPartitionIndex.html)|
+|[aws glue create-registry](https://docs.aws.amazon.com/cli/latest/reference/glue/create-registry.html)|[New-GLUERegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUERegistry.html)|
+|[aws glue create-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/create-schema.html)|[New-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUESchema.html)|
 |[aws glue create-script](https://docs.aws.amazon.com/cli/latest/reference/glue/create-script.html)|[New-GLUEScript](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEScript.html)|
 |[aws glue create-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/create-security-configuration.html)|[New-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUESecurityConfiguration.html)|
 |[aws glue create-table](https://docs.aws.amazon.com/cli/latest/reference/glue/create-table.html)|[New-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETable.html)|
@@ -49,7 +54,11 @@ date: 2020-09-08
 |[aws glue delete-job](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-job.html)|[Remove-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEJob.html)|
 |[aws glue delete-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-ml-transform.html)|[Remove-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEMLTransform.html)|
 |[aws glue delete-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-partition.html)|[Remove-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEPartition.html)|
+|[aws glue delete-partition-index](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-partition-index.html)|[Remove-GLUEPartitionIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEPartitionIndex.html)|
+|[aws glue delete-registry](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-registry.html)|[Remove-GLUERegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUERegistry.html)|
 |[aws glue delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-resource-policy.html)|[Remove-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourcePolicy.html)|
+|[aws glue delete-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-schema.html)|[Remove-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchema.html)|
+|[aws glue delete-schema-versions](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-schema-versions.html)|[Remove-GLUESchemaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchemaVersion.html)|
 |[aws glue delete-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-security-configuration.html)|[Remove-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESecurityConfiguration.html)|
 |[aws glue delete-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-table.html)|[Remove-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETable.html)|
 |[aws glue delete-table-version](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-table-version.html)|[Remove-GLUETableVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableVersion.html)|
@@ -83,10 +92,16 @@ date: 2020-09-08
 |[aws glue get-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/get-ml-transform.html)|[Get-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransform.html)|
 |[aws glue get-ml-transforms](https://docs.aws.amazon.com/cli/latest/reference/glue/get-ml-transforms.html)|[Get-GLUEMLTransformList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransformList.html)|
 |[aws glue get-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partition.html)|[Get-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartition.html)|
+|[aws glue get-partition-indexes](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partition-indexes.html)|[Get-GLUEPartitionIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartitionIndex.html)|
 |[aws glue get-partitions](https://docs.aws.amazon.com/cli/latest/reference/glue/get-partitions.html)|[Get-GLUEPartitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartitionList.html)|
 |[aws glue get-plan](https://docs.aws.amazon.com/cli/latest/reference/glue/get-plan.html)|[Get-GLUEPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPlan.html)|
+|[aws glue get-registry](https://docs.aws.amazon.com/cli/latest/reference/glue/get-registry.html)|[Get-GLUERegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUERegistry.html)|
 |[aws glue get-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policies.html)|[Get-GLUEGluePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGluePolicyList.html)|
 |[aws glue get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/get-resource-policy.html)|[Get-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEResourcePolicy.html)|
+|[aws glue get-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/get-schema.html)|[Get-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchema.html)|
+|[aws glue get-schema-by-definition](https://docs.aws.amazon.com/cli/latest/reference/glue/get-schema-by-definition.html)|[Get-GLUESchemaByDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaByDefinition.html)|
+|[aws glue get-schema-version](https://docs.aws.amazon.com/cli/latest/reference/glue/get-schema-version.html)|[Get-GLUESchemaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersion.html)|
+|[aws glue get-schema-versions-diff](https://docs.aws.amazon.com/cli/latest/reference/glue/get-schema-versions-diff.html)|[Get-GLUESchemaVersionsDiff](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionsDiff.html)|
 |[aws glue get-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configuration.html)|[Get-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfiguration.html)|
 |[aws glue get-security-configurations](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configurations.html)|[Get-GLUESecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfigurationList.html)|
 |[aws glue get-table](https://docs.aws.amazon.com/cli/latest/reference/glue/get-table.html)|[Get-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETable.html)|
@@ -107,11 +122,18 @@ date: 2020-09-08
 |[aws glue list-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-dev-endpoints.html)|[Get-GLUEDevEndpointNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointNameList.html)|
 |[aws glue list-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
 |[aws glue list-ml-transforms](https://docs.aws.amazon.com/cli/latest/reference/glue/list-ml-transforms.html)|[Get-GLUEMLTransformIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransformIdentifier.html)|
+|[aws glue list-registries](https://docs.aws.amazon.com/cli/latest/reference/glue/list-registries.html)|[Get-GLUERegistryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUERegistryList.html)|
+|[aws glue list-schema-versions](https://docs.aws.amazon.com/cli/latest/reference/glue/list-schema-versions.html)|[Get-GLUESchemaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionList.html)|
+|[aws glue list-schemas](https://docs.aws.amazon.com/cli/latest/reference/glue/list-schemas.html)|[Get-GLUESchemaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaList.html)|
 |[aws glue list-triggers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-triggers.html)|[Get-GLUETriggerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerNameList.html)|
 |[aws glue list-workflows](https://docs.aws.amazon.com/cli/latest/reference/glue/list-workflows.html)|[Get-GLUEWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowList.html)|
 |[aws glue put-data-catalog-encryption-settings](https://docs.aws.amazon.com/cli/latest/reference/glue/put-data-catalog-encryption-settings.html)|[Set-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEDataCatalogEncryptionSetting.html)|
 |[aws glue put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/glue/put-resource-policy.html)|[Set-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEResourcePolicy.html)|
+|[aws glue put-schema-version-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/put-schema-version-metadata.html)|[Write-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUESchemaVersionMetadata.html)|
 |[aws glue put-workflow-run-properties](https://docs.aws.amazon.com/cli/latest/reference/glue/put-workflow-run-properties.html)|[Write-GLUEWorkflowRunProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEWorkflowRunProperty.html)|
+|[aws glue query-schema-version-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/query-schema-version-metadata.html)|[Find-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GLUESchemaVersionMetadata.html)|
+|[aws glue register-schema-version](https://docs.aws.amazon.com/cli/latest/reference/glue/register-schema-version.html)|[Register-GLUESchemaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-GLUESchemaVersion.html)|
+|[aws glue remove-schema-version-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/remove-schema-version-metadata.html)|[Remove-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchemaVersionMetadata.html)|
 |[aws glue reset-job-bookmark](https://docs.aws.amazon.com/cli/latest/reference/glue/reset-job-bookmark.html)|[Reset-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GLUEJobBookmark.html)|
 |[aws glue resume-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/resume-workflow-run.html)|[Resume-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-GLUEWorkflowRun.html)|
 |[aws glue search-tables](https://docs.aws.amazon.com/cli/latest/reference/glue/search-tables.html)|[Find-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GLUETable.html)|
@@ -141,6 +163,8 @@ date: 2020-09-08
 |[aws glue update-job](https://docs.aws.amazon.com/cli/latest/reference/glue/update-job.html)|[Update-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEJob.html)|
 |[aws glue update-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/update-ml-transform.html)|[Update-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEMLTransform.html)|
 |[aws glue update-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-partition.html)|[Update-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEPartition.html)|
+|[aws glue update-registry](https://docs.aws.amazon.com/cli/latest/reference/glue/update-registry.html)|[Update-GLUERegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUERegistry.html)|
+|[aws glue update-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/update-schema.html)|[Update-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUESchema.html)|
 |[aws glue update-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-table.html)|[Update-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETable.html)|
 |[aws glue update-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/update-trigger.html)|[Update-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETrigger.html)|
 |[aws glue update-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/update-user-defined-function.html)|[Update-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEUserDefinedFunction.html)|

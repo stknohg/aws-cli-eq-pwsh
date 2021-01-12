@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## fsx
@@ -12,6 +12,7 @@ date: 2020-09-08
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws fsx associate-file-system-aliases](https://docs.aws.amazon.com/cli/latest/reference/fsx/associate-file-system-aliases.html)|[Register-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-FSXFileSystemAlias.html)|
 |[aws fsx cancel-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/cancel-data-repository-task.html)|[Stop-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FSXDataRepositoryTask.html)|
 |[aws fsx create-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-backup.html)|[New-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXBackup.html)|
 |[aws fsx create-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-data-repository-task.html)|[New-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryTask.html)|
@@ -21,7 +22,9 @@ date: 2020-09-08
 |[aws fsx delete-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-file-system.html)|[Remove-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXFileSystem.html)|
 |[aws fsx describe-backups](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-backups.html)|[Get-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXBackup.html)|
 |[aws fsx describe-data-repository-tasks](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-data-repository-tasks.html)|[Get-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXDataRepositoryTask.html)|
+|[aws fsx describe-file-system-aliases](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-system-aliases.html)|[Get-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystemAlias.html)|
 |[aws fsx describe-file-systems](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-systems.html)|[Get-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystem.html)|
+|[aws fsx disassociate-file-system-aliases](https://docs.aws.amazon.com/cli/latest/reference/fsx/disassociate-file-system-aliases.html)|[Unregister-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-FSXFileSystemAlias.html)|
 |[aws fsx list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/list-tags-for-resource.html)|[Get-FSXResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXResourceTagList.html)|
 |[aws fsx tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/tag-resource.html)|[Add-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FSXResourceTag.html)|
 |[aws fsx untag-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/untag-resource.html)|[Remove-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## storagegateway
@@ -27,7 +27,7 @@ date: 2020-09-08
 |[aws storagegateway create-snapshot](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-snapshot.html)|[New-SGSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGSnapshot.html)|
 |[aws storagegateway create-snapshot-from-volume-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-snapshot-from-volume-recovery-point.html)|[New-SGSnapshotFromVolumeRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGSnapshotFromVolumeRecoveryPoint.html)|
 |[aws storagegateway create-stored-iscsi-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-stored-iscsi-volume.html)|[New-SGStorediSCSIVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGStorediSCSIVolume.html)|
-|[aws storagegateway create-tape-pool](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-tape-pool.html)||
+|[aws storagegateway create-tape-pool](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-tape-pool.html)|[New-SGTapePool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGTapePool.html)|
 |[aws storagegateway create-tape-with-barcode](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-tape-with-barcode.html)|[New-SGTapeWithBarcode](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGTapeWithBarcode.html)|
 |[aws storagegateway create-tapes](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/create-tapes.html)|[New-SGTape](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGTape.html)|
 |[aws storagegateway delete-automatic-tape-creation-policy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-automatic-tape-creation-policy.html)|[Remove-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGAutomaticTapeCreationPolicy.html)|
@@ -38,10 +38,11 @@ date: 2020-09-08
 |[aws storagegateway delete-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-snapshot-schedule.html)|[Remove-SGSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGSnapshotSchedule.html)|
 |[aws storagegateway delete-tape](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-tape.html)|[Remove-SGTape](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGTape.html)|
 |[aws storagegateway delete-tape-archive](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-tape-archive.html)|[Remove-SGTapeArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGTapeArchive.html)|
-|[aws storagegateway delete-tape-pool](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-tape-pool.html)||
+|[aws storagegateway delete-tape-pool](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-tape-pool.html)|[Remove-SGTapePool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGTapePool.html)|
 |[aws storagegateway delete-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/delete-volume.html)|[Remove-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGVolume.html)|
 |[aws storagegateway describe-availability-monitor-test](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-availability-monitor-test.html)|[Get-SGAvailabilityMonitorTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGAvailabilityMonitorTest.html)|
 |[aws storagegateway describe-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-bandwidth-rate-limit.html)|[Get-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGBandwidthRateLimit.html)|
+|[aws storagegateway describe-bandwidth-rate-limit-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-bandwidth-rate-limit-schedule.html)|[Get-SGBandwidthRateLimitSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGBandwidthRateLimitSchedule.html)|
 |[aws storagegateway describe-cache](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-cache.html)|[Get-SGCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCache.html)|
 |[aws storagegateway describe-cached-iscsi-volumes](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-cached-iscsi-volumes.html)|[Get-SGCachediSCSIVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCachediSCSIVolume.html)|
 |[aws storagegateway describe-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-chap-credentials.html)|[Get-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGChapCredential.html)|
@@ -66,7 +67,7 @@ date: 2020-09-08
 |[aws storagegateway list-gateways](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-gateways.html)|[Get-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGGateway.html)|
 |[aws storagegateway list-local-disks](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-local-disks.html)|[Get-SGLocalDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGLocalDisk.html)|
 |[aws storagegateway list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-tags-for-resource.html)|[Get-SGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGResourceTag.html)|
-|[aws storagegateway list-tape-pools](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-tape-pools.html)||
+|[aws storagegateway list-tape-pools](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-tape-pools.html)|[Get-SGTapePool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGTapePool.html)|
 |[aws storagegateway list-tapes](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-tapes.html)|[Get-SGTape](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGTape.html)|
 |[aws storagegateway list-volume-initiators](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-volume-initiators.html)|[Get-SGVolumeInitiatorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGVolumeInitiatorList.html)|
 |[aws storagegateway list-volume-recovery-points](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-volume-recovery-points.html)|[Get-SGVolumeRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGVolumeRecoveryPoint.html)|
@@ -84,12 +85,14 @@ date: 2020-09-08
 |[aws storagegateway start-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/start-gateway.html)|[Start-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SGGateway.html)|
 |[aws storagegateway update-automatic-tape-creation-policy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-automatic-tape-creation-policy.html)|[Update-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGAutomaticTapeCreationPolicy.html)|
 |[aws storagegateway update-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-bandwidth-rate-limit.html)|[Update-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGBandwidthRateLimit.html)|
+|[aws storagegateway update-bandwidth-rate-limit-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-bandwidth-rate-limit-schedule.html)|[Update-SGBandwidthRateLimitSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGBandwidthRateLimitSchedule.html)|
 |[aws storagegateway update-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-chap-credentials.html)|[Update-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGChapCredential.html)|
 |[aws storagegateway update-gateway-information](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-gateway-information.html)|[Update-SGGatewayInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGGatewayInformation.html)|
 |[aws storagegateway update-gateway-software-now](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-gateway-software-now.html)|[Update-SGGatewaySoftwareNow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGGatewaySoftwareNow.html)|
 |[aws storagegateway update-maintenance-start-time](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-maintenance-start-time.html)|[Update-SGMaintenanceStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGMaintenanceStartTime.html)|
 |[aws storagegateway update-nfs-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-nfs-file-share.html)|[Update-SGNFSFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGNFSFileShare.html)|
 |[aws storagegateway update-smb-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-file-share.html)|[Update-SGSMBFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBFileShare.html)|
+|[aws storagegateway update-smb-file-share-visibility](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-file-share-visibility.html)|[Update-SGSMBFileShareVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBFileShareVisibility.html)|
 |[aws storagegateway update-smb-security-strategy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-security-strategy.html)|[Update-SGSMBSecurityStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBSecurityStrategy.html)|
 |[aws storagegateway update-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-snapshot-schedule.html)|[Update-SGSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSnapshotSchedule.html)|
 |[aws storagegateway update-vtl-device-type](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-vtl-device-type.html)|[Update-SGVTLDeviceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGVTLDeviceType.html)|

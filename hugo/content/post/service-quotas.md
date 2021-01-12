@@ -1,6 +1,6 @@
 ---
 title: service-quotas
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## service-quotas
@@ -26,6 +26,9 @@ date: 2020-09-08
 |[aws service-quotas list-service-quota-increase-requests-in-template](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/list-service-quota-increase-requests-in-template.html)|[Get-SQServiceQuotaIncreaseRequestsInTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQServiceQuotaIncreaseRequestsInTemplateList.html)|
 |[aws service-quotas list-service-quotas](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/list-service-quotas.html)|[Get-SQServiceQuotaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQServiceQuotaList.html)|
 |[aws service-quotas list-services](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/list-services.html)|[Get-SQServiceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQServiceList.html)|
+|[aws service-quotas list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/list-tags-for-resource.html)|[Get-SQResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQResourceTag.html)|
 |[aws service-quotas put-service-quota-increase-request-into-template](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/put-service-quota-increase-request-into-template.html)|[Write-SQServiceQuotaIncreaseRequestIntoTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SQServiceQuotaIncreaseRequestIntoTemplate.html)|
 |[aws service-quotas request-service-quota-increase](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/request-service-quota-increase.html)|[Request-SQServiceQuotaIncrease](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-SQServiceQuotaIncrease.html)|
+|[aws service-quotas tag-resource](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/tag-resource.html)|[Add-SQResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SQResourceTag.html)|
+|[aws service-quotas untag-resource](https://docs.aws.amazon.com/cli/latest/reference/service-quotas/untag-resource.html)|[Remove-SQResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SQResourceTag.html)|
 

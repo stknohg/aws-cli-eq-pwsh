@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## rds
@@ -140,8 +140,10 @@ date: 2020-09-08
 |[aws rds start-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/start-activity-stream.html)|[Start-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSActivityStream.html)|
 |[aws rds start-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-cluster.html)|[Start-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBCluster.html)|
 |[aws rds start-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-instance.html)|[Start-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBInstance.html)|
+|[aws rds start-db-instance-automated-backups-replication](https://docs.aws.amazon.com/cli/latest/reference/rds/start-db-instance-automated-backups-replication.html)|[Start-RDSDBInstanceAutomatedBackupsReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBInstanceAutomatedBackupsReplication.html)|
 |[aws rds start-export-task](https://docs.aws.amazon.com/cli/latest/reference/rds/start-export-task.html)|[Start-RDSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSExportTask.html)|
 |[aws rds stop-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-activity-stream.html)|[Stop-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSActivityStream.html)|
 |[aws rds stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-cluster.html)|[Stop-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBCluster.html)|
 |[aws rds stop-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|
+|[aws rds stop-db-instance-automated-backups-replication](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance-automated-backups-replication.html)|[Stop-RDSDBInstanceAutomatedBackupsReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstanceAutomatedBackupsReplication.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: route53
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## route53
@@ -12,28 +12,35 @@ date: 2020-09-08
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws route53 activate-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/activate-key-signing-key.html)|[Enable-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-R53KeySigningKey.html)|
 |[aws route53 associate-vpc-with-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/associate-vpc-with-hosted-zone.html)|[Register-R53VPCWithHostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-R53VPCWithHostedZone.html)|
 |[aws route53 change-resource-record-sets](https://docs.aws.amazon.com/cli/latest/reference/route53/change-resource-record-sets.html)|[Edit-R53ResourceRecordSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53ResourceRecordSet.html)|
 |[aws route53 change-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/route53/change-tags-for-resource.html)|[Edit-R53TagsForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53TagsForResource.html)|
 |[aws route53 create-health-check](https://docs.aws.amazon.com/cli/latest/reference/route53/create-health-check.html)|[New-R53HealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53HealthCheck.html)|
 |[aws route53 create-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/create-hosted-zone.html)|[New-R53HostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53HostedZone.html)|
+|[aws route53 create-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/create-key-signing-key.html)|[New-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53KeySigningKey.html)|
 |[aws route53 create-query-logging-config](https://docs.aws.amazon.com/cli/latest/reference/route53/create-query-logging-config.html)|[New-R53QueryLoggingConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53QueryLoggingConfig.html)|
 |[aws route53 create-reusable-delegation-set](https://docs.aws.amazon.com/cli/latest/reference/route53/create-reusable-delegation-set.html)|[New-R53ReusableDelegationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53ReusableDelegationSet.html)|
 |[aws route53 create-traffic-policy](https://docs.aws.amazon.com/cli/latest/reference/route53/create-traffic-policy.html)|[New-R53TrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53TrafficPolicy.html)|
 |[aws route53 create-traffic-policy-instance](https://docs.aws.amazon.com/cli/latest/reference/route53/create-traffic-policy-instance.html)|[New-R53TrafficPolicyInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53TrafficPolicyInstance.html)|
 |[aws route53 create-traffic-policy-version](https://docs.aws.amazon.com/cli/latest/reference/route53/create-traffic-policy-version.html)|[New-R53TrafficPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53TrafficPolicyVersion.html)|
 |[aws route53 create-vpc-association-authorization](https://docs.aws.amazon.com/cli/latest/reference/route53/create-vpc-association-authorization.html)|[New-R53VPCAssociationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53VPCAssociationAuthorization.html)|
+|[aws route53 deactivate-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/deactivate-key-signing-key.html)|[Disable-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-R53KeySigningKey.html)|
 |[aws route53 delete-health-check](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-health-check.html)|[Remove-R53HealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53HealthCheck.html)|
 |[aws route53 delete-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-hosted-zone.html)|[Remove-R53HostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53HostedZone.html)|
+|[aws route53 delete-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-key-signing-key.html)|[Remove-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53KeySigningKey.html)|
 |[aws route53 delete-query-logging-config](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-query-logging-config.html)|[Remove-R53QueryLoggingConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53QueryLoggingConfig.html)|
 |[aws route53 delete-reusable-delegation-set](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-reusable-delegation-set.html)|[Remove-R53ReusableDelegationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53ReusableDelegationSet.html)|
 |[aws route53 delete-traffic-policy](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-traffic-policy.html)|[Remove-R53TrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53TrafficPolicy.html)|
 |[aws route53 delete-traffic-policy-instance](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-traffic-policy-instance.html)|[Remove-R53TrafficPolicyInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53TrafficPolicyInstance.html)|
 |[aws route53 delete-vpc-association-authorization](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-vpc-association-authorization.html)|[Remove-R53VPCAssociationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53VPCAssociationAuthorization.html)|
+|[aws route53 disable-hosted-zone-dnssec](https://docs.aws.amazon.com/cli/latest/reference/route53/disable-hosted-zone-dnssec.html)|[Disable-R53HostedZoneDNSSEC](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-R53HostedZoneDNSSEC.html)|
 |[aws route53 disassociate-vpc-from-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/disassociate-vpc-from-hosted-zone.html)|[Unregister-R53VPCFromHostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-R53VPCFromHostedZone.html)|
+|[aws route53 enable-hosted-zone-dnssec](https://docs.aws.amazon.com/cli/latest/reference/route53/enable-hosted-zone-dnssec.html)|[Enable-R53HostedZoneDNSSEC](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-R53HostedZoneDNSSEC.html)|
 |[aws route53 get-account-limit](https://docs.aws.amazon.com/cli/latest/reference/route53/get-account-limit.html)|[Get-R53AccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53AccountLimit.html)|
 |[aws route53 get-change](https://docs.aws.amazon.com/cli/latest/reference/route53/get-change.html)|[Get-R53Change](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53Change.html)|
 |[aws route53 get-checker-ip-ranges](https://docs.aws.amazon.com/cli/latest/reference/route53/get-checker-ip-ranges.html)|[Get-R53CheckerIpRange](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53CheckerIpRange.html)|
+|[aws route53 get-dnssec](https://docs.aws.amazon.com/cli/latest/reference/route53/get-dnssec.html)|[Get-R53DNSSEC](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DNSSEC.html)|
 |[aws route53 get-geo-location](https://docs.aws.amazon.com/cli/latest/reference/route53/get-geo-location.html)|[Get-R53GeoLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GeoLocation.html)|
 |[aws route53 get-health-check](https://docs.aws.amazon.com/cli/latest/reference/route53/get-health-check.html)|[Get-R53HealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HealthCheck.html)|
 |[aws route53 get-health-check-count](https://docs.aws.amazon.com/cli/latest/reference/route53/get-health-check-count.html)|[Get-R53HealthCheckCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HealthCheckCount.html)|

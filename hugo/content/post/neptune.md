@@ -1,6 +1,6 @@
 ---
 title: neptune
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## neptune
@@ -20,6 +20,7 @@ date: 2020-09-08
 |[aws neptune copy-db-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/neptune/copy-db-cluster-snapshot.html)|[Copy-NPTDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-NPTDBClusterSnapshot.html)|
 |[aws neptune copy-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/copy-db-parameter-group.html)|[Copy-NPTDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-NPTDBParameterGroup.html)|
 |[aws neptune create-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-db-cluster.html)|[New-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTDBCluster.html)|
+|[aws neptune create-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-db-cluster-endpoint.html)|[New-NPTDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTDBClusterEndpoint.html)|
 |[aws neptune create-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-db-cluster-parameter-group.html)|[New-NPTDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTDBClusterParameterGroup.html)|
 |[aws neptune create-db-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-db-cluster-snapshot.html)|[New-NPTDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTDBClusterSnapshot.html)|
 |[aws neptune create-db-instance](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-db-instance.html)|[New-NPTDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTDBInstance.html)|
@@ -27,12 +28,14 @@ date: 2020-09-08
 |[aws neptune create-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-db-subnet-group.html)|[New-NPTDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTDBSubnetGroup.html)|
 |[aws neptune create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/neptune/create-event-subscription.html)|[New-NPTEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NPTEventSubscription.html)|
 |[aws neptune delete-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-cluster.html)|[Remove-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBCluster.html)|
+|[aws neptune delete-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-cluster-endpoint.html)|[Remove-NPTDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBClusterEndpoint.html)|
 |[aws neptune delete-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-cluster-parameter-group.html)|[Remove-NPTDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBClusterParameterGroup.html)|
 |[aws neptune delete-db-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-cluster-snapshot.html)|[Remove-NPTDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBClusterSnapshot.html)|
 |[aws neptune delete-db-instance](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-instance.html)|[Remove-NPTDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBInstance.html)|
 |[aws neptune delete-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-parameter-group.html)|[Remove-NPTDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBParameterGroup.html)|
 |[aws neptune delete-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-db-subnet-group.html)|[Remove-NPTDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTDBSubnetGroup.html)|
 |[aws neptune delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/neptune/delete-event-subscription.html)|[Remove-NPTEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NPTEventSubscription.html)|
+|[aws neptune describe-db-cluster-endpoints](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-db-cluster-endpoints.html)|[Get-NPTDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTDBClusterEndpoint.html)|
 |[aws neptune describe-db-cluster-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-db-cluster-parameter-groups.html)|[Get-NPTDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTDBClusterParameterGroup.html)|
 |[aws neptune describe-db-cluster-parameters](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-db-cluster-parameters.html)|[Get-NPTDBClusterParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTDBClusterParameter.html)|
 |[aws neptune describe-db-cluster-snapshot-attributes](https://docs.aws.amazon.com/cli/latest/reference/neptune/describe-db-cluster-snapshot-attributes.html)|[Get-NPTDBClusterSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTDBClusterSnapshotAttribute.html)|
@@ -54,6 +57,7 @@ date: 2020-09-08
 |[aws neptune failover-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/neptune/failover-db-cluster.html)|[Start-NPTDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NPTDBClusterFailover.html)|
 |[aws neptune list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/neptune/list-tags-for-resource.html)|[Get-NPTResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTResourceTagList.html)|
 |[aws neptune modify-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/neptune/modify-db-cluster.html)|[Edit-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBCluster.html)|
+|[aws neptune modify-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/neptune/modify-db-cluster-endpoint.html)|[Edit-NPTDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBClusterEndpoint.html)|
 |[aws neptune modify-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/neptune/modify-db-cluster-parameter-group.html)|[Edit-NPTDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBClusterParameterGroup.html)|
 |[aws neptune modify-db-cluster-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/neptune/modify-db-cluster-snapshot-attribute.html)|[Edit-NPTDBClusterSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBClusterSnapshotAttribute.html)|
 |[aws neptune modify-db-instance](https://docs.aws.amazon.com/cli/latest/reference/neptune/modify-db-instance.html)|[Edit-NPTDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBInstance.html)|

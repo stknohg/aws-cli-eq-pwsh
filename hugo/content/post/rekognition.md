@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## rekognition
@@ -30,6 +30,7 @@ date: 2020-09-08
 |[aws rekognition detect-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-faces.html)|[Find-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKFace.html)|
 |[aws rekognition detect-labels](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-labels.html)|[Find-REKLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKLabel.html)|
 |[aws rekognition detect-moderation-labels](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-moderation-labels.html)|[Find-REKModerationLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKModerationLabel.html)|
+|[aws rekognition detect-protective-equipment](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-protective-equipment.html)|[Find-REKProtectiveEquipment](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKProtectiveEquipment.html)|
 |[aws rekognition detect-text](https://docs.aws.amazon.com/cli/latest/reference/rekognition/detect-text.html)|[Find-REKText](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKText.html)|
 |[aws rekognition get-celebrity-info](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-celebrity-info.html)|[Get-REKCelebrityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCelebrityInfo.html)|
 |[aws rekognition get-celebrity-recognition](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-celebrity-recognition.html)|[Get-REKCelebrityRecognition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCelebrityRecognition.html)|

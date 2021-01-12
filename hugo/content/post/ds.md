@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## ds
@@ -14,6 +14,7 @@ date: 2020-09-08
 |----|----|
 |[aws ds accept-shared-directory](https://docs.aws.amazon.com/cli/latest/reference/ds/accept-shared-directory.html)|[Confirm-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DSSharedDirectory.html)|
 |[aws ds add-ip-routes](https://docs.aws.amazon.com/cli/latest/reference/ds/add-ip-routes.html)|[Add-DSIpRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSIpRoute.html)|
+|[aws ds add-region](https://docs.aws.amazon.com/cli/latest/reference/ds/add-region.html)|[Add-DSRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSRegion.html)|
 |[aws ds add-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/ds/add-tags-to-resource.html)|[Add-DSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSResourceTag.html)|
 |[aws ds cancel-schema-extension](https://docs.aws.amazon.com/cli/latest/reference/ds/cancel-schema-extension.html)|[Stop-DSSchemaExtension](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DSSchemaExtension.html)|
 |[aws ds connect-directory](https://docs.aws.amazon.com/cli/latest/reference/ds/connect-directory.html)|[Connect-DSDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-DSDirectory.html)|
@@ -38,12 +39,15 @@ date: 2020-09-08
 |[aws ds describe-domain-controllers](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-domain-controllers.html)|[Get-DSDomainControllerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDomainControllerList.html)|
 |[aws ds describe-event-topics](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-event-topics.html)|[Get-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSEventTopic.html)|
 |[aws ds describe-ldaps-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-ldaps-settings.html)|[Get-DSLDAPSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLDAPSSetting.html)|
+|[aws ds describe-regions](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-regions.html)|[Get-DSRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSRegion.html)|
 |[aws ds describe-shared-directories](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-shared-directories.html)|[Get-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSharedDirectory.html)|
 |[aws ds describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-snapshots.html)|[Get-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshot.html)|
 |[aws ds describe-trusts](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-trusts.html)|[Get-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSTrust.html)|
+|[aws ds disable-client-authentication](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-client-authentication.html)|[Disable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSClientAuthentication.html)|
 |[aws ds disable-ldaps](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-ldaps.html)|[Disable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSLDAPS.html)|
 |[aws ds disable-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-radius.html)|[Disable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSRadius.html)|
 |[aws ds disable-sso](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-sso.html)|[Disable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSSso.html)|
+|[aws ds enable-client-authentication](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-client-authentication.html)|[Enable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSClientAuthentication.html)|
 |[aws ds enable-ldaps](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-ldaps.html)|[Enable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSLDAPS.html)|
 |[aws ds enable-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-radius.html)|[Enable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSRadius.html)|
 |[aws ds enable-sso](https://docs.aws.amazon.com/cli/latest/reference/ds/enable-sso.html)|[Enable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSSso.html)|
@@ -58,6 +62,7 @@ date: 2020-09-08
 |[aws ds register-event-topic](https://docs.aws.amazon.com/cli/latest/reference/ds/register-event-topic.html)|[Register-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DSEventTopic.html)|
 |[aws ds reject-shared-directory](https://docs.aws.amazon.com/cli/latest/reference/ds/reject-shared-directory.html)|[Deny-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DSSharedDirectory.html)|
 |[aws ds remove-ip-routes](https://docs.aws.amazon.com/cli/latest/reference/ds/remove-ip-routes.html)|[Remove-DSIpRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSIpRoute.html)|
+|[aws ds remove-region](https://docs.aws.amazon.com/cli/latest/reference/ds/remove-region.html)|[Remove-DSRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSRegion.html)|
 |[aws ds remove-tags-from-resource](https://docs.aws.amazon.com/cli/latest/reference/ds/remove-tags-from-resource.html)|[Remove-DSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSResourceTag.html)|
 |[aws ds reset-user-password](https://docs.aws.amazon.com/cli/latest/reference/ds/reset-user-password.html)|[Reset-DSUserPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-DSUserPassword.html)|
 |[aws ds restore-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ds/restore-from-snapshot.html)|[Restore-DSFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DSFromSnapshot.html)|

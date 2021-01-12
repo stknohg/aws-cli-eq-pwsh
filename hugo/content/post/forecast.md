@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## forecast
@@ -18,24 +18,28 @@ date: 2020-09-08
 |[aws forecast create-forecast](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-forecast.html)|[New-FRCForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCForecast.html)|
 |[aws forecast create-forecast-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-forecast-export-job.html)|[New-FRCForecastExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCForecastExportJob.html)|
 |[aws forecast create-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-predictor.html)|[New-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCPredictor.html)|
+|[aws forecast create-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-predictor-backtest-export-job.html)|[New-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCPredictorBacktestExportJob.html)|
 |[aws forecast delete-dataset](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-dataset.html)|[Remove-FRCDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCDataset.html)|
 |[aws forecast delete-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-dataset-group.html)|[Remove-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCDatasetGroup.html)|
 |[aws forecast delete-dataset-import-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-dataset-import-job.html)|[Remove-FRCDatasetImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCDatasetImportJob.html)|
 |[aws forecast delete-forecast](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-forecast.html)|[Remove-FRCForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCForecast.html)|
 |[aws forecast delete-forecast-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-forecast-export-job.html)|[Remove-FRCForecastExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCForecastExportJob.html)|
 |[aws forecast delete-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-predictor.html)|[Remove-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCPredictor.html)|
+|[aws forecast delete-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-predictor-backtest-export-job.html)|[Remove-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCPredictorBacktestExportJob.html)|
 |[aws forecast describe-dataset](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset.html)|[Get-FRCDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDataset.html)|
 |[aws forecast describe-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset-group.html)|[Get-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetGroup.html)|
 |[aws forecast describe-dataset-import-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset-import-job.html)|[Get-FRCDatasetImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetImportJob.html)|
 |[aws forecast describe-forecast](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-forecast.html)|[Get-FRCForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCForecast.html)|
 |[aws forecast describe-forecast-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-forecast-export-job.html)|[Get-FRCForecastExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCForecastExportJob.html)|
 |[aws forecast describe-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-predictor.html)|[Get-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictor.html)|
+|[aws forecast describe-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-predictor-backtest-export-job.html)|[Get-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorBacktestExportJob.html)|
 |[aws forecast get-accuracy-metrics](https://docs.aws.amazon.com/cli/latest/reference/forecast/get-accuracy-metrics.html)|[Get-FRCAccuracyMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCAccuracyMetric.html)|
 |[aws forecast list-dataset-groups](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-dataset-groups.html)|[Get-FRCDatasetGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetGroupList.html)|
 |[aws forecast list-dataset-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-dataset-import-jobs.html)|[Get-FRCDatasetImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetImportJobList.html)|
 |[aws forecast list-datasets](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-datasets.html)|[Get-FRCDatasetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetList.html)|
 |[aws forecast list-forecast-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-forecast-export-jobs.html)|[Get-FRCForecastExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCForecastExportJobList.html)|
 |[aws forecast list-forecasts](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-forecasts.html)|[Get-FRCForecastList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCForecastList.html)|
+|[aws forecast list-predictor-backtest-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictor-backtest-export-jobs.html)|[Get-FRCPredictorBacktestExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorBacktestExportJobList.html)|
 |[aws forecast list-predictors](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictors.html)|[Get-FRCPredictorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorList.html)|
 |[aws forecast list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-tags-for-resource.html)|[Get-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCResourceTag.html)|
 |[aws forecast tag-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/tag-resource.html)|[Add-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FRCResourceTag.html)|

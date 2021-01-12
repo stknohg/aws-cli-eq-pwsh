@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## dms
@@ -56,6 +56,7 @@ date: 2020-09-08
 |[aws dms modify-replication-instance](https://docs.aws.amazon.com/cli/latest/reference/dms/modify-replication-instance.html)|[Edit-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSReplicationInstance.html)|
 |[aws dms modify-replication-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/dms/modify-replication-subnet-group.html)|[Edit-DMSReplicationSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSReplicationSubnetGroup.html)|
 |[aws dms modify-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/modify-replication-task.html)|[Edit-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DMSReplicationTask.html)|
+|[aws dms move-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/move-replication-task.html)|[Move-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-DMSReplicationTask.html)|
 |[aws dms reboot-replication-instance](https://docs.aws.amazon.com/cli/latest/reference/dms/reboot-replication-instance.html)|[Restart-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-DMSReplicationInstance.html)|
 |[aws dms refresh-schemas](https://docs.aws.amazon.com/cli/latest/reference/dms/refresh-schemas.html)|[Invoke-DMSSchemaRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-DMSSchemaRefresh.html)|
 |[aws dms reload-tables](https://docs.aws.amazon.com/cli/latest/reference/dms/reload-tables.html)|[Restore-DMSTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DMSTable.html)|

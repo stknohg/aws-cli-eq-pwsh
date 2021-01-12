@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## kinesisanalyticsv2
@@ -19,6 +19,7 @@ date: 2020-09-08
 |[aws kinesisanalyticsv2 add-application-reference-data-source](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/add-application-reference-data-source.html)|[Add-KINA2ApplicationReferenceDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ApplicationReferenceDataSource.html)|
 |[aws kinesisanalyticsv2 add-application-vpc-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/add-application-vpc-configuration.html)|[Add-KINA2ApplicationVpcConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ApplicationVpcConfiguration.html)|
 |[aws kinesisanalyticsv2 create-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/create-application.html)|[New-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINA2Application.html)|
+|[aws kinesisanalyticsv2 create-application-presigned-url](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/create-application-presigned-url.html)|[New-KINA2ApplicationPresignedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINA2ApplicationPresignedUrl.html)|
 |[aws kinesisanalyticsv2 create-application-snapshot](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/create-application-snapshot.html)|[New-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINA2ApplicationSnapshot.html)|
 |[aws kinesisanalyticsv2 delete-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application.html)|[Remove-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2Application.html)|
 |[aws kinesisanalyticsv2 delete-application-cloud-watch-logging-option](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application-cloud-watch-logging-option.html)|[Remove-KINA2ApplicationCloudWatchLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationCloudWatchLoggingOption.html)|

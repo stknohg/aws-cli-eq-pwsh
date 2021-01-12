@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## outposts
@@ -19,4 +19,7 @@ date: 2020-09-08
 |[aws outposts get-outpost-instance-types](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
 |[aws outposts list-outposts](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-outposts.html)|[Get-OUTPOutpostList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostList.html)|
 |[aws outposts list-sites](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-sites.html)|[Get-OUTPSiteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSiteList.html)|
+|[aws outposts list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-tags-for-resource.html)|[Get-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPResourceTag.html)|
+|[aws outposts tag-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/tag-resource.html)|[Add-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OUTPResourceTag.html)|
+|[aws outposts untag-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/untag-resource.html)|[Remove-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPResourceTag.html)|
 

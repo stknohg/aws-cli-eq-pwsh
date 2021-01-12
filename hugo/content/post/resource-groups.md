@@ -1,6 +1,6 @@
 ---
 title: resource-groups
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## resource-groups
@@ -21,6 +21,7 @@ date: 2020-09-08
 |[aws resource-groups group-resources](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/group-resources.html)|[Add-RGResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RGResource.html)|
 |[aws resource-groups list-group-resources](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/list-group-resources.html)|[Get-RGGroupResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RGGroupResourceList.html)|
 |[aws resource-groups list-groups](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/list-groups.html)|[Get-RGGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RGGroupList.html)|
+|[aws resource-groups put-group-configuration](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/put-group-configuration.html)|[Write-RGGroupConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-RGGroupConfiguration.html)|
 |[aws resource-groups search-resources](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/search-resources.html)|[Find-RGResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-RGResource.html)|
 |[aws resource-groups tag](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/tag.html)|[Add-RGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RGResourceTag.html)|
 |[aws resource-groups ungroup-resources](https://docs.aws.amazon.com/cli/latest/reference/resource-groups/ungroup-resources.html)|[Remove-RGResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RGResource.html)|

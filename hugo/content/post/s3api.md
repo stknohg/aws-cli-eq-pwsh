@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## s3api
@@ -21,9 +21,11 @@ date: 2020-09-08
 |[aws s3api delete-bucket-analytics-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-analytics-configuration.html)||
 |[aws s3api delete-bucket-cors](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-cors.html)||
 |[aws s3api delete-bucket-encryption](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-encryption.html)||
+|[aws s3api delete-bucket-intelligent-tiering-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-intelligent-tiering-configuration.html)||
 |[aws s3api delete-bucket-inventory-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-inventory-configuration.html)||
 |[aws s3api delete-bucket-lifecycle](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-lifecycle.html)||
 |[aws s3api delete-bucket-metrics-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-metrics-configuration.html)||
+|[aws s3api delete-bucket-ownership-controls](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-ownership-controls.html)||
 |[aws s3api delete-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-policy.html)||
 |[aws s3api delete-bucket-replication](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-replication.html)||
 |[aws s3api delete-bucket-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3api/delete-bucket-tagging.html)||
@@ -37,6 +39,7 @@ date: 2020-09-08
 |[aws s3api get-bucket-analytics-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-analytics-configuration.html)||
 |[aws s3api get-bucket-cors](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-cors.html)||
 |[aws s3api get-bucket-encryption](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-encryption.html)||
+|[aws s3api get-bucket-intelligent-tiering-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-intelligent-tiering-configuration.html)||
 |[aws s3api get-bucket-inventory-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-inventory-configuration.html)||
 |[aws s3api get-bucket-lifecycle](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-lifecycle.html)||
 |[aws s3api get-bucket-lifecycle-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-lifecycle-configuration.html)||
@@ -45,6 +48,7 @@ date: 2020-09-08
 |[aws s3api get-bucket-metrics-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-metrics-configuration.html)||
 |[aws s3api get-bucket-notification](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-notification.html)||
 |[aws s3api get-bucket-notification-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-notification-configuration.html)||
+|[aws s3api get-bucket-ownership-controls](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-ownership-controls.html)||
 |[aws s3api get-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-policy.html)||
 |[aws s3api get-bucket-policy-status](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-policy-status.html)||
 |[aws s3api get-bucket-replication](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-replication.html)||
@@ -63,6 +67,7 @@ date: 2020-09-08
 |[aws s3api head-bucket](https://docs.aws.amazon.com/cli/latest/reference/s3api/head-bucket.html)||
 |[aws s3api head-object](https://docs.aws.amazon.com/cli/latest/reference/s3api/head-object.html)||
 |[aws s3api list-bucket-analytics-configurations](https://docs.aws.amazon.com/cli/latest/reference/s3api/list-bucket-analytics-configurations.html)||
+|[aws s3api list-bucket-intelligent-tiering-configurations](https://docs.aws.amazon.com/cli/latest/reference/s3api/list-bucket-intelligent-tiering-configurations.html)||
 |[aws s3api list-bucket-inventory-configurations](https://docs.aws.amazon.com/cli/latest/reference/s3api/list-bucket-inventory-configurations.html)||
 |[aws s3api list-bucket-metrics-configurations](https://docs.aws.amazon.com/cli/latest/reference/s3api/list-bucket-metrics-configurations.html)||
 |[aws s3api list-buckets](https://docs.aws.amazon.com/cli/latest/reference/s3api/list-buckets.html)||
@@ -76,6 +81,7 @@ date: 2020-09-08
 |[aws s3api put-bucket-analytics-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-analytics-configuration.html)||
 |[aws s3api put-bucket-cors](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-cors.html)||
 |[aws s3api put-bucket-encryption](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-encryption.html)||
+|[aws s3api put-bucket-intelligent-tiering-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-intelligent-tiering-configuration.html)||
 |[aws s3api put-bucket-inventory-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-inventory-configuration.html)||
 |[aws s3api put-bucket-lifecycle](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-lifecycle.html)||
 |[aws s3api put-bucket-lifecycle-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-lifecycle-configuration.html)||
@@ -83,6 +89,7 @@ date: 2020-09-08
 |[aws s3api put-bucket-metrics-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-metrics-configuration.html)||
 |[aws s3api put-bucket-notification](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-notification.html)||
 |[aws s3api put-bucket-notification-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-notification-configuration.html)||
+|[aws s3api put-bucket-ownership-controls](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-ownership-controls.html)||
 |[aws s3api put-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-policy.html)||
 |[aws s3api put-bucket-replication](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-replication.html)||
 |[aws s3api put-bucket-request-payment](https://docs.aws.amazon.com/cli/latest/reference/s3api/put-bucket-request-payment.html)||

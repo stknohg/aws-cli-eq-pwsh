@@ -1,6 +1,6 @@
 ---
 title: stepfunctions
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## stepfunctions
@@ -30,6 +30,7 @@ date: 2020-09-08
 |[aws stepfunctions send-task-heartbeat](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/send-task-heartbeat.html)|[Send-SFNTaskHeartbeat](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SFNTaskHeartbeat.html)|
 |[aws stepfunctions send-task-success](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/send-task-success.html)|[Send-SFNTaskSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SFNTaskSuccess.html)|
 |[aws stepfunctions start-execution](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/start-execution.html)|[Start-SFNExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SFNExecution.html)|
+|[aws stepfunctions start-sync-execution](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/start-sync-execution.html)|[Start-SFNSyncExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SFNSyncExecution.html)|
 |[aws stepfunctions stop-execution](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/stop-execution.html)|[Stop-SFNExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SFNExecution.html)|
 |[aws stepfunctions tag-resource](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/tag-resource.html)|[Add-SFNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SFNResourceTag.html)|
 |[aws stepfunctions untag-resource](https://docs.aws.amazon.com/cli/latest/reference/stepfunctions/untag-resource.html)|[Remove-SFNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SFNResourceTag.html)|

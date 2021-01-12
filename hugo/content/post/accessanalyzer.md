@@ -1,6 +1,6 @@
 ---
 title: accessanalyzer
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## accessanalyzer
@@ -12,6 +12,7 @@ date: 2020-09-08
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws accessanalyzer apply-archive-rule](https://docs.aws.amazon.com/cli/latest/reference/accessanalyzer/apply-archive-rule.html)|[Start-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IAMAAArchiveRule.html)|
 |[aws accessanalyzer create-analyzer](https://docs.aws.amazon.com/cli/latest/reference/accessanalyzer/create-analyzer.html)|[New-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAAnalyzer.html)|
 |[aws accessanalyzer create-archive-rule](https://docs.aws.amazon.com/cli/latest/reference/accessanalyzer/create-archive-rule.html)|[New-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAArchiveRule.html)|
 |[aws accessanalyzer delete-analyzer](https://docs.aws.amazon.com/cli/latest/reference/accessanalyzer/delete-analyzer.html)|[Remove-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMAAAnalyzer.html)|

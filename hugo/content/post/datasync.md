@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## datasync
@@ -43,4 +43,5 @@ date: 2020-09-08
 |[aws datasync untag-resource](https://docs.aws.amazon.com/cli/latest/reference/datasync/untag-resource.html)|[Remove-DSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNResourceTag.html)|
 |[aws datasync update-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-agent.html)|[Update-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNAgent.html)|
 |[aws datasync update-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-task.html)|[Update-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNTask.html)|
+|[aws datasync update-task-execution](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-task-execution.html)|[Update-DSYNTaskExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNTaskExecution.html)|
 

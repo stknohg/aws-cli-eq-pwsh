@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## ecs
@@ -56,6 +56,7 @@ date: 2020-09-08
 |[aws ecs submit-task-state-change](https://docs.aws.amazon.com/cli/latest/reference/ecs/submit-task-state-change.html)||
 |[aws ecs tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/tag-resource.html)|[Add-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECSResourceTag.html)|
 |[aws ecs untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/untag-resource.html)|[Remove-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSResourceTag.html)|
+|[aws ecs update-capacity-provider](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-capacity-provider.html)|[Update-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSCapacityProvider.html)|
 |[aws ecs update-cluster-settings](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-cluster-settings.html)|[Update-ECSClusterSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSClusterSetting.html)|
 |[aws ecs update-container-agent](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-agent.html)|[Update-ECSContainerAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerAgent.html)|
 |[aws ecs update-container-instances-state](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|

@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## sesv2
@@ -14,6 +14,8 @@ date: 2020-09-08
 |----|----|
 |[aws sesv2 create-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-configuration-set.html)|[New-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSet.html)|
 |[aws sesv2 create-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-configuration-set-event-destination.html)|[New-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSetEventDestination.html)|
+|[aws sesv2 create-contact](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-contact.html)|[New-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2Contact.html)|
+|[aws sesv2 create-contact-list](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-contact-list.html)|[New-SES2ContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ContactList.html)|
 |[aws sesv2 create-custom-verification-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-custom-verification-email-template.html)|[New-SES2CustomVerificationEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2CustomVerificationEmailTemplate.html)|
 |[aws sesv2 create-dedicated-ip-pool](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-dedicated-ip-pool.html)|[New-SES2DedicatedIpPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2DedicatedIpPool.html)|
 |[aws sesv2 create-deliverability-test-report](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-deliverability-test-report.html)|[New-SES2DeliverabilityTestReport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2DeliverabilityTestReport.html)|
@@ -23,6 +25,8 @@ date: 2020-09-08
 |[aws sesv2 create-import-job](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-import-job.html)|[New-SES2ImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ImportJob.html)|
 |[aws sesv2 delete-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-configuration-set.html)|[Remove-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ConfigurationSet.html)|
 |[aws sesv2 delete-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-configuration-set-event-destination.html)|[Remove-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ConfigurationSetEventDestination.html)|
+|[aws sesv2 delete-contact](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-contact.html)|[Remove-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2Contact.html)|
+|[aws sesv2 delete-contact-list](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-contact-list.html)|[Remove-SES2ContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ContactList.html)|
 |[aws sesv2 delete-custom-verification-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-custom-verification-email-template.html)|[Remove-SES2CustomVerificationEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2CustomVerificationEmailTemplate.html)|
 |[aws sesv2 delete-dedicated-ip-pool](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-dedicated-ip-pool.html)|[Remove-SES2DedicatedIpPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2DedicatedIpPool.html)|
 |[aws sesv2 delete-email-identity](https://docs.aws.amazon.com/cli/latest/reference/sesv2/delete-email-identity.html)|[Remove-SES2EmailIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2EmailIdentity.html)|
@@ -33,6 +37,8 @@ date: 2020-09-08
 |[aws sesv2 get-blacklist-reports](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-blacklist-reports.html)|[Get-SES2BlacklistReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2BlacklistReport.html)|
 |[aws sesv2 get-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-configuration-set.html)|[Get-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ConfigurationSet.html)|
 |[aws sesv2 get-configuration-set-event-destinations](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-configuration-set-event-destinations.html)|[Get-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ConfigurationSetEventDestination.html)|
+|[aws sesv2 get-contact](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-contact.html)|[Get-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2Contact.html)|
+|[aws sesv2 get-contact-list](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-contact-list.html)|[Get-SES2ContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ContactList.html)|
 |[aws sesv2 get-custom-verification-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-custom-verification-email-template.html)|[Get-SES2CustomVerificationEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2CustomVerificationEmailTemplate.html)|
 |[aws sesv2 get-dedicated-ip](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-dedicated-ip.html)|[Get-SES2DedicatedIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DedicatedIp.html)|
 |[aws sesv2 get-dedicated-ips](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-dedicated-ips.html)|[Get-SES2DedicatedIpList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DedicatedIpList.html)|
@@ -46,6 +52,8 @@ date: 2020-09-08
 |[aws sesv2 get-import-job](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-import-job.html)|[Get-SES2ImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ImportJob.html)|
 |[aws sesv2 get-suppressed-destination](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-suppressed-destination.html)|[Get-SES2SuppressedDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2SuppressedDestination.html)|
 |[aws sesv2 list-configuration-sets](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-configuration-sets.html)|[Get-SES2ConfigurationSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ConfigurationSetList.html)|
+|[aws sesv2 list-contact-lists](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-contact-lists.html)|[Get-SES2ContactListCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ContactListCollection.html)|
+|[aws sesv2 list-contacts](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-contacts.html)|[Get-SES2ContactCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ContactCollection.html)|
 |[aws sesv2 list-custom-verification-email-templates](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-custom-verification-email-templates.html)|[Get-SES2CustomVerificationEmailTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2CustomVerificationEmailTemplateList.html)|
 |[aws sesv2 list-dedicated-ip-pools](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-dedicated-ip-pools.html)|[Get-SES2DedicatedIpPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DedicatedIpPoolList.html)|
 |[aws sesv2 list-deliverability-test-reports](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-deliverability-test-reports.html)|[Get-SES2DeliverabilityTestReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DeliverabilityTestReportList.html)|
@@ -79,6 +87,8 @@ date: 2020-09-08
 |[aws sesv2 test-render-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/test-render-email-template.html)|[Test-SES2RenderEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-SES2RenderEmailTemplate.html)|
 |[aws sesv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/sesv2/untag-resource.html)|[Remove-SES2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ResourceTag.html)|
 |[aws sesv2 update-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/sesv2/update-configuration-set-event-destination.html)|[Update-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2ConfigurationSetEventDestination.html)|
+|[aws sesv2 update-contact](https://docs.aws.amazon.com/cli/latest/reference/sesv2/update-contact.html)|[Update-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2Contact.html)|
+|[aws sesv2 update-contact-list](https://docs.aws.amazon.com/cli/latest/reference/sesv2/update-contact-list.html)|[Update-SES2ContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2ContactList.html)|
 |[aws sesv2 update-custom-verification-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/update-custom-verification-email-template.html)|[Update-SES2CustomVerificationEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2CustomVerificationEmailTemplate.html)|
 |[aws sesv2 update-email-identity-policy](https://docs.aws.amazon.com/cli/latest/reference/sesv2/update-email-identity-policy.html)|[Update-SES2EmailIdentityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2EmailIdentityPolicy.html)|
 |[aws sesv2 update-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/update-email-template.html)|[Update-SES2EmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2EmailTemplate.html)|

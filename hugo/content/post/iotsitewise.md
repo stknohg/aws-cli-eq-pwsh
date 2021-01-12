@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## iotsitewise
@@ -35,6 +35,7 @@ date: 2020-09-08
 |[aws iotsitewise describe-asset-model](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-asset-model.html)|[Get-IOTSWAssetModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetModel.html)|
 |[aws iotsitewise describe-asset-property](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-asset-property.html)|[Get-IOTSWAssetProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetProperty.html)|
 |[aws iotsitewise describe-dashboard](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-dashboard.html)|[Get-IOTSWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWDashboard.html)|
+|[aws iotsitewise describe-default-encryption-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-default-encryption-configuration.html)|[Get-IOTSWDefaultEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWDefaultEncryptionConfiguration.html)|
 |[aws iotsitewise describe-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-gateway.html)|[Get-IOTSWGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWGateway.html)|
 |[aws iotsitewise describe-gateway-capability-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-gateway-capability-configuration.html)|[Get-IOTSWGatewayCapabilityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWGatewayCapabilityConfiguration.html)|
 |[aws iotsitewise describe-logging-options](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-logging-options.html)|[Get-IOTSWLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWLoggingOption.html)|
@@ -46,6 +47,7 @@ date: 2020-09-08
 |[aws iotsitewise get-asset-property-value-history](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-value-history.html)|[Get-IOTSWAssetPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyValueHistory.html)|
 |[aws iotsitewise list-access-policies](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-access-policies.html)|[Get-IOTSWAccessPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAccessPolicyList.html)|
 |[aws iotsitewise list-asset-models](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-models.html)|[Get-IOTSWAssetModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetModelList.html)|
+|[aws iotsitewise list-asset-relationships](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-relationships.html)|[Get-IOTSWAssetRelationshipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetRelationshipList.html)|
 |[aws iotsitewise list-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-assets.html)|[Get-IOTSWAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetList.html)|
 |[aws iotsitewise list-associated-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-associated-assets.html)|[Get-IOTSWAssociatedAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssociatedAssetList.html)|
 |[aws iotsitewise list-dashboards](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-dashboards.html)|[Get-IOTSWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWDashboardList.html)|
@@ -54,6 +56,7 @@ date: 2020-09-08
 |[aws iotsitewise list-project-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-project-assets.html)|[Get-IOTSWProjectAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWProjectAssetList.html)|
 |[aws iotsitewise list-projects](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-projects.html)|[Get-IOTSWProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWProjectList.html)|
 |[aws iotsitewise list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-tags-for-resource.html)|[Get-IOTSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWResourceTag.html)|
+|[aws iotsitewise put-default-encryption-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/put-default-encryption-configuration.html)|[Write-IOTSWDefaultEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IOTSWDefaultEncryptionConfiguration.html)|
 |[aws iotsitewise put-logging-options](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/put-logging-options.html)|[Write-IOTSWLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IOTSWLoggingOption.html)|
 |[aws iotsitewise tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/tag-resource.html)|[Add-IOTSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTSWResourceTag.html)|
 |[aws iotsitewise untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/untag-resource.html)|[Remove-IOTSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTSWResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: codeartifact
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## codeartifact
@@ -39,9 +39,12 @@ date: 2020-09-08
 |[aws codeartifact list-packages](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-packages.html)|[Get-CAPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAPackageList.html)|
 |[aws codeartifact list-repositories](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-repositories.html)|[Get-CARepositoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CARepositoryList.html)|
 |[aws codeartifact list-repositories-in-domain](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-repositories-in-domain.html)|[Get-CARepositoriesInDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CARepositoriesInDomainList.html)|
+|[aws codeartifact list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-tags-for-resource.html)|[Get-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAResourceTag.html)|
 |[aws codeartifact login](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/login.html)||
 |[aws codeartifact put-domain-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-domain-permissions-policy.html)|[Write-CADomainPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CADomainPermissionsPolicy.html)|
 |[aws codeartifact put-repository-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-repository-permissions-policy.html)|[Write-CARepositoryPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CARepositoryPermissionsPolicy.html)|
+|[aws codeartifact tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/tag-resource.html)|[Add-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CAResourceTag.html)|
+|[aws codeartifact untag-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/untag-resource.html)|[Remove-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CAResourceTag.html)|
 |[aws codeartifact update-package-versions-status](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/update-package-versions-status.html)|[Update-CAPackageVersionsStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CAPackageVersionsStatus.html)|
 |[aws codeartifact update-repository](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/update-repository.html)|[Update-CARepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CARepository.html)|
 

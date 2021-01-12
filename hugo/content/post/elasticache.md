@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## elasticache
@@ -25,6 +25,8 @@ date: 2020-09-08
 |[aws elasticache create-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-global-replication-group.html)|[New-ECGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECGlobalReplicationGroup.html)|
 |[aws elasticache create-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-replication-group.html)|[New-ECReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECReplicationGroup.html)|
 |[aws elasticache create-snapshot](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-snapshot.html)|[New-ECSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSnapshot.html)|
+|[aws elasticache create-user](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-user.html)|[New-ECUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECUser.html)|
+|[aws elasticache create-user-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/create-user-group.html)|[New-ECUserGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECUserGroup.html)|
 |[aws elasticache decrease-node-groups-in-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/decrease-node-groups-in-global-replication-group.html)|[Request-ECNodeGroupDecreaseInGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECNodeGroupDecreaseInGlobalReplicationGroup.html)|
 |[aws elasticache decrease-replica-count](https://docs.aws.amazon.com/cli/latest/reference/elasticache/decrease-replica-count.html)|[Request-ECReplicaCountDecrease](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECReplicaCountDecrease.html)|
 |[aws elasticache delete-cache-cluster](https://docs.aws.amazon.com/cli/latest/reference/elasticache/delete-cache-cluster.html)|[Remove-ECCacheCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECCacheCluster.html)|
@@ -34,6 +36,8 @@ date: 2020-09-08
 |[aws elasticache delete-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/delete-global-replication-group.html)|[Remove-ECGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECGlobalReplicationGroup.html)|
 |[aws elasticache delete-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/delete-replication-group.html)|[Remove-ECReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECReplicationGroup.html)|
 |[aws elasticache delete-snapshot](https://docs.aws.amazon.com/cli/latest/reference/elasticache/delete-snapshot.html)|[Remove-ECSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSnapshot.html)|
+|[aws elasticache delete-user](https://docs.aws.amazon.com/cli/latest/reference/elasticache/delete-user.html)|[Remove-ECUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECUser.html)|
+|[aws elasticache delete-user-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/delete-user-group.html)|[Remove-ECUserGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECUserGroup.html)|
 |[aws elasticache describe-cache-clusters](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-cache-clusters.html)|[Get-ECCacheCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECCacheCluster.html)|
 |[aws elasticache describe-cache-engine-versions](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-cache-engine-versions.html)|[Get-ECCacheEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECCacheEngineVersion.html)|
 |[aws elasticache describe-cache-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-cache-parameter-groups.html)|[Get-ECCacheParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECCacheParameterGroup.html)|
@@ -49,6 +53,8 @@ date: 2020-09-08
 |[aws elasticache describe-service-updates](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-service-updates.html)|[Get-ECServiceUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECServiceUpdate.html)|
 |[aws elasticache describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-snapshots.html)|[Get-ECSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSnapshot.html)|
 |[aws elasticache describe-update-actions](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-update-actions.html)|[Get-ECUpdateAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECUpdateAction.html)|
+|[aws elasticache describe-user-groups](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-user-groups.html)|[Get-ECUserGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECUserGroup.html)|
+|[aws elasticache describe-users](https://docs.aws.amazon.com/cli/latest/reference/elasticache/describe-users.html)|[Get-ECUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECUser.html)|
 |[aws elasticache disassociate-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/disassociate-global-replication-group.html)|[Remove-ECReplicationGroupFromGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECReplicationGroupFromGlobalReplicationGroup.html)|
 |[aws elasticache failover-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/failover-global-replication-group.html)|[Request-ECGlobalReplicationGroupFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECGlobalReplicationGroupFailover.html)|
 |[aws elasticache increase-node-groups-in-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/increase-node-groups-in-global-replication-group.html)|[Request-ECNodeGroupIncreaseInGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECNodeGroupIncreaseInGlobalReplicationGroup.html)|
@@ -61,6 +67,8 @@ date: 2020-09-08
 |[aws elasticache modify-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/modify-global-replication-group.html)|[Edit-ECGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECGlobalReplicationGroup.html)|
 |[aws elasticache modify-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/modify-replication-group.html)|[Edit-ECReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECReplicationGroup.html)|
 |[aws elasticache modify-replication-group-shard-configuration](https://docs.aws.amazon.com/cli/latest/reference/elasticache/modify-replication-group-shard-configuration.html)|[Edit-ECReplicationGroupShardConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECReplicationGroupShardConfiguration.html)|
+|[aws elasticache modify-user](https://docs.aws.amazon.com/cli/latest/reference/elasticache/modify-user.html)|[Edit-ECUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECUser.html)|
+|[aws elasticache modify-user-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/modify-user-group.html)|[Edit-ECUserGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECUserGroup.html)|
 |[aws elasticache purchase-reserved-cache-nodes-offering](https://docs.aws.amazon.com/cli/latest/reference/elasticache/purchase-reserved-cache-nodes-offering.html)|[Request-ECReservedCacheNodesOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECReservedCacheNodesOffering.html)|
 |[aws elasticache rebalance-slots-in-global-replication-group](https://docs.aws.amazon.com/cli/latest/reference/elasticache/rebalance-slots-in-global-replication-group.html)|[Request-ECSlotRebalanceInGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECSlotRebalanceInGlobalReplicationGroup.html)|
 |[aws elasticache reboot-cache-cluster](https://docs.aws.amazon.com/cli/latest/reference/elasticache/reboot-cache-cluster.html)|[Restart-ECCacheCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-ECCacheCluster.html)|

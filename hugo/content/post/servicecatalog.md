@@ -1,6 +1,6 @@
 ---
 title: servicecatalog
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## servicecatalog
@@ -41,6 +41,7 @@ date: 2020-09-08
 |[aws servicecatalog describe-copy-product-status](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-copy-product-status.html)|[Get-SCCopyProductStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCCopyProductStatus.html)|
 |[aws servicecatalog describe-portfolio](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-portfolio.html)|[Get-SCPortfolio](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCPortfolio.html)|
 |[aws servicecatalog describe-portfolio-share-status](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-portfolio-share-status.html)|[Get-SCPortfolioShareStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCPortfolioShareStatus.html)|
+|[aws servicecatalog describe-portfolio-shares](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-portfolio-shares.html)|[Get-SCPortfolioShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCPortfolioShare.html)|
 |[aws servicecatalog describe-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-product.html)|[Get-SCProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCProduct.html)|
 |[aws servicecatalog describe-product-as-admin](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-product-as-admin.html)|[Get-SCProductAsAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCProductAsAdmin.html)|
 |[aws servicecatalog describe-product-view](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/describe-product-view.html)|[Get-SCProductView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCProductView.html)|
@@ -63,6 +64,8 @@ date: 2020-09-08
 |[aws servicecatalog execute-provisioned-product-service-action](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/execute-provisioned-product-service-action.html)|[Start-SCProvisionedProductServiceActionExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SCProvisionedProductServiceActionExecution.html)|
 |[aws servicecatalog generate](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/generate.html)||
 |[aws servicecatalog get-aws-organizations-access-status](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/get-aws-organizations-access-status.html)|[Get-SCAWSOrganizationsAccessStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCAWSOrganizationsAccessStatus.html)|
+|[aws servicecatalog get-provisioned-product-outputs](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/get-provisioned-product-outputs.html)|[Get-SCProvisionedProductOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCProvisionedProductOutput.html)|
+|[aws servicecatalog import-as-provisioned-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/import-as-provisioned-product.html)|[Import-SCAsProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SCAsProvisionedProduct.html)|
 |[aws servicecatalog list-accepted-portfolio-shares](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-accepted-portfolio-shares.html)|[Get-SCAcceptedPortfolioShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCAcceptedPortfolioShareList.html)|
 |[aws servicecatalog list-budgets-for-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-budgets-for-resource.html)|[Get-SCBudgetsForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCBudgetsForResource.html)|
 |[aws servicecatalog list-constraints-for-portfolio](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-constraints-for-portfolio.html)|[Get-SCConstrainsForPortfolioList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCConstrainsForPortfolioList.html)|
@@ -90,6 +93,7 @@ date: 2020-09-08
 |[aws servicecatalog terminate-provisioned-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/terminate-provisioned-product.html)|[Remove-SCProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SCProvisionedProduct.html)|
 |[aws servicecatalog update-constraint](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-constraint.html)|[Update-SCConstraint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCConstraint.html)|
 |[aws servicecatalog update-portfolio](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-portfolio.html)|[Update-SCPortfolio](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCPortfolio.html)|
+|[aws servicecatalog update-portfolio-share](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-portfolio-share.html)|[Update-SCPortfolioShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCPortfolioShare.html)|
 |[aws servicecatalog update-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-product.html)|[Update-SCProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProduct.html)|
 |[aws servicecatalog update-provisioned-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-provisioned-product.html)|[Update-SCProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProvisionedProduct.html)|
 |[aws servicecatalog update-provisioned-product-properties](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/update-provisioned-product-properties.html)|[Update-SCProvisionedProductProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SCProvisionedProductProperty.html)|

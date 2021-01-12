@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## imagebuilder
@@ -14,12 +14,14 @@ date: 2020-09-08
 |----|----|
 |[aws imagebuilder cancel-image-creation](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/cancel-image-creation.html)|[Stop-EC2IBImageCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2IBImageCreation.html)|
 |[aws imagebuilder create-component](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-component.html)|[New-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBComponent.html)|
+|[aws imagebuilder create-container-recipe](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-container-recipe.html)|[New-EC2IBContainerRecipe](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBContainerRecipe.html)|
 |[aws imagebuilder create-distribution-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-distribution-configuration.html)|[New-EC2IBDistributionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBDistributionConfiguration.html)|
 |[aws imagebuilder create-image](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-image.html)|[New-EC2IBImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBImage.html)|
 |[aws imagebuilder create-image-pipeline](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-image-pipeline.html)|[New-EC2IBImagePipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBImagePipeline.html)|
 |[aws imagebuilder create-image-recipe](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-image-recipe.html)|[New-EC2IBImageRecipe](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBImageRecipe.html)|
 |[aws imagebuilder create-infrastructure-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/create-infrastructure-configuration.html)|[New-EC2IBInfrastructureConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBInfrastructureConfiguration.html)|
 |[aws imagebuilder delete-component](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/delete-component.html)|[Remove-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBComponent.html)|
+|[aws imagebuilder delete-container-recipe](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/delete-container-recipe.html)|[Remove-EC2IBContainerRecipe](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBContainerRecipe.html)|
 |[aws imagebuilder delete-distribution-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/delete-distribution-configuration.html)|[Remove-EC2IBDistributionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBDistributionConfiguration.html)|
 |[aws imagebuilder delete-image](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/delete-image.html)|[Remove-EC2IBImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBImage.html)|
 |[aws imagebuilder delete-image-pipeline](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/delete-image-pipeline.html)|[Remove-EC2IBImagePipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBImagePipeline.html)|
@@ -27,6 +29,8 @@ date: 2020-09-08
 |[aws imagebuilder delete-infrastructure-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/delete-infrastructure-configuration.html)|[Remove-EC2IBInfrastructureConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBInfrastructureConfiguration.html)|
 |[aws imagebuilder get-component](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-component.html)|[Get-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponent.html)|
 |[aws imagebuilder get-component-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-component-policy.html)|[Get-EC2IBComponentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentPolicy.html)|
+|[aws imagebuilder get-container-recipe](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-container-recipe.html)|[Get-EC2IBContainerRecipe](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBContainerRecipe.html)|
+|[aws imagebuilder get-container-recipe-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-container-recipe-policy.html)|[Get-EC2IBContainerRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBContainerRecipePolicy.html)|
 |[aws imagebuilder get-distribution-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-distribution-configuration.html)|[Get-EC2IBDistributionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBDistributionConfiguration.html)|
 |[aws imagebuilder get-image](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-image.html)|[Get-EC2IBImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImage.html)|
 |[aws imagebuilder get-image-pipeline](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-image-pipeline.html)|[Get-EC2IBImagePipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePipeline.html)|
@@ -37,6 +41,7 @@ date: 2020-09-08
 |[aws imagebuilder import-component](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/import-component.html)|[Import-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBComponent.html)|
 |[aws imagebuilder list-component-build-versions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-component-build-versions.html)|[Get-EC2IBComponentBuildVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentBuildVersionList.html)|
 |[aws imagebuilder list-components](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-components.html)|[Get-EC2IBComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentList.html)|
+|[aws imagebuilder list-container-recipes](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-container-recipes.html)|[Get-EC2IBContainerRecipeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBContainerRecipeList.html)|
 |[aws imagebuilder list-distribution-configurations](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-distribution-configurations.html)|[Get-EC2IBDistributionConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBDistributionConfigurationList.html)|
 |[aws imagebuilder list-image-build-versions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-build-versions.html)|[Get-EC2IBImageBuildVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageBuildVersionList.html)|
 |[aws imagebuilder list-image-pipeline-images](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-pipeline-images.html)|[Get-EC2IBImagePipelineImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePipelineImageList.html)|
@@ -46,6 +51,7 @@ date: 2020-09-08
 |[aws imagebuilder list-infrastructure-configurations](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-infrastructure-configurations.html)|[Get-EC2IBInfrastructureConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfigurationList.html)|
 |[aws imagebuilder list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-tags-for-resource.html)|[Get-EC2IBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBResourceTag.html)|
 |[aws imagebuilder put-component-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-component-policy.html)|[Write-EC2IBComponentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBComponentPolicy.html)|
+|[aws imagebuilder put-container-recipe-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-container-recipe-policy.html)|[Write-EC2IBContainerRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBContainerRecipePolicy.html)|
 |[aws imagebuilder put-image-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-image-policy.html)|[Write-EC2IBImagePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBImagePolicy.html)|
 |[aws imagebuilder put-image-recipe-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-image-recipe-policy.html)|[Write-EC2IBImageRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBImageRecipePolicy.html)|
 |[aws imagebuilder start-image-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/start-image-pipeline-execution.html)|[Start-EC2IBImagePipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBImagePipelineExecution.html)|

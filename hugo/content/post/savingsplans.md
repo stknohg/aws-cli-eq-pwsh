@@ -1,6 +1,6 @@
 ---
 title: savingsplans
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## savingsplans
@@ -13,6 +13,7 @@ date: 2020-09-08
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws savingsplans create-savings-plan](https://docs.aws.amazon.com/cli/latest/reference/savingsplans/create-savings-plan.html)|[New-SPSavingsPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SPSavingsPlan.html)|
+|[aws savingsplans delete-queued-savings-plan](https://docs.aws.amazon.com/cli/latest/reference/savingsplans/delete-queued-savings-plan.html)|[Remove-SPQueuedSavingsPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SPQueuedSavingsPlan.html)|
 |[aws savingsplans describe-savings-plan-rates](https://docs.aws.amazon.com/cli/latest/reference/savingsplans/describe-savings-plan-rates.html)|[Get-SPSavingsPlanRate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SPSavingsPlanRate.html)|
 |[aws savingsplans describe-savings-plans](https://docs.aws.amazon.com/cli/latest/reference/savingsplans/describe-savings-plans.html)|[Get-SPSavingsPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SPSavingsPlan.html)|
 |[aws savingsplans describe-savings-plans-offering-rates](https://docs.aws.amazon.com/cli/latest/reference/savingsplans/describe-savings-plans-offering-rates.html)|[Get-SPSavingsPlansOfferingRate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SPSavingsPlansOfferingRate.html)|

@@ -1,6 +1,6 @@
 ---
 title: codebuild
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## codebuild
@@ -30,6 +30,7 @@ date: 2020-09-08
 |[aws codebuild delete-webhook](https://docs.aws.amazon.com/cli/latest/reference/codebuild/delete-webhook.html)|[Remove-CBWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBWebhook.html)|
 |[aws codebuild describe-code-coverages](https://docs.aws.amazon.com/cli/latest/reference/codebuild/describe-code-coverages.html)|[Get-CBCodeCoverage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBCodeCoverage.html)|
 |[aws codebuild describe-test-cases](https://docs.aws.amazon.com/cli/latest/reference/codebuild/describe-test-cases.html)|[Get-CBTestCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBTestCase.html)|
+|[aws codebuild get-report-group-trend](https://docs.aws.amazon.com/cli/latest/reference/codebuild/get-report-group-trend.html)|[Get-CBReportGroupTrend](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportGroupTrend.html)|
 |[aws codebuild get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/codebuild/get-resource-policy.html)|[Get-CBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBResourcePolicy.html)|
 |[aws codebuild import-source-credentials](https://docs.aws.amazon.com/cli/latest/reference/codebuild/import-source-credentials.html)|[Import-CBSourceCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-CBSourceCredential.html)|
 |[aws codebuild invalidate-project-cache](https://docs.aws.amazon.com/cli/latest/reference/codebuild/invalidate-project-cache.html)|[Reset-CBProjectCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-CBProjectCache.html)|

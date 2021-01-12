@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## apigatewayv2
@@ -69,6 +69,7 @@ date: 2020-09-08
 |[aws apigatewayv2 get-vpc-links](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/get-vpc-links.html)|[Get-AG2VpcLinkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2VpcLinkList.html)|
 |[aws apigatewayv2 import-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/import-api.html)|[Import-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AG2Api.html)|
 |[aws apigatewayv2 reimport-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/reimport-api.html)|[Update-AG2ApiImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2ApiImport.html)|
+|[aws apigatewayv2 reset-authorizers-cache](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/reset-authorizers-cache.html)|[Reset-AG2AuthorizersCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-AG2AuthorizersCache.html)|
 |[aws apigatewayv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/tag-resource.html)|[Add-AG2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AG2ResourceTag.html)|
 |[aws apigatewayv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/untag-resource.html)|[Remove-AG2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2ResourceTag.html)|
 |[aws apigatewayv2 update-api](https://docs.aws.amazon.com/cli/latest/reference/apigatewayv2/update-api.html)|[Update-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2Api.html)|

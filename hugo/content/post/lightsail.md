@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## lightsail
@@ -23,6 +23,9 @@ date: 2020-09-08
 |[aws lightsail create-certificate](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-certificate.html)|[New-LSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSCertificate.html)|
 |[aws lightsail create-cloud-formation-stack](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-cloud-formation-stack.html)|[New-LSCloudFormationStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSCloudFormationStack.html)|
 |[aws lightsail create-contact-method](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-contact-method.html)|[New-LSContactMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSContactMethod.html)|
+|[aws lightsail create-container-service](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-container-service.html)|[New-LSContainerService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSContainerService.html)|
+|[aws lightsail create-container-service-deployment](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-container-service-deployment.html)|[New-LSContainerServiceDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSContainerServiceDeployment.html)|
+|[aws lightsail create-container-service-registry-login](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-container-service-registry-login.html)|[New-LSContainerServiceRegistryLogin](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSContainerServiceRegistryLogin.html)|
 |[aws lightsail create-disk](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-disk.html)|[New-LSDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDisk.html)|
 |[aws lightsail create-disk-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-disk-from-snapshot.html)|[New-LSDiskFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDiskFromSnapshot.html)|
 |[aws lightsail create-disk-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-disk-snapshot.html)|[New-LSDiskSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDiskSnapshot.html)|
@@ -42,6 +45,8 @@ date: 2020-09-08
 |[aws lightsail delete-auto-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-auto-snapshot.html)|[Remove-LSAutoSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSAutoSnapshot.html)|
 |[aws lightsail delete-certificate](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-certificate.html)|[Remove-LSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSCertificate.html)|
 |[aws lightsail delete-contact-method](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-contact-method.html)|[Remove-LSContactMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSContactMethod.html)|
+|[aws lightsail delete-container-image](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-container-image.html)|[Remove-LSContainerImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSContainerImage.html)|
+|[aws lightsail delete-container-service](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-container-service.html)|[Remove-LSContainerService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSContainerService.html)|
 |[aws lightsail delete-disk](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-disk.html)|[Remove-LSDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDisk.html)|
 |[aws lightsail delete-disk-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-disk-snapshot.html)|[Remove-LSDiskSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDiskSnapshot.html)|
 |[aws lightsail delete-distribution](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-distribution.html)|[Remove-LSDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSDistribution.html)|
@@ -71,6 +76,13 @@ date: 2020-09-08
 |[aws lightsail get-certificates](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-certificates.html)|[Get-LSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCertificate.html)|
 |[aws lightsail get-cloud-formation-stack-records](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-cloud-formation-stack-records.html)|[Get-LSCloudFormationStackRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCloudFormationStackRecord.html)|
 |[aws lightsail get-contact-methods](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-contact-methods.html)|[Get-LSContactMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContactMethod.html)|
+|[aws lightsail get-container-api-metadata](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-api-metadata.html)|[Get-LSContainerAPIMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerAPIMetadata.html)|
+|[aws lightsail get-container-images](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-images.html)|[Get-LSContainerImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerImage.html)|
+|[aws lightsail get-container-log](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-log.html)|[Get-LSContainerLog](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerLog.html)|
+|[aws lightsail get-container-service-deployments](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-service-deployments.html)|[Get-LSContainerServiceDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerServiceDeployment.html)|
+|[aws lightsail get-container-service-metric-data](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-service-metric-data.html)|[Get-LSContainerServiceMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerServiceMetricData.html)|
+|[aws lightsail get-container-service-powers](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-service-powers.html)|[Get-LSContainerServicePower](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerServicePower.html)|
+|[aws lightsail get-container-services](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-services.html)|[Get-LSContainerService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerService.html)|
 |[aws lightsail get-disk](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk.html)|[Get-LSDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDisk.html)|
 |[aws lightsail get-disk-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk-snapshot.html)|[Get-LSDiskSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskSnapshot.html)|
 |[aws lightsail get-disk-snapshots](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk-snapshots.html)|[Get-LSDiskSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskSnapshotList.html)|
@@ -118,10 +130,12 @@ date: 2020-09-08
 |[aws lightsail is-vpc-peered](https://docs.aws.amazon.com/cli/latest/reference/lightsail/is-vpc-peered.html)|[Test-LSVpcPeered](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-LSVpcPeered.html)|
 |[aws lightsail open-instance-public-ports](https://docs.aws.amazon.com/cli/latest/reference/lightsail/open-instance-public-ports.html)|[Open-LSInstancePublicPort](https://docs.aws.amazon.com/powershell/latest/reference/items/Open-LSInstancePublicPort.html)|
 |[aws lightsail peer-vpc](https://docs.aws.amazon.com/cli/latest/reference/lightsail/peer-vpc.html)|[Add-LSPeerVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSPeerVpc.html)|
+|[aws lightsail push-container-image](https://docs.aws.amazon.com/cli/latest/reference/lightsail/push-container-image.html)||
 |[aws lightsail put-alarm](https://docs.aws.amazon.com/cli/latest/reference/lightsail/put-alarm.html)|[Add-LSAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSAlarm.html)|
 |[aws lightsail put-instance-public-ports](https://docs.aws.amazon.com/cli/latest/reference/lightsail/put-instance-public-ports.html)|[Set-LSInstancePublicPort](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSInstancePublicPort.html)|
 |[aws lightsail reboot-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/reboot-instance.html)|[Restart-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-LSInstance.html)|
 |[aws lightsail reboot-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/reboot-relational-database.html)|[Restart-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-LSRelationalDatabase.html)|
+|[aws lightsail register-container-image](https://docs.aws.amazon.com/cli/latest/reference/lightsail/register-container-image.html)|[Register-LSContainerImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-LSContainerImage.html)|
 |[aws lightsail release-static-ip](https://docs.aws.amazon.com/cli/latest/reference/lightsail/release-static-ip.html)|[Remove-LSStaticIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSStaticIp.html)|
 |[aws lightsail reset-distribution-cache](https://docs.aws.amazon.com/cli/latest/reference/lightsail/reset-distribution-cache.html)|[Reset-LSDistributionCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-LSDistributionCache.html)|
 |[aws lightsail send-contact-method-verification](https://docs.aws.amazon.com/cli/latest/reference/lightsail/send-contact-method-verification.html)|[Send-LSContactMethodVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LSContactMethodVerification.html)|
@@ -133,6 +147,7 @@ date: 2020-09-08
 |[aws lightsail test-alarm](https://docs.aws.amazon.com/cli/latest/reference/lightsail/test-alarm.html)|[Test-LSAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-LSAlarm.html)|
 |[aws lightsail unpeer-vpc](https://docs.aws.amazon.com/cli/latest/reference/lightsail/unpeer-vpc.html)|[Remove-LSPeerVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSPeerVpc.html)|
 |[aws lightsail untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lightsail/untag-resource.html)|[Remove-LSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSResourceTag.html)|
+|[aws lightsail update-container-service](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-container-service.html)|[Update-LSContainerService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSContainerService.html)|
 |[aws lightsail update-distribution](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-distribution.html)|[Update-LSDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDistribution.html)|
 |[aws lightsail update-distribution-bundle](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-distribution-bundle.html)|[Update-LSDistributionBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDistributionBundle.html)|
 |[aws lightsail update-domain-entry](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-domain-entry.html)|[Update-LSDomainEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDomainEntry.html)|

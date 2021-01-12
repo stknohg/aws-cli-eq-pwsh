@@ -1,6 +1,6 @@
 ---
 title: mediaconnect
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## mediaconnect
@@ -18,10 +18,15 @@ date: 2020-09-08
 |[aws mediaconnect create-flow](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/create-flow.html)|[New-EMCNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCNFlow.html)|
 |[aws mediaconnect delete-flow](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/delete-flow.html)|[Remove-EMCNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlow.html)|
 |[aws mediaconnect describe-flow](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/describe-flow.html)|[Get-EMCNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNFlow.html)|
+|[aws mediaconnect describe-offering](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/describe-offering.html)|[Get-EMCNOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNOffering.html)|
+|[aws mediaconnect describe-reservation](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/describe-reservation.html)|[Get-EMCNReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNReservation.html)|
 |[aws mediaconnect grant-flow-entitlements](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/grant-flow-entitlements.html)|[Grant-EMCNFlowEntitlement](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-EMCNFlowEntitlement.html)|
 |[aws mediaconnect list-entitlements](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-entitlements.html)|[Get-EMCNEntitlementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNEntitlementList.html)|
 |[aws mediaconnect list-flows](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-flows.html)|[Get-EMCNFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNFlowList.html)|
+|[aws mediaconnect list-offerings](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-offerings.html)|[Get-EMCNOfferingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNOfferingList.html)|
+|[aws mediaconnect list-reservations](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-reservations.html)|[Get-EMCNReservationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNReservationList.html)|
 |[aws mediaconnect list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-tags-for-resource.html)|[Get-EMCNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNResourceTag.html)|
+|[aws mediaconnect purchase-offering](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/purchase-offering.html)|[New-EMCNOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCNOffering.html)|
 |[aws mediaconnect remove-flow-output](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-output.html)|[Remove-EMCNFlowOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowOutput.html)|
 |[aws mediaconnect remove-flow-source](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-source.html)|[Remove-EMCNFlowSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowSource.html)|
 |[aws mediaconnect remove-flow-vpc-interface](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-vpc-interface.html)|[Remove-EMCNFlowVpcInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowVpcInterface.html)|

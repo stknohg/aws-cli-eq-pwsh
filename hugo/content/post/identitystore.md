@@ -1,6 +1,6 @@
 ---
 title: identitystore
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## identitystore
@@ -8,12 +8,12 @@ date: 2020-09-08
 ### [AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/identitystore/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/IdentityStore_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws identitystore describe-group](https://docs.aws.amazon.com/cli/latest/reference/identitystore/describe-group.html)||
-|[aws identitystore describe-user](https://docs.aws.amazon.com/cli/latest/reference/identitystore/describe-user.html)||
-|[aws identitystore list-groups](https://docs.aws.amazon.com/cli/latest/reference/identitystore/list-groups.html)||
-|[aws identitystore list-users](https://docs.aws.amazon.com/cli/latest/reference/identitystore/list-users.html)||
+|[aws identitystore describe-group](https://docs.aws.amazon.com/cli/latest/reference/identitystore/describe-group.html)|[Get-IDSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroup.html)|
+|[aws identitystore describe-user](https://docs.aws.amazon.com/cli/latest/reference/identitystore/describe-user.html)|[Get-IDSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSUser.html)|
+|[aws identitystore list-groups](https://docs.aws.amazon.com/cli/latest/reference/identitystore/list-groups.html)|[Find-IDSGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-IDSGroupList.html)|
+|[aws identitystore list-users](https://docs.aws.amazon.com/cli/latest/reference/identitystore/list-users.html)|[Find-IDSUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-IDSUserList.html)|
 

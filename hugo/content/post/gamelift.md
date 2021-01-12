@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## gamelift
@@ -49,7 +49,7 @@ date: 2020-09-08
 |[aws gamelift describe-fleet-utilization](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-fleet-utilization.html)|[Get-GMLFleetUtilization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetUtilization.html)|
 |[aws gamelift describe-game-server](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-server.html)|[Get-GMLGameServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameServer.html)|
 |[aws gamelift describe-game-server-group](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-server-group.html)|[Get-GMLGameServerGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameServerGroup.html)|
-|[aws gamelift describe-game-server-instances](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-server-instances.html)||
+|[aws gamelift describe-game-server-instances](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-server-instances.html)|[Get-GMLGameServerInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameServerInstance.html)|
 |[aws gamelift describe-game-session-details](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-session-details.html)|[Get-GMLGameSessionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionDetail.html)|
 |[aws gamelift describe-game-session-placement](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-session-placement.html)|[Get-GMLGameSessionPlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionPlacement.html)|
 |[aws gamelift describe-game-session-queues](https://docs.aws.amazon.com/cli/latest/reference/gamelift/describe-game-session-queues.html)|[Get-GMLGameSessionQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionQueue.html)|

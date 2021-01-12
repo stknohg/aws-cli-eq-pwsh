@@ -1,6 +1,6 @@
 ---
 title: cloudhsmv2
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## cloudhsmv2
@@ -22,6 +22,8 @@ date: 2020-09-08
 |[aws cloudhsmv2 describe-clusters](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/describe-clusters.html)|[Get-HSM2Cluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HSM2Cluster.html)|
 |[aws cloudhsmv2 initialize-cluster](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/initialize-cluster.html)|[Initialize-HSM2Cluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-HSM2Cluster.html)|
 |[aws cloudhsmv2 list-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/list-tags.html)|[Get-HSM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HSM2ResourceTag.html)|
+|[aws cloudhsmv2 modify-backup-attributes](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/modify-backup-attributes.html)|[Edit-HSM2BackupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-HSM2BackupAttribute.html)|
+|[aws cloudhsmv2 modify-cluster](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/modify-cluster.html)|[Edit-HSM2Cluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-HSM2Cluster.html)|
 |[aws cloudhsmv2 restore-backup](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/restore-backup.html)|[Restore-HSM2Backup](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-HSM2Backup.html)|
 |[aws cloudhsmv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/tag-resource.html)|[Add-HSM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-HSM2ResourceTag.html)|
 |[aws cloudhsmv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudhsmv2/untag-resource.html)|[Remove-HSM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-HSM2ResourceTag.html)|

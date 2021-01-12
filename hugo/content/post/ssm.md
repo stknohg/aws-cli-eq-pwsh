@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## ssm
@@ -21,6 +21,7 @@ date: 2020-09-08
 |[aws ssm create-document](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-document.html)|[New-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMDocument.html)|
 |[aws ssm create-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-maintenance-window.html)|[New-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMMaintenanceWindow.html)|
 |[aws ssm create-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-ops-item.html)|[New-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMOpsItem.html)|
+|[aws ssm create-ops-metadata](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-ops-metadata.html)|[New-SSMOpsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMOpsMetadata.html)|
 |[aws ssm create-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-patch-baseline.html)|[New-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMPatchBaseline.html)|
 |[aws ssm create-resource-data-sync](https://docs.aws.amazon.com/cli/latest/reference/ssm/create-resource-data-sync.html)|[New-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMResourceDataSync.html)|
 |[aws ssm delete-activation](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-activation.html)|[Remove-SSMActivation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMActivation.html)|
@@ -28,6 +29,7 @@ date: 2020-09-08
 |[aws ssm delete-document](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-document.html)|[Remove-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMDocument.html)|
 |[aws ssm delete-inventory](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-inventory.html)|[Remove-SSMInventory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMInventory.html)|
 |[aws ssm delete-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-maintenance-window.html)|[Remove-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMMaintenanceWindow.html)|
+|[aws ssm delete-ops-metadata](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-ops-metadata.html)|[Remove-SSMOpsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMOpsMetadata.html)|
 |[aws ssm delete-parameter](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-parameter.html)|[Remove-SSMParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMParameter.html)|
 |[aws ssm delete-parameters](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-parameters.html)|[Remove-SSMParameterCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMParameterCollection.html)|
 |[aws ssm delete-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-patch-baseline.html)|[Remove-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMPatchBaseline.html)|
@@ -83,6 +85,7 @@ date: 2020-09-08
 |[aws ssm get-maintenance-window-execution-task-invocation](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-maintenance-window-execution-task-invocation.html)|[Get-SSMMaintenanceWindowExecutionTaskInvocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowExecutionTaskInvocation.html)|
 |[aws ssm get-maintenance-window-task](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-maintenance-window-task.html)|[Get-SSMMaintenanceWindowTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowTask.html)|
 |[aws ssm get-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-item.html)|[Get-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsItem.html)|
+|[aws ssm get-ops-metadata](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-metadata.html)|[Get-SSMOpsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsMetadata.html)|
 |[aws ssm get-ops-summary](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-ops-summary.html)|[Get-SSMOpsSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsSummary.html)|
 |[aws ssm get-parameter](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-parameter.html)|[Get-SSMParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParameter.html)|
 |[aws ssm get-parameter-history](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-parameter-history.html)|[Get-SSMParameterHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParameterHistory.html)|
@@ -98,9 +101,12 @@ date: 2020-09-08
 |[aws ssm list-commands](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-commands.html)|[Get-SSMCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommand.html)|
 |[aws ssm list-compliance-items](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-compliance-items.html)|[Get-SSMComplianceItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMComplianceItemList.html)|
 |[aws ssm list-compliance-summaries](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-compliance-summaries.html)|[Get-SSMComplianceSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMComplianceSummaryList.html)|
+|[aws ssm list-document-metadata-history](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-document-metadata-history.html)|[Get-SSMDocumentMetadataHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDocumentMetadataHistory.html)|
 |[aws ssm list-document-versions](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-document-versions.html)|[Get-SSMDocumentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDocumentVersionList.html)|
 |[aws ssm list-documents](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-documents.html)|[Get-SSMDocumentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDocumentList.html)|
 |[aws ssm list-inventory-entries](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-inventory-entries.html)|[Get-SSMInventoryEntryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInventoryEntryList.html)|
+|[aws ssm list-ops-item-events](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-ops-item-events.html)|[Get-SSMOpsItemEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsItemEvent.html)|
+|[aws ssm list-ops-metadata](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-ops-metadata.html)|[Get-SSMOpsMetadataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsMetadataList.html)|
 |[aws ssm list-resource-compliance-summaries](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-resource-compliance-summaries.html)|[Get-SSMResourceComplianceSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMResourceComplianceSummaryList.html)|
 |[aws ssm list-resource-data-sync](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-resource-data-sync.html)|[Get-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMResourceDataSync.html)|
 |[aws ssm list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-tags-for-resource.html)|[Get-SSMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMResourceTag.html)|
@@ -119,6 +125,7 @@ date: 2020-09-08
 |[aws ssm send-command](https://docs.aws.amazon.com/cli/latest/reference/ssm/send-command.html)|[Send-SSMCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SSMCommand.html)|
 |[aws ssm start-associations-once](https://docs.aws.amazon.com/cli/latest/reference/ssm/start-associations-once.html)|[Start-SSMAssociationsOnce](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAssociationsOnce.html)|
 |[aws ssm start-automation-execution](https://docs.aws.amazon.com/cli/latest/reference/ssm/start-automation-execution.html)|[Start-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAutomationExecution.html)|
+|[aws ssm start-change-request-execution](https://docs.aws.amazon.com/cli/latest/reference/ssm/start-change-request-execution.html)|[Start-SSMChangeRequestExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMChangeRequestExecution.html)|
 |[aws ssm start-session](https://docs.aws.amazon.com/cli/latest/reference/ssm/start-session.html)|[Start-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMSession.html)|
 |[aws ssm stop-automation-execution](https://docs.aws.amazon.com/cli/latest/reference/ssm/stop-automation-execution.html)|[Stop-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SSMAutomationExecution.html)|
 |[aws ssm terminate-session](https://docs.aws.amazon.com/cli/latest/reference/ssm/terminate-session.html)|[Stop-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SSMSession.html)|
@@ -126,11 +133,13 @@ date: 2020-09-08
 |[aws ssm update-association-status](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-association-status.html)|[Update-SSMAssociationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMAssociationStatus.html)|
 |[aws ssm update-document](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-document.html)|[Update-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocument.html)|
 |[aws ssm update-document-default-version](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-document-default-version.html)|[Update-SSMDocumentDefaultVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocumentDefaultVersion.html)|
+|[aws ssm update-document-metadata](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-document-metadata.html)|[Update-SSMDocumentMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocumentMetadata.html)|
 |[aws ssm update-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-maintenance-window.html)|[Update-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMMaintenanceWindow.html)|
 |[aws ssm update-maintenance-window-target](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-maintenance-window-target.html)|[Update-SSMMaintenanceWindowTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMMaintenanceWindowTarget.html)|
 |[aws ssm update-maintenance-window-task](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-maintenance-window-task.html)|[Update-SSMMaintenanceWindowTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMMaintenanceWindowTask.html)|
 |[aws ssm update-managed-instance-role](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-managed-instance-role.html)|[Update-SSMManagedInstanceRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMManagedInstanceRole.html)|
 |[aws ssm update-ops-item](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-ops-item.html)|[Update-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMOpsItem.html)|
+|[aws ssm update-ops-metadata](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-ops-metadata.html)|[Update-SSMOpsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMOpsMetadata.html)|
 |[aws ssm update-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-patch-baseline.html)|[Update-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMPatchBaseline.html)|
 |[aws ssm update-resource-data-sync](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-resource-data-sync.html)|[Update-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMResourceDataSync.html)|
 |[aws ssm update-service-setting](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-service-setting.html)|[Update-SSMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMServiceSetting.html)|

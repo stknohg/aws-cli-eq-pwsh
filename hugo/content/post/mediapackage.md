@@ -1,6 +1,6 @@
 ---
 title: mediapackage
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## mediapackage
@@ -12,6 +12,7 @@ date: 2020-09-08
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws mediapackage configure-logs](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/configure-logs.html)|[Update-EMPLogConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMPLogConfiguration.html)|
 |[aws mediapackage create-channel](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/create-channel.html)|[New-EMPChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPChannel.html)|
 |[aws mediapackage create-harvest-job](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/create-harvest-job.html)|[New-EMPHarvestJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPHarvestJob.html)|
 |[aws mediapackage create-origin-endpoint](https://docs.aws.amazon.com/cli/latest/reference/mediapackage/create-origin-endpoint.html)|[New-EMPOriginEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPOriginEndpoint.html)|

@@ -1,6 +1,6 @@
 ---
 title: codestar-connections
-date: 2020-09-08
+date: 2021-01-12
 ---
 
 ## codestar-connections
@@ -23,4 +23,5 @@ date: 2020-09-08
 |[aws codestar-connections list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/codestar-connections/list-tags-for-resource.html)|[Get-CSTCResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CSTCResourceTagList.html)|
 |[aws codestar-connections tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codestar-connections/tag-resource.html)|[Add-CSTCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CSTCResourceTag.html)|
 |[aws codestar-connections untag-resource](https://docs.aws.amazon.com/cli/latest/reference/codestar-connections/untag-resource.html)|[Remove-CSTCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CSTCResourceTag.html)|
+|[aws codestar-connections update-host](https://docs.aws.amazon.com/cli/latest/reference/codestar-connections/update-host.html)|[Update-CSTCHost](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CSTCHost.html)|
 

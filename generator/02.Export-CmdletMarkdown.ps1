@@ -1,4 +1,5 @@
-#Requires -Version 6.0
+#!/usr/bin/env pwsh
+#Requires -Version 7.0
 param ([string]$CliServiceName = '')
 
 Import-Module AWSPowerShell.NetCore
@@ -7,11 +8,11 @@ Import-Module AWSPowerShell.NetCore
 $cmdletVersion = Get-Module AWSPowerShell.NetCore | ForEach-Object { $_.Version.ToString() }
 
 # import service metadata
-. .\02.ServiceMetadata.ps1 
+. ./02.ServiceMetadata.ps1 
 
 # clear markdown directory
-Remove-Item -Path ".\markdown\*.md" -Force
-Remove-Item -Path ".\markdown\post\*.md" -Force
+Remove-Item -Path "./markdown/*.md" -Force
+Remove-Item -Path "./markdown/post/*.md" -Force
 
 # functions
 function Write-HostInfo () {
@@ -214,21 +215,21 @@ function Get-CLISubCommands {
 
 # export top page
 'Exporting top page...' | Write-HostInfo
-Export-TopPageMarkdown -CLIVersionMetadataPath '.\temp\_cli.version.cfg' -CLIMetadataPath '.\temp\_cli.metadata.cfg' | 
-    Out-File -FilePath ".\markdown\_index.md"
+Export-TopPageMarkdown -CLIVersionMetadataPath './temp/_cli.version.cfg' -CLIMetadataPath './temp/_cli.metadata.cfg' | 
+    Out-File -FilePath "./markdown/_index.md"
 
 # export each subcommands pages
 $query = '*.txt'
 if ($CliServiceName -ne '') {
     $query = "${CliServiceName}.txt"
 }
-Get-ChildItem ".\temp\$query" | ForEach-Object {
+Get-ChildItem "./temp/$query" | ForEach-Object {
     "Exporting $($_.BaseName)..." | Write-HostInfo
     $serviceName = $_.BaseName
     #
     $commands = Get-CLISubCommands -CommandFilePath ($_.FullName) -ServiceName $serviceName
     # output markdown
     Export-PostPageMarkdown -ServiceName $serviceName -Commands $commands |
-        Out-File -FilePath ".\markdown\post\$($_.BaseName).md"
+        Out-File -FilePath "./markdown/post/$($_.BaseName).md"
 }
 

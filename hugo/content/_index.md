@@ -18,7 +18,7 @@ This site is created by automatic generation.
 For that reason, some content may not be accurate.
 {{< /alert >}}
 
-|Service|CLI sub command|PowerShell prefix|Notes|
+|Service|CLI command|PowerShell prefix|Notes|
 |----|----|:--:|----|
 |[AWS IAM Access Analyzer](https://aws.amazon.com/iam/)|[accessanalyzer]({{%relref "post/accessanalyzer.md" %}})|IAMAA||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||

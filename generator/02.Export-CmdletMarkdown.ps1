@@ -53,7 +53,7 @@ function Export-TopPageMarkdown {
         "For that reason, some content may not be accurate."
         "{{< /alert >}}"
         ""
-        "|Service|CLI sub command|PowerShell prefix|Notes|"
+        "|Service|CLI command|PowerShell prefix|Notes|"
         "|----|----|:--:|----|"
         foreach ($command in $(Get-Content -LiteralPath $CLIMetadataPath -Encoding ascii)) {
             $metadata = $g_AWSServices[$command]

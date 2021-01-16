@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2021-01-12
+date: 2021-01-16
 ---
 
 ## lightsail
@@ -139,6 +139,7 @@ date: 2021-01-12
 |[aws lightsail release-static-ip](https://docs.aws.amazon.com/cli/latest/reference/lightsail/release-static-ip.html)|[Remove-LSStaticIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSStaticIp.html)|
 |[aws lightsail reset-distribution-cache](https://docs.aws.amazon.com/cli/latest/reference/lightsail/reset-distribution-cache.html)|[Reset-LSDistributionCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-LSDistributionCache.html)|
 |[aws lightsail send-contact-method-verification](https://docs.aws.amazon.com/cli/latest/reference/lightsail/send-contact-method-verification.html)|[Send-LSContactMethodVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LSContactMethodVerification.html)|
+|[aws lightsail set-ip-address-type](https://docs.aws.amazon.com/cli/latest/reference/lightsail/set-ip-address-type.html)||
 |[aws lightsail start-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-instance.html)|[Start-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSInstance.html)|
 |[aws lightsail start-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-relational-database.html)|[Start-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSRelationalDatabase.html)|
 |[aws lightsail stop-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-instance.html)|[Stop-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSInstance.html)|

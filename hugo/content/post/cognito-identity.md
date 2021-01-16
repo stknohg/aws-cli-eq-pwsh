@@ -1,6 +1,6 @@
 ---
 title: cognito-identity
-date: 2021-01-12
+date: 2021-01-16
 ---
 
 ## cognito-identity
@@ -22,12 +22,14 @@ date: 2021-01-12
 |[aws cognito-identity get-identity-pool-roles](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-identity-pool-roles.html)|[Get-CGIIdentityPoolRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIIdentityPoolRole.html)|
 |[aws cognito-identity get-open-id-token](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-open-id-token.html)||
 |[aws cognito-identity get-open-id-token-for-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-open-id-token-for-developer-identity.html)||
+|[aws cognito-identity get-principal-tag-attribute-map](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/get-principal-tag-attribute-map.html)||
 |[aws cognito-identity list-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-identities.html)||
 |[aws cognito-identity list-identity-pools](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-identity-pools.html)|[Get-CGIIdentityPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIIdentityPoolList.html)|
 |[aws cognito-identity list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/list-tags-for-resource.html)|[Get-CGIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIResourceTag.html)|
 |[aws cognito-identity lookup-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/lookup-developer-identity.html)||
 |[aws cognito-identity merge-developer-identities](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/merge-developer-identities.html)||
 |[aws cognito-identity set-identity-pool-roles](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/set-identity-pool-roles.html)|[Set-CGIIdentityPoolRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIIdentityPoolRole.html)|
+|[aws cognito-identity set-principal-tag-attribute-map](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/set-principal-tag-attribute-map.html)||
 |[aws cognito-identity tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/tag-resource.html)|[Add-CGIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CGIResourceTag.html)|
 |[aws cognito-identity unlink-developer-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/unlink-developer-identity.html)||
 |[aws cognito-identity unlink-identity](https://docs.aws.amazon.com/cli/latest/reference/cognito-identity/unlink-identity.html)||

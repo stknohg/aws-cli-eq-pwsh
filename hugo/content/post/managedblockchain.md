@@ -1,6 +1,6 @@
 ---
 title: managedblockchain
-date: 2021-01-21
+date: 2021-01-29
 ---
 
 ## managedblockchain
@@ -28,7 +28,10 @@ date: 2021-01-21
 |[aws managedblockchain list-nodes](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-nodes.html)|[Get-MBCNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCNodeList.html)|
 |[aws managedblockchain list-proposal-votes](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-proposal-votes.html)|[Get-MBCProposalVoteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCProposalVoteList.html)|
 |[aws managedblockchain list-proposals](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-proposals.html)|[Get-MBCProposalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCProposalList.html)|
+|[aws managedblockchain list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-tags-for-resource.html)||
 |[aws managedblockchain reject-invitation](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/reject-invitation.html)|[Deny-MBCInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-MBCInvitation.html)|
+|[aws managedblockchain tag-resource](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/tag-resource.html)||
+|[aws managedblockchain untag-resource](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/untag-resource.html)||
 |[aws managedblockchain update-member](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/update-member.html)|[Update-MBCMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MBCMember.html)|
 |[aws managedblockchain update-node](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/update-node.html)|[Update-MBCNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MBCNode.html)|
 |[aws managedblockchain vote-on-proposal](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/vote-on-proposal.html)|[Send-MBCProposalVote](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-MBCProposalVote.html)|

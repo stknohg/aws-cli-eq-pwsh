@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2021-01-21
+date: 2021-01-29
 ---
 
 ## kafka
@@ -37,6 +37,7 @@ date: 2021-01-21
 |[aws kafka untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kafka/untag-resource.html)|[Remove-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKResourceTag.html)|
 |[aws kafka update-broker-count](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-count.html)|[Update-MSKBrokerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerCount.html)|
 |[aws kafka update-broker-storage](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-storage.html)|[Update-MSKBrokerStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerStorage.html)|
+|[aws kafka update-broker-type](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-broker-type.html)||
 |[aws kafka update-cluster-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-configuration.html)|[Update-MSKClusterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterConfiguration.html)|
 |[aws kafka update-cluster-kafka-version](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-kafka-version.html)|[Update-MSKClusterKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterKafkaVersion.html)|
 |[aws kafka update-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-configuration.html)|[Update-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConfiguration.html)|

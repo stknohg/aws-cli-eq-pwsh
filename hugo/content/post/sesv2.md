@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2021-01-21
+date: 2021-01-29
 ---
 
 ## sesv2
@@ -75,6 +75,7 @@ date: 2021-01-21
 |[aws sesv2 put-dedicated-ip-in-pool](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-in-pool.html)|[Write-SES2DedicatedIpInPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpInPool.html)|
 |[aws sesv2 put-dedicated-ip-warmup-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-warmup-attributes.html)|[Write-SES2DedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpWarmupAttribute.html)|
 |[aws sesv2 put-deliverability-dashboard-option](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-deliverability-dashboard-option.html)|[Write-SES2DeliverabilityDashboardOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DeliverabilityDashboardOption.html)|
+|[aws sesv2 put-email-identity-configuration-set-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-email-identity-configuration-set-attributes.html)||
 |[aws sesv2 put-email-identity-dkim-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-email-identity-dkim-attributes.html)|[Write-SES2EmailIdentityDkimAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2EmailIdentityDkimAttribute.html)|
 |[aws sesv2 put-email-identity-dkim-signing-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-email-identity-dkim-signing-attributes.html)|[Write-SES2EmailIdentityDkimSigningAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2EmailIdentityDkimSigningAttribute.html)|
 |[aws sesv2 put-email-identity-feedback-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-email-identity-feedback-attributes.html)|[Write-SES2EmailIdentityFeedbackAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2EmailIdentityFeedbackAttribute.html)|

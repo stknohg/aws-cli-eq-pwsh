@@ -1,13 +1,13 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-01-21
+date: 2021-01-29
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.1.20 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.1.22 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.7.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
@@ -168,6 +168,8 @@ For that reason, some content may not be accurate.
 |[AWS Lambda](https://aws.amazon.com/lambda/)|[lambda]({{%relref "post/lambda.md" %}})|LM||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-models]({{%relref "post/lex-models.md" %}})|LMB||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||
+|[Amazon Lex](https://aws.amazon.com/lex/)|[lexv2-models]({{%relref "post/lexv2-models.md" %}})|||
+|[Amazon Lex](https://aws.amazon.com/lex/)|[lexv2-runtime]({{%relref "post/lexv2-runtime.md" %}})|||
 |[AWS License Manager](https://aws.amazon.com/license-manager/)|[license-manager]({{%relref "post/license-manager.md" %}})|LICM||
 |[Amazon Lightsail](https://aws.amazon.com/lightsail/)|[lightsail]({{%relref "post/lightsail.md" %}})|LS||
 |[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||

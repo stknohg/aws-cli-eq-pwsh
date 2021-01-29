@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-archived-media
-date: 2021-01-21
+date: 2021-01-29
 ---
 
 ## kinesis-video-archived-media

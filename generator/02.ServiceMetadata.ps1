@@ -249,6 +249,8 @@ $g_AWSServices = @{
     'lambda'                       = [PSCustomObject]@{ Prefix = 'LM'; Name = 'AWS Lambda'; Url = 'https://aws.amazon.com/lambda/'; Note = '' };
     'lex-models'                   = [PSCustomObject]@{ Prefix = 'LMB'; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
     'lex-runtime'                  = [PSCustomObject]@{ Prefix = 'LEX'; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
+    'lexv2-models'                 = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
+    'lexv2-runtime'                = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Lex'; Url = 'https://aws.amazon.com/lex/'; Note = '' };
     'license-manager'              = [PSCustomObject]@{ Prefix = 'LICM'; Name = 'AWS License Manager'; Url = 'https://aws.amazon.com/license-manager/'; Note = '' };
     'lightsail'                    = [PSCustomObject]@{ Prefix = 'LS'; Name = 'Amazon Lightsail'; Url = 'https://aws.amazon.com/lightsail/'; Note = '' };
     'location'                     = [PSCustomObject]@{ Prefix = 'LOC'; Name = 'Amazon Location'; Url = 'https://aws.amazon.com/location/'; Note = '' };
@@ -510,6 +512,8 @@ $g_CmdletReferenceLinks = @{
     'lambda'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Lambda_cmdlets.html';
     'lex-models'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lex_Model_Building_Service_cmdlets.html';
     'lex-runtime'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lex_cmdlets.html';
+    'lexv2-models'                 = '';
+    'lexv2-runtime'                = '';
     'license-manager'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_License_Manager_cmdlets.html';
     'lightsail'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lightsail_cmdlets.html';
     'location'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LocationService_cmdlets.html';

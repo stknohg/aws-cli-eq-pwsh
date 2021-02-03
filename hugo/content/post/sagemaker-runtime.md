@@ -1,6 +1,6 @@
 ---
 title: sagemaker-runtime
-date: 2021-01-29
+date: 2021-02-03
 ---
 
 ## sagemaker-runtime

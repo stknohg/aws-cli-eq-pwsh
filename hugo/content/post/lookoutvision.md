@@ -1,6 +1,6 @@
 ---
 title: lookoutvision
-date: 2021-01-29
+date: 2021-02-03
 ---
 
 ## lookoutvision
@@ -25,7 +25,10 @@ date: 2021-01-29
 |[aws lookoutvision list-dataset-entries](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/list-dataset-entries.html)|[Get-LFVDatasetEntryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LFVDatasetEntryList.html)|
 |[aws lookoutvision list-models](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/list-models.html)|[Get-LFVModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LFVModelList.html)|
 |[aws lookoutvision list-projects](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/list-projects.html)|[Get-LFVProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LFVProjectList.html)|
+|[aws lookoutvision list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/list-tags-for-resource.html)|[Get-LFVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LFVResourceTag.html)|
 |[aws lookoutvision start-model](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/start-model.html)|[Start-LFVModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LFVModel.html)|
 |[aws lookoutvision stop-model](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/stop-model.html)|[Stop-LFVModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LFVModel.html)|
+|[aws lookoutvision tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/tag-resource.html)|[Add-LFVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LFVResourceTag.html)|
+|[aws lookoutvision untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/untag-resource.html)|[Remove-LFVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LFVResourceTag.html)|
 |[aws lookoutvision update-dataset-entries](https://docs.aws.amazon.com/cli/latest/reference/lookoutvision/update-dataset-entries.html)|[Update-LFVDatasetEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LFVDatasetEntry.html)|
 

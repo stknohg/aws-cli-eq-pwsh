@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2021-01-29
+date: 2021-02-03
 ---
 
 ## cognito-idp

@@ -1,6 +1,6 @@
 ---
 title: workmailmessageflow
-date: 2021-02-03
+date: 2021-02-18
 ---
 
 ## workmailmessageflow
@@ -13,4 +13,5 @@ date: 2021-02-03
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws workmailmessageflow get-raw-message-content](https://docs.aws.amazon.com/cli/latest/reference/workmailmessageflow/get-raw-message-content.html)|[Get-WMMFRawMessageContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMFRawMessageContent.html)|
+|[aws workmailmessageflow put-raw-message-content](https://docs.aws.amazon.com/cli/latest/reference/workmailmessageflow/put-raw-message-content.html)||
 

@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2021-02-03
+date: 2021-02-18
 ---
 
 ## macie2
@@ -30,10 +30,12 @@ date: 2021-02-03
 |[aws macie2 describe-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/describe-organization-configuration.html)|[Get-MAC2OrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2OrganizationConfiguration.html)|
 |[aws macie2 disable-macie](https://docs.aws.amazon.com/cli/latest/reference/macie2/disable-macie.html)|[Disable-MAC2Macie](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-MAC2Macie.html)|
 |[aws macie2 disable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/disable-organization-admin-account.html)|[Disable-MAC2OrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-MAC2OrganizationAdminAccount.html)|
+|[aws macie2 disassociate-from-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/disassociate-from-administrator-account.html)||
 |[aws macie2 disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/disassociate-from-master-account.html)|[Unregister-MAC2FromMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-MAC2FromMasterAccount.html)|
 |[aws macie2 disassociate-member](https://docs.aws.amazon.com/cli/latest/reference/macie2/disassociate-member.html)|[Unregister-MAC2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-MAC2Member.html)|
 |[aws macie2 enable-macie](https://docs.aws.amazon.com/cli/latest/reference/macie2/enable-macie.html)|[Enable-MAC2Macie](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-MAC2Macie.html)|
 |[aws macie2 enable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/enable-organization-admin-account.html)|[Enable-MAC2OrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-MAC2OrganizationAdminAccount.html)|
+|[aws macie2 get-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-administrator-account.html)||
 |[aws macie2 get-bucket-statistics](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-bucket-statistics.html)|[Get-MAC2BucketStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2BucketStatistic.html)|
 |[aws macie2 get-classification-export-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-classification-export-configuration.html)|[Get-MAC2ClassificationExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ClassificationExportConfiguration.html)|
 |[aws macie2 get-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-custom-data-identifier.html)|[Get-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2CustomDataIdentifier.html)|

@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-02-03
+date: 2021-02-18
 ---
 
 ## ec2
@@ -175,6 +175,7 @@ date: 2021-02-03
 |[aws ec2 deregister-transit-gateway-multicast-group-sources](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-transit-gateway-multicast-group-sources.html)|[Unregister-EC2TransitGatewayMulticastGroupSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastGroupSource.html)|
 |[aws ec2 describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-account-attributes.html)|[Get-EC2AccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AccountAttribute.html)|
 |[aws ec2 describe-addresses](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-addresses.html)|[Get-EC2Address](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Address.html)|
+|[aws ec2 describe-addresses-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-addresses-attribute.html)||
 |[aws ec2 describe-aggregate-id-format](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-aggregate-id-format.html)|[Get-EC2AggregateIdFormat](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AggregateIdFormat.html)|
 |[aws ec2 describe-availability-zones](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-availability-zones.html)|[Get-EC2AvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AvailabilityZone.html)|
 |[aws ec2 describe-bundle-tasks](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-bundle-tasks.html)|[Get-EC2BundleTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2BundleTask.html)|
@@ -348,6 +349,7 @@ date: 2021-02-03
 |[aws ec2 import-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-image.html)|[Import-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Image.html)|
 |[aws ec2 import-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-key-pair.html)|[Import-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2KeyPair.html)|
 |[aws ec2 import-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-snapshot.html)|[Import-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Snapshot.html)|
+|[aws ec2 modify-address-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-address-attribute.html)||
 |[aws ec2 modify-availability-zone-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-availability-zone-group.html)|[Edit-EC2AvailabilityZoneGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AvailabilityZoneGroup.html)|
 |[aws ec2 modify-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-capacity-reservation.html)|[Edit-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2CapacityReservation.html)|
 |[aws ec2 modify-client-vpn-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-client-vpn-endpoint.html)|[Edit-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ClientVpnEndpoint.html)|
@@ -418,6 +420,7 @@ date: 2021-02-03
 |[aws ec2 report-instance-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/report-instance-status.html)|[Send-EC2InstanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2InstanceStatus.html)|
 |[aws ec2 request-spot-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-fleet.html)|[Request-EC2SpotFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-EC2SpotFleet.html)|
 |[aws ec2 request-spot-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-instances.html)|[Request-EC2SpotInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-EC2SpotInstance.html)|
+|[aws ec2 reset-address-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-address-attribute.html)||
 |[aws ec2 reset-ebs-default-kms-key-id](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-ebs-default-kms-key-id.html)|[Reset-EC2EbsDefaultKmsKeyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2EbsDefaultKmsKeyId.html)|
 |[aws ec2 reset-fpga-image-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-fpga-image-attribute.html)|[Reset-EC2FpgaImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2FpgaImageAttribute.html)|
 |[aws ec2 reset-image-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-image-attribute.html)|[Reset-EC2ImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2ImageAttribute.html)|

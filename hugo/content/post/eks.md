@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2021-02-03
+date: 2021-02-18
 ---
 
 ## eks
@@ -12,6 +12,7 @@ date: 2021-02-03
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws eks associate-identity-provider-config](https://docs.aws.amazon.com/cli/latest/reference/eks/associate-identity-provider-config.html)||
 |[aws eks create-addon](https://docs.aws.amazon.com/cli/latest/reference/eks/create-addon.html)|[New-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSAddon.html)|
 |[aws eks create-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/create-cluster.html)|[New-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSCluster.html)|
 |[aws eks create-fargate-profile](https://docs.aws.amazon.com/cli/latest/reference/eks/create-fargate-profile.html)|[New-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSFargateProfile.html)|
@@ -24,12 +25,15 @@ date: 2021-02-03
 |[aws eks describe-addon-versions](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-addon-versions.html)|[Get-EKSAddonVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonVersion.html)|
 |[aws eks describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-cluster.html)|[Get-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCluster.html)|
 |[aws eks describe-fargate-profile](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-fargate-profile.html)|[Get-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfile.html)|
+|[aws eks describe-identity-provider-config](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-identity-provider-config.html)||
 |[aws eks describe-nodegroup](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-nodegroup.html)|[Get-EKSNodegroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSNodegroup.html)|
 |[aws eks describe-update](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-update.html)|[Get-EKSUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdate.html)|
+|[aws eks disassociate-identity-provider-config](https://docs.aws.amazon.com/cli/latest/reference/eks/disassociate-identity-provider-config.html)||
 |[aws eks get-token](https://docs.aws.amazon.com/cli/latest/reference/eks/get-token.html)||
 |[aws eks list-addons](https://docs.aws.amazon.com/cli/latest/reference/eks/list-addons.html)|[Get-EKSAddonList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonList.html)|
 |[aws eks list-clusters](https://docs.aws.amazon.com/cli/latest/reference/eks/list-clusters.html)|[Get-EKSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSClusterList.html)|
 |[aws eks list-fargate-profiles](https://docs.aws.amazon.com/cli/latest/reference/eks/list-fargate-profiles.html)|[Get-EKSFargateProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfileList.html)|
+|[aws eks list-identity-provider-configs](https://docs.aws.amazon.com/cli/latest/reference/eks/list-identity-provider-configs.html)||
 |[aws eks list-nodegroups](https://docs.aws.amazon.com/cli/latest/reference/eks/list-nodegroups.html)|[Get-EKSNodegroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSNodegroupList.html)|
 |[aws eks list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/eks/list-tags-for-resource.html)|[Get-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSResourceTag.html)|
 |[aws eks list-updates](https://docs.aws.amazon.com/cli/latest/reference/eks/list-updates.html)|[Get-EKSUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdateList.html)|

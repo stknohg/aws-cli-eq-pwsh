@@ -1,6 +1,6 @@
 ---
 title: databrew
-date: 2021-02-03
+date: 2021-02-18
 ---
 
 ## databrew
@@ -26,6 +26,7 @@ date: 2021-02-03
 |[aws databrew delete-schedule](https://docs.aws.amazon.com/cli/latest/reference/databrew/delete-schedule.html)||
 |[aws databrew describe-dataset](https://docs.aws.amazon.com/cli/latest/reference/databrew/describe-dataset.html)||
 |[aws databrew describe-job](https://docs.aws.amazon.com/cli/latest/reference/databrew/describe-job.html)||
+|[aws databrew describe-job-run](https://docs.aws.amazon.com/cli/latest/reference/databrew/describe-job-run.html)||
 |[aws databrew describe-project](https://docs.aws.amazon.com/cli/latest/reference/databrew/describe-project.html)||
 |[aws databrew describe-recipe](https://docs.aws.amazon.com/cli/latest/reference/databrew/describe-recipe.html)||
 |[aws databrew describe-schedule](https://docs.aws.amazon.com/cli/latest/reference/databrew/describe-schedule.html)||

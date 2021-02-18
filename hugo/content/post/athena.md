@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2021-02-03
+date: 2021-02-18
 ---
 
 ## athena
@@ -29,6 +29,7 @@ date: 2021-02-03
 |[aws athena get-work-group](https://docs.aws.amazon.com/cli/latest/reference/athena/get-work-group.html)|[Get-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHWorkGroup.html)|
 |[aws athena list-data-catalogs](https://docs.aws.amazon.com/cli/latest/reference/athena/list-data-catalogs.html)|[Get-ATHDataCatalogList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDataCatalogList.html)|
 |[aws athena list-databases](https://docs.aws.amazon.com/cli/latest/reference/athena/list-databases.html)|[Get-ATHDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDatabasisList.html)|
+|[aws athena list-engine-versions](https://docs.aws.amazon.com/cli/latest/reference/athena/list-engine-versions.html)||
 |[aws athena list-named-queries](https://docs.aws.amazon.com/cli/latest/reference/athena/list-named-queries.html)|[Get-ATHNamedQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHNamedQueryList.html)|
 |[aws athena list-query-executions](https://docs.aws.amazon.com/cli/latest/reference/athena/list-query-executions.html)|[Get-ATHQueryExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryExecutionList.html)|
 |[aws athena list-table-metadata](https://docs.aws.amazon.com/cli/latest/reference/athena/list-table-metadata.html)|[Get-ATHTableMetadataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHTableMetadataList.html)|

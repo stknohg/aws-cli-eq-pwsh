@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## medialive
@@ -23,7 +23,7 @@ date: 2021-02-18
 |[aws medialive create-input-security-group](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-input-security-group.html)|[New-EMLInputSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLInputSecurityGroup.html)|
 |[aws medialive create-multiplex](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-multiplex.html)|[New-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLMultiplex.html)|
 |[aws medialive create-multiplex-program](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-multiplex-program.html)|[New-EMLMultiplexProgram](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLMultiplexProgram.html)|
-|[aws medialive create-partner-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-partner-input.html)||
+|[aws medialive create-partner-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-partner-input.html)|[New-EMLPartnerInput](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLPartnerInput.html)|
 |[aws medialive create-tags](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-tags.html)|[Add-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMLResourceTag.html)|
 |[aws medialive delete-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-channel.html)|[Remove-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLChannel.html)|
 |[aws medialive delete-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/delete-input.html)|[Remove-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLInput.html)|

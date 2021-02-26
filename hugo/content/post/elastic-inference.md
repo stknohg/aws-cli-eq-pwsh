@@ -1,6 +1,6 @@
 ---
 title: elastic-inference
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## elastic-inference

@@ -1,6 +1,6 @@
 ---
 title: devops-guru
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## devops-guru
@@ -16,7 +16,7 @@ date: 2021-02-18
 |[aws devops-guru describe-account-health](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-account-health.html)|[Get-DGURUAccountHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAccountHealth.html)|
 |[aws devops-guru describe-account-overview](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-account-overview.html)|[Get-DGURUAccountOverview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAccountOverview.html)|
 |[aws devops-guru describe-anomaly](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-anomaly.html)|[Get-DGURUAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAnomaly.html)|
-|[aws devops-guru describe-feedback](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-feedback.html)||
+|[aws devops-guru describe-feedback](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-feedback.html)|[Get-DGURUFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUFeedback.html)|
 |[aws devops-guru describe-insight](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-insight.html)|[Get-DGURUInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUInsight.html)|
 |[aws devops-guru describe-resource-collection-health](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-resource-collection-health.html)|[Get-DGURUResourceCollectionHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUResourceCollectionHealth.html)|
 |[aws devops-guru describe-service-integration](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-service-integration.html)|[Get-DGURUServiceIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUServiceIntegration.html)|

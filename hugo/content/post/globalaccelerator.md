@@ -1,6 +1,6 @@
 ---
 title: globalaccelerator
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## globalaccelerator

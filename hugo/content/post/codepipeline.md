@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## codepipeline
@@ -22,7 +22,7 @@ date: 2021-02-18
 |[aws codepipeline deregister-webhook-with-third-party](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/deregister-webhook-with-third-party.html)|[Unregister-CPWebhookWithThirdParty](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CPWebhookWithThirdParty.html)|
 |[aws codepipeline disable-stage-transition](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/disable-stage-transition.html)|[Disable-CPStageTransition](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CPStageTransition.html)|
 |[aws codepipeline enable-stage-transition](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/enable-stage-transition.html)|[Enable-CPStageTransition](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CPStageTransition.html)|
-|[aws codepipeline get-action-type](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-action-type.html)||
+|[aws codepipeline get-action-type](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-action-type.html)|[Get-CPActionTypeDeclaration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionTypeDeclaration.html)|
 |[aws codepipeline get-job-details](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-job-details.html)|[Get-CPJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPJobDetail.html)|
 |[aws codepipeline get-pipeline](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-pipeline.html)|[Get-CPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipeline.html)|
 |[aws codepipeline get-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/get-pipeline-execution.html)|[Get-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineExecution.html)|
@@ -49,6 +49,6 @@ date: 2021-02-18
 |[aws codepipeline stop-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/stop-pipeline-execution.html)|[Stop-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CPPipelineExecution.html)|
 |[aws codepipeline tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/tag-resource.html)|[Add-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CPResourceTag.html)|
 |[aws codepipeline untag-resource](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/untag-resource.html)|[Remove-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPResourceTag.html)|
-|[aws codepipeline update-action-type](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/update-action-type.html)||
+|[aws codepipeline update-action-type](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/update-action-type.html)|[Update-CPActionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CPActionType.html)|
 |[aws codepipeline update-pipeline](https://docs.aws.amazon.com/cli/latest/reference/codepipeline/update-pipeline.html)|[Update-CPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CPPipeline.html)|
 

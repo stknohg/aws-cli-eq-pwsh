@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## iam
@@ -98,23 +98,23 @@ date: 2021-02-18
 |[aws iam list-group-policies](https://docs.aws.amazon.com/cli/latest/reference/iam/list-group-policies.html)|[Get-IAMGroupPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMGroupPolicyList.html)|
 |[aws iam list-groups](https://docs.aws.amazon.com/cli/latest/reference/iam/list-groups.html)|[Get-IAMGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMGroupList.html)|
 |[aws iam list-groups-for-user](https://docs.aws.amazon.com/cli/latest/reference/iam/list-groups-for-user.html)|[Get-IAMGroupForUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMGroupForUser.html)|
-|[aws iam list-instance-profile-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-instance-profile-tags.html)||
+|[aws iam list-instance-profile-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-instance-profile-tags.html)|[Get-IAMInstanceProfileTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMInstanceProfileTagList.html)|
 |[aws iam list-instance-profiles](https://docs.aws.amazon.com/cli/latest/reference/iam/list-instance-profiles.html)|[Get-IAMInstanceProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMInstanceProfileList.html)|
 |[aws iam list-instance-profiles-for-role](https://docs.aws.amazon.com/cli/latest/reference/iam/list-instance-profiles-for-role.html)|[Get-IAMInstanceProfileForRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMInstanceProfileForRole.html)|
-|[aws iam list-mfa-device-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-mfa-device-tags.html)||
+|[aws iam list-mfa-device-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-mfa-device-tags.html)|[Get-IAMMFADeviceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMMFADeviceTagList.html)|
 |[aws iam list-mfa-devices](https://docs.aws.amazon.com/cli/latest/reference/iam/list-mfa-devices.html)|[Get-IAMMFADevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMMFADevice.html)|
-|[aws iam list-open-id-connect-provider-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-open-id-connect-provider-tags.html)||
+|[aws iam list-open-id-connect-provider-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-open-id-connect-provider-tags.html)|[Get-IAMOpenIDConnectProviderTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOpenIDConnectProviderTagList.html)|
 |[aws iam list-open-id-connect-providers](https://docs.aws.amazon.com/cli/latest/reference/iam/list-open-id-connect-providers.html)|[Get-IAMOpenIDConnectProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOpenIDConnectProviderList.html)|
 |[aws iam list-policies](https://docs.aws.amazon.com/cli/latest/reference/iam/list-policies.html)|[Get-IAMPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyList.html)|
 |[aws iam list-policies-granting-service-access](https://docs.aws.amazon.com/cli/latest/reference/iam/list-policies-granting-service-access.html)|[Get-IAMPolicyGrantingServiceAccessList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyGrantingServiceAccessList.html)|
-|[aws iam list-policy-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-policy-tags.html)||
+|[aws iam list-policy-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-policy-tags.html)|[Get-IAMPolicyTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyTagList.html)|
 |[aws iam list-policy-versions](https://docs.aws.amazon.com/cli/latest/reference/iam/list-policy-versions.html)|[Get-IAMPolicyVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyVersionList.html)|
 |[aws iam list-role-policies](https://docs.aws.amazon.com/cli/latest/reference/iam/list-role-policies.html)|[Get-IAMRolePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRolePolicyList.html)|
 |[aws iam list-role-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-role-tags.html)|[Get-IAMRoleTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRoleTagList.html)|
 |[aws iam list-roles](https://docs.aws.amazon.com/cli/latest/reference/iam/list-roles.html)|[Get-IAMRoleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRoleList.html)|
-|[aws iam list-saml-provider-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-saml-provider-tags.html)||
+|[aws iam list-saml-provider-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-saml-provider-tags.html)|[Get-IAMSAMLProviderTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMSAMLProviderTagList.html)|
 |[aws iam list-saml-providers](https://docs.aws.amazon.com/cli/latest/reference/iam/list-saml-providers.html)|[Get-IAMSAMLProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMSAMLProviderList.html)|
-|[aws iam list-server-certificate-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-server-certificate-tags.html)||
+|[aws iam list-server-certificate-tags](https://docs.aws.amazon.com/cli/latest/reference/iam/list-server-certificate-tags.html)|[Get-IAMServerCertificateTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMServerCertificateTagList.html)|
 |[aws iam list-server-certificates](https://docs.aws.amazon.com/cli/latest/reference/iam/list-server-certificates.html)|[Get-IAMServerCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMServerCertificateList.html)|
 |[aws iam list-service-specific-credentials](https://docs.aws.amazon.com/cli/latest/reference/iam/list-service-specific-credentials.html)|[Get-IAMServiceSpecificCredentialList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMServiceSpecificCredentialList.html)|
 |[aws iam list-signing-certificates](https://docs.aws.amazon.com/cli/latest/reference/iam/list-signing-certificates.html)|[Get-IAMSigningCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMSigningCertificate.html)|
@@ -137,21 +137,21 @@ date: 2021-02-18
 |[aws iam set-security-token-service-preferences](https://docs.aws.amazon.com/cli/latest/reference/iam/set-security-token-service-preferences.html)|[Set-IAMSecurityTokenServicePreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-IAMSecurityTokenServicePreference.html)|
 |[aws iam simulate-custom-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/simulate-custom-policy.html)|[Test-IAMCustomPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IAMCustomPolicy.html)|
 |[aws iam simulate-principal-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/simulate-principal-policy.html)|[Test-IAMPrincipalPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IAMPrincipalPolicy.html)|
-|[aws iam tag-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-instance-profile.html)||
-|[aws iam tag-mfa-device](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-mfa-device.html)||
-|[aws iam tag-open-id-connect-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-open-id-connect-provider.html)||
-|[aws iam tag-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-policy.html)||
+|[aws iam tag-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-instance-profile.html)|[Add-IAMInstanceProfileTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMInstanceProfileTag.html)|
+|[aws iam tag-mfa-device](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-mfa-device.html)|[Add-IAMMFADeviceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMMFADeviceTag.html)|
+|[aws iam tag-open-id-connect-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-open-id-connect-provider.html)|[Add-IAMOpenIDConnectProviderTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMOpenIDConnectProviderTag.html)|
+|[aws iam tag-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-policy.html)|[Add-IAMPolicyTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMPolicyTag.html)|
 |[aws iam tag-role](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-role.html)|[Add-IAMRoleTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMRoleTag.html)|
-|[aws iam tag-saml-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-saml-provider.html)||
-|[aws iam tag-server-certificate](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-server-certificate.html)||
+|[aws iam tag-saml-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-saml-provider.html)|[Add-IAMSAMLProviderTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMSAMLProviderTag.html)|
+|[aws iam tag-server-certificate](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-server-certificate.html)|[Add-IAMServerCertificateTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMServerCertificateTag.html)|
 |[aws iam tag-user](https://docs.aws.amazon.com/cli/latest/reference/iam/tag-user.html)|[Add-IAMUserTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMUserTag.html)|
-|[aws iam untag-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-instance-profile.html)||
-|[aws iam untag-mfa-device](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-mfa-device.html)||
-|[aws iam untag-open-id-connect-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-open-id-connect-provider.html)||
-|[aws iam untag-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-policy.html)||
+|[aws iam untag-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-instance-profile.html)|[Remove-IAMInstanceProfileTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMInstanceProfileTag.html)|
+|[aws iam untag-mfa-device](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-mfa-device.html)|[Remove-IAMMFADeviceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMMFADeviceTag.html)|
+|[aws iam untag-open-id-connect-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-open-id-connect-provider.html)|[Remove-IAMOpenIDConnectProviderTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMOpenIDConnectProviderTag.html)|
+|[aws iam untag-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-policy.html)|[Remove-IAMPolicyTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMPolicyTag.html)|
 |[aws iam untag-role](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-role.html)|[Remove-IAMRoleTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMRoleTag.html)|
-|[aws iam untag-saml-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-saml-provider.html)||
-|[aws iam untag-server-certificate](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-server-certificate.html)||
+|[aws iam untag-saml-provider](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-saml-provider.html)|[Remove-IAMSAMLProviderTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMSAMLProviderTag.html)|
+|[aws iam untag-server-certificate](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-server-certificate.html)|[Remove-IAMServerCertificateTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMServerCertificateTag.html)|
 |[aws iam untag-user](https://docs.aws.amazon.com/cli/latest/reference/iam/untag-user.html)|[Remove-IAMUserTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMUserTag.html)|
 |[aws iam update-access-key](https://docs.aws.amazon.com/cli/latest/reference/iam/update-access-key.html)|[Update-IAMAccessKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMAccessKey.html)|
 |[aws iam update-account-password-policy](https://docs.aws.amazon.com/cli/latest/reference/iam/update-account-password-policy.html)|[Update-IAMAccountPasswordPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMAccountPasswordPolicy.html)|

@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2021-02-18
+date: 2021-02-26
 ---
 
 ## rds
@@ -99,7 +99,7 @@ date: 2021-02-18
 |[aws rds describe-valid-db-instance-modifications](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-valid-db-instance-modifications.html)|[Get-RDSValidDBInstanceModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSValidDBInstanceModification.html)|
 |[aws rds download-db-log-file-portion](https://docs.aws.amazon.com/cli/latest/reference/rds/download-db-log-file-portion.html)|[Get-RDSDBLogFilePortion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBLogFilePortion.html)|
 |[aws rds failover-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-db-cluster.html)|[Start-RDSDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBClusterFailover.html)|
-|[aws rds failover-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-global-cluster.html)||
+|[aws rds failover-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-global-cluster.html)|[Start-RDSFailoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSFailoverGlobalCluster.html)|
 |[aws rds generate-db-auth-token](https://docs.aws.amazon.com/cli/latest/reference/rds/generate-db-auth-token.html)||
 |[aws rds import-installation-media](https://docs.aws.amazon.com/cli/latest/reference/rds/import-installation-media.html)|[Import-RDSInstallationMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-RDSInstallationMedia.html)|
 |[aws rds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rds/list-tags-for-resource.html)|[Get-RDSTagForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTagForResource.html)|

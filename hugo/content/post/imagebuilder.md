@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## imagebuilder
@@ -44,6 +44,7 @@ date: 2021-02-26
 |[aws imagebuilder list-container-recipes](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-container-recipes.html)|[Get-EC2IBContainerRecipeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBContainerRecipeList.html)|
 |[aws imagebuilder list-distribution-configurations](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-distribution-configurations.html)|[Get-EC2IBDistributionConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBDistributionConfigurationList.html)|
 |[aws imagebuilder list-image-build-versions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-build-versions.html)|[Get-EC2IBImageBuildVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageBuildVersionList.html)|
+|[aws imagebuilder list-image-packages](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-packages.html)|[Get-EC2IBImagePackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePackageList.html)|
 |[aws imagebuilder list-image-pipeline-images](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-pipeline-images.html)|[Get-EC2IBImagePipelineImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePipelineImageList.html)|
 |[aws imagebuilder list-image-pipelines](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-pipelines.html)|[Get-EC2IBImagePipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePipelineList.html)|
 |[aws imagebuilder list-image-recipes](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-recipes.html)|[Get-EC2IBImageRecipeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageRecipeList.html)|

@@ -1,6 +1,6 @@
 ---
 title: secretsmanager
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## secretsmanager
@@ -24,8 +24,11 @@ date: 2021-02-26
 |[aws secretsmanager list-secrets](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/list-secrets.html)|[Get-SECSecretList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECSecretList.html)|
 |[aws secretsmanager put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/put-resource-policy.html)|[Write-SECResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SECResourcePolicy.html)|
 |[aws secretsmanager put-secret-value](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/put-secret-value.html)|[Write-SECSecretValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SECSecretValue.html)|
+|[aws secretsmanager remove-regions-from-replication](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/remove-regions-from-replication.html)||
+|[aws secretsmanager replicate-secret-to-regions](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/replicate-secret-to-regions.html)||
 |[aws secretsmanager restore-secret](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/restore-secret.html)|[Restore-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-SECSecret.html)|
 |[aws secretsmanager rotate-secret](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/rotate-secret.html)|[Invoke-SECSecretRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SECSecretRotation.html)|
+|[aws secretsmanager stop-replication-to-replica](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/stop-replication-to-replica.html)||
 |[aws secretsmanager tag-resource](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/tag-resource.html)|[Add-SECResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SECResourceTag.html)|
 |[aws secretsmanager untag-resource](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/untag-resource.html)|[Remove-SECResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECResourceTag.html)|
 |[aws secretsmanager update-secret](https://docs.aws.amazon.com/cli/latest/reference/secretsmanager/update-secret.html)|[Update-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECSecret.html)|

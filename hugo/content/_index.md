@@ -1,13 +1,13 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.1.28 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.1.30 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.9.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents

@@ -1,6 +1,6 @@
 ---
 title: mediapackage-vod
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## mediapackage-vod
@@ -12,6 +12,7 @@ date: 2021-02-26
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws mediapackage-vod configure-logs](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/configure-logs.html)|[Update-EMPVLog](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMPVLog.html)|
 |[aws mediapackage-vod create-asset](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/create-asset.html)|[New-EMPVAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPVAsset.html)|
 |[aws mediapackage-vod create-packaging-configuration](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/create-packaging-configuration.html)|[New-EMPVPackagingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPVPackagingConfiguration.html)|
 |[aws mediapackage-vod create-packaging-group](https://docs.aws.amazon.com/cli/latest/reference/mediapackage-vod/create-packaging-group.html)|[New-EMPVPackagingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMPVPackagingGroup.html)|

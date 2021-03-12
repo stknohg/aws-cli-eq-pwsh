@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## emr
@@ -63,5 +63,6 @@ date: 2021-02-26
 |[aws emr start-notebook-execution](https://docs.aws.amazon.com/cli/latest/reference/emr/start-notebook-execution.html)|[Start-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRNotebookExecution.html)|
 |[aws emr stop-notebook-execution](https://docs.aws.amazon.com/cli/latest/reference/emr/stop-notebook-execution.html)|[Stop-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMRNotebookExecution.html)|
 |[aws emr terminate-clusters](https://docs.aws.amazon.com/cli/latest/reference/emr/terminate-clusters.html)||
+|[aws emr update-studio](https://docs.aws.amazon.com/cli/latest/reference/emr/update-studio.html)||
 |[aws emr update-studio-session-mapping](https://docs.aws.amazon.com/cli/latest/reference/emr/update-studio-session-mapping.html)|[Update-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMRStudioSessionMapping.html)|
 

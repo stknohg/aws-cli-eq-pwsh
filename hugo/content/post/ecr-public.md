@@ -1,6 +1,6 @@
 ---
 title: ecr-public
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## ecr-public
@@ -28,9 +28,12 @@ date: 2021-02-26
 |[aws ecr-public get-repository-catalog-data](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/get-repository-catalog-data.html)|[Get-ECRPRepositoryCatalogData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPRepositoryCatalogData.html)|
 |[aws ecr-public get-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/get-repository-policy.html)|[Get-ECRPRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPRepositoryPolicy.html)|
 |[aws ecr-public initiate-layer-upload](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/initiate-layer-upload.html)|[Start-ECRPLayerUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRPLayerUpload.html)|
+|[aws ecr-public list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/list-tags-for-resource.html)|[Get-ECRPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPResourceTag.html)|
 |[aws ecr-public put-image](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/put-image.html)|[Write-ECRPImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRPImage.html)|
 |[aws ecr-public put-registry-catalog-data](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/put-registry-catalog-data.html)|[Write-ECRPRegistryCatalogData](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRPRegistryCatalogData.html)|
 |[aws ecr-public put-repository-catalog-data](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/put-repository-catalog-data.html)|[Write-ECRPRepositoryCatalogData](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRPRepositoryCatalogData.html)|
 |[aws ecr-public set-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/set-repository-policy.html)|[Set-ECRPRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ECRPRepositoryPolicy.html)|
+|[aws ecr-public tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/tag-resource.html)|[Add-ECRPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECRPResourceTag.html)|
+|[aws ecr-public untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/untag-resource.html)|[Remove-ECRPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRPResourceTag.html)|
 |[aws ecr-public upload-layer-part](https://docs.aws.amazon.com/cli/latest/reference/ecr-public/upload-layer-part.html)|[Send-ECRPLayerPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ECRPLayerPart.html)|
 

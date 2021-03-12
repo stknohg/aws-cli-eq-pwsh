@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## storagegateway

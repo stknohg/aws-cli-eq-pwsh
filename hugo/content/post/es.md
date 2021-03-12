@@ -1,6 +1,6 @@
 ---
 title: es
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## es
@@ -24,6 +24,7 @@ date: 2021-02-26
 |[aws es delete-inbound-cross-cluster-search-connection](https://docs.aws.amazon.com/cli/latest/reference/es/delete-inbound-cross-cluster-search-connection.html)|[Remove-ESInboundCrossClusterSearchConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESInboundCrossClusterSearchConnection.html)|
 |[aws es delete-outbound-cross-cluster-search-connection](https://docs.aws.amazon.com/cli/latest/reference/es/delete-outbound-cross-cluster-search-connection.html)|[Remove-ESOutboundCrossClusterSearchConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESOutboundCrossClusterSearchConnection.html)|
 |[aws es delete-package](https://docs.aws.amazon.com/cli/latest/reference/es/delete-package.html)|[Remove-ESPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESPackage.html)|
+|[aws es describe-domain-auto-tunes](https://docs.aws.amazon.com/cli/latest/reference/es/describe-domain-auto-tunes.html)|[Get-ESDomainAutoTune](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainAutoTune.html)|
 |[aws es describe-elasticsearch-domain](https://docs.aws.amazon.com/cli/latest/reference/es/describe-elasticsearch-domain.html)|[Get-ESDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomain.html)|
 |[aws es describe-elasticsearch-domain-config](https://docs.aws.amazon.com/cli/latest/reference/es/describe-elasticsearch-domain-config.html)|[Get-ESDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainConfig.html)|
 |[aws es describe-elasticsearch-domains](https://docs.aws.amazon.com/cli/latest/reference/es/describe-elasticsearch-domains.html)|[Get-ESDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainList.html)|

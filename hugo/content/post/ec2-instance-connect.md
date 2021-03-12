@@ -1,6 +1,6 @@
 ---
 title: ec2-instance-connect
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## ec2-instance-connect

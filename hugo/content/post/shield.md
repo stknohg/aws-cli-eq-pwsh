@@ -1,6 +1,6 @@
 ---
 title: shield
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## shield
@@ -39,6 +39,9 @@ date: 2021-02-26
 |[aws shield list-protection-groups](https://docs.aws.amazon.com/cli/latest/reference/shield/list-protection-groups.html)|[Get-SHLDProtectionGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDProtectionGroupList.html)|
 |[aws shield list-protections](https://docs.aws.amazon.com/cli/latest/reference/shield/list-protections.html)|[Get-SHLDProtectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDProtectionList.html)|
 |[aws shield list-resources-in-protection-group](https://docs.aws.amazon.com/cli/latest/reference/shield/list-resources-in-protection-group.html)|[Get-SHLDResourcesInProtectionGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDResourcesInProtectionGroupList.html)|
+|[aws shield list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/shield/list-tags-for-resource.html)||
+|[aws shield tag-resource](https://docs.aws.amazon.com/cli/latest/reference/shield/tag-resource.html)||
+|[aws shield untag-resource](https://docs.aws.amazon.com/cli/latest/reference/shield/untag-resource.html)||
 |[aws shield update-emergency-contact-settings](https://docs.aws.amazon.com/cli/latest/reference/shield/update-emergency-contact-settings.html)|[Update-SHLDEmergencyContactSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDEmergencyContactSetting.html)|
 |[aws shield update-protection-group](https://docs.aws.amazon.com/cli/latest/reference/shield/update-protection-group.html)|[Update-SHLDProtectionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDProtectionGroup.html)|
 |[aws shield update-subscription](https://docs.aws.amazon.com/cli/latest/reference/shield/update-subscription.html)|[Update-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDSubscription.html)|

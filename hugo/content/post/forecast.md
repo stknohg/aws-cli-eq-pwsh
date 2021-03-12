@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## forecast
@@ -42,6 +42,7 @@ date: 2021-02-26
 |[aws forecast list-predictor-backtest-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictor-backtest-export-jobs.html)|[Get-FRCPredictorBacktestExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorBacktestExportJobList.html)|
 |[aws forecast list-predictors](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictors.html)|[Get-FRCPredictorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorList.html)|
 |[aws forecast list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-tags-for-resource.html)|[Get-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCResourceTag.html)|
+|[aws forecast stop-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/stop-resource.html)||
 |[aws forecast tag-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/tag-resource.html)|[Add-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FRCResourceTag.html)|
 |[aws forecast untag-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/untag-resource.html)|[Remove-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCResourceTag.html)|
 |[aws forecast update-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/update-dataset-group.html)|[Update-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FRCDatasetGroup.html)|

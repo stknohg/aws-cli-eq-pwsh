@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## eks
@@ -12,6 +12,7 @@ date: 2021-02-26
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws eks associate-encryption-config](https://docs.aws.amazon.com/cli/latest/reference/eks/associate-encryption-config.html)||
 |[aws eks associate-identity-provider-config](https://docs.aws.amazon.com/cli/latest/reference/eks/associate-identity-provider-config.html)|[Add-EKSIdentityProviderConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSIdentityProviderConfig.html)|
 |[aws eks create-addon](https://docs.aws.amazon.com/cli/latest/reference/eks/create-addon.html)|[New-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSAddon.html)|
 |[aws eks create-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/create-cluster.html)|[New-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSCluster.html)|

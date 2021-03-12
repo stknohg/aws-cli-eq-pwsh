@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## wellarchitected
@@ -32,8 +32,11 @@ date: 2021-02-26
 |[aws wellarchitected list-milestones](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-milestones.html)|[Get-WATMilestoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATMilestoneList.html)|
 |[aws wellarchitected list-notifications](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-notifications.html)|[Get-WATNotificationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATNotificationList.html)|
 |[aws wellarchitected list-share-invitations](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-share-invitations.html)|[Get-WATShareInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATShareInvitationList.html)|
+|[aws wellarchitected list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-tags-for-resource.html)||
 |[aws wellarchitected list-workload-shares](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-workload-shares.html)|[Get-WATWorkloadShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkloadShareList.html)|
 |[aws wellarchitected list-workloads](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-workloads.html)|[Get-WATWorkloadList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkloadList.html)|
+|[aws wellarchitected tag-resource](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/tag-resource.html)||
+|[aws wellarchitected untag-resource](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/untag-resource.html)||
 |[aws wellarchitected update-answer](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-answer.html)|[Update-WATAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATAnswer.html)|
 |[aws wellarchitected update-lens-review](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-lens-review.html)|[Update-WATLensReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATLensReview.html)|
 |[aws wellarchitected update-share-invitation](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-share-invitation.html)|[Update-WATShareInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATShareInvitation.html)|

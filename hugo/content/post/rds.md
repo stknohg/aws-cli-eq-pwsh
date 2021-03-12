@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2021-02-26
+date: 2021-03-12
 ---
 
 ## rds
@@ -35,6 +35,7 @@ date: 2021-02-26
 |[aws rds create-db-instance-read-replica](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-instance-read-replica.html)|[New-RDSDBInstanceReadReplica](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBInstanceReadReplica.html)|
 |[aws rds create-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-parameter-group.html)|[New-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBParameterGroup.html)|
 |[aws rds create-db-proxy](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-proxy.html)|[New-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBProxy.html)|
+|[aws rds create-db-proxy-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-proxy-endpoint.html)||
 |[aws rds create-db-security-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-security-group.html)|[New-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSecurityGroup.html)|
 |[aws rds create-db-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-snapshot.html)|[New-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSnapshot.html)|
 |[aws rds create-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-subnet-group.html)|[New-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSubnetGroup.html)|
@@ -50,6 +51,7 @@ date: 2021-02-26
 |[aws rds delete-db-instance-automated-backup](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-instance-automated-backup.html)|[Remove-RDSDBInstanceAutomatedBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBInstanceAutomatedBackup.html)|
 |[aws rds delete-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-parameter-group.html)|[Remove-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBParameterGroup.html)|
 |[aws rds delete-db-proxy](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-proxy.html)|[Remove-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBProxy.html)|
+|[aws rds delete-db-proxy-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-proxy-endpoint.html)||
 |[aws rds delete-db-security-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-security-group.html)|[Remove-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSecurityGroup.html)|
 |[aws rds delete-db-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-snapshot.html)|[Remove-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSnapshot.html)|
 |[aws rds delete-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-subnet-group.html)|[Remove-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSubnetGroup.html)|
@@ -75,6 +77,7 @@ date: 2021-02-26
 |[aws rds describe-db-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-parameter-groups.html)|[Get-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBParameterGroup.html)|
 |[aws rds describe-db-parameters](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-parameters.html)|[Get-RDSDBParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBParameter.html)|
 |[aws rds describe-db-proxies](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-proxies.html)|[Get-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxy.html)|
+|[aws rds describe-db-proxy-endpoints](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-proxy-endpoints.html)||
 |[aws rds describe-db-proxy-target-groups](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-proxy-target-groups.html)|[Get-RDSDBProxyTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxyTargetGroup.html)|
 |[aws rds describe-db-proxy-targets](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-proxy-targets.html)|[Get-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxyTarget.html)|
 |[aws rds describe-db-security-groups](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-security-groups.html)|[Get-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSecurityGroup.html)|
@@ -112,6 +115,7 @@ date: 2021-02-26
 |[aws rds modify-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-instance.html)|[Edit-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBInstance.html)|
 |[aws rds modify-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-parameter-group.html)|[Edit-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBParameterGroup.html)|
 |[aws rds modify-db-proxy](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-proxy.html)|[Edit-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxy.html)|
+|[aws rds modify-db-proxy-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-proxy-endpoint.html)||
 |[aws rds modify-db-proxy-target-group](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-proxy-target-group.html)|[Edit-RDSDBProxyTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxyTargetGroup.html)|
 |[aws rds modify-db-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-snapshot.html)|[Edit-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSnapshot.html)|
 |[aws rds modify-db-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-snapshot-attribute.html)|[Edit-RDSDBSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSnapshotAttribute.html)|

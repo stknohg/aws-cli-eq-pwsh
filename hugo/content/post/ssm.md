@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## ssm
@@ -129,6 +129,7 @@ date: 2021-03-12
 |[aws ssm start-session](https://docs.aws.amazon.com/cli/latest/reference/ssm/start-session.html)|[Start-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMSession.html)|
 |[aws ssm stop-automation-execution](https://docs.aws.amazon.com/cli/latest/reference/ssm/stop-automation-execution.html)|[Stop-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SSMAutomationExecution.html)|
 |[aws ssm terminate-session](https://docs.aws.amazon.com/cli/latest/reference/ssm/terminate-session.html)|[Stop-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SSMSession.html)|
+|[aws ssm unlabel-parameter-version](https://docs.aws.amazon.com/cli/latest/reference/ssm/unlabel-parameter-version.html)|[Reset-SSMParameterVersionLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-SSMParameterVersionLabel.html)|
 |[aws ssm update-association](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-association.html)|[Update-SSMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMAssociation.html)|
 |[aws ssm update-association-status](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-association-status.html)|[Update-SSMAssociationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMAssociationStatus.html)|
 |[aws ssm update-document](https://docs.aws.amazon.com/cli/latest/reference/ssm/update-document.html)|[Update-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocument.html)|

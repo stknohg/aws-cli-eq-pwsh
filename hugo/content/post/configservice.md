@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## configservice
@@ -31,6 +31,7 @@ date: 2021-03-12
 |[aws configservice delete-stored-query](https://docs.aws.amazon.com/cli/latest/reference/configservice/delete-stored-query.html)|[Remove-CFGStoredQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFGStoredQuery.html)|
 |[aws configservice deliver-config-snapshot](https://docs.aws.amazon.com/cli/latest/reference/configservice/deliver-config-snapshot.html)|[Submit-CFGConfigSnapshotDelivery](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-CFGConfigSnapshotDelivery.html)|
 |[aws configservice describe-aggregate-compliance-by-config-rules](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-aggregate-compliance-by-config-rules.html)|[Get-CFGAggregateComplianceByConfigRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateComplianceByConfigRuleList.html)|
+|[aws configservice describe-aggregate-compliance-by-conformance-packs](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-aggregate-compliance-by-conformance-packs.html)|[Get-CFGAggregateComplianceByConformancePack](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateComplianceByConformancePack.html)|
 |[aws configservice describe-aggregation-authorizations](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-aggregation-authorizations.html)|[Get-CFGAggregationAuthorizationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregationAuthorizationList.html)|
 |[aws configservice describe-compliance-by-config-rule](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-compliance-by-config-rule.html)|[Get-CFGComplianceByConfigRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGComplianceByConfigRule.html)|
 |[aws configservice describe-compliance-by-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-compliance-by-resource.html)|[Get-CFGComplianceByResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGComplianceByResource.html)|
@@ -56,6 +57,7 @@ date: 2021-03-12
 |[aws configservice describe-retention-configurations](https://docs.aws.amazon.com/cli/latest/reference/configservice/describe-retention-configurations.html)|[Get-CFGRetentionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGRetentionConfiguration.html)|
 |[aws configservice get-aggregate-compliance-details-by-config-rule](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-compliance-details-by-config-rule.html)|[Get-CFGAggregateComplianceDetailsByConfigRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateComplianceDetailsByConfigRule.html)|
 |[aws configservice get-aggregate-config-rule-compliance-summary](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-config-rule-compliance-summary.html)|[Get-CFGAggregateConfigRuleComplianceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateConfigRuleComplianceSummary.html)|
+|[aws configservice get-aggregate-conformance-pack-compliance-summary](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-conformance-pack-compliance-summary.html)|[Get-CFGAggregateConformancePackComplianceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateConformancePackComplianceSummary.html)|
 |[aws configservice get-aggregate-discovered-resource-counts](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-discovered-resource-counts.html)|[Get-CFGAggregateDiscoveredResourceCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateDiscoveredResourceCount.html)|
 |[aws configservice get-aggregate-resource-config](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-aggregate-resource-config.html)|[Get-CFGAggregateResourceConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateResourceConfig.html)|
 |[aws configservice get-compliance-details-by-config-rule](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-compliance-details-by-config-rule.html)|[Get-CFGComplianceDetailsByConfigRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGComplianceDetailsByConfigRule.html)|

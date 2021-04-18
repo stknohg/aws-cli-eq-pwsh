@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## redshift
@@ -14,6 +14,7 @@ date: 2021-03-12
 |----|----|
 |[aws redshift accept-reserved-node-exchange](https://docs.aws.amazon.com/cli/latest/reference/redshift/accept-reserved-node-exchange.html)|[Switch-RSReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RSReservedNode.html)|
 |[aws redshift authorize-cluster-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/redshift/authorize-cluster-security-group-ingress.html)|[Approve-RSClusterSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-RSClusterSecurityGroupIngress.html)|
+|[aws redshift authorize-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/authorize-endpoint-access.html)|[Approve-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-RSEndpointAccess.html)|
 |[aws redshift authorize-snapshot-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/authorize-snapshot-access.html)|[Approve-RSSnapshotAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-RSSnapshotAccess.html)|
 |[aws redshift batch-delete-cluster-snapshots](https://docs.aws.amazon.com/cli/latest/reference/redshift/batch-delete-cluster-snapshots.html)|[Remove-RSClusterSnapshotBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSnapshotBatch.html)|
 |[aws redshift batch-modify-cluster-snapshots](https://docs.aws.amazon.com/cli/latest/reference/redshift/batch-modify-cluster-snapshots.html)|[Edit-RSClusterSnapshotBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterSnapshotBatch.html)|
@@ -24,6 +25,7 @@ date: 2021-03-12
 |[aws redshift create-cluster-security-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-cluster-security-group.html)|[New-RSClusterSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSClusterSecurityGroup.html)|
 |[aws redshift create-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-cluster-snapshot.html)|[New-RSClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSClusterSnapshot.html)|
 |[aws redshift create-cluster-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-cluster-subnet-group.html)|[New-RSClusterSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSClusterSubnetGroup.html)|
+|[aws redshift create-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-endpoint-access.html)|[New-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSEndpointAccess.html)|
 |[aws redshift create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-event-subscription.html)|[New-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSEventSubscription.html)|
 |[aws redshift create-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-hsm-client-certificate.html)|[New-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmClientCertificate.html)|
 |[aws redshift create-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-hsm-configuration.html)|[New-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmConfiguration.html)|
@@ -37,6 +39,7 @@ date: 2021-03-12
 |[aws redshift delete-cluster-security-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-security-group.html)|[Remove-RSClusterSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSecurityGroup.html)|
 |[aws redshift delete-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-snapshot.html)|[Remove-RSClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSnapshot.html)|
 |[aws redshift delete-cluster-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-subnet-group.html)|[Remove-RSClusterSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSubnetGroup.html)|
+|[aws redshift delete-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-endpoint-access.html)|[Remove-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSEndpointAccess.html)|
 |[aws redshift delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-event-subscription.html)|[Remove-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSEventSubscription.html)|
 |[aws redshift delete-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-client-certificate.html)|[Remove-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmClientCertificate.html)|
 |[aws redshift delete-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-configuration.html)|[Remove-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmConfiguration.html)|
@@ -56,6 +59,8 @@ date: 2021-03-12
 |[aws redshift describe-cluster-versions](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-cluster-versions.html)|[Get-RSClusterVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterVersion.html)|
 |[aws redshift describe-clusters](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-clusters.html)|[Get-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSCluster.html)|
 |[aws redshift describe-default-cluster-parameters](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-default-cluster-parameters.html)|[Get-RSDefaultClusterParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDefaultClusterParameter.html)|
+|[aws redshift describe-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-endpoint-access.html)|[Get-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSEndpointAccess.html)|
+|[aws redshift describe-endpoint-authorization](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-endpoint-authorization.html)|[Get-RSEndpointAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSEndpointAuthorization.html)|
 |[aws redshift describe-event-categories](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-event-categories.html)|[Get-RSEventCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSEventCategory.html)|
 |[aws redshift describe-event-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-event-subscriptions.html)|[Get-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSEventSubscription.html)|
 |[aws redshift describe-events](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-events.html)|[Get-RSEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSEvent.html)|
@@ -80,6 +85,7 @@ date: 2021-03-12
 |[aws redshift enable-snapshot-copy](https://docs.aws.amazon.com/cli/latest/reference/redshift/enable-snapshot-copy.html)|[Enable-RSSnapshotCopy](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RSSnapshotCopy.html)|
 |[aws redshift get-cluster-credentials](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-cluster-credentials.html)|[Get-RSClusterCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterCredential.html)|
 |[aws redshift get-reserved-node-exchange-offerings](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-reserved-node-exchange-offerings.html)|[Get-RSReservedNodeExchangeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeOffering.html)|
+|[aws redshift modify-aqua-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-aqua-configuration.html)|[Edit-RSAquaConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSAquaConfiguration.html)|
 |[aws redshift modify-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster.html)|[Edit-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSCluster.html)|
 |[aws redshift modify-cluster-db-revision](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-db-revision.html)|[Edit-RSClusterDbRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterDbRevision.html)|
 |[aws redshift modify-cluster-iam-roles](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-iam-roles.html)|[Edit-RSClusterIamRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterIamRole.html)|
@@ -88,6 +94,7 @@ date: 2021-03-12
 |[aws redshift modify-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-snapshot.html)|[Edit-RSClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterSnapshot.html)|
 |[aws redshift modify-cluster-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-snapshot-schedule.html)|[Edit-RSClusterSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterSnapshotSchedule.html)|
 |[aws redshift modify-cluster-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-cluster-subnet-group.html)|[Edit-RSClusterSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSClusterSubnetGroup.html)|
+|[aws redshift modify-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-endpoint-access.html)|[Edit-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSEndpointAccess.html)|
 |[aws redshift modify-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-event-subscription.html)|[Edit-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSEventSubscription.html)|
 |[aws redshift modify-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-scheduled-action.html)|[Edit-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSScheduledAction.html)|
 |[aws redshift modify-snapshot-copy-retention-period](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-snapshot-copy-retention-period.html)|[Edit-RSSnapshotCopyRetentionPeriod](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotCopyRetentionPeriod.html)|
@@ -102,6 +109,7 @@ date: 2021-03-12
 |[aws redshift restore-table-from-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/restore-table-from-cluster-snapshot.html)|[Restore-RSTableFromClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RSTableFromClusterSnapshot.html)|
 |[aws redshift resume-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/resume-cluster.html)|[Start-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RSCluster.html)|
 |[aws redshift revoke-cluster-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-cluster-security-group-ingress.html)|[Revoke-RSClusterSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSClusterSecurityGroupIngress.html)|
+|[aws redshift revoke-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-endpoint-access.html)|[Revoke-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSEndpointAccess.html)|
 |[aws redshift revoke-snapshot-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-snapshot-access.html)|[Revoke-RSSnapshotAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSSnapshotAccess.html)|
 |[aws redshift rotate-encryption-key](https://docs.aws.amazon.com/cli/latest/reference/redshift/rotate-encryption-key.html)|[Switch-RSEncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RSEncryptionKey.html)|
 

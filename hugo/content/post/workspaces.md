@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## workspaces
@@ -19,10 +19,12 @@ date: 2021-03-12
 |[aws workspaces create-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-connection-alias.html)|[New-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSConnectionAlias.html)|
 |[aws workspaces create-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-ip-group.html)|[New-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSIpGroup.html)|
 |[aws workspaces create-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-tags.html)|[New-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSTag.html)|
+|[aws workspaces create-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspace-bundle.html)|[New-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceBundle.html)|
 |[aws workspaces create-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspaces.html)|[New-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspace.html)|
 |[aws workspaces delete-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-connection-alias.html)|[Remove-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectionAlias.html)|
 |[aws workspaces delete-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-ip-group.html)|[Remove-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSIpGroup.html)|
 |[aws workspaces delete-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-tags.html)|[Remove-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSTag.html)|
+|[aws workspaces delete-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-workspace-bundle.html)|[Remove-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSWorkspaceBundle.html)|
 |[aws workspaces delete-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-workspace-image.html)|[Remove-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSWorkspaceImage.html)|
 |[aws workspaces deregister-workspace-directory](https://docs.aws.amazon.com/cli/latest/reference/workspaces/deregister-workspace-directory.html)|[Unregister-WKSWorkspaceDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSWorkspaceDirectory.html)|
 |[aws workspaces describe-account](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-account.html)|[Get-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccount.html)|
@@ -61,5 +63,6 @@ date: 2021-03-12
 |[aws workspaces terminate-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/terminate-workspaces.html)|[Remove-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSWorkspace.html)|
 |[aws workspaces update-connection-alias-permission](https://docs.aws.amazon.com/cli/latest/reference/workspaces/update-connection-alias-permission.html)|[Update-WKSConnectionAliasPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WKSConnectionAliasPermission.html)|
 |[aws workspaces update-rules-of-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/update-rules-of-ip-group.html)|[Update-WKSRulesOfIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WKSRulesOfIpGroup.html)|
+|[aws workspaces update-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/update-workspace-bundle.html)|[Update-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WKSWorkspaceBundle.html)|
 |[aws workspaces update-workspace-image-permission](https://docs.aws.amazon.com/cli/latest/reference/workspaces/update-workspace-image-permission.html)|[Update-WKSWorkspaceImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WKSWorkspaceImagePermission.html)|
 

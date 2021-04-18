@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## comprehend
@@ -18,6 +18,7 @@ date: 2021-03-12
 |[aws comprehend batch-detect-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-sentiment.html)|[Find-COMPSentimentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSentimentBatch.html)|
 |[aws comprehend batch-detect-syntax](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-syntax.html)|[Find-COMPSyntaxBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSyntaxBatch.html)|
 |[aws comprehend classify-document](https://docs.aws.amazon.com/cli/latest/reference/comprehend/classify-document.html)|[Invoke-COMPDocumentClassification](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-COMPDocumentClassification.html)|
+|[aws comprehend contains-pii-entities](https://docs.aws.amazon.com/cli/latest/reference/comprehend/contains-pii-entities.html)|[Find-COMPPiiEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPPiiEntityType.html)|
 |[aws comprehend create-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-document-classifier.html)|[New-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPDocumentClassifier.html)|
 |[aws comprehend create-endpoint](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-endpoint.html)|[New-COMPEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPEndpoint.html)|
 |[aws comprehend create-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-entity-recognizer.html)|[New-COMPEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPEntityRecognizer.html)|

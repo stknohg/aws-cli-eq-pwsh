@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## s3api
@@ -107,4 +107,5 @@ date: 2021-03-12
 |[aws s3api select-object-content](https://docs.aws.amazon.com/cli/latest/reference/s3api/select-object-content.html)||
 |[aws s3api upload-part](https://docs.aws.amazon.com/cli/latest/reference/s3api/upload-part.html)||
 |[aws s3api upload-part-copy](https://docs.aws.amazon.com/cli/latest/reference/s3api/upload-part-copy.html)||
+|[aws s3api write-get-object-response](https://docs.aws.amazon.com/cli/latest/reference/s3api/write-get-object-response.html)||
 

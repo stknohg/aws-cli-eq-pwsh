@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## ecs
@@ -33,6 +33,7 @@ date: 2021-03-12
 |[aws ecs describe-task-sets](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-task-sets.html)|[Get-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskSet.html)|
 |[aws ecs describe-tasks](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-tasks.html)|[Get-ECSTaskDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDetail.html)|
 |[aws ecs discover-poll-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ecs/discover-poll-endpoint.html)||
+|[aws ecs execute-command](https://docs.aws.amazon.com/cli/latest/reference/ecs/execute-command.html)|[Invoke-ECSCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-ECSCommand.html)|
 |[aws ecs list-account-settings](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-account-settings.html)|[Get-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSAccountSetting.html)|
 |[aws ecs list-attributes](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-attributes.html)|[Get-ECSAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSAttributeList.html)|
 |[aws ecs list-clusters](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-clusters.html)|[Get-ECSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterList.html)|
@@ -57,6 +58,7 @@ date: 2021-03-12
 |[aws ecs tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/tag-resource.html)|[Add-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECSResourceTag.html)|
 |[aws ecs untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/untag-resource.html)|[Remove-ECSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSResourceTag.html)|
 |[aws ecs update-capacity-provider](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-capacity-provider.html)|[Update-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSCapacityProvider.html)|
+|[aws ecs update-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-cluster.html)|[Update-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSCluster.html)|
 |[aws ecs update-cluster-settings](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-cluster-settings.html)|[Update-ECSClusterSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSClusterSetting.html)|
 |[aws ecs update-container-agent](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-agent.html)|[Update-ECSContainerAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerAgent.html)|
 |[aws ecs update-container-instances-state](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|

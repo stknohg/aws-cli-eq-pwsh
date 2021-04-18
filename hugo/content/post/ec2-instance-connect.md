@@ -1,6 +1,6 @@
 ---
 title: ec2-instance-connect
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## ec2-instance-connect
@@ -12,5 +12,6 @@ date: 2021-03-12
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws ec2-instance-connect send-serial-console-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/send-serial-console-ssh-public-key.html)||
 |[aws ec2-instance-connect send-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/send-ssh-public-key.html)||
 

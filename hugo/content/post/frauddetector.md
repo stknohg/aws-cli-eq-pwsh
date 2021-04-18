@@ -1,6 +1,6 @@
 ---
 title: frauddetector
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## frauddetector
@@ -14,11 +14,14 @@ date: 2021-03-12
 |----|----|
 |[aws frauddetector batch-create-variable](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/batch-create-variable.html)|[New-FDVariableBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDVariableBatch.html)|
 |[aws frauddetector batch-get-variable](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/batch-get-variable.html)|[Get-FDVariableBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDVariableBatch.html)|
+|[aws frauddetector cancel-batch-prediction-job](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/cancel-batch-prediction-job.html)|[Stop-FDBatchPredictionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FDBatchPredictionJob.html)|
+|[aws frauddetector create-batch-prediction-job](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-batch-prediction-job.html)|[New-FDBatchPredictionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDBatchPredictionJob.html)|
 |[aws frauddetector create-detector-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-detector-version.html)|[New-FDDetectorVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDDetectorVersion.html)|
 |[aws frauddetector create-model](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model.html)|[New-FDModel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModel.html)|
 |[aws frauddetector create-model-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model-version.html)|[New-FDModelVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModelVersion.html)|
 |[aws frauddetector create-rule](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-rule.html)|[New-FDRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDRule.html)|
 |[aws frauddetector create-variable](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-variable.html)|[New-FDVariable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDVariable.html)|
+|[aws frauddetector delete-batch-prediction-job](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-batch-prediction-job.html)|[Remove-FDBatchPredictionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDBatchPredictionJob.html)|
 |[aws frauddetector delete-detector](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-detector.html)|[Remove-FDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDDetector.html)|
 |[aws frauddetector delete-detector-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-detector-version.html)|[Remove-FDDetectorVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDDetectorVersion.html)|
 |[aws frauddetector delete-entity-type](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-entity-type.html)|[Remove-FDEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDEntityType.html)|
@@ -33,6 +36,7 @@ date: 2021-03-12
 |[aws frauddetector delete-variable](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-variable.html)|[Remove-FDVariable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDVariable.html)|
 |[aws frauddetector describe-detector](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/describe-detector.html)|[Get-FDDetectorVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDDetectorVersionList.html)|
 |[aws frauddetector describe-model-versions](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/describe-model-versions.html)|[Get-FDModelVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDModelVersionList.html)|
+|[aws frauddetector get-batch-prediction-jobs](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-batch-prediction-jobs.html)|[Get-FDBatchPredictionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDBatchPredictionJob.html)|
 |[aws frauddetector get-detector-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-detector-version.html)|[Get-FDDetectorVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDDetectorVersion.html)|
 |[aws frauddetector get-detectors](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-detectors.html)|[Get-FDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDDetector.html)|
 |[aws frauddetector get-entity-types](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-entity-types.html)|[Get-FDEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEntityType.html)|

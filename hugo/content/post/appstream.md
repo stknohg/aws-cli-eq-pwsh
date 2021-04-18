@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## appstream
@@ -22,6 +22,7 @@ date: 2021-03-12
 |[aws appstream create-image-builder-streaming-url](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-image-builder-streaming-url.html)|[New-APSImageBuilderStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImageBuilderStreamingURL.html)|
 |[aws appstream create-stack](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-stack.html)|[New-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStack.html)|
 |[aws appstream create-streaming-url](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-streaming-url.html)|[New-APSStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStreamingURL.html)|
+|[aws appstream create-updated-image](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-updated-image.html)|[New-APSUpdatedImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUpdatedImage.html)|
 |[aws appstream create-usage-report-subscription](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-usage-report-subscription.html)|[New-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUsageReportSubscription.html)|
 |[aws appstream create-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-user.html)|[New-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUser.html)|
 |[aws appstream delete-directory-config](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-directory-config.html)|[Remove-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSDirectoryConfig.html)|

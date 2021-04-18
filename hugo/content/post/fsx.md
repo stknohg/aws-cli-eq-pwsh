@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## fsx
@@ -14,6 +14,7 @@ date: 2021-03-12
 |----|----|
 |[aws fsx associate-file-system-aliases](https://docs.aws.amazon.com/cli/latest/reference/fsx/associate-file-system-aliases.html)|[Register-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-FSXFileSystemAlias.html)|
 |[aws fsx cancel-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/cancel-data-repository-task.html)|[Stop-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FSXDataRepositoryTask.html)|
+|[aws fsx copy-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/copy-backup.html)|[Copy-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-FSXBackup.html)|
 |[aws fsx create-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-backup.html)|[New-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXBackup.html)|
 |[aws fsx create-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-data-repository-task.html)|[New-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryTask.html)|
 |[aws fsx create-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-file-system.html)|[New-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXFileSystem.html)|

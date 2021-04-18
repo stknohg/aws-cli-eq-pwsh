@@ -1,14 +1,14 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.1.30 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.9.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.1.38 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.11.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -117,6 +117,7 @@ For that reason, some content may not be accurate.
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
 |[Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF||
+|[Amazon Fault Injection Simulator](https://aws.amazon.com/fis/)|[fis]({{%relref "post/fis.md" %}})|FIS||
 |[AWS Firewall Manager](https://aws.amazon.com/waf/)|[fms]({{%relref "post/fms.md" %}})|FMS||
 |[Amazon Forecast](https://aws.amazon.com/forecast/)|[forecast]({{%relref "post/forecast.md" %}})|FRC||
 |[Amazon Forecast Query Service](https://aws.amazon.com/forecast/)|[forecastquery]({{%relref "post/forecastquery.md" %}})|FRCQ||
@@ -174,6 +175,8 @@ For that reason, some content may not be accurate.
 |[Amazon Lightsail](https://aws.amazon.com/lightsail/)|[lightsail]({{%relref "post/lightsail.md" %}})|LS||
 |[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
+|[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)|[lookoutequipment]({{%relref "post/lookoutequipment.md" %}})|||
+|[Amazon Lookout for Metrics](https://aws.amazon.com/lookout-for-metrics/)|[lookoutmetrics]({{%relref "post/lookoutmetrics.md" %}})|LOM||
 |[Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)|[lookoutvision]({{%relref "post/lookoutvision.md" %}})|LFV||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
@@ -192,6 +195,7 @@ For that reason, some content may not be accurate.
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||
 |[AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)|[meteringmarketplace]({{%relref "post/meteringmarketplace.md" %}})|MM||
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||
+|[AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)|[mgn]({{%relref "post/mgn.md" %}})|MGN||
 |[AWS Migration Hub Config](https://aws.amazon.com/migration-hub/)|[migrationhub-config]({{%relref "post/migrationhub-config.md" %}})|MHC||
 |[AWS Mobile](https://aws.amazon.com/amplify/)|[mobile]({{%relref "post/mobile.md" %}})|MOBL||
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||

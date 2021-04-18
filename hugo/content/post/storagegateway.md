@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## storagegateway
@@ -18,6 +18,7 @@ date: 2021-03-12
 |[aws storagegateway add-upload-buffer](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/add-upload-buffer.html)|[Add-SGUploadBuffer](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGUploadBuffer.html)|
 |[aws storagegateway add-working-storage](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/add-working-storage.html)|[Add-SGWorkingStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGWorkingStorage.html)|
 |[aws storagegateway assign-tape-pool](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/assign-tape-pool.html)|[Add-SGTapeToTapePool](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SGTapeToTapePool.html)|
+|[aws storagegateway associate-file-system](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/associate-file-system.html)|[New-SGSGFileSystemAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SGSGFileSystemAssociation.html)|
 |[aws storagegateway attach-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/attach-volume.html)|[Mount-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-SGVolume.html)|
 |[aws storagegateway cancel-archival](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/cancel-archival.html)|[Stop-SGArchival](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SGArchival.html)|
 |[aws storagegateway cancel-retrieval](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/cancel-retrieval.html)|[Stop-SGRetrieval](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SGRetrieval.html)|
@@ -46,6 +47,7 @@ date: 2021-03-12
 |[aws storagegateway describe-cache](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-cache.html)|[Get-SGCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCache.html)|
 |[aws storagegateway describe-cached-iscsi-volumes](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-cached-iscsi-volumes.html)|[Get-SGCachediSCSIVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCachediSCSIVolume.html)|
 |[aws storagegateway describe-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-chap-credentials.html)|[Get-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGChapCredential.html)|
+|[aws storagegateway describe-file-system-associations](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-file-system-associations.html)|[Get-SGSGFileSystemAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGSGFileSystemAssociation.html)|
 |[aws storagegateway describe-gateway-information](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-gateway-information.html)|[Get-SGGatewayInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGGatewayInformation.html)|
 |[aws storagegateway describe-maintenance-start-time](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-maintenance-start-time.html)|[Get-SGMaintenanceStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGMaintenanceStartTime.html)|
 |[aws storagegateway describe-nfs-file-shares](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-nfs-file-shares.html)|[Get-SGNFSFileShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGNFSFileShareList.html)|
@@ -61,9 +63,11 @@ date: 2021-03-12
 |[aws storagegateway describe-working-storage](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/describe-working-storage.html)|[Get-SGWorkingStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGWorkingStorage.html)|
 |[aws storagegateway detach-volume](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/detach-volume.html)|[Dismount-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-SGVolume.html)|
 |[aws storagegateway disable-gateway](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/disable-gateway.html)|[Disable-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SGGateway.html)|
+|[aws storagegateway disassociate-file-system](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/disassociate-file-system.html)|[Remove-SGSGFileSystemAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGSGFileSystemAssociation.html)|
 |[aws storagegateway join-domain](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/join-domain.html)|[Join-SGDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-SGDomain.html)|
 |[aws storagegateway list-automatic-tape-creation-policies](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-automatic-tape-creation-policies.html)|[Get-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGAutomaticTapeCreationPolicy.html)|
 |[aws storagegateway list-file-shares](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-file-shares.html)|[Get-SGFileShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGFileShareList.html)|
+|[aws storagegateway list-file-system-associations](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-file-system-associations.html)|[Get-SGSGFileSystemAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGSGFileSystemAssociationList.html)|
 |[aws storagegateway list-gateways](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-gateways.html)|[Get-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGGateway.html)|
 |[aws storagegateway list-local-disks](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-local-disks.html)|[Get-SGLocalDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGLocalDisk.html)|
 |[aws storagegateway list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/list-tags-for-resource.html)|[Get-SGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGResourceTag.html)|
@@ -87,6 +91,7 @@ date: 2021-03-12
 |[aws storagegateway update-bandwidth-rate-limit](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-bandwidth-rate-limit.html)|[Update-SGBandwidthRateLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGBandwidthRateLimit.html)|
 |[aws storagegateway update-bandwidth-rate-limit-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-bandwidth-rate-limit-schedule.html)|[Update-SGBandwidthRateLimitSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGBandwidthRateLimitSchedule.html)|
 |[aws storagegateway update-chap-credentials](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-chap-credentials.html)|[Update-SGChapCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGChapCredential.html)|
+|[aws storagegateway update-file-system-association](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-file-system-association.html)|[Update-SGSGFileSystemAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSGFileSystemAssociation.html)|
 |[aws storagegateway update-gateway-information](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-gateway-information.html)|[Update-SGGatewayInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGGatewayInformation.html)|
 |[aws storagegateway update-gateway-software-now](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-gateway-software-now.html)|[Update-SGGatewaySoftwareNow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGGatewaySoftwareNow.html)|
 |[aws storagegateway update-maintenance-start-time](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-maintenance-start-time.html)|[Update-SGMaintenanceStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGMaintenanceStartTime.html)|

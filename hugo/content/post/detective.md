@@ -1,6 +1,6 @@
 ---
 title: detective
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## detective
@@ -22,6 +22,9 @@ date: 2021-03-12
 |[aws detective list-graphs](https://docs.aws.amazon.com/cli/latest/reference/detective/list-graphs.html)|[Get-DTCTGraphList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTGraphList.html)|
 |[aws detective list-invitations](https://docs.aws.amazon.com/cli/latest/reference/detective/list-invitations.html)|[Get-DTCTInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTInvitationList.html)|
 |[aws detective list-members](https://docs.aws.amazon.com/cli/latest/reference/detective/list-members.html)|[Get-DTCTMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTMemberList.html)|
+|[aws detective list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/detective/list-tags-for-resource.html)|[Get-DTCTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTCTResourceTag.html)|
 |[aws detective reject-invitation](https://docs.aws.amazon.com/cli/latest/reference/detective/reject-invitation.html)|[Deny-DTCTInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DTCTInvitation.html)|
 |[aws detective start-monitoring-member](https://docs.aws.amazon.com/cli/latest/reference/detective/start-monitoring-member.html)|[Start-DTCTMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DTCTMonitoringMember.html)|
+|[aws detective tag-resource](https://docs.aws.amazon.com/cli/latest/reference/detective/tag-resource.html)|[Add-DTCTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DTCTResourceTag.html)|
+|[aws detective untag-resource](https://docs.aws.amazon.com/cli/latest/reference/detective/untag-resource.html)|[Remove-DTCTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DTCTResourceTag.html)|
 

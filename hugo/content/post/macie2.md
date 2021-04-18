@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## macie2
@@ -42,6 +42,7 @@ date: 2021-03-12
 |[aws macie2 get-finding-statistics](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-finding-statistics.html)|[Get-MAC2FindingStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2FindingStatistic.html)|
 |[aws macie2 get-findings](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-findings.html)|[Get-MAC2Finding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2Finding.html)|
 |[aws macie2 get-findings-filter](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-findings-filter.html)|[Get-MAC2FindingsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2FindingsFilter.html)|
+|[aws macie2 get-findings-publication-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-findings-publication-configuration.html)|[Get-MAC2FindingsPublicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2FindingsPublicationConfiguration.html)|
 |[aws macie2 get-invitations-count](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-invitations-count.html)|[Get-MAC2InvitationsCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2InvitationsCount.html)|
 |[aws macie2 get-macie-session](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-macie-session.html)|[Get-MAC2MacieSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2MacieSession.html)|
 |[aws macie2 get-master-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-master-account.html)|[Get-MAC2MasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2MasterAccount.html)|
@@ -57,6 +58,7 @@ date: 2021-03-12
 |[aws macie2 list-organization-admin-accounts](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-organization-admin-accounts.html)|[Get-MAC2OrganizationAdminAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2OrganizationAdminAccountList.html)|
 |[aws macie2 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-tags-for-resource.html)|[Get-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ResourceTag.html)|
 |[aws macie2 put-classification-export-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/put-classification-export-configuration.html)|[Write-MAC2ClassificationExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MAC2ClassificationExportConfiguration.html)|
+|[aws macie2 put-findings-publication-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/put-findings-publication-configuration.html)|[Write-MAC2FindingsPublicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MAC2FindingsPublicationConfiguration.html)|
 |[aws macie2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/tag-resource.html)|[Add-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MAC2ResourceTag.html)|
 |[aws macie2 test-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/test-custom-data-identifier.html)|[Test-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-MAC2CustomDataIdentifier.html)|
 |[aws macie2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/untag-resource.html)|[Remove-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2ResourceTag.html)|

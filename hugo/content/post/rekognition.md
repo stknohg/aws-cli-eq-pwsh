@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## rekognition
@@ -45,6 +45,7 @@ date: 2021-03-12
 |[aws rekognition list-collections](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-collections.html)|[Get-REKCollectionIdList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCollectionIdList.html)|
 |[aws rekognition list-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-faces.html)|[Get-REKFaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceList.html)|
 |[aws rekognition list-stream-processors](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-stream-processors.html)|[Get-REKStreamProcessorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKStreamProcessorList.html)|
+|[aws rekognition list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-tags-for-resource.html)|[Get-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKResourceTag.html)|
 |[aws rekognition recognize-celebrities](https://docs.aws.amazon.com/cli/latest/reference/rekognition/recognize-celebrities.html)|[Find-REKCelebrity](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKCelebrity.html)|
 |[aws rekognition search-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/search-faces.html)|[Search-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-REKFace.html)|
 |[aws rekognition search-faces-by-image](https://docs.aws.amazon.com/cli/latest/reference/rekognition/search-faces-by-image.html)|[Search-REKFacesByImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-REKFacesByImage.html)|
@@ -60,4 +61,6 @@ date: 2021-03-12
 |[aws rekognition start-text-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/start-text-detection.html)|[Start-REKTextDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKTextDetection.html)|
 |[aws rekognition stop-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/stop-project-version.html)|[Stop-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-REKProjectVersion.html)|
 |[aws rekognition stop-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/stop-stream-processor.html)|[Stop-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-REKStreamProcessor.html)|
+|[aws rekognition tag-resource](https://docs.aws.amazon.com/cli/latest/reference/rekognition/tag-resource.html)|[Add-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-REKResourceTag.html)|
+|[aws rekognition untag-resource](https://docs.aws.amazon.com/cli/latest/reference/rekognition/untag-resource.html)|[Remove-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKResourceTag.html)|
 

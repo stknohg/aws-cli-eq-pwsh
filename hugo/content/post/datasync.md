@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## datasync
@@ -42,9 +42,9 @@ date: 2021-03-12
 |[aws datasync tag-resource](https://docs.aws.amazon.com/cli/latest/reference/datasync/tag-resource.html)|[Add-DSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSYNResourceTag.html)|
 |[aws datasync untag-resource](https://docs.aws.amazon.com/cli/latest/reference/datasync/untag-resource.html)|[Remove-DSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNResourceTag.html)|
 |[aws datasync update-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-agent.html)|[Update-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNAgent.html)|
-|[aws datasync update-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-nfs.html)||
-|[aws datasync update-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-object-storage.html)||
-|[aws datasync update-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-smb.html)||
+|[aws datasync update-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-nfs.html)|[Update-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationNfs.html)|
+|[aws datasync update-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-object-storage.html)|[Update-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationObjectStorage.html)|
+|[aws datasync update-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-smb.html)|[Update-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationSmb.html)|
 |[aws datasync update-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-task.html)|[Update-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNTask.html)|
 |[aws datasync update-task-execution](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-task-execution.html)|[Update-DSYNTaskExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNTaskExecution.html)|
 

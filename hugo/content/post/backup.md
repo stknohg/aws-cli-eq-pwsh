@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## backup
@@ -29,6 +29,7 @@ date: 2021-03-12
 |[aws backup describe-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-recovery-point.html)|[Get-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPoint.html)|
 |[aws backup describe-region-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-region-settings.html)|[Get-BAKRegionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRegionSetting.html)|
 |[aws backup describe-restore-job](https://docs.aws.amazon.com/cli/latest/reference/backup/describe-restore-job.html)|[Get-BAKRestoreJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJob.html)|
+|[aws backup disassociate-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/disassociate-recovery-point.html)|[Unlock-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Unlock-BAKRecoveryPoint.html)|
 |[aws backup export-backup-plan-template](https://docs.aws.amazon.com/cli/latest/reference/backup/export-backup-plan-template.html)|[Export-BAKBackupPlanTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-BAKBackupPlanTemplate.html)|
 |[aws backup get-backup-plan](https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-plan.html)|[Get-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlan.html)|
 |[aws backup get-backup-plan-from-json](https://docs.aws.amazon.com/cli/latest/reference/backup/get-backup-plan-from-json.html)|[Get-BAKBackupPlanFromJSON](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanFromJSON.html)|

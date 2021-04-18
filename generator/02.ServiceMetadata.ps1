@@ -200,6 +200,7 @@ $g_AWSServices = @{
     'es'                           = [PSCustomObject]@{ Prefix = 'ES'; Name = 'Amazon Elasticsearch Service'; Url = 'https://aws.amazon.com/elasticsearch-service/'; Note = '' };
     'events'                       = [PSCustomObject]@{ Prefix = 'CWE'; Name = 'Amazon CloudWatch Events'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'firehose'                     = [PSCustomObject]@{ Prefix = 'KINF'; Name = 'Amazon Kinesis Data Firehose'; Url = 'https://aws.amazon.com/data-firehose/'; Note = '' };
+    'fis'                          = [PSCustomObject]@{ Prefix = 'FIS'; Name = 'Amazon Fault Injection Simulator'; Url = 'https://aws.amazon.com/fis/'; Note = '' };
     'fms'                          = [PSCustomObject]@{ Prefix = 'FMS'; Name = 'AWS Firewall Manager'; Url = 'https://aws.amazon.com/waf/'; Note = '' };
     'forecast'                     = [PSCustomObject]@{ Prefix = 'FRC'; Name = 'Amazon Forecast'; Url = 'https://aws.amazon.com/forecast/'; Note = '' };
     'forecastquery'                = [PSCustomObject]@{ Prefix = 'FRCQ'; Name = 'Amazon Forecast Query Service'; Url = 'https://aws.amazon.com/forecast/'; Note = '' };
@@ -257,6 +258,8 @@ $g_AWSServices = @{
     'lightsail'                    = [PSCustomObject]@{ Prefix = 'LS'; Name = 'Amazon Lightsail'; Url = 'https://aws.amazon.com/lightsail/'; Note = '' };
     'location'                     = [PSCustomObject]@{ Prefix = 'LOC'; Name = 'Amazon Location'; Url = 'https://aws.amazon.com/location/'; Note = '' };
     'logs'                         = [PSCustomObject]@{ Prefix = 'CWL'; Name = 'Amazon CloudWatch Logs'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
+    'lookoutequipment'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Lookout for Equipment'; Url = 'https://aws.amazon.com/lookout-for-equipment/'; Note = '' };
+    'lookoutmetrics'               = [PSCustomObject]@{ Prefix = 'LOM'; Name = 'Amazon Lookout for Metrics'; Url = 'https://aws.amazon.com/lookout-for-metrics/'; Note = '' };
     'lookoutvision'                = [PSCustomObject]@{ Prefix = 'LFV'; Name = 'Amazon Lookout for Vision'; Url = 'https://aws.amazon.com/lookout-for-vision/'; Note = '' };
     'machinelearning'              = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = '' };
     'macie'                        = [PSCustomObject]@{ Prefix = 'MAC'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
@@ -275,6 +278,7 @@ $g_AWSServices = @{
     'mediatailor'                  = [PSCustomObject]@{ Prefix = 'EMT'; Name = 'AWS Elemental MediaTailor'; Url = 'https://aws.amazon.com/mediatailor/'; Note = '' };
     'meteringmarketplace'          = [PSCustomObject]@{ Prefix = 'MM'; Name = 'AWS Marketplace Metering Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'mgh'                          = [PSCustomObject]@{ Prefix = 'MH'; Name = 'AWS Migration Hub'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
+    'mgn'                          = [PSCustomObject]@{ Prefix = 'MGN'; Name = 'AWS Application Migration Service'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
     'migrationhub-config'          = [PSCustomObject]@{ Prefix = 'MHC'; Name = 'AWS Migration Hub Config'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mobile'                       = [PSCustomObject]@{ Prefix = 'MOBL'; Name = 'AWS Mobile'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'mq'                           = [PSCustomObject]@{ Prefix = 'MQ'; Name = 'Amazon MQ'; Url = 'https://aws.amazon.com/amazon-mq/'; Note = '' };
@@ -463,6 +467,7 @@ $g_CmdletReferenceLinks = @{
     'es'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elasticsearch_cmdlets.html';
     'events'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Events_cmdlets.html';
     'firehose'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html';
+    'fis'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/FIS_cmdlets.html';
     'fms'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Firewall_Management_Service_cmdlets.html';
     'forecast'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ForecastService_cmdlets.html'
     'forecastquery'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ForecastQueryService_cmdlets.html'
@@ -520,6 +525,8 @@ $g_CmdletReferenceLinks = @{
     'lightsail'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lightsail_cmdlets.html';
     'location'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LocationService_cmdlets.html';
     'logs'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Logs_cmdlets.html';
+    'lookoutequipment'             = '';
+    'lookoutmetrics'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutMetrics_cmdlets.html';
     'lookoutvision'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutforVision_cmdlets.html';
     'machinelearning'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html';
     'macie'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Macie_cmdlets.html';
@@ -538,6 +545,7 @@ $g_CmdletReferenceLinks = @{
     'mediatailor'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaTailor_cmdlets.html';
     'meteringmarketplace'          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Metering_cmdlets.html';
     'mgh'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Migration_Hub_cmdlets.html';
+    'mgn'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Mgn_cmdlets.html';
     'migrationhub-config'          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubConfig_cmdlets.html';
     'mobile'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Mobile_cmdlets.html';
     'mq'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MQ_cmdlets.html';

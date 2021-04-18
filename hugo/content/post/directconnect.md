@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## directconnect
@@ -20,6 +20,7 @@ date: 2021-03-12
 |[aws directconnect allocate-transit-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/allocate-transit-virtual-interface.html)|[Enable-DCTransitVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DCTransitVirtualInterface.html)|
 |[aws directconnect associate-connection-with-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-connection-with-lag.html)|[Register-DCConnectionWithLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCConnectionWithLag.html)|
 |[aws directconnect associate-hosted-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-hosted-connection.html)|[Register-DCHostedConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCHostedConnection.html)|
+|[aws directconnect associate-mac-sec-key](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-mac-sec-key.html)|[Add-DCMacSecKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DCMacSecKey.html)|
 |[aws directconnect associate-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-virtual-interface.html)|[Register-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCVirtualInterface.html)|
 |[aws directconnect confirm-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-connection.html)|[Confirm-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCConnection.html)|
 |[aws directconnect confirm-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-private-virtual-interface.html)|[Confirm-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCPrivateVirtualInterface.html)|
@@ -60,11 +61,13 @@ date: 2021-03-12
 |[aws directconnect describe-virtual-gateways](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-virtual-gateways.html)|[Get-DCVirtualGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualGateway.html)|
 |[aws directconnect describe-virtual-interfaces](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-virtual-interfaces.html)|[Get-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterface.html)|
 |[aws directconnect disassociate-connection-from-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/disassociate-connection-from-lag.html)|[Unregister-DCConnectionFromLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DCConnectionFromLag.html)|
+|[aws directconnect disassociate-mac-sec-key](https://docs.aws.amazon.com/cli/latest/reference/directconnect/disassociate-mac-sec-key.html)|[Remove-DCMacSecKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCMacSecKey.html)|
 |[aws directconnect list-virtual-interface-test-history](https://docs.aws.amazon.com/cli/latest/reference/directconnect/list-virtual-interface-test-history.html)|[Get-DCVirtualInterfaceTestHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterfaceTestHistoryList.html)|
 |[aws directconnect start-bgp-failover-test](https://docs.aws.amazon.com/cli/latest/reference/directconnect/start-bgp-failover-test.html)|[Start-DCBgpFailoverTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DCBgpFailoverTest.html)|
 |[aws directconnect stop-bgp-failover-test](https://docs.aws.amazon.com/cli/latest/reference/directconnect/stop-bgp-failover-test.html)|[Stop-DCBgpFailoverTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DCBgpFailoverTest.html)|
 |[aws directconnect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/tag-resource.html)|[Add-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DCResourceTag.html)|
 |[aws directconnect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/untag-resource.html)|[Remove-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCResourceTag.html)|
+|[aws directconnect update-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-connection.html)|[Update-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCConnection.html)|
 |[aws directconnect update-direct-connect-gateway-association](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-direct-connect-gateway-association.html)|[Update-DCDirectConnectGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCDirectConnectGatewayAssociation.html)|
 |[aws directconnect update-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-lag.html)|[Update-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCLag.html)|
 |[aws directconnect update-virtual-interface-attributes](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-virtual-interface-attributes.html)|[Update-DCVirtualInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCVirtualInterfaceAttribute.html)|

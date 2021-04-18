@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## autoscaling
@@ -29,6 +29,7 @@ date: 2021-03-12
 |[aws autoscaling delete-policy](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-policy.html)|[Remove-ASPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASPolicy.html)|
 |[aws autoscaling delete-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-scheduled-action.html)|[Remove-ASScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASScheduledAction.html)|
 |[aws autoscaling delete-tags](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-tags.html)|[Remove-ASTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASTag.html)|
+|[aws autoscaling delete-warm-pool](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/delete-warm-pool.html)|[Remove-ASWarmPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASWarmPool.html)|
 |[aws autoscaling describe-account-limits](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-account-limits.html)|[Get-ASAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAccountLimit.html)|
 |[aws autoscaling describe-adjustment-types](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-adjustment-types.html)|[Get-ASAdjustmentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAdjustmentType.html)|
 |[aws autoscaling describe-auto-scaling-groups](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-auto-scaling-groups.html)|[Get-ASAutoScalingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingGroup.html)|
@@ -48,6 +49,7 @@ date: 2021-03-12
 |[aws autoscaling describe-scheduled-actions](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-scheduled-actions.html)|[Get-ASScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASScheduledAction.html)|
 |[aws autoscaling describe-tags](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-tags.html)|[Get-ASTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTag.html)|
 |[aws autoscaling describe-termination-policy-types](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-termination-policy-types.html)|[Get-ASTerminationPolicyType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTerminationPolicyType.html)|
+|[aws autoscaling describe-warm-pool](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-warm-pool.html)|[Get-ASWarmPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASWarmPool.html)|
 |[aws autoscaling detach-instances](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-instances.html)|[Dismount-ASInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASInstance.html)|
 |[aws autoscaling detach-load-balancer-target-groups](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-load-balancer-target-groups.html)|[Dismount-ASLoadBalancerTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASLoadBalancerTargetGroup.html)|
 |[aws autoscaling detach-load-balancers](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-load-balancers.html)|[Dismount-ASLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASLoadBalancer.html)|
@@ -60,6 +62,7 @@ date: 2021-03-12
 |[aws autoscaling put-notification-configuration](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-notification-configuration.html)|[Write-ASNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASNotificationConfiguration.html)|
 |[aws autoscaling put-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-scaling-policy.html)|[Write-ASScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScalingPolicy.html)|
 |[aws autoscaling put-scheduled-update-group-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-scheduled-update-group-action.html)|[Write-ASScheduledUpdateGroupAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScheduledUpdateGroupAction.html)|
+|[aws autoscaling put-warm-pool](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-warm-pool.html)|[Write-ASWarmPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASWarmPool.html)|
 |[aws autoscaling record-lifecycle-action-heartbeat](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/record-lifecycle-action-heartbeat.html)|[Write-ASLifecycleActionHeartbeat](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleActionHeartbeat.html)|
 |[aws autoscaling resume-processes](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/resume-processes.html)|[Resume-ASProcess](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-ASProcess.html)|
 |[aws autoscaling set-desired-capacity](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-desired-capacity.html)|[Set-ASDesiredCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASDesiredCapacity.html)|

@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2021-03-12
+date: 2021-04-18
 ---
 
 ## workmail
@@ -17,6 +17,7 @@ date: 2021-03-12
 |[aws workmail cancel-mailbox-export-job](https://docs.aws.amazon.com/cli/latest/reference/workmail/cancel-mailbox-export-job.html)|[Stop-WMMailboxExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-WMMailboxExportJob.html)|
 |[aws workmail create-alias](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-alias.html)|[New-WMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMAlias.html)|
 |[aws workmail create-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-group.html)|[New-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMGroup.html)|
+|[aws workmail create-mobile-device-access-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-mobile-device-access-rule.html)|[New-WMMobileDeviceAccessRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMMobileDeviceAccessRule.html)|
 |[aws workmail create-organization](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-organization.html)|[New-WMOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMOrganization.html)|
 |[aws workmail create-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-resource.html)|[New-WMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMResource.html)|
 |[aws workmail create-user](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-user.html)|[New-WMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMUser.html)|
@@ -24,6 +25,7 @@ date: 2021-03-12
 |[aws workmail delete-alias](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-alias.html)|[Remove-WMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMAlias.html)|
 |[aws workmail delete-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-group.html)|[Remove-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMGroup.html)|
 |[aws workmail delete-mailbox-permissions](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-mailbox-permissions.html)|[Remove-WMMailboxPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMailboxPermission.html)|
+|[aws workmail delete-mobile-device-access-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-mobile-device-access-rule.html)|[Remove-WMMobileDeviceAccessRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMobileDeviceAccessRule.html)|
 |[aws workmail delete-organization](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-organization.html)|[Remove-WMOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMOrganization.html)|
 |[aws workmail delete-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-resource.html)|[Remove-WMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMResource.html)|
 |[aws workmail delete-retention-policy](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-retention-policy.html)|[Remove-WMRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMRetentionPolicy.html)|
@@ -39,12 +41,14 @@ date: 2021-03-12
 |[aws workmail get-access-control-effect](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-access-control-effect.html)|[Get-WMAccessControlEffect](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAccessControlEffect.html)|
 |[aws workmail get-default-retention-policy](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-default-retention-policy.html)|[Get-WMDefaultRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMDefaultRetentionPolicy.html)|
 |[aws workmail get-mailbox-details](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-mailbox-details.html)|[Get-WMMailboxDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxDetail.html)|
+|[aws workmail get-mobile-device-access-effect](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-mobile-device-access-effect.html)|[Get-WMMobileDeviceAccessEffect](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMobileDeviceAccessEffect.html)|
 |[aws workmail list-access-control-rules](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-access-control-rules.html)|[Get-WMAccessControlRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAccessControlRuleList.html)|
 |[aws workmail list-aliases](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-aliases.html)|[Get-WMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAliasList.html)|
 |[aws workmail list-group-members](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-group-members.html)|[Get-WMMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMemberList.html)|
 |[aws workmail list-groups](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-groups.html)|[Get-WMGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroupList.html)|
 |[aws workmail list-mailbox-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-mailbox-export-jobs.html)|[Get-WMMailboxExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxExportJobList.html)|
 |[aws workmail list-mailbox-permissions](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-mailbox-permissions.html)|[Get-WMMailboxPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxPermissionList.html)|
+|[aws workmail list-mobile-device-access-rules](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-mobile-device-access-rules.html)|[Get-WMMobileDeviceAccessRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMobileDeviceAccessRuleList.html)|
 |[aws workmail list-organizations](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-organizations.html)|[Get-WMOrganizationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMOrganizationList.html)|
 |[aws workmail list-resource-delegates](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-resource-delegates.html)|[Get-WMDelegateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMDelegateList.html)|
 |[aws workmail list-resources](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-resources.html)|[Get-WMResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMResourceList.html)|
@@ -59,6 +63,7 @@ date: 2021-03-12
 |[aws workmail tag-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/tag-resource.html)|[Add-WMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WMResourceTag.html)|
 |[aws workmail untag-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/untag-resource.html)|[Remove-WMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMResourceTag.html)|
 |[aws workmail update-mailbox-quota](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-mailbox-quota.html)|[Update-WMMailboxQuota](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMailboxQuota.html)|
+|[aws workmail update-mobile-device-access-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-mobile-device-access-rule.html)|[Update-WMMobileDeviceAccessRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMobileDeviceAccessRule.html)|
 |[aws workmail update-primary-email-address](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-primary-email-address.html)|[Update-WMPrimaryEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMPrimaryEmailAddress.html)|
 |[aws workmail update-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-resource.html)|[Update-WMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMResource.html)|
 

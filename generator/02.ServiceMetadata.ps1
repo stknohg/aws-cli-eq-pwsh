@@ -163,7 +163,7 @@ $g_AWSServices = @{
     'connectparticipant'           = [PSCustomObject]@{ Prefix = 'CONNP'; Name = 'Amazon Connect Participant Service'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'cur'                          = [PSCustomObject]@{ Prefix = 'CUR'; Name = 'AWS Cost and Usage Report'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/'; Note = '' };
     'customer-profiles'            = [PSCustomObject]@{ Prefix = 'CPF'; Name = 'Amazon Connect Customer Profiles'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
-    'databrew'                     = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Glue DataBrew'; Url = 'https://aws.amazon.com/glue/features/databrew/'; Note = '' };
+    'databrew'                     = [PSCustomObject]@{ Prefix = 'GDB'; Name = 'AWS Glue DataBrew'; Url = 'https://aws.amazon.com/glue/features/databrew/'; Note = '' };
     'dataexchange'                 = [PSCustomObject]@{ Prefix = 'DTEX'; Name = 'AWS Data Exchange'; Url = 'https://aws.amazon.com/data-exchange/'; Note = '' };
     'datapipeline'                 = [PSCustomObject]@{ Prefix = 'DP'; Name = 'AWS Data Pipeline'; Url = 'https://aws.amazon.com/datapipeline/'; Note = '' };
     'datasync'                     = [PSCustomObject]@{ Prefix = 'DSYN'; Name = 'AWS DataSync'; Url = 'https://aws.amazon.com/datasync/'; Note = '' };
@@ -182,7 +182,7 @@ $g_AWSServices = @{
     'ddb'                          = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = 'High level DynamoDB commands.' };
     'dynamodbstreams'              = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB Streams'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
     'ebs'                          = [PSCustomObject]@{ Prefix = 'EBS'; Name = 'Amazon Elastic Block Store'; Url = 'https://aws.amazon.com/ebs/'; Note = '' };
-    'ec2-instance-connect'         = [PSCustomObject]@{ Prefix = ''; Name = 'AWS EC2 Connect Service'; Url = 'https://aws.amazon.com/ec2/'; Note = '' };
+    'ec2-instance-connect'         = [PSCustomObject]@{ Prefix = 'EC2IC'; Name = 'AWS EC2 Connect Service'; Url = 'https://aws.amazon.com/ec2/'; Note = '' };
     'ec2'                          = [PSCustomObject]@{ Prefix = 'EC2'; Name = 'Amazon EC2'; Url = 'https://aws.amazon.com/ec2/'; Note = '' };
     'ecr-public'                   = [PSCustomObject]@{ Prefix = 'ECRP'; Name = 'Amazon Elastic Container Registry Public'; Url = 'https://aws.amazon.com/ecr/'; Note = '' };
     'ecr'                          = [PSCustomObject]@{ Prefix = 'ECR'; Name = 'Amazon Elastic Container Registry'; Url = 'https://aws.amazon.com/ecr/'; Note = '' };
@@ -217,7 +217,7 @@ $g_AWSServices = @{
     'health'                       = [PSCustomObject]@{ Prefix = 'HLTH'; Name = 'AWS Health'; Url = 'https://phd.aws.amazon.com/'; Note = '' };
     'healthlake'                   = [PSCustomObject]@{ Prefix = 'AHLFHIR'; Name = 'Amazon HealthLake'; Url = 'https://aws.amazon.com/healthlake/'; Note = '' };
     'history'                      = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = 'Commands to interact with the history of AWS CLI commands ran over time.' };
-    'honeycode'                    = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Honeycode'; Url = 'https://www.honeycode.aws/'; Note = '' };
+    'honeycode'                    = [PSCustomObject]@{ Prefix = 'HC'; Name = 'Amazon Honeycode'; Url = 'https://www.honeycode.aws/'; Note = '' };
     'iam'                          = [PSCustomObject]@{ Prefix = 'IAM'; Name = 'AWS Identity and Access Management'; Url = 'https://aws.amazon.com/iam/'; Note = '' };
     'identitystore'                = [PSCustomObject]@{ Prefix = 'IDS'; Name = 'AWS SSO Identity Store'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
     'imagebuilder'                 = [PSCustomObject]@{ Prefix = 'EC2IB'; Name = 'EC2 Image Builder'; Url = 'https://aws.amazon.com/image-builder/'; Note = '' };
@@ -258,7 +258,7 @@ $g_AWSServices = @{
     'lightsail'                    = [PSCustomObject]@{ Prefix = 'LS'; Name = 'Amazon Lightsail'; Url = 'https://aws.amazon.com/lightsail/'; Note = '' };
     'location'                     = [PSCustomObject]@{ Prefix = 'LOC'; Name = 'Amazon Location'; Url = 'https://aws.amazon.com/location/'; Note = '' };
     'logs'                         = [PSCustomObject]@{ Prefix = 'CWL'; Name = 'Amazon CloudWatch Logs'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
-    'lookoutequipment'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Lookout for Equipment'; Url = 'https://aws.amazon.com/lookout-for-equipment/'; Note = '' };
+    'lookoutequipment'             = [PSCustomObject]@{ Prefix = 'L4E'; Name = 'Amazon Lookout for Equipment'; Url = 'https://aws.amazon.com/lookout-for-equipment/'; Note = '' };
     'lookoutmetrics'               = [PSCustomObject]@{ Prefix = 'LOM'; Name = 'Amazon Lookout for Metrics'; Url = 'https://aws.amazon.com/lookout-for-metrics/'; Note = '' };
     'lookoutvision'                = [PSCustomObject]@{ Prefix = 'LFV'; Name = 'Amazon Lookout for Vision'; Url = 'https://aws.amazon.com/lookout-for-vision/'; Note = '' };
     'machinelearning'              = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = '' };
@@ -287,6 +287,7 @@ $g_AWSServices = @{
     'neptune'                      = [PSCustomObject]@{ Prefix = 'NPT'; Name = 'Amazon Neptune'; Url = 'https://aws.amazon.com/neptune/'; Note = '' };
     'network-firewall'             = [PSCustomObject]@{ Prefix = 'NWFW'; Name = 'AWS Network Firewall'; Url = 'https://aws.amazon.com/network-firewall/'; Note = '' };
     'networkmanager'               = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = '' }
+    'nimble'                       = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Nimble Studio'; Url = 'https://aws.amazon.com/nimble-studio/'; Note = '' }
     'opsworks'                     = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                  = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
@@ -325,7 +326,7 @@ $g_AWSServices = @{
     'sagemaker-featurestore-runtime' = [PSCustomObject]@{ Prefix = 'SMFS'; Name = 'Amazon SageMaker Feature Store'; Url = 'https://aws.amazon.com/sagemaker/feature-store/'; Note = '' };
     'sagemaker-runtime'            = [PSCustomObject]@{ Prefix = 'SMR'; Name = 'Amazon SageMaker'; Url = 'https://aws.amazon.com/sagemaker/'; Note = '' };
     'savingsplans'                 = [PSCustomObject]@{ Prefix = 'SP'; Name = 'AWS Savings Plans'; Url = 'https://aws.amazon.com/savingsplans/'; Note = '' };
-    'schemas'                      = [PSCustomObject]@{ Prefix = ''; Name = 'AWS EventBridge Schemas'; Url = 'https://aws.amazon.com/eventbridge/'; Note = '' };
+    'schemas'                      = [PSCustomObject]@{ Prefix = 'SCHM'; Name = 'AWS EventBridge Schemas'; Url = 'https://aws.amazon.com/eventbridge/'; Note = '' };
     'sdb'                          = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon SimpleDB'; Url = 'https://aws.amazon.com/simpledb/'; Note = '' };
     'secretsmanager'               = [PSCustomObject]@{ Prefix = 'SEC'; Name = 'AWS Secrets Manager'; Url = 'https://aws.amazon.com/secrets-manager/'; Note = '' };
     'securityhub'                  = [PSCustomObject]@{ Prefix = 'SHUB'; Name = 'AWS Security Hub'; Url = 'https://aws.amazon.com/securityhub/'; Note = '' };
@@ -353,8 +354,8 @@ $g_AWSServices = @{
     'swf'                          = [PSCustomObject]@{ Prefix = 'SWF'; Name = 'Amazon Simple Workflow'; Url = 'https://aws.amazon.com/swf/'; Note = '' };
     'synthetics'                   = [PSCustomObject]@{ Prefix = 'CWSYN'; Name = 'Amazon CloudWatch Synthetics'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'textract'                     = [PSCustomObject]@{ Prefix = 'TXT'; Name = 'Amazon Textract'; Url = 'https://aws.amazon.com/textract/'; Note = '' };
-    'timestream-query'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
-    'timestream-write'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
+    'timestream-query'             = [PSCustomObject]@{ Prefix = 'TSQ'; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
+    'timestream-write'             = [PSCustomObject]@{ Prefix = 'TSW'; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
     'transcribe'                   = [PSCustomObject]@{ Prefix = 'TRS'; Name = 'Amazon Transcribe'; Url = 'https://aws.amazon.com/transcribe/'; Note = '' };
     'transfer'                     = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer for SFTP'; Url = 'https://aws.amazon.com/sftp/'; Note = '' };
     'translate'                    = [PSCustomObject]@{ Prefix = 'TRN'; Name = 'Amazon Translate'; Url = 'https://aws.amazon.com/translate/'; Note = '' };
@@ -431,7 +432,7 @@ $g_CmdletReferenceLinks = @{
     'connectparticipant'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectParticipant_cmdlets.html'
     'cur'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_and_Usage_Report_cmdlets.html';
     'customer-profiles'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CustomerProfiles_cmdlets.html'
-    'databrew'                     = ''
+    'databrew'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/GlueDataBrew_cmdlets.html'
     'dataexchange'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/DataExchange_cmdlets.html'
     'datapipeline'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Data_Pipeline_cmdlets.html';
     'datasync'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_DataSync_cmdlets.html';
@@ -449,7 +450,7 @@ $g_CmdletReferenceLinks = @{
     'dynamodb'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html';
     'dynamodbstreams'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html';
     'ebs'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/EBS_cmdlets.html'
-    'ec2-instance-connect'         = '';
+    'ec2-instance-connect'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/EC2InstanceConnect_cmdlets.html';
     'ec2'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Compute_Cloud_cmdlets.html';
     'ecr-public'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ECRPublic_cmdlets.html'
     'ecr'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_EC2_Container_Registry_cmdlets.html';
@@ -484,7 +485,7 @@ $g_CmdletReferenceLinks = @{
     'health'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Health_cmdlets.html';
     'healthlake'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/HealthLake_cmdlets.html'
     'history'                      = '';
-    'honeycode'                    = '';
+    'honeycode'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Honeycode_cmdlets.html';
     'iam'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Identity_and_Access_Management_cmdlets.html';
     'identitystore'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IdentityStore_cmdlets.html';
     'imagebuilder'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Imagebuilder_cmdlets.html';
@@ -525,7 +526,7 @@ $g_CmdletReferenceLinks = @{
     'lightsail'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Lightsail_cmdlets.html';
     'location'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LocationService_cmdlets.html';
     'logs'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Logs_cmdlets.html';
-    'lookoutequipment'             = '';
+    'lookoutequipment'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutEquipment_cmdlets.html';
     'lookoutmetrics'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutMetrics_cmdlets.html';
     'lookoutvision'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutforVision_cmdlets.html';
     'machinelearning'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html';
@@ -554,6 +555,7 @@ $g_CmdletReferenceLinks = @{
     'neptune'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Neptune_cmdlets.html';
     'network-firewall'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html';
     'networkmanager'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html'
+    'nimble'                       = '';
     'opsworks'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
     'organizations'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html';
@@ -592,7 +594,7 @@ $g_CmdletReferenceLinks = @{
     'sagemaker-featurestore-runtime' = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerFeatureStoreRuntime_cmdlets.html';
     'sagemaker-runtime'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html';
     'savingsplans'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html';
-    'schemas'                      = '';
+    'schemas'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Schemas_cmdlets.html';
     'sdb'                          = '';
     'secretsmanager'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Secrets_Manager_cmdlets.html';
     'securityhub'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Hub_cmdlets.html';
@@ -619,8 +621,8 @@ $g_CmdletReferenceLinks = @{
     'swf'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Simple_Workflow_Service_cmdlets.html';
     'synthetics'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Synthetics_cmdlets.html';
     'textract'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Textract_cmdlets.html';
-    'timestream-query'             = '';
-    'timestream-write'             = '';
+    'timestream-query'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/TimestreamQuery_cmdlets.html';
+    'timestream-write'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/TimestreamWrite_cmdlets.html';
     'transcribe'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Transcribe_Service_cmdlets.html';
     'transfer'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html';
     'translate'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Translate_cmdlets.html';

@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 ## kinesisanalyticsv2
@@ -39,4 +39,5 @@ date: 2021-04-18
 |[aws kinesisanalyticsv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/tag-resource.html)|[Add-KINA2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ResourceTag.html)|
 |[aws kinesisanalyticsv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/untag-resource.html)|[Remove-KINA2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ResourceTag.html)|
 |[aws kinesisanalyticsv2 update-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/update-application.html)|[Update-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINA2Application.html)|
+|[aws kinesisanalyticsv2 update-application-maintenance-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/update-application-maintenance-configuration.html)||
 

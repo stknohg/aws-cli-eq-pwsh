@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 ## dms
@@ -32,7 +32,7 @@ date: 2021-04-18
 |[aws dms describe-applicable-individual-assessments](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-applicable-individual-assessments.html)|[Get-DMSApplicableIndividualAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSApplicableIndividualAssessment.html)|
 |[aws dms describe-certificates](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-certificates.html)|[Get-DMSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSCertificate.html)|
 |[aws dms describe-connections](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-connections.html)|[Get-DMSConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSConnection.html)|
-|[aws dms describe-endpoint-settings](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoint-settings.html)||
+|[aws dms describe-endpoint-settings](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoint-settings.html)|[Get-DMSEndpointSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpointSetting.html)|
 |[aws dms describe-endpoint-types](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoint-types.html)|[Get-DMSEndpointType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpointType.html)|
 |[aws dms describe-endpoints](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-endpoints.html)|[Get-DMSEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpoint.html)|
 |[aws dms describe-event-categories](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-event-categories.html)|[Get-DMSEventCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEventCategory.html)|

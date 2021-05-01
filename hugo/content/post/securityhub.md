@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 ## securityhub
@@ -12,6 +12,7 @@ date: 2021-04-18
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws securityhub accept-administrator-invitation](https://docs.aws.amazon.com/cli/latest/reference/securityhub/accept-administrator-invitation.html)|[Confirm-SHUBAdministratorInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-SHUBAdministratorInvitation.html)|
 |[aws securityhub accept-invitation](https://docs.aws.amazon.com/cli/latest/reference/securityhub/accept-invitation.html)|[Confirm-SHUBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-SHUBInvitation.html)|
 |[aws securityhub batch-disable-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-disable-standards.html)|[Disable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBStandardsBatch.html)|
 |[aws securityhub batch-enable-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-enable-standards.html)|[Enable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBStandardsBatch.html)|
@@ -34,11 +35,13 @@ date: 2021-04-18
 |[aws securityhub disable-import-findings-for-product](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-import-findings-for-product.html)|[Disable-SHUBImportFindingsForProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBImportFindingsForProduct.html)|
 |[aws securityhub disable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-organization-admin-account.html)|[Disable-SHUBOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBOrganizationAdminAccount.html)|
 |[aws securityhub disable-security-hub](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disable-security-hub.html)|[Disable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBSecurityHub.html)|
+|[aws securityhub disassociate-from-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disassociate-from-administrator-account.html)|[Remove-SHUBFromAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBFromAdministratorAccount.html)|
 |[aws securityhub disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disassociate-from-master-account.html)|[Remove-SHUBMasterAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMasterAccountAssociation.html)|
 |[aws securityhub disassociate-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/disassociate-members.html)|[Remove-SHUBMemberAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMemberAssociation.html)|
 |[aws securityhub enable-import-findings-for-product](https://docs.aws.amazon.com/cli/latest/reference/securityhub/enable-import-findings-for-product.html)|[Enable-SHUBImportFindingsForProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBImportFindingsForProduct.html)|
 |[aws securityhub enable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/enable-organization-admin-account.html)|[Enable-SHUBOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBOrganizationAdminAccount.html)|
 |[aws securityhub enable-security-hub](https://docs.aws.amazon.com/cli/latest/reference/securityhub/enable-security-hub.html)|[Enable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBSecurityHub.html)|
+|[aws securityhub get-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-administrator-account.html)|[Get-SHUBAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAdministratorAccount.html)|
 |[aws securityhub get-enabled-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-enabled-standards.html)|[Get-SHUBEnabledStandard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledStandard.html)|
 |[aws securityhub get-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-findings.html)|[Get-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFinding.html)|
 |[aws securityhub get-insight-results](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-insight-results.html)|[Get-SHUBInsightResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsightResult.html)|

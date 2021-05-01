@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 ## lexv2-models
@@ -12,7 +12,7 @@ date: 2021-04-18
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws lexv2-models build-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/build-bot-locale.html)|[Build-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Build-LMBV2BotLocale.html)|
+|[aws lexv2-models build-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/build-bot-locale.html)|[Invoke-LMBV2BuildBotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMBV2BuildBotLocale.html)|
 |[aws lexv2-models create-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-bot.html)|[New-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2Bot.html)|
 |[aws lexv2-models create-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-bot-alias.html)|[New-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2BotAlias.html)|
 |[aws lexv2-models create-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-bot-locale.html)|[New-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2BotLocale.html)|

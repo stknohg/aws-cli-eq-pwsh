@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 ## redshift
@@ -13,6 +13,7 @@ date: 2021-04-18
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws redshift accept-reserved-node-exchange](https://docs.aws.amazon.com/cli/latest/reference/redshift/accept-reserved-node-exchange.html)|[Switch-RSReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RSReservedNode.html)|
+|[aws redshift add-partner](https://docs.aws.amazon.com/cli/latest/reference/redshift/add-partner.html)|[Add-RSPartner](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RSPartner.html)|
 |[aws redshift authorize-cluster-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/redshift/authorize-cluster-security-group-ingress.html)|[Approve-RSClusterSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-RSClusterSecurityGroupIngress.html)|
 |[aws redshift authorize-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/authorize-endpoint-access.html)|[Approve-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-RSEndpointAccess.html)|
 |[aws redshift authorize-snapshot-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/authorize-snapshot-access.html)|[Approve-RSSnapshotAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-RSSnapshotAccess.html)|
@@ -43,6 +44,7 @@ date: 2021-04-18
 |[aws redshift delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-event-subscription.html)|[Remove-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSEventSubscription.html)|
 |[aws redshift delete-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-client-certificate.html)|[Remove-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmClientCertificate.html)|
 |[aws redshift delete-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-configuration.html)|[Remove-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmConfiguration.html)|
+|[aws redshift delete-partner](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-partner.html)|[Remove-RSPartner](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSPartner.html)|
 |[aws redshift delete-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-scheduled-action.html)|[Remove-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSScheduledAction.html)|
 |[aws redshift delete-snapshot-copy-grant](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-copy-grant.html)|[Remove-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotCopyGrant.html)|
 |[aws redshift delete-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-schedule.html)|[Remove-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotSchedule.html)|
@@ -69,6 +71,7 @@ date: 2021-04-18
 |[aws redshift describe-logging-status](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-logging-status.html)|[Get-RSLoggingStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSLoggingStatus.html)|
 |[aws redshift describe-node-configuration-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-node-configuration-options.html)|[Get-RSNodeConfigurationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSNodeConfigurationOption.html)|
 |[aws redshift describe-orderable-cluster-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-orderable-cluster-options.html)|[Get-RSOrderableClusterOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSOrderableClusterOption.html)|
+|[aws redshift describe-partners](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-partners.html)|[Get-RSPartner](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSPartner.html)|
 |[aws redshift describe-reserved-node-offerings](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-node-offerings.html)|[Get-RSReservedNodeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeOffering.html)|
 |[aws redshift describe-reserved-nodes](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-nodes.html)|[Get-RSReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNode.html)|
 |[aws redshift describe-resize](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-resize.html)|[Get-RSResize](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSResize.html)|
@@ -112,4 +115,5 @@ date: 2021-04-18
 |[aws redshift revoke-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-endpoint-access.html)|[Revoke-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSEndpointAccess.html)|
 |[aws redshift revoke-snapshot-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/revoke-snapshot-access.html)|[Revoke-RSSnapshotAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSSnapshotAccess.html)|
 |[aws redshift rotate-encryption-key](https://docs.aws.amazon.com/cli/latest/reference/redshift/rotate-encryption-key.html)|[Switch-RSEncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RSEncryptionKey.html)|
+|[aws redshift update-partner-status](https://docs.aws.amazon.com/cli/latest/reference/redshift/update-partner-status.html)|[Update-RSPartnerStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSPartnerStatus.html)|
 

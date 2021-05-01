@@ -1,14 +1,14 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.1.38 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.11.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.2.1 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.12.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -80,7 +80,7 @@ For that reason, some content may not be accurate.
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
 |[AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)|[cur]({{%relref "post/cur.md" %}})|CUR||
 |[Amazon Connect Customer Profiles](https://aws.amazon.com/connect/)|[customer-profiles]({{%relref "post/customer-profiles.md" %}})|CPF||
-|[AWS Glue DataBrew](https://aws.amazon.com/glue/features/databrew/)|[databrew]({{%relref "post/databrew.md" %}})|||
+|[AWS Glue DataBrew](https://aws.amazon.com/glue/features/databrew/)|[databrew]({{%relref "post/databrew.md" %}})|GDB||
 |[AWS Data Exchange](https://aws.amazon.com/data-exchange/)|[dataexchange]({{%relref "post/dataexchange.md" %}})|DTEX||
 |[AWS Data Pipeline](https://aws.amazon.com/datapipeline/)|[datapipeline]({{%relref "post/datapipeline.md" %}})|DP||
 |[AWS DataSync](https://aws.amazon.com/datasync/)|[datasync]({{%relref "post/datasync.md" %}})|DSYN||
@@ -100,7 +100,7 @@ For that reason, some content may not be accurate.
 |[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|DDB||
 |[Amazon Elastic Block Store](https://aws.amazon.com/ebs/)|[ebs]({{%relref "post/ebs.md" %}})|EBS||
 |[Amazon EC2](https://aws.amazon.com/ec2/)|[ec2]({{%relref "post/ec2.md" %}})|EC2||
-|[AWS EC2 Connect Service](https://aws.amazon.com/ec2/)|[ec2-instance-connect]({{%relref "post/ec2-instance-connect.md" %}})|||
+|[AWS EC2 Connect Service](https://aws.amazon.com/ec2/)|[ec2-instance-connect]({{%relref "post/ec2-instance-connect.md" %}})|EC2IC||
 |[Amazon Elastic Container Registry](https://aws.amazon.com/ecr/)|[ecr]({{%relref "post/ecr.md" %}})|ECR||
 |[Amazon Elastic Container Registry Public](https://aws.amazon.com/ecr/)|[ecr-public]({{%relref "post/ecr-public.md" %}})|ECRP||
 |[Amazon Elastic Container Service](https://aws.amazon.com/ecs/)|[ecs]({{%relref "post/ecs.md" %}})|ECS||
@@ -134,7 +134,7 @@ For that reason, some content may not be accurate.
 |[AWS Health](https://phd.aws.amazon.com/)|[health]({{%relref "post/health.md" %}})|HLTH||
 |[Amazon HealthLake](https://aws.amazon.com/healthlake/)|[healthlake]({{%relref "post/healthlake.md" %}})|AHLFHIR||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
-|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})|||
+|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})|HC||
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
 |[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|IDS||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
@@ -175,7 +175,7 @@ For that reason, some content may not be accurate.
 |[Amazon Lightsail](https://aws.amazon.com/lightsail/)|[lightsail]({{%relref "post/lightsail.md" %}})|LS||
 |[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
-|[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)|[lookoutequipment]({{%relref "post/lookoutequipment.md" %}})|||
+|[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)|[lookoutequipment]({{%relref "post/lookoutequipment.md" %}})|L4E||
 |[Amazon Lookout for Metrics](https://aws.amazon.com/lookout-for-metrics/)|[lookoutmetrics]({{%relref "post/lookoutmetrics.md" %}})|LOM||
 |[Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)|[lookoutvision]({{%relref "post/lookoutvision.md" %}})|LFV||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
@@ -204,6 +204,7 @@ For that reason, some content may not be accurate.
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptune]({{%relref "post/neptune.md" %}})|NPT||
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
+|[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|||
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
@@ -242,7 +243,7 @@ For that reason, some content may not be accurate.
 |[Amazon SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)|[sagemaker-featurestore-runtime]({{%relref "post/sagemaker-featurestore-runtime.md" %}})|SMFS||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
-|[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|||
+|[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|SCHM||
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[sdb]({{%relref "post/sdb.md" %}})|||
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
 |[AWS Security Hub](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
@@ -270,8 +271,8 @@ For that reason, some content may not be accurate.
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
 |[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||
 |[Amazon Textract](https://aws.amazon.com/textract/)|[textract]({{%relref "post/textract.md" %}})|TXT||
-|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|||
-|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|||
+|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|TSQ||
+|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|TSW||
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer for SFTP](https://aws.amazon.com/sftp/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||

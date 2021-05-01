@@ -1,6 +1,6 @@
 ---
 title: ec2-instance-connect
-date: 2021-04-18
+date: 2021-05-01
 ---
 
 ## ec2-instance-connect
@@ -8,10 +8,10 @@ date: 2021-04-18
 ### [AWS EC2 Connect Service](https://aws.amazon.com/ec2/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/EC2InstanceConnect_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws ec2-instance-connect send-serial-console-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/send-serial-console-ssh-public-key.html)||
-|[aws ec2-instance-connect send-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/send-ssh-public-key.html)||
+|[aws ec2-instance-connect send-serial-console-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/send-serial-console-ssh-public-key.html)|[Send-EC2ICSerialConsoleSSHPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2ICSerialConsoleSSHPublicKey.html)|
+|[aws ec2-instance-connect send-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/ec2-instance-connect/send-ssh-public-key.html)|[Send-EC2ICSSHPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2ICSSHPublicKey.html)|
 

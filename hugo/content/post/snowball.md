@@ -1,6 +1,6 @@
 ---
 title: snowball
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## snowball
@@ -17,6 +17,7 @@ date: 2021-05-01
 |[aws snowball create-address](https://docs.aws.amazon.com/cli/latest/reference/snowball/create-address.html)|[New-SNOWAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SNOWAddress.html)|
 |[aws snowball create-cluster](https://docs.aws.amazon.com/cli/latest/reference/snowball/create-cluster.html)|[New-SNOWCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SNOWCluster.html)|
 |[aws snowball create-job](https://docs.aws.amazon.com/cli/latest/reference/snowball/create-job.html)|[New-SNOWJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SNOWJob.html)|
+|[aws snowball create-long-term-pricing](https://docs.aws.amazon.com/cli/latest/reference/snowball/create-long-term-pricing.html)|[New-SNOWLongTermPricing](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SNOWLongTermPricing.html)|
 |[aws snowball create-return-shipping-label](https://docs.aws.amazon.com/cli/latest/reference/snowball/create-return-shipping-label.html)|[New-SNOWReturnShippingLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SNOWReturnShippingLabel.html)|
 |[aws snowball describe-address](https://docs.aws.amazon.com/cli/latest/reference/snowball/describe-address.html)|[Get-SNOWAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWAddress.html)|
 |[aws snowball describe-addresses](https://docs.aws.amazon.com/cli/latest/reference/snowball/describe-addresses.html)|[Get-SNOWAddressList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWAddressList.html)|
@@ -31,7 +32,9 @@ date: 2021-05-01
 |[aws snowball list-clusters](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-clusters.html)|[Get-SNOWClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWClusterList.html)|
 |[aws snowball list-compatible-images](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-compatible-images.html)|[Get-SNOWCompatibleImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWCompatibleImageList.html)|
 |[aws snowball list-jobs](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-jobs.html)|[Get-SNOWJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWJobList.html)|
+|[aws snowball list-long-term-pricing](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-long-term-pricing.html)|[Get-SNOWLongTermPricing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWLongTermPricing.html)|
 |[aws snowball update-cluster](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-cluster.html)|[Update-SNOWCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWCluster.html)|
 |[aws snowball update-job](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-job.html)|[Update-SNOWJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWJob.html)|
 |[aws snowball update-job-shipment-state](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-job-shipment-state.html)|[Update-SNOWJobShipmentState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWJobShipmentState.html)|
+|[aws snowball update-long-term-pricing](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-long-term-pricing.html)|[Update-SNOWLongTermPricing](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWLongTermPricing.html)|
 

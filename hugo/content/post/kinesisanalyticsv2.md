@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## kinesisanalyticsv2
@@ -30,14 +30,17 @@ date: 2021-05-01
 |[aws kinesisanalyticsv2 delete-application-vpc-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/delete-application-vpc-configuration.html)|[Remove-KINA2ApplicationVpcConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationVpcConfiguration.html)|
 |[aws kinesisanalyticsv2 describe-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/describe-application.html)|[Get-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2Application.html)|
 |[aws kinesisanalyticsv2 describe-application-snapshot](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/describe-application-snapshot.html)|[Get-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationSnapshot.html)|
+|[aws kinesisanalyticsv2 describe-application-version](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/describe-application-version.html)|[Get-KINA2ApplicationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationVersion.html)|
 |[aws kinesisanalyticsv2 discover-input-schema](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/discover-input-schema.html)|[Find-KINA2InputSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-KINA2InputSchema.html)|
 |[aws kinesisanalyticsv2 list-application-snapshots](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-application-snapshots.html)|[Get-KINA2ApplicationSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationSnapshotList.html)|
+|[aws kinesisanalyticsv2 list-application-versions](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-application-versions.html)|[Get-KINA2ApplicationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationVersionList.html)|
 |[aws kinesisanalyticsv2 list-applications](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-applications.html)|[Get-KINA2ApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationList.html)|
 |[aws kinesisanalyticsv2 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/list-tags-for-resource.html)|[Get-KINA2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ResourceTag.html)|
+|[aws kinesisanalyticsv2 rollback-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/rollback-application.html)|[Undo-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-KINA2Application.html)|
 |[aws kinesisanalyticsv2 start-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/start-application.html)|[Start-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KINA2Application.html)|
 |[aws kinesisanalyticsv2 stop-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/stop-application.html)|[Stop-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINA2Application.html)|
 |[aws kinesisanalyticsv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/tag-resource.html)|[Add-KINA2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINA2ResourceTag.html)|
 |[aws kinesisanalyticsv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/untag-resource.html)|[Remove-KINA2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ResourceTag.html)|
 |[aws kinesisanalyticsv2 update-application](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/update-application.html)|[Update-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINA2Application.html)|
-|[aws kinesisanalyticsv2 update-application-maintenance-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/update-application-maintenance-configuration.html)||
+|[aws kinesisanalyticsv2 update-application-maintenance-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisanalyticsv2/update-application-maintenance-configuration.html)|[Update-KINA2ApplicationMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINA2ApplicationMaintenanceConfiguration.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## iotsitewise
@@ -45,7 +45,7 @@ date: 2021-05-01
 |[aws iotsitewise get-asset-property-aggregates](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-aggregates.html)|[Get-IOTSWAssetPropertyAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyAggregate.html)|
 |[aws iotsitewise get-asset-property-value](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-value.html)|[Get-IOTSWAssetPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyValue.html)|
 |[aws iotsitewise get-asset-property-value-history](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-value-history.html)|[Get-IOTSWAssetPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyValueHistory.html)|
-|[aws iotsitewise get-interpolated-asset-property-values](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-interpolated-asset-property-values.html)||
+|[aws iotsitewise get-interpolated-asset-property-values](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-interpolated-asset-property-values.html)|[Get-IOTSWInterpolatedAssetPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWInterpolatedAssetPropertyValue.html)|
 |[aws iotsitewise list-access-policies](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-access-policies.html)|[Get-IOTSWAccessPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAccessPolicyList.html)|
 |[aws iotsitewise list-asset-models](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-models.html)|[Get-IOTSWAssetModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetModelList.html)|
 |[aws iotsitewise list-asset-relationships](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-relationships.html)|[Get-IOTSWAssetRelationshipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetRelationshipList.html)|

@@ -1,6 +1,6 @@
 ---
 title: iotdeviceadvisor
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## iotdeviceadvisor
@@ -20,8 +20,8 @@ date: 2021-05-01
 |[aws iotdeviceadvisor list-suite-definitions](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/list-suite-definitions.html)|[Get-IOTDASuiteDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDASuiteDefinitionList.html)|
 |[aws iotdeviceadvisor list-suite-runs](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/list-suite-runs.html)|[Get-IOTDASuiteRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDASuiteRunList.html)|
 |[aws iotdeviceadvisor list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/list-tags-for-resource.html)|[Get-IOTDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDAResourceTag.html)|
-|[aws iotdeviceadvisor list-test-cases](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/list-test-cases.html)|[Get-IOTDATestCaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDATestCaseList.html)|
 |[aws iotdeviceadvisor start-suite-run](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/start-suite-run.html)|[Start-IOTDASuiteRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IOTDASuiteRun.html)|
+|[aws iotdeviceadvisor stop-suite-run](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/stop-suite-run.html)|[Stop-IOTDASuiteRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IOTDASuiteRun.html)|
 |[aws iotdeviceadvisor tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/tag-resource.html)|[Add-IOTDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTDAResourceTag.html)|
 |[aws iotdeviceadvisor untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/untag-resource.html)|[Remove-IOTDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDAResourceTag.html)|
 |[aws iotdeviceadvisor update-suite-definition](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/update-suite-definition.html)|[Update-IOTDASuiteDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDASuiteDefinition.html)|

@@ -1,6 +1,6 @@
 ---
 title: devops-guru
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## devops-guru
@@ -20,6 +20,7 @@ date: 2021-05-01
 |[aws devops-guru describe-insight](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-insight.html)|[Get-DGURUInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUInsight.html)|
 |[aws devops-guru describe-resource-collection-health](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-resource-collection-health.html)|[Get-DGURUResourceCollectionHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUResourceCollectionHealth.html)|
 |[aws devops-guru describe-service-integration](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-service-integration.html)|[Get-DGURUServiceIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUServiceIntegration.html)|
+|[aws devops-guru get-cost-estimation](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/get-cost-estimation.html)|[Get-DGURUCostEstimation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUCostEstimation.html)|
 |[aws devops-guru get-resource-collection](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/get-resource-collection.html)|[Get-DGURUResourceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUResourceCollection.html)|
 |[aws devops-guru list-anomalies-for-insight](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-anomalies-for-insight.html)|[Get-DGURUAnomaliesForInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAnomaliesForInsightList.html)|
 |[aws devops-guru list-events](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-events.html)|[Get-DGURUEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUEventList.html)|
@@ -29,6 +30,7 @@ date: 2021-05-01
 |[aws devops-guru put-feedback](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/put-feedback.html)|[Write-DGURUFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DGURUFeedback.html)|
 |[aws devops-guru remove-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/remove-notification-channel.html)|[Remove-DGURUNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DGURUNotificationChannel.html)|
 |[aws devops-guru search-insights](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/search-insights.html)|[Search-DGURUInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-DGURUInsight.html)|
+|[aws devops-guru start-cost-estimation](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/start-cost-estimation.html)|[Start-DGURUCostEstimation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DGURUCostEstimation.html)|
 |[aws devops-guru update-resource-collection](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/update-resource-collection.html)|[Update-DGURUResourceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DGURUResourceCollection.html)|
 |[aws devops-guru update-service-integration](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/update-service-integration.html)|[Update-DGURUServiceIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DGURUServiceIntegration.html)|
 

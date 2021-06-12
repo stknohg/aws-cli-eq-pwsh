@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## macie2
@@ -59,6 +59,7 @@ date: 2021-05-01
 |[aws macie2 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-tags-for-resource.html)|[Get-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ResourceTag.html)|
 |[aws macie2 put-classification-export-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/put-classification-export-configuration.html)|[Write-MAC2ClassificationExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MAC2ClassificationExportConfiguration.html)|
 |[aws macie2 put-findings-publication-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/put-findings-publication-configuration.html)|[Write-MAC2FindingsPublicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MAC2FindingsPublicationConfiguration.html)|
+|[aws macie2 search-resources](https://docs.aws.amazon.com/cli/latest/reference/macie2/search-resources.html)|[Search-MAC2Resource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-MAC2Resource.html)|
 |[aws macie2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/tag-resource.html)|[Add-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MAC2ResourceTag.html)|
 |[aws macie2 test-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/test-custom-data-identifier.html)|[Test-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-MAC2CustomDataIdentifier.html)|
 |[aws macie2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/untag-resource.html)|[Remove-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2ResourceTag.html)|

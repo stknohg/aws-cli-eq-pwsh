@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## forecast
@@ -26,6 +26,7 @@ date: 2021-05-01
 |[aws forecast delete-forecast-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-forecast-export-job.html)|[Remove-FRCForecastExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCForecastExportJob.html)|
 |[aws forecast delete-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-predictor.html)|[Remove-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCPredictor.html)|
 |[aws forecast delete-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-predictor-backtest-export-job.html)|[Remove-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCPredictorBacktestExportJob.html)|
+|[aws forecast delete-resource-tree](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-resource-tree.html)|[Remove-FRCResourceTree](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCResourceTree.html)|
 |[aws forecast describe-dataset](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset.html)|[Get-FRCDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDataset.html)|
 |[aws forecast describe-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset-group.html)|[Get-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetGroup.html)|
 |[aws forecast describe-dataset-import-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset-import-job.html)|[Get-FRCDatasetImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetImportJob.html)|

@@ -1,6 +1,6 @@
 ---
 title: mediaconnect
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## mediaconnect
@@ -12,6 +12,7 @@ date: 2021-05-01
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws mediaconnect add-flow-media-streams](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/add-flow-media-streams.html)|[Add-EMCNFlowMediaStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMCNFlowMediaStream.html)|
 |[aws mediaconnect add-flow-outputs](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/add-flow-outputs.html)|[Add-EMCNFlowOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMCNFlowOutput.html)|
 |[aws mediaconnect add-flow-sources](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/add-flow-sources.html)|[Add-EMCNFlowSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMCNFlowSource.html)|
 |[aws mediaconnect add-flow-vpc-interfaces](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/add-flow-vpc-interfaces.html)|[Add-EMCNFlowVpcInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMCNFlowVpcInterface.html)|
@@ -27,6 +28,7 @@ date: 2021-05-01
 |[aws mediaconnect list-reservations](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-reservations.html)|[Get-EMCNReservationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNReservationList.html)|
 |[aws mediaconnect list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/list-tags-for-resource.html)|[Get-EMCNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNResourceTag.html)|
 |[aws mediaconnect purchase-offering](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/purchase-offering.html)|[New-EMCNOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCNOffering.html)|
+|[aws mediaconnect remove-flow-media-stream](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-media-stream.html)|[Remove-EMCNFlowMediaStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowMediaStream.html)|
 |[aws mediaconnect remove-flow-output](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-output.html)|[Remove-EMCNFlowOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowOutput.html)|
 |[aws mediaconnect remove-flow-source](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-source.html)|[Remove-EMCNFlowSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowSource.html)|
 |[aws mediaconnect remove-flow-vpc-interface](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/remove-flow-vpc-interface.html)|[Remove-EMCNFlowVpcInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNFlowVpcInterface.html)|
@@ -37,6 +39,7 @@ date: 2021-05-01
 |[aws mediaconnect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/untag-resource.html)|[Remove-EMCNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNResourceTag.html)|
 |[aws mediaconnect update-flow](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/update-flow.html)|[Update-EMCNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMCNFlow.html)|
 |[aws mediaconnect update-flow-entitlement](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/update-flow-entitlement.html)|[Update-EMCNFlowEntitlement](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMCNFlowEntitlement.html)|
+|[aws mediaconnect update-flow-media-stream](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/update-flow-media-stream.html)|[Update-EMCNFlowMediaStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMCNFlowMediaStream.html)|
 |[aws mediaconnect update-flow-output](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/update-flow-output.html)|[Update-EMCNFlowOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMCNFlowOutput.html)|
 |[aws mediaconnect update-flow-source](https://docs.aws.amazon.com/cli/latest/reference/mediaconnect/update-flow-source.html)|[Update-EMCNFlowSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMCNFlowSource.html)|
 

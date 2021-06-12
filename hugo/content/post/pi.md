@@ -1,6 +1,6 @@
 ---
 title: pi
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## pi
@@ -13,5 +13,6 @@ date: 2021-05-01
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws pi describe-dimension-keys](https://docs.aws.amazon.com/cli/latest/reference/pi/describe-dimension-keys.html)|[Get-PIDimensionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIDimensionKey.html)|
+|[aws pi get-dimension-key-details](https://docs.aws.amazon.com/cli/latest/reference/pi/get-dimension-key-details.html)||
 |[aws pi get-resource-metrics](https://docs.aws.amazon.com/cli/latest/reference/pi/get-resource-metrics.html)|[Get-PIResourceMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceMetric.html)|
 

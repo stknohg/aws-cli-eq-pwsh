@@ -1,6 +1,6 @@
 ---
 title: compute-optimizer
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## compute-optimizer
@@ -14,7 +14,9 @@ date: 2021-05-01
 |----|----|
 |[aws compute-optimizer describe-recommendation-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/describe-recommendation-export-jobs.html)|[Get-CORecommendationExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CORecommendationExportJob.html)|
 |[aws compute-optimizer export-auto-scaling-group-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-auto-scaling-group-recommendations.html)|[Export-COAutoScalingGroupRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COAutoScalingGroupRecommendation.html)|
+|[aws compute-optimizer export-ebs-volume-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-ebs-volume-recommendations.html)|[Export-COEBSVolumeRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COEBSVolumeRecommendation.html)|
 |[aws compute-optimizer export-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-ec2-instance-recommendations.html)|[Export-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COEC2InstanceRecommendation.html)|
+|[aws compute-optimizer export-lambda-function-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/export-lambda-function-recommendations.html)|[Export-COLambdaFunctionRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-COLambdaFunctionRecommendation.html)|
 |[aws compute-optimizer get-auto-scaling-group-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-auto-scaling-group-recommendations.html)|[Get-COAutoScalingGroupRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COAutoScalingGroupRecommendation.html)|
 |[aws compute-optimizer get-ebs-volume-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ebs-volume-recommendations.html)|[Get-COEBSVolumeRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEBSVolumeRecommendation.html)|
 |[aws compute-optimizer get-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-instance-recommendations.html)|[Get-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2InstanceRecommendation.html)|

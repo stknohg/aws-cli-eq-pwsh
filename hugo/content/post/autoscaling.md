@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## autoscaling
@@ -58,6 +58,7 @@ date: 2021-05-01
 |[aws autoscaling enter-standby](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/enter-standby.html)|[Enter-ASStandby](https://docs.aws.amazon.com/powershell/latest/reference/items/Enter-ASStandby.html)|
 |[aws autoscaling execute-policy](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/execute-policy.html)|[Start-ASPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASPolicy.html)|
 |[aws autoscaling exit-standby](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/exit-standby.html)|[Exit-ASStandby](https://docs.aws.amazon.com/powershell/latest/reference/items/Exit-ASStandby.html)|
+|[aws autoscaling get-predictive-scaling-forecast](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/get-predictive-scaling-forecast.html)|[Get-ASPredictiveScalingForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASPredictiveScalingForecast.html)|
 |[aws autoscaling put-lifecycle-hook](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-lifecycle-hook.html)|[Write-ASLifecycleHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleHook.html)|
 |[aws autoscaling put-notification-configuration](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-notification-configuration.html)|[Write-ASNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASNotificationConfiguration.html)|
 |[aws autoscaling put-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-scaling-policy.html)|[Write-ASScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScalingPolicy.html)|

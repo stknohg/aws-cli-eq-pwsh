@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## customer-profiles
@@ -23,6 +23,7 @@ date: 2021-05-01
 |[aws customer-profiles delete-profile-object-type](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/delete-profile-object-type.html)|[Remove-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPFProfileObjectType.html)|
 |[aws customer-profiles get-domain](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/get-domain.html)|[Get-CPFDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFDomain.html)|
 |[aws customer-profiles get-integration](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/get-integration.html)|[Get-CPFIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFIntegration.html)|
+|[aws customer-profiles get-matches](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/get-matches.html)|[Get-CPFMatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFMatch.html)|
 |[aws customer-profiles get-profile-object-type](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/get-profile-object-type.html)|[Get-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectType.html)|
 |[aws customer-profiles get-profile-object-type-template](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/get-profile-object-type-template.html)|[Get-CPFProfileObjectTypeTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeTemplate.html)|
 |[aws customer-profiles list-account-integrations](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/list-account-integrations.html)|[Get-CPFAccountIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFAccountIntegrationList.html)|
@@ -32,6 +33,7 @@ date: 2021-05-01
 |[aws customer-profiles list-profile-object-types](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/list-profile-object-types.html)|[Get-CPFProfileObjectTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeList.html)|
 |[aws customer-profiles list-profile-objects](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/list-profile-objects.html)|[Get-CPFProfileObjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectList.html)|
 |[aws customer-profiles list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/list-tags-for-resource.html)|[Get-CPFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFResourceTag.html)|
+|[aws customer-profiles merge-profiles](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/merge-profiles.html)|[Merge-CPFProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CPFProfile.html)|
 |[aws customer-profiles put-integration](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/put-integration.html)|[Write-CPFIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPFIntegration.html)|
 |[aws customer-profiles put-profile-object](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/put-profile-object.html)|[Write-CPFProfileObject](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPFProfileObject.html)|
 |[aws customer-profiles put-profile-object-type](https://docs.aws.amazon.com/cli/latest/reference/customer-profiles/put-profile-object-type.html)|[Write-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPFProfileObjectType.html)|

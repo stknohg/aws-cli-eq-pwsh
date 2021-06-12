@@ -1,6 +1,6 @@
 ---
 title: iotwireless
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## iotwireless
@@ -36,7 +36,9 @@ date: 2021-05-01
 |[aws iotwireless disassociate-wireless-gateway-from-thing](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-wireless-gateway-from-thing.html)|[Split-IOTWWirelessGatewayFromThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-IOTWWirelessGatewayFromThing.html)|
 |[aws iotwireless get-destination](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-destination.html)|[Get-IOTWDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWDestination.html)|
 |[aws iotwireless get-device-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-device-profile.html)|[Get-IOTWDeviceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWDeviceProfile.html)|
+|[aws iotwireless get-log-levels-by-resource-types](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-log-levels-by-resource-types.html)|[Get-IOTWLogLevelsByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWLogLevelsByResourceType.html)|
 |[aws iotwireless get-partner-account](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-partner-account.html)|[Get-IOTWPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWPartnerAccount.html)|
+|[aws iotwireless get-resource-log-level](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-resource-log-level.html)|[Get-IOTWResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWResourceLogLevel.html)|
 |[aws iotwireless get-service-endpoint](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-service-endpoint.html)|[Get-IOTWServiceEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWServiceEndpoint.html)|
 |[aws iotwireless get-service-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-service-profile.html)|[Get-IOTWServiceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWServiceProfile.html)|
 |[aws iotwireless get-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-wireless-device.html)|[Get-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWWirelessDevice.html)|
@@ -55,11 +57,15 @@ date: 2021-05-01
 |[aws iotwireless list-wireless-devices](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-wireless-devices.html)|[Get-IOTWWirelessDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWWirelessDeviceList.html)|
 |[aws iotwireless list-wireless-gateway-task-definitions](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-wireless-gateway-task-definitions.html)|[Get-IOTWWirelessGatewayTaskDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWWirelessGatewayTaskDefinitionList.html)|
 |[aws iotwireless list-wireless-gateways](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-wireless-gateways.html)|[Get-IOTWWirelessGatewayList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWWirelessGatewayList.html)|
+|[aws iotwireless put-resource-log-level](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/put-resource-log-level.html)|[Write-IOTWResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IOTWResourceLogLevel.html)|
+|[aws iotwireless reset-all-resource-log-levels](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/reset-all-resource-log-levels.html)|[Reset-IOTWAllResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IOTWAllResourceLogLevel.html)|
+|[aws iotwireless reset-resource-log-level](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/reset-resource-log-level.html)|[Reset-IOTWResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IOTWResourceLogLevel.html)|
 |[aws iotwireless send-data-to-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/send-data-to-wireless-device.html)|[Send-IOTWDataToWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-IOTWDataToWirelessDevice.html)|
 |[aws iotwireless tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/tag-resource.html)|[Add-IOTWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTWResourceTag.html)|
 |[aws iotwireless test-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/test-wireless-device.html)|[Test-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IOTWWirelessDevice.html)|
 |[aws iotwireless untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/untag-resource.html)|[Remove-IOTWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWResourceTag.html)|
 |[aws iotwireless update-destination](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-destination.html)|[Update-IOTWDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWDestination.html)|
+|[aws iotwireless update-log-levels-by-resource-types](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-log-levels-by-resource-types.html)|[Update-IOTWLogLevelsByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWLogLevelsByResourceType.html)|
 |[aws iotwireless update-partner-account](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-partner-account.html)|[Update-IOTWPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWPartnerAccount.html)|
 |[aws iotwireless update-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-wireless-device.html)|[Update-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWWirelessDevice.html)|
 |[aws iotwireless update-wireless-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-wireless-gateway.html)|[Update-IOTWWirelessGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWWirelessGateway.html)|

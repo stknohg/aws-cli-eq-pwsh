@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## chime
@@ -17,6 +17,7 @@ date: 2021-05-01
 |[aws chime associate-phone-numbers-with-voice-connector-group](https://docs.aws.amazon.com/cli/latest/reference/chime/associate-phone-numbers-with-voice-connector-group.html)|[Add-CHMPhoneNumbersToVoiceConnectorGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMPhoneNumbersToVoiceConnectorGroup.html)|
 |[aws chime associate-signin-delegate-groups-with-account](https://docs.aws.amazon.com/cli/latest/reference/chime/associate-signin-delegate-groups-with-account.html)|[Add-CHMSigninDelegateGroupsToAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMSigninDelegateGroupsToAccount.html)|
 |[aws chime batch-create-attendee](https://docs.aws.amazon.com/cli/latest/reference/chime/batch-create-attendee.html)|[New-CHMAttendeeBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMAttendeeBatch.html)|
+|[aws chime batch-create-channel-membership](https://docs.aws.amazon.com/cli/latest/reference/chime/batch-create-channel-membership.html)|[New-CHMCreateChannelMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMCreateChannelMembership.html)|
 |[aws chime batch-create-room-membership](https://docs.aws.amazon.com/cli/latest/reference/chime/batch-create-room-membership.html)|[New-CHMRoomMembershipBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMRoomMembershipBatch.html)|
 |[aws chime batch-delete-phone-number](https://docs.aws.amazon.com/cli/latest/reference/chime/batch-delete-phone-number.html)|[Remove-CHMPhoneNumberBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMPhoneNumberBatch.html)|
 |[aws chime batch-suspend-user](https://docs.aws.amazon.com/cli/latest/reference/chime/batch-suspend-user.html)|[Enable-CHMUserSuspensionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CHMUserSuspensionBatch.html)|
@@ -141,6 +142,7 @@ date: 2021-05-01
 |[aws chime list-rooms](https://docs.aws.amazon.com/cli/latest/reference/chime/list-rooms.html)|[Get-CHMRoomList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMRoomList.html)|
 |[aws chime list-sip-media-applications](https://docs.aws.amazon.com/cli/latest/reference/chime/list-sip-media-applications.html)|[Get-CHMSipMediaApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMSipMediaApplicationList.html)|
 |[aws chime list-sip-rules](https://docs.aws.amazon.com/cli/latest/reference/chime/list-sip-rules.html)|[Get-CHMSipRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMSipRuleList.html)|
+|[aws chime list-supported-phone-number-countries](https://docs.aws.amazon.com/cli/latest/reference/chime/list-supported-phone-number-countries.html)|[Get-CHMSupportedPhoneNumberCountryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMSupportedPhoneNumberCountryList.html)|
 |[aws chime list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/list-tags-for-resource.html)|[Get-CHMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMResourceTag.html)|
 |[aws chime list-users](https://docs.aws.amazon.com/cli/latest/reference/chime/list-users.html)|[Get-CHMUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMUserList.html)|
 |[aws chime list-voice-connector-groups](https://docs.aws.amazon.com/cli/latest/reference/chime/list-voice-connector-groups.html)|[Get-CHMVoiceConnectorGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnectorGroupList.html)|

@@ -1,14 +1,14 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.2.1 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.12.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.2.11 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.13.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -35,7 +35,9 @@ For that reason, some content may not be accurate.
 |[Amazon AppIntegrations APIs](https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html)|[appintegrations]({{%relref "post/appintegrations.md" %}})|AIS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
 |[Amazon CloudWatch Application Insights](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
+|[AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)|[applicationcostprofiler]({{%relref "post/applicationcostprofiler.md" %}})|ACP ||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
+|[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR ||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
 |[Amazon Athena](https://aws.amazon.com/athena/)|[athena]({{%relref "post/athena.md" %}})|ATH||
@@ -116,6 +118,8 @@ For that reason, some content may not be accurate.
 |[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
+|[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
+|[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
 |[Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF||
 |[Amazon Fault Injection Simulator](https://aws.amazon.com/fis/)|[fis]({{%relref "post/fis.md" %}})|FIS||
 |[AWS Firewall Manager](https://aws.amazon.com/waf/)|[fms]({{%relref "post/fms.md" %}})|FMS||
@@ -218,6 +222,7 @@ For that reason, some content may not be accurate.
 |[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice]({{%relref "post/pinpoint-sms-voice.md" %}})|PINE||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
+|[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|||
 |[Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)|[qldb]({{%relref "post/qldb.md" %}})|QLDB||
 |[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||
 |[Amazon QuickSight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||
@@ -261,6 +266,8 @@ For that reason, some content may not be accurate.
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||
 |[Amazon Simple Queue Service](https://aws.amazon.com/sqs/)|[sqs]({{%relref "post/sqs.md" %}})|SQS||
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||
+|[AWS Systems Manager Contacts](https://aws.amazon.com/systems-manager/)|[ssm-contacts]({{%relref "post/ssm-contacts.md" %}})|SMC||
+|[AWS Systems Manager Incident Manager](https://aws.amazon.com/systems-manager/)|[ssm-incidents]({{%relref "post/ssm-incidents.md" %}})|SSMI||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso]({{%relref "post/sso.md" %}})|SSO||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso-admin]({{%relref "post/sso-admin.md" %}})|SSOADMN||
 |[AWS Single Sign-On OIDC](https://aws.amazon.com/single-sign-on/)|[sso-oidc]({{%relref "post/sso-oidc.md" %}})|SSOOIDC||

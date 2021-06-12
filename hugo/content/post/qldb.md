@@ -1,6 +1,6 @@
 ---
 title: qldb
-date: 2021-05-01
+date: 2021-06-12
 ---
 
 ## qldb
@@ -31,4 +31,5 @@ date: 2021-05-01
 |[aws qldb tag-resource](https://docs.aws.amazon.com/cli/latest/reference/qldb/tag-resource.html)|[Add-QLDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QLDBResourceTag.html)|
 |[aws qldb untag-resource](https://docs.aws.amazon.com/cli/latest/reference/qldb/untag-resource.html)|[Remove-QLDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QLDBResourceTag.html)|
 |[aws qldb update-ledger](https://docs.aws.amazon.com/cli/latest/reference/qldb/update-ledger.html)|[Update-QLDBLedger](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QLDBLedger.html)|
+|[aws qldb update-ledger-permissions-mode](https://docs.aws.amazon.com/cli/latest/reference/qldb/update-ledger-permissions-mode.html)|[Update-QLDBLedgerPermissionsMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QLDBLedgerPermissionsMode.html)|
 

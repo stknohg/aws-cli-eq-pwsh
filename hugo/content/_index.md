@@ -13,9 +13,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ### Contents
 
 {{< alert "warning" >}}
-* Disclaimer *<br>
-This site is created by automatic generation.
-For that reason, some content may not be accurate.
+\* Disclaimer *  
+This site is created by automatic generation. For that reason, some content may not be accurate.
 {{< /alert >}}
 
 |Service|CLI command|PowerShell prefix|Notes|

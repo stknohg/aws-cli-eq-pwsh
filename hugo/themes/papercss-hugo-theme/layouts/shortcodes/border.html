@@ -11,7 +11,7 @@
 {{ end }}
 
 <div class="child-borders">
-  <p class="sm col {{ $class }}">
-    {{ .Inner }}
-  </p>
+  <div class="sm col {{ $class }}">
+    {{ .Inner | markdownify }}
+  </div>
 </div>

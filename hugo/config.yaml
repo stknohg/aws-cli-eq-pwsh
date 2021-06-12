@@ -16,7 +16,7 @@ imaging:
   quality: 99
 
 params:
-  homeMetaContent: "This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
+  homeMetaContent: "This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: "2006-01-02"
 

@@ -10,6 +10,10 @@
     {{ with .Site.Params.homeMetaContent }}
       <meta name="description" content="{{ . | plainify }}">
     {{ end }}
+  {{ else }}
+    {{ $summary := trim (.Params.description | plainify | htmlUnescape) "\n\r"
+      | default .Title }}
+    <meta name="description" content="{{ $summary }}">
   {{ end }}
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -20,11 +24,11 @@
   <meta name="msapplication-TileColor" content="#ffffff">
   <meta name="theme-color" content="#ffffff">
 
-  <link rel="stylesheet" type="text/css" href="{{ "css/paper.css" | absURL }}">
+  <link rel="stylesheet" type="text/css" href="{{ "css/paper.css" | relURL }}">
 
   {{ $customCssPath := "css/custom.css" }}
   {{ $customCss:= resources.Get $customCssPath | resources.ExecuteAsTemplate $customCssPath . }}
-  <link rel="stylesheet" type="text/css" href="{{ $customCss.Permalink }}">
+  <link rel="stylesheet" type="text/css" href="{{ $customCss.RelPermalink }}">
 
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}

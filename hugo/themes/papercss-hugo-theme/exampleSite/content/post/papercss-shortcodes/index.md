@@ -215,9 +215,9 @@ Alert-danger
 
 ## card
 
-The `img` param accepts an [image page resource](https://gohugo.io/content-management/page-resources/) name. 
+The `img` param accepts an [image page resource](https://gohugo.io/content-management/page-resources/) name.
 
-The `command` and `options` params accept [image processing](https://gohugo.io/content-management/image-processing/#readout) args. 
+The `command` and `options` params accept [image processing](https://gohugo.io/content-management/image-processing/#readout) args.
 
 Required params: `img`, `command`, `options`.
 
@@ -242,3 +242,65 @@ options="900x"
 title="The Sun"
 subtitle="It's the Sun, dude"
 text="The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. [Credits](https://images.nasa.gov/details-GSFC_20171208_Archive_e000393.html)." >}}
+
+## With Markdown
+
+```
+{{</* border */>}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{</* /border */>}}
+
+{{</* color "success" */>}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{</* /color */>}}
+
+{{</* background "success" */>}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{</* /background */>}}
+
+{{</* alert "success" */>}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{</* /alert */>}}
+
+<h3>Example badge {{</* badge "success" */>}}[link](https://gohugo.io/functions/markdownify/), **bold**, _italic_{{</* /badge */>}}</h3>
+```
+
+{{< border >}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{< /border >}}
+
+<br>
+
+{{< color "success" >}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{< /color >}}
+
+<br>
+
+{{< background "success" >}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{< /background >}}
+
+<br>
+
+{{< alert "success" >}}
+* Testing GitHub issue <https://github.com/zwbetz-gh/papercss-hugo-theme/issues/8>
+* **bold**
+* _italic_
+{{< /alert >}}
+
+<h3>Example badge {{< badge "success" >}}[link](https://gohugo.io/functions/markdownify/), **bold**, _italic_{{< /badge >}}</h3>

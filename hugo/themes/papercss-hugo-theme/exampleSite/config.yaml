@@ -4,6 +4,11 @@ defaultContentLanguage: en
 title: PaperCSS
 theme: papercss-hugo-theme
 googleAnalytics: UA-123456789-1
+disqusShortname: yourdiscussshortname
+
+privacy:
+  disqus:
+    disable: true
 
 taxonomies:
   tag: tags
@@ -14,10 +19,14 @@ permalinks:
 imaging:
   quality: 99
 
+# To disable, set to an extremely large value, such as 999999
+paginate: 5
+
 params:
   homeMetaContent: A Hugo theme made with PaperCSS, the less formal CSS framework.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
+  navTitleLink: /
 
 menu:
   nav:

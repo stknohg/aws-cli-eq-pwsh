@@ -1,6 +1,7 @@
 ---
 title: sso-oidc
 date: 2021-06-12
+description: aws sso-oidc (AWS Single Sign-On OIDC) command/cmdlet list.
 ---
 
 ## sso-oidc

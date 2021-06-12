@@ -1,6 +1,7 @@
 ---
 title: managedblockchain
 date: 2021-06-12
+description: aws managedblockchain (Amazon Managed Blockchain) command/cmdlet list.
 ---
 
 ## managedblockchain

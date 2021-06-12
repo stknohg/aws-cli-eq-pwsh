@@ -1,6 +1,7 @@
 ---
 title: apigateway
 date: 2021-06-12
+description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 ---
 
 ## apigateway

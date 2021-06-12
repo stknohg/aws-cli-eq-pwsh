@@ -1,6 +1,7 @@
 ---
 title: comprehendmedical
 date: 2021-06-12
+description: aws comprehendmedical (Amazon Comprehend) command/cmdlet list.
 ---
 
 ## comprehendmedical

@@ -1,6 +1,7 @@
 ---
 title: finspace
 date: 2021-06-12
+description: aws finspace (Amazon FinSpace) command/cmdlet list.
 ---
 
 ## finspace

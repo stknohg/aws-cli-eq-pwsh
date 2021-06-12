@@ -1,6 +1,7 @@
 ---
 title: cloudhsmv2
 date: 2021-06-12
+description: aws cloudhsmv2 (AWS CloudHSM) command/cmdlet list.
 ---
 
 ## cloudhsmv2

@@ -1,6 +1,7 @@
 ---
 title: lambda
 date: 2021-06-12
+description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
 ## lambda

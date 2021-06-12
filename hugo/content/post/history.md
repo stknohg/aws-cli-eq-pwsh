@@ -1,6 +1,7 @@
 ---
 title: history
 date: 2021-06-12
+description: aws history (-) command/cmdlet list.
 ---
 
 ## history

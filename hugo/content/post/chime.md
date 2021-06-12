@@ -1,6 +1,7 @@
 ---
 title: chime
 date: 2021-06-12
+description: aws chime (Amazon Chime) command/cmdlet list.
 ---
 
 ## chime

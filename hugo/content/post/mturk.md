@@ -1,6 +1,7 @@
 ---
 title: mturk
 date: 2021-06-12
+description: aws mturk (Amazon Mechanical Turk) command/cmdlet list.
 ---
 
 ## mturk

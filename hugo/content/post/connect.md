@@ -1,6 +1,7 @@
 ---
 title: connect
 date: 2021-06-12
+description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
 ## connect

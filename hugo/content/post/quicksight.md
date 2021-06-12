@@ -1,6 +1,7 @@
 ---
 title: quicksight
 date: 2021-06-12
+description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
 ## quicksight

@@ -1,6 +1,7 @@
 ---
 title: elasticache
 date: 2021-06-12
+description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 ---
 
 ## elasticache

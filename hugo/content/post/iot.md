@@ -1,6 +1,7 @@
 ---
 title: iot
 date: 2021-06-12
+description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
 ## iot

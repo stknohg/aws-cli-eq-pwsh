@@ -1,6 +1,7 @@
 ---
 title: location
 date: 2021-06-12
+description: aws location (Amazon Location) command/cmdlet list.
 ---
 
 ## location

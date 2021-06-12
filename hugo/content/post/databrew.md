@@ -1,6 +1,7 @@
 ---
 title: databrew
 date: 2021-06-12
+description: aws databrew (AWS Glue DataBrew) command/cmdlet list.
 ---
 
 ## databrew

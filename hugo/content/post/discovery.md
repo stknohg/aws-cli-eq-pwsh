@@ -1,6 +1,7 @@
 ---
 title: discovery
 date: 2021-06-12
+description: aws discovery (AWS Application Discovery Service) command/cmdlet list.
 ---
 
 ## discovery

@@ -1,6 +1,7 @@
 ---
 title: pinpoint
 date: 2021-06-12
+description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 ---
 
 ## pinpoint

@@ -118,7 +118,9 @@ $g_AWSServices = @{
     'appintegrations'              = [PSCustomObject]@{ Prefix = 'AIS'; Name = 'Amazon AppIntegrations APIs'; Url = 'https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html'; Note = '' };
     'application-autoscaling'      = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'application-insights'         = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights'; Url = 'http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
+    'applicationcostprofiler'      = [PSCustomObject]@{ Prefix = 'ACP '; Name = 'AWS Application Cost Profiler'; Url = 'https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/'; Note = '' };
     'appmesh'                      = [PSCustomObject]@{ Prefix = 'AMSH'; Name = 'AWS App Mesh'; Url = 'https://aws.amazon.com/app-mesh/'; Note = '' };
+    'apprunner'                    = [PSCustomObject]@{ Prefix = 'AAR '; Name = 'AWS App Runner'; Url = 'https://aws.amazon.com/apprunner/'; Note = '' };
     'appstream'                    = [PSCustomObject]@{ Prefix = 'APS'; Name = 'Amazon AppStream 2.0'; Url = 'https://aws.amazon.com/appstream2/'; Note = '' };
     'appsync'                      = [PSCustomObject]@{ Prefix = 'ASYN'; Name = 'AWS AppSync'; Url = 'https://aws.amazon.com/appsync/'; Note = '' };
     'athena'                       = [PSCustomObject]@{ Prefix = 'ATH'; Name = 'Amazon Athena'; Url = 'https://aws.amazon.com/athena/'; Note = '' };
@@ -199,6 +201,8 @@ $g_AWSServices = @{
     'emr'                          = [PSCustomObject]@{ Prefix = 'EMR'; Name = 'Amazon EMR'; Url = 'https://aws.amazon.com/emr/'; Note = '' };
     'es'                           = [PSCustomObject]@{ Prefix = 'ES'; Name = 'Amazon Elasticsearch Service'; Url = 'https://aws.amazon.com/elasticsearch-service/'; Note = '' };
     'events'                       = [PSCustomObject]@{ Prefix = 'CWE'; Name = 'Amazon CloudWatch Events'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
+    'finspace'                     = [PSCustomObject]@{ Prefix = 'FINSP'; Name = 'Amazon FinSpace'; Url = 'https://aws.amazon.com/finspace/'; Note = '' };
+    'finspace-data'                = [PSCustomObject]@{ Prefix = 'FNSP'; Name = 'Amazon FinSpace'; Url = 'https://aws.amazon.com/finspace/'; Note = '' };
     'firehose'                     = [PSCustomObject]@{ Prefix = 'KINF'; Name = 'Amazon Kinesis Data Firehose'; Url = 'https://aws.amazon.com/data-firehose/'; Note = '' };
     'fis'                          = [PSCustomObject]@{ Prefix = 'FIS'; Name = 'Amazon Fault Injection Simulator'; Url = 'https://aws.amazon.com/fis/'; Note = '' };
     'fms'                          = [PSCustomObject]@{ Prefix = 'FMS'; Name = 'AWS Firewall Manager'; Url = 'https://aws.amazon.com/waf/'; Note = '' };
@@ -301,6 +305,7 @@ $g_AWSServices = @{
     'pinpoint-sms-voice'           = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'polly'                        = [PSCustomObject]@{ Prefix = 'POL'; Name = 'Amazon Polly'; Url = 'https://aws.amazon.com/pinpoint/polly/'; Note = '' };
     'pricing'                      = [PSCustomObject]@{ Prefix = 'PLS'; Name = 'AWS Price List Service'; Url = 'https://aws.amazon.com/pricing/'; Note = '' };
+    'proton'                       = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Proton'; Url = 'https://aws.amazon.com/proton/'; Note = '' };
     'qldb'                         = [PSCustomObject]@{ Prefix = 'QLDB'; Name = 'Amazon Quantum Ledger Database (QLDB)'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'qldb-session'                 = [PSCustomObject]@{ Prefix = 'QLDBS'; Name = 'Amazon QLDB Session'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'quicksight'                   = [PSCustomObject]@{ Prefix = 'QS'; Name = 'Amazon QuickSight'; Url = 'https://aws.amazon.com/quicksight/'; Note = '' };
@@ -344,6 +349,8 @@ $g_AWSServices = @{
     'sns'                          = [PSCustomObject]@{ Prefix = 'SNS'; Name = 'Amazon Simple Notification Service'; Url = 'https://aws.amazon.com/sns/'; Note = '' };
     'sqs'                          = [PSCustomObject]@{ Prefix = 'SQS'; Name = 'Amazon Simple Queue Service'; Url = 'https://aws.amazon.com/sqs/'; Note = '' };
     'ssm'                          = [PSCustomObject]@{ Prefix = 'SSM'; Name = 'AWS Systems Manager'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
+    'ssm-contacts'                 = [PSCustomObject]@{ Prefix = 'SMC'; Name = 'AWS Systems Manager Contacts'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
+    'ssm-incidents'                = [PSCustomObject]@{ Prefix = 'SSMI'; Name = 'AWS Systems Manager Incident Manager'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
     'sso-admin'                    = [PSCustomObject]@{ Prefix = 'SSOADMN'; Name = 'AWS Single Sign-On'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
     'sso-oidc'                     = [PSCustomObject]@{ Prefix = 'SSOOIDC'; Name = 'AWS Single Sign-On OIDC'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
     'sso'                          = [PSCustomObject]@{ Prefix = 'SSO'; Name = 'AWS Single Sign-On'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
@@ -387,7 +394,9 @@ $g_CmdletReferenceLinks = @{
     'appintegrations'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppIntegrationsService_cmdlets.html'
     'application-autoscaling'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Auto_Scaling_cmdlets.html';
     'application-insights'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Application_Insights_cmdlets.html';
+    'applicationcostprofiler'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ApplicationCostProfiler_cmdlets.html';
     'appmesh'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_App_Mesh_cmdlets.html';
+    'apprunner'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppRunner_cmdlets.html';
     'appstream'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppStream_cmdlets.html';
     'appsync'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppSync_cmdlets.html';
     'athena'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Athena_cmdlets.html';
@@ -467,6 +476,8 @@ $g_CmdletReferenceLinks = @{
     'emr'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html';
     'es'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elasticsearch_cmdlets.html';
     'events'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Events_cmdlets.html';
+    'finspace'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Finspace_cmdlets.html';
+    'finspace-data'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/FinSpaceData_cmdlets.html';
     'firehose'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html';
     'fis'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/FIS_cmdlets.html';
     'fms'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Firewall_Management_Service_cmdlets.html';
@@ -569,6 +580,7 @@ $g_CmdletReferenceLinks = @{
     'pinpoint-sms-voice'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html';
     'polly'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Polly_cmdlets.html';
     'pricing'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html';
+    'proton'                       = '';
     'qldb'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDB_cmdlets.html';
     'qldb-session'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDBSession_cmdlets.html';
     'quicksight'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_QuickSight_cmdlets.html';
@@ -611,6 +623,8 @@ $g_CmdletReferenceLinks = @{
     'sns'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Notification_Service_cmdlets.html';
     'sqs'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Queue_Service_cmdlets.html';
     'ssm'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Systems_Manager_cmdlets.html';
+    'ssm-contacts'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSMContacts_cmdlets.html';
+    'ssm-incidents'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSMIncidents_cmdlets.html';
     'sso-admin'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSOAdmin_cmdlets.html';
     'sso-oidc'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSOOIDC_cmdlets.html';
     'sso'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSO_cmdlets.html';

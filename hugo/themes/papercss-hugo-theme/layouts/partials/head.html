@@ -6,15 +6,20 @@
   {{ hugo.Generator }}
   <link rel="canonical" href="{{ .Permalink }}">
 
+  {{ $summary := trim (.Params.description | plainify | htmlUnescape) "\n\r" | default .Title }}
+  {{ $ogType := "article" }}
   {{ if .IsHome }}
-    {{ with .Site.Params.homeMetaContent }}
-      <meta name="description" content="{{ . | plainify }}">
-    {{ end }}
-  {{ else }}
-    {{ $summary := trim (.Params.description | plainify | htmlUnescape) "\n\r"
-      | default .Title }}
-    <meta name="description" content="{{ $summary }}">
+    {{ $summary = .Site.Params.homeMetaContent | plainify }}
+    {{ $ogType = "website" }}
   {{ end }}
+  <meta name="description" content="{{ $summary }}">
+  
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:type" content="{{ $ogType }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ $summary }}" />
+  <meta name="twitter:card" content="{{ .Title }}" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

@@ -1,6 +1,6 @@
 ---
 title: kendra
-date: 2021-06-12
+date: 2021-06-27
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 
@@ -14,7 +14,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws kendra batch-delete-document](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-delete-document.html)|[Remove-KNDRDocumentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KNDRDocumentBatch.html)|
-|[aws kendra batch-get-document-status](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-get-document-status.html)||
+|[aws kendra batch-get-document-status](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-get-document-status.html)|[Get-KNDRGetDocumentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRGetDocumentStatus.html)|
 |[aws kendra batch-put-document](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-put-document.html)|[Write-KNDRDocumentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-KNDRDocumentBatch.html)|
 |[aws kendra clear-query-suggestions](https://docs.aws.amazon.com/cli/latest/reference/kendra/clear-query-suggestions.html)|[Clear-KNDRQuerySuggestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-KNDRQuerySuggestion.html)|
 |[aws kendra create-data-source](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-data-source.html)|[New-KNDRDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRDataSource.html)|

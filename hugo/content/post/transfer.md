@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2021-06-12
+date: 2021-06-27
 description: aws transfer (AWS Transfer for SFTP) command/cmdlet list.
 ---
 

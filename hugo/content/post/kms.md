@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2021-06-12
+date: 2021-06-27
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 
@@ -49,6 +49,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms list-retirable-grants](https://docs.aws.amazon.com/cli/latest/reference/kms/list-retirable-grants.html)|[Get-KMSRetirableGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSRetirableGrant.html)|
 |[aws kms put-key-policy](https://docs.aws.amazon.com/cli/latest/reference/kms/put-key-policy.html)|[Write-KMSKeyPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-KMSKeyPolicy.html)|
 |[aws kms re-encrypt](https://docs.aws.amazon.com/cli/latest/reference/kms/re-encrypt.html)|[Invoke-KMSReEncrypt](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSReEncrypt.html)|
+|[aws kms replicate-key](https://docs.aws.amazon.com/cli/latest/reference/kms/replicate-key.html)|[New-KMSReplicaKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSReplicaKey.html)|
 |[aws kms retire-grant](https://docs.aws.amazon.com/cli/latest/reference/kms/retire-grant.html)|[Disable-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-KMSGrant.html)|
 |[aws kms revoke-grant](https://docs.aws.amazon.com/cli/latest/reference/kms/revoke-grant.html)|[Revoke-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-KMSGrant.html)|
 |[aws kms schedule-key-deletion](https://docs.aws.amazon.com/cli/latest/reference/kms/schedule-key-deletion.html)|[Request-KMSKeyDeletion](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-KMSKeyDeletion.html)|
@@ -58,5 +59,6 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms update-alias](https://docs.aws.amazon.com/cli/latest/reference/kms/update-alias.html)|[Update-KMSAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSAlias.html)|
 |[aws kms update-custom-key-store](https://docs.aws.amazon.com/cli/latest/reference/kms/update-custom-key-store.html)|[Update-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSCustomKeyStore.html)|
 |[aws kms update-key-description](https://docs.aws.amazon.com/cli/latest/reference/kms/update-key-description.html)|[Update-KMSKeyDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSKeyDescription.html)|
+|[aws kms update-primary-region](https://docs.aws.amazon.com/cli/latest/reference/kms/update-primary-region.html)|[Update-KMSPrimaryRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSPrimaryRegion.html)|
 |[aws kms verify](https://docs.aws.amazon.com/cli/latest/reference/kms/verify.html)|[Test-KMSSignature](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-KMSSignature.html)|
 

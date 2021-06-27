@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2021-06-12
+date: 2021-06-27
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws connect associate-approved-origin](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-approved-origin.html)|[Add-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNApprovedOrigin.html)|
+|[aws connect associate-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-bot.html)|[Add-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNBot.html)|
 |[aws connect associate-instance-storage-config](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-instance-storage-config.html)|[Add-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNInstanceStorageConfig.html)|
 |[aws connect associate-lambda-function](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-lambda-function.html)|[Add-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLambdaFunction.html)|
 |[aws connect associate-lex-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-lex-bot.html)|[Add-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLexBot.html)|
@@ -47,6 +48,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect describe-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-user-hierarchy-group.html)|[Get-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroup.html)|
 |[aws connect describe-user-hierarchy-structure](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-user-hierarchy-structure.html)|[Get-CONNUserHierarchyStructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyStructure.html)|
 |[aws connect disassociate-approved-origin](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-approved-origin.html)|[Remove-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNApprovedOrigin.html)|
+|[aws connect disassociate-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-bot.html)|[Remove-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNBot.html)|
 |[aws connect disassociate-instance-storage-config](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-instance-storage-config.html)|[Remove-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstanceStorageConfig.html)|
 |[aws connect disassociate-lambda-function](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-lambda-function.html)|[Remove-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLambdaFunction.html)|
 |[aws connect disassociate-lex-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-lex-bot.html)|[Remove-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLexBot.html)|
@@ -58,6 +60,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect get-federation-token](https://docs.aws.amazon.com/cli/latest/reference/connect/get-federation-token.html)|[Get-CONNFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFederationToken.html)|
 |[aws connect get-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-metric-data.html)|[Get-CONNMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNMetricData.html)|
 |[aws connect list-approved-origins](https://docs.aws.amazon.com/cli/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
+|[aws connect list-bots](https://docs.aws.amazon.com/cli/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
 |[aws connect list-contact-flows](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-flows.html)|[Get-CONNContactFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowList.html)|
 |[aws connect list-hours-of-operations](https://docs.aws.amazon.com/cli/latest/reference/connect/list-hours-of-operations.html)|[Get-CONNHoursOfOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNHoursOfOperationList.html)|
 |[aws connect list-instance-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/list-instance-attributes.html)|[Get-CONNInstanceAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNInstanceAttributeList.html)|

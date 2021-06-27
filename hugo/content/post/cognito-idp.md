@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2021-06-12
+date: 2021-06-27
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -92,7 +92,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp list-users-in-group](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/list-users-in-group.html)|[Get-CGIPUsersInGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUsersInGroup.html)|
 |[aws cognito-idp resend-confirmation-code](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/resend-confirmation-code.html)|[Send-CGIPConfirmationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPConfirmationCode.html)|
 |[aws cognito-idp respond-to-auth-challenge](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/respond-to-auth-challenge.html)|[Send-CGIPAuthChallengeResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPAuthChallengeResponse.html)|
-|[aws cognito-idp revoke-token](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/revoke-token.html)||
+|[aws cognito-idp revoke-token](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/revoke-token.html)|[Revoke-CGIPToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-CGIPToken.html)|
 |[aws cognito-idp set-risk-configuration](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-risk-configuration.html)|[Set-CGIPRiskConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPRiskConfiguration.html)|
 |[aws cognito-idp set-ui-customization](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-ui-customization.html)|[Set-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUICustomization.html)|
 |[aws cognito-idp set-user-mfa-preference](https://docs.aws.amazon.com/cli/latest/reference/cognito-idp/set-user-mfa-preference.html)|[Set-CGIPUserMFAPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserMFAPreference.html)|

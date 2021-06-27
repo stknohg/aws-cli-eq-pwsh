@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2021-06-12
+date: 2021-06-27
 description: aws chime (Amazon Chime) command/cmdlet list.
 ---
 
@@ -191,6 +191,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime update-room](https://docs.aws.amazon.com/cli/latest/reference/chime/update-room.html)|[Update-CHMRoom](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMRoom.html)|
 |[aws chime update-room-membership](https://docs.aws.amazon.com/cli/latest/reference/chime/update-room-membership.html)|[Update-CHMRoomMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMRoomMembership.html)|
 |[aws chime update-sip-media-application](https://docs.aws.amazon.com/cli/latest/reference/chime/update-sip-media-application.html)|[Update-CHMSipMediaApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMSipMediaApplication.html)|
+|[aws chime update-sip-media-application-call](https://docs.aws.amazon.com/cli/latest/reference/chime/update-sip-media-application-call.html)|[Update-CHMSipMediaApplicationCall](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMSipMediaApplicationCall.html)|
 |[aws chime update-sip-rule](https://docs.aws.amazon.com/cli/latest/reference/chime/update-sip-rule.html)|[Update-CHMSipRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMSipRule.html)|
 |[aws chime update-user](https://docs.aws.amazon.com/cli/latest/reference/chime/update-user.html)|[Update-CHMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMUser.html)|
 |[aws chime update-user-settings](https://docs.aws.amazon.com/cli/latest/reference/chime/update-user-settings.html)|[Update-CHMUserSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMUserSetting.html)|

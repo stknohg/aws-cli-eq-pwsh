@@ -1,6 +1,6 @@
 ---
 title: lex-models
-date: 2021-06-12
+date: 2021-06-27
 description: aws lex-models (Amazon Lex) command/cmdlet list.
 ---
 

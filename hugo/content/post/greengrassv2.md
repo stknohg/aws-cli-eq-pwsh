@@ -1,6 +1,6 @@
 ---
 title: greengrassv2
-date: 2021-06-12
+date: 2021-06-27
 description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 ---
 
@@ -13,6 +13,8 @@ description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws greengrassv2 batch-associate-client-device-with-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/batch-associate-client-device-with-core-device.html)|[Add-GGV2BatchClientDeviceWithCoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGV2BatchClientDeviceWithCoreDevice.html)|
+|[aws greengrassv2 batch-disassociate-client-device-from-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/batch-disassociate-client-device-from-core-device.html)|[Remove-GGV2BatchClientDeviceFromCoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2BatchClientDeviceFromCoreDevice.html)|
 |[aws greengrassv2 cancel-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/cancel-deployment.html)|[Stop-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GGV2Deployment.html)|
 |[aws greengrassv2 create-component-version](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/create-component-version.html)|[New-GGV2ComponentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGV2ComponentVersion.html)|
 |[aws greengrassv2 create-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/create-deployment.html)|[New-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGV2Deployment.html)|
@@ -23,6 +25,7 @@ description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrassv2 get-component-version-artifact](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-component-version-artifact.html)|[Get-GGV2ComponentVersionArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentVersionArtifact.html)|
 |[aws greengrassv2 get-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-core-device.html)|[Get-GGV2CoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2CoreDevice.html)|
 |[aws greengrassv2 get-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-deployment.html)|[Get-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2Deployment.html)|
+|[aws greengrassv2 list-client-devices-associated-with-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-client-devices-associated-with-core-device.html)|[Get-GGV2ClientDevicesAssociatedWithCoreDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ClientDevicesAssociatedWithCoreDeviceList.html)|
 |[aws greengrassv2 list-component-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-component-versions.html)|[Get-GGV2ComponentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentVersionList.html)|
 |[aws greengrassv2 list-components](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-components.html)|[Get-GGV2ComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentList.html)|
 |[aws greengrassv2 list-core-devices](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-core-devices.html)|[Get-GGV2CoreDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2CoreDeviceList.html)|

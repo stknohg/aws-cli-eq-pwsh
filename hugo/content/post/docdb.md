@@ -1,6 +1,6 @@
 ---
 title: docdb
-date: 2021-06-12
+date: 2021-06-27
 description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 ---
 
@@ -24,14 +24,14 @@ description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 |[aws docdb create-db-instance](https://docs.aws.amazon.com/cli/latest/reference/docdb/create-db-instance.html)|[New-DOCDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOCDBInstance.html)|
 |[aws docdb create-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/create-db-subnet-group.html)|[New-DOCDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOCDBSubnetGroup.html)|
 |[aws docdb create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/docdb/create-event-subscription.html)|[New-DOCEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOCEventSubscription.html)|
-|[aws docdb create-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/create-global-cluster.html)||
+|[aws docdb create-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/create-global-cluster.html)|[New-DOCGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOCGlobalCluster.html)|
 |[aws docdb delete-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-cluster.html)|[Remove-DOCDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBCluster.html)|
 |[aws docdb delete-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-cluster-parameter-group.html)|[Remove-DOCDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBClusterParameterGroup.html)|
 |[aws docdb delete-db-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-cluster-snapshot.html)|[Remove-DOCDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBClusterSnapshot.html)|
 |[aws docdb delete-db-instance](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-instance.html)|[Remove-DOCDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBInstance.html)|
 |[aws docdb delete-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-db-subnet-group.html)|[Remove-DOCDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCDBSubnetGroup.html)|
 |[aws docdb delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-event-subscription.html)|[Remove-DOCEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCEventSubscription.html)|
-|[aws docdb delete-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-global-cluster.html)||
+|[aws docdb delete-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/delete-global-cluster.html)|[Remove-DOCGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCGlobalCluster.html)|
 |[aws docdb describe-certificates](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-certificates.html)|[Get-DOCCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCCertificate.html)|
 |[aws docdb describe-db-cluster-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-db-cluster-parameter-groups.html)|[Get-DOCDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCDBClusterParameterGroup.html)|
 |[aws docdb describe-db-cluster-parameters](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-db-cluster-parameters.html)|[Get-DOCDBClusterParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCDBClusterParameter.html)|
@@ -45,7 +45,7 @@ description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 |[aws docdb describe-event-categories](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-event-categories.html)|[Get-DOCEventCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEventCategory.html)|
 |[aws docdb describe-event-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-event-subscriptions.html)|[Get-DOCEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEventSubscription.html)|
 |[aws docdb describe-events](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-events.html)|[Get-DOCEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEvent.html)|
-|[aws docdb describe-global-clusters](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-global-clusters.html)||
+|[aws docdb describe-global-clusters](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-global-clusters.html)|[Get-DOCGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCGlobalCluster.html)|
 |[aws docdb describe-orderable-db-instance-options](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-orderable-db-instance-options.html)|[Get-DOCOrderableDBInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCOrderableDBInstanceOption.html)|
 |[aws docdb describe-pending-maintenance-actions](https://docs.aws.amazon.com/cli/latest/reference/docdb/describe-pending-maintenance-actions.html)|[Get-DOCPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCPendingMaintenanceAction.html)|
 |[aws docdb failover-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/failover-db-cluster.html)|[Start-DOCDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DOCDBClusterFailover.html)|
@@ -56,9 +56,9 @@ description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 |[aws docdb modify-db-instance](https://docs.aws.amazon.com/cli/latest/reference/docdb/modify-db-instance.html)|[Edit-DOCDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DOCDBInstance.html)|
 |[aws docdb modify-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/modify-db-subnet-group.html)|[Edit-DOCDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DOCDBSubnetGroup.html)|
 |[aws docdb modify-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/docdb/modify-event-subscription.html)|[Edit-DOCEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DOCEventSubscription.html)|
-|[aws docdb modify-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/modify-global-cluster.html)||
+|[aws docdb modify-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/modify-global-cluster.html)|[Edit-DOCGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DOCGlobalCluster.html)|
 |[aws docdb reboot-db-instance](https://docs.aws.amazon.com/cli/latest/reference/docdb/reboot-db-instance.html)|[Restart-DOCDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-DOCDBInstance.html)|
-|[aws docdb remove-from-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/remove-from-global-cluster.html)||
+|[aws docdb remove-from-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/docdb/remove-from-global-cluster.html)|[Remove-DOCFromGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCFromGlobalCluster.html)|
 |[aws docdb remove-source-identifier-from-subscription](https://docs.aws.amazon.com/cli/latest/reference/docdb/remove-source-identifier-from-subscription.html)|[Remove-DOCSourceIdentifierFromSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCSourceIdentifierFromSubscription.html)|
 |[aws docdb remove-tags-from-resource](https://docs.aws.amazon.com/cli/latest/reference/docdb/remove-tags-from-resource.html)|[Remove-DOCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCResourceTag.html)|
 |[aws docdb reset-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/docdb/reset-db-cluster-parameter-group.html)|[Reset-DOCDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-DOCDBClusterParameterGroup.html)|

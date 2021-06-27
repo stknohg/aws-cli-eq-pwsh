@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2021-06-12
+date: 2021-06-27
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -208,8 +208,8 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker register-devices](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/register-devices.html)|[Register-SMDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMDevice.html)|
 |[aws sagemaker render-ui-template](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/render-ui-template.html)|[Invoke-SMUiTemplateRendering](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMUiTemplateRendering.html)|
 |[aws sagemaker search](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/search.html)|[Search-SMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-SMResource.html)|
-|[aws sagemaker send-pipeline-execution-step-failure](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/send-pipeline-execution-step-failure.html)||
-|[aws sagemaker send-pipeline-execution-step-success](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/send-pipeline-execution-step-success.html)||
+|[aws sagemaker send-pipeline-execution-step-failure](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/send-pipeline-execution-step-failure.html)|[Send-SMPipelineExecutionStepFailure](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SMPipelineExecutionStepFailure.html)|
+|[aws sagemaker send-pipeline-execution-step-success](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/send-pipeline-execution-step-success.html)|[Send-SMPipelineExecutionStepSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SMPipelineExecutionStepSuccess.html)|
 |[aws sagemaker start-monitoring-schedule](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/start-monitoring-schedule.html)|[Start-SMMonitoringSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMMonitoringSchedule.html)|
 |[aws sagemaker start-notebook-instance](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/start-notebook-instance.html)|[Start-SMNotebookInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMNotebookInstance.html)|
 |[aws sagemaker start-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/start-pipeline-execution.html)|[Start-SMPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMPipelineExecution.html)|

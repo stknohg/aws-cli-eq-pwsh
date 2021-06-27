@@ -8,6 +8,7 @@
 
   {{ $summary := trim (.Params.description | plainify | htmlUnescape) "\n\r" | default .Title }}
   {{ $ogType := "article" }}
+  {{ $ogImage := "img/og-image.png" | absURL }}
   {{ if .IsHome }}
     {{ $summary = .Site.Params.homeMetaContent | plainify }}
     {{ $ogType = "website" }}
@@ -19,6 +20,7 @@
   <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:description" content="{{ $summary }}" />
+  <meta property="og:image" content="{{ $ogImage }}" />
   <meta name="twitter:card" content="{{ .Title }}" />
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

@@ -1,6 +1,6 @@
 ---
 title: s3outposts
-date: 2021-06-27
+date: 2021-07-11
 description: aws s3outposts (Amazon S3 on Outposts) command/cmdlet list.
 ---
 

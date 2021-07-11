@@ -1,6 +1,6 @@
 ---
 title: elasticbeanstalk
-date: 2021-06-27
+date: 2021-07-11
 description: aws elasticbeanstalk (AWS Elastic Beanstalk) command/cmdlet list.
 ---
 

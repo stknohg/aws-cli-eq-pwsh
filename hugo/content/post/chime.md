@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2021-06-27
+date: 2021-07-11
 description: aws chime (Amazon Chime) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime create-channel-ban](https://docs.aws.amazon.com/cli/latest/reference/chime/create-channel-ban.html)|[New-CHMChannelBan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMChannelBan.html)|
 |[aws chime create-channel-membership](https://docs.aws.amazon.com/cli/latest/reference/chime/create-channel-membership.html)|[New-CHMChannelMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMChannelMembership.html)|
 |[aws chime create-channel-moderator](https://docs.aws.amazon.com/cli/latest/reference/chime/create-channel-moderator.html)|[New-CHMChannelModerator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMChannelModerator.html)|
+|[aws chime create-media-capture-pipeline](https://docs.aws.amazon.com/cli/latest/reference/chime/create-media-capture-pipeline.html)||
 |[aws chime create-meeting](https://docs.aws.amazon.com/cli/latest/reference/chime/create-meeting.html)|[New-CHMMeeting](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMMeeting.html)|
 |[aws chime create-meeting-dial-out](https://docs.aws.amazon.com/cli/latest/reference/chime/create-meeting-dial-out.html)|[New-CHMMeetingDialOut](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMMeetingDialOut.html)|
 |[aws chime create-meeting-with-attendees](https://docs.aws.amazon.com/cli/latest/reference/chime/create-meeting-with-attendees.html)|[New-CHMMeetingWithAttendee](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CHMMeetingWithAttendee.html)|
@@ -60,6 +61,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime delete-channel-message](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-channel-message.html)|[Remove-CHMChannelMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMChannelMessage.html)|
 |[aws chime delete-channel-moderator](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-channel-moderator.html)|[Remove-CHMChannelModerator](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMChannelModerator.html)|
 |[aws chime delete-events-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-events-configuration.html)|[Remove-CHMEventsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMEventsConfiguration.html)|
+|[aws chime delete-media-capture-pipeline](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-media-capture-pipeline.html)||
 |[aws chime delete-meeting](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-meeting.html)|[Remove-CHMMeeting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMMeeting.html)|
 |[aws chime delete-phone-number](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-phone-number.html)|[Remove-CHMPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMPhoneNumber.html)|
 |[aws chime delete-proxy-session](https://docs.aws.amazon.com/cli/latest/reference/chime/delete-proxy-session.html)|[Remove-CHMProxySession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMProxySession.html)|
@@ -97,6 +99,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime get-channel-message](https://docs.aws.amazon.com/cli/latest/reference/chime/get-channel-message.html)|[Get-CHMChannelMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMChannelMessage.html)|
 |[aws chime get-events-configuration](https://docs.aws.amazon.com/cli/latest/reference/chime/get-events-configuration.html)|[Get-CHMEventsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMEventsConfiguration.html)|
 |[aws chime get-global-settings](https://docs.aws.amazon.com/cli/latest/reference/chime/get-global-settings.html)|[Get-CHMGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMGlobalSetting.html)|
+|[aws chime get-media-capture-pipeline](https://docs.aws.amazon.com/cli/latest/reference/chime/get-media-capture-pipeline.html)||
 |[aws chime get-meeting](https://docs.aws.amazon.com/cli/latest/reference/chime/get-meeting.html)|[Get-CHMMeeting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMeeting.html)|
 |[aws chime get-messaging-session-endpoint](https://docs.aws.amazon.com/cli/latest/reference/chime/get-messaging-session-endpoint.html)|[Get-CHMMessagingSessionEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMessagingSessionEndpoint.html)|
 |[aws chime get-phone-number](https://docs.aws.amazon.com/cli/latest/reference/chime/get-phone-number.html)|[Get-CHMPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMPhoneNumber.html)|
@@ -134,6 +137,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime list-channel-moderators](https://docs.aws.amazon.com/cli/latest/reference/chime/list-channel-moderators.html)|[Get-CHMChannelModeratorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMChannelModeratorList.html)|
 |[aws chime list-channels](https://docs.aws.amazon.com/cli/latest/reference/chime/list-channels.html)|[Get-CHMChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMChannelList.html)|
 |[aws chime list-channels-moderated-by-app-instance-user](https://docs.aws.amazon.com/cli/latest/reference/chime/list-channels-moderated-by-app-instance-user.html)|[Get-CHMChannelsModeratedByAppInstanceUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMChannelsModeratedByAppInstanceUserList.html)|
+|[aws chime list-media-capture-pipelines](https://docs.aws.amazon.com/cli/latest/reference/chime/list-media-capture-pipelines.html)||
 |[aws chime list-meeting-tags](https://docs.aws.amazon.com/cli/latest/reference/chime/list-meeting-tags.html)|[Get-CHMMeetingTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMeetingTagList.html)|
 |[aws chime list-meetings](https://docs.aws.amazon.com/cli/latest/reference/chime/list-meetings.html)|[Get-CHMMeetingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMeetingList.html)|
 |[aws chime list-phone-number-orders](https://docs.aws.amazon.com/cli/latest/reference/chime/list-phone-number-orders.html)|[Get-CHMPhoneNumberOrderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMPhoneNumberOrderList.html)|

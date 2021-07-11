@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2021-06-27
+date: 2021-07-11
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 

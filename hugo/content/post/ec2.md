@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-06-27
+date: 2021-07-11
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -259,6 +259,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-scheduled-instance-availability](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-scheduled-instance-availability.html)|[Get-EC2ScheduledInstanceAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ScheduledInstanceAvailability.html)|
 |[aws ec2 describe-scheduled-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-scheduled-instances.html)|[Get-EC2ScheduledInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ScheduledInstance.html)|
 |[aws ec2 describe-security-group-references](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-security-group-references.html)|[Get-EC2SecurityGroupReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupReference.html)|
+|[aws ec2 describe-security-group-rules](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-security-group-rules.html)||
 |[aws ec2 describe-security-groups](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-security-groups.html)|[Get-EC2SecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroup.html)|
 |[aws ec2 describe-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-snapshot-attribute.html)|[Get-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SnapshotAttribute.html)|
 |[aws ec2 describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-snapshots.html)|[Get-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Snapshot.html)|
@@ -386,6 +387,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-managed-prefix-list.html)|[Edit-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedPrefixList.html)|
 |[aws ec2 modify-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 modify-reserved-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-reserved-instances.html)|[Edit-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ReservedInstance.html)|
+|[aws ec2 modify-security-group-rules](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-security-group-rules.html)||
 |[aws ec2 modify-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-snapshot-attribute.html)|[Edit-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SnapshotAttribute.html)|
 |[aws ec2 modify-spot-fleet-request](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-spot-fleet-request.html)|[Edit-EC2SpotFleetRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SpotFleetRequest.html)|
 |[aws ec2 modify-subnet-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-subnet-attribute.html)|[Edit-EC2SubnetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SubnetAttribute.html)|

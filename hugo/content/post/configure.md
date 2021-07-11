@@ -1,6 +1,6 @@
 ---
 title: configure
-date: 2021-06-27
+date: 2021-07-11
 description: aws configure (-) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ec2-instance-connect
-date: 2021-06-27
+date: 2021-07-11
 description: aws ec2-instance-connect (AWS EC2 Connect Service) command/cmdlet list.
 ---
 

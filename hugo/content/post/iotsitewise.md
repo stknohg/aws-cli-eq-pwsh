@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2021-06-27
+date: 2021-07-11
 description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 ---
 
@@ -42,6 +42,7 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise describe-logging-options](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-logging-options.html)|[Get-IOTSWLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWLoggingOption.html)|
 |[aws iotsitewise describe-portal](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-portal.html)|[Get-IOTSWPortal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWPortal.html)|
 |[aws iotsitewise describe-project](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-project.html)|[Get-IOTSWProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWProject.html)|
+|[aws iotsitewise describe-storage-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-storage-configuration.html)||
 |[aws iotsitewise disassociate-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/disassociate-assets.html)|[Disconnect-IOTSWAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-IOTSWAsset.html)|
 |[aws iotsitewise get-asset-property-aggregates](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-aggregates.html)|[Get-IOTSWAssetPropertyAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyAggregate.html)|
 |[aws iotsitewise get-asset-property-value](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-value.html)|[Get-IOTSWAssetPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyValue.html)|
@@ -60,6 +61,7 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-tags-for-resource.html)|[Get-IOTSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWResourceTag.html)|
 |[aws iotsitewise put-default-encryption-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/put-default-encryption-configuration.html)|[Write-IOTSWDefaultEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IOTSWDefaultEncryptionConfiguration.html)|
 |[aws iotsitewise put-logging-options](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/put-logging-options.html)|[Write-IOTSWLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IOTSWLoggingOption.html)|
+|[aws iotsitewise put-storage-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/put-storage-configuration.html)||
 |[aws iotsitewise tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/tag-resource.html)|[Add-IOTSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTSWResourceTag.html)|
 |[aws iotsitewise untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/untag-resource.html)|[Remove-IOTSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTSWResourceTag.html)|
 |[aws iotsitewise update-access-policy](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/update-access-policy.html)|[Update-IOTSWAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTSWAccessPolicy.html)|

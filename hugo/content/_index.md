@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-07-11
+date: 2021-08-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,7 +8,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.2.18 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.2.25 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.14.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
@@ -236,6 +236,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
 |[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||
 |[Amazon Route 53](https://aws.amazon.com/route53/)|[route53]({{%relref "post/route53.md" %}})|R53||
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})||Recovery Control Data Plane|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})||Recovery Control Configuration|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})||Recovery Readiness|
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})|S3|* Currntly, failed to create the list...|

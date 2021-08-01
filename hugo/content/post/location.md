@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2021-07-11
+date: 2021-08-01
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 
@@ -58,4 +58,9 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location search-place-index-for-text](https://docs.aws.amazon.com/cli/latest/reference/location/search-place-index-for-text.html)|[Search-LOCPlaceIndexForText](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LOCPlaceIndexForText.html)|
 |[aws location tag-resource](https://docs.aws.amazon.com/cli/latest/reference/location/tag-resource.html)|[Add-LOCResourceTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LOCResourceTagSet.html)|
 |[aws location untag-resource](https://docs.aws.amazon.com/cli/latest/reference/location/untag-resource.html)|[Remove-LOCResourceTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCResourceTagSet.html)|
+|[aws location update-geofence-collection](https://docs.aws.amazon.com/cli/latest/reference/location/update-geofence-collection.html)||
+|[aws location update-map](https://docs.aws.amazon.com/cli/latest/reference/location/update-map.html)||
+|[aws location update-place-index](https://docs.aws.amazon.com/cli/latest/reference/location/update-place-index.html)||
+|[aws location update-route-calculator](https://docs.aws.amazon.com/cli/latest/reference/location/update-route-calculator.html)||
+|[aws location update-tracker](https://docs.aws.amazon.com/cli/latest/reference/location/update-tracker.html)||
 

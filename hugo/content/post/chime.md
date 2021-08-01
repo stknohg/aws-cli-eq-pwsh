@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2021-07-11
+date: 2021-08-01
 description: aws chime (Amazon Chime) command/cmdlet list.
 ---
 
@@ -174,6 +174,8 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime restore-phone-number](https://docs.aws.amazon.com/cli/latest/reference/chime/restore-phone-number.html)|[Restore-CHMPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-CHMPhoneNumber.html)|
 |[aws chime search-available-phone-numbers](https://docs.aws.amazon.com/cli/latest/reference/chime/search-available-phone-numbers.html)|[Search-CHMAvailablePhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CHMAvailablePhoneNumber.html)|
 |[aws chime send-channel-message](https://docs.aws.amazon.com/cli/latest/reference/chime/send-channel-message.html)|[Send-CHMChannelMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CHMChannelMessage.html)|
+|[aws chime start-meeting-transcription](https://docs.aws.amazon.com/cli/latest/reference/chime/start-meeting-transcription.html)||
+|[aws chime stop-meeting-transcription](https://docs.aws.amazon.com/cli/latest/reference/chime/stop-meeting-transcription.html)||
 |[aws chime tag-attendee](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-attendee.html)|[Add-CHMAttendee](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMAttendee.html)|
 |[aws chime tag-meeting](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-meeting.html)|[Add-CHMMeeting](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMMeeting.html)|
 |[aws chime tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-resource.html)|[Add-CHMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMResourceTag.html)|

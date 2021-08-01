@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-07-11
+date: 2021-08-01
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 associate-dhcp-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-dhcp-options.html)|[Register-EC2DhcpOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2DhcpOption.html)|
 |[aws ec2 associate-enclave-certificate-iam-role](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-enclave-certificate-iam-role.html)|[Register-EC2EnclaveCertificateIamRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2EnclaveCertificateIamRole.html)|
 |[aws ec2 associate-iam-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-iam-instance-profile.html)|[Register-EC2IamInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2IamInstanceProfile.html)|
+|[aws ec2 associate-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-instance-event-window.html)||
 |[aws ec2 associate-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-route-table.html)|[Register-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2RouteTable.html)|
 |[aws ec2 associate-subnet-cidr-block](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-subnet-cidr-block.html)|[Register-EC2SubnetCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2SubnetCidrBlock.html)|
 |[aws ec2 associate-transit-gateway-multicast-domain](https://docs.aws.amazon.com/cli/latest/reference/ec2/associate-transit-gateway-multicast-domain.html)|[Register-EC2TransitGatewayMulticastDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2TransitGatewayMulticastDomain.html)|
@@ -70,6 +71,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-flow-logs](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-flow-logs.html)|[New-EC2FlowLog](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2FlowLog.html)|
 |[aws ec2 create-fpga-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-fpga-image.html)|[New-EC2FpgaImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2FpgaImage.html)|
 |[aws ec2 create-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-image.html)|[New-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Image.html)|
+|[aws ec2 create-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-instance-event-window.html)||
 |[aws ec2 create-instance-export-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-instance-export-task.html)|[New-EC2InstanceExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceExportTask.html)|
 |[aws ec2 create-internet-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-internet-gateway.html)|[New-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InternetGateway.html)|
 |[aws ec2 create-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-key-pair.html)|[New-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2KeyPair.html)|
@@ -96,6 +98,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-spot-datafeed-subscription](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-spot-datafeed-subscription.html)|[New-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SpotDatafeedSubscription.html)|
 |[aws ec2 create-store-image-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-store-image-task.html)|[New-EC2StoreImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2StoreImageTask.html)|
 |[aws ec2 create-subnet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-subnet.html)|[New-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Subnet.html)|
+|[aws ec2 create-subnet-cidr-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-subnet-cidr-reservation.html)||
 |[aws ec2 create-tags](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-tags.html)|[New-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Tag.html)|
 |[aws ec2 create-traffic-mirror-filter](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-traffic-mirror-filter.html)|[New-EC2TrafficMirrorFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TrafficMirrorFilter.html)|
 |[aws ec2 create-traffic-mirror-filter-rule](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-traffic-mirror-filter-rule.html)|[New-EC2TrafficMirrorFilterRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2TrafficMirrorFilterRule.html)|
@@ -128,6 +131,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-fleets](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-fleets.html)|[Remove-EC2Fleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Fleet.html)|
 |[aws ec2 delete-flow-logs](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-flow-logs.html)|[Remove-EC2FlowLog](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2FlowLog.html)|
 |[aws ec2 delete-fpga-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-fpga-image.html)|[Remove-EC2FpgaImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2FpgaImage.html)|
+|[aws ec2 delete-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-instance-event-window.html)||
 |[aws ec2 delete-internet-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-internet-gateway.html)|[Remove-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InternetGateway.html)|
 |[aws ec2 delete-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-key-pair.html)|[Remove-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2KeyPair.html)|
 |[aws ec2 delete-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-launch-template.html)|[Remove-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LaunchTemplate.html)|
@@ -150,6 +154,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-snapshot.html)|[Remove-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Snapshot.html)|
 |[aws ec2 delete-spot-datafeed-subscription](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-spot-datafeed-subscription.html)|[Remove-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2SpotDatafeedSubscription.html)|
 |[aws ec2 delete-subnet](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-subnet.html)|[Remove-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Subnet.html)|
+|[aws ec2 delete-subnet-cidr-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-subnet-cidr-reservation.html)||
 |[aws ec2 delete-tags](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-tags.html)|[Remove-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Tag.html)|
 |[aws ec2 delete-traffic-mirror-filter](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-traffic-mirror-filter.html)|[Remove-EC2TrafficMirrorFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TrafficMirrorFilter.html)|
 |[aws ec2 delete-traffic-mirror-filter-rule](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-traffic-mirror-filter-rule.html)|[Remove-EC2TrafficMirrorFilterRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TrafficMirrorFilterRule.html)|
@@ -221,6 +226,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-instance-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-attribute.html)|[Get-EC2InstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceAttribute.html)|
 |[aws ec2 describe-instance-credit-specifications](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-credit-specifications.html)|[Get-EC2CreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CreditSpecification.html)|
 |[aws ec2 describe-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-event-notification-attributes.html)|[Get-EC2InstanceEventNotificationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceEventNotificationAttribute.html)|
+|[aws ec2 describe-instance-event-windows](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-event-windows.html)||
 |[aws ec2 describe-instance-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-status.html)|[Get-EC2InstanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceStatus.html)|
 |[aws ec2 describe-instance-type-offerings](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-type-offerings.html)|[Get-EC2InstanceTypeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypeOffering.html)|
 |[aws ec2 describe-instance-types](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-types.html)|[Get-EC2InstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceType.html)|
@@ -319,6 +325,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 disassociate-client-vpn-target-network](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-client-vpn-target-network.html)|[Unregister-EC2ClientVpnTargetNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2ClientVpnTargetNetwork.html)|
 |[aws ec2 disassociate-enclave-certificate-iam-role](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-enclave-certificate-iam-role.html)|[Unregister-EC2EnclaveCertificateIamRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2EnclaveCertificateIamRole.html)|
 |[aws ec2 disassociate-iam-instance-profile](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-iam-instance-profile.html)|[Unregister-EC2IamInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2IamInstanceProfile.html)|
+|[aws ec2 disassociate-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-instance-event-window.html)||
 |[aws ec2 disassociate-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-route-table.html)|[Unregister-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2RouteTable.html)|
 |[aws ec2 disassociate-subnet-cidr-block](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-subnet-cidr-block.html)|[Unregister-EC2SubnetCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2SubnetCidrBlock.html)|
 |[aws ec2 disassociate-transit-gateway-multicast-domain](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-transit-gateway-multicast-domain.html)|[Unregister-EC2TransitGatewayMulticastDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastDomain.html)|
@@ -356,6 +363,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-password-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
 |[aws ec2 get-reserved-instances-exchange-quote](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-reserved-instances-exchange-quote.html)|[Get-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ReservedInstancesExchangeQuote.html)|
 |[aws ec2 get-serial-console-access-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-serial-console-access-status.html)|[Get-EC2SerialConsoleAccessStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SerialConsoleAccessStatus.html)|
+|[aws ec2 get-subnet-cidr-reservations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-subnet-cidr-reservations.html)||
 |[aws ec2 get-transit-gateway-attachment-propagations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-attachment-propagations.html)|[Get-EC2TransitGatewayAttachmentPropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayAttachmentPropagation.html)|
 |[aws ec2 get-transit-gateway-multicast-domain-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-multicast-domain-associations.html)|[Get-EC2TransitGatewayMulticastDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayMulticastDomainAssociation.html)|
 |[aws ec2 get-transit-gateway-prefix-list-references](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-prefix-list-references.html)|[Get-EC2TransitGatewayPrefixListReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayPrefixListReference.html)|
@@ -381,6 +389,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-instance-capacity-reservation-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-capacity-reservation-attributes.html)|[Edit-EC2InstanceCapacityReservationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceCapacityReservationAttribute.html)|
 |[aws ec2 modify-instance-credit-specification](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-credit-specification.html)|[Edit-EC2InstanceCreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceCreditSpecification.html)|
 |[aws ec2 modify-instance-event-start-time](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-event-start-time.html)|[Edit-EC2InstanceEventStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventStartTime.html)|
+|[aws ec2 modify-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-event-window.html)||
 |[aws ec2 modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html)|[Edit-EC2InstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataOption.html)|
 |[aws ec2 modify-instance-placement](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-placement.html)|[Edit-EC2InstancePlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstancePlacement.html)|
 |[aws ec2 modify-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-launch-template.html)|[Edit-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LaunchTemplate.html)|

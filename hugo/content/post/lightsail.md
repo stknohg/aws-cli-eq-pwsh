@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2021-07-11
+date: 2021-08-01
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 
@@ -21,6 +21,8 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail attach-static-ip](https://docs.aws.amazon.com/cli/latest/reference/lightsail/attach-static-ip.html)|[Mount-LSStaticIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-LSStaticIp.html)|
 |[aws lightsail close-instance-public-ports](https://docs.aws.amazon.com/cli/latest/reference/lightsail/close-instance-public-ports.html)|[Close-LSInstancePublicPort](https://docs.aws.amazon.com/powershell/latest/reference/items/Close-LSInstancePublicPort.html)|
 |[aws lightsail copy-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/copy-snapshot.html)|[Copy-LSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-LSSnapshot.html)|
+|[aws lightsail create-bucket](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-bucket.html)||
+|[aws lightsail create-bucket-access-key](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-bucket-access-key.html)||
 |[aws lightsail create-certificate](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-certificate.html)|[New-LSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSCertificate.html)|
 |[aws lightsail create-cloud-formation-stack](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-cloud-formation-stack.html)|[New-LSCloudFormationStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSCloudFormationStack.html)|
 |[aws lightsail create-contact-method](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-contact-method.html)|[New-LSContactMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSContactMethod.html)|
@@ -44,6 +46,8 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail create-relational-database-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-relational-database-snapshot.html)|[New-LSRelationalDatabaseSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSRelationalDatabaseSnapshot.html)|
 |[aws lightsail delete-alarm](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-alarm.html)|[Remove-LSAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSAlarm.html)|
 |[aws lightsail delete-auto-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-auto-snapshot.html)|[Remove-LSAutoSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSAutoSnapshot.html)|
+|[aws lightsail delete-bucket](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-bucket.html)||
+|[aws lightsail delete-bucket-access-key](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-bucket-access-key.html)||
 |[aws lightsail delete-certificate](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-certificate.html)|[Remove-LSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSCertificate.html)|
 |[aws lightsail delete-contact-method](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-contact-method.html)|[Remove-LSContactMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSContactMethod.html)|
 |[aws lightsail delete-container-image](https://docs.aws.amazon.com/cli/latest/reference/lightsail/delete-container-image.html)|[Remove-LSContainerImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSContainerImage.html)|
@@ -73,6 +77,10 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail get-alarms](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-alarms.html)|[Get-LSAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSAlarm.html)|
 |[aws lightsail get-auto-snapshots](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-auto-snapshots.html)|[Get-LSAutoSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSAutoSnapshot.html)|
 |[aws lightsail get-blueprints](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-blueprints.html)|[Get-LSBlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSBlueprintList.html)|
+|[aws lightsail get-bucket-access-keys](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-bucket-access-keys.html)||
+|[aws lightsail get-bucket-bundles](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-bucket-bundles.html)||
+|[aws lightsail get-bucket-metric-data](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-bucket-metric-data.html)||
+|[aws lightsail get-buckets](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-buckets.html)||
 |[aws lightsail get-bundles](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-bundles.html)|[Get-LSBundleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSBundleList.html)|
 |[aws lightsail get-certificates](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-certificates.html)|[Get-LSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCertificate.html)|
 |[aws lightsail get-cloud-formation-stack-records](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-cloud-formation-stack-records.html)|[Get-LSCloudFormationStackRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCloudFormationStackRecord.html)|
@@ -141,6 +149,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail reset-distribution-cache](https://docs.aws.amazon.com/cli/latest/reference/lightsail/reset-distribution-cache.html)|[Reset-LSDistributionCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-LSDistributionCache.html)|
 |[aws lightsail send-contact-method-verification](https://docs.aws.amazon.com/cli/latest/reference/lightsail/send-contact-method-verification.html)|[Send-LSContactMethodVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LSContactMethodVerification.html)|
 |[aws lightsail set-ip-address-type](https://docs.aws.amazon.com/cli/latest/reference/lightsail/set-ip-address-type.html)|[Set-LSIpAddressType](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSIpAddressType.html)|
+|[aws lightsail set-resource-access-for-bucket](https://docs.aws.amazon.com/cli/latest/reference/lightsail/set-resource-access-for-bucket.html)||
 |[aws lightsail start-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-instance.html)|[Start-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSInstance.html)|
 |[aws lightsail start-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-relational-database.html)|[Start-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSRelationalDatabase.html)|
 |[aws lightsail stop-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-instance.html)|[Stop-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSInstance.html)|
@@ -149,6 +158,8 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail test-alarm](https://docs.aws.amazon.com/cli/latest/reference/lightsail/test-alarm.html)|[Test-LSAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-LSAlarm.html)|
 |[aws lightsail unpeer-vpc](https://docs.aws.amazon.com/cli/latest/reference/lightsail/unpeer-vpc.html)|[Remove-LSPeerVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSPeerVpc.html)|
 |[aws lightsail untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lightsail/untag-resource.html)|[Remove-LSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LSResourceTag.html)|
+|[aws lightsail update-bucket](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-bucket.html)||
+|[aws lightsail update-bucket-bundle](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-bucket-bundle.html)||
 |[aws lightsail update-container-service](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-container-service.html)|[Update-LSContainerService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSContainerService.html)|
 |[aws lightsail update-distribution](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-distribution.html)|[Update-LSDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDistribution.html)|
 |[aws lightsail update-distribution-bundle](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-distribution-bundle.html)|[Update-LSDistributionBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDistributionBundle.html)|

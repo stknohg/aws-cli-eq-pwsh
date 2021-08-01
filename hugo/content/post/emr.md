@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2021-07-11
+date: 2021-08-01
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -29,6 +29,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr delete-studio-session-mapping](https://docs.aws.amazon.com/cli/latest/reference/emr/delete-studio-session-mapping.html)|[Remove-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRStudioSessionMapping.html)|
 |[aws emr describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-cluster.html)|[Get-EMRCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCluster.html)|
 |[aws emr describe-notebook-execution](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-notebook-execution.html)|[Get-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRNotebookExecution.html)|
+|[aws emr describe-release-label](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-release-label.html)||
 |[aws emr describe-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-security-configuration.html)|[Get-EMRSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSecurityConfiguration.html)|
 |[aws emr describe-step](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-step.html)|[Get-EMRStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStep.html)|
 |[aws emr describe-studio](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-studio.html)|[Get-EMRStudio](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudio.html)|
@@ -42,6 +43,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr list-instance-fleets](https://docs.aws.amazon.com/cli/latest/reference/emr/list-instance-fleets.html)|[Get-EMRInstanceFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRInstanceFleetList.html)|
 |[aws emr list-instances](https://docs.aws.amazon.com/cli/latest/reference/emr/list-instances.html)|[Get-EMRInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRInstanceList.html)|
 |[aws emr list-notebook-executions](https://docs.aws.amazon.com/cli/latest/reference/emr/list-notebook-executions.html)|[Get-EMRNotebookExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRNotebookExecutionList.html)|
+|[aws emr list-release-labels](https://docs.aws.amazon.com/cli/latest/reference/emr/list-release-labels.html)||
 |[aws emr list-security-configurations](https://docs.aws.amazon.com/cli/latest/reference/emr/list-security-configurations.html)|[Get-EMRSecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSecurityConfigurationList.html)|
 |[aws emr list-steps](https://docs.aws.amazon.com/cli/latest/reference/emr/list-steps.html)|[Get-EMRStepList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStepList.html)|
 |[aws emr list-studio-session-mappings](https://docs.aws.amazon.com/cli/latest/reference/emr/list-studio-session-mappings.html)|[Get-EMRStudioSessionMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMappingList.html)|

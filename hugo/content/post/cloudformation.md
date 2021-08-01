@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2021-07-11
+date: 2021-08-01
 description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 ---
 
@@ -52,6 +52,7 @@ description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 |[aws cloudformation get-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-stack-policy.html)|[Get-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackPolicy.html)|
 |[aws cloudformation get-template](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-template.html)|[Get-CFNTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTemplate.html)|
 |[aws cloudformation get-template-summary](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-template-summary.html)|[Get-CFNTemplateSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTemplateSummary.html)|
+|[aws cloudformation import-stacks-to-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/import-stacks-to-stack-set.html)||
 |[aws cloudformation list-change-sets](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-change-sets.html)|[Get-CFNChangeSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetList.html)|
 |[aws cloudformation list-exports](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-exports.html)|[Get-CFNExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNExport.html)|
 |[aws cloudformation list-imports](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-imports.html)|[Get-CFNImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNImportList.html)|

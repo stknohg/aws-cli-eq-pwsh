@@ -1,6 +1,6 @@
 ---
 title: redshift-data
-date: 2021-07-11
+date: 2021-08-01
 description: aws redshift-data (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws redshift-data (Amazon Redshift) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws redshift-data batch-execute-statement](https://docs.aws.amazon.com/cli/latest/reference/redshift-data/batch-execute-statement.html)||
 |[aws redshift-data cancel-statement](https://docs.aws.amazon.com/cli/latest/reference/redshift-data/cancel-statement.html)|[Stop-RSDStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RSDStatement.html)|
 |[aws redshift-data describe-statement](https://docs.aws.amazon.com/cli/latest/reference/redshift-data/describe-statement.html)|[Get-RSDStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDStatement.html)|
 |[aws redshift-data describe-table](https://docs.aws.amazon.com/cli/latest/reference/redshift-data/describe-table.html)|[Get-RSDTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDTable.html)|

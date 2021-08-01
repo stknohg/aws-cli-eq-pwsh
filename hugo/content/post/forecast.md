@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2021-07-11
+date: 2021-08-01
 description: aws forecast (Amazon Forecast) command/cmdlet list.
 ---
 

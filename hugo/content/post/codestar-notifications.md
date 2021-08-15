@@ -1,6 +1,6 @@
 ---
 title: codestar-notifications
-date: 2021-08-01
+date: 2021-08-15
 description: aws codestar-notifications (AWS CodeStar Notifications) command/cmdlet list.
 ---
 

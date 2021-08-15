@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-08-01
+date: 2021-08-15
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,7 +8,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.2.25 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.2.29 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.14.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
@@ -50,6 +50,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime]({{%relref "post/chime.md" %}})|CHM||
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})||Amazon Chime SDK Identity API|
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})||Amazon Chime SDK Messaging API|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
 |[AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
@@ -265,7 +267,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
 |[AWS Sever Migration Service](https://aws.amazon.com/server-migration-service/)|[sms]({{%relref "post/sms.md" %}})|SMS||
-|[AWS Snowball](https://aws.amazon.com/snowball/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
+|[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|||
+|[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||
 |[Amazon Simple Queue Service](https://aws.amazon.com/sqs/)|[sqs]({{%relref "post/sqs.md" %}})|SQS||
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||

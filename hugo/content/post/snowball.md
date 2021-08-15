@@ -1,12 +1,12 @@
 ---
 title: snowball
-date: 2021-08-01
-description: aws snowball (AWS Snowball) command/cmdlet list.
+date: 2021-08-15
+description: aws snowball (AWS Snow Family) command/cmdlet list.
 ---
 
 ## snowball
 
-### [AWS Snowball](https://aws.amazon.com/snowball/)
+### [AWS Snow Family](https://aws.amazon.com/snow/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/snowball/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_Snowball_cmdlets.html)

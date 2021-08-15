@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2021-08-01
+date: 2021-08-15
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -21,7 +21,9 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-queue-quick-connects](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-queue-quick-connects.html)|[Add-CONNQueueQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNQueueQuickConnect.html)|
 |[aws connect associate-routing-profile-queues](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-routing-profile-queues.html)|[Join-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-CONNRoutingProfileQueue.html)|
 |[aws connect associate-security-key](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-security-key.html)|[Add-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNSecurityKey.html)|
+|[aws connect create-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/create-agent-status.html)||
 |[aws connect create-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/create-contact-flow.html)|[New-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlow.html)|
+|[aws connect create-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/create-hours-of-operation.html)||
 |[aws connect create-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/create-instance.html)|[New-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNInstance.html)|
 |[aws connect create-integration-association](https://docs.aws.amazon.com/cli/latest/reference/connect/create-integration-association.html)|[New-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNIntegrationAssociation.html)|
 |[aws connect create-queue](https://docs.aws.amazon.com/cli/latest/reference/connect/create-queue.html)|[New-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNQueue.html)|
@@ -30,12 +32,14 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/create-use-case.html)|[New-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUseCase.html)|
 |[aws connect create-user](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user.html)|[New-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUser.html)|
 |[aws connect create-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user-hierarchy-group.html)|[New-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUserHierarchyGroup.html)|
+|[aws connect delete-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-hours-of-operation.html)||
 |[aws connect delete-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-instance.html)|[Remove-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstance.html)|
 |[aws connect delete-integration-association](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-integration-association.html)|[Remove-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNIntegrationAssociation.html)|
 |[aws connect delete-quick-connect](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-quick-connect.html)|[Remove-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQuickConnect.html)|
 |[aws connect delete-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-use-case.html)|[Remove-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUseCase.html)|
 |[aws connect delete-user](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-user.html)|[Remove-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUser.html)|
 |[aws connect delete-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-user-hierarchy-group.html)|[Remove-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUserHierarchyGroup.html)|
+|[aws connect describe-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-agent-status.html)||
 |[aws connect describe-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-contact-flow.html)|[Get-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlow.html)|
 |[aws connect describe-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-hours-of-operation.html)|[Get-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNHoursOfOperation.html)|
 |[aws connect describe-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-instance.html)|[Get-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNInstance.html)|
@@ -59,6 +63,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect get-current-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-current-metric-data.html)|[Get-CONNCurrentMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentMetricData.html)|
 |[aws connect get-federation-token](https://docs.aws.amazon.com/cli/latest/reference/connect/get-federation-token.html)|[Get-CONNFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFederationToken.html)|
 |[aws connect get-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-metric-data.html)|[Get-CONNMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNMetricData.html)|
+|[aws connect list-agent-statuses](https://docs.aws.amazon.com/cli/latest/reference/connect/list-agent-statuses.html)||
 |[aws connect list-approved-origins](https://docs.aws.amazon.com/cli/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
 |[aws connect list-bots](https://docs.aws.amazon.com/cli/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
 |[aws connect list-contact-flows](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-flows.html)|[Get-CONNContactFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowList.html)|
@@ -92,9 +97,11 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect suspend-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/suspend-contact-recording.html)|[Suspend-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-CONNContactRecording.html)|
 |[aws connect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/tag-resource.html)|[Add-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNResourceTag.html)|
 |[aws connect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/untag-resource.html)|[Remove-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNResourceTag.html)|
+|[aws connect update-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/update-agent-status.html)||
 |[aws connect update-contact-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-attributes.html)|[Update-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactAttribute.html)|
 |[aws connect update-contact-flow-content](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-content.html)|[Update-CONNContactFlowContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactFlowContent.html)|
 |[aws connect update-contact-flow-name](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-name.html)|[Update-CONNContactFlowName](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactFlowName.html)|
+|[aws connect update-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/update-hours-of-operation.html)||
 |[aws connect update-instance-attribute](https://docs.aws.amazon.com/cli/latest/reference/connect/update-instance-attribute.html)|[Update-CONNInstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceAttribute.html)|
 |[aws connect update-instance-storage-config](https://docs.aws.amazon.com/cli/latest/reference/connect/update-instance-storage-config.html)|[Update-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceStorageConfig.html)|
 |[aws connect update-queue-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/update-queue-hours-of-operation.html)|[Update-CONNQueueHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNQueueHoursOfOperation.html)|

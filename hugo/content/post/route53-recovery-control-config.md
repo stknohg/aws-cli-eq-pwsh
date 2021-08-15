@@ -1,6 +1,6 @@
 ---
 title: route53-recovery-control-config
-date: 2021-08-01
+date: 2021-08-15
 description: aws route53-recovery-control-config (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 

@@ -287,7 +287,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|TSQ||
 |[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|TSW||
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
-|[AWS Transfer for SFTP](https://aws.amazon.com/sftp/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
+|[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
 |[AWS WAF](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||
 |[AWS WAF Regional ](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||

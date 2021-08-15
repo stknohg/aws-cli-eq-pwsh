@@ -1,12 +1,12 @@
 ---
 title: transfer
 date: 2021-08-15
-description: aws transfer (AWS Transfer for SFTP) command/cmdlet list.
+description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
 ## transfer
 
-### [AWS Transfer for SFTP](https://aws.amazon.com/sftp/)
+### [AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/transfer/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html)

@@ -370,7 +370,7 @@ $g_AWSServices = @{
     'timestream-query'                = [PSCustomObject]@{ Prefix = 'TSQ'; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
     'timestream-write'                = [PSCustomObject]@{ Prefix = 'TSW'; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
     'transcribe'                      = [PSCustomObject]@{ Prefix = 'TRS'; Name = 'Amazon Transcribe'; Url = 'https://aws.amazon.com/transcribe/'; Note = '' };
-    'transfer'                        = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer for SFTP'; Url = 'https://aws.amazon.com/sftp/'; Note = '' };
+    'transfer'                        = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer Family'; Url = 'https://aws.amazon.com/aws-transfer-family/'; Note = '' };
     'translate'                       = [PSCustomObject]@{ Prefix = 'TRN'; Name = 'Amazon Translate'; Url = 'https://aws.amazon.com/translate/'; Note = '' };
     'waf-regional'                    = [PSCustomObject]@{ Prefix = 'WAFR'; Name = 'AWS WAF Regional '; Url = 'https://aws.amazon.com/waf/'; Note = '' };
     'waf'                             = [PSCustomObject]@{ Prefix = 'WAF'; Name = 'AWS WAF'; Url = 'https://aws.amazon.com/waf/'; Note = '' };

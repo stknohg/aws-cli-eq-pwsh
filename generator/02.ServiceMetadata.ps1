@@ -132,6 +132,8 @@ $g_AWSServices = @{
     'braket'                          = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                              = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
+    'chime-sdk-identity'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Identity API' };
+    'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime'                           = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                          = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
     'clouddirectory'                  = [PSCustomObject]@{ Prefix = 'CDIR'; Name = 'Amazon Cloud Directory'; Url = 'https://aws.amazon.com/cloud-directory/'; Note = '' };
@@ -348,7 +350,8 @@ $g_AWSServices = @{
     'shield'                          = [PSCustomObject]@{ Prefix = 'SHLD'; Name = 'AWS Shield'; Url = 'https://aws.amazon.com/shield/'; Note = '' };
     'signer'                          = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Signer'; Url = 'https://docs.aws.amazon.com/signer/latest/api/Welcome.html'; Note = '' };
     'sms'                             = [PSCustomObject]@{ Prefix = 'SMS'; Name = 'AWS Sever Migration Service'; Url = 'https://aws.amazon.com/server-migration-service/'; Note = '' };
-    'snowball'                        = [PSCustomObject]@{ Prefix = 'SNOW'; Name = 'AWS Snowball'; Url = 'https://aws.amazon.com/snowball/'; Note = '' };
+    'snow-device-management'          = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Web Services Snow Device Management'; Url = 'https://aws.amazon.com/snow/'; Note = '' }; 
+    'snowball'                        = [PSCustomObject]@{ Prefix = 'SNOW'; Name = 'AWS Snow Family'; Url = 'https://aws.amazon.com/snow/'; Note = '' };
     'sns'                             = [PSCustomObject]@{ Prefix = 'SNS'; Name = 'Amazon Simple Notification Service'; Url = 'https://aws.amazon.com/sns/'; Note = '' };
     'sqs'                             = [PSCustomObject]@{ Prefix = 'SQS'; Name = 'Amazon Simple Queue Service'; Url = 'https://aws.amazon.com/sqs/'; Note = '' };
     'ssm'                             = [PSCustomObject]@{ Prefix = 'SSM'; Name = 'AWS Systems Manager'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
@@ -411,6 +414,8 @@ $g_CmdletReferenceLinks = @{
     'braket'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html';
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
     'ce'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html';
+    'chime-sdk-identity'              = '';
+    'chime-sdk-messaging'             = '';
     'chime'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
     'cloud9'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud9_cmdlets.html';
     'clouddirectory'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud_Directory_cmdlets.html';
@@ -625,6 +630,7 @@ $g_CmdletReferenceLinks = @{
     'sesv2'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmailV2_cmdlets.html';
     'signer'                          = '';
     'sms'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Server_Migration_Service_cmdlets.html';
+    'snow-device-management'          = '';
     'snowball'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_Snowball_cmdlets.html';
     'sns'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Notification_Service_cmdlets.html';
     'sqs'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Queue_Service_cmdlets.html';

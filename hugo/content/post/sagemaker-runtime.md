@@ -1,6 +1,6 @@
 ---
 title: sagemaker-runtime
-date: 2021-08-15
+date: 2021-09-03
 description: aws sagemaker-runtime (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -14,4 +14,5 @@ description: aws sagemaker-runtime (Amazon SageMaker) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws sagemaker-runtime invoke-endpoint](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/invoke-endpoint.html)|[Invoke-SMREndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpoint.html)|
+|[aws sagemaker-runtime invoke-endpoint-async](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/invoke-endpoint-async.html)||
 

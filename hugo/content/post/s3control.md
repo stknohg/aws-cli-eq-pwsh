@@ -1,6 +1,6 @@
 ---
 title: s3control
-date: 2021-08-15
+date: 2021-09-03
 description: aws s3control (Amazon S3) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control create-access-point-for-object-lambda](https://docs.aws.amazon.com/cli/latest/reference/s3control/create-access-point-for-object-lambda.html)|[New-S3CAccessPointForObjectLambda](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3CAccessPointForObjectLambda.html)|
 |[aws s3control create-bucket](https://docs.aws.amazon.com/cli/latest/reference/s3control/create-bucket.html)|[New-S3CBucket](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3CBucket.html)|
 |[aws s3control create-job](https://docs.aws.amazon.com/cli/latest/reference/s3control/create-job.html)|[New-S3CJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3CJob.html)|
+|[aws s3control create-multi-region-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/create-multi-region-access-point.html)||
 |[aws s3control delete-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-access-point.html)|[Remove-S3CAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CAccessPoint.html)|
 |[aws s3control delete-access-point-for-object-lambda](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-access-point-for-object-lambda.html)|[Remove-S3CAccessPointForObjectLambda](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CAccessPointForObjectLambda.html)|
 |[aws s3control delete-access-point-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-access-point-policy.html)|[Remove-S3CAccessPointPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CAccessPointPolicy.html)|
@@ -26,10 +27,12 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control delete-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-bucket-policy.html)|[Remove-S3CBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CBucketPolicy.html)|
 |[aws s3control delete-bucket-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-bucket-tagging.html)|[Remove-S3CBucketTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CBucketTagging.html)|
 |[aws s3control delete-job-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-job-tagging.html)|[Remove-S3CJobTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CJobTagging.html)|
+|[aws s3control delete-multi-region-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-multi-region-access-point.html)||
 |[aws s3control delete-public-access-block](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-public-access-block.html)|[Remove-S3CPublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CPublicAccessBlock.html)|
 |[aws s3control delete-storage-lens-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-storage-lens-configuration.html)|[Remove-S3CStorageLensConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CStorageLensConfiguration.html)|
 |[aws s3control delete-storage-lens-configuration-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/delete-storage-lens-configuration-tagging.html)|[Remove-S3CStorageLensConfigurationTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3CStorageLensConfigurationTagging.html)|
 |[aws s3control describe-job](https://docs.aws.amazon.com/cli/latest/reference/s3control/describe-job.html)|[Get-S3CJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CJob.html)|
+|[aws s3control describe-multi-region-access-point-operation](https://docs.aws.amazon.com/cli/latest/reference/s3control/describe-multi-region-access-point-operation.html)||
 |[aws s3control get-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-access-point.html)|[Get-S3CAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPoint.html)|
 |[aws s3control get-access-point-configuration-for-object-lambda](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-access-point-configuration-for-object-lambda.html)|[Get-S3CAccessPointConfigurationForObjectLambda](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPointConfigurationForObjectLambda.html)|
 |[aws s3control get-access-point-for-object-lambda](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-access-point-for-object-lambda.html)|[Get-S3CAccessPointForObjectLambda](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPointForObjectLambda.html)|
@@ -42,12 +45,16 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control get-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-bucket-policy.html)|[Get-S3CBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CBucketPolicy.html)|
 |[aws s3control get-bucket-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-bucket-tagging.html)|[Get-S3CBucketTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CBucketTagging.html)|
 |[aws s3control get-job-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-job-tagging.html)|[Get-S3CJobTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CJobTagging.html)|
+|[aws s3control get-multi-region-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point.html)||
+|[aws s3control get-multi-region-access-point-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point-policy.html)||
+|[aws s3control get-multi-region-access-point-policy-status](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point-policy-status.html)||
 |[aws s3control get-public-access-block](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-public-access-block.html)|[Get-S3CPublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CPublicAccessBlock.html)|
 |[aws s3control get-storage-lens-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-storage-lens-configuration.html)|[Get-S3CStorageLensConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CStorageLensConfiguration.html)|
 |[aws s3control get-storage-lens-configuration-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-storage-lens-configuration-tagging.html)|[Get-S3CStorageLensConfigurationTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CStorageLensConfigurationTagging.html)|
 |[aws s3control list-access-points](https://docs.aws.amazon.com/cli/latest/reference/s3control/list-access-points.html)|[Get-S3CAccessPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPointList.html)|
 |[aws s3control list-access-points-for-object-lambda](https://docs.aws.amazon.com/cli/latest/reference/s3control/list-access-points-for-object-lambda.html)|[Get-S3CAccessPointsForObjectLambdaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPointsForObjectLambdaList.html)|
 |[aws s3control list-jobs](https://docs.aws.amazon.com/cli/latest/reference/s3control/list-jobs.html)|[Get-S3CJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CJobList.html)|
+|[aws s3control list-multi-region-access-points](https://docs.aws.amazon.com/cli/latest/reference/s3control/list-multi-region-access-points.html)||
 |[aws s3control list-regional-buckets](https://docs.aws.amazon.com/cli/latest/reference/s3control/list-regional-buckets.html)|[Get-S3CRegionalBucketList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CRegionalBucketList.html)|
 |[aws s3control list-storage-lens-configurations](https://docs.aws.amazon.com/cli/latest/reference/s3control/list-storage-lens-configurations.html)|[Get-S3CStorageLensConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CStorageLensConfigurationList.html)|
 |[aws s3control put-access-point-configuration-for-object-lambda](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-access-point-configuration-for-object-lambda.html)|[Write-S3CAccessPointConfigurationForObjectLambda](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CAccessPointConfigurationForObjectLambda.html)|
@@ -57,6 +64,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control put-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-bucket-policy.html)|[Write-S3CBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CBucketPolicy.html)|
 |[aws s3control put-bucket-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-bucket-tagging.html)|[Write-S3CBucketTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CBucketTagging.html)|
 |[aws s3control put-job-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-job-tagging.html)|[Add-S3CJobTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3CJobTagging.html)|
+|[aws s3control put-multi-region-access-point-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-multi-region-access-point-policy.html)||
 |[aws s3control put-public-access-block](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-public-access-block.html)|[Add-S3CPublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3CPublicAccessBlock.html)|
 |[aws s3control put-storage-lens-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-storage-lens-configuration.html)|[Write-S3CStorageLensConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CStorageLensConfiguration.html)|
 |[aws s3control put-storage-lens-configuration-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-storage-lens-configuration-tagging.html)|[Write-S3CStorageLensConfigurationTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CStorageLensConfigurationTagging.html)|

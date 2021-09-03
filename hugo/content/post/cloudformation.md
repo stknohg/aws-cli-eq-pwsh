@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2021-08-15
+date: 2021-09-03
 description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 ---
 
@@ -70,6 +70,7 @@ description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 |[aws cloudformation record-handler-progress](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/record-handler-progress.html)|[Write-CFNHandlerProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFNHandlerProgress.html)|
 |[aws cloudformation register-publisher](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/register-publisher.html)|[Register-CFNPublisher](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNPublisher.html)|
 |[aws cloudformation register-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/register-type.html)|[Register-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNType.html)|
+|[aws cloudformation rollback-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/rollback-stack.html)||
 |[aws cloudformation set-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-stack-policy.html)|[Set-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNStackPolicy.html)|
 |[aws cloudformation set-type-configuration](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-type-configuration.html)|[Set-CFNTypeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeConfiguration.html)|
 |[aws cloudformation set-type-default-version](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-type-default-version.html)|[Set-CFNTypeDefaultVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeDefaultVersion.html)|

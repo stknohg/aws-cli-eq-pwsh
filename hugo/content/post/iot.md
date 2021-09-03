@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2021-08-15
+date: 2021-09-03
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -37,6 +37,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot create-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/create-dimension.html)|[New-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDimension.html)|
 |[aws iot create-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/create-domain-configuration.html)|[New-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDomainConfiguration.html)|
 |[aws iot create-dynamic-thing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/create-dynamic-thing-group.html)|[New-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDynamicThingGroup.html)|
+|[aws iot create-fleet-metric](https://docs.aws.amazon.com/cli/latest/reference/iot/create-fleet-metric.html)||
 |[aws iot create-job](https://docs.aws.amazon.com/cli/latest/reference/iot/create-job.html)|[New-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTJob.html)|
 |[aws iot create-job-template](https://docs.aws.amazon.com/cli/latest/reference/iot/create-job-template.html)|[New-IOTJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTJobTemplate.html)|
 |[aws iot create-keys-and-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/create-keys-and-certificate.html)|[New-IOTKeysAndCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTKeysAndCertificate.html)|
@@ -66,6 +67,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot delete-dimension](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-dimension.html)|[Remove-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDimension.html)|
 |[aws iot delete-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-domain-configuration.html)|[Remove-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDomainConfiguration.html)|
 |[aws iot delete-dynamic-thing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-dynamic-thing-group.html)|[Remove-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDynamicThingGroup.html)|
+|[aws iot delete-fleet-metric](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-fleet-metric.html)||
 |[aws iot delete-job](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-job.html)|[Remove-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTJob.html)|
 |[aws iot delete-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-job-execution.html)|[Remove-IOTJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTJobExecution.html)|
 |[aws iot delete-job-template](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-job-template.html)|[Remove-IOTJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTJobTemplate.html)|
@@ -103,6 +105,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot describe-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-domain-configuration.html)|[Get-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDomainConfiguration.html)|
 |[aws iot describe-endpoint](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-endpoint.html)|[Get-IOTEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEndpoint.html)|
 |[aws iot describe-event-configurations](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-event-configurations.html)|[Get-IOTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEventConfiguration.html)|
+|[aws iot describe-fleet-metric](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-fleet-metric.html)||
 |[aws iot describe-index](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-index.html)|[Get-IOTIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTIndex.html)|
 |[aws iot describe-job](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-job.html)|[Get-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJob.html)|
 |[aws iot describe-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-job-execution.html)|[Get-IOTJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobExecution.html)|
@@ -125,6 +128,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot disable-topic-rule](https://docs.aws.amazon.com/cli/latest/reference/iot/disable-topic-rule.html)|[Disable-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-IOTTopicRule.html)|
 |[aws iot enable-topic-rule](https://docs.aws.amazon.com/cli/latest/reference/iot/enable-topic-rule.html)|[Enable-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-IOTTopicRule.html)|
 |[aws iot get-behavior-model-training-summaries](https://docs.aws.amazon.com/cli/latest/reference/iot/get-behavior-model-training-summaries.html)|[Get-IOTBehaviorModelTrainingSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBehaviorModelTrainingSummary.html)|
+|[aws iot get-buckets-aggregation](https://docs.aws.amazon.com/cli/latest/reference/iot/get-buckets-aggregation.html)||
 |[aws iot get-cardinality](https://docs.aws.amazon.com/cli/latest/reference/iot/get-cardinality.html)|[Get-IOTCardinality](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCardinality.html)|
 |[aws iot get-effective-policies](https://docs.aws.amazon.com/cli/latest/reference/iot/get-effective-policies.html)|[Get-IOTEffectivePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEffectivePolicy.html)|
 |[aws iot get-indexing-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/get-indexing-configuration.html)|[Get-IOTIndexingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTIndexingConfiguration.html)|
@@ -156,6 +160,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-detect-mitigation-actions-tasks](https://docs.aws.amazon.com/cli/latest/reference/iot/list-detect-mitigation-actions-tasks.html)|[Get-IOTDetectMitigationActionsTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDetectMitigationActionsTaskList.html)|
 |[aws iot list-dimensions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-dimensions.html)|[Get-IOTDimensionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDimensionList.html)|
 |[aws iot list-domain-configurations](https://docs.aws.amazon.com/cli/latest/reference/iot/list-domain-configurations.html)|[Get-IOTDomainConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDomainConfigurationList.html)|
+|[aws iot list-fleet-metrics](https://docs.aws.amazon.com/cli/latest/reference/iot/list-fleet-metrics.html)||
 |[aws iot list-indices](https://docs.aws.amazon.com/cli/latest/reference/iot/list-indices.html)|[Get-IOTIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTIndexList.html)|
 |[aws iot list-job-executions-for-job](https://docs.aws.amazon.com/cli/latest/reference/iot/list-job-executions-for-job.html)|[Get-IOTJobExecutionsForJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobExecutionsForJobList.html)|
 |[aws iot list-job-executions-for-thing](https://docs.aws.amazon.com/cli/latest/reference/iot/list-job-executions-for-thing.html)|[Get-IOTJobExecutionsForThingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobExecutionsForThingList.html)|
@@ -227,6 +232,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot update-domain-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/update-domain-configuration.html)|[Update-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDomainConfiguration.html)|
 |[aws iot update-dynamic-thing-group](https://docs.aws.amazon.com/cli/latest/reference/iot/update-dynamic-thing-group.html)|[Update-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDynamicThingGroup.html)|
 |[aws iot update-event-configurations](https://docs.aws.amazon.com/cli/latest/reference/iot/update-event-configurations.html)|[Update-IOTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTEventConfiguration.html)|
+|[aws iot update-fleet-metric](https://docs.aws.amazon.com/cli/latest/reference/iot/update-fleet-metric.html)||
 |[aws iot update-indexing-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/update-indexing-configuration.html)|[Update-IOTIndexingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTIndexingConfiguration.html)|
 |[aws iot update-job](https://docs.aws.amazon.com/cli/latest/reference/iot/update-job.html)|[Update-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTJob.html)|
 |[aws iot update-mitigation-action](https://docs.aws.amazon.com/cli/latest/reference/iot/update-mitigation-action.html)|[Update-IOTMitigationAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTMitigationAction.html)|

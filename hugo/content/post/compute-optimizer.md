@@ -1,6 +1,6 @@
 ---
 title: compute-optimizer
-date: 2021-08-15
+date: 2021-09-03
 description: aws compute-optimizer (AWS Compute Optimizer) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws compute-optimizer (AWS Compute Optimizer) command/cmdlet list.
 |[aws compute-optimizer get-ec2-instance-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-instance-recommendations.html)|[Get-COEC2InstanceRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2InstanceRecommendation.html)|
 |[aws compute-optimizer get-ec2-recommendation-projected-metrics](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-ec2-recommendation-projected-metrics.html)|[Get-COEC2RecommendationProjectedMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEC2RecommendationProjectedMetric.html)|
 |[aws compute-optimizer get-enrollment-status](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-enrollment-status.html)|[Get-COEnrollmentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COEnrollmentStatus.html)|
+|[aws compute-optimizer get-enrollment-statuses-for-organization](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-enrollment-statuses-for-organization.html)||
 |[aws compute-optimizer get-lambda-function-recommendations](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-lambda-function-recommendations.html)|[Get-COLambdaFunctionRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COLambdaFunctionRecommendation.html)|
 |[aws compute-optimizer get-recommendation-summaries](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/get-recommendation-summaries.html)|[Get-CORecommendationSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CORecommendationSummary.html)|
 |[aws compute-optimizer update-enrollment-status](https://docs.aws.amazon.com/cli/latest/reference/compute-optimizer/update-enrollment-status.html)|[Update-COEnrollmentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-COEnrollmentStatus.html)|

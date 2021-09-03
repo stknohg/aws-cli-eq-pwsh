@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2021-08-15
+date: 2021-09-03
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr describe-studio](https://docs.aws.amazon.com/cli/latest/reference/emr/describe-studio.html)|[Get-EMRStudio](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudio.html)|
 |[aws emr disable-hbase-backups](https://docs.aws.amazon.com/cli/latest/reference/emr/disable-hbase-backups.html)||
 |[aws emr get](https://docs.aws.amazon.com/cli/latest/reference/emr/get.html)||
+|[aws emr get-auto-termination-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/get-auto-termination-policy.html)||
 |[aws emr get-block-public-access-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/get-block-public-access-configuration.html)|[Get-EMRBlockPublicAccessConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRBlockPublicAccessConfiguration.html)|
 |[aws emr get-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/get-managed-scaling-policy.html)|[Get-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRManagedScalingPolicy.html)|
 |[aws emr get-studio-session-mapping](https://docs.aws.amazon.com/cli/latest/reference/emr/get-studio-session-mapping.html)|[Get-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMapping.html)|
@@ -54,9 +55,11 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr modify-instance-groups](https://docs.aws.amazon.com/cli/latest/reference/emr/modify-instance-groups.html)|[Edit-EMRInstanceGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EMRInstanceGroup.html)|
 |[aws emr put](https://docs.aws.amazon.com/cli/latest/reference/emr/put.html)||
 |[aws emr put-auto-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/put-auto-scaling-policy.html)|[Write-EMRAutoScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMRAutoScalingPolicy.html)|
+|[aws emr put-auto-termination-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/put-auto-termination-policy.html)||
 |[aws emr put-block-public-access-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/put-block-public-access-configuration.html)|[Write-EMRBlockPublicAccessConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMRBlockPublicAccessConfiguration.html)|
 |[aws emr put-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/put-managed-scaling-policy.html)|[Write-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMRManagedScalingPolicy.html)|
 |[aws emr remove-auto-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-auto-scaling-policy.html)|[Remove-EMRAutoScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRAutoScalingPolicy.html)|
+|[aws emr remove-auto-termination-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-auto-termination-policy.html)||
 |[aws emr remove-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-managed-scaling-policy.html)|[Remove-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRManagedScalingPolicy.html)|
 |[aws emr remove-tags](https://docs.aws.amazon.com/cli/latest/reference/emr/remove-tags.html)|[Remove-EMRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRResourceTag.html)|
 |[aws emr restore-from-hbase-backup](https://docs.aws.amazon.com/cli/latest/reference/emr/restore-from-hbase-backup.html)||

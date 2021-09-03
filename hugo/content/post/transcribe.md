@@ -1,6 +1,6 @@
 ---
 title: transcribe
-date: 2021-08-15
+date: 2021-09-03
 description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 ---
 
@@ -39,12 +39,15 @@ description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 |[aws transcribe list-language-models](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-language-models.html)|[Get-TRSLanguageModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRSLanguageModelList.html)|
 |[aws transcribe list-medical-transcription-jobs](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-medical-transcription-jobs.html)|[Get-TRSMedicalTranscriptionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRSMedicalTranscriptionJobList.html)|
 |[aws transcribe list-medical-vocabularies](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-medical-vocabularies.html)|[Get-TRSMedicalVocabularyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRSMedicalVocabularyList.html)|
+|[aws transcribe list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-tags-for-resource.html)||
 |[aws transcribe list-transcription-jobs](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-transcription-jobs.html)|[Get-TRSTranscriptionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRSTranscriptionJobList.html)|
 |[aws transcribe list-vocabularies](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-vocabularies.html)|[Get-TRSVocabularyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRSVocabularyList.html)|
 |[aws transcribe list-vocabulary-filters](https://docs.aws.amazon.com/cli/latest/reference/transcribe/list-vocabulary-filters.html)|[Get-TRSVocabularyFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRSVocabularyFilterList.html)|
 |[aws transcribe start-call-analytics-job](https://docs.aws.amazon.com/cli/latest/reference/transcribe/start-call-analytics-job.html)||
 |[aws transcribe start-medical-transcription-job](https://docs.aws.amazon.com/cli/latest/reference/transcribe/start-medical-transcription-job.html)|[Start-TRSMedicalTranscriptionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TRSMedicalTranscriptionJob.html)|
 |[aws transcribe start-transcription-job](https://docs.aws.amazon.com/cli/latest/reference/transcribe/start-transcription-job.html)|[Start-TRSTranscriptionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TRSTranscriptionJob.html)|
+|[aws transcribe tag-resource](https://docs.aws.amazon.com/cli/latest/reference/transcribe/tag-resource.html)||
+|[aws transcribe untag-resource](https://docs.aws.amazon.com/cli/latest/reference/transcribe/untag-resource.html)||
 |[aws transcribe update-call-analytics-category](https://docs.aws.amazon.com/cli/latest/reference/transcribe/update-call-analytics-category.html)||
 |[aws transcribe update-medical-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/transcribe/update-medical-vocabulary.html)|[Update-TRSMedicalVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSMedicalVocabulary.html)|
 |[aws transcribe update-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/transcribe/update-vocabulary.html)|[Update-TRSVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSVocabulary.html)|

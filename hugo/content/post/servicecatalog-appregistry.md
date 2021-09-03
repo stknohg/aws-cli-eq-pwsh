@@ -1,6 +1,6 @@
 ---
 title: servicecatalog-appregistry
-date: 2021-08-15
+date: 2021-09-03
 description: aws servicecatalog-appregistry (AWS Service Catalog App Registry) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws servicecatalog-appregistry (AWS Service Catalog App Registry) c
 |[aws servicecatalog-appregistry disassociate-attribute-group](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/disassociate-attribute-group.html)|[Unregister-SCARAttributeGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SCARAttributeGroup.html)|
 |[aws servicecatalog-appregistry disassociate-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/disassociate-resource.html)|[Unregister-SCARResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SCARResource.html)|
 |[aws servicecatalog-appregistry get-application](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-application.html)|[Get-SCARApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARApplication.html)|
+|[aws servicecatalog-appregistry get-associated-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-associated-resource.html)||
 |[aws servicecatalog-appregistry get-attribute-group](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-attribute-group.html)|[Get-SCARAttributeGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAttributeGroup.html)|
 |[aws servicecatalog-appregistry list-applications](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-applications.html)|[Get-SCARApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARApplicationList.html)|
 |[aws servicecatalog-appregistry list-associated-attribute-groups](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-associated-attribute-groups.html)|[Get-SCARAssociatedAttributeGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAssociatedAttributeGroupList.html)|

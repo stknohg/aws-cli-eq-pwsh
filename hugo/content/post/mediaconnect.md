@@ -1,6 +1,6 @@
 ---
 title: mediaconnect
-date: 2021-08-15
+date: 2021-09-03
 description: aws mediaconnect (AWS Elemental MediaConnect) command/cmdlet list.
 ---
 

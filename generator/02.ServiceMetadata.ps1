@@ -282,6 +282,7 @@ $g_AWSServices = @{
     'mediastore'                      = [PSCustomObject]@{ Prefix = 'EMS'; Name = 'AWS Elemental MediaStore'; Url = 'https://aws.amazon.com/mediastore/'; Note = '' };
     'mediastore-data'                 = [PSCustomObject]@{ Prefix = 'EMSD'; Name = 'AWS Elemental MediaStore Data Plane'; Url = 'https://aws.amazon.com/mediastore/'; Note = '' };
     'mediatailor'                     = [PSCustomObject]@{ Prefix = 'EMT'; Name = 'AWS Elemental MediaTailor'; Url = 'https://aws.amazon.com/mediatailor/'; Note = '' };
+    'memorydb'                        = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon MemoryDB for Redis'; Url = 'https://aws.amazon.com/memorydb/'; Note = '' };
     'meteringmarketplace'             = [PSCustomObject]@{ Prefix = 'MM'; Name = 'AWS Marketplace Metering Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'mgh'                             = [PSCustomObject]@{ Prefix = 'MH'; Name = 'AWS Migration Hub'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mgn'                             = [PSCustomObject]@{ Prefix = 'MGN'; Name = 'AWS Application Migration Service'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
@@ -563,6 +564,7 @@ $g_CmdletReferenceLinks = @{
     'mediastore'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_cmdlets.html';
     'mediastore-data'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_Data_Plane_cmdlets.html';
     'mediatailor'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaTailor_cmdlets.html';
+    'memorydb'                        = '';
     'meteringmarketplace'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Metering_cmdlets.html';
     'mgh'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Migration_Hub_cmdlets.html';
     'mgn'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Mgn_cmdlets.html';

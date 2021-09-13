@@ -9,7 +9,7 @@ description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 ### [Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/nimble/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/NimbleStudio_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

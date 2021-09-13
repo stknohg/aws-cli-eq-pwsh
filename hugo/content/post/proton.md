@@ -9,7 +9,7 @@ description: aws proton (AWS Proton) command/cmdlet list.
 ### [AWS Proton](https://aws.amazon.com/proton/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/proton/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Proton_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

@@ -295,6 +295,7 @@ $g_AWSServices = @{
     'network-firewall'                = [PSCustomObject]@{ Prefix = 'NWFW'; Name = 'AWS Network Firewall'; Url = 'https://aws.amazon.com/network-firewall/'; Note = '' };
     'networkmanager'                  = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = '' }
     'nimble'                          = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Nimble Studio'; Url = 'https://aws.amazon.com/nimble-studio/'; Note = '' }
+    'opensearch'                      = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon OpenSearch Service'; Url = 'https://aws.amazon.com/opensearch-service/'; Note = 'successor to Amazon Elasticsearch Service' }
     'opsworks'                        = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                     = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                   = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
@@ -577,6 +578,7 @@ $g_CmdletReferenceLinks = @{
     'network-firewall'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html';
     'networkmanager'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html'
     'nimble'                          = '';
+    'opensearch'                      = '';
     'opsworks'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
     'organizations'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html';

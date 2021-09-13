@@ -294,7 +294,7 @@ $g_AWSServices = @{
     'neptune'                         = [PSCustomObject]@{ Prefix = 'NPT'; Name = 'Amazon Neptune'; Url = 'https://aws.amazon.com/neptune/'; Note = '' };
     'network-firewall'                = [PSCustomObject]@{ Prefix = 'NWFW'; Name = 'AWS Network Firewall'; Url = 'https://aws.amazon.com/network-firewall/'; Note = '' };
     'networkmanager'                  = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = '' }
-    'nimble'                          = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Nimble Studio'; Url = 'https://aws.amazon.com/nimble-studio/'; Note = '' }
+    'nimble'                          = [PSCustomObject]@{ Prefix = 'NS'; Name = 'Amazon Nimble Studio'; Url = 'https://aws.amazon.com/nimble-studio/'; Note = '' }
     'opensearch'                      = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon OpenSearch Service'; Url = 'https://aws.amazon.com/opensearch-service/'; Note = 'successor to Amazon Elasticsearch Service' }
     'opsworks'                        = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                     = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
@@ -309,7 +309,7 @@ $g_AWSServices = @{
     'pinpoint-sms-voice'              = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'polly'                           = [PSCustomObject]@{ Prefix = 'POL'; Name = 'Amazon Polly'; Url = 'https://aws.amazon.com/pinpoint/polly/'; Note = '' };
     'pricing'                         = [PSCustomObject]@{ Prefix = 'PLS'; Name = 'AWS Price List Service'; Url = 'https://aws.amazon.com/pricing/'; Note = '' };
-    'proton'                          = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Proton'; Url = 'https://aws.amazon.com/proton/'; Note = '' };
+    'proton'                          = [PSCustomObject]@{ Prefix = 'PRO'; Name = 'AWS Proton'; Url = 'https://aws.amazon.com/proton/'; Note = '' };
     'qldb'                            = [PSCustomObject]@{ Prefix = 'QLDB'; Name = 'Amazon Quantum Ledger Database (QLDB)'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'qldb-session'                    = [PSCustomObject]@{ Prefix = 'QLDBS'; Name = 'Amazon QLDB Session'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'quicksight'                      = [PSCustomObject]@{ Prefix = 'QS'; Name = 'Amazon QuickSight'; Url = 'https://aws.amazon.com/quicksight/'; Note = '' };
@@ -577,7 +577,7 @@ $g_CmdletReferenceLinks = @{
     'neptune'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Neptune_cmdlets.html';
     'network-firewall'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html';
     'networkmanager'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html'
-    'nimble'                          = '';
+    'nimble'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NimbleStudio_cmdlets.html';
     'opensearch'                      = '';
     'opsworks'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
@@ -592,7 +592,7 @@ $g_CmdletReferenceLinks = @{
     'pinpoint-sms-voice'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html';
     'polly'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Polly_cmdlets.html';
     'pricing'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html';
-    'proton'                          = '';
+    'proton'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Proton_cmdlets.html';
     'qldb'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDB_cmdlets.html';
     'qldb-session'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDBSession_cmdlets.html';
     'quicksight'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_QuickSight_cmdlets.html';

@@ -1,6 +1,6 @@
 ---
 title: ddb
-date: 2021-09-03
+date: 2021-09-13
 description: aws ddb (Amazon DynamoDB) command/cmdlet list.
 ---
 

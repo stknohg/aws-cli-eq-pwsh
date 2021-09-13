@@ -1,6 +1,6 @@
 ---
 title: synthetics
-date: 2021-09-03
+date: 2021-09-13
 description: aws synthetics (Amazon CloudWatch Synthetics) command/cmdlet list.
 ---
 

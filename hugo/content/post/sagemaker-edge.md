@@ -1,6 +1,6 @@
 ---
 title: sagemaker-edge
-date: 2021-09-03
+date: 2021-09-13
 description: aws sagemaker-edge (Amazon SageMaker Edge Manager) command/cmdlet list.
 ---
 

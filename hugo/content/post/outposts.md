@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2021-09-03
+date: 2021-09-13
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws outposts create-order](https://docs.aws.amazon.com/cli/latest/reference/outposts/create-order.html)||
 |[aws outposts create-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/create-outpost.html)|[New-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPOutpost.html)|
 |[aws outposts delete-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/delete-outpost.html)|[Remove-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPOutpost.html)|
 |[aws outposts delete-site](https://docs.aws.amazon.com/cli/latest/reference/outposts/delete-site.html)|[Remove-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPSite.html)|

@@ -1,6 +1,6 @@
 ---
 title: opsworks
-date: 2021-09-03
+date: 2021-09-13
 description: aws opsworks (AWS OpsWorks) command/cmdlet list.
 ---
 

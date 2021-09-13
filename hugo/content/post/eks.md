@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2021-09-03
+date: 2021-09-13
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/delete-cluster.html)|[Remove-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSCluster.html)|
 |[aws eks delete-fargate-profile](https://docs.aws.amazon.com/cli/latest/reference/eks/delete-fargate-profile.html)|[Remove-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSFargateProfile.html)|
 |[aws eks delete-nodegroup](https://docs.aws.amazon.com/cli/latest/reference/eks/delete-nodegroup.html)|[Remove-EKSNodegroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSNodegroup.html)|
+|[aws eks deregister-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/deregister-cluster.html)||
 |[aws eks describe-addon](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-addon.html)|[Get-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddon.html)|
 |[aws eks describe-addon-versions](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-addon-versions.html)|[Get-EKSAddonVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonVersion.html)|
 |[aws eks describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-cluster.html)|[Get-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCluster.html)|
@@ -39,6 +40,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks list-nodegroups](https://docs.aws.amazon.com/cli/latest/reference/eks/list-nodegroups.html)|[Get-EKSNodegroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSNodegroupList.html)|
 |[aws eks list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/eks/list-tags-for-resource.html)|[Get-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSResourceTag.html)|
 |[aws eks list-updates](https://docs.aws.amazon.com/cli/latest/reference/eks/list-updates.html)|[Get-EKSUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdateList.html)|
+|[aws eks register-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/register-cluster.html)||
 |[aws eks tag-resource](https://docs.aws.amazon.com/cli/latest/reference/eks/tag-resource.html)|[Add-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSResourceTag.html)|
 |[aws eks untag-resource](https://docs.aws.amazon.com/cli/latest/reference/eks/untag-resource.html)|[Remove-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSResourceTag.html)|
 |[aws eks update-addon](https://docs.aws.amazon.com/cli/latest/reference/eks/update-addon.html)|[Update-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSAddon.html)|

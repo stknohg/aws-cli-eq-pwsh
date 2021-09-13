@@ -1,6 +1,6 @@
 ---
 title: iot1click-devices
-date: 2021-09-03
+date: 2021-09-13
 description: aws iot1click-devices (AWS IoT 1-Click Devices) command/cmdlet list.
 ---
 

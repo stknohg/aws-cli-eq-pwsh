@@ -6,7 +6,7 @@ description: aws cloudcontrol (AWS Cloud Control API) command/cmdlet list.
 
 ## cloudcontrol
 
-### AWS Cloud Control API
+### [AWS Cloud Control API](https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudcontrol/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CloudControlApi_cmdlets.html)

@@ -137,7 +137,7 @@ $g_AWSServices = @{
     'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime'                           = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                          = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
-    'cloudcontrol'                    = [PSCustomObject]@{ Prefix = 'CCA '; Name = 'AWS Cloud Control API'; Url = ''; Note = 'https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/' };
+    'cloudcontrol'                    = [PSCustomObject]@{ Prefix = 'CCA'; Name = 'AWS Cloud Control API'; Url = 'https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/'; Note = '' };
     'clouddirectory'                  = [PSCustomObject]@{ Prefix = 'CDIR'; Name = 'Amazon Cloud Directory'; Url = 'https://aws.amazon.com/cloud-directory/'; Note = '' };
     'cloudformation'                  = [PSCustomObject]@{ Prefix = 'CFN'; Name = 'AWS Cloud​Formation'; Url = 'https://aws.amazon.com/cloudformation/'; Note = '' };
     'cloudfront'                      = [PSCustomObject]@{ Prefix = 'CF'; Name = 'Amazon CloudFront'; Url = 'https://aws.amazon.com/cloudfront/'; Note = '' };

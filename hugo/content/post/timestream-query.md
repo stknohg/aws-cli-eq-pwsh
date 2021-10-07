@@ -1,6 +1,6 @@
 ---
 title: timestream-query
-date: 2021-09-13
+date: 2021-10-07
 description: aws timestream-query (Amazon Timestream) command/cmdlet list.
 ---
 

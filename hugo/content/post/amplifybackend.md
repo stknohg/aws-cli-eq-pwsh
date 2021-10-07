@@ -1,6 +1,6 @@
 ---
 title: amplifybackend
-date: 2021-09-13
+date: 2021-10-07
 description: aws amplifybackend (AWS Amplify Backend) command/cmdlet list.
 ---
 
@@ -30,7 +30,7 @@ description: aws amplifybackend (AWS Amplify Backend) command/cmdlet list.
 |[aws amplifybackend get-backend-auth](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/get-backend-auth.html)|[Get-AMPBBackendAuth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBBackendAuth.html)|
 |[aws amplifybackend get-backend-job](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/get-backend-job.html)|[Get-AMPBBackendJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBBackendJob.html)|
 |[aws amplifybackend get-token](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/get-token.html)|[Get-AMPBToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBToken.html)|
-|[aws amplifybackend import-backend-auth](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/import-backend-auth.html)||
+|[aws amplifybackend import-backend-auth](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/import-backend-auth.html)|[Import-AMPBBackendAuth](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AMPBBackendAuth.html)|
 |[aws amplifybackend list-backend-jobs](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/list-backend-jobs.html)|[Get-AMPBBackendJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPBBackendJobList.html)|
 |[aws amplifybackend remove-all-backends](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/remove-all-backends.html)|[Remove-AMPBAllBackend](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPBAllBackend.html)|
 |[aws amplifybackend remove-backend-config](https://docs.aws.amazon.com/cli/latest/reference/amplifybackend/remove-backend-config.html)|[Remove-AMPBBackendConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPBBackendConfig.html)|

@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2021-09-13
+date: 2021-10-07
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces create-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-connection-alias.html)|[New-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSConnectionAlias.html)|
 |[aws workspaces create-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-ip-group.html)|[New-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSIpGroup.html)|
 |[aws workspaces create-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-tags.html)|[New-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSTag.html)|
+|[aws workspaces create-updated-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-updated-workspace-image.html)|[New-WKSUpdatedWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSUpdatedWorkspaceImage.html)|
 |[aws workspaces create-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspace-bundle.html)|[New-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceBundle.html)|
 |[aws workspaces create-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspaces.html)|[New-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspace.html)|
 |[aws workspaces delete-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-connection-alias.html)|[Remove-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectionAlias.html)|

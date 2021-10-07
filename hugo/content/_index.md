@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-09-13
+date: 2021-10-07
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.2.37 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.14.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.2.44 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.15.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -21,6 +21,7 @@ This site is created by automatic generation. For that reason, some content may 
 |Service|CLI command|PowerShell prefix|Notes|
 |----|----|:--:|----|
 |[AWS IAM Access Analyzer](https://aws.amazon.com/iam/)|[accessanalyzer]({{%relref "post/accessanalyzer.md" %}})|IAMAA||
+|[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Certificate Manager Private Certificate Authority](https://aws.amazon.com/certificate-manager/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA||
 |[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB||
@@ -53,6 +54,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})||Amazon Chime SDK Identity API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})||Amazon Chime SDK Messaging API|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
+|AWS Cloud Control API|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA |https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/|
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
 |[AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
 |[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CF||
@@ -162,6 +164,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT Wireless](https://aws.amazon.com/iot/)|[iotwireless]({{%relref "post/iotwireless.md" %}})|IOTW||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivs]({{%relref "post/ivs.md" %}})|IVS||
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
+|[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC ||
 |[Amazon Kendra](https://aws.amazon.com/kendra//)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||
@@ -199,7 +202,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elemental MediaStore](https://aws.amazon.com/mediastore/)|[mediastore]({{%relref "post/mediastore.md" %}})|EMS||
 |[AWS Elemental MediaStore Data Plane](https://aws.amazon.com/mediastore/)|[mediastore-data]({{%relref "post/mediastore-data.md" %}})|EMSD||
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||
-|[Amazon MemoryDB for Redis](https://aws.amazon.com/memorydb/)|[memorydb]({{%relref "post/memorydb.md" %}})|||
+|[Amazon MemoryDB for Redis](https://aws.amazon.com/memorydb/)|[memorydb]({{%relref "post/memorydb.md" %}})|MDB||
 |[AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)|[meteringmarketplace]({{%relref "post/meteringmarketplace.md" %}})|MM||
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||
 |[AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)|[mgn]({{%relref "post/mgn.md" %}})|MGN||
@@ -212,7 +215,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|NS||
-|[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})||successor to Amazon Elasticsearch Service|
+|[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|successor to Amazon Elasticsearch Service|
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
@@ -240,9 +243,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
 |[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||
 |[Amazon Route 53](https://aws.amazon.com/route53/)|[route53]({{%relref "post/route53.md" %}})|R53||
-|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})||Recovery Control Data Plane|
-|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})||Recovery Control Configuration|
-|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})||Recovery Readiness|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})|RRC|Recovery Control Data Plane|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})|R53RC|Recovery Control Configuration|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})|PD|Recovery Readiness|
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})|S3|* Currntly, failed to create the list...|
@@ -269,7 +272,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
 |[AWS Sever Migration Service](https://aws.amazon.com/server-migration-service/)|[sms]({{%relref "post/sms.md" %}})|SMS||
-|[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|||
+|[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||
 |[Amazon Simple Queue Service](https://aws.amazon.com/sqs/)|[sqs]({{%relref "post/sqs.md" %}})|SQS||
@@ -291,10 +294,12 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
+|[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||
 |[AWS WAF](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||
 |[AWS WAF Regional ](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||
 |[AWS WAF V2](https://aws.amazon.com/waf/)|[wafv2]({{%relref "post/wafv2.md" %}})|WAF2||
 |[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)|[wellarchitected]({{%relref "post/wellarchitected.md" %}})|WAT||
+|[Amazon Connect Wisdom](https://aws.amazon.com/connect/wisdom/)|[wisdom]({{%relref "post/wisdom.md" %}})|WSDM||
 |[Amazon WorkDocs](https://aws.amazon.com/workdocs/)|[workdocs]({{%relref "post/workdocs.md" %}})|WD||
 |[Amazon WorkLink](https://aws.amazon.com/worklink/)|[worklink]({{%relref "post/worklink.md" %}})|WL||
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||

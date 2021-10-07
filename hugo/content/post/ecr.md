@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2021-09-13
+date: 2021-10-07
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr delete-registry-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/delete-registry-policy.html)|[Remove-ECRRegistryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRegistryPolicy.html)|
 |[aws ecr delete-repository](https://docs.aws.amazon.com/cli/latest/reference/ecr/delete-repository.html)|[Remove-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepository.html)|
 |[aws ecr delete-repository-policy](https://docs.aws.amazon.com/cli/latest/reference/ecr/delete-repository-policy.html)|[Remove-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepositoryPolicy.html)|
+|[aws ecr describe-image-replication-status](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-image-replication-status.html)|[Get-ECRImageReplicationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageReplicationStatus.html)|
 |[aws ecr describe-image-scan-findings](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-image-scan-findings.html)|[Get-ECRImageScanFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageScanFinding.html)|
 |[aws ecr describe-images](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-images.html)|[Get-ECRImageMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageMetadata.html)|
 |[aws ecr describe-registry](https://docs.aws.amazon.com/cli/latest/reference/ecr/describe-registry.html)|[Get-ECRRegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistry.html)|

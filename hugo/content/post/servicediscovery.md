@@ -1,6 +1,6 @@
 ---
 title: servicediscovery
-date: 2021-09-13
+date: 2021-10-07
 description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet list.
 ---
 
@@ -34,9 +34,9 @@ description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet l
 |[aws servicediscovery register-instance](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/register-instance.html)|[New-SDInstanceRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SDInstanceRegistration.html)|
 |[aws servicediscovery tag-resource](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/tag-resource.html)|[Add-SDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SDResourceTag.html)|
 |[aws servicediscovery untag-resource](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/untag-resource.html)|[Remove-SDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDResourceTag.html)|
-|[aws servicediscovery update-http-namespace](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-http-namespace.html)||
+|[aws servicediscovery update-http-namespace](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-http-namespace.html)|[Update-SDHttpNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDHttpNamespace.html)|
 |[aws servicediscovery update-instance-custom-health-status](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-instance-custom-health-status.html)|[Update-SDInstanceCustomHealthStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDInstanceCustomHealthStatus.html)|
-|[aws servicediscovery update-private-dns-namespace](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-private-dns-namespace.html)||
-|[aws servicediscovery update-public-dns-namespace](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-public-dns-namespace.html)||
+|[aws servicediscovery update-private-dns-namespace](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-private-dns-namespace.html)|[Update-SDPrivateDnsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDPrivateDnsNamespace.html)|
+|[aws servicediscovery update-public-dns-namespace](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-public-dns-namespace.html)|[Update-SDPublicDnsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDPublicDnsNamespace.html)|
 |[aws servicediscovery update-service](https://docs.aws.amazon.com/cli/latest/reference/servicediscovery/update-service.html)|[Update-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDService.html)|
 

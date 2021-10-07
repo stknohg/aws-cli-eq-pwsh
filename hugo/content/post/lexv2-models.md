@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2021-09-13
+date: 2021-10-07
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models delete-resource-policy-statement](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-resource-policy-statement.html)|[Remove-LMBV2ResourcePolicyStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2ResourcePolicyStatement.html)|
 |[aws lexv2-models delete-slot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-slot.html)|[Remove-LMBV2Slot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Slot.html)|
 |[aws lexv2-models delete-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-slot-type.html)|[Remove-LMBV2SlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2SlotType.html)|
+|[aws lexv2-models delete-utterances](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-utterances.html)|[Remove-LMBV2Utterance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Utterance.html)|
 |[aws lexv2-models describe-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot.html)|[Get-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Bot.html)|
 |[aws lexv2-models describe-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-alias.html)|[Get-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotAlias.html)|
 |[aws lexv2-models describe-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-locale.html)|[Get-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotLocale.html)|
@@ -46,6 +47,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models describe-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-resource-policy.html)|[Get-LMBV2ResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ResourcePolicy.html)|
 |[aws lexv2-models describe-slot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-slot.html)|[Get-LMBV2Slot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Slot.html)|
 |[aws lexv2-models describe-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-slot-type.html)|[Get-LMBV2SlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotType.html)|
+|[aws lexv2-models list-aggregated-utterances](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-aggregated-utterances.html)|[Get-LMBV2AggregatedUtteranceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2AggregatedUtteranceList.html)|
 |[aws lexv2-models list-bot-aliases](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-aliases.html)|[Get-LMBV2BotAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotAliasList.html)|
 |[aws lexv2-models list-bot-locales](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-locales.html)|[Get-LMBV2BotLocaleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotLocaleList.html)|
 |[aws lexv2-models list-bot-versions](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-versions.html)|[Get-LMBV2BotVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotVersionList.html)|

@@ -1,6 +1,6 @@
 ---
 title: mediatailor
-date: 2021-09-13
+date: 2021-10-07
 description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws mediatailor configure-logs-for-playback-configuration](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/configure-logs-for-playback-configuration.html)|[Add-EMTLogsForPlaybackConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMTLogsForPlaybackConfiguration.html)|
 |[aws mediatailor create-channel](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/create-channel.html)|[New-EMTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMTChannel.html)|
 |[aws mediatailor create-program](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/create-program.html)|[New-EMTProgram](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMTProgram.html)|
 |[aws mediatailor create-source-location](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/create-source-location.html)|[New-EMTSourceLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMTSourceLocation.html)|
@@ -30,7 +31,7 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 |[aws mediatailor get-channel-policy](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/get-channel-policy.html)|[Get-EMTChannelPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTChannelPolicy.html)|
 |[aws mediatailor get-channel-schedule](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/get-channel-schedule.html)|[Get-EMTChannelSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTChannelSchedule.html)|
 |[aws mediatailor get-playback-configuration](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/get-playback-configuration.html)|[Get-EMTPlaybackConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTPlaybackConfiguration.html)|
-|[aws mediatailor list-alerts](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/list-alerts.html)||
+|[aws mediatailor list-alerts](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/list-alerts.html)|[Get-EMTAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTAlertList.html)|
 |[aws mediatailor list-channels](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/list-channels.html)|[Get-EMTChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTChannelList.html)|
 |[aws mediatailor list-playback-configurations](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/list-playback-configurations.html)|[Get-EMTPlaybackConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTPlaybackConfigurationList.html)|
 |[aws mediatailor list-source-locations](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/list-source-locations.html)|[Get-EMTSourceLocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTSourceLocationList.html)|

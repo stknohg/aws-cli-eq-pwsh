@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2021-09-13
+date: 2021-10-07
 description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 ---
 
@@ -52,7 +52,7 @@ description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 |[aws cloudformation get-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-stack-policy.html)|[Get-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackPolicy.html)|
 |[aws cloudformation get-template](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-template.html)|[Get-CFNTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTemplate.html)|
 |[aws cloudformation get-template-summary](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/get-template-summary.html)|[Get-CFNTemplateSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTemplateSummary.html)|
-|[aws cloudformation import-stacks-to-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/import-stacks-to-stack-set.html)||
+|[aws cloudformation import-stacks-to-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/import-stacks-to-stack-set.html)|[Import-CFNStacksToStackSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-CFNStacksToStackSet.html)|
 |[aws cloudformation list-change-sets](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-change-sets.html)|[Get-CFNChangeSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetList.html)|
 |[aws cloudformation list-exports](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-exports.html)|[Get-CFNExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNExport.html)|
 |[aws cloudformation list-imports](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/list-imports.html)|[Get-CFNImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNImportList.html)|
@@ -70,7 +70,7 @@ description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 |[aws cloudformation record-handler-progress](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/record-handler-progress.html)|[Write-CFNHandlerProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFNHandlerProgress.html)|
 |[aws cloudformation register-publisher](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/register-publisher.html)|[Register-CFNPublisher](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNPublisher.html)|
 |[aws cloudformation register-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/register-type.html)|[Register-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNType.html)|
-|[aws cloudformation rollback-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/rollback-stack.html)||
+|[aws cloudformation rollback-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/rollback-stack.html)|[Undo-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-CFNStack.html)|
 |[aws cloudformation set-stack-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-stack-policy.html)|[Set-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNStackPolicy.html)|
 |[aws cloudformation set-type-configuration](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-type-configuration.html)|[Set-CFNTypeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeConfiguration.html)|
 |[aws cloudformation set-type-default-version](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/set-type-default-version.html)|[Set-CFNTypeDefaultVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeDefaultVersion.html)|

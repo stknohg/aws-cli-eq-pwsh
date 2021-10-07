@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2021-09-13
+date: 2021-10-07
 description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint create-email-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-email-template.html)|[New-PINEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINEmailTemplate.html)|
 |[aws pinpoint create-export-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-export-job.html)|[New-PINExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINExportJob.html)|
 |[aws pinpoint create-import-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-import-job.html)|[New-PINImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINImportJob.html)|
+|[aws pinpoint create-in-app-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-in-app-template.html)|[New-PINInAppTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINInAppTemplate.html)|
 |[aws pinpoint create-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-journey.html)|[New-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINJourney.html)|
 |[aws pinpoint create-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-push-template.html)|[New-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINPushTemplate.html)|
 |[aws pinpoint create-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/create-recommender-configuration.html)|[New-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PINRecommenderConfiguration.html)|
@@ -37,6 +38,7 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint delete-endpoint](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-endpoint.html)|[Remove-PINEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEndpoint.html)|
 |[aws pinpoint delete-event-stream](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-event-stream.html)|[Remove-PINEventStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINEventStream.html)|
 |[aws pinpoint delete-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-gcm-channel.html)|[Remove-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINGcmChannel.html)|
+|[aws pinpoint delete-in-app-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-in-app-template.html)|[Remove-PINInAppTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINInAppTemplate.html)|
 |[aws pinpoint delete-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-journey.html)|[Remove-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINJourney.html)|
 |[aws pinpoint delete-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-push-template.html)|[Remove-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINPushTemplate.html)|
 |[aws pinpoint delete-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/delete-recommender-configuration.html)|[Remove-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINRecommenderConfiguration.html)|
@@ -72,6 +74,8 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint get-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-gcm-channel.html)|[Get-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINGcmChannel.html)|
 |[aws pinpoint get-import-job](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-import-job.html)|[Get-PINImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINImportJob.html)|
 |[aws pinpoint get-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-import-jobs.html)|[Get-PINImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINImportJobList.html)|
+|[aws pinpoint get-in-app-messages](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-in-app-messages.html)|[Get-PINInAppMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINInAppMessage.html)|
+|[aws pinpoint get-in-app-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-in-app-template.html)|[Get-PINInAppTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINInAppTemplate.html)|
 |[aws pinpoint get-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey.html)|[Get-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourney.html)|
 |[aws pinpoint get-journey-date-range-kpi](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-date-range-kpi.html)|[Get-PINJourneyDateRangeKpi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyDateRangeKpi.html)|
 |[aws pinpoint get-journey-execution-activity-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-activity-metrics.html)|[Get-PINJourneyExecutionActivityMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionActivityMetric.html)|
@@ -115,6 +119,7 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint update-endpoint](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-endpoint.html)|[Update-PINEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEndpoint.html)|
 |[aws pinpoint update-endpoints-batch](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-endpoints-batch.html)|[Update-PINEndpointsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINEndpointsBatch.html)|
 |[aws pinpoint update-gcm-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-gcm-channel.html)|[Update-PINGcmChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINGcmChannel.html)|
+|[aws pinpoint update-in-app-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-in-app-template.html)|[Update-PINInAppTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINInAppTemplate.html)|
 |[aws pinpoint update-journey](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-journey.html)|[Update-PINJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINJourney.html)|
 |[aws pinpoint update-journey-state](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-journey-state.html)|[Update-PINJourneyState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINJourneyState.html)|
 |[aws pinpoint update-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-push-template.html)|[Update-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINPushTemplate.html)|

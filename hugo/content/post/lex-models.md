@@ -1,6 +1,6 @@
 ---
 title: lex-models
-date: 2021-09-13
+date: 2021-10-07
 description: aws lex-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -40,8 +40,8 @@ description: aws lex-models (Amazon Lex) command/cmdlet list.
 |[aws lex-models get-intent](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-intent.html)|[Get-LMBIntent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBIntent.html)|
 |[aws lex-models get-intent-versions](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-intent-versions.html)|[Get-LMBIntentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBIntentVersion.html)|
 |[aws lex-models get-intents](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-intents.html)|[Get-LMBIntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBIntentList.html)|
-|[aws lex-models get-migration](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-migration.html)||
-|[aws lex-models get-migrations](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-migrations.html)||
+|[aws lex-models get-migration](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-migration.html)|[Get-LMBMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBMigration.html)|
+|[aws lex-models get-migrations](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-migrations.html)|[Get-LMBMigrationSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBMigrationSummaryList.html)|
 |[aws lex-models get-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-slot-type.html)|[Get-LMBSlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBSlotType.html)|
 |[aws lex-models get-slot-type-versions](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-slot-type-versions.html)|[Get-LMBSlotTypeVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBSlotTypeVersionList.html)|
 |[aws lex-models get-slot-types](https://docs.aws.amazon.com/cli/latest/reference/lex-models/get-slot-types.html)|[Get-LMBSlotTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBSlotTypeList.html)|
@@ -52,7 +52,7 @@ description: aws lex-models (Amazon Lex) command/cmdlet list.
 |[aws lex-models put-intent](https://docs.aws.amazon.com/cli/latest/reference/lex-models/put-intent.html)|[Write-LMBIntent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMBIntent.html)|
 |[aws lex-models put-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lex-models/put-slot-type.html)|[Write-LMBSlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMBSlotType.html)|
 |[aws lex-models start-import](https://docs.aws.amazon.com/cli/latest/reference/lex-models/start-import.html)|[Start-LMBImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBImport.html)|
-|[aws lex-models start-migration](https://docs.aws.amazon.com/cli/latest/reference/lex-models/start-migration.html)||
+|[aws lex-models start-migration](https://docs.aws.amazon.com/cli/latest/reference/lex-models/start-migration.html)|[Start-LMBMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBMigration.html)|
 |[aws lex-models tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lex-models/tag-resource.html)|[Add-LMBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMBResourceTag.html)|
 |[aws lex-models untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lex-models/untag-resource.html)|[Remove-LMBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBResourceTag.html)|
 

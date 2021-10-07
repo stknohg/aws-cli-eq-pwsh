@@ -1,6 +1,6 @@
 ---
 title: pricing
-date: 2021-09-13
+date: 2021-10-07
 description: aws pricing (AWS Price List Service) command/cmdlet list.
 ---
 

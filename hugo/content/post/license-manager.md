@@ -1,6 +1,6 @@
 ---
 title: license-manager
-date: 2021-09-13
+date: 2021-10-07
 description: aws license-manager (AWS License Manager) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws license-manager (AWS License Manager) command/cmdlet list.
 |[aws license-manager create-grant-version](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-grant-version.html)|[New-LICMGrantVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMGrantVersion.html)|
 |[aws license-manager create-license](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-license.html)|[New-LICMLicense](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMLicense.html)|
 |[aws license-manager create-license-configuration](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-license-configuration.html)|[New-LICMLicenseConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMLicenseConfiguration.html)|
+|[aws license-manager create-license-conversion-task-for-resource](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-license-conversion-task-for-resource.html)|[New-LICMLicenseConversionTaskForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMLicenseConversionTaskForResource.html)|
 |[aws license-manager create-license-manager-report-generator](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-license-manager-report-generator.html)|[New-LICMLicenseManagerReportGenerator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMLicenseManagerReportGenerator.html)|
 |[aws license-manager create-license-version](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-license-version.html)|[New-LICMLicenseVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMLicenseVersion.html)|
 |[aws license-manager create-token](https://docs.aws.amazon.com/cli/latest/reference/license-manager/create-token.html)|[New-LICMToken](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LICMToken.html)|
@@ -34,6 +35,7 @@ description: aws license-manager (AWS License Manager) command/cmdlet list.
 |[aws license-manager get-grant](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-grant.html)|[Get-LICMGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMGrant.html)|
 |[aws license-manager get-license](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-license.html)|[Get-LICMLicense](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicense.html)|
 |[aws license-manager get-license-configuration](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-license-configuration.html)|[Get-LICMLicenseConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseConfiguration.html)|
+|[aws license-manager get-license-conversion-task](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-license-conversion-task.html)|[Get-LICMLicenseConversionTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseConversionTask.html)|
 |[aws license-manager get-license-manager-report-generator](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-license-manager-report-generator.html)|[Get-LICMLicenseManagerReportGenerator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseManagerReportGenerator.html)|
 |[aws license-manager get-license-usage](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-license-usage.html)|[Get-LICMLicenseUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseUsage.html)|
 |[aws license-manager get-service-settings](https://docs.aws.amazon.com/cli/latest/reference/license-manager/get-service-settings.html)|[Get-LICMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMServiceSetting.html)|
@@ -41,6 +43,7 @@ description: aws license-manager (AWS License Manager) command/cmdlet list.
 |[aws license-manager list-distributed-grants](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-distributed-grants.html)|[Get-LICMDistributedGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMDistributedGrantList.html)|
 |[aws license-manager list-failures-for-license-configuration-operations](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-failures-for-license-configuration-operations.html)|[Get-LICMFailuresForLicenseConfigurationOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMFailuresForLicenseConfigurationOperationList.html)|
 |[aws license-manager list-license-configurations](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-configurations.html)|[Get-LICMLicenseConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseConfigurationList.html)|
+|[aws license-manager list-license-conversion-tasks](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-conversion-tasks.html)|[Get-LICMLicenseConversionTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseConversionTaskList.html)|
 |[aws license-manager list-license-manager-report-generators](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-manager-report-generators.html)|[Get-LICMLicenseManagerReportGeneratorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseManagerReportGeneratorList.html)|
 |[aws license-manager list-license-specifications-for-resource](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-specifications-for-resource.html)|[Get-LICMLicenseSpecificationsForResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseSpecificationsForResourceList.html)|
 |[aws license-manager list-license-versions](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-versions.html)|[Get-LICMLicenseVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseVersionList.html)|

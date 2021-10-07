@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2021-09-13
+date: 2021-10-07
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 
@@ -35,7 +35,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds deregister-certificate](https://docs.aws.amazon.com/cli/latest/reference/ds/deregister-certificate.html)|[Unregister-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSCertificate.html)|
 |[aws ds deregister-event-topic](https://docs.aws.amazon.com/cli/latest/reference/ds/deregister-event-topic.html)|[Unregister-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSEventTopic.html)|
 |[aws ds describe-certificate](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-certificate.html)|[Get-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCertificate.html)|
-|[aws ds describe-client-authentication-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-client-authentication-settings.html)||
+|[aws ds describe-client-authentication-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-client-authentication-settings.html)|[Get-DSClientAuthenticationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSClientAuthenticationSetting.html)|
 |[aws ds describe-conditional-forwarders](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-conditional-forwarders.html)|[Get-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSConditionalForwarder.html)|
 |[aws ds describe-directories](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-directories.html)|[Get-DSDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectory.html)|
 |[aws ds describe-domain-controllers](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-domain-controllers.html)|[Get-DSDomainControllerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDomainControllerList.html)|

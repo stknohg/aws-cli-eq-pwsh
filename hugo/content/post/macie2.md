@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2021-09-13
+date: 2021-10-07
 description: aws macie2 (Amazon Macie) command/cmdlet list.
 ---
 
@@ -55,6 +55,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 list-findings](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-findings.html)|[Get-MAC2FindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2FindingList.html)|
 |[aws macie2 list-findings-filters](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-findings-filters.html)|[Get-MAC2FindingsFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2FindingsFilterList.html)|
 |[aws macie2 list-invitations](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-invitations.html)|[Get-MAC2InvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2InvitationList.html)|
+|[aws macie2 list-managed-data-identifiers](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-managed-data-identifiers.html)|[Get-MAC2ManagedDataIdentifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ManagedDataIdentifierList.html)|
 |[aws macie2 list-members](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-members.html)|[Get-MAC2MemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2MemberList.html)|
 |[aws macie2 list-organization-admin-accounts](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-organization-admin-accounts.html)|[Get-MAC2OrganizationAdminAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2OrganizationAdminAccountList.html)|
 |[aws macie2 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-tags-for-resource.html)|[Get-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ResourceTag.html)|

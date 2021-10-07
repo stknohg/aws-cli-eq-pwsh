@@ -1,6 +1,6 @@
 ---
 title: codebuild
-date: 2021-09-13
+date: 2021-10-07
 description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 ---
 
@@ -55,7 +55,7 @@ description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 |[aws codebuild stop-build](https://docs.aws.amazon.com/cli/latest/reference/codebuild/stop-build.html)|[Stop-CBBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CBBuild.html)|
 |[aws codebuild stop-build-batch](https://docs.aws.amazon.com/cli/latest/reference/codebuild/stop-build-batch.html)|[Stop-CBBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CBBatch.html)|
 |[aws codebuild update-project](https://docs.aws.amazon.com/cli/latest/reference/codebuild/update-project.html)|[Update-CBProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBProject.html)|
-|[aws codebuild update-project-visibility](https://docs.aws.amazon.com/cli/latest/reference/codebuild/update-project-visibility.html)||
+|[aws codebuild update-project-visibility](https://docs.aws.amazon.com/cli/latest/reference/codebuild/update-project-visibility.html)|[Update-CBProjectVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBProjectVisibility.html)|
 |[aws codebuild update-report-group](https://docs.aws.amazon.com/cli/latest/reference/codebuild/update-report-group.html)|[Update-CBReportGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBReportGroup.html)|
 |[aws codebuild update-webhook](https://docs.aws.amazon.com/cli/latest/reference/codebuild/update-webhook.html)|[Update-CBWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBWebhook.html)|
 

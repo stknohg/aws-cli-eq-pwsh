@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2021-09-13
+date: 2021-10-07
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -71,8 +71,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-alias.html)|[Get-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeAlias.html)|
 |[aws quicksight describe-theme-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-permissions.html)|[Get-QSThemePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemePermission.html)|
 |[aws quicksight describe-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-user.html)|[Get-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUser.html)|
-|[aws quicksight generate-embed-url-for-anonymous-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/generate-embed-url-for-anonymous-user.html)||
-|[aws quicksight generate-embed-url-for-registered-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/generate-embed-url-for-registered-user.html)||
+|[aws quicksight generate-embed-url-for-anonymous-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/generate-embed-url-for-anonymous-user.html)|[New-QSEmbedUrlForAnonymousUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSEmbedUrlForAnonymousUser.html)|
+|[aws quicksight generate-embed-url-for-registered-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/generate-embed-url-for-registered-user.html)|[New-QSEmbedUrlForRegisteredUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSEmbedUrlForRegisteredUser.html)|
 |[aws quicksight get-dashboard-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-dashboard-embed-url.html)|[Get-QSDashboardEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardEmbedUrl.html)|
 |[aws quicksight get-session-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-session-embed-url.html)|[Get-QSSessionEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSSessionEmbedUrl.html)|
 |[aws quicksight list-analyses](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-analyses.html)|[Get-QSAnalysisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisList.html)|

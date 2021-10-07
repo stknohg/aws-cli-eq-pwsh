@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2021-09-13
+date: 2021-10-07
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -43,5 +43,5 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka update-cluster-kafka-version](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-kafka-version.html)|[Update-MSKClusterKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterKafkaVersion.html)|
 |[aws kafka update-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-configuration.html)|[Update-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConfiguration.html)|
 |[aws kafka update-monitoring](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-monitoring.html)|[Update-MSKMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKMonitoring.html)|
-|[aws kafka update-security](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-security.html)||
+|[aws kafka update-security](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-security.html)|[Update-MSKSecurity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKSecurity.html)|
 

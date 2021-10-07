@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2021-09-13
+date: 2021-10-07
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -18,7 +18,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue batch-delete-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-delete-partition.html)|[Remove-GLUEPartitionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEPartitionBatch.html)|
 |[aws glue batch-delete-table](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-delete-table.html)|[Remove-GLUETableBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableBatch.html)|
 |[aws glue batch-delete-table-version](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-delete-table-version.html)|[Remove-GLUETableVersionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableVersionBatch.html)|
-|[aws glue batch-get-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-blueprints.html)||
+|[aws glue batch-get-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-blueprints.html)|[Get-GLUEBlueprintBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintBatch.html)|
 |[aws glue batch-get-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-crawlers.html)|[Get-GLUECrawlerBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerBatch.html)|
 |[aws glue batch-get-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-dev-endpoints.html)|[Get-GLUEDevEndpointBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointBatch.html)|
 |[aws glue batch-get-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-jobs.html)|[Get-GLUEJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobBatch.html)|
@@ -29,7 +29,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue batch-update-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-update-partition.html)|[Update-GLUEPartitionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEPartitionBatch.html)|
 |[aws glue cancel-ml-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/cancel-ml-task-run.html)|[Stop-GLUEMLTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEMLTaskRun.html)|
 |[aws glue check-schema-version-validity](https://docs.aws.amazon.com/cli/latest/reference/glue/check-schema-version-validity.html)|[Get-GLUESchemaVersionValidity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionValidity.html)|
-|[aws glue create-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/create-blueprint.html)||
+|[aws glue create-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/create-blueprint.html)|[New-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEBlueprint.html)|
 |[aws glue create-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/create-classifier.html)|[New-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEClassifier.html)|
 |[aws glue create-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/create-connection.html)|[New-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEConnection.html)|
 |[aws glue create-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/create-crawler.html)|[New-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUECrawler.html)|
@@ -47,7 +47,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue create-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/create-trigger.html)|[New-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETrigger.html)|
 |[aws glue create-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/create-user-defined-function.html)|[New-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEUserDefinedFunction.html)|
 |[aws glue create-workflow](https://docs.aws.amazon.com/cli/latest/reference/glue/create-workflow.html)|[New-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEWorkflow.html)|
-|[aws glue delete-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-blueprint.html)||
+|[aws glue delete-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-blueprint.html)|[Remove-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEBlueprint.html)|
 |[aws glue delete-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-classifier.html)|[Remove-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEClassifier.html)|
 |[aws glue delete-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-partition.html)|[Remove-GLUEColumnStatisticsForPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsForPartition.html)|
 |[aws glue delete-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-table.html)|[Remove-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsForTable.html)|
@@ -69,9 +69,9 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-trigger.html)|[Remove-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETrigger.html)|
 |[aws glue delete-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-user-defined-function.html)|[Remove-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEUserDefinedFunction.html)|
 |[aws glue delete-workflow](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-workflow.html)|[Remove-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEWorkflow.html)|
-|[aws glue get-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/get-blueprint.html)||
-|[aws glue get-blueprint-run](https://docs.aws.amazon.com/cli/latest/reference/glue/get-blueprint-run.html)||
-|[aws glue get-blueprint-runs](https://docs.aws.amazon.com/cli/latest/reference/glue/get-blueprint-runs.html)||
+|[aws glue get-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/get-blueprint.html)|[Get-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprint.html)|
+|[aws glue get-blueprint-run](https://docs.aws.amazon.com/cli/latest/reference/glue/get-blueprint-run.html)|[Get-GLUEBlueprintRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintRun.html)|
+|[aws glue get-blueprint-runs](https://docs.aws.amazon.com/cli/latest/reference/glue/get-blueprint-runs.html)|[Get-GLUEBlueprintRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintRunList.html)|
 |[aws glue get-catalog-import-status](https://docs.aws.amazon.com/cli/latest/reference/glue/get-catalog-import-status.html)|[Get-GLUECatalogImportStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECatalogImportStatus.html)|
 |[aws glue get-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/get-classifier.html)|[Get-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEClassifier.html)|
 |[aws glue get-classifiers](https://docs.aws.amazon.com/cli/latest/reference/glue/get-classifiers.html)|[Get-GLUEClassifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEClassifierList.html)|
@@ -125,7 +125,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-workflow-run-properties](https://docs.aws.amazon.com/cli/latest/reference/glue/get-workflow-run-properties.html)|[Get-GLUEWorkflowRunProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowRunProperty.html)|
 |[aws glue get-workflow-runs](https://docs.aws.amazon.com/cli/latest/reference/glue/get-workflow-runs.html)|[Get-GLUEWorkflowRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowRunList.html)|
 |[aws glue import-catalog-to-glue](https://docs.aws.amazon.com/cli/latest/reference/glue/import-catalog-to-glue.html)|[Import-GLUECatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-GLUECatalog.html)|
-|[aws glue list-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-blueprints.html)||
+|[aws glue list-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-blueprints.html)|[Get-GLUEBlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintList.html)|
 |[aws glue list-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-crawlers.html)|[Get-GLUECrawlerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerNameList.html)|
 |[aws glue list-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-dev-endpoints.html)|[Get-GLUEDevEndpointNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointNameList.html)|
 |[aws glue list-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
@@ -145,7 +145,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue reset-job-bookmark](https://docs.aws.amazon.com/cli/latest/reference/glue/reset-job-bookmark.html)|[Reset-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GLUEJobBookmark.html)|
 |[aws glue resume-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/resume-workflow-run.html)|[Resume-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-GLUEWorkflowRun.html)|
 |[aws glue search-tables](https://docs.aws.amazon.com/cli/latest/reference/glue/search-tables.html)|[Find-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GLUETable.html)|
-|[aws glue start-blueprint-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-blueprint-run.html)||
+|[aws glue start-blueprint-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-blueprint-run.html)|[Start-GLUEBlueprintRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEBlueprintRun.html)|
 |[aws glue start-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler.html)|[Start-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawler.html)|
 |[aws glue start-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler-schedule.html)|[Start-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawlerSchedule.html)|
 |[aws glue start-export-labels-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-export-labels-task-run.html)|[Start-GLUEExportLabelsTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEExportLabelsTaskRun.html)|
@@ -161,7 +161,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue stop-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-workflow-run.html)|[Stop-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEWorkflowRun.html)|
 |[aws glue tag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/tag-resource.html)|[Add-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GLUEResourceTag.html)|
 |[aws glue untag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/untag-resource.html)|[Remove-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourceTag.html)|
-|[aws glue update-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/update-blueprint.html)||
+|[aws glue update-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/update-blueprint.html)|[Update-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEBlueprint.html)|
 |[aws glue update-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/update-classifier.html)|[Update-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEClassifier.html)|
 |[aws glue update-column-statistics-for-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-partition.html)|[Update-GLUEColumnStatisticsForPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEColumnStatisticsForPartition.html)|
 |[aws glue update-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-column-statistics-for-table.html)|[Update-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEColumnStatisticsForTable.html)|

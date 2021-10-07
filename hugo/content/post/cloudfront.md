@@ -1,6 +1,6 @@
 ---
 title: cloudfront
-date: 2021-09-13
+date: 2021-10-07
 description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 ---
 
@@ -13,7 +13,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws cloudfront associate-alias](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/associate-alias.html)||
+|[aws cloudfront associate-alias](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/associate-alias.html)|[Move-CFAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-CFAlias.html)|
 |[aws cloudfront create-cache-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-cache-policy.html)|[New-CFCachePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFCachePolicy.html)|
 |[aws cloudfront create-cloud-front-origin-access-identity](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-cloud-front-origin-access-identity.html)|[New-CFCloudFrontOriginAccessIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFCloudFrontOriginAccessIdentity.html)|
 |[aws cloudfront create-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-distribution.html)|[New-CFDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFDistribution.html)|
@@ -66,7 +66,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront get-streaming-distribution-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-streaming-distribution-config.html)|[Get-CFStreamingDistributionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFStreamingDistributionConfig.html)|
 |[aws cloudfront list-cache-policies](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-cache-policies.html)|[Get-CFCachePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFCachePolicyList.html)|
 |[aws cloudfront list-cloud-front-origin-access-identities](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-cloud-front-origin-access-identities.html)|[Get-CFCloudFrontOriginAccessIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFCloudFrontOriginAccessIdentityList.html)|
-|[aws cloudfront list-conflicting-aliases](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-conflicting-aliases.html)||
+|[aws cloudfront list-conflicting-aliases](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-conflicting-aliases.html)|[Get-CFConflictingAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFConflictingAlias.html)|
 |[aws cloudfront list-distributions](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions.html)|[Get-CFDistributionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionList.html)|
 |[aws cloudfront list-distributions-by-cache-policy-id](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-cache-policy-id.html)|[Get-CFDistributionsByCachePolicyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionsByCachePolicyId.html)|
 |[aws cloudfront list-distributions-by-key-group](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-key-group.html)|[Get-CFDistributionsByKeyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionsByKeyGroup.html)|

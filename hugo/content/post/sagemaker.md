@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2021-09-13
+date: 2021-10-07
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -53,6 +53,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker create-presigned-notebook-instance-url](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-presigned-notebook-instance-url.html)|[New-SMPresignedNotebookInstanceUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMPresignedNotebookInstanceUrl.html)|
 |[aws sagemaker create-processing-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-processing-job.html)|[New-SMProcessingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMProcessingJob.html)|
 |[aws sagemaker create-project](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-project.html)|[New-SMProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMProject.html)|
+|[aws sagemaker create-studio-lifecycle-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-studio-lifecycle-config.html)|[New-SMStudioLifecycleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMStudioLifecycleConfig.html)|
 |[aws sagemaker create-training-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-training-job.html)|[New-SMTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTrainingJob.html)|
 |[aws sagemaker create-transform-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-transform-job.html)|[New-SMTransformJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTransformJob.html)|
 |[aws sagemaker create-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-trial.html)|[New-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMTrial.html)|
@@ -91,6 +92,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker delete-notebook-instance-lifecycle-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-notebook-instance-lifecycle-config.html)|[Remove-SMNotebookInstanceLifecycleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMNotebookInstanceLifecycleConfig.html)|
 |[aws sagemaker delete-pipeline](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-pipeline.html)|[Remove-SMPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMPipeline.html)|
 |[aws sagemaker delete-project](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-project.html)|[Remove-SMProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMProject.html)|
+|[aws sagemaker delete-studio-lifecycle-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-studio-lifecycle-config.html)|[Remove-SMStudioLifecycleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMStudioLifecycleConfig.html)|
 |[aws sagemaker delete-tags](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-tags.html)|[Remove-SMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMResourceTag.html)|
 |[aws sagemaker delete-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-trial.html)|[Remove-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrial.html)|
 |[aws sagemaker delete-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/delete-trial-component.html)|[Remove-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrialComponent.html)|
@@ -136,6 +138,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker describe-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-pipeline-execution.html)|[Get-SMPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineExecution.html)|
 |[aws sagemaker describe-processing-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-processing-job.html)|[Get-SMProcessingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProcessingJob.html)|
 |[aws sagemaker describe-project](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-project.html)|[Get-SMProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProject.html)|
+|[aws sagemaker describe-studio-lifecycle-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-studio-lifecycle-config.html)|[Get-SMStudioLifecycleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMStudioLifecycleConfig.html)|
 |[aws sagemaker describe-subscribed-workteam](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-subscribed-workteam.html)|[Get-SMSubscribedWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSubscribedWorkteam.html)|
 |[aws sagemaker describe-training-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-training-job.html)|[Get-SMTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingJob.html)|
 |[aws sagemaker describe-transform-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-transform-job.html)|[Get-SMTransformJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTransformJob.html)|
@@ -194,6 +197,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker list-pipelines](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-pipelines.html)|[Get-SMPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineList.html)|
 |[aws sagemaker list-processing-jobs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-processing-jobs.html)|[Get-SMProcessingJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProcessingJobList.html)|
 |[aws sagemaker list-projects](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-projects.html)|[Get-SMProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProjectList.html)|
+|[aws sagemaker list-studio-lifecycle-configs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-studio-lifecycle-configs.html)|[Get-SMStudioLifecycleConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMStudioLifecycleConfigList.html)|
 |[aws sagemaker list-subscribed-workteams](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-subscribed-workteams.html)|[Get-SMSubscribedWorkteamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSubscribedWorkteamList.html)|
 |[aws sagemaker list-tags](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-tags.html)|[Get-SMResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMResourceTagList.html)|
 |[aws sagemaker list-training-jobs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-training-jobs.html)|[Get-SMTrainingJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingJobList.html)|
@@ -207,6 +211,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker put-model-package-group-policy](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/put-model-package-group-policy.html)|[Write-SMModelPackageGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SMModelPackageGroupPolicy.html)|
 |[aws sagemaker register-devices](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/register-devices.html)|[Register-SMDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMDevice.html)|
 |[aws sagemaker render-ui-template](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/render-ui-template.html)|[Invoke-SMUiTemplateRendering](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMUiTemplateRendering.html)|
+|[aws sagemaker retry-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/retry-pipeline-execution.html)|[Restart-SMPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-SMPipelineExecution.html)|
 |[aws sagemaker search](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/search.html)|[Search-SMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-SMResource.html)|
 |[aws sagemaker send-pipeline-execution-step-failure](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/send-pipeline-execution-step-failure.html)|[Send-SMPipelineExecutionStepFailure](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SMPipelineExecutionStepFailure.html)|
 |[aws sagemaker send-pipeline-execution-step-success](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/send-pipeline-execution-step-success.html)|[Send-SMPipelineExecutionStepSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SMPipelineExecutionStepSuccess.html)|

@@ -1,6 +1,6 @@
 ---
 title: qldb
-date: 2021-09-13
+date: 2021-10-07
 description: aws qldb (Amazon Quantum Ledger Database (QLDB)) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2021-10-07
+date: 2021-10-27
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive batch-stop](https://docs.aws.amazon.com/cli/latest/reference/medialive/batch-stop.html)|[Stop-EMLResourceBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLResourceBatch.html)|
 |[aws medialive batch-update-schedule](https://docs.aws.amazon.com/cli/latest/reference/medialive/batch-update-schedule.html)|[Update-EMLScheduleBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLScheduleBatch.html)|
 |[aws medialive cancel-input-device-transfer](https://docs.aws.amazon.com/cli/latest/reference/medialive/cancel-input-device-transfer.html)|[Stop-EMLInputDeviceTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLInputDeviceTransfer.html)|
+|[aws medialive claim-device](https://docs.aws.amazon.com/cli/latest/reference/medialive/claim-device.html)||
 |[aws medialive create-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-channel.html)|[New-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLChannel.html)|
 |[aws medialive create-input](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-input.html)|[New-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLInput.html)|
 |[aws medialive create-input-security-group](https://docs.aws.amazon.com/cli/latest/reference/medialive/create-input-security-group.html)|[New-EMLInputSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLInputSecurityGroup.html)|

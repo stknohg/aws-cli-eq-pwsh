@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2021-10-07
+date: 2021-10-27
 description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 |[aws directconnect associate-mac-sec-key](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-mac-sec-key.html)|[Add-DCMacSecKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DCMacSecKey.html)|
 |[aws directconnect associate-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/associate-virtual-interface.html)|[Register-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-DCVirtualInterface.html)|
 |[aws directconnect confirm-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-connection.html)|[Confirm-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCConnection.html)|
+|[aws directconnect confirm-customer-agreement](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-customer-agreement.html)||
 |[aws directconnect confirm-private-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-private-virtual-interface.html)|[Confirm-DCPrivateVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCPrivateVirtualInterface.html)|
 |[aws directconnect confirm-public-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-public-virtual-interface.html)|[Confirm-DCPublicVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCPublicVirtualInterface.html)|
 |[aws directconnect confirm-transit-virtual-interface](https://docs.aws.amazon.com/cli/latest/reference/directconnect/confirm-transit-virtual-interface.html)|[Confirm-DCTransitVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-DCTransitVirtualInterface.html)|
@@ -48,6 +49,7 @@ description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 |[aws directconnect describe-connection-loa](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-connection-loa.html)|[Get-DCConnectionLoa](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCConnectionLoa.html)|
 |[aws directconnect describe-connections](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-connections.html)|[Get-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCConnection.html)|
 |[aws directconnect describe-connections-on-interconnect](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-connections-on-interconnect.html)|[Get-DCConnectionsOnInterconnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCConnectionsOnInterconnect.html)|
+|[aws directconnect describe-customer-metadata](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-customer-metadata.html)||
 |[aws directconnect describe-direct-connect-gateway-association-proposals](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateway-association-proposals.html)|[Get-DCDirectConnectGatewayAssociationProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCDirectConnectGatewayAssociationProposal.html)|
 |[aws directconnect describe-direct-connect-gateway-associations](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateway-associations.html)|[Get-DCGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCGatewayAssociation.html)|
 |[aws directconnect describe-direct-connect-gateway-attachments](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-direct-connect-gateway-attachments.html)|[Get-DCGatewayAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCGatewayAttachment.html)|
@@ -58,6 +60,7 @@ description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 |[aws directconnect describe-lags](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-lags.html)|[Get-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCLag.html)|
 |[aws directconnect describe-loa](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-loa.html)|[Get-DCLoa](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCLoa.html)|
 |[aws directconnect describe-locations](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-locations.html)|[Get-DCLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCLocation.html)|
+|[aws directconnect describe-router-configuration](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-router-configuration.html)||
 |[aws directconnect describe-tags](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-tags.html)|[Get-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCResourceTag.html)|
 |[aws directconnect describe-virtual-gateways](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-virtual-gateways.html)|[Get-DCVirtualGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualGateway.html)|
 |[aws directconnect describe-virtual-interfaces](https://docs.aws.amazon.com/cli/latest/reference/directconnect/describe-virtual-interfaces.html)|[Get-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterface.html)|
@@ -69,6 +72,7 @@ description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 |[aws directconnect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/tag-resource.html)|[Add-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DCResourceTag.html)|
 |[aws directconnect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/directconnect/untag-resource.html)|[Remove-DCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCResourceTag.html)|
 |[aws directconnect update-connection](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-connection.html)|[Update-DCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCConnection.html)|
+|[aws directconnect update-direct-connect-gateway](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-direct-connect-gateway.html)||
 |[aws directconnect update-direct-connect-gateway-association](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-direct-connect-gateway-association.html)|[Update-DCDirectConnectGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCDirectConnectGatewayAssociation.html)|
 |[aws directconnect update-lag](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-lag.html)|[Update-DCLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCLag.html)|
 |[aws directconnect update-virtual-interface-attributes](https://docs.aws.amazon.com/cli/latest/reference/directconnect/update-virtual-interface-attributes.html)|[Update-DCVirtualInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DCVirtualInterfaceAttribute.html)|

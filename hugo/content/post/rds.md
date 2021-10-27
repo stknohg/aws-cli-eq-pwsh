@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2021-10-07
+date: 2021-10-27
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds copy-db-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-snapshot.html)|[Copy-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBSnapshot.html)|
 |[aws rds copy-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-option-group.html)|[Copy-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSOptionGroup.html)|
 |[aws rds create-custom-availability-zone](https://docs.aws.amazon.com/cli/latest/reference/rds/create-custom-availability-zone.html)|[New-RDSCustomAvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSCustomAvailabilityZone.html)|
+|[aws rds create-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/create-custom-db-engine-version.html)||
 |[aws rds create-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster.html)|[New-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBCluster.html)|
 |[aws rds create-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster-endpoint.html)|[New-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBClusterEndpoint.html)|
 |[aws rds create-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster-parameter-group.html)|[New-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBClusterParameterGroup.html)|
@@ -44,6 +45,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds create-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/create-global-cluster.html)|[New-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSGlobalCluster.html)|
 |[aws rds create-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-option-group.html)|[New-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSOptionGroup.html)|
 |[aws rds delete-custom-availability-zone](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-custom-availability-zone.html)|[Remove-RDSCustomAvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSCustomAvailabilityZone.html)|
+|[aws rds delete-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-custom-db-engine-version.html)||
 |[aws rds delete-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster.html)|[Remove-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBCluster.html)|
 |[aws rds delete-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster-endpoint.html)|[Remove-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterEndpoint.html)|
 |[aws rds delete-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster-parameter-group.html)|[Remove-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterParameterGroup.html)|
@@ -109,6 +111,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rds/list-tags-for-resource.html)|[Get-RDSTagForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTagForResource.html)|
 |[aws rds modify-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-certificates.html)|[Edit-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCertificate.html)|
 |[aws rds modify-current-db-cluster-capacity](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-current-db-cluster-capacity.html)|[Edit-RDSCurrentDBClusterCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCurrentDBClusterCapacity.html)|
+|[aws rds modify-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-custom-db-engine-version.html)||
 |[aws rds modify-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-cluster.html)|[Edit-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBCluster.html)|
 |[aws rds modify-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-cluster-endpoint.html)|[Edit-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBClusterEndpoint.html)|
 |[aws rds modify-db-cluster-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-db-cluster-parameter-group.html)|[Edit-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBClusterParameterGroup.html)|

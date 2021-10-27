@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2021-10-07
+date: 2021-10-27
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup delete-backup-selection](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-selection.html)|[Remove-BAKBackupSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupSelection.html)|
 |[aws backup delete-backup-vault](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault.html)|[Remove-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVault.html)|
 |[aws backup delete-backup-vault-access-policy](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault-access-policy.html)|[Remove-BAKBackupVaultAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVaultAccessPolicy.html)|
+|[aws backup delete-backup-vault-lock-configuration](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault-lock-configuration.html)||
 |[aws backup delete-backup-vault-notifications](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-backup-vault-notifications.html)|[Remove-BAKBackupVaultNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVaultNotification.html)|
 |[aws backup delete-framework](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-framework.html)|[Remove-BAKFramework](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKFramework.html)|
 |[aws backup delete-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/backup/delete-recovery-point.html)|[Remove-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKRecoveryPoint.html)|
@@ -63,6 +64,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup list-restore-jobs](https://docs.aws.amazon.com/cli/latest/reference/backup/list-restore-jobs.html)|[Get-BAKRestoreJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobList.html)|
 |[aws backup list-tags](https://docs.aws.amazon.com/cli/latest/reference/backup/list-tags.html)|[Get-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKResourceTag.html)|
 |[aws backup put-backup-vault-access-policy](https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-access-policy.html)|[Write-BAKBackupVaultAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultAccessPolicy.html)|
+|[aws backup put-backup-vault-lock-configuration](https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-lock-configuration.html)||
 |[aws backup put-backup-vault-notifications](https://docs.aws.amazon.com/cli/latest/reference/backup/put-backup-vault-notifications.html)|[Write-BAKBackupVaultNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultNotification.html)|
 |[aws backup start-backup-job](https://docs.aws.amazon.com/cli/latest/reference/backup/start-backup-job.html)|[Start-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKBackupJob.html)|
 |[aws backup start-copy-job](https://docs.aws.amazon.com/cli/latest/reference/backup/start-copy-job.html)|[Start-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKCopyJob.html)|

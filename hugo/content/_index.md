@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-10-07
+date: 2021-10-27
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,7 +8,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.2.44 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.3.1 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.15.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
@@ -135,6 +135,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||
+|[Amazon Managed Grafana](https://aws.amazon.com/grafana/)|[grafana]({{%relref "post/grafana.md" %}})|||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrass]({{%relref "post/greengrass.md" %}})|GG||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrassv2]({{%relref "post/greengrassv2.md" %}})|GGV2||
 |[AWS Ground Station](https://aws.amazon.com/ground-station/)|[groundstation]({{%relref "post/groundstation.md" %}})|GS||
@@ -220,6 +221,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
 |[AWS Outposts](https://aws.amazon.com/outposts/)|[outposts]({{%relref "post/outposts.md" %}})|OUTP||
+|[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|PERS||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|PERSE||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|PERSR||

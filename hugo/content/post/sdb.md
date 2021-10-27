@@ -1,6 +1,6 @@
 ---
 title: sdb
-date: 2021-10-07
+date: 2021-10-27
 description: aws sdb (Amazon SimpleDB) command/cmdlet list.
 ---
 

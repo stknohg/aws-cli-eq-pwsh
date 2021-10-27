@@ -1,6 +1,6 @@
 ---
 title: snowball
-date: 2021-10-07
+date: 2021-10-27
 description: aws snowball (AWS Snow Family) command/cmdlet list.
 ---
 

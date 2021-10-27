@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-identity
-date: 2021-10-07
+date: 2021-10-27
 description: aws chime-sdk-identity (Amazon Chime) command/cmdlet list.
 ---
 
@@ -19,14 +19,22 @@ description: aws chime-sdk-identity (Amazon Chime) command/cmdlet list.
 |[aws chime-sdk-identity delete-app-instance](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/delete-app-instance.html)|[Remove-CHMIDAppInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMIDAppInstance.html)|
 |[aws chime-sdk-identity delete-app-instance-admin](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/delete-app-instance-admin.html)|[Remove-CHMIDAppInstanceAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMIDAppInstanceAdmin.html)|
 |[aws chime-sdk-identity delete-app-instance-user](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/delete-app-instance-user.html)|[Remove-CHMIDAppInstanceUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMIDAppInstanceUser.html)|
+|[aws chime-sdk-identity deregister-app-instance-user-endpoint](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/deregister-app-instance-user-endpoint.html)||
 |[aws chime-sdk-identity describe-app-instance](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/describe-app-instance.html)|[Get-CHMIDAppInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstance.html)|
 |[aws chime-sdk-identity describe-app-instance-admin](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/describe-app-instance-admin.html)|[Get-CHMIDAppInstanceAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstanceAdmin.html)|
 |[aws chime-sdk-identity describe-app-instance-user](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/describe-app-instance-user.html)|[Get-CHMIDAppInstanceUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstanceUser.html)|
+|[aws chime-sdk-identity describe-app-instance-user-endpoint](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/describe-app-instance-user-endpoint.html)||
 |[aws chime-sdk-identity get-app-instance-retention-settings](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/get-app-instance-retention-settings.html)|[Get-CHMIDAppInstanceRetentionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstanceRetentionSetting.html)|
 |[aws chime-sdk-identity list-app-instance-admins](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/list-app-instance-admins.html)|[Get-CHMIDAppInstanceAdminList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstanceAdminList.html)|
+|[aws chime-sdk-identity list-app-instance-user-endpoints](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/list-app-instance-user-endpoints.html)||
 |[aws chime-sdk-identity list-app-instance-users](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/list-app-instance-users.html)|[Get-CHMIDAppInstanceUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstanceUserList.html)|
 |[aws chime-sdk-identity list-app-instances](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/list-app-instances.html)|[Get-CHMIDAppInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMIDAppInstanceList.html)|
+|[aws chime-sdk-identity list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/list-tags-for-resource.html)||
 |[aws chime-sdk-identity put-app-instance-retention-settings](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/put-app-instance-retention-settings.html)|[Write-CHMIDAppInstanceRetentionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMIDAppInstanceRetentionSetting.html)|
+|[aws chime-sdk-identity register-app-instance-user-endpoint](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/register-app-instance-user-endpoint.html)||
+|[aws chime-sdk-identity tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/tag-resource.html)||
+|[aws chime-sdk-identity untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/untag-resource.html)||
 |[aws chime-sdk-identity update-app-instance](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/update-app-instance.html)|[Update-CHMIDAppInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMIDAppInstance.html)|
 |[aws chime-sdk-identity update-app-instance-user](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/update-app-instance-user.html)|[Update-CHMIDAppInstanceUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMIDAppInstanceUser.html)|
+|[aws chime-sdk-identity update-app-instance-user-endpoint](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/update-app-instance-user-endpoint.html)||
 

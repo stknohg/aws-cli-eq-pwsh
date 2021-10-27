@@ -1,7 +1,7 @@
 #
 # Docker image for AWS CLI -eq PowerShell development
 # 
-FROM mcr.microsoft.com/powershell:7.1.4-ubuntu-20.04
+FROM mcr.microsoft.com/powershell:7.1.5-ubuntu-20.04
 
 # Define args
 ARG HUGO_VERSION=0.88.1

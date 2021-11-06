@@ -51,9 +51,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime]({{%relref "post/chime.md" %}})|CHM||
-|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})||Amazon Chime SDK Identity API|
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})|CHMID|Amazon Chime SDK Identity API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-meetings]({{%relref "post/chime-sdk-meetings.md" %}})||Amazon Chime SDK Meeting API|
-|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})||Amazon Chime SDK Messaging API|
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})|CHMMG|Amazon Chime SDK Messaging API|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[AWS Cloud Control API](https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||

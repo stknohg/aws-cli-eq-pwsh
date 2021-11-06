@@ -9,7 +9,7 @@ description: aws chime-sdk-identity (Amazon Chime) command/cmdlet list.
 ### [Amazon Chime](https://aws.amazon.com/chime/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-identity/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKIdentity_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

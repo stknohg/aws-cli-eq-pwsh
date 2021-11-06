@@ -133,9 +133,9 @@ $g_AWSServices = @{
     'braket'                          = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                              = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
-    'chime-sdk-identity'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Identity API' };
+    'chime-sdk-identity'              = [PSCustomObject]@{ Prefix = 'CHMID'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Identity API' };
     'chime-sdk-meetings'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
-    'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
+    'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = 'CHMMG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime'                           = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                          = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
     'cloudcontrol'                    = [PSCustomObject]@{ Prefix = 'CCA'; Name = 'AWS Cloud Control API'; Url = 'https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/'; Note = '' };
@@ -425,9 +425,9 @@ $g_CmdletReferenceLinks = @{
     'braket'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html';
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
     'ce'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html';
-    'chime-sdk-identity'              = '';
+    'chime-sdk-identity'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKIdentity_cmdlets.html';
     'chime-sdk-meetings'              = '';
-    'chime-sdk-messaging'             = '';
+    'chime-sdk-messaging'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMessaging_cmdlets.html';
     'chime'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
     'cloud9'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud9_cmdlets.html';
     'cloudcontrol'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CloudControlApi_cmdlets.html';

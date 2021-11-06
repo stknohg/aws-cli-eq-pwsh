@@ -1,6 +1,6 @@
 ---
 title: networkmanager
-date: 2021-10-27
+date: 2021-11-06
 description: aws networkmanager (AWS Transit Gateway network manager) command/cmdlet list.
 ---
 
@@ -36,16 +36,24 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager get-devices](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-devices.html)|[Get-NMGRDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRDevice.html)|
 |[aws networkmanager get-link-associations](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-link-associations.html)|[Get-NMGRLinkAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRLinkAssociation.html)|
 |[aws networkmanager get-links](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-links.html)|[Get-NMGRLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRLink.html)|
+|[aws networkmanager get-network-resource-counts](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-network-resource-counts.html)||
+|[aws networkmanager get-network-resource-relationships](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-network-resource-relationships.html)||
+|[aws networkmanager get-network-resources](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-network-resources.html)||
+|[aws networkmanager get-network-routes](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-network-routes.html)||
+|[aws networkmanager get-network-telemetry](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-network-telemetry.html)||
+|[aws networkmanager get-route-analysis](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-route-analysis.html)||
 |[aws networkmanager get-sites](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-sites.html)|[Get-NMGRSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRSite.html)|
 |[aws networkmanager get-transit-gateway-connect-peer-associations](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-transit-gateway-connect-peer-associations.html)|[Get-NMGRTransitGatewayConnectPeerAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRTransitGatewayConnectPeerAssociation.html)|
 |[aws networkmanager get-transit-gateway-registrations](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/get-transit-gateway-registrations.html)|[Get-NMGRTransitGatewayRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRTransitGatewayRegistration.html)|
 |[aws networkmanager list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/list-tags-for-resource.html)|[Get-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRResourceTag.html)|
 |[aws networkmanager register-transit-gateway](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/register-transit-gateway.html)|[Register-NMGRTransitGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-NMGRTransitGateway.html)|
+|[aws networkmanager start-route-analysis](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/start-route-analysis.html)||
 |[aws networkmanager tag-resource](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/tag-resource.html)|[Add-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-NMGRResourceTag.html)|
 |[aws networkmanager untag-resource](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/untag-resource.html)|[Remove-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NMGRResourceTag.html)|
 |[aws networkmanager update-connection](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/update-connection.html)|[Update-NMGRConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRConnection.html)|
 |[aws networkmanager update-device](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/update-device.html)|[Update-NMGRDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRDevice.html)|
 |[aws networkmanager update-global-network](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/update-global-network.html)|[Update-NMGRGlobalNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRGlobalNetwork.html)|
 |[aws networkmanager update-link](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/update-link.html)|[Update-NMGRLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRLink.html)|
+|[aws networkmanager update-network-resource-metadata](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/update-network-resource-metadata.html)||
 |[aws networkmanager update-site](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/update-site.html)|[Update-NMGRSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRSite.html)|
 

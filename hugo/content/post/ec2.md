@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-10-27
+date: 2021-11-06
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -360,12 +360,14 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-flow-logs-integration-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-flow-logs-integration-template.html)|[Get-EC2FlowLogsIntegrationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2FlowLogsIntegrationTemplate.html)|
 |[aws ec2 get-groups-for-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-groups-for-capacity-reservation.html)|[Get-EC2GroupsForCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2GroupsForCapacityReservation.html)|
 |[aws ec2 get-host-reservation-purchase-preview](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|
+|[aws ec2 get-instance-types-from-instance-requirements](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-instance-types-from-instance-requirements.html)||
 |[aws ec2 get-launch-template-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-launch-template-data.html)|[Get-EC2LaunchTemplateData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LaunchTemplateData.html)|
 |[aws ec2 get-managed-prefix-list-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-associations.html)|[Get-EC2ManagedPrefixListAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListAssociation.html)|
 |[aws ec2 get-managed-prefix-list-entries](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-entries.html)|[Get-EC2ManagedPrefixListEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListEntry.html)|
 |[aws ec2 get-password-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
 |[aws ec2 get-reserved-instances-exchange-quote](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-reserved-instances-exchange-quote.html)|[Get-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ReservedInstancesExchangeQuote.html)|
 |[aws ec2 get-serial-console-access-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-serial-console-access-status.html)|[Get-EC2SerialConsoleAccessStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SerialConsoleAccessStatus.html)|
+|[aws ec2 get-spot-placement-scores](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-spot-placement-scores.html)||
 |[aws ec2 get-subnet-cidr-reservations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-subnet-cidr-reservations.html)|[Get-EC2SubnetCidrReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SubnetCidrReservation.html)|
 |[aws ec2 get-transit-gateway-attachment-propagations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-attachment-propagations.html)|[Get-EC2TransitGatewayAttachmentPropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayAttachmentPropagation.html)|
 |[aws ec2 get-transit-gateway-multicast-domain-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-multicast-domain-associations.html)|[Get-EC2TransitGatewayMulticastDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayMulticastDomainAssociation.html)|

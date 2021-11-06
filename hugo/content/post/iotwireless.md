@@ -1,6 +1,6 @@
 ---
 title: iotwireless
-date: 2021-10-27
+date: 2021-11-06
 description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 ---
 
@@ -14,11 +14,17 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws iotwireless associate-aws-account-with-partner-account](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-aws-account-with-partner-account.html)|[Join-IOTWAwsAccountWithPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-IOTWAwsAccountWithPartnerAccount.html)|
+|[aws iotwireless associate-multicast-group-with-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-multicast-group-with-fuota-task.html)||
+|[aws iotwireless associate-wireless-device-with-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-wireless-device-with-fuota-task.html)||
+|[aws iotwireless associate-wireless-device-with-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-wireless-device-with-multicast-group.html)||
 |[aws iotwireless associate-wireless-device-with-thing](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-wireless-device-with-thing.html)|[Join-IOTWWirelessDeviceWithThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-IOTWWirelessDeviceWithThing.html)|
 |[aws iotwireless associate-wireless-gateway-with-certificate](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-wireless-gateway-with-certificate.html)|[Join-IOTWWirelessGatewayWithCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-IOTWWirelessGatewayWithCertificate.html)|
 |[aws iotwireless associate-wireless-gateway-with-thing](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/associate-wireless-gateway-with-thing.html)|[Join-IOTWWirelessGatewayWithThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-IOTWWirelessGatewayWithThing.html)|
+|[aws iotwireless cancel-multicast-group-session](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/cancel-multicast-group-session.html)||
 |[aws iotwireless create-destination](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-destination.html)|[New-IOTWDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTWDestination.html)|
 |[aws iotwireless create-device-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-device-profile.html)|[New-IOTWDeviceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTWDeviceProfile.html)|
+|[aws iotwireless create-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-fuota-task.html)||
+|[aws iotwireless create-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-multicast-group.html)||
 |[aws iotwireless create-service-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-service-profile.html)|[New-IOTWServiceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTWServiceProfile.html)|
 |[aws iotwireless create-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-wireless-device.html)|[New-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTWWirelessDevice.html)|
 |[aws iotwireless create-wireless-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-wireless-gateway.html)|[New-IOTWWirelessGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTWWirelessGateway.html)|
@@ -26,19 +32,28 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless create-wireless-gateway-task-definition](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/create-wireless-gateway-task-definition.html)|[New-IOTWWirelessGatewayTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTWWirelessGatewayTaskDefinition.html)|
 |[aws iotwireless delete-destination](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-destination.html)|[Remove-IOTWDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWDestination.html)|
 |[aws iotwireless delete-device-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-device-profile.html)|[Remove-IOTWDeviceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWDeviceProfile.html)|
+|[aws iotwireless delete-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-fuota-task.html)||
+|[aws iotwireless delete-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-multicast-group.html)||
 |[aws iotwireless delete-service-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-service-profile.html)|[Remove-IOTWServiceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWServiceProfile.html)|
 |[aws iotwireless delete-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-wireless-device.html)|[Remove-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWWirelessDevice.html)|
 |[aws iotwireless delete-wireless-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-wireless-gateway.html)|[Remove-IOTWWirelessGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWWirelessGateway.html)|
 |[aws iotwireless delete-wireless-gateway-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-wireless-gateway-task.html)|[Remove-IOTWWirelessGatewayTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWWirelessGatewayTask.html)|
 |[aws iotwireless delete-wireless-gateway-task-definition](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-wireless-gateway-task-definition.html)|[Remove-IOTWWirelessGatewayTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWWirelessGatewayTaskDefinition.html)|
 |[aws iotwireless disassociate-aws-account-from-partner-account](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-aws-account-from-partner-account.html)|[Split-IOTWAwsAccountFromPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-IOTWAwsAccountFromPartnerAccount.html)|
+|[aws iotwireless disassociate-multicast-group-from-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-multicast-group-from-fuota-task.html)||
+|[aws iotwireless disassociate-wireless-device-from-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-wireless-device-from-fuota-task.html)||
+|[aws iotwireless disassociate-wireless-device-from-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-wireless-device-from-multicast-group.html)||
 |[aws iotwireless disassociate-wireless-device-from-thing](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-wireless-device-from-thing.html)|[Split-IOTWWirelessDeviceFromThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-IOTWWirelessDeviceFromThing.html)|
 |[aws iotwireless disassociate-wireless-gateway-from-certificate](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-wireless-gateway-from-certificate.html)|[Split-IOTWWirelessGatewayFromCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-IOTWWirelessGatewayFromCertificate.html)|
 |[aws iotwireless disassociate-wireless-gateway-from-thing](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/disassociate-wireless-gateway-from-thing.html)|[Split-IOTWWirelessGatewayFromThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-IOTWWirelessGatewayFromThing.html)|
 |[aws iotwireless get-destination](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-destination.html)|[Get-IOTWDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWDestination.html)|
 |[aws iotwireless get-device-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-device-profile.html)|[Get-IOTWDeviceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWDeviceProfile.html)|
+|[aws iotwireless get-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-fuota-task.html)||
 |[aws iotwireless get-log-levels-by-resource-types](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-log-levels-by-resource-types.html)|[Get-IOTWLogLevelsByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWLogLevelsByResourceType.html)|
+|[aws iotwireless get-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-multicast-group.html)||
+|[aws iotwireless get-multicast-group-session](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-multicast-group-session.html)||
 |[aws iotwireless get-partner-account](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-partner-account.html)|[Get-IOTWPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWPartnerAccount.html)|
+|[aws iotwireless get-resource-event-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-resource-event-configuration.html)||
 |[aws iotwireless get-resource-log-level](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-resource-log-level.html)|[Get-IOTWResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWResourceLogLevel.html)|
 |[aws iotwireless get-service-endpoint](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-service-endpoint.html)|[Get-IOTWServiceEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWServiceEndpoint.html)|
 |[aws iotwireless get-service-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-service-profile.html)|[Get-IOTWServiceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWServiceProfile.html)|
@@ -52,6 +67,9 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless get-wireless-gateway-task-definition](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/get-wireless-gateway-task-definition.html)|[Get-IOTWWirelessGatewayTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWWirelessGatewayTaskDefinition.html)|
 |[aws iotwireless list-destinations](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-destinations.html)|[Get-IOTWDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWDestinationList.html)|
 |[aws iotwireless list-device-profiles](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-device-profiles.html)|[Get-IOTWDeviceProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWDeviceProfileList.html)|
+|[aws iotwireless list-fuota-tasks](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-fuota-tasks.html)||
+|[aws iotwireless list-multicast-groups](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-multicast-groups.html)||
+|[aws iotwireless list-multicast-groups-by-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-multicast-groups-by-fuota-task.html)||
 |[aws iotwireless list-partner-accounts](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-partner-accounts.html)|[Get-IOTWPartnerAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWPartnerAccountList.html)|
 |[aws iotwireless list-service-profiles](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-service-profiles.html)|[Get-IOTWServiceProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWServiceProfileList.html)|
 |[aws iotwireless list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-tags-for-resource.html)|[Get-IOTWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWResourceTag.html)|
@@ -61,13 +79,21 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless put-resource-log-level](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/put-resource-log-level.html)|[Write-IOTWResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IOTWResourceLogLevel.html)|
 |[aws iotwireless reset-all-resource-log-levels](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/reset-all-resource-log-levels.html)|[Reset-IOTWAllResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IOTWAllResourceLogLevel.html)|
 |[aws iotwireless reset-resource-log-level](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/reset-resource-log-level.html)|[Reset-IOTWResourceLogLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IOTWResourceLogLevel.html)|
+|[aws iotwireless send-data-to-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/send-data-to-multicast-group.html)||
 |[aws iotwireless send-data-to-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/send-data-to-wireless-device.html)|[Send-IOTWDataToWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-IOTWDataToWirelessDevice.html)|
+|[aws iotwireless start-bulk-associate-wireless-device-with-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/start-bulk-associate-wireless-device-with-multicast-group.html)||
+|[aws iotwireless start-bulk-disassociate-wireless-device-from-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/start-bulk-disassociate-wireless-device-from-multicast-group.html)||
+|[aws iotwireless start-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/start-fuota-task.html)||
+|[aws iotwireless start-multicast-group-session](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/start-multicast-group-session.html)||
 |[aws iotwireless tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/tag-resource.html)|[Add-IOTWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTWResourceTag.html)|
 |[aws iotwireless test-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/test-wireless-device.html)|[Test-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IOTWWirelessDevice.html)|
 |[aws iotwireless untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/untag-resource.html)|[Remove-IOTWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWResourceTag.html)|
 |[aws iotwireless update-destination](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-destination.html)|[Update-IOTWDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWDestination.html)|
+|[aws iotwireless update-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-fuota-task.html)||
 |[aws iotwireless update-log-levels-by-resource-types](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-log-levels-by-resource-types.html)|[Update-IOTWLogLevelsByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWLogLevelsByResourceType.html)|
+|[aws iotwireless update-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-multicast-group.html)||
 |[aws iotwireless update-partner-account](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-partner-account.html)|[Update-IOTWPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWPartnerAccount.html)|
+|[aws iotwireless update-resource-event-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-resource-event-configuration.html)||
 |[aws iotwireless update-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-wireless-device.html)|[Update-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWWirelessDevice.html)|
 |[aws iotwireless update-wireless-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/update-wireless-gateway.html)|[Update-IOTWWirelessGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWWirelessGateway.html)|
 

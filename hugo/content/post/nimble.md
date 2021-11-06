@@ -1,6 +1,6 @@
 ---
 title: nimble
-date: 2021-10-27
+date: 2021-11-06
 description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 ---
 
@@ -50,7 +50,9 @@ description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 |[aws nimble list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-tags-for-resource.html)|[Get-NSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSResourceTag.html)|
 |[aws nimble put-launch-profile-members](https://docs.aws.amazon.com/cli/latest/reference/nimble/put-launch-profile-members.html)|[Write-NSLaunchProfileMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-NSLaunchProfileMember.html)|
 |[aws nimble put-studio-members](https://docs.aws.amazon.com/cli/latest/reference/nimble/put-studio-members.html)|[Write-NSStudioMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-NSStudioMember.html)|
+|[aws nimble start-streaming-session](https://docs.aws.amazon.com/cli/latest/reference/nimble/start-streaming-session.html)||
 |[aws nimble start-studio-sso-configuration-repair](https://docs.aws.amazon.com/cli/latest/reference/nimble/start-studio-sso-configuration-repair.html)|[Start-NSStudioSSOConfigurationRepair](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NSStudioSSOConfigurationRepair.html)|
+|[aws nimble stop-streaming-session](https://docs.aws.amazon.com/cli/latest/reference/nimble/stop-streaming-session.html)||
 |[aws nimble tag-resource](https://docs.aws.amazon.com/cli/latest/reference/nimble/tag-resource.html)|[Add-NSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-NSResourceTag.html)|
 |[aws nimble untag-resource](https://docs.aws.amazon.com/cli/latest/reference/nimble/untag-resource.html)|[Remove-NSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NSResourceTag.html)|
 |[aws nimble update-launch-profile](https://docs.aws.amazon.com/cli/latest/reference/nimble/update-launch-profile.html)|[Update-NSLaunchProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NSLaunchProfile.html)|

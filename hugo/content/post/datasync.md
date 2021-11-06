@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2021-10-27
+date: 2021-11-06
 description: aws datasync (AWS DataSync) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync create-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-agent.html)|[New-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNAgent.html)|
 |[aws datasync create-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-efs.html)|[New-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationEfs.html)|
 |[aws datasync create-location-fsx-windows](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-fsx-windows.html)|[New-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationFsxWindow.html)|
+|[aws datasync create-location-hdfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-hdfs.html)||
 |[aws datasync create-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-nfs.html)|[New-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationNfs.html)|
 |[aws datasync create-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-object-storage.html)|[New-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationObjectStorage.html)|
 |[aws datasync create-location-s3](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-s3.html)|[New-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationS3.html)|
@@ -28,6 +29,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync describe-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-agent.html)|[Get-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNAgent.html)|
 |[aws datasync describe-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-efs.html)|[Get-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationEfs.html)|
 |[aws datasync describe-location-fsx-windows](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-fsx-windows.html)|[Get-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationFsxWindow.html)|
+|[aws datasync describe-location-hdfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-hdfs.html)||
 |[aws datasync describe-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-nfs.html)|[Get-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationNfs.html)|
 |[aws datasync describe-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-object-storage.html)|[Get-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationObjectStorage.html)|
 |[aws datasync describe-location-s3](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-s3.html)|[Get-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationS3.html)|
@@ -43,6 +45,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync tag-resource](https://docs.aws.amazon.com/cli/latest/reference/datasync/tag-resource.html)|[Add-DSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSYNResourceTag.html)|
 |[aws datasync untag-resource](https://docs.aws.amazon.com/cli/latest/reference/datasync/untag-resource.html)|[Remove-DSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNResourceTag.html)|
 |[aws datasync update-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-agent.html)|[Update-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNAgent.html)|
+|[aws datasync update-location-hdfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-hdfs.html)||
 |[aws datasync update-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-nfs.html)|[Update-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationNfs.html)|
 |[aws datasync update-location-object-storage](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-object-storage.html)|[Update-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationObjectStorage.html)|
 |[aws datasync update-location-smb](https://docs.aws.amazon.com/cli/latest/reference/datasync/update-location-smb.html)|[Update-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationSmb.html)|

@@ -1,6 +1,6 @@
 ---
 title: elastic-inference
-date: 2021-10-27
+date: 2021-11-06
 description: aws elastic-inference (Amazon Elastic Inference) command/cmdlet list.
 ---
 

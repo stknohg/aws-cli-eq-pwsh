@@ -1,6 +1,6 @@
 ---
 title: textract
-date: 2021-10-27
+date: 2021-11-06
 description: aws textract (Amazon Textract) command/cmdlet list.
 ---
 
@@ -18,6 +18,8 @@ description: aws textract (Amazon Textract) command/cmdlet list.
 |[aws textract detect-document-text](https://docs.aws.amazon.com/cli/latest/reference/textract/detect-document-text.html)|[Find-TXTDocumentText](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-TXTDocumentText.html)|
 |[aws textract get-document-analysis](https://docs.aws.amazon.com/cli/latest/reference/textract/get-document-analysis.html)|[Get-TXTDocumentAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TXTDocumentAnalysis.html)|
 |[aws textract get-document-text-detection](https://docs.aws.amazon.com/cli/latest/reference/textract/get-document-text-detection.html)|[Get-TXTDocumentTextDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TXTDocumentTextDetection.html)|
+|[aws textract get-expense-analysis](https://docs.aws.amazon.com/cli/latest/reference/textract/get-expense-analysis.html)||
 |[aws textract start-document-analysis](https://docs.aws.amazon.com/cli/latest/reference/textract/start-document-analysis.html)|[Start-TXTDocumentAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TXTDocumentAnalysis.html)|
 |[aws textract start-document-text-detection](https://docs.aws.amazon.com/cli/latest/reference/textract/start-document-text-detection.html)|[Start-TXTDocumentTextDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TXTDocumentTextDetection.html)|
+|[aws textract start-expense-analysis](https://docs.aws.amazon.com/cli/latest/reference/textract/start-expense-analysis.html)||
 

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-10-27
+date: 2021-11-06
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,7 +8,7 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.3.1 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.3.4 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
 * [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.15.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
@@ -52,6 +52,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime]({{%relref "post/chime.md" %}})|CHM||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})||Amazon Chime SDK Identity API|
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-meetings]({{%relref "post/chime-sdk-meetings.md" %}})||Amazon Chime SDK Meeting API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})||Amazon Chime SDK Messaging API|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[AWS Cloud Control API](https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||

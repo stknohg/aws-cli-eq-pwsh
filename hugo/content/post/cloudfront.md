@@ -1,6 +1,6 @@
 ---
 title: cloudfront
-date: 2021-10-27
+date: 2021-11-06
 description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront create-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-origin-request-policy.html)|[New-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFOriginRequestPolicy.html)|
 |[aws cloudfront create-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-public-key.html)|[New-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFPublicKey.html)|
 |[aws cloudfront create-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-realtime-log-config.html)|[New-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFRealtimeLogConfig.html)|
+|[aws cloudfront create-response-headers-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-response-headers-policy.html)||
 |[aws cloudfront create-streaming-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-streaming-distribution.html)|[New-CFStreamingDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFStreamingDistribution.html)|
 |[aws cloudfront create-streaming-distribution-with-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-streaming-distribution-with-tags.html)|[New-CFStreamingDistributionWithTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFStreamingDistributionWithTag.html)|
 |[aws cloudfront delete-cache-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-cache-policy.html)|[Remove-CFCachePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFCachePolicy.html)|
@@ -40,6 +41,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront delete-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-origin-request-policy.html)|[Remove-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFOriginRequestPolicy.html)|
 |[aws cloudfront delete-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-public-key.html)|[Remove-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFPublicKey.html)|
 |[aws cloudfront delete-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-realtime-log-config.html)|[Remove-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFRealtimeLogConfig.html)|
+|[aws cloudfront delete-response-headers-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-response-headers-policy.html)||
 |[aws cloudfront delete-streaming-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-streaming-distribution.html)|[Remove-CFStreamingDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFStreamingDistribution.html)|
 |[aws cloudfront describe-function](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/describe-function.html)|[Get-CFFunctionSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFFunctionSummary.html)|
 |[aws cloudfront get-cache-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-cache-policy.html)|[Get-CFCachePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFCachePolicy.html)|
@@ -62,6 +64,8 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront get-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-public-key.html)|[Get-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFPublicKey.html)|
 |[aws cloudfront get-public-key-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-public-key-config.html)|[Get-CFPublicKeyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFPublicKeyConfig.html)|
 |[aws cloudfront get-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-realtime-log-config.html)|[Get-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFRealtimeLogConfig.html)|
+|[aws cloudfront get-response-headers-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-response-headers-policy.html)||
+|[aws cloudfront get-response-headers-policy-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-response-headers-policy-config.html)||
 |[aws cloudfront get-streaming-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-streaming-distribution.html)|[Get-CFStreamingDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFStreamingDistribution.html)|
 |[aws cloudfront get-streaming-distribution-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-streaming-distribution-config.html)|[Get-CFStreamingDistributionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFStreamingDistributionConfig.html)|
 |[aws cloudfront list-cache-policies](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-cache-policies.html)|[Get-CFCachePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFCachePolicyList.html)|
@@ -72,6 +76,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront list-distributions-by-key-group](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-key-group.html)|[Get-CFDistributionsByKeyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionsByKeyGroup.html)|
 |[aws cloudfront list-distributions-by-origin-request-policy-id](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-origin-request-policy-id.html)|[Get-CFDistributionsByOriginRequestPolicyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionsByOriginRequestPolicyId.html)|
 |[aws cloudfront list-distributions-by-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-realtime-log-config.html)|[Get-CFDistributionsByRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionsByRealtimeLogConfig.html)|
+|[aws cloudfront list-distributions-by-response-headers-policy-id](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-response-headers-policy-id.html)||
 |[aws cloudfront list-distributions-by-web-acl-id](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-distributions-by-web-acl-id.html)|[Get-CFDistributionListByWebACLId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFDistributionListByWebACLId.html)|
 |[aws cloudfront list-field-level-encryption-configs](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-field-level-encryption-configs.html)|[Get-CFFieldLevelEncryptionConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFFieldLevelEncryptionConfigList.html)|
 |[aws cloudfront list-field-level-encryption-profiles](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-field-level-encryption-profiles.html)|[Get-CFFieldLevelEncryptionProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFFieldLevelEncryptionProfileList.html)|
@@ -81,6 +86,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront list-origin-request-policies](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-origin-request-policies.html)|[Get-CFOriginRequestPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginRequestPolicyList.html)|
 |[aws cloudfront list-public-keys](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-public-keys.html)|[Get-CFPublicKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFPublicKeyList.html)|
 |[aws cloudfront list-realtime-log-configs](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-realtime-log-configs.html)|[Get-CFRealtimeLogConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFRealtimeLogConfigList.html)|
+|[aws cloudfront list-response-headers-policies](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-response-headers-policies.html)||
 |[aws cloudfront list-streaming-distributions](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-streaming-distributions.html)|[Get-CFStreamingDistributionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFStreamingDistributionList.html)|
 |[aws cloudfront list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-tags-for-resource.html)|[Get-CFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFResourceTag.html)|
 |[aws cloudfront publish-function](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/publish-function.html)|[Publish-CFFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-CFFunction.html)|
@@ -98,5 +104,6 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront update-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-origin-request-policy.html)|[Update-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFOriginRequestPolicy.html)|
 |[aws cloudfront update-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-public-key.html)|[Update-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFPublicKey.html)|
 |[aws cloudfront update-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-realtime-log-config.html)|[Update-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFRealtimeLogConfig.html)|
+|[aws cloudfront update-response-headers-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-response-headers-policy.html)||
 |[aws cloudfront update-streaming-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-streaming-distribution.html)|[Update-CFStreamingDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFStreamingDistribution.html)|
 

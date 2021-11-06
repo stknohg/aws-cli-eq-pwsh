@@ -134,6 +134,7 @@ $g_AWSServices = @{
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                              = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
     'chime-sdk-identity'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Identity API' };
+    'chime-sdk-meetings'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
     'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime'                           = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                          = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
@@ -425,6 +426,7 @@ $g_CmdletReferenceLinks = @{
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
     'ce'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html';
     'chime-sdk-identity'              = '';
+    'chime-sdk-meetings'              = '';
     'chime-sdk-messaging'             = '';
     'chime'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
     'cloud9'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud9_cmdlets.html';

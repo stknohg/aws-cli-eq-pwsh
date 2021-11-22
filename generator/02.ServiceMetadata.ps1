@@ -115,6 +115,7 @@ $g_AWSServices = @{
     'apigatewaymanagementapi'         = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewayv2'                    = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'appconfig'                       = [PSCustomObject]@{ Prefix = 'APPC'; Name = 'AWS AppConfig'; Url = 'https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html'; Note = '' };
+    'appconfigdata'                   = [PSCustomObject]@{ Prefix = 'ACD'; Name = 'AWS AppConfig Data'; Url = 'https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html'; Note = '' };
     'appflow'                         = [PSCustomObject]@{ Prefix = 'AF'; Name = 'Amazon AppFlow'; Url = 'https://aws.amazon.com/appflow/'; Note = '' };
     'appintegrations'                 = [PSCustomObject]@{ Prefix = 'AIS'; Name = 'Amazon AppIntegrations APIs'; Url = 'https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html'; Note = '' };
     'application-autoscaling'         = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
@@ -184,6 +185,7 @@ $g_AWSServices = @{
     'dlm'                             = [PSCustomObject]@{ Prefix = 'DLM'; Name = 'Amazon Data Lifecycle Manager'; Url = 'https://aws.amazon.com/ebs/'; Note = '' };
     'dms'                             = [PSCustomObject]@{ Prefix = 'DMS'; Name = 'AWS Database Migration Service'; Url = 'https://aws.amazon.com/dms/'; Note = '' };
     'docdb'                           = [PSCustomObject]@{ Prefix = 'DOC'; Name = 'Amazon DocumentDB'; Url = 'https://aws.amazon.com/documentdb/'; Note = '' };
+    'drs'                             = [PSCustomObject]@{ Prefix = 'EDRS'; Name = 'AWS Elastic Disaster Recovery'; Url = 'https://aws.amazon.com/disaster-recovery/'; Note = '' };
     'ds'                              = [PSCustomObject]@{ Prefix = 'DS'; Name = 'AWS Directory Service'; Url = 'https://aws.amazon.com/directoryservice/'; Note = '' };
     'dynamodb'                        = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
     'ddb'                             = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = 'High level DynamoDB commands.' };
@@ -292,6 +294,7 @@ $g_AWSServices = @{
     'mgh'                             = [PSCustomObject]@{ Prefix = 'MH'; Name = 'AWS Migration Hub'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mgn'                             = [PSCustomObject]@{ Prefix = 'MGN'; Name = 'AWS Application Migration Service'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
     'migrationhub-config'             = [PSCustomObject]@{ Prefix = 'MHC'; Name = 'AWS Migration Hub Config'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
+    'migrationhubstrategy'            = [PSCustomObject]@{ Prefix = 'MHS'; Name = 'AWS Migration Hub Strategy Recommendations'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mobile'                          = [PSCustomObject]@{ Prefix = 'MOBL'; Name = 'AWS Mobile'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'mq'                              = [PSCustomObject]@{ Prefix = 'MQ'; Name = 'Amazon MQ'; Url = 'https://aws.amazon.com/amazon-mq/'; Note = '' };
     'mturk'                           = [PSCustomObject]@{ Prefix = 'MTR'; Name = 'Amazon Mechanical Turk'; Url = 'https://www.mturk.com/'; Note = '' };
@@ -305,7 +308,7 @@ $g_AWSServices = @{
     'opsworks-cm'                     = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                   = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
     'outposts'                        = [PSCustomObject]@{ Prefix = 'OUTP'; Name = 'AWS Outposts'; Url = 'https://aws.amazon.com/outposts/'; Note = '' };
-    'panorama'                        = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Panorama'; Url = 'https://aws.amazon.com/panorama/'; Note = '' };
+    'panorama'                        = [PSCustomObject]@{ Prefix = 'PAN'; Name = 'AWS Panorama'; Url = 'https://aws.amazon.com/panorama/'; Note = '' };
     'personalize'                     = [PSCustomObject]@{ Prefix = 'PERS'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
     'personalize-events'              = [PSCustomObject]@{ Prefix = 'PERSE'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
     'personalize-runtime'             = [PSCustomObject]@{ Prefix = 'PERSR'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
@@ -325,6 +328,7 @@ $g_AWSServices = @{
     'redshift-data'                   = [PSCustomObject]@{ Prefix = 'RSD'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' }; 
     'redshift'                        = [PSCustomObject]@{ Prefix = 'RS'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' };
     'rekognition'                     = [PSCustomObject]@{ Prefix = 'REK'; Name = 'Amazon Rekognition'; Url = 'https://aws.amazon.com/rekognition/'; Note = '' };
+    'resiliencehub'                   = [PSCustomObject]@{ Prefix = 'RESH'; Name = 'AWS Resilience Hub'; Url = 'https://aws.amazon.com/resilience-hub/'; Note = '' };
     'resource-groups'                 = [PSCustomObject]@{ Prefix = 'RG'; Name = 'AWS Resource Groups'; Url = 'https://aws.amazon.com/'; Note = '' };
     'resourcegroupstaggingapi'        = [PSCustomObject]@{ Prefix = 'RGT'; Name = 'AWS Resource Groups Tagging'; Url = 'https://aws.amazon.com/'; Note = '' };
     'robomaker'                       = [PSCustomObject]@{ Prefix = 'ROBO'; Name = 'AWS RoboMaker'; Url = 'https://aws.amazon.com/robomaker/'; Note = '' };
@@ -407,6 +411,7 @@ $g_CmdletReferenceLinks = @{
     'apigatewaymanagementapi'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html';
     'apigatewayv2'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_V2_cmdlets.html';
     'appconfig'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppConfig_cmdlets.html'
+    'appconfigdata'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppConfigData_cmdlets.html';
     'appflow'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Appflow_cmdlets.html';
     'appintegrations'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppIntegrationsService_cmdlets.html'
     'application-autoscaling'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Auto_Scaling_cmdlets.html';
@@ -476,6 +481,7 @@ $g_CmdletReferenceLinks = @{
     'dlm'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Data_Lifecycle_Manager_cmdlets.html';
     'dms'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Database_Migration_Service_cmdlets.html';
     'docdb'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DocumentDB_cmdlets.html';
+    'drs'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Drs_cmdlets.html';
     'ds'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Directory_Service_cmdlets.html';
     'dynamodb'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html';
     'dynamodbstreams'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html';
@@ -583,6 +589,7 @@ $g_CmdletReferenceLinks = @{
     'mgh'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Migration_Hub_cmdlets.html';
     'mgn'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Mgn_cmdlets.html';
     'migrationhub-config'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubConfig_cmdlets.html';
+    'migrationhubstrategy'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubStrategyRecommendations_cmdlets.html';
     'mobile'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Mobile_cmdlets.html';
     'mq'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MQ_cmdlets.html';
     'mturk'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MTurk_Service_cmdlets.html';
@@ -596,7 +603,7 @@ $g_CmdletReferenceLinks = @{
     'opsworks-cm'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
     'organizations'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html';
     'outposts'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Outposts_cmdlets.html';
-    'panorama'                        = '';
+    'panorama'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Panorama_cmdlets.html';
     'personalize'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_cmdlets.html';
     'personalize-events'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Personalize_Events_cmdlets.html';
     'personalize-runtime'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_Runtime_cmdlets.html';
@@ -616,6 +623,7 @@ $g_CmdletReferenceLinks = @{
     'redshift-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/RedshiftDataAPIService_cmdlets.html';
     'redshift'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Redshift_cmdlets.html';
     'rekognition'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Rekognition_cmdlets.html';
+    'resiliencehub'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ResilienceHub_cmdlets.html';
     'resource-groups'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Groups_cmdlets.html';
     'resourcegroupstaggingapi'        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Groups_Tagging_API_cmdlets.html';
     'robomaker'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RoboMaker_cmdlets.html';

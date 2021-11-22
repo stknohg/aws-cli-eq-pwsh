@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2021-11-06
+date: 2021-11-22
 description: aws storagegateway (AWS Storage Gateway) command/cmdlet list.
 ---
 
@@ -99,7 +99,7 @@ description: aws storagegateway (AWS Storage Gateway) command/cmdlet list.
 |[aws storagegateway update-nfs-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-nfs-file-share.html)|[Update-SGNFSFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGNFSFileShare.html)|
 |[aws storagegateway update-smb-file-share](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-file-share.html)|[Update-SGSMBFileShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBFileShare.html)|
 |[aws storagegateway update-smb-file-share-visibility](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-file-share-visibility.html)|[Update-SGSMBFileShareVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBFileShareVisibility.html)|
-|[aws storagegateway update-smb-local-groups](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-local-groups.html)||
+|[aws storagegateway update-smb-local-groups](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-local-groups.html)|[Update-SGSGSMBLocalGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSGSMBLocalGroup.html)|
 |[aws storagegateway update-smb-security-strategy](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-smb-security-strategy.html)|[Update-SGSMBSecurityStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSMBSecurityStrategy.html)|
 |[aws storagegateway update-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-snapshot-schedule.html)|[Update-SGSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGSnapshotSchedule.html)|
 |[aws storagegateway update-vtl-device-type](https://docs.aws.amazon.com/cli/latest/reference/storagegateway/update-vtl-device-type.html)|[Update-SGVTLDeviceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SGVTLDeviceType.html)|

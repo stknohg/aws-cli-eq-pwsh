@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2021-11-06
+date: 2021-11-22
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -63,7 +63,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-group](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-group.html)|[Get-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroup.html)|
 |[aws quicksight describe-iam-policy-assignment](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-iam-policy-assignment.html)|[Get-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIAMPolicyAssignment.html)|
 |[aws quicksight describe-ingestion](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-ingestion.html)|[Get-QSIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIngestion.html)|
-|[aws quicksight describe-ip-restriction](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-ip-restriction.html)||
+|[aws quicksight describe-ip-restriction](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-ip-restriction.html)|[Get-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIpRestriction.html)|
 |[aws quicksight describe-namespace](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-namespace.html)|[Get-QSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSNamespace.html)|
 |[aws quicksight describe-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template.html)|[Get-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplate.html)|
 |[aws quicksight describe-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template-alias.html)|[Get-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateAlias.html)|
@@ -120,7 +120,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-folder-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-folder-permissions.html)|[Update-QSFolderPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSFolderPermission.html)|
 |[aws quicksight update-group](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-group.html)|[Update-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSGroup.html)|
 |[aws quicksight update-iam-policy-assignment](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-iam-policy-assignment.html)|[Update-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIAMPolicyAssignment.html)|
-|[aws quicksight update-ip-restriction](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-ip-restriction.html)||
+|[aws quicksight update-ip-restriction](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-ip-restriction.html)|[Update-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIpRestriction.html)|
 |[aws quicksight update-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template.html)|[Update-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplate.html)|
 |[aws quicksight update-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template-alias.html)|[Update-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplateAlias.html)|
 |[aws quicksight update-template-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template-permissions.html)|[Update-QSTemplatePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplatePermission.html)|

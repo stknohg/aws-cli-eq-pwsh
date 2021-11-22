@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2021-11-06
+date: 2021-11-22
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -42,6 +42,7 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka update-cluster-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-configuration.html)|[Update-MSKClusterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterConfiguration.html)|
 |[aws kafka update-cluster-kafka-version](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-cluster-kafka-version.html)|[Update-MSKClusterKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKClusterKafkaVersion.html)|
 |[aws kafka update-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-configuration.html)|[Update-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConfiguration.html)|
+|[aws kafka update-connectivity](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-connectivity.html)|[Update-MSKConnectivity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConnectivity.html)|
 |[aws kafka update-monitoring](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-monitoring.html)|[Update-MSKMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKMonitoring.html)|
 |[aws kafka update-security](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-security.html)|[Update-MSKSecurity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKSecurity.html)|
 

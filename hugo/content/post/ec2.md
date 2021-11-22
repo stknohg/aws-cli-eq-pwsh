@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-11-06
+date: 2021-11-22
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -48,7 +48,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 bundle-instance](https://docs.aws.amazon.com/cli/latest/reference/ec2/bundle-instance.html)|[New-EC2InstanceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceBundle.html)|
 |[aws ec2 cancel-bundle-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-bundle-task.html)|[Stop-EC2BundleTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2BundleTask.html)|
 |[aws ec2 cancel-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-capacity-reservation.html)|[Remove-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2CapacityReservation.html)|
-|[aws ec2 cancel-capacity-reservation-fleets](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-capacity-reservation-fleets.html)||
+|[aws ec2 cancel-capacity-reservation-fleets](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-capacity-reservation-fleets.html)|[Stop-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2CapacityReservationFleet.html)|
 |[aws ec2 cancel-conversion-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-conversion-task.html)||
 |[aws ec2 cancel-export-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-export-task.html)|[Stop-EC2ExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ExportTask.html)|
 |[aws ec2 cancel-import-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-import-task.html)|[Stop-EC2ImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ImportTask.html)|
@@ -60,7 +60,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 copy-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/copy-image.html)|[Copy-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-EC2Image.html)|
 |[aws ec2 copy-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/copy-snapshot.html)|[Copy-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-EC2Snapshot.html)|
 |[aws ec2 create-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-capacity-reservation.html)|[Add-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2CapacityReservation.html)|
-|[aws ec2 create-capacity-reservation-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-capacity-reservation-fleet.html)||
+|[aws ec2 create-capacity-reservation-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-capacity-reservation-fleet.html)|[New-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityReservationFleet.html)|
 |[aws ec2 create-carrier-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-carrier-gateway.html)|[New-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CarrierGateway.html)|
 |[aws ec2 create-client-vpn-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-client-vpn-endpoint.html)|[New-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ClientVpnEndpoint.html)|
 |[aws ec2 create-client-vpn-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-client-vpn-route.html)|[New-EC2ClientVpnRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ClientVpnRoute.html)|
@@ -192,7 +192,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-availability-zones](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-availability-zones.html)|[Get-EC2AvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AvailabilityZone.html)|
 |[aws ec2 describe-bundle-tasks](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-bundle-tasks.html)|[Get-EC2BundleTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2BundleTask.html)|
 |[aws ec2 describe-byoip-cidrs](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-byoip-cidrs.html)|[Get-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ByoipCidr.html)|
-|[aws ec2 describe-capacity-reservation-fleets](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-capacity-reservation-fleets.html)||
+|[aws ec2 describe-capacity-reservation-fleets](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-capacity-reservation-fleets.html)|[Get-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationFleet.html)|
 |[aws ec2 describe-capacity-reservations](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-capacity-reservations.html)|[Get-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservation.html)|
 |[aws ec2 describe-carrier-gateways](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-carrier-gateways.html)|[Get-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CarrierGateway.html)|
 |[aws ec2 describe-classic-link-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-classic-link-instances.html)|[Get-EC2ClassicLinkInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ClassicLinkInstance.html)|
@@ -360,14 +360,14 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-flow-logs-integration-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-flow-logs-integration-template.html)|[Get-EC2FlowLogsIntegrationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2FlowLogsIntegrationTemplate.html)|
 |[aws ec2 get-groups-for-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-groups-for-capacity-reservation.html)|[Get-EC2GroupsForCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2GroupsForCapacityReservation.html)|
 |[aws ec2 get-host-reservation-purchase-preview](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|
-|[aws ec2 get-instance-types-from-instance-requirements](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-instance-types-from-instance-requirements.html)||
+|[aws ec2 get-instance-types-from-instance-requirements](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-instance-types-from-instance-requirements.html)|[Get-EC2InstanceTypesFromInstanceRequirement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypesFromInstanceRequirement.html)|
 |[aws ec2 get-launch-template-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-launch-template-data.html)|[Get-EC2LaunchTemplateData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LaunchTemplateData.html)|
 |[aws ec2 get-managed-prefix-list-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-associations.html)|[Get-EC2ManagedPrefixListAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListAssociation.html)|
 |[aws ec2 get-managed-prefix-list-entries](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-entries.html)|[Get-EC2ManagedPrefixListEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListEntry.html)|
 |[aws ec2 get-password-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
 |[aws ec2 get-reserved-instances-exchange-quote](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-reserved-instances-exchange-quote.html)|[Get-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ReservedInstancesExchangeQuote.html)|
 |[aws ec2 get-serial-console-access-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-serial-console-access-status.html)|[Get-EC2SerialConsoleAccessStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SerialConsoleAccessStatus.html)|
-|[aws ec2 get-spot-placement-scores](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-spot-placement-scores.html)||
+|[aws ec2 get-spot-placement-scores](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-spot-placement-scores.html)|[Get-EC2SpotPlacementScore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SpotPlacementScore.html)|
 |[aws ec2 get-subnet-cidr-reservations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-subnet-cidr-reservations.html)|[Get-EC2SubnetCidrReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SubnetCidrReservation.html)|
 |[aws ec2 get-transit-gateway-attachment-propagations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-attachment-propagations.html)|[Get-EC2TransitGatewayAttachmentPropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayAttachmentPropagation.html)|
 |[aws ec2 get-transit-gateway-multicast-domain-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-transit-gateway-multicast-domain-associations.html)|[Get-EC2TransitGatewayMulticastDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TransitGatewayMulticastDomainAssociation.html)|
@@ -383,7 +383,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-address-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-address-attribute.html)|[Edit-EC2AddressAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AddressAttribute.html)|
 |[aws ec2 modify-availability-zone-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-availability-zone-group.html)|[Edit-EC2AvailabilityZoneGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AvailabilityZoneGroup.html)|
 |[aws ec2 modify-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-capacity-reservation.html)|[Edit-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2CapacityReservation.html)|
-|[aws ec2 modify-capacity-reservation-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-capacity-reservation-fleet.html)||
+|[aws ec2 modify-capacity-reservation-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-capacity-reservation-fleet.html)|[Edit-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2CapacityReservationFleet.html)|
 |[aws ec2 modify-client-vpn-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-client-vpn-endpoint.html)|[Edit-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ClientVpnEndpoint.html)|
 |[aws ec2 modify-default-credit-specification](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-default-credit-specification.html)|[Edit-EC2DefaultCreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2DefaultCreditSpecification.html)|
 |[aws ec2 modify-ebs-default-kms-key-id](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ebs-default-kms-key-id.html)|[Edit-EC2EbsDefaultKmsKeyId](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2EbsDefaultKmsKeyId.html)|

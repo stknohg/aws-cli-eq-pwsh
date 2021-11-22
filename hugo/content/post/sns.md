@@ -1,6 +1,6 @@
 ---
 title: sns
-date: 2021-11-06
+date: 2021-11-22
 description: aws sns (Amazon Simple Notification Service) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws sns (Amazon Simple Notification Service) command/cmdlet list.
 |[aws sns list-topics](https://docs.aws.amazon.com/cli/latest/reference/sns/list-topics.html)|[Get-SNSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSTopic.html)|
 |[aws sns opt-in-phone-number](https://docs.aws.amazon.com/cli/latest/reference/sns/opt-in-phone-number.html)|[Enable-SNSPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SNSPhoneNumber.html)|
 |[aws sns publish](https://docs.aws.amazon.com/cli/latest/reference/sns/publish.html)|[Publish-SNSMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SNSMessage.html)|
+|[aws sns publish-batch](https://docs.aws.amazon.com/cli/latest/reference/sns/publish-batch.html)|[Publish-SNSBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SNSBatch.html)|
 |[aws sns remove-permission](https://docs.aws.amazon.com/cli/latest/reference/sns/remove-permission.html)|[Remove-SNSPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSPermission.html)|
 |[aws sns set-endpoint-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/set-endpoint-attributes.html)|[Set-SNSEndpointAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSEndpointAttribute.html)|
 |[aws sns set-platform-application-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/set-platform-application-attributes.html)|[Set-SNSPlatformApplicationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSPlatformApplicationAttribute.html)|

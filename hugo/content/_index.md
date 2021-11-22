@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-11-06
+date: 2021-11-22
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.3.4 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.15.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.4.0 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.16.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -32,6 +32,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
 |[AWS AppConfig](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfig]({{%relref "post/appconfig.md" %}})|APPC||
+|[AWS AppConfig Data](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfigdata]({{%relref "post/appconfigdata.md" %}})|ACD||
 |[Amazon AppFlow](https://aws.amazon.com/appflow/)|[appflow]({{%relref "post/appflow.md" %}})|AF||
 |[Amazon AppIntegrations APIs](https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html)|[appintegrations]({{%relref "post/appintegrations.md" %}})|AIS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
@@ -102,6 +103,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Data Lifecycle Manager](https://aws.amazon.com/ebs/)|[dlm]({{%relref "post/dlm.md" %}})|DLM||
 |[AWS Database Migration Service](https://aws.amazon.com/dms/)|[dms]({{%relref "post/dms.md" %}})|DMS||
 |[Amazon DocumentDB](https://aws.amazon.com/documentdb/)|[docdb]({{%relref "post/docdb.md" %}})|DOC||
+|[AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)|[drs]({{%relref "post/drs.md" %}})|EDRS||
 |[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds]({{%relref "post/ds.md" %}})|DS||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[dynamodb]({{%relref "post/dynamodb.md" %}})|DDB||
 |[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|DDB||
@@ -209,6 +211,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||
 |[AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)|[mgn]({{%relref "post/mgn.md" %}})|MGN||
 |[AWS Migration Hub Config](https://aws.amazon.com/migration-hub/)|[migrationhub-config]({{%relref "post/migrationhub-config.md" %}})|MHC||
+|[AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/migration-hub/)|[migrationhubstrategy]({{%relref "post/migrationhubstrategy.md" %}})|MHS||
 |[AWS Mobile](https://aws.amazon.com/amplify/)|[mobile]({{%relref "post/mobile.md" %}})|MOBL||
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||
 |[Amazon Mechanical Turk](https://www.mturk.com/)|[mturk]({{%relref "post/mturk.md" %}})|MTR||
@@ -222,7 +225,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
 |[AWS Outposts](https://aws.amazon.com/outposts/)|[outposts]({{%relref "post/outposts.md" %}})|OUTP||
-|[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|||
+|[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|PAN||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|PERS||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|PERSE||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|PERSR||
@@ -242,6 +245,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift]({{%relref "post/redshift.md" %}})|RS||
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift-data]({{%relref "post/redshift-data.md" %}})|RSD||
 |[Amazon Rekognition](https://aws.amazon.com/rekognition/)|[rekognition]({{%relref "post/rekognition.md" %}})|REK||
+|[AWS Resilience Hub](https://aws.amazon.com/resilience-hub/)|[resiliencehub]({{%relref "post/resiliencehub.md" %}})|RESH||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
 |[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||

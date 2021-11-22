@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2021-11-06
+date: 2021-11-22
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -16,7 +16,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker add-association](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/add-association.html)|[Add-SMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMAssociation.html)|
 |[aws sagemaker add-tags](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/add-tags.html)|[Add-SMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMResourceTag.html)|
 |[aws sagemaker associate-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/associate-trial-component.html)|[Register-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMTrialComponent.html)|
-|[aws sagemaker batch-describe-model-package](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/batch-describe-model-package.html)||
+|[aws sagemaker batch-describe-model-package](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/batch-describe-model-package.html)|[Get-SMDescribeModelPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMDescribeModelPackage.html)|
 |[aws sagemaker create-action](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-action.html)|[New-SMAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAction.html)|
 |[aws sagemaker create-algorithm](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-algorithm.html)|[New-SMAlgorithm](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAlgorithm.html)|
 |[aws sagemaker create-app](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-app.html)|[New-SMApp](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMApp.html)|
@@ -248,7 +248,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker update-notebook-instance-lifecycle-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-notebook-instance-lifecycle-config.html)|[Update-SMNotebookInstanceLifecycleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMNotebookInstanceLifecycleConfig.html)|
 |[aws sagemaker update-pipeline](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-pipeline.html)|[Update-SMPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMPipeline.html)|
 |[aws sagemaker update-pipeline-execution](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-pipeline-execution.html)|[Update-SMPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMPipelineExecution.html)|
-|[aws sagemaker update-project](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-project.html)||
+|[aws sagemaker update-project](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-project.html)|[Update-SMProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMProject.html)|
 |[aws sagemaker update-training-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-training-job.html)|[Update-SMTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMTrainingJob.html)|
 |[aws sagemaker update-trial](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-trial.html)|[Update-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMTrial.html)|
 |[aws sagemaker update-trial-component](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-trial-component.html)|[Update-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMTrialComponent.html)|

@@ -1,6 +1,6 @@
 ---
 title: servicediscovery
-date: 2021-11-06
+date: 2021-11-22
 description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet list.
 ---
 

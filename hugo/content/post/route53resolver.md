@@ -1,6 +1,6 @@
 ---
 title: route53resolver
-date: 2021-11-06
+date: 2021-11-22
 description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 ---
 
@@ -38,7 +38,7 @@ description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 |[aws route53resolver get-firewall-rule-group](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-firewall-rule-group.html)|[Get-R53RFirewallRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroup.html)|
 |[aws route53resolver get-firewall-rule-group-association](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-firewall-rule-group-association.html)|[Get-R53RFirewallRuleGroupAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupAssociation.html)|
 |[aws route53resolver get-firewall-rule-group-policy](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-firewall-rule-group-policy.html)|[Get-R53RFirewallRuleGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupPolicy.html)|
-|[aws route53resolver get-resolver-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-resolver-config.html)||
+|[aws route53resolver get-resolver-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-resolver-config.html)|[Get-R53RResolverConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverConfig.html)|
 |[aws route53resolver get-resolver-dnssec-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-resolver-dnssec-config.html)|[Get-R53RResolverDnssecConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverDnssecConfig.html)|
 |[aws route53resolver get-resolver-endpoint](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-resolver-endpoint.html)|[Get-R53RResolverEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverEndpoint.html)|
 |[aws route53resolver get-resolver-query-log-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/get-resolver-query-log-config.html)|[Get-R53RResolverQueryLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverQueryLogConfig.html)|
@@ -54,7 +54,7 @@ description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 |[aws route53resolver list-firewall-rule-group-associations](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-firewall-rule-group-associations.html)|[Get-R53RFirewallRuleGroupAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupAssociationList.html)|
 |[aws route53resolver list-firewall-rule-groups](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-firewall-rule-groups.html)|[Get-R53RFirewallRuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupList.html)|
 |[aws route53resolver list-firewall-rules](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-firewall-rules.html)|[Get-R53RFirewallRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleList.html)|
-|[aws route53resolver list-resolver-configs](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-resolver-configs.html)||
+|[aws route53resolver list-resolver-configs](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-resolver-configs.html)|[Get-R53RResolverConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverConfigList.html)|
 |[aws route53resolver list-resolver-dnssec-configs](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-resolver-dnssec-configs.html)|[Get-R53RResolverDnssecConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverDnssecConfigList.html)|
 |[aws route53resolver list-resolver-endpoint-ip-addresses](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-resolver-endpoint-ip-addresses.html)|[Get-R53RResolverEndpointIpAddressList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverEndpointIpAddressList.html)|
 |[aws route53resolver list-resolver-endpoints](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/list-resolver-endpoints.html)|[Get-R53RResolverEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverEndpointList.html)|
@@ -72,7 +72,7 @@ description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 |[aws route53resolver update-firewall-domains](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-firewall-domains.html)|[Edit-R53RFirewallDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53RFirewallDomain.html)|
 |[aws route53resolver update-firewall-rule](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-firewall-rule.html)|[Edit-R53RFirewallRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53RFirewallRule.html)|
 |[aws route53resolver update-firewall-rule-group-association](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-firewall-rule-group-association.html)|[Edit-R53RFirewallRuleGroupAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53RFirewallRuleGroupAssociation.html)|
-|[aws route53resolver update-resolver-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-resolver-config.html)||
+|[aws route53resolver update-resolver-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-resolver-config.html)|[Update-R53RResolverConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RResolverConfig.html)|
 |[aws route53resolver update-resolver-dnssec-config](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-resolver-dnssec-config.html)|[Update-R53RResolverDnssecConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RResolverDnssecConfig.html)|
 |[aws route53resolver update-resolver-endpoint](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-resolver-endpoint.html)|[Update-R53RResolverEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RResolverEndpoint.html)|
 |[aws route53resolver update-resolver-rule](https://docs.aws.amazon.com/cli/latest/reference/route53resolver/update-resolver-rule.html)|[Update-R53RResolverRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RResolverRule.html)|

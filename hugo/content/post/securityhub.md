@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2021-11-06
+date: 2021-11-22
 description: aws securityhub (AWS Security Hub) command/cmdlet list.
 ---
 
@@ -20,12 +20,12 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub batch-import-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-import-findings.html)|[Import-SHUBFindingsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SHUBFindingsBatch.html)|
 |[aws securityhub batch-update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-update-findings.html)|[Update-SHUBFindingsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFindingsBatch.html)|
 |[aws securityhub create-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-action-target.html)|[New-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBActionTarget.html)|
-|[aws securityhub create-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-finding-aggregator.html)||
+|[aws securityhub create-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-finding-aggregator.html)|[New-SHUBFindingAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBFindingAggregator.html)|
 |[aws securityhub create-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-insight.html)|[New-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBInsight.html)|
 |[aws securityhub create-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-members.html)|[New-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBMember.html)|
 |[aws securityhub decline-invitations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/decline-invitations.html)|[Deny-SHUBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-SHUBInvitation.html)|
 |[aws securityhub delete-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-action-target.html)|[Remove-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBActionTarget.html)|
-|[aws securityhub delete-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-finding-aggregator.html)||
+|[aws securityhub delete-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-finding-aggregator.html)|[Remove-SHUBFindingAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBFindingAggregator.html)|
 |[aws securityhub delete-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-insight.html)|[Remove-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBInsight.html)|
 |[aws securityhub delete-invitations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-invitations.html)|[Remove-SHUBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBInvitation.html)|
 |[aws securityhub delete-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/delete-members.html)|[Remove-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMember.html)|
@@ -46,7 +46,7 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub enable-security-hub](https://docs.aws.amazon.com/cli/latest/reference/securityhub/enable-security-hub.html)|[Enable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBSecurityHub.html)|
 |[aws securityhub get-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-administrator-account.html)|[Get-SHUBAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAdministratorAccount.html)|
 |[aws securityhub get-enabled-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-enabled-standards.html)|[Get-SHUBEnabledStandard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledStandard.html)|
-|[aws securityhub get-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-finding-aggregator.html)||
+|[aws securityhub get-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-finding-aggregator.html)|[Get-SHUBFindingAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFindingAggregator.html)|
 |[aws securityhub get-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-findings.html)|[Get-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFinding.html)|
 |[aws securityhub get-insight-results](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-insight-results.html)|[Get-SHUBInsightResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsightResult.html)|
 |[aws securityhub get-insights](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-insights.html)|[Get-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsight.html)|
@@ -55,7 +55,7 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub get-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-members.html)|[Get-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMember.html)|
 |[aws securityhub invite-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/invite-members.html)|[Send-SHUBMemberInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SHUBMemberInvitation.html)|
 |[aws securityhub list-enabled-products-for-import](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-enabled-products-for-import.html)|[Get-SHUBEnabledProductsForImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledProductsForImportList.html)|
-|[aws securityhub list-finding-aggregators](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-finding-aggregators.html)||
+|[aws securityhub list-finding-aggregators](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-finding-aggregators.html)|[Get-SHUBFindingAggregatorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFindingAggregatorList.html)|
 |[aws securityhub list-invitations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-invitations.html)|[Get-SHUBInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationList.html)|
 |[aws securityhub list-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-members.html)|[Get-SHUBMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMemberList.html)|
 |[aws securityhub list-organization-admin-accounts](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-organization-admin-accounts.html)|[Get-SHUBOrganizationAdminAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBOrganizationAdminAccountList.html)|
@@ -63,7 +63,7 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub tag-resource](https://docs.aws.amazon.com/cli/latest/reference/securityhub/tag-resource.html)|[Add-SHUBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SHUBResourceTag.html)|
 |[aws securityhub untag-resource](https://docs.aws.amazon.com/cli/latest/reference/securityhub/untag-resource.html)|[Remove-SHUBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBResourceTag.html)|
 |[aws securityhub update-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-action-target.html)|[Update-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBActionTarget.html)|
-|[aws securityhub update-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-finding-aggregator.html)||
+|[aws securityhub update-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-finding-aggregator.html)|[Update-SHUBFindingAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFindingAggregator.html)|
 |[aws securityhub update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-findings.html)|[Update-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFinding.html)|
 |[aws securityhub update-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-insight.html)|[Update-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBInsight.html)|
 |[aws securityhub update-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/securityhub/update-organization-configuration.html)|[Update-SHUBOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBOrganizationConfiguration.html)|

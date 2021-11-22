@@ -1,6 +1,6 @@
 ---
 title: ivs
-date: 2021-11-06
+date: 2021-11-22
 description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 ---
 
@@ -27,11 +27,13 @@ description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 |[aws ivs get-recording-configuration](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-recording-configuration.html)|[Get-IVSRecordingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRecordingConfiguration.html)|
 |[aws ivs get-stream](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-stream.html)|[Get-IVSStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStream.html)|
 |[aws ivs get-stream-key](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-stream-key.html)|[Get-IVSStreamKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamKey.html)|
+|[aws ivs get-stream-session](https://docs.aws.amazon.com/cli/latest/reference/ivs/get-stream-session.html)|[Get-IVSStreamSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamSession.html)|
 |[aws ivs import-playback-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ivs/import-playback-key-pair.html)|[Import-IVSPlaybackKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-IVSPlaybackKeyPair.html)|
 |[aws ivs list-channels](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-channels.html)|[Get-IVSChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSChannelList.html)|
 |[aws ivs list-playback-key-pairs](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-playback-key-pairs.html)|[Get-IVSPlaybackKeyPairList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSPlaybackKeyPairList.html)|
 |[aws ivs list-recording-configurations](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-recording-configurations.html)|[Get-IVSRecordingConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRecordingConfigurationList.html)|
 |[aws ivs list-stream-keys](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-stream-keys.html)|[Get-IVSStreamKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamKeyList.html)|
+|[aws ivs list-stream-sessions](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-stream-sessions.html)|[Get-IVSStreamSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamSessionList.html)|
 |[aws ivs list-streams](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-streams.html)|[Get-IVSStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamList.html)|
 |[aws ivs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ivs/list-tags-for-resource.html)|[Get-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSResourceTag.html)|
 |[aws ivs put-metadata](https://docs.aws.amazon.com/cli/latest/reference/ivs/put-metadata.html)|[Write-IVSMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IVSMetadata.html)|

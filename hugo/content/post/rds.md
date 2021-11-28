@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2021-11-22
+date: 2021-11-28
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -129,6 +129,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds promote-read-replica](https://docs.aws.amazon.com/cli/latest/reference/rds/promote-read-replica.html)|[Convert-RDSReadReplicaToStandalone](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaToStandalone.html)|
 |[aws rds promote-read-replica-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/promote-read-replica-db-cluster.html)|[Convert-RDSReadReplicaDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaDBCluster.html)|
 |[aws rds purchase-reserved-db-instances-offering](https://docs.aws.amazon.com/cli/latest/reference/rds/purchase-reserved-db-instances-offering.html)|[New-RDSReservedDBInstancesOfferingPurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSReservedDBInstancesOfferingPurchase.html)|
+|[aws rds reboot-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/reboot-db-cluster.html)||
 |[aws rds reboot-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/reboot-db-instance.html)|[Restart-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RDSDBInstance.html)|
 |[aws rds register-db-proxy-targets](https://docs.aws.amazon.com/cli/latest/reference/rds/register-db-proxy-targets.html)|[Register-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-RDSDBProxyTarget.html)|
 |[aws rds remove-from-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/remove-from-global-cluster.html)|[Remove-RDSFromGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSFromGlobalCluster.html)|

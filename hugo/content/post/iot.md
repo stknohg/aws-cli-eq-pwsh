@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2021-11-22
+date: 2021-11-28
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -110,6 +110,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot describe-job](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-job.html)|[Get-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJob.html)|
 |[aws iot describe-job-execution](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-job-execution.html)|[Get-IOTJobExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobExecution.html)|
 |[aws iot describe-job-template](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-job-template.html)|[Get-IOTJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobTemplate.html)|
+|[aws iot describe-managed-job-template](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-managed-job-template.html)||
 |[aws iot describe-mitigation-action](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-mitigation-action.html)|[Get-IOTMitigationAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMitigationAction.html)|
 |[aws iot describe-provisioning-template](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-provisioning-template.html)|[Get-IOTProvisioningTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplate.html)|
 |[aws iot describe-provisioning-template-version](https://docs.aws.amazon.com/cli/latest/reference/iot/describe-provisioning-template-version.html)|[Get-IOTProvisioningTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateVersion.html)|
@@ -166,6 +167,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-job-executions-for-thing](https://docs.aws.amazon.com/cli/latest/reference/iot/list-job-executions-for-thing.html)|[Get-IOTJobExecutionsForThingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobExecutionsForThingList.html)|
 |[aws iot list-job-templates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-job-templates.html)|[Get-IOTJobTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobTemplateList.html)|
 |[aws iot list-jobs](https://docs.aws.amazon.com/cli/latest/reference/iot/list-jobs.html)|[Get-IOTJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobList.html)|
+|[aws iot list-managed-job-templates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-managed-job-templates.html)||
 |[aws iot list-mitigation-actions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-mitigation-actions.html)|[Get-IOTMitigationActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMitigationActionList.html)|
 |[aws iot list-ota-updates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-ota-updates.html)|[Get-IOTOTAUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOTAUpdateList.html)|
 |[aws iot list-outgoing-certificates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-outgoing-certificates.html)|[Get-IOTOutgoingCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOutgoingCertificate.html)|

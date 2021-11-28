@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2021-11-22
+date: 2021-11-28
 description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 ---
 
@@ -13,10 +13,13 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws appstream associate-application-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/associate-application-fleet.html)||
 |[aws appstream associate-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/associate-fleet.html)|[Register-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-APSFleet.html)|
 |[aws appstream batch-associate-user-stack](https://docs.aws.amazon.com/cli/latest/reference/appstream/batch-associate-user-stack.html)|[Register-APSUserStackBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-APSUserStackBatch.html)|
 |[aws appstream batch-disassociate-user-stack](https://docs.aws.amazon.com/cli/latest/reference/appstream/batch-disassociate-user-stack.html)|[Unregister-APSUserStackBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-APSUserStackBatch.html)|
 |[aws appstream copy-image](https://docs.aws.amazon.com/cli/latest/reference/appstream/copy-image.html)|[Copy-APSImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-APSImage.html)|
+|[aws appstream create-app-block](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-app-block.html)||
+|[aws appstream create-application](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-application.html)||
 |[aws appstream create-directory-config](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-directory-config.html)|[New-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSDirectoryConfig.html)|
 |[aws appstream create-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-fleet.html)|[New-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSFleet.html)|
 |[aws appstream create-image-builder](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-image-builder.html)|[New-APSImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImageBuilder.html)|
@@ -26,6 +29,8 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream create-updated-image](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-updated-image.html)|[New-APSUpdatedImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUpdatedImage.html)|
 |[aws appstream create-usage-report-subscription](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-usage-report-subscription.html)|[New-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUsageReportSubscription.html)|
 |[aws appstream create-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/create-user.html)|[New-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUser.html)|
+|[aws appstream delete-app-block](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-app-block.html)||
+|[aws appstream delete-application](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-application.html)||
 |[aws appstream delete-directory-config](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-directory-config.html)|[Remove-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSDirectoryConfig.html)|
 |[aws appstream delete-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-fleet.html)|[Remove-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSFleet.html)|
 |[aws appstream delete-image](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-image.html)|[Remove-APSImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSImage.html)|
@@ -34,6 +39,9 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream delete-stack](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-stack.html)|[Remove-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSStack.html)|
 |[aws appstream delete-usage-report-subscription](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-usage-report-subscription.html)|[Remove-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSUsageReportSubscription.html)|
 |[aws appstream delete-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/delete-user.html)|[Remove-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSUser.html)|
+|[aws appstream describe-app-blocks](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-app-blocks.html)||
+|[aws appstream describe-application-fleet-associations](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-application-fleet-associations.html)||
+|[aws appstream describe-applications](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-applications.html)||
 |[aws appstream describe-directory-configs](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-directory-configs.html)|[Get-APSDirectoryConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSDirectoryConfigList.html)|
 |[aws appstream describe-fleets](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-fleets.html)|[Get-APSFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSFleetList.html)|
 |[aws appstream describe-image-builders](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-image-builders.html)|[Get-APSImageBuilderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSImageBuilderList.html)|
@@ -45,6 +53,7 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream describe-user-stack-associations](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-user-stack-associations.html)|[Get-APSUserStackAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUserStackAssociation.html)|
 |[aws appstream describe-users](https://docs.aws.amazon.com/cli/latest/reference/appstream/describe-users.html)|[Get-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUser.html)|
 |[aws appstream disable-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/disable-user.html)|[Disable-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-APSUser.html)|
+|[aws appstream disassociate-application-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/disassociate-application-fleet.html)||
 |[aws appstream disassociate-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/disassociate-fleet.html)|[Unregister-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-APSFleet.html)|
 |[aws appstream enable-user](https://docs.aws.amazon.com/cli/latest/reference/appstream/enable-user.html)|[Enable-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-APSUser.html)|
 |[aws appstream expire-session](https://docs.aws.amazon.com/cli/latest/reference/appstream/expire-session.html)|[Revoke-APSSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-APSSession.html)|
@@ -57,6 +66,7 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream stop-image-builder](https://docs.aws.amazon.com/cli/latest/reference/appstream/stop-image-builder.html)|[Stop-APSImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-APSImageBuilder.html)|
 |[aws appstream tag-resource](https://docs.aws.amazon.com/cli/latest/reference/appstream/tag-resource.html)|[Add-APSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-APSResourceTag.html)|
 |[aws appstream untag-resource](https://docs.aws.amazon.com/cli/latest/reference/appstream/untag-resource.html)|[Remove-APSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSResourceTag.html)|
+|[aws appstream update-application](https://docs.aws.amazon.com/cli/latest/reference/appstream/update-application.html)||
 |[aws appstream update-directory-config](https://docs.aws.amazon.com/cli/latest/reference/appstream/update-directory-config.html)|[Update-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSDirectoryConfig.html)|
 |[aws appstream update-fleet](https://docs.aws.amazon.com/cli/latest/reference/appstream/update-fleet.html)|[Update-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSFleet.html)|
 |[aws appstream update-image-permissions](https://docs.aws.amazon.com/cli/latest/reference/appstream/update-image-permissions.html)|[Update-APSImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSImagePermission.html)|

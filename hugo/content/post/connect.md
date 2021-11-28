@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2021-11-22
+date: 2021-11-28
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-security-key](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-security-key.html)|[Add-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNSecurityKey.html)|
 |[aws connect create-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/create-agent-status.html)|[New-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNAgentStatus.html)|
 |[aws connect create-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/create-contact-flow.html)|[New-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlow.html)|
+|[aws connect create-contact-flow-module](https://docs.aws.amazon.com/cli/latest/reference/connect/create-contact-flow-module.html)||
 |[aws connect create-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/create-hours-of-operation.html)|[New-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNHoursOfOperation.html)|
 |[aws connect create-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/create-instance.html)|[New-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNInstance.html)|
 |[aws connect create-integration-association](https://docs.aws.amazon.com/cli/latest/reference/connect/create-integration-association.html)|[New-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNIntegrationAssociation.html)|
@@ -33,6 +34,8 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/create-use-case.html)|[New-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUseCase.html)|
 |[aws connect create-user](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user.html)|[New-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUser.html)|
 |[aws connect create-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user-hierarchy-group.html)|[New-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUserHierarchyGroup.html)|
+|[aws connect delete-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-contact-flow.html)||
+|[aws connect delete-contact-flow-module](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-contact-flow-module.html)||
 |[aws connect delete-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-hours-of-operation.html)|[Remove-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNHoursOfOperation.html)|
 |[aws connect delete-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-instance.html)|[Remove-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstance.html)|
 |[aws connect delete-integration-association](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-integration-association.html)|[Remove-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNIntegrationAssociation.html)|
@@ -44,6 +47,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect describe-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-agent-status.html)|[Get-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatus.html)|
 |[aws connect describe-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-contact.html)|[Get-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContact.html)|
 |[aws connect describe-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-contact-flow.html)|[Get-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlow.html)|
+|[aws connect describe-contact-flow-module](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-contact-flow-module.html)||
 |[aws connect describe-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-hours-of-operation.html)|[Get-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNHoursOfOperation.html)|
 |[aws connect describe-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-instance.html)|[Get-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNInstance.html)|
 |[aws connect describe-instance-attribute](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-instance-attribute.html)|[Get-CONNInstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNInstanceAttribute.html)|
@@ -70,6 +74,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-agent-statuses](https://docs.aws.amazon.com/cli/latest/reference/connect/list-agent-statuses.html)|[Get-CONNAgentStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatusList.html)|
 |[aws connect list-approved-origins](https://docs.aws.amazon.com/cli/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
 |[aws connect list-bots](https://docs.aws.amazon.com/cli/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
+|[aws connect list-contact-flow-modules](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-flow-modules.html)||
 |[aws connect list-contact-flows](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-flows.html)|[Get-CONNContactFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowList.html)|
 |[aws connect list-contact-references](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-references.html)|[Get-CONNContactReferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactReferenceList.html)|
 |[aws connect list-hours-of-operations](https://docs.aws.amazon.com/cli/latest/reference/connect/list-hours-of-operations.html)|[Get-CONNHoursOfOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNHoursOfOperationList.html)|
@@ -109,6 +114,9 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact.html)|[Update-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContact.html)|
 |[aws connect update-contact-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-attributes.html)|[Update-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactAttribute.html)|
 |[aws connect update-contact-flow-content](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-content.html)|[Update-CONNContactFlowContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactFlowContent.html)|
+|[aws connect update-contact-flow-metadata](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-metadata.html)||
+|[aws connect update-contact-flow-module-content](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-module-content.html)||
+|[aws connect update-contact-flow-module-metadata](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-module-metadata.html)||
 |[aws connect update-contact-flow-name](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-flow-name.html)|[Update-CONNContactFlowName](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactFlowName.html)|
 |[aws connect update-contact-schedule](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact-schedule.html)|[Update-CONNContactSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactSchedule.html)|
 |[aws connect update-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/update-hours-of-operation.html)|[Update-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNHoursOfOperation.html)|

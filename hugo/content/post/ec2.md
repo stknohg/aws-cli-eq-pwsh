@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-11-22
+date: 2021-11-28
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -403,6 +403,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-launch-template.html)|[Edit-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LaunchTemplate.html)|
 |[aws ec2 modify-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-managed-prefix-list.html)|[Edit-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedPrefixList.html)|
 |[aws ec2 modify-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
+|[aws ec2 modify-private-dns-name-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-private-dns-name-options.html)||
 |[aws ec2 modify-reserved-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-reserved-instances.html)|[Edit-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ReservedInstance.html)|
 |[aws ec2 modify-security-group-rules](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-security-group-rules.html)|[Edit-EC2SecurityGroupRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SecurityGroupRule.html)|
 |[aws ec2 modify-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-snapshot-attribute.html)|[Edit-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SnapshotAttribute.html)|

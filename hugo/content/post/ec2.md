@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-11-28
+date: 2021-12-01
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -271,6 +271,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-security-group-rules](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-security-group-rules.html)|[Get-EC2SecurityGroupRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupRule.html)|
 |[aws ec2 describe-security-groups](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-security-groups.html)|[Get-EC2SecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroup.html)|
 |[aws ec2 describe-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-snapshot-attribute.html)|[Get-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SnapshotAttribute.html)|
+|[aws ec2 describe-snapshot-tier-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-snapshot-tier-status.html)||
 |[aws ec2 describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-snapshots.html)|[Get-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Snapshot.html)|
 |[aws ec2 describe-spot-datafeed-subscription](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-spot-datafeed-subscription.html)|[Get-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SpotDatafeedSubscription.html)|
 |[aws ec2 describe-spot-fleet-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-spot-fleet-instances.html)|[Get-EC2SpotFleetInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SpotFleetInstance.html)|
@@ -380,6 +381,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 import-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-image.html)|[Import-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Image.html)|
 |[aws ec2 import-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-key-pair.html)|[Import-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2KeyPair.html)|
 |[aws ec2 import-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-snapshot.html)|[Import-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Snapshot.html)|
+|[aws ec2 list-snapshots-in-recycle-bin](https://docs.aws.amazon.com/cli/latest/reference/ec2/list-snapshots-in-recycle-bin.html)||
 |[aws ec2 modify-address-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-address-attribute.html)|[Edit-EC2AddressAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AddressAttribute.html)|
 |[aws ec2 modify-availability-zone-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-availability-zone-group.html)|[Edit-EC2AvailabilityZoneGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AvailabilityZoneGroup.html)|
 |[aws ec2 modify-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-capacity-reservation.html)|[Edit-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2CapacityReservation.html)|
@@ -407,6 +409,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-reserved-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-reserved-instances.html)|[Edit-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ReservedInstance.html)|
 |[aws ec2 modify-security-group-rules](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-security-group-rules.html)|[Edit-EC2SecurityGroupRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SecurityGroupRule.html)|
 |[aws ec2 modify-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-snapshot-attribute.html)|[Edit-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SnapshotAttribute.html)|
+|[aws ec2 modify-snapshot-tier](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-snapshot-tier.html)||
 |[aws ec2 modify-spot-fleet-request](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-spot-fleet-request.html)|[Edit-EC2SpotFleetRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SpotFleetRequest.html)|
 |[aws ec2 modify-subnet-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-subnet-attribute.html)|[Edit-EC2SubnetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SubnetAttribute.html)|
 |[aws ec2 modify-traffic-mirror-filter-network-services](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-traffic-mirror-filter-network-services.html)|[Edit-EC2TrafficMirrorFilterNetworkService](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2TrafficMirrorFilterNetworkService.html)|
@@ -464,6 +467,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 reset-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-snapshot-attribute.html)|[Reset-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2SnapshotAttribute.html)|
 |[aws ec2 restore-address-to-classic](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-address-to-classic.html)|[Restore-EC2AddressToClassic](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2AddressToClassic.html)|
 |[aws ec2 restore-managed-prefix-list-version](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-managed-prefix-list-version.html)|[Restore-EC2ManagedPrefixListVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2ManagedPrefixListVersion.html)|
+|[aws ec2 restore-snapshot-from-recycle-bin](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-snapshot-from-recycle-bin.html)||
+|[aws ec2 restore-snapshot-tier](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-snapshot-tier.html)||
 |[aws ec2 revoke-client-vpn-ingress](https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-client-vpn-ingress.html)|[Revoke-EC2ClientVpnIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EC2ClientVpnIngress.html)|
 |[aws ec2 revoke-security-group-egress](https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-security-group-egress.html)|[Revoke-EC2SecurityGroupEgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EC2SecurityGroupEgress.html)|
 |[aws ec2 revoke-security-group-ingress](https://docs.aws.amazon.com/cli/latest/reference/ec2/revoke-security-group-ingress.html)|[Revoke-EC2SecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EC2SecurityGroupIngress.html)|

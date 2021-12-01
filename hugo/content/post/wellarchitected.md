@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2021-11-28
+date: 2021-12-01
 description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list.
 ---
 
@@ -14,21 +14,29 @@ description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws wellarchitected associate-lenses](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/associate-lenses.html)|[Add-WATLense](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WATLense.html)|
+|[aws wellarchitected create-lens-share](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-lens-share.html)||
+|[aws wellarchitected create-lens-version](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-lens-version.html)||
 |[aws wellarchitected create-milestone](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-milestone.html)|[New-WATMilestone](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WATMilestone.html)|
 |[aws wellarchitected create-workload](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-workload.html)|[New-WATWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WATWorkload.html)|
 |[aws wellarchitected create-workload-share](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/create-workload-share.html)|[New-WATWorkloadShare](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WATWorkloadShare.html)|
+|[aws wellarchitected delete-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/delete-lens.html)||
+|[aws wellarchitected delete-lens-share](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/delete-lens-share.html)||
 |[aws wellarchitected delete-workload](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/delete-workload.html)|[Remove-WATWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATWorkload.html)|
 |[aws wellarchitected delete-workload-share](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/delete-workload-share.html)|[Remove-WATWorkloadShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATWorkloadShare.html)|
 |[aws wellarchitected disassociate-lenses](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/disassociate-lenses.html)|[Remove-WATLense](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATLense.html)|
+|[aws wellarchitected export-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/export-lens.html)||
 |[aws wellarchitected get-answer](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-answer.html)|[Get-WATAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswer.html)|
+|[aws wellarchitected get-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens.html)||
 |[aws wellarchitected get-lens-review](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-review.html)|[Get-WATLensReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReview.html)|
 |[aws wellarchitected get-lens-review-report](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-review-report.html)|[Get-WATLensReviewReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewReport.html)|
 |[aws wellarchitected get-lens-version-difference](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-version-difference.html)|[Get-WATLensVersionDifference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensVersionDifference.html)|
 |[aws wellarchitected get-milestone](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-milestone.html)|[Get-WATMilestone](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATMilestone.html)|
 |[aws wellarchitected get-workload](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-workload.html)|[Get-WATWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkload.html)|
+|[aws wellarchitected import-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/import-lens.html)||
 |[aws wellarchitected list-answers](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-answers.html)|[Get-WATAnswerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswerList.html)|
 |[aws wellarchitected list-lens-review-improvements](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-review-improvements.html)|[Get-WATLensReviewImprovementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewImprovementList.html)|
 |[aws wellarchitected list-lens-reviews](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-reviews.html)|[Get-WATLensReviewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewList.html)|
+|[aws wellarchitected list-lens-shares](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-shares.html)||
 |[aws wellarchitected list-lenses](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lenses.html)|[Get-WATLenseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLenseList.html)|
 |[aws wellarchitected list-milestones](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-milestones.html)|[Get-WATMilestoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATMilestoneList.html)|
 |[aws wellarchitected list-notifications](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-notifications.html)|[Get-WATNotificationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATNotificationList.html)|

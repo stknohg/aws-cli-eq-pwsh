@@ -1,6 +1,6 @@
 ---
 title: mediatailor
-date: 2021-11-28
+date: 2021-12-01
 description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 ---
 

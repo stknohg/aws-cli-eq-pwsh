@@ -208,6 +208,7 @@ $g_AWSServices = @{
     'emr'                             = [PSCustomObject]@{ Prefix = 'EMR'; Name = 'Amazon EMR'; Url = 'https://aws.amazon.com/emr/'; Note = '' };
     'es'                              = [PSCustomObject]@{ Prefix = 'ES'; Name = 'Amazon Elasticsearch Service'; Url = 'https://aws.amazon.com/elasticsearch-service/'; Note = '' };
     'events'                          = [PSCustomObject]@{ Prefix = 'CWE'; Name = 'Amazon CloudWatch Events'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
+    'evidently'                       = [PSCustomObject]@{ Prefix = ''; Name = ' Amazon CloudWatch Evidently'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'finspace'                        = [PSCustomObject]@{ Prefix = 'FINSP'; Name = 'Amazon FinSpace'; Url = 'https://aws.amazon.com/finspace/'; Note = '' };
     'finspace-data'                   = [PSCustomObject]@{ Prefix = 'FNSP'; Name = 'Amazon FinSpace'; Url = 'https://aws.amazon.com/finspace/'; Note = '' };
     'firehose'                        = [PSCustomObject]@{ Prefix = 'KINF'; Name = 'Amazon Kinesis Data Firehose'; Url = 'https://aws.amazon.com/data-firehose/'; Note = '' };
@@ -235,6 +236,7 @@ $g_AWSServices = @{
     'imagebuilder'                    = [PSCustomObject]@{ Prefix = 'EC2IB'; Name = 'EC2 Image Builder'; Url = 'https://aws.amazon.com/image-builder/'; Note = '' };
     'importexport'                    = [PSCustomObject]@{ Prefix = 'IE'; Name = 'AWS Import/Export'; Url = 'https://aws.amazon.com/snowball/'; Note = '' };
     'inspector'                       = [PSCustomObject]@{ Prefix = 'INS'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
+    'inspector2'                      = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
     'iot'                             = [PSCustomObject]@{ Prefix = 'IOT'; Name = 'AWS IoT'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-data'                        = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT-Data'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-jobs-data'                   = [PSCustomObject]@{ Prefix = 'IOTJ'; Name = 'AWS IoT Jobs'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
@@ -293,6 +295,7 @@ $g_AWSServices = @{
     'meteringmarketplace'             = [PSCustomObject]@{ Prefix = 'MM'; Name = 'AWS Marketplace Metering Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'mgh'                             = [PSCustomObject]@{ Prefix = 'MH'; Name = 'AWS Migration Hub'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mgn'                             = [PSCustomObject]@{ Prefix = 'MGN'; Name = 'AWS Application Migration Service'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
+    'migration-hub-refactor-spaces'   = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Migration Hub Refactor Spaces'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
     'migrationhub-config'             = [PSCustomObject]@{ Prefix = 'MHC'; Name = 'AWS Migration Hub Config'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'migrationhubstrategy'            = [PSCustomObject]@{ Prefix = 'MHS'; Name = 'AWS Migration Hub Strategy Recommendations'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mobile'                          = [PSCustomObject]@{ Prefix = 'MOBL'; Name = 'AWS Mobile'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
@@ -323,6 +326,7 @@ $g_AWSServices = @{
     'qldb-session'                    = [PSCustomObject]@{ Prefix = 'QLDBS'; Name = 'Amazon QLDB Session'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'quicksight'                      = [PSCustomObject]@{ Prefix = 'QS'; Name = 'Amazon QuickSight'; Url = 'https://aws.amazon.com/quicksight/'; Note = '' };
     'ram'                             = [PSCustomObject]@{ Prefix = 'RAM'; Name = 'AWS Resource Access Manager'; Url = 'https://aws.amazon.com/ram/'; Note = '' };
+    'rbin'                            = [PSCustomObject]@{ Prefix = ''; Name = 'Recycle Bin'; Url = 'https://aws.amazon.com/ebs/snapshots/'; Note = '' };
     'rds-data'                        = [PSCustomObject]@{ Prefix = 'RDSD'; Name = 'Amazon Relational Database Service'; Url = 'https://aws.amazon.com/rds/'; Note = '' };
     'rds'                             = [PSCustomObject]@{ Prefix = 'RDS'; Name = 'Amazon Relational Database Service'; Url = 'https://aws.amazon.com/rds/'; Note = '' };
     'redshift-data'                   = [PSCustomObject]@{ Prefix = 'RSD'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' }; 
@@ -338,6 +342,7 @@ $g_AWSServices = @{
     'route53-recovery-readiness'      = [PSCustomObject]@{ Prefix = 'PD'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Readiness' };
     'route53domains'                  = [PSCustomObject]@{ Prefix = 'R53D'; Name = 'Amazon Route 53 Domains'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
     'route53resolver'                 = [PSCustomObject]@{ Prefix = 'R53R'; Name = 'Amazon Route 53 Resolver'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
+    'rum'                             = [PSCustomObject]@{ Prefix = ''; Name = 'Real-User Monitoring for Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     's3'                              = [PSCustomObject]@{ Prefix = 'S3'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '* Currntly, failed to create the list...' };
     's3api'                           = [PSCustomObject]@{ Prefix = 'S3'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '* Currntly, failed to create the list...' };
     's3control'                       = [PSCustomObject]@{ Prefix = 'S3C'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '' };
@@ -503,6 +508,7 @@ $g_CmdletReferenceLinks = @{
     'emr'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html';
     'es'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elasticsearch_cmdlets.html';
     'events'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Events_cmdlets.html';
+    'evidently'                       = ''
     'finspace'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Finspace_cmdlets.html';
     'finspace-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/FinSpaceData_cmdlets.html';
     'firehose'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html';
@@ -530,6 +536,7 @@ $g_CmdletReferenceLinks = @{
     'imagebuilder'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Imagebuilder_cmdlets.html';
     'importexport'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_cmdlets.html';
     'inspector'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Inspector_cmdlets.html';
+    'inspector2'                      = '';
     'iot'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html';
     'iot-data'                        = '';
     'iot-jobs-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Jobs_Data_Plane_cmdlets.html';
@@ -588,6 +595,7 @@ $g_CmdletReferenceLinks = @{
     'meteringmarketplace'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Metering_cmdlets.html';
     'mgh'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Migration_Hub_cmdlets.html';
     'mgn'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Mgn_cmdlets.html';
+    'migration-hub-refactor-spaces'   = '';
     'migrationhub-config'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubConfig_cmdlets.html';
     'migrationhubstrategy'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubStrategyRecommendations_cmdlets.html';
     'mobile'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Mobile_cmdlets.html';
@@ -618,6 +626,7 @@ $g_CmdletReferenceLinks = @{
     'qldb-session'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDBSession_cmdlets.html';
     'quicksight'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_QuickSight_cmdlets.html';
     'ram'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Access_Manager_cmdlets.html';
+    'rbin'                            = '';
     'rds-data'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RDS_DataService_cmdlets.html';
     'rds'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Relational_Database_Service_cmdlets.html';
     'redshift-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/RedshiftDataAPIService_cmdlets.html';
@@ -633,6 +642,7 @@ $g_CmdletReferenceLinks = @{
     'route53-recovery-readiness'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryReadiness_cmdlets.html';
     'route53domains'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Domains_cmdlets.html';
     'route53resolver'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Resolver_cmdlets.html';
+    'rum'                             = '';
     's3'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html';
     's3api'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html';
     's3control'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_S3_Control_cmdlets.html';

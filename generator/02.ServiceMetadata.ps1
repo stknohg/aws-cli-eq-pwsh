@@ -111,6 +111,7 @@ $g_AWSServices = @{
     'amp'                             = [PSCustomObject]@{ Prefix = 'PROM'; Name = 'Amazon Managed Service for Prometheus'; Url = 'https://aws.amazon.com/prometheus/'; Note = '' };
     'amplify'                         = [PSCustomObject]@{ Prefix = 'AMP'; Name = 'AWS Amplify'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'amplifybackend'                  = [PSCustomObject]@{ Prefix = 'AMPB'; Name = 'AWS Amplify Backend'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
+    'amplifyuibuilder'                = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Amplify UI Builder'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'apigateway'                      = [PSCustomObject]@{ Prefix = 'AG'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewaymanagementapi'         = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewayv2'                    = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
@@ -130,6 +131,7 @@ $g_AWSServices = @{
     'autoscaling'                     = [PSCustomObject]@{ Prefix = 'AS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'autoscaling-plans'               = [PSCustomObject]@{ Prefix = 'ASP'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'backup'                          = [PSCustomObject]@{ Prefix = 'BAK'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = '' };
+    'backup-gateway'                  = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = 'Backup gateway' };
     'batch'                           = [PSCustomObject]@{ Prefix = 'BAT'; Name = 'AWS Batch'; Url = 'https://aws.amazon.com/batch/'; Note = '' };
     'braket'                          = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
@@ -250,6 +252,7 @@ $g_AWSServices = @{
     'iotsecuretunneling'              = [PSCustomObject]@{ Prefix = 'IOTST'; Name = 'AWS IoT Secure Tunneling'; Url = 'https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html'; Note = '' };
     'iotsitewise'                     = [PSCustomObject]@{ Prefix = 'IOTSW'; Name = 'Amazon IoT SiteWise'; Url = 'https://aws.amazon.com/iot-sitewise/'; Note = '' };
     'iotthingsgraph'                  = [PSCustomObject]@{ Prefix = 'IOTTG'; Name = 'AWS IoT Things Graph'; Url = 'https://aws.amazon.com/iot-things-graph/'; Note = '' };
+    'iottwinmaker'                    = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT TwinMaker'; Url = 'https://aws.amazon.com/iot-twinmaker/'; Note = '' };
     'iotwireless'                     = [PSCustomObject]@{ Prefix = 'IOTW'; Name = 'AWS IoT Wireless'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'ivs'                             = [PSCustomObject]@{ Prefix = 'IVS'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
     'kafka'                           = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
@@ -400,6 +403,7 @@ $g_AWSServices = @{
     'workmail'                        = [PSCustomObject]@{ Prefix = 'WM'; Name = 'Amazon WorkMail'; Url = 'https://aws.amazon.com/workmail/'; Note = '' };
     'workmailmessageflow'             = [PSCustomObject]@{ Prefix = 'WMMF'; Name = 'Amazon WorkMail Message Flow'; Url = 'https://aws.amazon.com/workmail/'; Note = '' };
     'workspaces'                      = [PSCustomObject]@{ Prefix = 'WKS'; Name = 'Amazon WorkSpaces'; Url = 'https://aws.amazon.com/workspaces/'; Note = '' };
+    'workspaces-web'                  = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon WorkSpaces Web'; Url = 'https://aws.amazon.com/workspaces/'; Note = '' };
     'xray'                            = [PSCustomObject]@{ Prefix = 'XR'; Name = 'AWS X-Ray'; Url = 'https://aws.amazon.com/xray/'; Note = '' };
 }
 
@@ -412,6 +416,7 @@ $g_CmdletReferenceLinks = @{
     'amp'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PrometheusService_cmdlets.html'
     'amplify'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Amplify_cmdlets.html';
     'amplifybackend'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AmplifyBackend_cmdlets.html'
+    'amplifyuibuilder'                = '';
     'apigateway'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_cmdlets.html';
     'apigatewaymanagementapi'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html';
     'apigatewayv2'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_V2_cmdlets.html';
@@ -431,6 +436,7 @@ $g_CmdletReferenceLinks = @{
     'autoscaling'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Auto_Scaling_cmdlets.html';
     'autoscaling-plans'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Auto_Scaling_Plans_cmdlets.html';
     'backup'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Backup_cmdlets.html';
+    'backup-gateway'                  = '';
     'batch'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Batch_cmdlets.html';
     'braket'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html';
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
@@ -550,6 +556,7 @@ $g_CmdletReferenceLinks = @{
     'iotsecuretunneling'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSecureTunneling_cmdlets.html';
     'iotsitewise'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSiteWise_cmdlets.html';
     'iotthingsgraph'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Things_Graph_cmdlets.html';
+    'iottwinmaker'                    = '';
     'iotwireless'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTWireless_cmdlets.html';
     'ivs'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IVS_cmdlets.html';
     'kafka'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
@@ -699,5 +706,6 @@ $g_CmdletReferenceLinks = @{
     'workmail'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMail_cmdlets.html';
     'workmailmessageflow'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMailMessageFlow_cmdlets.html';
     'workspaces'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkSpaces_cmdlets.html';
+    'workspaces-web'                  = '';
     'xray'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_X-Ray_cmdlets.html';
 }

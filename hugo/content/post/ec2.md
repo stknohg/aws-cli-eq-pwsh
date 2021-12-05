@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2021-12-01
+date: 2021-12-05
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 advertise-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/advertise-byoip-cidr.html)|[Start-EC2ByoipCidrAdvertisement](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2ByoipCidrAdvertisement.html)|
 |[aws ec2 allocate-address](https://docs.aws.amazon.com/cli/latest/reference/ec2/allocate-address.html)|[New-EC2Address](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Address.html)|
 |[aws ec2 allocate-hosts](https://docs.aws.amazon.com/cli/latest/reference/ec2/allocate-hosts.html)|[New-EC2Host](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Host.html)|
+|[aws ec2 allocate-ipam-pool-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/allocate-ipam-pool-cidr.html)||
 |[aws ec2 apply-security-groups-to-client-vpn-target-network](https://docs.aws.amazon.com/cli/latest/reference/ec2/apply-security-groups-to-client-vpn-target-network.html)|[Add-EC2SecurityGroupToClientVpnTargetNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2SecurityGroupToClientVpnTargetNetwork.html)|
 |[aws ec2 assign-ipv6-addresses](https://docs.aws.amazon.com/cli/latest/reference/ec2/assign-ipv6-addresses.html)|[Register-EC2Ipv6AddressList](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2Ipv6AddressList.html)|
 |[aws ec2 assign-private-ip-addresses](https://docs.aws.amazon.com/cli/latest/reference/ec2/assign-private-ip-addresses.html)|[Register-EC2PrivateIpAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2PrivateIpAddress.html)|
@@ -76,6 +77,9 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-instance-event-window.html)|[New-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceEventWindow.html)|
 |[aws ec2 create-instance-export-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-instance-export-task.html)|[New-EC2InstanceExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceExportTask.html)|
 |[aws ec2 create-internet-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-internet-gateway.html)|[New-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InternetGateway.html)|
+|[aws ec2 create-ipam](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-ipam.html)||
+|[aws ec2 create-ipam-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-ipam-pool.html)||
+|[aws ec2 create-ipam-scope](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-ipam-scope.html)||
 |[aws ec2 create-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-key-pair.html)|[New-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2KeyPair.html)|
 |[aws ec2 create-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-launch-template.html)|[New-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LaunchTemplate.html)|
 |[aws ec2 create-launch-template-version](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-launch-template-version.html)|[New-EC2LaunchTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LaunchTemplateVersion.html)|
@@ -85,10 +89,12 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-nat-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-nat-gateway.html)|[New-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NatGateway.html)|
 |[aws ec2 create-network-acl](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-acl.html)|[New-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkAcl.html)|
 |[aws ec2 create-network-acl-entry](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-acl-entry.html)|[New-EC2NetworkAclEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkAclEntry.html)|
+|[aws ec2 create-network-insights-access-scope](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-insights-access-scope.html)||
 |[aws ec2 create-network-insights-path](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-insights-path.html)|[New-EC2NetworkInsightsPath](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkInsightsPath.html)|
 |[aws ec2 create-network-interface](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-interface.html)|[New-EC2NetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkInterface.html)|
 |[aws ec2 create-network-interface-permission](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-network-interface-permission.html)|[New-EC2NetworkInterfacePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkInterfacePermission.html)|
 |[aws ec2 create-placement-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-placement-group.html)|[New-EC2PlacementGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2PlacementGroup.html)|
+|[aws ec2 create-public-ipv4-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-public-ipv4-pool.html)||
 |[aws ec2 create-replace-root-volume-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-replace-root-volume-task.html)|[New-EC2ReplaceRootVolumeTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ReplaceRootVolumeTask.html)|
 |[aws ec2 create-reserved-instances-listing](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-reserved-instances-listing.html)|[New-EC2ReservedInstancesListing](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ReservedInstancesListing.html)|
 |[aws ec2 create-restore-image-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-restore-image-task.html)|[New-EC2RestoreImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2RestoreImageTask.html)|
@@ -135,6 +141,9 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-fpga-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-fpga-image.html)|[Remove-EC2FpgaImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2FpgaImage.html)|
 |[aws ec2 delete-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-instance-event-window.html)|[Remove-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InstanceEventWindow.html)|
 |[aws ec2 delete-internet-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-internet-gateway.html)|[Remove-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InternetGateway.html)|
+|[aws ec2 delete-ipam](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-ipam.html)||
+|[aws ec2 delete-ipam-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-ipam-pool.html)||
+|[aws ec2 delete-ipam-scope](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-ipam-scope.html)||
 |[aws ec2 delete-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-key-pair.html)|[Remove-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2KeyPair.html)|
 |[aws ec2 delete-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-launch-template.html)|[Remove-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LaunchTemplate.html)|
 |[aws ec2 delete-launch-template-versions](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-launch-template-versions.html)|[Remove-EC2TemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TemplateVersion.html)|
@@ -144,11 +153,14 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-nat-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-nat-gateway.html)|[Remove-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NatGateway.html)|
 |[aws ec2 delete-network-acl](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-acl.html)|[Remove-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkAcl.html)|
 |[aws ec2 delete-network-acl-entry](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-acl-entry.html)|[Remove-EC2NetworkAclEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkAclEntry.html)|
+|[aws ec2 delete-network-insights-access-scope](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-insights-access-scope.html)||
+|[aws ec2 delete-network-insights-access-scope-analysis](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-insights-access-scope-analysis.html)||
 |[aws ec2 delete-network-insights-analysis](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-insights-analysis.html)|[Remove-EC2NetworkInsightsAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkInsightsAnalysis.html)|
 |[aws ec2 delete-network-insights-path](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-insights-path.html)|[Remove-EC2NetworkInsightsPath](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkInsightsPath.html)|
 |[aws ec2 delete-network-interface](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-interface.html)|[Remove-EC2NetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkInterface.html)|
 |[aws ec2 delete-network-interface-permission](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-network-interface-permission.html)|[Remove-EC2NetworkInterfacePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NetworkInterfacePermission.html)|
 |[aws ec2 delete-placement-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-placement-group.html)|[Remove-EC2PlacementGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2PlacementGroup.html)|
+|[aws ec2 delete-public-ipv4-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-public-ipv4-pool.html)||
 |[aws ec2 delete-queued-reserved-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-queued-reserved-instances.html)|[Remove-EC2QueuedReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2QueuedReservedInstance.html)|
 |[aws ec2 delete-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-route.html)|[Remove-EC2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Route.html)|
 |[aws ec2 delete-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-route-table.html)|[Remove-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2RouteTable.html)|
@@ -181,6 +193,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-vpn-connection-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-vpn-connection-route.html)|[Remove-EC2VpnConnectionRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2VpnConnectionRoute.html)|
 |[aws ec2 delete-vpn-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-vpn-gateway.html)|[Remove-EC2VpnGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2VpnGateway.html)|
 |[aws ec2 deprovision-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/deprovision-byoip-cidr.html)|[Unregister-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2ByoipCidr.html)|
+|[aws ec2 deprovision-ipam-pool-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/deprovision-ipam-pool-cidr.html)||
+|[aws ec2 deprovision-public-ipv4-pool-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/deprovision-public-ipv4-pool-cidr.html)||
 |[aws ec2 deregister-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-image.html)|[Unregister-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2Image.html)|
 |[aws ec2 deregister-instance-event-notification-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-instance-event-notification-attributes.html)|[Unregister-EC2InstanceEventNotificationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2InstanceEventNotificationAttribute.html)|
 |[aws ec2 deregister-transit-gateway-multicast-group-members](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-transit-gateway-multicast-group-members.html)|[Unregister-EC2TransitGatewayMulticastGroupMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastGroupMember.html)|
@@ -235,6 +249,9 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-instance-types](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instance-types.html)|[Get-EC2InstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceType.html)|
 |[aws ec2 describe-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-instances.html)|[Get-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Instance.html)|
 |[aws ec2 describe-internet-gateways](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-internet-gateways.html)|[Get-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InternetGateway.html)|
+|[aws ec2 describe-ipam-pools](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-ipam-pools.html)||
+|[aws ec2 describe-ipam-scopes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-ipam-scopes.html)||
+|[aws ec2 describe-ipams](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-ipams.html)||
 |[aws ec2 describe-ipv6-pools](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-ipv6-pools.html)|[Get-EC2Ipv6Pool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Ipv6Pool.html)|
 |[aws ec2 describe-key-pairs](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-key-pairs.html)|[Get-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2KeyPair.html)|
 |[aws ec2 describe-launch-template-versions](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-launch-template-versions.html)|[Get-EC2TemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TemplateVersion.html)|
@@ -249,6 +266,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-moving-addresses](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-moving-addresses.html)|[Get-EC2MovingAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MovingAddress.html)|
 |[aws ec2 describe-nat-gateways](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-nat-gateways.html)|[Get-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NatGateway.html)|
 |[aws ec2 describe-network-acls](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-acls.html)|[Get-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkAcl.html)|
+|[aws ec2 describe-network-insights-access-scope-analyses](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-insights-access-scope-analyses.html)||
+|[aws ec2 describe-network-insights-access-scopes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-insights-access-scopes.html)||
 |[aws ec2 describe-network-insights-analyses](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-insights-analyses.html)|[Get-EC2NetworkInsightsAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkInsightsAnalysis.html)|
 |[aws ec2 describe-network-insights-paths](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-insights-paths.html)|[Get-EC2NetworkInsightsPath](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkInsightsPath.html)|
 |[aws ec2 describe-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-network-interface-attribute.html)|[Get-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkInterfaceAttribute.html)|
@@ -320,6 +339,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 disable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-ebs-encryption-by-default.html)|[Disable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 disable-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-fast-snapshot-restores.html)|[Disable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastSnapshotRestore.html)|
 |[aws ec2 disable-image-deprecation](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-image-deprecation.html)|[Disable-EC2ImageDeprecation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2ImageDeprecation.html)|
+|[aws ec2 disable-ipam-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-ipam-organization-admin-account.html)||
 |[aws ec2 disable-serial-console-access](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-serial-console-access.html)|[Disable-EC2SerialConsoleAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2SerialConsoleAccess.html)|
 |[aws ec2 disable-transit-gateway-route-table-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-transit-gateway-route-table-propagation.html)|[Disable-EC2TransitGatewayRouteTablePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2TransitGatewayRouteTablePropagation.html)|
 |[aws ec2 disable-vgw-route-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-vgw-route-propagation.html)|[Disable-EC2VgwRoutePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2VgwRoutePropagation.html)|
@@ -339,6 +359,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 enable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-ebs-encryption-by-default.html)|[Enable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 enable-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-fast-snapshot-restores.html)|[Enable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastSnapshotRestore.html)|
 |[aws ec2 enable-image-deprecation](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-image-deprecation.html)|[Enable-EC2ImageDeprecation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2ImageDeprecation.html)|
+|[aws ec2 enable-ipam-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-ipam-organization-admin-account.html)||
 |[aws ec2 enable-serial-console-access](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-serial-console-access.html)|[Enable-EC2SerialConsoleAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2SerialConsoleAccess.html)|
 |[aws ec2 enable-transit-gateway-route-table-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-transit-gateway-route-table-propagation.html)|[Enable-EC2TransitGatewayRouteTablePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2TransitGatewayRouteTablePropagation.html)|
 |[aws ec2 enable-vgw-route-propagation](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-vgw-route-propagation.html)|[Enable-EC2VgwRoutePropagation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2VgwRoutePropagation.html)|
@@ -362,9 +383,15 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-groups-for-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-groups-for-capacity-reservation.html)|[Get-EC2GroupsForCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2GroupsForCapacityReservation.html)|
 |[aws ec2 get-host-reservation-purchase-preview](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|
 |[aws ec2 get-instance-types-from-instance-requirements](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-instance-types-from-instance-requirements.html)|[Get-EC2InstanceTypesFromInstanceRequirement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypesFromInstanceRequirement.html)|
+|[aws ec2 get-ipam-address-history](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-address-history.html)||
+|[aws ec2 get-ipam-pool-allocations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-pool-allocations.html)||
+|[aws ec2 get-ipam-pool-cidrs](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-pool-cidrs.html)||
+|[aws ec2 get-ipam-resource-cidrs](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-resource-cidrs.html)||
 |[aws ec2 get-launch-template-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-launch-template-data.html)|[Get-EC2LaunchTemplateData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LaunchTemplateData.html)|
 |[aws ec2 get-managed-prefix-list-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-associations.html)|[Get-EC2ManagedPrefixListAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListAssociation.html)|
 |[aws ec2 get-managed-prefix-list-entries](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-managed-prefix-list-entries.html)|[Get-EC2ManagedPrefixListEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListEntry.html)|
+|[aws ec2 get-network-insights-access-scope-analysis-findings](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-network-insights-access-scope-analysis-findings.html)||
+|[aws ec2 get-network-insights-access-scope-content](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-network-insights-access-scope-content.html)||
 |[aws ec2 get-password-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
 |[aws ec2 get-reserved-instances-exchange-quote](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-reserved-instances-exchange-quote.html)|[Get-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ReservedInstancesExchangeQuote.html)|
 |[aws ec2 get-serial-console-access-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-serial-console-access-status.html)|[Get-EC2SerialConsoleAccessStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SerialConsoleAccessStatus.html)|
@@ -402,6 +429,10 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-event-window.html)|[Edit-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventWindow.html)|
 |[aws ec2 modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html)|[Edit-EC2InstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataOption.html)|
 |[aws ec2 modify-instance-placement](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-placement.html)|[Edit-EC2InstancePlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstancePlacement.html)|
+|[aws ec2 modify-ipam](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam.html)||
+|[aws ec2 modify-ipam-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam-pool.html)||
+|[aws ec2 modify-ipam-resource-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam-resource-cidr.html)||
+|[aws ec2 modify-ipam-scope](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam-scope.html)||
 |[aws ec2 modify-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-launch-template.html)|[Edit-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LaunchTemplate.html)|
 |[aws ec2 modify-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-managed-prefix-list.html)|[Edit-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedPrefixList.html)|
 |[aws ec2 modify-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
@@ -433,7 +464,10 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-vpn-tunnel-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpn-tunnel-options.html)|[Edit-EC2VpnTunnelOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpnTunnelOption.html)|
 |[aws ec2 monitor-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/monitor-instances.html)|[Start-EC2InstanceMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2InstanceMonitoring.html)|
 |[aws ec2 move-address-to-vpc](https://docs.aws.amazon.com/cli/latest/reference/ec2/move-address-to-vpc.html)|[Move-EC2AddressToVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EC2AddressToVpc.html)|
+|[aws ec2 move-byoip-cidr-to-ipam](https://docs.aws.amazon.com/cli/latest/reference/ec2/move-byoip-cidr-to-ipam.html)||
 |[aws ec2 provision-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/provision-byoip-cidr.html)|[Register-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2ByoipCidr.html)|
+|[aws ec2 provision-ipam-pool-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/provision-ipam-pool-cidr.html)||
+|[aws ec2 provision-public-ipv4-pool-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/provision-public-ipv4-pool-cidr.html)||
 |[aws ec2 purchase-host-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/purchase-host-reservation.html)|[New-EC2HostReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2HostReservation.html)|
 |[aws ec2 purchase-reserved-instances-offering](https://docs.aws.amazon.com/cli/latest/reference/ec2/purchase-reserved-instances-offering.html)|[New-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ReservedInstance.html)|
 |[aws ec2 purchase-scheduled-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/purchase-scheduled-instances.html)|[New-EC2ScheduledInstancePurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ScheduledInstancePurchase.html)|
@@ -449,6 +483,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 reject-vpc-peering-connection](https://docs.aws.amazon.com/cli/latest/reference/ec2/reject-vpc-peering-connection.html)|[Deny-EC2VpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-EC2VpcPeeringConnection.html)|
 |[aws ec2 release-address](https://docs.aws.amazon.com/cli/latest/reference/ec2/release-address.html)|[Remove-EC2Address](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Address.html)|
 |[aws ec2 release-hosts](https://docs.aws.amazon.com/cli/latest/reference/ec2/release-hosts.html)|[Remove-EC2Host](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Host.html)|
+|[aws ec2 release-ipam-pool-allocation](https://docs.aws.amazon.com/cli/latest/reference/ec2/release-ipam-pool-allocation.html)||
 |[aws ec2 replace-iam-instance-profile-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-iam-instance-profile-association.html)|[Set-EC2IamInstanceProfileAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2IamInstanceProfileAssociation.html)|
 |[aws ec2 replace-network-acl-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-network-acl-association.html)|[Set-EC2NetworkAclAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2NetworkAclAssociation.html)|
 |[aws ec2 replace-network-acl-entry](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-network-acl-entry.html)|[Set-EC2NetworkAclEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2NetworkAclEntry.html)|
@@ -479,6 +514,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 search-transit-gateway-routes](https://docs.aws.amazon.com/cli/latest/reference/ec2/search-transit-gateway-routes.html)|[Search-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-EC2TransitGatewayRoute.html)|
 |[aws ec2 send-diagnostic-interrupt](https://docs.aws.amazon.com/cli/latest/reference/ec2/send-diagnostic-interrupt.html)|[Send-EC2DiagnosticInterrupt](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2DiagnosticInterrupt.html)|
 |[aws ec2 start-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/start-instances.html)|[Start-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2Instance.html)|
+|[aws ec2 start-network-insights-access-scope-analysis](https://docs.aws.amazon.com/cli/latest/reference/ec2/start-network-insights-access-scope-analysis.html)||
 |[aws ec2 start-network-insights-analysis](https://docs.aws.amazon.com/cli/latest/reference/ec2/start-network-insights-analysis.html)|[Start-EC2NetworkInsightsAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2NetworkInsightsAnalysis.html)|
 |[aws ec2 start-vpc-endpoint-service-private-dns-verification](https://docs.aws.amazon.com/cli/latest/reference/ec2/start-vpc-endpoint-service-private-dns-verification.html)|[Start-EC2VpcEndpointServicePrivateDnsVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2VpcEndpointServicePrivateDnsVerification.html)|
 |[aws ec2 stop-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/stop-instances.html)|[Stop-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2Instance.html)|

@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2021-12-01
+date: 2021-12-05
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models describe-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot.html)|[Get-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Bot.html)|
 |[aws lexv2-models describe-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-alias.html)|[Get-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotAlias.html)|
 |[aws lexv2-models describe-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-locale.html)|[Get-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotLocale.html)|
+|[aws lexv2-models describe-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-recommendation.html)||
 |[aws lexv2-models describe-bot-version](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-version.html)|[Get-LMBV2BotVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotVersion.html)|
 |[aws lexv2-models describe-export](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-export.html)|[Get-LMBV2Export](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Export.html)|
 |[aws lexv2-models describe-import](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-import.html)|[Get-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Import.html)|
@@ -50,6 +51,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models list-aggregated-utterances](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-aggregated-utterances.html)|[Get-LMBV2AggregatedUtteranceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2AggregatedUtteranceList.html)|
 |[aws lexv2-models list-bot-aliases](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-aliases.html)|[Get-LMBV2BotAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotAliasList.html)|
 |[aws lexv2-models list-bot-locales](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-locales.html)|[Get-LMBV2BotLocaleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotLocaleList.html)|
+|[aws lexv2-models list-bot-recommendations](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-recommendations.html)||
 |[aws lexv2-models list-bot-versions](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-versions.html)|[Get-LMBV2BotVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotVersionList.html)|
 |[aws lexv2-models list-bots](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bots.html)|[Get-LMBV2BotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotList.html)|
 |[aws lexv2-models list-built-in-intents](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-built-in-intents.html)|[Get-LMBV2BuiltInIntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BuiltInIntentList.html)|
@@ -57,15 +59,19 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models list-exports](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-exports.html)|[Get-LMBV2ExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ExportList.html)|
 |[aws lexv2-models list-imports](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-imports.html)|[Get-LMBV2ImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ImportList.html)|
 |[aws lexv2-models list-intents](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-intents.html)|[Get-LMBV2IntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2IntentList.html)|
+|[aws lexv2-models list-recommended-intents](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-recommended-intents.html)||
 |[aws lexv2-models list-slot-types](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-slot-types.html)|[Get-LMBV2SlotTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotTypeList.html)|
 |[aws lexv2-models list-slots](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-slots.html)|[Get-LMBV2SlotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotList.html)|
 |[aws lexv2-models list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-tags-for-resource.html)|[Get-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ResourceTag.html)|
+|[aws lexv2-models search-associated-transcripts](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/search-associated-transcripts.html)||
+|[aws lexv2-models start-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-bot-recommendation.html)||
 |[aws lexv2-models start-import](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-import.html)|[Start-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2Import.html)|
 |[aws lexv2-models tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/tag-resource.html)|[Add-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMBV2ResourceTag.html)|
 |[aws lexv2-models untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/untag-resource.html)|[Remove-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2ResourceTag.html)|
 |[aws lexv2-models update-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-bot.html)|[Update-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2Bot.html)|
 |[aws lexv2-models update-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-bot-alias.html)|[Update-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2BotAlias.html)|
 |[aws lexv2-models update-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-bot-locale.html)|[Update-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2BotLocale.html)|
+|[aws lexv2-models update-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-bot-recommendation.html)||
 |[aws lexv2-models update-export](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-export.html)|[Update-LMBV2Export](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2Export.html)|
 |[aws lexv2-models update-intent](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-intent.html)|[Update-LMBV2Intent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2Intent.html)|
 |[aws lexv2-models update-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-resource-policy.html)|[Update-LMBV2ResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2ResourcePolicy.html)|

@@ -4,7 +4,7 @@
 FROM mcr.microsoft.com/powershell:7.2.1-ubuntu-20.04
 
 # Define args
-ARG HUGO_VERSION=0.89.4
+ARG HUGO_VERSION=0.90.1
 # Download packages
 ADD https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip /tmp/awscliv2.zip
 ADD https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.deb /tmp/hugo_linux.deb

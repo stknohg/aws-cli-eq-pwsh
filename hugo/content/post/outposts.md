@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2021-12-05
+date: 2021-12-16
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-tags-for-resource.html)|[Get-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPResourceTag.html)|
 |[aws outposts tag-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/tag-resource.html)|[Add-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OUTPResourceTag.html)|
 |[aws outposts untag-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/untag-resource.html)|[Remove-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPResourceTag.html)|
+|[aws outposts update-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/update-outpost.html)||
 |[aws outposts update-site](https://docs.aws.amazon.com/cli/latest/reference/outposts/update-site.html)||
 |[aws outposts update-site-address](https://docs.aws.amazon.com/cli/latest/reference/outposts/update-site-address.html)||
 |[aws outposts update-site-rack-physical-properties](https://docs.aws.amazon.com/cli/latest/reference/outposts/update-site-rack-physical-properties.html)||

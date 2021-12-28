@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2021-12-16
+date: 2021-12-28
 description: aws datasync (AWS DataSync) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync cancel-task-execution](https://docs.aws.amazon.com/cli/latest/reference/datasync/cancel-task-execution.html)|[Stop-DSYNTaskExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DSYNTaskExecution.html)|
 |[aws datasync create-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-agent.html)|[New-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNAgent.html)|
 |[aws datasync create-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-efs.html)|[New-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationEfs.html)|
+|[aws datasync create-location-fsx-lustre](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-fsx-lustre.html)||
 |[aws datasync create-location-fsx-windows](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-fsx-windows.html)|[New-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationFsxWindow.html)|
 |[aws datasync create-location-hdfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-hdfs.html)|[New-DSYNLocationHdf](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationHdf.html)|
 |[aws datasync create-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/create-location-nfs.html)|[New-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationNfs.html)|
@@ -28,6 +29,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync delete-task](https://docs.aws.amazon.com/cli/latest/reference/datasync/delete-task.html)|[Remove-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNTask.html)|
 |[aws datasync describe-agent](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-agent.html)|[Get-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNAgent.html)|
 |[aws datasync describe-location-efs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-efs.html)|[Get-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationEfs.html)|
+|[aws datasync describe-location-fsx-lustre](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-fsx-lustre.html)||
 |[aws datasync describe-location-fsx-windows](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-fsx-windows.html)|[Get-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationFsxWindow.html)|
 |[aws datasync describe-location-hdfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-hdfs.html)|[Get-DSYNLocationHdf](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationHdf.html)|
 |[aws datasync describe-location-nfs](https://docs.aws.amazon.com/cli/latest/reference/datasync/describe-location-nfs.html)|[Get-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationNfs.html)|

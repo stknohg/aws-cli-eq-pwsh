@@ -1,6 +1,6 @@
 ---
 title: servicecatalog
-date: 2021-12-16
+date: 2021-12-28
 description: aws servicecatalog (AWS Service Catalog) command/cmdlet list.
 ---
 

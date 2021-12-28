@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2021-12-16
+date: 2021-12-28
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 

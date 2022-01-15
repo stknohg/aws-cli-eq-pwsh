@@ -111,7 +111,7 @@ $g_AWSServices = @{
     'amp'                             = [PSCustomObject]@{ Prefix = 'PROM'; Name = 'Amazon Managed Service for Prometheus'; Url = 'https://aws.amazon.com/prometheus/'; Note = '' };
     'amplify'                         = [PSCustomObject]@{ Prefix = 'AMP'; Name = 'AWS Amplify'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'amplifybackend'                  = [PSCustomObject]@{ Prefix = 'AMPB'; Name = 'AWS Amplify Backend'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
-    'amplifyuibuilder'                = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Amplify UI Builder'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
+    'amplifyuibuilder'                = [PSCustomObject]@{ Prefix = 'AMPUI'; Name = 'AWS Amplify UI Builder'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'apigateway'                      = [PSCustomObject]@{ Prefix = 'AG'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewaymanagementapi'         = [PSCustomObject]@{ Prefix = 'AGM'; Name = 'Amazon API Gateway Management'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
     'apigatewayv2'                    = [PSCustomObject]@{ Prefix = 'AG2'; Name = 'Amazon API Gateway'; Url = 'https://aws.amazon.com/api-gateway/'; Note = '' };
@@ -224,7 +224,7 @@ $g_AWSServices = @{
     'glacier'                         = [PSCustomObject]@{ Prefix = 'GLC'; Name = 'Amazon S3 Glacier'; Url = 'https://aws.amazon.com/glacier/'; Note = '' };
     'globalaccelerator'               = [PSCustomObject]@{ Prefix = 'GACL'; Name = 'AWS Global Accelerator'; Url = 'https://aws.amazon.com/global-accelerator/'; Note = '' };
     'glue'                            = [PSCustomObject]@{ Prefix = 'GLUE'; Name = 'AWS Glue'; Url = 'https://aws.amazon.com/glue/'; Note = '' };
-    'grafana'                         = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Managed Grafana'; Url = 'https://aws.amazon.com/grafana/'; Note = '' };
+    'grafana'                         = [PSCustomObject]@{ Prefix = 'MGRF'; Name = 'Amazon Managed Grafana'; Url = 'https://aws.amazon.com/grafana/'; Note = '' };
     'greengrass'                      = [PSCustomObject]@{ Prefix = 'GG'; Name = 'AWS IoT Greengrass'; Url = 'https://aws.amazon.com/greengrass/'; Note = '' };
     'greengrassv2'                    = [PSCustomObject]@{ Prefix = 'GGV2'; Name = 'AWS IoT Greengrass'; Url = 'https://aws.amazon.com/greengrass/'; Note = '' };
     'groundstation'                   = [PSCustomObject]@{ Prefix = 'GS'; Name = 'AWS Ground Station'; Url = 'https://aws.amazon.com/ground-station/'; Note = '' };
@@ -528,7 +528,7 @@ $g_CmdletReferenceLinks = @{
     'glacier'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Glacier_cmdlets.html';
     'globalaccelerator'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Global_Accelerator_cmdlets.html';
     'glue'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Glue_cmdlets.html';
-    'grafana'                         = '';
+    'grafana'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ManagedGrafana_cmdlets.html';
     'greengrass'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Greengrass_cmdlets.html';
     'greengrassv2'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/GreengrassV2_cmdlets.html'
     'groundstation'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Ground_Station_cmdlets.html';

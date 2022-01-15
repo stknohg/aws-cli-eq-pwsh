@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2021-12-28
+date: 2022-01-15
 description: aws workmail (Amazon WorkMail) command/cmdlet list.
 ---
 
@@ -24,7 +24,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail create-user](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-user.html)|[New-WMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMUser.html)|
 |[aws workmail delete-access-control-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-access-control-rule.html)|[Remove-WMAccessControlRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMAccessControlRule.html)|
 |[aws workmail delete-alias](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-alias.html)|[Remove-WMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMAlias.html)|
-|[aws workmail delete-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-email-monitoring-configuration.html)||
+|[aws workmail delete-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-email-monitoring-configuration.html)|[Remove-WMEmailMonitoringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMEmailMonitoringConfiguration.html)|
 |[aws workmail delete-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-group.html)|[Remove-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMGroup.html)|
 |[aws workmail delete-mailbox-permissions](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-mailbox-permissions.html)|[Remove-WMMailboxPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMailboxPermission.html)|
 |[aws workmail delete-mobile-device-access-override](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-mobile-device-access-override.html)|[Remove-WMMobileDeviceAccessOverride](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMobileDeviceAccessOverride.html)|
@@ -35,7 +35,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail delete-user](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-user.html)|[Remove-WMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMUser.html)|
 |[aws workmail deregister-from-work-mail](https://docs.aws.amazon.com/cli/latest/reference/workmail/deregister-from-work-mail.html)|[Remove-WMFromWorkMail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMFromWorkMail.html)|
 |[aws workmail deregister-mail-domain](https://docs.aws.amazon.com/cli/latest/reference/workmail/deregister-mail-domain.html)|[Remove-WMMailDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMailDomain.html)|
-|[aws workmail describe-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/describe-email-monitoring-configuration.html)||
+|[aws workmail describe-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/describe-email-monitoring-configuration.html)|[Get-WMEmailMonitoringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMEmailMonitoringConfiguration.html)|
 |[aws workmail describe-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/describe-group.html)|[Get-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroup.html)|
 |[aws workmail describe-inbound-dmarc-settings](https://docs.aws.amazon.com/cli/latest/reference/workmail/describe-inbound-dmarc-settings.html)|[Get-WMInboundDmarcSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMInboundDmarcSetting.html)|
 |[aws workmail describe-mailbox-export-job](https://docs.aws.amazon.com/cli/latest/reference/workmail/describe-mailbox-export-job.html)|[Get-WMMailboxExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxExportJob.html)|
@@ -65,7 +65,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-tags-for-resource.html)|[Get-WMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMResourceTag.html)|
 |[aws workmail list-users](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-users.html)|[Get-WMUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMUserList.html)|
 |[aws workmail put-access-control-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-access-control-rule.html)|[Write-WMAccessControlRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMAccessControlRule.html)|
-|[aws workmail put-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-email-monitoring-configuration.html)||
+|[aws workmail put-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-email-monitoring-configuration.html)|[Write-WMEmailMonitoringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMEmailMonitoringConfiguration.html)|
 |[aws workmail put-inbound-dmarc-settings](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-inbound-dmarc-settings.html)|[Write-WMInboundDmarcSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMInboundDmarcSetting.html)|
 |[aws workmail put-mailbox-permissions](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-mailbox-permissions.html)|[Write-WMMailboxPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMMailboxPermission.html)|
 |[aws workmail put-mobile-device-access-override](https://docs.aws.amazon.com/cli/latest/reference/workmail/put-mobile-device-access-override.html)|[Write-WMMobileDeviceAccessOverride](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMMobileDeviceAccessOverride.html)|

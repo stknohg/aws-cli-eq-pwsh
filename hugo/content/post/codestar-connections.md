@@ -1,6 +1,6 @@
 ---
 title: codestar-connections
-date: 2021-12-28
+date: 2022-01-15
 description: aws codestar-connections (AWS CodeStar Connections ) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: iotdeviceadvisor
-date: 2021-12-28
+date: 2022-01-15
 description: aws iotdeviceadvisor (AWS IoT Core Device Advisor) command/cmdlet list.
 ---
 
@@ -15,7 +15,7 @@ description: aws iotdeviceadvisor (AWS IoT Core Device Advisor) command/cmdlet l
 |----|----|
 |[aws iotdeviceadvisor create-suite-definition](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/create-suite-definition.html)|[New-IOTDASuiteDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDASuiteDefinition.html)|
 |[aws iotdeviceadvisor delete-suite-definition](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/delete-suite-definition.html)|[Remove-IOTDASuiteDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDASuiteDefinition.html)|
-|[aws iotdeviceadvisor get-endpoint](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/get-endpoint.html)||
+|[aws iotdeviceadvisor get-endpoint](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/get-endpoint.html)|[Get-IOTDAEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDAEndpoint.html)|
 |[aws iotdeviceadvisor get-suite-definition](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/get-suite-definition.html)|[Get-IOTDASuiteDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDASuiteDefinition.html)|
 |[aws iotdeviceadvisor get-suite-run](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/get-suite-run.html)|[Get-IOTDASuiteRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDASuiteRun.html)|
 |[aws iotdeviceadvisor get-suite-run-report](https://docs.aws.amazon.com/cli/latest/reference/iotdeviceadvisor/get-suite-run-report.html)|[Get-IOTDASuiteRunReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDASuiteRunReport.html)|

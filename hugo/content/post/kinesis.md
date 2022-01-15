@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2021-12-28
+date: 2022-01-15
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -40,5 +40,5 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis start-stream-encryption](https://docs.aws.amazon.com/cli/latest/reference/kinesis/start-stream-encryption.html)|[Start-KINStreamEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KINStreamEncryption.html)|
 |[aws kinesis stop-stream-encryption](https://docs.aws.amazon.com/cli/latest/reference/kinesis/stop-stream-encryption.html)|[Stop-KINStreamEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINStreamEncryption.html)|
 |[aws kinesis update-shard-count](https://docs.aws.amazon.com/cli/latest/reference/kinesis/update-shard-count.html)|[Update-KINShardCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINShardCount.html)|
-|[aws kinesis update-stream-mode](https://docs.aws.amazon.com/cli/latest/reference/kinesis/update-stream-mode.html)||
+|[aws kinesis update-stream-mode](https://docs.aws.amazon.com/cli/latest/reference/kinesis/update-stream-mode.html)|[Update-KINStreamMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamMode.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: accessanalyzer
-date: 2021-12-28
+date: 2022-01-15
 description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 ---
 

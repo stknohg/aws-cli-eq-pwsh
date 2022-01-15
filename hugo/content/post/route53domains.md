@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2021-12-28
+date: 2022-01-15
 description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 ---
 
@@ -17,7 +17,7 @@ description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 |[aws route53domains cancel-domain-transfer-to-another-aws-account](https://docs.aws.amazon.com/cli/latest/reference/route53domains/cancel-domain-transfer-to-another-aws-account.html)|[Stop-R53DDomainTransferToAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-R53DDomainTransferToAnotherAwsAccount.html)|
 |[aws route53domains check-domain-availability](https://docs.aws.amazon.com/cli/latest/reference/route53domains/check-domain-availability.html)|[Test-R53DDomainAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-R53DDomainAvailability.html)|
 |[aws route53domains check-domain-transferability](https://docs.aws.amazon.com/cli/latest/reference/route53domains/check-domain-transferability.html)|[Test-R53DDomainTransferability](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-R53DDomainTransferability.html)|
-|[aws route53domains delete-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/delete-domain.html)||
+|[aws route53domains delete-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/delete-domain.html)|[Remove-R53DDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53DDomain.html)|
 |[aws route53domains delete-tags-for-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/delete-tags-for-domain.html)|[Remove-R53DTagsForDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53DTagsForDomain.html)|
 |[aws route53domains disable-domain-auto-renew](https://docs.aws.amazon.com/cli/latest/reference/route53domains/disable-domain-auto-renew.html)|[Disable-R53DDomainAutoRenew](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-R53DDomainAutoRenew.html)|
 |[aws route53domains disable-domain-transfer-lock](https://docs.aws.amazon.com/cli/latest/reference/route53domains/disable-domain-transfer-lock.html)|[Disable-R53DDomainTransferLock](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-R53DDomainTransferLock.html)|
@@ -29,7 +29,7 @@ description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 |[aws route53domains get-operation-detail](https://docs.aws.amazon.com/cli/latest/reference/route53domains/get-operation-detail.html)|[Get-R53DOperationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DOperationDetail.html)|
 |[aws route53domains list-domains](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-domains.html)|[Get-R53DDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainList.html)|
 |[aws route53domains list-operations](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-operations.html)|[Get-R53DOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DOperationList.html)|
-|[aws route53domains list-prices](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-prices.html)||
+|[aws route53domains list-prices](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-prices.html)|[Get-R53DPriceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DPriceList.html)|
 |[aws route53domains list-tags-for-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/list-tags-for-domain.html)|[Get-R53DTagsForDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DTagsForDomain.html)|
 |[aws route53domains register-domain](https://docs.aws.amazon.com/cli/latest/reference/route53domains/register-domain.html)|[Register-R53DDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-R53DDomain.html)|
 |[aws route53domains reject-domain-transfer-from-another-aws-account](https://docs.aws.amazon.com/cli/latest/reference/route53domains/reject-domain-transfer-from-another-aws-account.html)|[Deny-R53DDomainTransferFromAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-R53DDomainTransferFromAnotherAwsAccount.html)|

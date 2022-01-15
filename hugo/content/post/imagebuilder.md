@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2021-12-28
+date: 2022-01-15
 description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 ---
 
@@ -40,7 +40,7 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder get-image-recipe-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-image-recipe-policy.html)|[Get-EC2IBImageRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageRecipePolicy.html)|
 |[aws imagebuilder get-infrastructure-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-infrastructure-configuration.html)|[Get-EC2IBInfrastructureConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfiguration.html)|
 |[aws imagebuilder import-component](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/import-component.html)|[Import-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBComponent.html)|
-|[aws imagebuilder import-vm-image](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/import-vm-image.html)||
+|[aws imagebuilder import-vm-image](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/import-vm-image.html)|[Import-EC2IBVmImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBVmImage.html)|
 |[aws imagebuilder list-component-build-versions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-component-build-versions.html)|[Get-EC2IBComponentBuildVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentBuildVersionList.html)|
 |[aws imagebuilder list-components](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-components.html)|[Get-EC2IBComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentList.html)|
 |[aws imagebuilder list-container-recipes](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-container-recipes.html)|[Get-EC2IBContainerRecipeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBContainerRecipeList.html)|

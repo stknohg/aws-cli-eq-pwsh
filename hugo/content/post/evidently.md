@@ -1,6 +1,6 @@
 ---
 title: evidently
-date: 2021-12-28
+date: 2022-01-15
 description: aws evidently ( Amazon CloudWatch Evidently) command/cmdlet list.
 ---
 
@@ -13,36 +13,36 @@ description: aws evidently ( Amazon CloudWatch Evidently) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws evidently batch-evaluate-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/batch-evaluate-feature.html)||
-|[aws evidently create-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-experiment.html)||
-|[aws evidently create-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-feature.html)||
-|[aws evidently create-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-launch.html)||
-|[aws evidently create-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-project.html)||
-|[aws evidently delete-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-experiment.html)||
-|[aws evidently delete-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-feature.html)||
-|[aws evidently delete-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-launch.html)||
-|[aws evidently delete-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-project.html)||
-|[aws evidently evaluate-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/evaluate-feature.html)||
-|[aws evidently get-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-experiment.html)||
-|[aws evidently get-experiment-results](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-experiment-results.html)||
-|[aws evidently get-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-feature.html)||
-|[aws evidently get-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-launch.html)||
-|[aws evidently get-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-project.html)||
-|[aws evidently list-experiments](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-experiments.html)||
-|[aws evidently list-features](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-features.html)||
-|[aws evidently list-launches](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-launches.html)||
-|[aws evidently list-projects](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-projects.html)||
-|[aws evidently list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-tags-for-resource.html)||
-|[aws evidently put-project-events](https://docs.aws.amazon.com/cli/latest/reference/evidently/put-project-events.html)||
-|[aws evidently start-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/start-experiment.html)||
-|[aws evidently start-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/start-launch.html)||
-|[aws evidently stop-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/stop-experiment.html)||
-|[aws evidently stop-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/stop-launch.html)||
-|[aws evidently tag-resource](https://docs.aws.amazon.com/cli/latest/reference/evidently/tag-resource.html)||
-|[aws evidently untag-resource](https://docs.aws.amazon.com/cli/latest/reference/evidently/untag-resource.html)||
-|[aws evidently update-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-experiment.html)||
-|[aws evidently update-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-feature.html)||
-|[aws evidently update-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-launch.html)||
-|[aws evidently update-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-project.html)||
-|[aws evidently update-project-data-delivery](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-project-data-delivery.html)||
+|[aws evidently batch-evaluate-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/batch-evaluate-feature.html)|[Get-CWEVDFeatureEvaluationBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDFeatureEvaluationBatch.html)|
+|[aws evidently create-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-experiment.html)|[New-CWEVDExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWEVDExperiment.html)|
+|[aws evidently create-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-feature.html)|[New-CWEVDFeature](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWEVDFeature.html)|
+|[aws evidently create-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-launch.html)|[New-CWEVDLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWEVDLaunch.html)|
+|[aws evidently create-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/create-project.html)|[New-CWEVDProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWEVDProject.html)|
+|[aws evidently delete-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-experiment.html)|[Remove-CWEVDExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWEVDExperiment.html)|
+|[aws evidently delete-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-feature.html)|[Remove-CWEVDFeature](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWEVDFeature.html)|
+|[aws evidently delete-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-launch.html)|[Remove-CWEVDLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWEVDLaunch.html)|
+|[aws evidently delete-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/delete-project.html)|[Remove-CWEVDProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWEVDProject.html)|
+|[aws evidently evaluate-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/evaluate-feature.html)|[Get-CWEVDFeatureEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDFeatureEvaluation.html)|
+|[aws evidently get-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-experiment.html)|[Get-CWEVDExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDExperiment.html)|
+|[aws evidently get-experiment-results](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-experiment-results.html)|[Get-CWEVDExperimentResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDExperimentResult.html)|
+|[aws evidently get-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-feature.html)|[Get-CWEVDFeature](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDFeature.html)|
+|[aws evidently get-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-launch.html)|[Get-CWEVDLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDLaunch.html)|
+|[aws evidently get-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/get-project.html)|[Get-CWEVDProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDProject.html)|
+|[aws evidently list-experiments](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-experiments.html)|[Get-CWEVDExperimentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDExperimentList.html)|
+|[aws evidently list-features](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-features.html)|[Get-CWEVDFeatureList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDFeatureList.html)|
+|[aws evidently list-launches](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-launches.html)|[Get-CWEVDLaunchList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDLaunchList.html)|
+|[aws evidently list-projects](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-projects.html)|[Get-CWEVDProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDProjectList.html)|
+|[aws evidently list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/evidently/list-tags-for-resource.html)|[Get-CWEVDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWEVDResourceTag.html)|
+|[aws evidently put-project-events](https://docs.aws.amazon.com/cli/latest/reference/evidently/put-project-events.html)|[Write-CWEVDProjectEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWEVDProjectEvent.html)|
+|[aws evidently start-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/start-experiment.html)|[Start-CWEVDExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWEVDExperiment.html)|
+|[aws evidently start-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/start-launch.html)|[Start-CWEVDLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWEVDLaunch.html)|
+|[aws evidently stop-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/stop-experiment.html)|[Stop-CWEVDExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWEVDExperiment.html)|
+|[aws evidently stop-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/stop-launch.html)|[Stop-CWEVDLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWEVDLaunch.html)|
+|[aws evidently tag-resource](https://docs.aws.amazon.com/cli/latest/reference/evidently/tag-resource.html)|[Add-CWEVDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWEVDResourceTag.html)|
+|[aws evidently untag-resource](https://docs.aws.amazon.com/cli/latest/reference/evidently/untag-resource.html)|[Remove-CWEVDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWEVDResourceTag.html)|
+|[aws evidently update-experiment](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-experiment.html)|[Update-CWEVDExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEVDExperiment.html)|
+|[aws evidently update-feature](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-feature.html)|[Update-CWEVDFeature](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEVDFeature.html)|
+|[aws evidently update-launch](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-launch.html)|[Update-CWEVDLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEVDLaunch.html)|
+|[aws evidently update-project](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-project.html)|[Update-CWEVDProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEVDProject.html)|
+|[aws evidently update-project-data-delivery](https://docs.aws.amazon.com/cli/latest/reference/evidently/update-project-data-delivery.html)|[Update-CWEVDProjectDataDelivery](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEVDProjectDataDelivery.html)|
 

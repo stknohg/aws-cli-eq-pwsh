@@ -1,6 +1,6 @@
 ---
 title: shield
-date: 2021-12-28
+date: 2022-01-15
 description: aws shield (AWS Shield) command/cmdlet list.
 ---
 
@@ -30,12 +30,12 @@ description: aws shield (AWS Shield) command/cmdlet list.
 |[aws shield describe-protection](https://docs.aws.amazon.com/cli/latest/reference/shield/describe-protection.html)|[Get-SHLDProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDProtection.html)|
 |[aws shield describe-protection-group](https://docs.aws.amazon.com/cli/latest/reference/shield/describe-protection-group.html)|[Get-SHLDProtectionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDProtectionGroup.html)|
 |[aws shield describe-subscription](https://docs.aws.amazon.com/cli/latest/reference/shield/describe-subscription.html)|[Get-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDSubscription.html)|
-|[aws shield disable-application-layer-automatic-response](https://docs.aws.amazon.com/cli/latest/reference/shield/disable-application-layer-automatic-response.html)||
+|[aws shield disable-application-layer-automatic-response](https://docs.aws.amazon.com/cli/latest/reference/shield/disable-application-layer-automatic-response.html)|[Disable-SHLDApplicationLayerAutomaticResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHLDApplicationLayerAutomaticResponse.html)|
 |[aws shield disable-proactive-engagement](https://docs.aws.amazon.com/cli/latest/reference/shield/disable-proactive-engagement.html)|[Disable-SHLDProactiveEngagement](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHLDProactiveEngagement.html)|
 |[aws shield disassociate-drt-log-bucket](https://docs.aws.amazon.com/cli/latest/reference/shield/disassociate-drt-log-bucket.html)|[Revoke-SHLDDRTLogBucketAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-SHLDDRTLogBucketAssociation.html)|
 |[aws shield disassociate-drt-role](https://docs.aws.amazon.com/cli/latest/reference/shield/disassociate-drt-role.html)|[Revoke-SHLDDRTRoleAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-SHLDDRTRoleAssociation.html)|
 |[aws shield disassociate-health-check](https://docs.aws.amazon.com/cli/latest/reference/shield/disassociate-health-check.html)|[Remove-SHLDHealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDHealthCheck.html)|
-|[aws shield enable-application-layer-automatic-response](https://docs.aws.amazon.com/cli/latest/reference/shield/enable-application-layer-automatic-response.html)||
+|[aws shield enable-application-layer-automatic-response](https://docs.aws.amazon.com/cli/latest/reference/shield/enable-application-layer-automatic-response.html)|[Enable-SHLDApplicationLayerAutomaticResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHLDApplicationLayerAutomaticResponse.html)|
 |[aws shield enable-proactive-engagement](https://docs.aws.amazon.com/cli/latest/reference/shield/enable-proactive-engagement.html)|[Enable-SHLDProactiveEngagement](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHLDProactiveEngagement.html)|
 |[aws shield get-subscription-state](https://docs.aws.amazon.com/cli/latest/reference/shield/get-subscription-state.html)|[Get-SHLDSubscriptionState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDSubscriptionState.html)|
 |[aws shield list-attacks](https://docs.aws.amazon.com/cli/latest/reference/shield/list-attacks.html)|[Get-SHLDAttackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDAttackList.html)|
@@ -45,7 +45,7 @@ description: aws shield (AWS Shield) command/cmdlet list.
 |[aws shield list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/shield/list-tags-for-resource.html)|[Get-SHLDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDResourceTag.html)|
 |[aws shield tag-resource](https://docs.aws.amazon.com/cli/latest/reference/shield/tag-resource.html)|[Add-SHLDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SHLDResourceTag.html)|
 |[aws shield untag-resource](https://docs.aws.amazon.com/cli/latest/reference/shield/untag-resource.html)|[Remove-SHLDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDResourceTag.html)|
-|[aws shield update-application-layer-automatic-response](https://docs.aws.amazon.com/cli/latest/reference/shield/update-application-layer-automatic-response.html)||
+|[aws shield update-application-layer-automatic-response](https://docs.aws.amazon.com/cli/latest/reference/shield/update-application-layer-automatic-response.html)|[Update-SHLDApplicationLayerAutomaticResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDApplicationLayerAutomaticResponse.html)|
 |[aws shield update-emergency-contact-settings](https://docs.aws.amazon.com/cli/latest/reference/shield/update-emergency-contact-settings.html)|[Update-SHLDEmergencyContactSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDEmergencyContactSetting.html)|
 |[aws shield update-protection-group](https://docs.aws.amazon.com/cli/latest/reference/shield/update-protection-group.html)|[Update-SHLDProtectionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDProtectionGroup.html)|
 |[aws shield update-subscription](https://docs.aws.amazon.com/cli/latest/reference/shield/update-subscription.html)|[Update-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHLDSubscription.html)|

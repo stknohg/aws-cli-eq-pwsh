@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2021-12-28
+date: 2022-01-15
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -82,7 +82,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift describe-node-configuration-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-node-configuration-options.html)|[Get-RSNodeConfigurationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSNodeConfigurationOption.html)|
 |[aws redshift describe-orderable-cluster-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-orderable-cluster-options.html)|[Get-RSOrderableClusterOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSOrderableClusterOption.html)|
 |[aws redshift describe-partners](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-partners.html)|[Get-RSPartner](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSPartner.html)|
-|[aws redshift describe-reserved-node-exchange-status](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-node-exchange-status.html)||
+|[aws redshift describe-reserved-node-exchange-status](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-node-exchange-status.html)|[Get-RSReservedNodeExchangeStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeStatus.html)|
 |[aws redshift describe-reserved-node-offerings](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-node-offerings.html)|[Get-RSReservedNodeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeOffering.html)|
 |[aws redshift describe-reserved-nodes](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-reserved-nodes.html)|[Get-RSReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNode.html)|
 |[aws redshift describe-resize](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-resize.html)|[Get-RSResize](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSResize.html)|
@@ -99,7 +99,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift enable-logging](https://docs.aws.amazon.com/cli/latest/reference/redshift/enable-logging.html)|[Enable-RSLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RSLogging.html)|
 |[aws redshift enable-snapshot-copy](https://docs.aws.amazon.com/cli/latest/reference/redshift/enable-snapshot-copy.html)|[Enable-RSSnapshotCopy](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RSSnapshotCopy.html)|
 |[aws redshift get-cluster-credentials](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-cluster-credentials.html)|[Get-RSClusterCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterCredential.html)|
-|[aws redshift get-reserved-node-exchange-configuration-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-reserved-node-exchange-configuration-options.html)||
+|[aws redshift get-reserved-node-exchange-configuration-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-reserved-node-exchange-configuration-options.html)|[Get-RSReservedNodeExchangeConfigurationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeConfigurationOption.html)|
 |[aws redshift get-reserved-node-exchange-offerings](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-reserved-node-exchange-offerings.html)|[Get-RSReservedNodeExchangeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeOffering.html)|
 |[aws redshift modify-aqua-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-aqua-configuration.html)|[Edit-RSAquaConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSAquaConfiguration.html)|
 |[aws redshift modify-authentication-profile](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-authentication-profile.html)|[Edit-RSAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSAuthenticationProfile.html)|

@@ -1,6 +1,6 @@
 ---
 title: honeycode
-date: 2021-12-28
+date: 2022-01-15
 description: aws honeycode (Amazon Honeycode) command/cmdlet list.
 ---
 
@@ -23,6 +23,9 @@ description: aws honeycode (Amazon Honeycode) command/cmdlet list.
 |[aws honeycode list-table-columns](https://docs.aws.amazon.com/cli/latest/reference/honeycode/list-table-columns.html)|[Get-HCTableColumnList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HCTableColumnList.html)|
 |[aws honeycode list-table-rows](https://docs.aws.amazon.com/cli/latest/reference/honeycode/list-table-rows.html)|[Get-HCTableRowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HCTableRowList.html)|
 |[aws honeycode list-tables](https://docs.aws.amazon.com/cli/latest/reference/honeycode/list-tables.html)|[Get-HCTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HCTableList.html)|
+|[aws honeycode list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/honeycode/list-tags-for-resource.html)||
 |[aws honeycode query-table-rows](https://docs.aws.amazon.com/cli/latest/reference/honeycode/query-table-rows.html)|[Invoke-HCQueryTableRow](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-HCQueryTableRow.html)|
 |[aws honeycode start-table-data-import-job](https://docs.aws.amazon.com/cli/latest/reference/honeycode/start-table-data-import-job.html)|[Start-HCTableDataImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-HCTableDataImportJob.html)|
+|[aws honeycode tag-resource](https://docs.aws.amazon.com/cli/latest/reference/honeycode/tag-resource.html)||
+|[aws honeycode untag-resource](https://docs.aws.amazon.com/cli/latest/reference/honeycode/untag-resource.html)||
 

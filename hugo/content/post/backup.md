@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2021-12-28
+date: 2022-01-15
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -72,7 +72,9 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup start-restore-job](https://docs.aws.amazon.com/cli/latest/reference/backup/start-restore-job.html)|[Start-BAKRestoreJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKRestoreJob.html)|
 |[aws backup stop-backup-job](https://docs.aws.amazon.com/cli/latest/reference/backup/stop-backup-job.html)|[Stop-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BAKBackupJob.html)|
 |[aws backup tag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/tag-resource.html)|[Add-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKResourceTag.html)|
+|[aws backup tag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/tag-resource.html)|[Add-BUGWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BUGWResourceTag.html)|
 |[aws backup untag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/untag-resource.html)|[Remove-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKResourceTag.html)|
+|[aws backup untag-resource](https://docs.aws.amazon.com/cli/latest/reference/backup/untag-resource.html)|[Remove-BUGWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BUGWResourceTag.html)|
 |[aws backup update-backup-plan](https://docs.aws.amazon.com/cli/latest/reference/backup/update-backup-plan.html)|[Update-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKBackupPlan.html)|
 |[aws backup update-framework](https://docs.aws.amazon.com/cli/latest/reference/backup/update-framework.html)|[Update-BAKFramework](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKFramework.html)|
 |[aws backup update-global-settings](https://docs.aws.amazon.com/cli/latest/reference/backup/update-global-settings.html)|[Update-BAKGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKGlobalSetting.html)|

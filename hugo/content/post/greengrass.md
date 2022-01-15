@@ -1,6 +1,6 @@
 ---
 title: greengrass
-date: 2021-12-28
+date: 2022-01-15
 description: aws greengrass (AWS IoT Greengrass) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws greengrass (AWS IoT Greengrass) command/cmdlet list.
 |----|----|
 |[aws greengrass associate-role-to-group](https://docs.aws.amazon.com/cli/latest/reference/greengrass/associate-role-to-group.html)|[Add-GGRoleToGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGRoleToGroup.html)|
 |[aws greengrass associate-service-role-to-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/associate-service-role-to-account.html)|[Add-GGServiceRoleToAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGServiceRoleToAccount.html)|
+|[aws greengrass associate-service-role-to-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/associate-service-role-to-account.html)|[Add-GGV2ServiceRoleToAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGV2ServiceRoleToAccount.html)|
 |[aws greengrass create-connector-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-connector-definition.html)|[New-GGConnectorDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGConnectorDefinition.html)|
 |[aws greengrass create-connector-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-connector-definition-version.html)|[New-GGConnectorDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGConnectorDefinitionVersion.html)|
 |[aws greengrass create-core-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/create-core-definition.html)|[New-GGCoreDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGCoreDefinition.html)|
@@ -45,9 +46,11 @@ description: aws greengrass (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrass delete-subscription-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/delete-subscription-definition.html)|[Remove-GGSubscriptionDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGSubscriptionDefinition.html)|
 |[aws greengrass disassociate-role-from-group](https://docs.aws.amazon.com/cli/latest/reference/greengrass/disassociate-role-from-group.html)|[Remove-GGRoleFromGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGRoleFromGroup.html)|
 |[aws greengrass disassociate-service-role-from-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/disassociate-service-role-from-account.html)|[Remove-GGServiceRoleFromAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGServiceRoleFromAccount.html)|
+|[aws greengrass disassociate-service-role-from-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/disassociate-service-role-from-account.html)|[Remove-GGV2ServiceRoleFromAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2ServiceRoleFromAccount.html)|
 |[aws greengrass get-associated-role](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-associated-role.html)|[Get-GGAssociatedRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGAssociatedRole.html)|
 |[aws greengrass get-bulk-deployment-status](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-bulk-deployment-status.html)|[Get-GGBulkDeploymentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGBulkDeploymentStatus.html)|
 |[aws greengrass get-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connectivity-info.html)|[Get-GGConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectivityInfo.html)|
+|[aws greengrass get-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connectivity-info.html)|[Get-GGV2ConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ConnectivityInfo.html)|
 |[aws greengrass get-connector-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connector-definition.html)|[Get-GGConnectorDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinition.html)|
 |[aws greengrass get-connector-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-connector-definition-version.html)|[Get-GGConnectorDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGConnectorDefinitionVersion.html)|
 |[aws greengrass get-core-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-core-definition.html)|[Get-GGCoreDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGCoreDefinition.html)|
@@ -66,6 +69,7 @@ description: aws greengrass (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrass get-resource-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-resource-definition.html)|[Get-GGResourceDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinition.html)|
 |[aws greengrass get-resource-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-resource-definition-version.html)|[Get-GGResourceDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGResourceDefinitionVersion.html)|
 |[aws greengrass get-service-role-for-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-service-role-for-account.html)|[Get-GGServiceRoleForAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGServiceRoleForAccount.html)|
+|[aws greengrass get-service-role-for-account](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-service-role-for-account.html)|[Get-GGV2ServiceRoleForAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ServiceRoleForAccount.html)|
 |[aws greengrass get-subscription-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-subscription-definition.html)|[Get-GGSubscriptionDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinition.html)|
 |[aws greengrass get-subscription-definition-version](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-subscription-definition-version.html)|[Get-GGSubscriptionDefinitionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGSubscriptionDefinitionVersion.html)|
 |[aws greengrass get-thing-runtime-configuration](https://docs.aws.amazon.com/cli/latest/reference/greengrass/get-thing-runtime-configuration.html)|[Get-GGThingRuntimeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGThingRuntimeConfiguration.html)|
@@ -100,6 +104,7 @@ description: aws greengrass (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrass untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/untag-resource.html)|[Remove-GGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGResourceTag.html)|
 |[aws greengrass untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrass/untag-resource.html)|[Remove-GGV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2ResourceTag.html)|
 |[aws greengrass update-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connectivity-info.html)|[Update-GGConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectivityInfo.html)|
+|[aws greengrass update-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connectivity-info.html)|[Update-GGV2ConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGV2ConnectivityInfo.html)|
 |[aws greengrass update-connector-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-connector-definition.html)|[Update-GGConnectorDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGConnectorDefinition.html)|
 |[aws greengrass update-core-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-core-definition.html)|[Update-GGCoreDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGCoreDefinition.html)|
 |[aws greengrass update-device-definition](https://docs.aws.amazon.com/cli/latest/reference/greengrass/update-device-definition.html)|[Update-GGDeviceDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGDeviceDefinition.html)|

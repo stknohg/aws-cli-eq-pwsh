@@ -1,6 +1,6 @@
 ---
 title: inspector
-date: 2021-12-28
+date: 2022-01-15
 description: aws inspector (Amazon Inspector) command/cmdlet list.
 ---
 
@@ -39,8 +39,10 @@ description: aws inspector (Amazon Inspector) command/cmdlet list.
 |[aws inspector list-event-subscriptions](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-event-subscriptions.html)|[Get-INSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INSEventSubscription.html)|
 |[aws inspector list-exclusions](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-exclusions.html)|[Get-INSExclusionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INSExclusionList.html)|
 |[aws inspector list-findings](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-findings.html)|[Get-INSFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INSFindingList.html)|
+|[aws inspector list-findings](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-findings.html)|[Get-INS2FindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2FindingList.html)|
 |[aws inspector list-rules-packages](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-rules-packages.html)|[Get-INSRulesPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INSRulesPackageList.html)|
 |[aws inspector list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-tags-for-resource.html)|[Get-INSResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INSResourceTagList.html)|
+|[aws inspector list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/inspector/list-tags-for-resource.html)|[Get-INS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2ResourceTag.html)|
 |[aws inspector preview-agents](https://docs.aws.amazon.com/cli/latest/reference/inspector/preview-agents.html)|[Get-INSAgentPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INSAgentPreview.html)|
 |[aws inspector register-cross-account-access-role](https://docs.aws.amazon.com/cli/latest/reference/inspector/register-cross-account-access-role.html)|[Register-INSCrossAccountAccessRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-INSCrossAccountAccessRole.html)|
 |[aws inspector remove-attributes-from-findings](https://docs.aws.amazon.com/cli/latest/reference/inspector/remove-attributes-from-findings.html)|[Remove-INSFindingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INSFindingAttribute.html)|

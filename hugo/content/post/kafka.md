@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2021-12-28
+date: 2022-01-15
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -16,20 +16,20 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka batch-associate-scram-secret](https://docs.aws.amazon.com/cli/latest/reference/kafka/batch-associate-scram-secret.html)|[Register-MSKAssociateScramSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-MSKAssociateScramSecret.html)|
 |[aws kafka batch-disassociate-scram-secret](https://docs.aws.amazon.com/cli/latest/reference/kafka/batch-disassociate-scram-secret.html)|[Unregister-MSKDisassociateScramSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-MSKDisassociateScramSecret.html)|
 |[aws kafka create-cluster](https://docs.aws.amazon.com/cli/latest/reference/kafka/create-cluster.html)|[New-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKCluster.html)|
-|[aws kafka create-cluster-v2](https://docs.aws.amazon.com/cli/latest/reference/kafka/create-cluster-v2.html)||
+|[aws kafka create-cluster-v2](https://docs.aws.amazon.com/cli/latest/reference/kafka/create-cluster-v2.html)|[New-MSKClusterV2](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKClusterV2.html)|
 |[aws kafka create-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/create-configuration.html)|[New-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKConfiguration.html)|
 |[aws kafka delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/kafka/delete-cluster.html)|[Remove-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCluster.html)|
 |[aws kafka delete-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/delete-configuration.html)|[Remove-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKConfiguration.html)|
 |[aws kafka describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-cluster.html)|[Get-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCluster.html)|
 |[aws kafka describe-cluster-operation](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-cluster-operation.html)|[Get-MSKClusterOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperation.html)|
-|[aws kafka describe-cluster-v2](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-cluster-v2.html)||
+|[aws kafka describe-cluster-v2](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-cluster-v2.html)|[Get-MSKClusterV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterV2.html)|
 |[aws kafka describe-configuration](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-configuration.html)|[Get-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfiguration.html)|
 |[aws kafka describe-configuration-revision](https://docs.aws.amazon.com/cli/latest/reference/kafka/describe-configuration-revision.html)|[Get-MSKConfigurationRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevision.html)|
 |[aws kafka get-bootstrap-brokers](https://docs.aws.amazon.com/cli/latest/reference/kafka/get-bootstrap-brokers.html)|[Get-MSKBootstrapBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKBootstrapBroker.html)|
 |[aws kafka get-compatible-kafka-versions](https://docs.aws.amazon.com/cli/latest/reference/kafka/get-compatible-kafka-versions.html)|[Get-MSKCompatibleKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCompatibleKafkaVersion.html)|
 |[aws kafka list-cluster-operations](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-cluster-operations.html)|[Get-MSKClusterOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperationList.html)|
 |[aws kafka list-clusters](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-clusters.html)|[Get-MSKClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterList.html)|
-|[aws kafka list-clusters-v2](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-clusters-v2.html)||
+|[aws kafka list-clusters-v2](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-clusters-v2.html)|[Get-MSKClustersV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClustersV2List.html)|
 |[aws kafka list-configuration-revisions](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-configuration-revisions.html)|[Get-MSKConfigurationRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevisionList.html)|
 |[aws kafka list-configurations](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-configurations.html)|[Get-MSKConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationList.html)|
 |[aws kafka list-kafka-versions](https://docs.aws.amazon.com/cli/latest/reference/kafka/list-kafka-versions.html)|[Get-MSKKafkaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKKafkaVersionList.html)|

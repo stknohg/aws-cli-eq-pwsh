@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2021-12-28
+date: 2022-01-15
 description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 ---
 
@@ -103,7 +103,7 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint put-events](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/put-events.html)|[Write-PINEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PINEvent.html)|
 |[aws pinpoint remove-attributes](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/remove-attributes.html)|[Remove-PINAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINAttribute.html)|
 |[aws pinpoint send-messages](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/send-messages.html)|[Send-PINMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PINMessage.html)|
-|[aws pinpoint send-otp-message](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/send-otp-message.html)||
+|[aws pinpoint send-otp-message](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/send-otp-message.html)|[Send-PINOTPMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PINOTPMessage.html)|
 |[aws pinpoint send-users-messages](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/send-users-messages.html)|[Send-PINUserMessageBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PINUserMessageBatch.html)|
 |[aws pinpoint tag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/tag-resource.html)|[Add-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PINResourceTag.html)|
 |[aws pinpoint untag-resource](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/untag-resource.html)|[Remove-PINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PINResourceTag.html)|
@@ -131,5 +131,5 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint update-template-active-version](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-template-active-version.html)|[Update-PINTemplateActiveVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINTemplateActiveVersion.html)|
 |[aws pinpoint update-voice-channel](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-voice-channel.html)|[Update-PINVoiceChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINVoiceChannel.html)|
 |[aws pinpoint update-voice-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/update-voice-template.html)|[Update-PINVoiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PINVoiceTemplate.html)|
-|[aws pinpoint verify-otp-message](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/verify-otp-message.html)||
+|[aws pinpoint verify-otp-message](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/verify-otp-message.html)|[Confirm-PINOTPMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-PINOTPMessage.html)|
 

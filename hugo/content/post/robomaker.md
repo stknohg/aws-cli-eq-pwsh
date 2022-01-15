@@ -1,6 +1,6 @@
 ---
 title: robomaker
-date: 2021-12-28
+date: 2022-01-15
 description: aws robomaker (AWS RoboMaker) command/cmdlet list.
 ---
 

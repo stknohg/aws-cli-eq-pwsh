@@ -1,6 +1,6 @@
 ---
 title: network-firewall
-date: 2021-12-28
+date: 2022-01-15
 description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 ---
 
@@ -27,7 +27,7 @@ description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 |[aws network-firewall describe-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/describe-logging-configuration.html)|[Get-NWFWLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NWFWLoggingConfiguration.html)|
 |[aws network-firewall describe-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/describe-resource-policy.html)|[Get-NWFWResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NWFWResourcePolicy.html)|
 |[aws network-firewall describe-rule-group](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/describe-rule-group.html)|[Get-NWFWRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NWFWRuleGroup.html)|
-|[aws network-firewall describe-rule-group-metadata](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/describe-rule-group-metadata.html)||
+|[aws network-firewall describe-rule-group-metadata](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/describe-rule-group-metadata.html)|[Get-NWFWRuleGroupMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NWFWRuleGroupMetadata.html)|
 |[aws network-firewall disassociate-subnets](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/disassociate-subnets.html)|[Unregister-NWFWSubnet](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-NWFWSubnet.html)|
 |[aws network-firewall list-firewall-policies](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/list-firewall-policies.html)|[Get-NWFWFirewallPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NWFWFirewallPolicyList.html)|
 |[aws network-firewall list-firewalls](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/list-firewalls.html)|[Get-NWFWFirewallList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NWFWFirewallList.html)|

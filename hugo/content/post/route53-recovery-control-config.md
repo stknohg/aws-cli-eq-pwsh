@@ -1,6 +1,6 @@
 ---
 title: route53-recovery-control-config
-date: 2021-12-28
+date: 2022-01-15
 description: aws route53-recovery-control-config (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 
@@ -30,9 +30,9 @@ description: aws route53-recovery-control-config (Amazon Route 53 Application Re
 |[aws route53-recovery-control-config list-control-panels](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/list-control-panels.html)|[Get-R53RCControlPanelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCControlPanelList.html)|
 |[aws route53-recovery-control-config list-routing-controls](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/list-routing-controls.html)|[Get-R53RCRoutingControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCRoutingControlList.html)|
 |[aws route53-recovery-control-config list-safety-rules](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/list-safety-rules.html)|[Get-R53RCSafetyRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCSafetyRuleList.html)|
-|[aws route53-recovery-control-config list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/list-tags-for-resource.html)||
-|[aws route53-recovery-control-config tag-resource](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/tag-resource.html)||
-|[aws route53-recovery-control-config untag-resource](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/untag-resource.html)||
+|[aws route53-recovery-control-config list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/list-tags-for-resource.html)|[Get-R53RCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCResourceTag.html)|
+|[aws route53-recovery-control-config tag-resource](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/tag-resource.html)|[Add-R53RCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53RCResourceTag.html)|
+|[aws route53-recovery-control-config untag-resource](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/untag-resource.html)|[Remove-R53RCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53RCResourceTag.html)|
 |[aws route53-recovery-control-config update-control-panel](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/update-control-panel.html)|[Update-R53RCControlPanel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCControlPanel.html)|
 |[aws route53-recovery-control-config update-routing-control](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/update-routing-control.html)|[Update-R53RCRoutingControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCRoutingControl.html)|
 |[aws route53-recovery-control-config update-safety-rule](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/update-safety-rule.html)|[Update-R53RCSafetyRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCSafetyRule.html)|

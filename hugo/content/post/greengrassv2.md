@@ -1,6 +1,6 @@
 ---
 title: greengrassv2
-date: 2021-12-28
+date: 2022-01-15
 description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws greengrassv2 associate-service-role-to-account](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/associate-service-role-to-account.html)|[Add-GGV2ServiceRoleToAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGV2ServiceRoleToAccount.html)|
 |[aws greengrassv2 batch-associate-client-device-with-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/batch-associate-client-device-with-core-device.html)|[Add-GGV2BatchClientDeviceWithCoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGV2BatchClientDeviceWithCoreDevice.html)|
 |[aws greengrassv2 batch-disassociate-client-device-from-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/batch-disassociate-client-device-from-core-device.html)|[Remove-GGV2BatchClientDeviceFromCoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2BatchClientDeviceFromCoreDevice.html)|
 |[aws greengrassv2 cancel-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/cancel-deployment.html)|[Stop-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GGV2Deployment.html)|
@@ -21,10 +22,13 @@ description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrassv2 delete-component](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/delete-component.html)|[Remove-GGV2Component](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2Component.html)|
 |[aws greengrassv2 delete-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/delete-core-device.html)|[Remove-GGV2CoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2CoreDevice.html)|
 |[aws greengrassv2 describe-component](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/describe-component.html)|[Get-GGV2ComponentMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentMetadata.html)|
+|[aws greengrassv2 disassociate-service-role-from-account](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/disassociate-service-role-from-account.html)|[Remove-GGV2ServiceRoleFromAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2ServiceRoleFromAccount.html)|
 |[aws greengrassv2 get-component](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-component.html)|[Get-GGV2Component](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2Component.html)|
 |[aws greengrassv2 get-component-version-artifact](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-component-version-artifact.html)|[Get-GGV2ComponentVersionArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentVersionArtifact.html)|
+|[aws greengrassv2 get-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-connectivity-info.html)|[Get-GGV2ConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ConnectivityInfo.html)|
 |[aws greengrassv2 get-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-core-device.html)|[Get-GGV2CoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2CoreDevice.html)|
 |[aws greengrassv2 get-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-deployment.html)|[Get-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2Deployment.html)|
+|[aws greengrassv2 get-service-role-for-account](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-service-role-for-account.html)|[Get-GGV2ServiceRoleForAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ServiceRoleForAccount.html)|
 |[aws greengrassv2 list-client-devices-associated-with-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-client-devices-associated-with-core-device.html)|[Get-GGV2ClientDevicesAssociatedWithCoreDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ClientDevicesAssociatedWithCoreDeviceList.html)|
 |[aws greengrassv2 list-component-versions](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-component-versions.html)|[Get-GGV2ComponentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentVersionList.html)|
 |[aws greengrassv2 list-components](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/list-components.html)|[Get-GGV2ComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentList.html)|
@@ -36,4 +40,5 @@ description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrassv2 resolve-component-candidates](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/resolve-component-candidates.html)|[Resolve-GGV2ComponentCandidate](https://docs.aws.amazon.com/powershell/latest/reference/items/Resolve-GGV2ComponentCandidate.html)|
 |[aws greengrassv2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/tag-resource.html)|[Add-GGV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GGV2ResourceTag.html)|
 |[aws greengrassv2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/untag-resource.html)|[Remove-GGV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2ResourceTag.html)|
+|[aws greengrassv2 update-connectivity-info](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/update-connectivity-info.html)|[Update-GGV2ConnectivityInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GGV2ConnectivityInfo.html)|
 

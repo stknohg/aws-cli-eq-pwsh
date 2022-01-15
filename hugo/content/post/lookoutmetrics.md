@@ -1,6 +1,6 @@
 ---
 title: lookoutmetrics
-date: 2021-12-28
+date: 2022-01-15
 description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list.
 ---
 
@@ -29,7 +29,7 @@ description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list
 |[aws lookoutmetrics get-sample-data](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/get-sample-data.html)|[Get-LOMSampleData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMSampleData.html)|
 |[aws lookoutmetrics list-alerts](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-alerts.html)|[Get-LOMAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAlertList.html)|
 |[aws lookoutmetrics list-anomaly-detectors](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-anomaly-detectors.html)|[Get-LOMAnomalyDetectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAnomalyDetectorList.html)|
-|[aws lookoutmetrics list-anomaly-group-related-metrics](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-anomaly-group-related-metrics.html)||
+|[aws lookoutmetrics list-anomaly-group-related-metrics](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-anomaly-group-related-metrics.html)|[Get-LOMAnomalyGroupRelatedMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAnomalyGroupRelatedMetricList.html)|
 |[aws lookoutmetrics list-anomaly-group-summaries](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-anomaly-group-summaries.html)|[Get-LOMAnomalyGroupSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAnomalyGroupSummaryList.html)|
 |[aws lookoutmetrics list-anomaly-group-time-series](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-anomaly-group-time-series.html)|[Get-LOMAnomalyGroupTimeSeriesList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAnomalyGroupTimeSeriesList.html)|
 |[aws lookoutmetrics list-metric-sets](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-metric-sets.html)|[Get-LOMMetricSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMMetricSetList.html)|

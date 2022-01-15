@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2021-12-28
+date: 2022-01-15
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 
@@ -55,7 +55,7 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location list-trackers](https://docs.aws.amazon.com/cli/latest/reference/location/list-trackers.html)|[Get-LOCTrackerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCTrackerList.html)|
 |[aws location put-geofence](https://docs.aws.amazon.com/cli/latest/reference/location/put-geofence.html)|[Set-LOCGeofence](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LOCGeofence.html)|
 |[aws location search-place-index-for-position](https://docs.aws.amazon.com/cli/latest/reference/location/search-place-index-for-position.html)|[Search-LOCPlaceIndexForPosition](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LOCPlaceIndexForPosition.html)|
-|[aws location search-place-index-for-suggestions](https://docs.aws.amazon.com/cli/latest/reference/location/search-place-index-for-suggestions.html)||
+|[aws location search-place-index-for-suggestions](https://docs.aws.amazon.com/cli/latest/reference/location/search-place-index-for-suggestions.html)|[Search-LOCPlaceIndexForSuggestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LOCPlaceIndexForSuggestion.html)|
 |[aws location search-place-index-for-text](https://docs.aws.amazon.com/cli/latest/reference/location/search-place-index-for-text.html)|[Search-LOCPlaceIndexForText](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LOCPlaceIndexForText.html)|
 |[aws location tag-resource](https://docs.aws.amazon.com/cli/latest/reference/location/tag-resource.html)|[Add-LOCResourceTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LOCResourceTagSet.html)|
 |[aws location untag-resource](https://docs.aws.amazon.com/cli/latest/reference/location/untag-resource.html)|[Remove-LOCResourceTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCResourceTagSet.html)|

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2021-12-28
+date: 2022-01-15
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.4.7 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.16.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.4.11 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.17.0 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -48,7 +48,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling]({{%relref "post/autoscaling.md" %}})|AS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling-plans]({{%relref "post/autoscaling-plans.md" %}})|ASP||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
-|[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})||Backup gateway|
+|[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
@@ -127,7 +127,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
-|[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|||
+|[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
 |[Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF||
@@ -155,7 +155,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
-|[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector2]({{%relref "post/inspector2.md" %}})|||
+|[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector2]({{%relref "post/inspector2.md" %}})|INS2||
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
@@ -169,7 +169,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
 |[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
 |[AWS IoT Things Graph](https://aws.amazon.com/iot-things-graph/)|[iotthingsgraph]({{%relref "post/iotthingsgraph.md" %}})|IOTTG||
-|[AWS IoT TwinMaker](https://aws.amazon.com/iot-twinmaker/)|[iottwinmaker]({{%relref "post/iottwinmaker.md" %}})|||
+|[AWS IoT TwinMaker](https://aws.amazon.com/iot-twinmaker/)|[iottwinmaker]({{%relref "post/iottwinmaker.md" %}})|IOTTM||
 |[AWS IoT Wireless](https://aws.amazon.com/iot/)|[iotwireless]({{%relref "post/iotwireless.md" %}})|IOTW||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivs]({{%relref "post/ivs.md" %}})|IVS||
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
@@ -215,7 +215,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)|[meteringmarketplace]({{%relref "post/meteringmarketplace.md" %}})|MM||
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||
 |[AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)|[mgn]({{%relref "post/mgn.md" %}})|MGN||
-|[AWS Migration Hub Refactor Spaces](https://aws.amazon.com/application-migration-service/)|[migration-hub-refactor-spaces]({{%relref "post/migration-hub-refactor-spaces.md" %}})|||
+|[AWS Migration Hub Refactor Spaces](https://aws.amazon.com/application-migration-service/)|[migration-hub-refactor-spaces]({{%relref "post/migration-hub-refactor-spaces.md" %}})|MHRS||
 |[AWS Migration Hub Config](https://aws.amazon.com/migration-hub/)|[migrationhub-config]({{%relref "post/migrationhub-config.md" %}})|MHC||
 |[AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/migration-hub/)|[migrationhubstrategy]({{%relref "post/migrationhubstrategy.md" %}})|MHS||
 |[AWS Mobile](https://aws.amazon.com/amplify/)|[mobile]({{%relref "post/mobile.md" %}})|MOBL||
@@ -246,7 +246,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||
 |[Amazon QuickSight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||
 |[AWS Resource Access Manager](https://aws.amazon.com/ram/)|[ram]({{%relref "post/ram.md" %}})|RAM||
-|[Recycle Bin](https://aws.amazon.com/ebs/snapshots/)|[rbin]({{%relref "post/rbin.md" %}})|||
+|[Recycle Bin](https://aws.amazon.com/ebs/snapshots/)|[rbin]({{%relref "post/rbin.md" %}})|RBIN||
 |[Amazon Relational Database Service](https://aws.amazon.com/rds/)|[rds]({{%relref "post/rds.md" %}})|RDS||
 |[Amazon Relational Database Service](https://aws.amazon.com/rds/)|[rds-data]({{%relref "post/rds-data.md" %}})|RDSD||
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift]({{%relref "post/redshift.md" %}})|RS||
@@ -262,7 +262,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})|PD|Recovery Readiness|
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
-|[Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[rum]({{%relref "post/rum.md" %}})|||
+|[Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[rum]({{%relref "post/rum.md" %}})|CWRUM||
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})|S3|* Currntly, failed to create the list...|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|* Currntly, failed to create the list...|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3control]({{%relref "post/s3control.md" %}})|S3C||
@@ -320,6 +320,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||
 |[Amazon WorkMail Message Flow](https://aws.amazon.com/workmail/)|[workmailmessageflow]({{%relref "post/workmailmessageflow.md" %}})|WMMF||
 |[Amazon WorkSpaces](https://aws.amazon.com/workspaces/)|[workspaces]({{%relref "post/workspaces.md" %}})|WKS||
-|[Amazon WorkSpaces Web](https://aws.amazon.com/workspaces/)|[workspaces-web]({{%relref "post/workspaces-web.md" %}})|||
+|[Amazon WorkSpaces Web](https://aws.amazon.com/workspaces/)|[workspaces-web]({{%relref "post/workspaces-web.md" %}})|WSW||
 |[AWS X-Ray](https://aws.amazon.com/xray/)|[xray]({{%relref "post/xray.md" %}})|XR||
 

@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2021-12-28
+date: 2022-01-15
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -118,6 +118,9 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-tags](https://docs.aws.amazon.com/cli/latest/reference/glue/get-tags.html)|[Get-GLUETag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETag.html)|
 |[aws glue get-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/get-trigger.html)|[Get-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETrigger.html)|
 |[aws glue get-triggers](https://docs.aws.amazon.com/cli/latest/reference/glue/get-triggers.html)|[Get-GLUETriggerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerList.html)|
+|[aws glue get-unfiltered-partition-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/get-unfiltered-partition-metadata.html)||
+|[aws glue get-unfiltered-partitions-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/get-unfiltered-partitions-metadata.html)||
+|[aws glue get-unfiltered-table-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/get-unfiltered-table-metadata.html)||
 |[aws glue get-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/get-user-defined-function.html)|[Get-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUserDefinedFunction.html)|
 |[aws glue get-user-defined-functions](https://docs.aws.amazon.com/cli/latest/reference/glue/get-user-defined-functions.html)|[Get-GLUEUserDefinedFunctionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUserDefinedFunctionList.html)|
 |[aws glue get-workflow](https://docs.aws.amazon.com/cli/latest/reference/glue/get-workflow.html)|[Get-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflow.html)|

@@ -1,6 +1,6 @@
 ---
 title: qldb-session
-date: 2021-12-28
+date: 2022-01-15
 description: aws qldb-session (Amazon QLDB Session) command/cmdlet list.
 ---
 

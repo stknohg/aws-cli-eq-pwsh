@@ -131,7 +131,7 @@ $g_AWSServices = @{
     'autoscaling'                     = [PSCustomObject]@{ Prefix = 'AS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'autoscaling-plans'               = [PSCustomObject]@{ Prefix = 'ASP'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'backup'                          = [PSCustomObject]@{ Prefix = 'BAK'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = '' };
-    'backup-gateway'                  = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = 'Backup gateway' };
+    'backup-gateway'                  = [PSCustomObject]@{ Prefix = 'BUGW'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = 'Backup gateway' };
     'batch'                           = [PSCustomObject]@{ Prefix = 'BAT'; Name = 'AWS Batch'; Url = 'https://aws.amazon.com/batch/'; Note = '' };
     'braket'                          = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
@@ -210,7 +210,7 @@ $g_AWSServices = @{
     'emr'                             = [PSCustomObject]@{ Prefix = 'EMR'; Name = 'Amazon EMR'; Url = 'https://aws.amazon.com/emr/'; Note = '' };
     'es'                              = [PSCustomObject]@{ Prefix = 'ES'; Name = 'Amazon Elasticsearch Service'; Url = 'https://aws.amazon.com/elasticsearch-service/'; Note = '' };
     'events'                          = [PSCustomObject]@{ Prefix = 'CWE'; Name = 'Amazon CloudWatch Events'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
-    'evidently'                       = [PSCustomObject]@{ Prefix = ''; Name = ' Amazon CloudWatch Evidently'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
+    'evidently'                       = [PSCustomObject]@{ Prefix = 'CWEVD'; Name = ' Amazon CloudWatch Evidently'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'finspace'                        = [PSCustomObject]@{ Prefix = 'FINSP'; Name = 'Amazon FinSpace'; Url = 'https://aws.amazon.com/finspace/'; Note = '' };
     'finspace-data'                   = [PSCustomObject]@{ Prefix = 'FNSP'; Name = 'Amazon FinSpace'; Url = 'https://aws.amazon.com/finspace/'; Note = '' };
     'firehose'                        = [PSCustomObject]@{ Prefix = 'KINF'; Name = 'Amazon Kinesis Data Firehose'; Url = 'https://aws.amazon.com/data-firehose/'; Note = '' };
@@ -238,7 +238,7 @@ $g_AWSServices = @{
     'imagebuilder'                    = [PSCustomObject]@{ Prefix = 'EC2IB'; Name = 'EC2 Image Builder'; Url = 'https://aws.amazon.com/image-builder/'; Note = '' };
     'importexport'                    = [PSCustomObject]@{ Prefix = 'IE'; Name = 'AWS Import/Export'; Url = 'https://aws.amazon.com/snowball/'; Note = '' };
     'inspector'                       = [PSCustomObject]@{ Prefix = 'INS'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
-    'inspector2'                      = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
+    'inspector2'                      = [PSCustomObject]@{ Prefix = 'INS2'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
     'iot'                             = [PSCustomObject]@{ Prefix = 'IOT'; Name = 'AWS IoT'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-data'                        = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT-Data'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-jobs-data'                   = [PSCustomObject]@{ Prefix = 'IOTJ'; Name = 'AWS IoT Jobs'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
@@ -252,7 +252,7 @@ $g_AWSServices = @{
     'iotsecuretunneling'              = [PSCustomObject]@{ Prefix = 'IOTST'; Name = 'AWS IoT Secure Tunneling'; Url = 'https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html'; Note = '' };
     'iotsitewise'                     = [PSCustomObject]@{ Prefix = 'IOTSW'; Name = 'Amazon IoT SiteWise'; Url = 'https://aws.amazon.com/iot-sitewise/'; Note = '' };
     'iotthingsgraph'                  = [PSCustomObject]@{ Prefix = 'IOTTG'; Name = 'AWS IoT Things Graph'; Url = 'https://aws.amazon.com/iot-things-graph/'; Note = '' };
-    'iottwinmaker'                    = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT TwinMaker'; Url = 'https://aws.amazon.com/iot-twinmaker/'; Note = '' };
+    'iottwinmaker'                    = [PSCustomObject]@{ Prefix = 'IOTTM'; Name = 'AWS IoT TwinMaker'; Url = 'https://aws.amazon.com/iot-twinmaker/'; Note = '' };
     'iotwireless'                     = [PSCustomObject]@{ Prefix = 'IOTW'; Name = 'AWS IoT Wireless'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'ivs'                             = [PSCustomObject]@{ Prefix = 'IVS'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
     'kafka'                           = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
@@ -298,7 +298,7 @@ $g_AWSServices = @{
     'meteringmarketplace'             = [PSCustomObject]@{ Prefix = 'MM'; Name = 'AWS Marketplace Metering Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'mgh'                             = [PSCustomObject]@{ Prefix = 'MH'; Name = 'AWS Migration Hub'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mgn'                             = [PSCustomObject]@{ Prefix = 'MGN'; Name = 'AWS Application Migration Service'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
-    'migration-hub-refactor-spaces'   = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Migration Hub Refactor Spaces'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
+    'migration-hub-refactor-spaces'   = [PSCustomObject]@{ Prefix = 'MHRS'; Name = 'AWS Migration Hub Refactor Spaces'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
     'migrationhub-config'             = [PSCustomObject]@{ Prefix = 'MHC'; Name = 'AWS Migration Hub Config'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'migrationhubstrategy'            = [PSCustomObject]@{ Prefix = 'MHS'; Name = 'AWS Migration Hub Strategy Recommendations'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mobile'                          = [PSCustomObject]@{ Prefix = 'MOBL'; Name = 'AWS Mobile'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
@@ -329,7 +329,7 @@ $g_AWSServices = @{
     'qldb-session'                    = [PSCustomObject]@{ Prefix = 'QLDBS'; Name = 'Amazon QLDB Session'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'quicksight'                      = [PSCustomObject]@{ Prefix = 'QS'; Name = 'Amazon QuickSight'; Url = 'https://aws.amazon.com/quicksight/'; Note = '' };
     'ram'                             = [PSCustomObject]@{ Prefix = 'RAM'; Name = 'AWS Resource Access Manager'; Url = 'https://aws.amazon.com/ram/'; Note = '' };
-    'rbin'                            = [PSCustomObject]@{ Prefix = ''; Name = 'Recycle Bin'; Url = 'https://aws.amazon.com/ebs/snapshots/'; Note = '' };
+    'rbin'                            = [PSCustomObject]@{ Prefix = 'RBIN'; Name = 'Recycle Bin'; Url = 'https://aws.amazon.com/ebs/snapshots/'; Note = '' };
     'rds-data'                        = [PSCustomObject]@{ Prefix = 'RDSD'; Name = 'Amazon Relational Database Service'; Url = 'https://aws.amazon.com/rds/'; Note = '' };
     'rds'                             = [PSCustomObject]@{ Prefix = 'RDS'; Name = 'Amazon Relational Database Service'; Url = 'https://aws.amazon.com/rds/'; Note = '' };
     'redshift-data'                   = [PSCustomObject]@{ Prefix = 'RSD'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' }; 
@@ -345,7 +345,7 @@ $g_AWSServices = @{
     'route53-recovery-readiness'      = [PSCustomObject]@{ Prefix = 'PD'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Readiness' };
     'route53domains'                  = [PSCustomObject]@{ Prefix = 'R53D'; Name = 'Amazon Route 53 Domains'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
     'route53resolver'                 = [PSCustomObject]@{ Prefix = 'R53R'; Name = 'Amazon Route 53 Resolver'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
-    'rum'                             = [PSCustomObject]@{ Prefix = ''; Name = 'Real-User Monitoring for Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
+    'rum'                             = [PSCustomObject]@{ Prefix = 'CWRUM'; Name = 'Real-User Monitoring for Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     's3'                              = [PSCustomObject]@{ Prefix = 'S3'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '* Currntly, failed to create the list...' };
     's3api'                           = [PSCustomObject]@{ Prefix = 'S3'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '* Currntly, failed to create the list...' };
     's3control'                       = [PSCustomObject]@{ Prefix = 'S3C'; Name = 'Amazon S3'; Url = 'https://aws.amazon.com/s3/'; Note = '' };
@@ -403,7 +403,7 @@ $g_AWSServices = @{
     'workmail'                        = [PSCustomObject]@{ Prefix = 'WM'; Name = 'Amazon WorkMail'; Url = 'https://aws.amazon.com/workmail/'; Note = '' };
     'workmailmessageflow'             = [PSCustomObject]@{ Prefix = 'WMMF'; Name = 'Amazon WorkMail Message Flow'; Url = 'https://aws.amazon.com/workmail/'; Note = '' };
     'workspaces'                      = [PSCustomObject]@{ Prefix = 'WKS'; Name = 'Amazon WorkSpaces'; Url = 'https://aws.amazon.com/workspaces/'; Note = '' };
-    'workspaces-web'                  = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon WorkSpaces Web'; Url = 'https://aws.amazon.com/workspaces/'; Note = '' };
+    'workspaces-web'                  = [PSCustomObject]@{ Prefix = 'WSW'; Name = 'Amazon WorkSpaces Web'; Url = 'https://aws.amazon.com/workspaces/'; Note = '' };
     'xray'                            = [PSCustomObject]@{ Prefix = 'XR'; Name = 'AWS X-Ray'; Url = 'https://aws.amazon.com/xray/'; Note = '' };
 }
 

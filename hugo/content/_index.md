@@ -28,7 +28,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
 |[AWS Amplify Backend](https://aws.amazon.com/amplify/)|[amplifybackend]({{%relref "post/amplifybackend.md" %}})|AMPB||
-|[AWS Amplify UI Builder](https://aws.amazon.com/amplify/)|[amplifyuibuilder]({{%relref "post/amplifyuibuilder.md" %}})|||
+|[AWS Amplify UI Builder](https://aws.amazon.com/amplify/)|[amplifyuibuilder]({{%relref "post/amplifyuibuilder.md" %}})|AMPUI||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigateway]({{%relref "post/apigateway.md" %}})|AG||
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
@@ -141,7 +141,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||
-|[Amazon Managed Grafana](https://aws.amazon.com/grafana/)|[grafana]({{%relref "post/grafana.md" %}})|||
+|[Amazon Managed Grafana](https://aws.amazon.com/grafana/)|[grafana]({{%relref "post/grafana.md" %}})|MGRF||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrass]({{%relref "post/greengrass.md" %}})|GG||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrassv2]({{%relref "post/greengrassv2.md" %}})|GGV2||
 |[AWS Ground Station](https://aws.amazon.com/ground-station/)|[groundstation]({{%relref "post/groundstation.md" %}})|GS||

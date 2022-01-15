@@ -9,7 +9,7 @@ description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 ### [Amazon Managed Grafana](https://aws.amazon.com/grafana/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/grafana/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ManagedGrafana_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

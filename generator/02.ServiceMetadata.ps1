@@ -137,7 +137,7 @@ $g_AWSServices = @{
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                              = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
     'chime-sdk-identity'              = [PSCustomObject]@{ Prefix = 'CHMID'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Identity API' };
-    'chime-sdk-meetings'              = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
+    'chime-sdk-meetings'              = [PSCustomObject]@{ Prefix = 'CHMTG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
     'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = 'CHMMG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime'                           = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                          = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
@@ -416,7 +416,7 @@ $g_CmdletReferenceLinks = @{
     'amp'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PrometheusService_cmdlets.html'
     'amplify'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Amplify_cmdlets.html';
     'amplifybackend'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AmplifyBackend_cmdlets.html'
-    'amplifyuibuilder'                = '';
+    'amplifyuibuilder'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AmplifyUIBuilder_cmdlets.html';
     'apigateway'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_cmdlets.html';
     'apigatewaymanagementapi'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html';
     'apigatewayv2'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_V2_cmdlets.html';
@@ -436,13 +436,13 @@ $g_CmdletReferenceLinks = @{
     'autoscaling'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Auto_Scaling_cmdlets.html';
     'autoscaling-plans'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Auto_Scaling_Plans_cmdlets.html';
     'backup'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Backup_cmdlets.html';
-    'backup-gateway'                  = '';
+    'backup-gateway'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/BackupGateway_cmdlets.html';
     'batch'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Batch_cmdlets.html';
     'braket'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html';
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
     'ce'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html';
     'chime-sdk-identity'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKIdentity_cmdlets.html';
-    'chime-sdk-meetings'              = '';
+    'chime-sdk-meetings'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMeetings_cmdlets.html';
     'chime-sdk-messaging'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMessaging_cmdlets.html';
     'chime'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
     'cloud9'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud9_cmdlets.html';
@@ -514,7 +514,7 @@ $g_CmdletReferenceLinks = @{
     'emr'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html';
     'es'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elasticsearch_cmdlets.html';
     'events'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Events_cmdlets.html';
-    'evidently'                       = ''
+    'evidently'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchEvidently_cmdlets.html'
     'finspace'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Finspace_cmdlets.html';
     'finspace-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/FinSpaceData_cmdlets.html';
     'firehose'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html';
@@ -542,7 +542,7 @@ $g_CmdletReferenceLinks = @{
     'imagebuilder'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Imagebuilder_cmdlets.html';
     'importexport'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_cmdlets.html';
     'inspector'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Inspector_cmdlets.html';
-    'inspector2'                      = '';
+    'inspector2'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Inspector2_cmdlets.html';
     'iot'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html';
     'iot-data'                        = '';
     'iot-jobs-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Jobs_Data_Plane_cmdlets.html';
@@ -556,7 +556,7 @@ $g_CmdletReferenceLinks = @{
     'iotsecuretunneling'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSecureTunneling_cmdlets.html';
     'iotsitewise'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSiteWise_cmdlets.html';
     'iotthingsgraph'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Things_Graph_cmdlets.html';
-    'iottwinmaker'                    = '';
+    'iottwinmaker'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTTwinMaker_cmdlets.html';
     'iotwireless'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTWireless_cmdlets.html';
     'ivs'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IVS_cmdlets.html';
     'kafka'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
@@ -602,7 +602,7 @@ $g_CmdletReferenceLinks = @{
     'meteringmarketplace'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Metering_cmdlets.html';
     'mgh'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Migration_Hub_cmdlets.html';
     'mgn'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Mgn_cmdlets.html';
-    'migration-hub-refactor-spaces'   = '';
+    'migration-hub-refactor-spaces'   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubRefactorSpaces_cmdlets.html';
     'migrationhub-config'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubConfig_cmdlets.html';
     'migrationhubstrategy'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubStrategyRecommendations_cmdlets.html';
     'mobile'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Mobile_cmdlets.html';
@@ -633,7 +633,7 @@ $g_CmdletReferenceLinks = @{
     'qldb-session'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDBSession_cmdlets.html';
     'quicksight'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_QuickSight_cmdlets.html';
     'ram'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Access_Manager_cmdlets.html';
-    'rbin'                            = '';
+    'rbin'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/RecycleBin_cmdlets.html';
     'rds-data'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RDS_DataService_cmdlets.html';
     'rds'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Relational_Database_Service_cmdlets.html';
     'redshift-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/RedshiftDataAPIService_cmdlets.html';
@@ -649,7 +649,7 @@ $g_CmdletReferenceLinks = @{
     'route53-recovery-readiness'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryReadiness_cmdlets.html';
     'route53domains'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Domains_cmdlets.html';
     'route53resolver'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Resolver_cmdlets.html';
-    'rum'                             = '';
+    'rum'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchRUM_cmdlets.html';
     's3'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html';
     's3api'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html';
     's3control'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_S3_Control_cmdlets.html';
@@ -706,6 +706,6 @@ $g_CmdletReferenceLinks = @{
     'workmail'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMail_cmdlets.html';
     'workmailmessageflow'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMailMessageFlow_cmdlets.html';
     'workspaces'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkSpaces_cmdlets.html';
-    'workspaces-web'                  = '';
+    'workspaces-web'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/WorkSpacesWeb_cmdlets.html';
     'xray'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_X-Ray_cmdlets.html';
 }

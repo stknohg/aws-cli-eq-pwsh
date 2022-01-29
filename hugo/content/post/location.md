@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2022-01-15
+date: 2022-01-29
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location batch-put-geofence](https://docs.aws.amazon.com/cli/latest/reference/location/batch-put-geofence.html)|[Set-LOCGeofenceBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LOCGeofenceBatch.html)|
 |[aws location batch-update-device-position](https://docs.aws.amazon.com/cli/latest/reference/location/batch-update-device-position.html)|[Set-LOCDevicePositionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LOCDevicePositionBatch.html)|
 |[aws location calculate-route](https://docs.aws.amazon.com/cli/latest/reference/location/calculate-route.html)|[Get-LOCRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRoute.html)|
+|[aws location calculate-route-matrix](https://docs.aws.amazon.com/cli/latest/reference/location/calculate-route-matrix.html)|[Get-LOCRouteMatrix](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRouteMatrix.html)|
 |[aws location create-geofence-collection](https://docs.aws.amazon.com/cli/latest/reference/location/create-geofence-collection.html)|[New-LOCGeofenceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCGeofenceCollection.html)|
 |[aws location create-map](https://docs.aws.amazon.com/cli/latest/reference/location/create-map.html)|[New-LOCMap](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCMap.html)|
 |[aws location create-place-index](https://docs.aws.amazon.com/cli/latest/reference/location/create-place-index.html)|[New-LOCPlaceIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCPlaceIndex.html)|

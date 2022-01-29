@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2022-01-15
+date: 2022-01-29
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -29,7 +29,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models delete-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-bot-alias.html)|[Remove-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2BotAlias.html)|
 |[aws lexv2-models delete-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-bot-locale.html)|[Remove-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2BotLocale.html)|
 |[aws lexv2-models delete-bot-version](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-bot-version.html)|[Remove-LMBV2BotVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2BotVersion.html)|
-|[aws lexv2-models delete-custom-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-custom-vocabulary.html)||
+|[aws lexv2-models delete-custom-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-custom-vocabulary.html)|[Remove-LMBV2CustomVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2CustomVocabulary.html)|
 |[aws lexv2-models delete-export](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-export.html)|[Remove-LMBV2Export](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Export.html)|
 |[aws lexv2-models delete-import](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-import.html)|[Remove-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Import.html)|
 |[aws lexv2-models delete-intent](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-intent.html)|[Remove-LMBV2Intent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Intent.html)|
@@ -43,7 +43,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models describe-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-locale.html)|[Get-LMBV2BotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotLocale.html)|
 |[aws lexv2-models describe-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-recommendation.html)|[Get-LMBV2BotRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotRecommendation.html)|
 |[aws lexv2-models describe-bot-version](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-version.html)|[Get-LMBV2BotVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotVersion.html)|
-|[aws lexv2-models describe-custom-vocabulary-metadata](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-custom-vocabulary-metadata.html)||
+|[aws lexv2-models describe-custom-vocabulary-metadata](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-custom-vocabulary-metadata.html)|[Get-LMBV2CustomVocabularyMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2CustomVocabularyMetadata.html)|
 |[aws lexv2-models describe-export](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-export.html)|[Get-LMBV2Export](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Export.html)|
 |[aws lexv2-models describe-import](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-import.html)|[Get-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Import.html)|
 |[aws lexv2-models describe-intent](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-intent.html)|[Get-LMBV2Intent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Intent.html)|

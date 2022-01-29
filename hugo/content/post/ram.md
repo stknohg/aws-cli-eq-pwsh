@@ -1,6 +1,6 @@
 ---
 title: ram
-date: 2022-01-15
+date: 2022-01-29
 description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 |[aws ram get-resource-share-invitations](https://docs.aws.amazon.com/cli/latest/reference/ram/get-resource-share-invitations.html)|[Get-RAMResourceShareInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceShareInvitation.html)|
 |[aws ram get-resource-shares](https://docs.aws.amazon.com/cli/latest/reference/ram/get-resource-shares.html)|[Get-RAMResourceShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceShare.html)|
 |[aws ram list-pending-invitation-resources](https://docs.aws.amazon.com/cli/latest/reference/ram/list-pending-invitation-resources.html)|[Get-RAMPendingInvitationResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMPendingInvitationResourceList.html)|
+|[aws ram list-permission-versions](https://docs.aws.amazon.com/cli/latest/reference/ram/list-permission-versions.html)|[Get-RAMPermissionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMPermissionVersionList.html)|
 |[aws ram list-permissions](https://docs.aws.amazon.com/cli/latest/reference/ram/list-permissions.html)|[Get-RAMPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMPermissionList.html)|
 |[aws ram list-principals](https://docs.aws.amazon.com/cli/latest/reference/ram/list-principals.html)|[Get-RAMPrincipalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMPrincipalList.html)|
 |[aws ram list-resource-share-permissions](https://docs.aws.amazon.com/cli/latest/reference/ram/list-resource-share-permissions.html)|[Get-RAMResourceSharePermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceSharePermissionList.html)|

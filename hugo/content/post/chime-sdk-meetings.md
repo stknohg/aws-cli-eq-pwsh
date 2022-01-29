@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-meetings
-date: 2022-01-15
+date: 2022-01-29
 description: aws chime-sdk-meetings (Amazon Chime) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws chime-sdk-meetings (Amazon Chime) command/cmdlet list.
 ### [Amazon Chime](https://aws.amazon.com/chime/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-meetings/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMeetings_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

@@ -1,6 +1,6 @@
 ---
 title: workspaces-web
-date: 2022-01-15
+date: 2022-01-29
 description: aws workspaces-web (Amazon WorkSpaces Web) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws workspaces-web (Amazon WorkSpaces Web) command/cmdlet list.
 ### [Amazon WorkSpaces Web](https://aws.amazon.com/workspaces/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/workspaces-web/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/WorkSpacesWeb_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

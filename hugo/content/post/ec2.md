@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2022-01-15
+date: 2022-01-29
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -223,7 +223,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-elastic-gpus](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-elastic-gpus.html)|[Get-EC2ElasticGpu](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ElasticGpu.html)|
 |[aws ec2 describe-export-image-tasks](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-export-image-tasks.html)|[Get-EC2ExportImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ExportImageTask.html)|
 |[aws ec2 describe-export-tasks](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-export-tasks.html)|[Get-EC2ExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ExportTask.html)|
-|[aws ec2 describe-fast-launch-images](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-fast-launch-images.html)||
+|[aws ec2 describe-fast-launch-images](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-fast-launch-images.html)|[Get-EC2FastLaunchImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2FastLaunchImage.html)|
 |[aws ec2 describe-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-fast-snapshot-restores.html)|[Get-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2FastSnapshotRestore.html)|
 |[aws ec2 describe-fleet-history](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-fleet-history.html)|[Get-EC2FleetHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2FleetHistory.html)|
 |[aws ec2 describe-fleet-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-fleet-instances.html)|[Get-EC2FleetInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2FleetInstanceList.html)|
@@ -338,7 +338,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 detach-volume](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-volume.html)|[Dismount-EC2Volume](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2Volume.html)|
 |[aws ec2 detach-vpn-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-vpn-gateway.html)|[Dismount-EC2VpnGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2VpnGateway.html)|
 |[aws ec2 disable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-ebs-encryption-by-default.html)|[Disable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2EbsEncryptionByDefault.html)|
-|[aws ec2 disable-fast-launch](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-fast-launch.html)||
+|[aws ec2 disable-fast-launch](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-fast-launch.html)|[Disable-EC2FastLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastLaunch.html)|
 |[aws ec2 disable-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-fast-snapshot-restores.html)|[Disable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastSnapshotRestore.html)|
 |[aws ec2 disable-image-deprecation](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-image-deprecation.html)|[Disable-EC2ImageDeprecation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2ImageDeprecation.html)|
 |[aws ec2 disable-ipam-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-ipam-organization-admin-account.html)|[Disable-EC2IpamOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2IpamOrganizationAdminAccount.html)|
@@ -359,7 +359,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 disassociate-trunk-interface](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-trunk-interface.html)|[Unregister-EC2TrunkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TrunkInterface.html)|
 |[aws ec2 disassociate-vpc-cidr-block](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-vpc-cidr-block.html)|[Unregister-EC2VpcCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2VpcCidrBlock.html)|
 |[aws ec2 enable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-ebs-encryption-by-default.html)|[Enable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2EbsEncryptionByDefault.html)|
-|[aws ec2 enable-fast-launch](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-fast-launch.html)||
+|[aws ec2 enable-fast-launch](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-fast-launch.html)|[Enable-EC2FastLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastLaunch.html)|
 |[aws ec2 enable-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-fast-snapshot-restores.html)|[Enable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastSnapshotRestore.html)|
 |[aws ec2 enable-image-deprecation](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-image-deprecation.html)|[Enable-EC2ImageDeprecation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2ImageDeprecation.html)|
 |[aws ec2 enable-ipam-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-ipam-organization-admin-account.html)|[Enable-EC2IpamOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2IpamOrganizationAdminAccount.html)|
@@ -458,7 +458,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-vpc-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint.html)|[Edit-EC2VpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcEndpoint.html)|
 |[aws ec2 modify-vpc-endpoint-connection-notification](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint-connection-notification.html)|[Edit-EC2VpcEndpointConnectionNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcEndpointConnectionNotification.html)|
 |[aws ec2 modify-vpc-endpoint-service-configuration](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint-service-configuration.html)|[Edit-EC2VpcEndpointServiceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcEndpointServiceConfiguration.html)|
-|[aws ec2 modify-vpc-endpoint-service-payer-responsibility](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint-service-payer-responsibility.html)||
+|[aws ec2 modify-vpc-endpoint-service-payer-responsibility](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint-service-payer-responsibility.html)|[Edit-EC2VpcEndpointServicePayerResponsibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcEndpointServicePayerResponsibility.html)|
 |[aws ec2 modify-vpc-endpoint-service-permissions](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-endpoint-service-permissions.html)|[Edit-EC2EndpointServicePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2EndpointServicePermission.html)|
 |[aws ec2 modify-vpc-peering-connection-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-peering-connection-options.html)|[Edit-EC2VpcPeeringConnectionOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcPeeringConnectionOption.html)|
 |[aws ec2 modify-vpc-tenancy](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-vpc-tenancy.html)|[Edit-EC2VpcTenancy](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2VpcTenancy.html)|

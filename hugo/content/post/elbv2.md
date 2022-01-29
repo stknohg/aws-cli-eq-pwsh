@@ -1,6 +1,6 @@
 ---
 title: elbv2
-date: 2022-01-15
+date: 2022-01-29
 description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 ---
 

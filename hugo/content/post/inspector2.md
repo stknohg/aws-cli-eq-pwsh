@@ -1,6 +1,6 @@
 ---
 title: inspector2
-date: 2022-01-15
+date: 2022-01-29
 description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ### [Amazon Inspector](https://aws.amazon.com/inspector/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/inspector2/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Inspector2_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

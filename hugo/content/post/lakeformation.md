@@ -1,6 +1,6 @@
 ---
 title: lakeformation
-date: 2022-01-15
+date: 2022-01-29
 description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 ---
 
@@ -34,8 +34,8 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |[aws lakeformation get-query-statistics](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-query-statistics.html)|[Get-LKFQueryStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFQueryStatistic.html)|
 |[aws lakeformation get-resource-lf-tags](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-resource-lf-tags.html)|[Get-LKFResourceLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFResourceLFTag.html)|
 |[aws lakeformation get-table-objects](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-table-objects.html)|[Get-LKFTableObject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFTableObject.html)|
-|[aws lakeformation get-temporary-glue-partition-credentials](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-temporary-glue-partition-credentials.html)||
-|[aws lakeformation get-temporary-glue-table-credentials](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-temporary-glue-table-credentials.html)||
+|[aws lakeformation get-temporary-glue-partition-credentials](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-temporary-glue-partition-credentials.html)|[Get-LKFTemporaryGluePartitionCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFTemporaryGluePartitionCredential.html)|
+|[aws lakeformation get-temporary-glue-table-credentials](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-temporary-glue-table-credentials.html)|[Get-LKFTemporaryGlueTableCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFTemporaryGlueTableCredential.html)|
 |[aws lakeformation get-work-unit-results](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-work-unit-results.html)|[Get-LKFWorkUnitResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFWorkUnitResult.html)|
 |[aws lakeformation get-work-units](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-work-units.html)|[Get-LKFWorkUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFWorkUnit.html)|
 |[aws lakeformation grant-permissions](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/grant-permissions.html)|[Grant-LKFPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-LKFPermission.html)|

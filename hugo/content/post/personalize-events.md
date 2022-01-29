@@ -1,6 +1,6 @@
 ---
 title: personalize-events
-date: 2022-01-15
+date: 2022-01-29
 description: aws personalize-events (Amazon Personalize) command/cmdlet list.
 ---
 

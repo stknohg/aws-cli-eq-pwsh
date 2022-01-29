@@ -1,6 +1,6 @@
 ---
 title: evidently
-date: 2022-01-15
+date: 2022-01-29
 description: aws evidently ( Amazon CloudWatch Evidently) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws evidently ( Amazon CloudWatch Evidently) command/cmdlet list.
 ### [ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/evidently/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchEvidently_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

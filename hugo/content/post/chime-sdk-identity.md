@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-identity
-date: 2022-01-15
+date: 2022-01-29
 description: aws chime-sdk-identity (Amazon Chime) command/cmdlet list.
 ---
 

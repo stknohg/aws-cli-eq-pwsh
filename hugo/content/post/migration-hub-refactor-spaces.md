@@ -1,6 +1,6 @@
 ---
 title: migration-hub-refactor-spaces
-date: 2022-01-15
+date: 2022-01-29
 description: aws migration-hub-refactor-spaces (AWS Migration Hub Refactor Spaces) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws migration-hub-refactor-spaces (AWS Migration Hub Refactor Space
 ### [AWS Migration Hub Refactor Spaces](https://aws.amazon.com/application-migration-service/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/migration-hub-refactor-spaces/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubRefactorSpaces_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

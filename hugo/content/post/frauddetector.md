@@ -1,6 +1,6 @@
 ---
 title: frauddetector
-date: 2022-01-15
+date: 2022-01-29
 description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 ---
 
@@ -49,6 +49,7 @@ description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 |[aws frauddetector get-entity-types](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-entity-types.html)|[Get-FDEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEntityType.html)|
 |[aws frauddetector get-event](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-event.html)|[Get-FDEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEvent.html)|
 |[aws frauddetector get-event-prediction](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-event-prediction.html)|[Get-FDEventPrediction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEventPrediction.html)|
+|[aws frauddetector get-event-prediction-metadata](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-event-prediction-metadata.html)|[Get-FDEventPredictionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEventPredictionMetadata.html)|
 |[aws frauddetector get-event-types](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-event-types.html)|[Get-FDEventType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEventType.html)|
 |[aws frauddetector get-external-models](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-external-models.html)|[Get-FDExternalModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDExternalModel.html)|
 |[aws frauddetector get-kms-encryption-key](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-kms-encryption-key.html)|[Get-FDKMSEncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDKMSEncryptionKey.html)|
@@ -58,6 +59,7 @@ description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 |[aws frauddetector get-outcomes](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-outcomes.html)|[Get-FDOutcome](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDOutcome.html)|
 |[aws frauddetector get-rules](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-rules.html)|[Get-FDRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDRule.html)|
 |[aws frauddetector get-variables](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-variables.html)|[Get-FDVariable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDVariable.html)|
+|[aws frauddetector list-event-predictions](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/list-event-predictions.html)|[Get-FDEventPredictionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDEventPredictionList.html)|
 |[aws frauddetector list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/list-tags-for-resource.html)|[Get-FDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDResourceTag.html)|
 |[aws frauddetector put-detector](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-detector.html)|[Write-FDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDDetector.html)|
 |[aws frauddetector put-entity-type](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/put-entity-type.html)|[Write-FDEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FDEntityType.html)|

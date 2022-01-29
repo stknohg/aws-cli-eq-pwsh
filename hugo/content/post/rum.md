@@ -1,6 +1,6 @@
 ---
 title: rum
-date: 2022-01-15
+date: 2022-01-29
 description: aws rum (Real-User Monitoring for Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws rum (Real-User Monitoring for Amazon CloudWatch) command/cmdlet
 ### [Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/rum/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchRUM_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

@@ -1,6 +1,6 @@
 ---
 title: iotwireless
-date: 2022-01-15
+date: 2022-01-29
 description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 ---
 
@@ -34,7 +34,7 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless delete-device-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-device-profile.html)|[Remove-IOTWDeviceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWDeviceProfile.html)|
 |[aws iotwireless delete-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-fuota-task.html)|[Remove-IOTWFuotaTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWFuotaTask.html)|
 |[aws iotwireless delete-multicast-group](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-multicast-group.html)|[Remove-IOTWMulticastGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWMulticastGroup.html)|
-|[aws iotwireless delete-queued-messages](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-queued-messages.html)||
+|[aws iotwireless delete-queued-messages](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-queued-messages.html)|[Remove-IOTWQueuedMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWQueuedMessage.html)|
 |[aws iotwireless delete-service-profile](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-service-profile.html)|[Remove-IOTWServiceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWServiceProfile.html)|
 |[aws iotwireless delete-wireless-device](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-wireless-device.html)|[Remove-IOTWWirelessDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWWirelessDevice.html)|
 |[aws iotwireless delete-wireless-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/delete-wireless-gateway.html)|[Remove-IOTWWirelessGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTWWirelessGateway.html)|
@@ -73,7 +73,7 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless list-multicast-groups](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-multicast-groups.html)|[Get-IOTWMulticastGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWMulticastGroupList.html)|
 |[aws iotwireless list-multicast-groups-by-fuota-task](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-multicast-groups-by-fuota-task.html)|[Get-IOTWMulticastGroupsByFuotaTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWMulticastGroupsByFuotaTaskList.html)|
 |[aws iotwireless list-partner-accounts](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-partner-accounts.html)|[Get-IOTWPartnerAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWPartnerAccountList.html)|
-|[aws iotwireless list-queued-messages](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-queued-messages.html)||
+|[aws iotwireless list-queued-messages](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-queued-messages.html)|[Get-IOTWQueuedMessageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWQueuedMessageList.html)|
 |[aws iotwireless list-service-profiles](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-service-profiles.html)|[Get-IOTWServiceProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWServiceProfileList.html)|
 |[aws iotwireless list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-tags-for-resource.html)|[Get-IOTWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWResourceTag.html)|
 |[aws iotwireless list-wireless-devices](https://docs.aws.amazon.com/cli/latest/reference/iotwireless/list-wireless-devices.html)|[Get-IOTWWirelessDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWWirelessDeviceList.html)|

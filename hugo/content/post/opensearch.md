@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2022-01-15
+date: 2022-01-29
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch delete-package](https://docs.aws.amazon.com/cli/latest/reference/opensearch/delete-package.html)|[Remove-OSPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OSPackage.html)|
 |[aws opensearch describe-domain](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain.html)|[Get-OSDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomain.html)|
 |[aws opensearch describe-domain-auto-tunes](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-auto-tunes.html)|[Get-OSDomainAutoTune](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainAutoTune.html)|
+|[aws opensearch describe-domain-change-progress](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-change-progress.html)||
 |[aws opensearch describe-domain-config](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-config.html)|[Get-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainConfig.html)|
 |[aws opensearch describe-domains](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domains.html)|[Get-OSDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainList.html)|
 |[aws opensearch describe-inbound-connections](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-inbound-connections.html)|[Get-OSInboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInboundConnection.html)|

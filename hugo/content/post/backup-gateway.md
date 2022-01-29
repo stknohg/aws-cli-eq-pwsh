@@ -1,6 +1,6 @@
 ---
 title: backup-gateway
-date: 2022-01-15
+date: 2022-01-29
 description: aws backup-gateway (AWS Backup) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws backup-gateway (AWS Backup) command/cmdlet list.
 ### [AWS Backup](https://aws.amazon.com/backup/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/backup-gateway/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/BackupGateway_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

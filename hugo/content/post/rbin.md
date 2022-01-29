@@ -1,6 +1,6 @@
 ---
 title: rbin
-date: 2022-01-15
+date: 2022-01-29
 description: aws rbin (Recycle Bin) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws rbin (Recycle Bin) command/cmdlet list.
 ### [Recycle Bin](https://aws.amazon.com/ebs/snapshots/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/rbin/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/RecycleBin_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

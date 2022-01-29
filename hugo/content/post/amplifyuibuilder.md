@@ -1,6 +1,6 @@
 ---
 title: amplifyuibuilder
-date: 2022-01-15
+date: 2022-01-29
 description: aws amplifyuibuilder (AWS Amplify UI Builder) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws amplifyuibuilder (AWS Amplify UI Builder) command/cmdlet list.
 ### [AWS Amplify UI Builder](https://aws.amazon.com/amplify/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/amplifyuibuilder/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AmplifyUIBuilder_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

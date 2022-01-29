@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-01-15
+date: 2022-01-29
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |----|----|
 |[aws connect associate-approved-origin](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-approved-origin.html)|[Add-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNApprovedOrigin.html)|
 |[aws connect associate-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-bot.html)|[Add-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNBot.html)|
+|[aws connect associate-default-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-default-vocabulary.html)|[Add-CONNDefaultVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNDefaultVocabulary.html)|
 |[aws connect associate-instance-storage-config](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-instance-storage-config.html)|[Add-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNInstanceStorageConfig.html)|
 |[aws connect associate-lambda-function](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-lambda-function.html)|[Add-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLambdaFunction.html)|
 |[aws connect associate-lex-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/associate-lex-bot.html)|[Add-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLexBot.html)|
@@ -34,6 +35,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/create-use-case.html)|[New-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUseCase.html)|
 |[aws connect create-user](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user.html)|[New-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUser.html)|
 |[aws connect create-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user-hierarchy-group.html)|[New-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUserHierarchyGroup.html)|
+|[aws connect create-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/connect/create-vocabulary.html)|[New-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNVocabulary.html)|
 |[aws connect delete-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-contact-flow.html)|[Remove-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactFlow.html)|
 |[aws connect delete-contact-flow-module](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-contact-flow-module.html)|[Remove-CONNContactFlowModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactFlowModule.html)|
 |[aws connect delete-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-hours-of-operation.html)|[Remove-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNHoursOfOperation.html)|
@@ -44,6 +46,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-use-case.html)|[Remove-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUseCase.html)|
 |[aws connect delete-user](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-user.html)|[Remove-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUser.html)|
 |[aws connect delete-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-user-hierarchy-group.html)|[Remove-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUserHierarchyGroup.html)|
+|[aws connect delete-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-vocabulary.html)|[Remove-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNVocabulary.html)|
 |[aws connect describe-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-agent-status.html)|[Get-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatus.html)|
 |[aws connect describe-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-contact.html)|[Get-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContact.html)|
 |[aws connect describe-contact-flow](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-contact-flow.html)|[Get-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlow.html)|
@@ -59,6 +62,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect describe-user](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-user.html)|[Get-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUser.html)|
 |[aws connect describe-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-user-hierarchy-group.html)|[Get-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroup.html)|
 |[aws connect describe-user-hierarchy-structure](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-user-hierarchy-structure.html)|[Get-CONNUserHierarchyStructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyStructure.html)|
+|[aws connect describe-vocabulary](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-vocabulary.html)|[Get-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNVocabulary.html)|
 |[aws connect disassociate-approved-origin](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-approved-origin.html)|[Remove-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNApprovedOrigin.html)|
 |[aws connect disassociate-bot](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-bot.html)|[Remove-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNBot.html)|
 |[aws connect disassociate-instance-storage-config](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-instance-storage-config.html)|[Remove-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstanceStorageConfig.html)|
@@ -77,6 +81,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-contact-flow-modules](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-flow-modules.html)|[Get-CONNContactFlowModuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowModuleList.html)|
 |[aws connect list-contact-flows](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-flows.html)|[Get-CONNContactFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowList.html)|
 |[aws connect list-contact-references](https://docs.aws.amazon.com/cli/latest/reference/connect/list-contact-references.html)|[Get-CONNContactReferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactReferenceList.html)|
+|[aws connect list-default-vocabularies](https://docs.aws.amazon.com/cli/latest/reference/connect/list-default-vocabularies.html)|[Get-CONNDefaultVocabularyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNDefaultVocabularyList.html)|
 |[aws connect list-hours-of-operations](https://docs.aws.amazon.com/cli/latest/reference/connect/list-hours-of-operations.html)|[Get-CONNHoursOfOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNHoursOfOperationList.html)|
 |[aws connect list-instance-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/list-instance-attributes.html)|[Get-CONNInstanceAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNInstanceAttributeList.html)|
 |[aws connect list-instance-storage-configs](https://docs.aws.amazon.com/cli/latest/reference/connect/list-instance-storage-configs.html)|[Get-CONNInstanceStorageConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNInstanceStorageConfigList.html)|
@@ -99,6 +104,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-user-hierarchy-groups](https://docs.aws.amazon.com/cli/latest/reference/connect/list-user-hierarchy-groups.html)|[Get-CONNUserHierarchyGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroupList.html)|
 |[aws connect list-users](https://docs.aws.amazon.com/cli/latest/reference/connect/list-users.html)|[Get-CONNUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserList.html)|
 |[aws connect resume-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/resume-contact-recording.html)|[Resume-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CONNContactRecording.html)|
+|[aws connect search-vocabularies](https://docs.aws.amazon.com/cli/latest/reference/connect/search-vocabularies.html)|[Search-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNVocabulary.html)|
 |[aws connect start-chat-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/start-chat-contact.html)|[Start-CONNChatContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNChatContact.html)|
 |[aws connect start-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/start-contact-recording.html)|[Start-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactRecording.html)|
 |[aws connect start-contact-streaming](https://docs.aws.amazon.com/cli/latest/reference/connect/start-contact-streaming.html)|[Start-CONNContactStreaming](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactStreaming.html)|

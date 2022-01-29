@@ -1,6 +1,6 @@
 ---
 title: lookoutmetrics
-date: 2022-01-15
+date: 2022-01-29
 description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list
 |[aws lookoutmetrics create-alert](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/create-alert.html)|[New-LOMAlert](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOMAlert.html)|
 |[aws lookoutmetrics create-anomaly-detector](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/create-anomaly-detector.html)|[New-LOMAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOMAnomalyDetector.html)|
 |[aws lookoutmetrics create-metric-set](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/create-metric-set.html)|[New-LOMMetricSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOMMetricSet.html)|
+|[aws lookoutmetrics deactivate-anomaly-detector](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/deactivate-anomaly-detector.html)|[Disable-LOMAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-LOMAnomalyDetector.html)|
 |[aws lookoutmetrics delete-alert](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/delete-alert.html)|[Remove-LOMAlert](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOMAlert.html)|
 |[aws lookoutmetrics delete-anomaly-detector](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/delete-anomaly-detector.html)|[Remove-LOMAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOMAnomalyDetector.html)|
 |[aws lookoutmetrics describe-alert](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/describe-alert.html)|[Get-LOMAlert](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAlert.html)|

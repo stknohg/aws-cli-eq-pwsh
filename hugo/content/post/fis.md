@@ -1,6 +1,6 @@
 ---
 title: fis
-date: 2022-01-29
+date: 2022-02-17
 description: aws fis (Amazon Fault Injection Simulator) command/cmdlet list.
 ---
 
@@ -18,10 +18,12 @@ description: aws fis (Amazon Fault Injection Simulator) command/cmdlet list.
 |[aws fis get-action](https://docs.aws.amazon.com/cli/latest/reference/fis/get-action.html)|[Get-FISAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISAction.html)|
 |[aws fis get-experiment](https://docs.aws.amazon.com/cli/latest/reference/fis/get-experiment.html)|[Get-FISExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperiment.html)|
 |[aws fis get-experiment-template](https://docs.aws.amazon.com/cli/latest/reference/fis/get-experiment-template.html)|[Get-FISExperimentTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperimentTemplate.html)|
+|[aws fis get-target-resource-type](https://docs.aws.amazon.com/cli/latest/reference/fis/get-target-resource-type.html)|[Get-FISTargetResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISTargetResourceType.html)|
 |[aws fis list-actions](https://docs.aws.amazon.com/cli/latest/reference/fis/list-actions.html)|[Get-FISActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISActionList.html)|
 |[aws fis list-experiment-templates](https://docs.aws.amazon.com/cli/latest/reference/fis/list-experiment-templates.html)|[Get-FISExperimentTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperimentTemplateList.html)|
 |[aws fis list-experiments](https://docs.aws.amazon.com/cli/latest/reference/fis/list-experiments.html)|[Get-FISExperimentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperimentList.html)|
 |[aws fis list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fis/list-tags-for-resource.html)|[Get-FISResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISResourceTag.html)|
+|[aws fis list-target-resource-types](https://docs.aws.amazon.com/cli/latest/reference/fis/list-target-resource-types.html)|[Get-FISTargetResourceTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISTargetResourceTypeList.html)|
 |[aws fis start-experiment](https://docs.aws.amazon.com/cli/latest/reference/fis/start-experiment.html)|[Start-FISExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-FISExperiment.html)|
 |[aws fis stop-experiment](https://docs.aws.amazon.com/cli/latest/reference/fis/stop-experiment.html)|[Stop-FISExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FISExperiment.html)|
 |[aws fis tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fis/tag-resource.html)|[Add-FISResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FISResourceTag.html)|

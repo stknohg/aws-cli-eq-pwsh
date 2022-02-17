@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-media
-date: 2022-01-29
+date: 2022-02-17
 description: aws kinesis-video-media (Amazon Kinesis Video Streams Media) command/cmdlet list.
 ---
 

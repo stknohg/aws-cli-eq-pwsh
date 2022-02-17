@@ -1,6 +1,6 @@
 ---
 title: connect-contact-lens
-date: 2022-01-29
+date: 2022-02-17
 description: aws connect-contact-lens (Contact Lens for Amazon Connect ) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2022-01-29
+date: 2022-02-17
 description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
 |[aws cloudformation deregister-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deregister-type.html)|[Unregister-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CFNType.html)|
 |[aws cloudformation describe-account-limits](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-account-limits.html)|[Get-CFNAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNAccountLimit.html)|
 |[aws cloudformation describe-change-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-change-set.html)|[Get-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSet.html)|
+|[aws cloudformation describe-change-set-hooks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-change-set-hooks.html)|[Get-CFNChangeSetHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetHook.html)|
 |[aws cloudformation describe-publisher](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-publisher.html)|[Get-CFNPublisher](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNPublisher.html)|
 |[aws cloudformation describe-stack-drift-detection-status](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stack-drift-detection-status.html)|[Get-CFNStackDriftDetectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackDriftDetectionStatus.html)|
 |[aws cloudformation describe-stack-events](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stack-events.html)|[Get-CFNStackEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackEvent.html)|

@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2022-01-29
+date: 2022-02-17
 description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend delete-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-document-classifier.html)|[Remove-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPDocumentClassifier.html)|
 |[aws comprehend delete-endpoint](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-endpoint.html)|[Remove-COMPEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPEndpoint.html)|
 |[aws comprehend delete-entity-recognizer](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-entity-recognizer.html)|[Remove-COMPEntityRecognizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPEntityRecognizer.html)|
+|[aws comprehend delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/comprehend/delete-resource-policy.html)|[Remove-COMPResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-COMPResourcePolicy.html)|
 |[aws comprehend describe-document-classification-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-document-classification-job.html)|[Get-COMPDocumentClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassificationJob.html)|
 |[aws comprehend describe-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-document-classifier.html)|[Get-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassifier.html)|
 |[aws comprehend describe-dominant-language-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-dominant-language-detection-job.html)|[Get-COMPDominantLanguageDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDominantLanguageDetectionJob.html)|
@@ -35,6 +36,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend describe-events-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-events-detection-job.html)|[Get-COMPEventsDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPEventsDetectionJob.html)|
 |[aws comprehend describe-key-phrases-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-key-phrases-detection-job.html)|[Get-COMPKeyPhrasesDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPKeyPhrasesDetectionJob.html)|
 |[aws comprehend describe-pii-entities-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-pii-entities-detection-job.html)|[Get-COMPPiiEntitiesDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPPiiEntitiesDetectionJob.html)|
+|[aws comprehend describe-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-resource-policy.html)|[Get-COMPResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPResourcePolicy.html)|
 |[aws comprehend describe-sentiment-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-sentiment-detection-job.html)|[Get-COMPSentimentDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPSentimentDetectionJob.html)|
 |[aws comprehend describe-topics-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/describe-topics-detection-job.html)|[Get-COMPTopicsDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPTopicsDetectionJob.html)|
 |[aws comprehend detect-dominant-language](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-dominant-language.html)|[Find-COMPDominantLanguage](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPDominantLanguage.html)|
@@ -43,6 +45,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend detect-pii-entities](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-pii-entities.html)|[Find-COMPPiiEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPPiiEntity.html)|
 |[aws comprehend detect-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-sentiment.html)|[Find-COMPSentiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSentiment.html)|
 |[aws comprehend detect-syntax](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-syntax.html)|[Find-COMPSyntax](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSyntax.html)|
+|[aws comprehend import-model](https://docs.aws.amazon.com/cli/latest/reference/comprehend/import-model.html)|[Import-COMPModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-COMPModel.html)|
 |[aws comprehend list-document-classification-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classification-jobs.html)|[Get-COMPDocumentClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassificationJobList.html)|
 |[aws comprehend list-document-classifier-summaries](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classifier-summaries.html)|[Get-COMPDocumentClassifierSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassifierSummaryList.html)|
 |[aws comprehend list-document-classifiers](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classifiers.html)|[Get-COMPDocumentClassifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassifierList.html)|
@@ -57,6 +60,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend list-sentiment-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-sentiment-detection-jobs.html)|[Get-COMPSentimentDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPSentimentDetectionJobList.html)|
 |[aws comprehend list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-tags-for-resource.html)|[Get-COMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPResourceTag.html)|
 |[aws comprehend list-topics-detection-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-topics-detection-jobs.html)|[Get-COMPTopicsDetectionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPTopicsDetectionJobList.html)|
+|[aws comprehend put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/comprehend/put-resource-policy.html)|[Write-COMPResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-COMPResourcePolicy.html)|
 |[aws comprehend start-document-classification-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/start-document-classification-job.html)|[Start-COMPDocumentClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-COMPDocumentClassificationJob.html)|
 |[aws comprehend start-dominant-language-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/start-dominant-language-detection-job.html)|[Start-COMPDominantLanguageDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-COMPDominantLanguageDetectionJob.html)|
 |[aws comprehend start-entities-detection-job](https://docs.aws.amazon.com/cli/latest/reference/comprehend/start-entities-detection-job.html)|[Start-COMPEntitiesDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-COMPEntitiesDetectionJob.html)|

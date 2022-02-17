@@ -1,6 +1,6 @@
 ---
 title: es
-date: 2022-01-29
+date: 2022-02-17
 description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 |[aws es delete-outbound-cross-cluster-search-connection](https://docs.aws.amazon.com/cli/latest/reference/es/delete-outbound-cross-cluster-search-connection.html)|[Remove-ESOutboundCrossClusterSearchConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESOutboundCrossClusterSearchConnection.html)|
 |[aws es delete-package](https://docs.aws.amazon.com/cli/latest/reference/es/delete-package.html)|[Remove-ESPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESPackage.html)|
 |[aws es describe-domain-auto-tunes](https://docs.aws.amazon.com/cli/latest/reference/es/describe-domain-auto-tunes.html)|[Get-ESDomainAutoTune](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainAutoTune.html)|
+|[aws es describe-domain-change-progress](https://docs.aws.amazon.com/cli/latest/reference/es/describe-domain-change-progress.html)|[Get-ESDomainChangeProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainChangeProgress.html)|
 |[aws es describe-elasticsearch-domain](https://docs.aws.amazon.com/cli/latest/reference/es/describe-elasticsearch-domain.html)|[Get-ESDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomain.html)|
 |[aws es describe-elasticsearch-domain-config](https://docs.aws.amazon.com/cli/latest/reference/es/describe-elasticsearch-domain-config.html)|[Get-ESDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainConfig.html)|
 |[aws es describe-elasticsearch-domains](https://docs.aws.amazon.com/cli/latest/reference/es/describe-elasticsearch-domains.html)|[Get-ESDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ESDomainList.html)|

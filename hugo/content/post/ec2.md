@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2022-01-29
+date: 2022-02-17
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -411,6 +411,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 import-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-image.html)|[Import-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Image.html)|
 |[aws ec2 import-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-key-pair.html)|[Import-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2KeyPair.html)|
 |[aws ec2 import-snapshot](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-snapshot.html)|[Import-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Snapshot.html)|
+|[aws ec2 list-images-in-recycle-bin](https://docs.aws.amazon.com/cli/latest/reference/ec2/list-images-in-recycle-bin.html)|[Get-EC2ImagesInRecycleBinList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImagesInRecycleBinList.html)|
 |[aws ec2 list-snapshots-in-recycle-bin](https://docs.aws.amazon.com/cli/latest/reference/ec2/list-snapshots-in-recycle-bin.html)|[Get-EC2SnapshotsInRecycleBinList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SnapshotsInRecycleBinList.html)|
 |[aws ec2 modify-address-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-address-attribute.html)|[Edit-EC2AddressAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AddressAttribute.html)|
 |[aws ec2 modify-availability-zone-group](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-availability-zone-group.html)|[Edit-EC2AvailabilityZoneGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2AvailabilityZoneGroup.html)|
@@ -505,6 +506,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 reset-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-network-interface-attribute.html)|[Reset-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 reset-snapshot-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/reset-snapshot-attribute.html)|[Reset-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-EC2SnapshotAttribute.html)|
 |[aws ec2 restore-address-to-classic](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-address-to-classic.html)|[Restore-EC2AddressToClassic](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2AddressToClassic.html)|
+|[aws ec2 restore-image-from-recycle-bin](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-image-from-recycle-bin.html)|[Restore-EC2ImageFromRecycleBin](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2ImageFromRecycleBin.html)|
 |[aws ec2 restore-managed-prefix-list-version](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-managed-prefix-list-version.html)|[Restore-EC2ManagedPrefixListVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2ManagedPrefixListVersion.html)|
 |[aws ec2 restore-snapshot-from-recycle-bin](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-snapshot-from-recycle-bin.html)|[Restore-EC2SnapshotFromRecycleBin](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2SnapshotFromRecycleBin.html)|
 |[aws ec2 restore-snapshot-tier](https://docs.aws.amazon.com/cli/latest/reference/ec2/restore-snapshot-tier.html)|[Restore-EC2SnapshotTier](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-EC2SnapshotTier.html)|

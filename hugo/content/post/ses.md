@@ -1,6 +1,6 @@
 ---
 title: ses
-date: 2022-02-17
+date: 2022-02-23
 description: aws ses (Amazon Simple Email Service) command/cmdlet list.
 ---
 

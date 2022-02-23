@@ -1,6 +1,6 @@
 ---
 title: iotevents
-date: 2022-02-17
+date: 2022-02-23
 description: aws iotevents (AWS IoT Events) command/cmdlet list.
 ---
 

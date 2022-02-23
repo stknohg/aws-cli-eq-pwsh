@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2022-02-17
+date: 2022-02-23
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 

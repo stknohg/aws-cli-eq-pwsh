@@ -1,6 +1,6 @@
 ---
 title: budgets
-date: 2022-02-17
+date: 2022-02-23
 description: aws budgets (AWS Budgets) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws budgets (AWS Budgets) command/cmdlet list.
 |[aws budgets describe-budget-action-histories](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-budget-action-histories.html)|[Get-BGTBudgetActionHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTBudgetActionHistory.html)|
 |[aws budgets describe-budget-actions-for-account](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-budget-actions-for-account.html)|[Get-BGTBudgetActionsForAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTBudgetActionsForAccount.html)|
 |[aws budgets describe-budget-actions-for-budget](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-budget-actions-for-budget.html)|[Get-BGTBudgetActionsForBudget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTBudgetActionsForBudget.html)|
+|[aws budgets describe-budget-notifications-for-account](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-budget-notifications-for-account.html)|[Get-BGTBudgetNotificationsForAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTBudgetNotificationsForAccount.html)|
 |[aws budgets describe-budget-performance-history](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-budget-performance-history.html)|[Get-BGTBudgetPerformanceHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTBudgetPerformanceHistory.html)|
 |[aws budgets describe-budgets](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-budgets.html)|[Get-BGTBudgetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTBudgetList.html)|
 |[aws budgets describe-notifications-for-budget](https://docs.aws.amazon.com/cli/latest/reference/budgets/describe-notifications-for-budget.html)|[Get-BGTNotificationsForBudget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTNotificationsForBudget.html)|

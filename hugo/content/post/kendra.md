@@ -1,12 +1,12 @@
 ---
 title: kendra
-date: 2022-02-23
+date: 2022-03-12
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 
 ## kendra
 
-### [Amazon Kendra](https://aws.amazon.com/kendra//)
+### [Amazon Kendra](https://aws.amazon.com/kendra/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kendra/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Kendra_cmdlets.html)

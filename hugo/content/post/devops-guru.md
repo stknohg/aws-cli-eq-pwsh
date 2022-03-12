@@ -1,6 +1,6 @@
 ---
 title: devops-guru
-date: 2022-02-23
+date: 2022-03-12
 description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 |[aws devops-guru describe-account-health](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-account-health.html)|[Get-DGURUAccountHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAccountHealth.html)|
 |[aws devops-guru describe-account-overview](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-account-overview.html)|[Get-DGURUAccountOverview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAccountOverview.html)|
 |[aws devops-guru describe-anomaly](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-anomaly.html)|[Get-DGURUAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAnomaly.html)|
+|[aws devops-guru describe-event-sources-config](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-event-sources-config.html)|[Get-DGURUEventSourcesConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUEventSourcesConfig.html)|
 |[aws devops-guru describe-feedback](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-feedback.html)|[Get-DGURUFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUFeedback.html)|
 |[aws devops-guru describe-insight](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-insight.html)|[Get-DGURUInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUInsight.html)|
 |[aws devops-guru describe-organization-health](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-organization-health.html)|[Get-DGURUOrganizationHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUOrganizationHealth.html)|
@@ -37,6 +38,7 @@ description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 |[aws devops-guru search-insights](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/search-insights.html)|[Search-DGURUInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-DGURUInsight.html)|
 |[aws devops-guru search-organization-insights](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/search-organization-insights.html)|[Search-DGURUOrganizationInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-DGURUOrganizationInsight.html)|
 |[aws devops-guru start-cost-estimation](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/start-cost-estimation.html)|[Start-DGURUCostEstimation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DGURUCostEstimation.html)|
+|[aws devops-guru update-event-sources-config](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/update-event-sources-config.html)|[Update-DGURUEventSourcesConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DGURUEventSourcesConfig.html)|
 |[aws devops-guru update-resource-collection](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/update-resource-collection.html)|[Update-DGURUResourceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DGURUResourceCollection.html)|
 |[aws devops-guru update-service-integration](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/update-service-integration.html)|[Update-DGURUServiceIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DGURUServiceIntegration.html)|
 

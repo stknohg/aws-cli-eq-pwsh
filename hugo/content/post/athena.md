@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2022-02-23
+date: 2022-03-12
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena tag-resource](https://docs.aws.amazon.com/cli/latest/reference/athena/tag-resource.html)|[Add-ATHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ATHResourceTag.html)|
 |[aws athena untag-resource](https://docs.aws.amazon.com/cli/latest/reference/athena/untag-resource.html)|[Remove-ATHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHResourceTag.html)|
 |[aws athena update-data-catalog](https://docs.aws.amazon.com/cli/latest/reference/athena/update-data-catalog.html)|[Update-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHDataCatalog.html)|
+|[aws athena update-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/update-named-query.html)|[Update-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHNamedQuery.html)|
 |[aws athena update-prepared-statement](https://docs.aws.amazon.com/cli/latest/reference/athena/update-prepared-statement.html)|[Update-ATHPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHPreparedStatement.html)|
 |[aws athena update-work-group](https://docs.aws.amazon.com/cli/latest/reference/athena/update-work-group.html)|[Update-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHWorkGroup.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2022-02-23
+date: 2022-03-12
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -59,6 +59,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api get-bucket-website](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-bucket-website.html)||
 |[aws s3api get-object](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object.html)||
 |[aws s3api get-object-acl](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object-acl.html)||
+|[aws s3api get-object-attributes](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object-attributes.html)||
 |[aws s3api get-object-legal-hold](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object-legal-hold.html)||
 |[aws s3api get-object-lock-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object-lock-configuration.html)||
 |[aws s3api get-object-retention](https://docs.aws.amazon.com/cli/latest/reference/s3api/get-object-retention.html)||

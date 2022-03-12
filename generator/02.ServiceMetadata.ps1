@@ -257,7 +257,8 @@ $g_AWSServices = @{
     'ivs'                             = [PSCustomObject]@{ Prefix = 'IVS'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
     'kafka'                           = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kafkaconnect'                    = [PSCustomObject]@{ Prefix = 'MSKC '; Name = 'Amazon Managed Streaming for Kafka Connect'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
-    'kendra'                          = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra//'; Note = '' };
+    'kendra'                          = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra/'; Note = '' };
+    'keyspaces'                       = [PSCustomObject]@{ Prefix = 'KS'; Name = 'Amazon Keyspaces'; Url = 'https://aws.amazon.com/jp/keyspaces/'; Note = '' };
     'kinesis'                         = [PSCustomObject]@{ Prefix = 'KIN'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-archived-media'    = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-media'             = [PSCustomObject]@{ Prefix = 'KVM'; Name = 'Amazon Kinesis Video Streams Media'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
@@ -562,6 +563,7 @@ $g_CmdletReferenceLinks = @{
     'kafka'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
     'kafkaconnect'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KafkaConnect_cmdlets.html';
     'kendra'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Kendra_cmdlets.html';
+    'keyspaces'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Keyspaces_cmdlets.html';
     'kinesis'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_cmdlets.html';
     'kinesis-video-archived-media'    = '';
     'kinesis-video-media'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Video_Streams_Media_cmdlets.html';

@@ -1,6 +1,6 @@
 ---
 title: dataexchange
-date: 2022-03-12
+date: 2022-03-25
 description: aws dataexchange (AWS Data Exchange) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws dataexchange (AWS Data Exchange) command/cmdlet list.
 |[aws dataexchange list-jobs](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/list-jobs.html)|[Get-DTEXJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTEXJobList.html)|
 |[aws dataexchange list-revision-assets](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/list-revision-assets.html)|[Get-DTEXRevisionAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTEXRevisionAssetList.html)|
 |[aws dataexchange list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/list-tags-for-resource.html)|[Get-DTEXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTEXResourceTag.html)|
+|[aws dataexchange revoke-revision](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/revoke-revision.html)|[Revoke-DTEXRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-DTEXRevision.html)|
 |[aws dataexchange send-api-asset](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/send-api-asset.html)|[Send-DTEXApiAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-DTEXApiAsset.html)|
 |[aws dataexchange start-job](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/start-job.html)|[Start-DTEXJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DTEXJob.html)|
 |[aws dataexchange tag-resource](https://docs.aws.amazon.com/cli/latest/reference/dataexchange/tag-resource.html)|[Add-DTEXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DTEXResourceTag.html)|

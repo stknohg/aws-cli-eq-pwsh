@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2022-03-12
+date: 2022-03-25
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 
@@ -39,7 +39,10 @@ description: aws ce (Cost Explorer) command/cmdlet list.
 |[aws ce get-tags](https://docs.aws.amazon.com/cli/latest/reference/ce/get-tags.html)|[Get-CETag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CETag.html)|
 |[aws ce get-usage-forecast](https://docs.aws.amazon.com/cli/latest/reference/ce/get-usage-forecast.html)|[Get-CEUsageForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEUsageForecast.html)|
 |[aws ce list-cost-category-definitions](https://docs.aws.amazon.com/cli/latest/reference/ce/list-cost-category-definitions.html)|[Get-CECostCategoryDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostCategoryDefinitionList.html)|
+|[aws ce list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ce/list-tags-for-resource.html)|[Get-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEResourceTag.html)|
 |[aws ce provide-anomaly-feedback](https://docs.aws.amazon.com/cli/latest/reference/ce/provide-anomaly-feedback.html)|[Set-CEAnomalyFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CEAnomalyFeedback.html)|
+|[aws ce tag-resource](https://docs.aws.amazon.com/cli/latest/reference/ce/tag-resource.html)|[Add-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CEResourceTag.html)|
+|[aws ce untag-resource](https://docs.aws.amazon.com/cli/latest/reference/ce/untag-resource.html)|[Remove-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CEResourceTag.html)|
 |[aws ce update-anomaly-monitor](https://docs.aws.amazon.com/cli/latest/reference/ce/update-anomaly-monitor.html)|[Update-CEAnomalyMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CEAnomalyMonitor.html)|
 |[aws ce update-anomaly-subscription](https://docs.aws.amazon.com/cli/latest/reference/ce/update-anomaly-subscription.html)|[Update-CEAnomalySubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CEAnomalySubscription.html)|
 |[aws ce update-cost-category-definition](https://docs.aws.amazon.com/cli/latest/reference/ce/update-cost-category-definition.html)|[Update-CECostCategoryDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CECostCategoryDefinition.html)|

@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2022-03-12
+date: 2022-03-25
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue batch-stop-job-run](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-stop-job-run.html)|[Stop-GLUEJobRunBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEJobRunBatch.html)|
 |[aws glue batch-update-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-update-partition.html)|[Update-GLUEPartitionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEPartitionBatch.html)|
 |[aws glue cancel-ml-task-run](https://docs.aws.amazon.com/cli/latest/reference/glue/cancel-ml-task-run.html)|[Stop-GLUEMLTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEMLTaskRun.html)|
+|[aws glue cancel-statement](https://docs.aws.amazon.com/cli/latest/reference/glue/cancel-statement.html)|[Stop-GLUEStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEStatement.html)|
 |[aws glue check-schema-version-validity](https://docs.aws.amazon.com/cli/latest/reference/glue/check-schema-version-validity.html)|[Get-GLUESchemaVersionValidity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionValidity.html)|
 |[aws glue create-blueprint](https://docs.aws.amazon.com/cli/latest/reference/glue/create-blueprint.html)|[New-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEBlueprint.html)|
 |[aws glue create-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/create-classifier.html)|[New-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEClassifier.html)|
@@ -43,6 +44,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue create-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/create-schema.html)|[New-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUESchema.html)|
 |[aws glue create-script](https://docs.aws.amazon.com/cli/latest/reference/glue/create-script.html)|[New-GLUEScript](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEScript.html)|
 |[aws glue create-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/create-security-configuration.html)|[New-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUESecurityConfiguration.html)|
+|[aws glue create-session](https://docs.aws.amazon.com/cli/latest/reference/glue/create-session.html)|[New-GLUESession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUESession.html)|
 |[aws glue create-table](https://docs.aws.amazon.com/cli/latest/reference/glue/create-table.html)|[New-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETable.html)|
 |[aws glue create-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/create-trigger.html)|[New-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETrigger.html)|
 |[aws glue create-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/create-user-defined-function.html)|[New-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEUserDefinedFunction.html)|
@@ -64,6 +66,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-schema.html)|[Remove-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchema.html)|
 |[aws glue delete-schema-versions](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-schema-versions.html)|[Remove-GLUESchemaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchemaVersion.html)|
 |[aws glue delete-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-security-configuration.html)|[Remove-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESecurityConfiguration.html)|
+|[aws glue delete-session](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-session.html)|[Remove-GLUESession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESession.html)|
 |[aws glue delete-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-table.html)|[Remove-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETable.html)|
 |[aws glue delete-table-version](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-table-version.html)|[Remove-GLUETableVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableVersion.html)|
 |[aws glue delete-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-trigger.html)|[Remove-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETrigger.html)|
@@ -111,6 +114,8 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-schema-versions-diff](https://docs.aws.amazon.com/cli/latest/reference/glue/get-schema-versions-diff.html)|[Get-GLUESchemaVersionsDiff](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionsDiff.html)|
 |[aws glue get-security-configuration](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configuration.html)|[Get-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfiguration.html)|
 |[aws glue get-security-configurations](https://docs.aws.amazon.com/cli/latest/reference/glue/get-security-configurations.html)|[Get-GLUESecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfigurationList.html)|
+|[aws glue get-session](https://docs.aws.amazon.com/cli/latest/reference/glue/get-session.html)|[Get-GLUESession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESession.html)|
+|[aws glue get-statement](https://docs.aws.amazon.com/cli/latest/reference/glue/get-statement.html)|[Get-GLUEStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEStatement.html)|
 |[aws glue get-table](https://docs.aws.amazon.com/cli/latest/reference/glue/get-table.html)|[Get-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETable.html)|
 |[aws glue get-table-version](https://docs.aws.amazon.com/cli/latest/reference/glue/get-table-version.html)|[Get-GLUETableVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETableVersion.html)|
 |[aws glue get-table-versions](https://docs.aws.amazon.com/cli/latest/reference/glue/get-table-versions.html)|[Get-GLUETableVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETableVersionList.html)|
@@ -136,6 +141,8 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue list-registries](https://docs.aws.amazon.com/cli/latest/reference/glue/list-registries.html)|[Get-GLUERegistryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUERegistryList.html)|
 |[aws glue list-schema-versions](https://docs.aws.amazon.com/cli/latest/reference/glue/list-schema-versions.html)|[Get-GLUESchemaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionList.html)|
 |[aws glue list-schemas](https://docs.aws.amazon.com/cli/latest/reference/glue/list-schemas.html)|[Get-GLUESchemaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaList.html)|
+|[aws glue list-sessions](https://docs.aws.amazon.com/cli/latest/reference/glue/list-sessions.html)|[Get-GLUESessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESessionList.html)|
+|[aws glue list-statements](https://docs.aws.amazon.com/cli/latest/reference/glue/list-statements.html)|[Get-GLUEStatementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEStatementList.html)|
 |[aws glue list-triggers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-triggers.html)|[Get-GLUETriggerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerNameList.html)|
 |[aws glue list-workflows](https://docs.aws.amazon.com/cli/latest/reference/glue/list-workflows.html)|[Get-GLUEWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowList.html)|
 |[aws glue put-data-catalog-encryption-settings](https://docs.aws.amazon.com/cli/latest/reference/glue/put-data-catalog-encryption-settings.html)|[Set-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEDataCatalogEncryptionSetting.html)|
@@ -147,6 +154,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue remove-schema-version-metadata](https://docs.aws.amazon.com/cli/latest/reference/glue/remove-schema-version-metadata.html)|[Remove-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchemaVersionMetadata.html)|
 |[aws glue reset-job-bookmark](https://docs.aws.amazon.com/cli/latest/reference/glue/reset-job-bookmark.html)|[Reset-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GLUEJobBookmark.html)|
 |[aws glue resume-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/resume-workflow-run.html)|[Resume-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-GLUEWorkflowRun.html)|
+|[aws glue run-statement](https://docs.aws.amazon.com/cli/latest/reference/glue/run-statement.html)|[Invoke-GLUEStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-GLUEStatement.html)|
 |[aws glue search-tables](https://docs.aws.amazon.com/cli/latest/reference/glue/search-tables.html)|[Find-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GLUETable.html)|
 |[aws glue start-blueprint-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-blueprint-run.html)|[Start-GLUEBlueprintRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEBlueprintRun.html)|
 |[aws glue start-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/start-crawler.html)|[Start-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUECrawler.html)|
@@ -160,6 +168,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue start-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/start-workflow-run.html)|[Start-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEWorkflowRun.html)|
 |[aws glue stop-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-crawler.html)|[Stop-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawler.html)|
 |[aws glue stop-crawler-schedule](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-crawler-schedule.html)|[Stop-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawlerSchedule.html)|
+|[aws glue stop-session](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-session.html)|[Stop-GLUESession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUESession.html)|
 |[aws glue stop-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-trigger.html)|[Stop-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUETrigger.html)|
 |[aws glue stop-workflow-run](https://docs.aws.amazon.com/cli/latest/reference/glue/stop-workflow-run.html)|[Stop-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEWorkflowRun.html)|
 |[aws glue tag-resource](https://docs.aws.amazon.com/cli/latest/reference/glue/tag-resource.html)|[Add-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GLUEResourceTag.html)|

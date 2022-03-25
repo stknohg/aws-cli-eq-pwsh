@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-03-12
+date: 2022-03-25
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.4.25 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.42 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.4.28 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.50 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -50,6 +50,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
+|[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||

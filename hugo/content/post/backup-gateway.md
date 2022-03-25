@@ -1,6 +1,6 @@
 ---
 title: backup-gateway
-date: 2022-03-12
+date: 2022-03-25
 description: aws backup-gateway (AWS Backup) command/cmdlet list.
 ---
 

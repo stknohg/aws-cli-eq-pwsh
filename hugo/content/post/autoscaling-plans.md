@@ -1,6 +1,6 @@
 ---
 title: autoscaling-plans
-date: 2022-03-12
+date: 2022-03-25
 description: aws autoscaling-plans (AWS Auto Scaling) command/cmdlet list.
 ---
 

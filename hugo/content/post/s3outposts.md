@@ -1,6 +1,6 @@
 ---
 title: s3outposts
-date: 2022-03-12
+date: 2022-03-25
 description: aws s3outposts (Amazon S3 on Outposts) command/cmdlet list.
 ---
 
@@ -16,4 +16,5 @@ description: aws s3outposts (Amazon S3 on Outposts) command/cmdlet list.
 |[aws s3outposts create-endpoint](https://docs.aws.amazon.com/cli/latest/reference/s3outposts/create-endpoint.html)|[New-S3OEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3OEndpoint.html)|
 |[aws s3outposts delete-endpoint](https://docs.aws.amazon.com/cli/latest/reference/s3outposts/delete-endpoint.html)|[Remove-S3OEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3OEndpoint.html)|
 |[aws s3outposts list-endpoints](https://docs.aws.amazon.com/cli/latest/reference/s3outposts/list-endpoints.html)|[Get-S3OEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3OEndpointList.html)|
+|[aws s3outposts list-shared-endpoints](https://docs.aws.amazon.com/cli/latest/reference/s3outposts/list-shared-endpoints.html)|[Get-S3OSharedEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3OSharedEndpointList.html)|
 

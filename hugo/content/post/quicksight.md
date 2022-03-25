@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2022-03-12
+date: 2022-03-25
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -61,6 +61,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-folder-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-folder-permissions.html)|[Get-QSFolderPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFolderPermission.html)|
 |[aws quicksight describe-folder-resolved-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-folder-resolved-permissions.html)|[Get-QSFolderResolvedPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFolderResolvedPermission.html)|
 |[aws quicksight describe-group](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-group.html)|[Get-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroup.html)|
+|[aws quicksight describe-group-membership](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-group-membership.html)|[Get-QSGroupMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroupMembership.html)|
 |[aws quicksight describe-iam-policy-assignment](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-iam-policy-assignment.html)|[Get-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIAMPolicyAssignment.html)|
 |[aws quicksight describe-ingestion](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-ingestion.html)|[Get-QSIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIngestion.html)|
 |[aws quicksight describe-ip-restriction](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-ip-restriction.html)|[Get-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIpRestriction.html)|
@@ -103,6 +104,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight search-analyses](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-analyses.html)|[Search-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSAnalysis.html)|
 |[aws quicksight search-dashboards](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-dashboards.html)|[Search-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDashboard.html)|
 |[aws quicksight search-folders](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-folders.html)|[Search-QSFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSFolder.html)|
+|[aws quicksight search-groups](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-groups.html)|[Find-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-QSGroup.html)|
 |[aws quicksight tag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|
 |[aws quicksight untag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/untag-resource.html)|[Remove-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSResourceTag.html)|
 |[aws quicksight update-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-account-customization.html)|[Update-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountCustomization.html)|

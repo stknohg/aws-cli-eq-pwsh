@@ -133,6 +133,7 @@ $g_AWSServices = @{
     'backup'                          = [PSCustomObject]@{ Prefix = 'BAK'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = '' };
     'backup-gateway'                  = [PSCustomObject]@{ Prefix = 'BUGW'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = 'Backup gateway' };
     'batch'                           = [PSCustomObject]@{ Prefix = 'BAT'; Name = 'AWS Batch'; Url = 'https://aws.amazon.com/batch/'; Note = '' };
+    'billingconductor'                = [PSCustomObject]@{ Prefix = 'ABC'; Name = 'AWS Billing Conductor'; Url = 'https://aws.amazon.com/aws-cost-management/aws-billing-conductor/'; Note = '' };
     'braket'                          = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                              = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
@@ -439,6 +440,7 @@ $g_CmdletReferenceLinks = @{
     'backup'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Backup_cmdlets.html';
     'backup-gateway'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/BackupGateway_cmdlets.html';
     'batch'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Batch_cmdlets.html';
+    'billingconductor'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/BillingConductor_cmdlets.html';
     'braket'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html';
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
     'ce'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html';

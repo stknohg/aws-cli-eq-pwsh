@@ -222,7 +222,7 @@ $g_AWSServices = @{
     'frauddetector'                   = [PSCustomObject]@{ Prefix = 'FD'; Name = 'Amazon Fraud Detector'; Url = 'https://aws.amazon.com/fraud-detector/'; Note = '' };
     'fsx'                             = [PSCustomObject]@{ Prefix = 'FSX'; Name = 'Amazon FSx'; Url = 'https://aws.amazon.com/fsx/'; Note = '' };
     'gamelift'                        = [PSCustomObject]@{ Prefix = 'GML'; Name = 'Amazon GameLift'; Url = 'https://aws.amazon.com/gamelift/'; Note = '' };
-    'gamesparks'                      = [PSCustomObject]@{ Prefix = 'GMESP '; Name = 'Amazon GameSpark'; Url = 'https://aws.amazon.com/gamesparks/'; Note = '' };
+    'gamesparks'                      = [PSCustomObject]@{ Prefix = 'GMESP '; Name = 'Amazon GameSparks'; Url = 'https://aws.amazon.com/gamesparks/'; Note = '' };
     'glacier'                         = [PSCustomObject]@{ Prefix = 'GLC'; Name = 'Amazon S3 Glacier'; Url = 'https://aws.amazon.com/glacier/'; Note = '' };
     'globalaccelerator'               = [PSCustomObject]@{ Prefix = 'GACL'; Name = 'AWS Global Accelerator'; Url = 'https://aws.amazon.com/global-accelerator/'; Note = '' };
     'glue'                            = [PSCustomObject]@{ Prefix = 'GLUE'; Name = 'AWS Glue'; Url = 'https://aws.amazon.com/glue/'; Note = '' };

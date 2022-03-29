@@ -1,12 +1,12 @@
 ---
 title: gamesparks
 date: 2022-03-29
-description: aws gamesparks (Amazon GameSpark) command/cmdlet list.
+description: aws gamesparks (Amazon GameSparks) command/cmdlet list.
 ---
 
 ## gamesparks
 
-### [Amazon GameSpark](https://aws.amazon.com/gamesparks/)
+### [Amazon GameSparks](https://aws.amazon.com/gamesparks/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/gamesparks/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/GameSparks_cmdlets.html)

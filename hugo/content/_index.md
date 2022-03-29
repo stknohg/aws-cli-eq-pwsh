@@ -139,7 +139,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Fraud Detector](https://aws.amazon.com/fraud-detector/)|[frauddetector]({{%relref "post/frauddetector.md" %}})|FD||
 |[Amazon FSx](https://aws.amazon.com/fsx/)|[fsx]({{%relref "post/fsx.md" %}})|FSX||
 |[Amazon GameLift](https://aws.amazon.com/gamelift/)|[gamelift]({{%relref "post/gamelift.md" %}})|GML||
-|[Amazon GameSpark](https://aws.amazon.com/gamesparks/)|[gamesparks]({{%relref "post/gamesparks.md" %}})|GMESP ||
+|[Amazon GameSparks](https://aws.amazon.com/gamesparks/)|[gamesparks]({{%relref "post/gamesparks.md" %}})|GMESP ||
 |[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||

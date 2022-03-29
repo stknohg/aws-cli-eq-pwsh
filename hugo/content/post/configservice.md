@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2022-03-25
+date: 2022-03-29
 description: aws configservice (AWS Config) command/cmdlet list.
 ---
 
@@ -67,9 +67,11 @@ description: aws configservice (AWS Config) command/cmdlet list.
 |[aws configservice get-compliance-summary-by-resource-type](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-compliance-summary-by-resource-type.html)|[Get-CFGComplianceSummaryByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGComplianceSummaryByResourceType.html)|
 |[aws configservice get-conformance-pack-compliance-details](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-conformance-pack-compliance-details.html)|[Get-CFGConformancePackComplianceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGConformancePackComplianceDetail.html)|
 |[aws configservice get-conformance-pack-compliance-summary](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-conformance-pack-compliance-summary.html)|[Get-CFGConformancePackComplianceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGConformancePackComplianceSummary.html)|
+|[aws configservice get-custom-rule-policy](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-custom-rule-policy.html)|[Get-CFGCustomRulePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGCustomRulePolicy.html)|
 |[aws configservice get-discovered-resource-counts](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-discovered-resource-counts.html)|[Get-CFGDiscoveredResourceCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDiscoveredResourceCount.html)|
 |[aws configservice get-organization-config-rule-detailed-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-organization-config-rule-detailed-status.html)|[Get-CFGOrganizationConfigRuleDetailedStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGOrganizationConfigRuleDetailedStatus.html)|
 |[aws configservice get-organization-conformance-pack-detailed-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-organization-conformance-pack-detailed-status.html)|[Get-CFGOrganizationConformancePackDetailedStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGOrganizationConformancePackDetailedStatus.html)|
+|[aws configservice get-organization-custom-rule-policy](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-organization-custom-rule-policy.html)|[Get-CFGOrganizationCustomRulePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGOrganizationCustomRulePolicy.html)|
 |[aws configservice get-resource-config-history](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-resource-config-history.html)|[Get-CFGResourceConfigHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceConfigHistory.html)|
 |[aws configservice get-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-status.html)||
 |[aws configservice get-stored-query](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-stored-query.html)|[Get-CFGStoredQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGStoredQuery.html)|

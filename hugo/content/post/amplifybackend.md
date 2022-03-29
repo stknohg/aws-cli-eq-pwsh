@@ -1,6 +1,6 @@
 ---
 title: amplifybackend
-date: 2022-03-25
+date: 2022-03-29
 description: aws amplifybackend (AWS Amplify Backend) command/cmdlet list.
 ---
 

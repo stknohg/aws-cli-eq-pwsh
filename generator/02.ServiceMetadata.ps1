@@ -222,6 +222,7 @@ $g_AWSServices = @{
     'frauddetector'                   = [PSCustomObject]@{ Prefix = 'FD'; Name = 'Amazon Fraud Detector'; Url = 'https://aws.amazon.com/fraud-detector/'; Note = '' };
     'fsx'                             = [PSCustomObject]@{ Prefix = 'FSX'; Name = 'Amazon FSx'; Url = 'https://aws.amazon.com/fsx/'; Note = '' };
     'gamelift'                        = [PSCustomObject]@{ Prefix = 'GML'; Name = 'Amazon GameLift'; Url = 'https://aws.amazon.com/gamelift/'; Note = '' };
+    'gamesparks'                      = [PSCustomObject]@{ Prefix = 'GMESP '; Name = 'Amazon GameSpark'; Url = 'https://aws.amazon.com/gamesparks/'; Note = '' };
     'glacier'                         = [PSCustomObject]@{ Prefix = 'GLC'; Name = 'Amazon S3 Glacier'; Url = 'https://aws.amazon.com/glacier/'; Note = '' };
     'globalaccelerator'               = [PSCustomObject]@{ Prefix = 'GACL'; Name = 'AWS Global Accelerator'; Url = 'https://aws.amazon.com/global-accelerator/'; Note = '' };
     'glue'                            = [PSCustomObject]@{ Prefix = 'GLUE'; Name = 'AWS Glue'; Url = 'https://aws.amazon.com/glue/'; Note = '' };
@@ -528,6 +529,7 @@ $g_CmdletReferenceLinks = @{
     'frauddetector'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/FraudDetector_cmdlets.html'
     'fsx'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_FSx_cmdlets.html';
     'gamelift'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_GameLift_Service_cmdlets.html';
+    'gamesparks'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/GameSparks_cmdlets.html'
     'glacier'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Glacier_cmdlets.html';
     'globalaccelerator'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Global_Accelerator_cmdlets.html';
     'glue'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Glue_cmdlets.html';

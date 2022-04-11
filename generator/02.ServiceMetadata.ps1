@@ -325,6 +325,7 @@ $g_AWSServices = @{
     'pinpoint'                        = [PSCustomObject]@{ Prefix = 'PIN'; Name = 'Amazon Pinpoint'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'pinpoint-email'                  = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint Email'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'pinpoint-sms-voice'              = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
+    'pinpoint-sms-voice-v2'           = [PSCustomObject]@{ Prefix = 'SMSV'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'polly'                           = [PSCustomObject]@{ Prefix = 'POL'; Name = 'Amazon Polly'; Url = 'https://aws.amazon.com/pinpoint/polly/'; Note = '' };
     'pricing'                         = [PSCustomObject]@{ Prefix = 'PLS'; Name = 'AWS Price List Service'; Url = 'https://aws.amazon.com/pricing/'; Note = '' };
     'proton'                          = [PSCustomObject]@{ Prefix = 'PRO'; Name = 'AWS Proton'; Url = 'https://aws.amazon.com/proton/'; Note = '' };
@@ -632,6 +633,7 @@ $g_CmdletReferenceLinks = @{
     'pinpoint'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Pinpoint_cmdlets.html';
     'pinpoint-email'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html';
     'pinpoint-sms-voice'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html';
+    'pinpoint-sms-voice-v2'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointSMSVoiceV2_cmdlets.html';
     'polly'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Polly_cmdlets.html';
     'pricing'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html';
     'proton'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Proton_cmdlets.html';

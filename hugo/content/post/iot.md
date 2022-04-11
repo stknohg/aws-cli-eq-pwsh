@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2022-03-29
+date: 2022-04-11
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -168,6 +168,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-job-templates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-job-templates.html)|[Get-IOTJobTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobTemplateList.html)|
 |[aws iot list-jobs](https://docs.aws.amazon.com/cli/latest/reference/iot/list-jobs.html)|[Get-IOTJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobList.html)|
 |[aws iot list-managed-job-templates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-managed-job-templates.html)|[Get-IOTManagedJobTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTManagedJobTemplateList.html)|
+|[aws iot list-metric-values](https://docs.aws.amazon.com/cli/latest/reference/iot/list-metric-values.html)|[Get-IOTMetricValueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMetricValueList.html)|
 |[aws iot list-mitigation-actions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-mitigation-actions.html)|[Get-IOTMitigationActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMitigationActionList.html)|
 |[aws iot list-ota-updates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-ota-updates.html)|[Get-IOTOTAUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOTAUpdateList.html)|
 |[aws iot list-outgoing-certificates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-outgoing-certificates.html)|[Get-IOTOutgoingCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOutgoingCertificate.html)|

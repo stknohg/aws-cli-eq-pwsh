@@ -1,6 +1,6 @@
 ---
 title: organizations
-date: 2022-03-29
+date: 2022-04-11
 description: aws organizations (AWS Organizations) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws organizations (AWS Organizations) command/cmdlet list.
 |[aws organizations accept-handshake](https://docs.aws.amazon.com/cli/latest/reference/organizations/accept-handshake.html)|[Confirm-ORGHandshake](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-ORGHandshake.html)|
 |[aws organizations attach-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/attach-policy.html)|[Add-ORGPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ORGPolicy.html)|
 |[aws organizations cancel-handshake](https://docs.aws.amazon.com/cli/latest/reference/organizations/cancel-handshake.html)|[Stop-ORGHandshake](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ORGHandshake.html)|
+|[aws organizations close-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/close-account.html)|[Close-ORGAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Close-ORGAccount.html)|
 |[aws organizations create-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/create-account.html)|[New-ORGAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ORGAccount.html)|
 |[aws organizations create-gov-cloud-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/create-gov-cloud-account.html)|[New-ORGGovCloudAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ORGGovCloudAccount.html)|
 |[aws organizations create-organization](https://docs.aws.amazon.com/cli/latest/reference/organizations/create-organization.html)|[New-ORGOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ORGOrganization.html)|

@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2022-03-29
+date: 2022-04-11
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces create-updated-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-updated-workspace-image.html)|[New-WKSUpdatedWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSUpdatedWorkspaceImage.html)|
 |[aws workspaces create-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspace-bundle.html)|[New-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceBundle.html)|
 |[aws workspaces create-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspaces.html)|[New-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspace.html)|
+|[aws workspaces delete-client-branding](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-client-branding.html)|[Remove-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSClientBranding.html)|
 |[aws workspaces delete-connect-client-add-in](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-connect-client-add-in.html)|[Remove-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectClientAddIn.html)|
 |[aws workspaces delete-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-connection-alias.html)|[Remove-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectionAlias.html)|
 |[aws workspaces delete-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-ip-group.html)|[Remove-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSIpGroup.html)|
@@ -33,6 +34,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces deregister-workspace-directory](https://docs.aws.amazon.com/cli/latest/reference/workspaces/deregister-workspace-directory.html)|[Unregister-WKSWorkspaceDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSWorkspaceDirectory.html)|
 |[aws workspaces describe-account](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-account.html)|[Get-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccount.html)|
 |[aws workspaces describe-account-modifications](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-account-modifications.html)|[Get-WKSAccountModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccountModification.html)|
+|[aws workspaces describe-client-branding](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-client-branding.html)|[Get-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSClientBranding.html)|
 |[aws workspaces describe-client-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-client-properties.html)|[Get-WKSClientProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSClientProperty.html)|
 |[aws workspaces describe-connect-client-add-ins](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-connect-client-add-ins.html)|[Get-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSConnectClientAddIn.html)|
 |[aws workspaces describe-connection-alias-permissions](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-connection-alias-permissions.html)|[Get-WKSConnectionAliasPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSConnectionAliasPermission.html)|
@@ -48,6 +50,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces describe-workspaces-connection-status](https://docs.aws.amazon.com/cli/latest/reference/workspaces/describe-workspaces-connection-status.html)|[Get-WKSWorkspacesConnectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSWorkspacesConnectionStatus.html)|
 |[aws workspaces disassociate-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/disassociate-connection-alias.html)|[Unregister-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSConnectionAlias.html)|
 |[aws workspaces disassociate-ip-groups](https://docs.aws.amazon.com/cli/latest/reference/workspaces/disassociate-ip-groups.html)|[Unregister-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSIpGroup.html)|
+|[aws workspaces import-client-branding](https://docs.aws.amazon.com/cli/latest/reference/workspaces/import-client-branding.html)|[Import-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSClientBranding.html)|
 |[aws workspaces import-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/import-workspace-image.html)|[Import-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSWorkspaceImage.html)|
 |[aws workspaces list-available-management-cidr-ranges](https://docs.aws.amazon.com/cli/latest/reference/workspaces/list-available-management-cidr-ranges.html)|[Get-WKSAvailableManagementCidrRangeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAvailableManagementCidrRangeList.html)|
 |[aws workspaces migrate-workspace](https://docs.aws.amazon.com/cli/latest/reference/workspaces/migrate-workspace.html)|[Start-WKSWorkspaceMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WKSWorkspaceMigration.html)|

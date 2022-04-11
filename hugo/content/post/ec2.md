@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2022-03-29
+date: 2022-04-11
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -431,6 +431,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-instance-credit-specification](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-credit-specification.html)|[Edit-EC2InstanceCreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceCreditSpecification.html)|
 |[aws ec2 modify-instance-event-start-time](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-event-start-time.html)|[Edit-EC2InstanceEventStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventStartTime.html)|
 |[aws ec2 modify-instance-event-window](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-event-window.html)|[Edit-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventWindow.html)|
+|[aws ec2 modify-instance-maintenance-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-maintenance-options.html)|[Edit-EC2InstanceMaintenanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMaintenanceOption.html)|
 |[aws ec2 modify-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-metadata-options.html)|[Edit-EC2InstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataOption.html)|
 |[aws ec2 modify-instance-placement](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-instance-placement.html)|[Edit-EC2InstancePlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstancePlacement.html)|
 |[aws ec2 modify-ipam](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam.html)|[Edit-EC2Ipam](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Ipam.html)|

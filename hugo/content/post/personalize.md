@@ -1,6 +1,6 @@
 ---
 title: personalize
-date: 2022-03-29
+date: 2022-04-11
 description: aws personalize (Amazon Personalize) command/cmdlet list.
 ---
 
@@ -65,7 +65,10 @@ description: aws personalize (Amazon Personalize) command/cmdlet list.
 |[aws personalize list-schemas](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-schemas.html)|[Get-PERSSchemaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSSchemaList.html)|
 |[aws personalize list-solution-versions](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-solution-versions.html)|[Get-PERSSolutionVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSSolutionVersionList.html)|
 |[aws personalize list-solutions](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-solutions.html)|[Get-PERSSolutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSSolutionList.html)|
+|[aws personalize list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/personalize/list-tags-for-resource.html)|[Get-PERSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSResourceTag.html)|
 |[aws personalize stop-solution-version-creation](https://docs.aws.amazon.com/cli/latest/reference/personalize/stop-solution-version-creation.html)|[Stop-PERSSolutionVersionCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-PERSSolutionVersionCreation.html)|
+|[aws personalize tag-resource](https://docs.aws.amazon.com/cli/latest/reference/personalize/tag-resource.html)|[Add-PERSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PERSResourceTag.html)|
+|[aws personalize untag-resource](https://docs.aws.amazon.com/cli/latest/reference/personalize/untag-resource.html)|[Remove-PERSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PERSResourceTag.html)|
 |[aws personalize update-campaign](https://docs.aws.amazon.com/cli/latest/reference/personalize/update-campaign.html)|[Update-PERSCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSCampaign.html)|
 |[aws personalize update-recommender](https://docs.aws.amazon.com/cli/latest/reference/personalize/update-recommender.html)|[Update-PERSRecommender](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSRecommender.html)|
 

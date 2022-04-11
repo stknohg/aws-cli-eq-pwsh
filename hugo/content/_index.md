@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-03-29
+date: 2022-04-11
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.5.0 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.52 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.5.4 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.61 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -242,6 +242,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Pinpoint](https://aws.amazon.com/pinpoint/)|[pinpoint]({{%relref "post/pinpoint.md" %}})|PIN||
 |[Amazon Pinpoint Email](https://aws.amazon.com/pinpoint/)|[pinpoint-email]({{%relref "post/pinpoint-email.md" %}})|PINE||
 |[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice]({{%relref "post/pinpoint-sms-voice.md" %}})|PINE||
+|[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice-v2]({{%relref "post/pinpoint-sms-voice-v2.md" %}})|SMSV||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
 |[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO||

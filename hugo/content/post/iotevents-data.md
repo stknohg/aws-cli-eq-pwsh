@@ -1,6 +1,6 @@
 ---
 title: iotevents-data
-date: 2022-04-11
+date: 2022-05-21
 description: aws iotevents-data (AWS IoT Events) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws iotevents-data (AWS IoT Events) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws iotevents-data batch-acknowledge-alarm](https://docs.aws.amazon.com/cli/latest/reference/iotevents-data/batch-acknowledge-alarm.html)|[Send-IOTEDAcknowledgeAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-IOTEDAcknowledgeAlarm.html)|
+|[aws iotevents-data batch-delete-detector](https://docs.aws.amazon.com/cli/latest/reference/iotevents-data/batch-delete-detector.html)|[Remove-IOTEDDetectorBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTEDDetectorBatch.html)|
 |[aws iotevents-data batch-disable-alarm](https://docs.aws.amazon.com/cli/latest/reference/iotevents-data/batch-disable-alarm.html)|[Send-IOTEDDisableAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-IOTEDDisableAlarm.html)|
 |[aws iotevents-data batch-enable-alarm](https://docs.aws.amazon.com/cli/latest/reference/iotevents-data/batch-enable-alarm.html)|[Send-IOTEDEnableAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-IOTEDEnableAlarm.html)|
 |[aws iotevents-data batch-put-message](https://docs.aws.amazon.com/cli/latest/reference/iotevents-data/batch-put-message.html)|[Send-IOTEDMessageBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-IOTEDMessageBatch.html)|

@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2022-04-11
+date: 2022-05-21
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -27,7 +27,6 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds copy-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-parameter-group.html)|[Copy-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBParameterGroup.html)|
 |[aws rds copy-db-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-snapshot.html)|[Copy-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBSnapshot.html)|
 |[aws rds copy-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-option-group.html)|[Copy-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSOptionGroup.html)|
-|[aws rds create-custom-availability-zone](https://docs.aws.amazon.com/cli/latest/reference/rds/create-custom-availability-zone.html)|[New-RDSCustomAvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSCustomAvailabilityZone.html)|
 |[aws rds create-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/create-custom-db-engine-version.html)|[New-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSCustomDBEngineVersion.html)|
 |[aws rds create-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster.html)|[New-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBCluster.html)|
 |[aws rds create-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster-endpoint.html)|[New-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBClusterEndpoint.html)|
@@ -44,7 +43,6 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/rds/create-event-subscription.html)|[New-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSEventSubscription.html)|
 |[aws rds create-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/create-global-cluster.html)|[New-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSGlobalCluster.html)|
 |[aws rds create-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-option-group.html)|[New-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSOptionGroup.html)|
-|[aws rds delete-custom-availability-zone](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-custom-availability-zone.html)|[Remove-RDSCustomAvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSCustomAvailabilityZone.html)|
 |[aws rds delete-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-custom-db-engine-version.html)|[Remove-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSCustomDBEngineVersion.html)|
 |[aws rds delete-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster.html)|[Remove-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBCluster.html)|
 |[aws rds delete-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster-endpoint.html)|[Remove-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterEndpoint.html)|
@@ -60,12 +58,10 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds delete-db-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-subnet-group.html)|[Remove-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSubnetGroup.html)|
 |[aws rds delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-event-subscription.html)|[Remove-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSEventSubscription.html)|
 |[aws rds delete-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-global-cluster.html)|[Remove-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSGlobalCluster.html)|
-|[aws rds delete-installation-media](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-installation-media.html)|[Remove-RDSInstallationMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSInstallationMedia.html)|
 |[aws rds delete-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-option-group.html)|[Remove-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSOptionGroup.html)|
 |[aws rds deregister-db-proxy-targets](https://docs.aws.amazon.com/cli/latest/reference/rds/deregister-db-proxy-targets.html)|[Unregister-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-RDSDBProxyTarget.html)|
 |[aws rds describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-account-attributes.html)|[Get-RDSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSAccountAttribute.html)|
 |[aws rds describe-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-certificates.html)|[Get-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSCertificate.html)|
-|[aws rds describe-custom-availability-zones](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-custom-availability-zones.html)|[Get-RDSCustomAvailabilityZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSCustomAvailabilityZone.html)|
 |[aws rds describe-db-cluster-backtracks](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-cluster-backtracks.html)|[Get-RDSDBClusterBacktrackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterBacktrackList.html)|
 |[aws rds describe-db-cluster-endpoints](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-cluster-endpoints.html)|[Get-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterEndpoint.html)|
 |[aws rds describe-db-cluster-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-cluster-parameter-groups.html)|[Get-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterParameterGroup.html)|
@@ -94,7 +90,6 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-events](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-events.html)|[Get-RDSEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSEvent.html)|
 |[aws rds describe-export-tasks](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-export-tasks.html)|[Get-RDSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSExportTask.html)|
 |[aws rds describe-global-clusters](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-global-clusters.html)|[Get-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSGlobalCluster.html)|
-|[aws rds describe-installation-media](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-installation-media.html)|[Get-RDSInstallationMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSInstallationMedia.html)|
 |[aws rds describe-option-group-options](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-option-group-options.html)|[Get-RDSOptionGroupOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOptionGroupOption.html)|
 |[aws rds describe-option-groups](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-option-groups.html)|[Get-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOptionGroup.html)|
 |[aws rds describe-orderable-db-instance-options](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-orderable-db-instance-options.html)|[Get-RDSOrderableDBInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOrderableDBInstanceOption.html)|
@@ -107,7 +102,6 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds failover-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-db-cluster.html)|[Start-RDSDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBClusterFailover.html)|
 |[aws rds failover-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-global-cluster.html)|[Start-RDSFailoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSFailoverGlobalCluster.html)|
 |[aws rds generate-db-auth-token](https://docs.aws.amazon.com/cli/latest/reference/rds/generate-db-auth-token.html)||
-|[aws rds import-installation-media](https://docs.aws.amazon.com/cli/latest/reference/rds/import-installation-media.html)|[Import-RDSInstallationMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-RDSInstallationMedia.html)|
 |[aws rds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rds/list-tags-for-resource.html)|[Get-RDSTagForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTagForResource.html)|
 |[aws rds modify-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-certificates.html)|[Edit-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCertificate.html)|
 |[aws rds modify-current-db-cluster-capacity](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-current-db-cluster-capacity.html)|[Edit-RDSCurrentDBClusterCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCurrentDBClusterCapacity.html)|

@@ -1,6 +1,6 @@
 ---
 title: lookoutequipment
-date: 2022-04-11
+date: 2022-05-21
 description: aws lookoutequipment (Amazon Lookout for Equipment) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws lookoutequipment (Amazon Lookout for Equipment) command/cmdlet 
 |[aws lookoutequipment list-inference-executions](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-inference-executions.html)|[Get-L4EInferenceExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EInferenceExecutionList.html)|
 |[aws lookoutequipment list-inference-schedulers](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-inference-schedulers.html)|[Get-L4EInferenceSchedulerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EInferenceSchedulerList.html)|
 |[aws lookoutequipment list-models](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-models.html)|[Get-L4EModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EModelList.html)|
+|[aws lookoutequipment list-sensor-statistics](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-sensor-statistics.html)|[Get-L4ESensorStatisticList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4ESensorStatisticList.html)|
 |[aws lookoutequipment list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-tags-for-resource.html)|[Get-L4EResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EResourceTag.html)|
 |[aws lookoutequipment start-data-ingestion-job](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/start-data-ingestion-job.html)|[Start-L4EDataIngestionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-L4EDataIngestionJob.html)|
 |[aws lookoutequipment start-inference-scheduler](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/start-inference-scheduler.html)|[Start-L4EInferenceScheduler](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-L4EInferenceScheduler.html)|

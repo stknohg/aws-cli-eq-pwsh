@@ -1,6 +1,6 @@
 ---
 title: network-firewall
-date: 2022-04-11
+date: 2022-05-21
 description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 |[aws network-firewall untag-resource](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/untag-resource.html)|[Remove-NWFWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NWFWResourceTag.html)|
 |[aws network-firewall update-firewall-delete-protection](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/update-firewall-delete-protection.html)|[Update-NWFWFirewallDeleteProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWFirewallDeleteProtection.html)|
 |[aws network-firewall update-firewall-description](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/update-firewall-description.html)|[Update-NWFWFirewallDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWFirewallDescription.html)|
+|[aws network-firewall update-firewall-encryption-configuration](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/update-firewall-encryption-configuration.html)|[Update-NWFWFirewallEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWFirewallEncryptionConfiguration.html)|
 |[aws network-firewall update-firewall-policy](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/update-firewall-policy.html)|[Update-NWFWFirewallPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWFirewallPolicy.html)|
 |[aws network-firewall update-firewall-policy-change-protection](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/update-firewall-policy-change-protection.html)|[Update-NWFWFirewallPolicyChangeProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWFirewallPolicyChangeProtection.html)|
 |[aws network-firewall update-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/network-firewall/update-logging-configuration.html)|[Update-NWFWLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWLoggingConfiguration.html)|

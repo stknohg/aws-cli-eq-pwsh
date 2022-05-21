@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2022-04-11
+date: 2022-05-21
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -123,6 +123,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-group](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-group.html)|[Update-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSGroup.html)|
 |[aws quicksight update-iam-policy-assignment](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-iam-policy-assignment.html)|[Update-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIAMPolicyAssignment.html)|
 |[aws quicksight update-ip-restriction](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-ip-restriction.html)|[Update-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIpRestriction.html)|
+|[aws quicksight update-public-sharing-settings](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-public-sharing-settings.html)|[Update-QSPublicSharingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSPublicSharingSetting.html)|
 |[aws quicksight update-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template.html)|[Update-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplate.html)|
 |[aws quicksight update-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template-alias.html)|[Update-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplateAlias.html)|
 |[aws quicksight update-template-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-template-permissions.html)|[Update-QSTemplatePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplatePermission.html)|

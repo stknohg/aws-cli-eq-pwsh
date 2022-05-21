@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2022-04-11
+date: 2022-05-21
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue batch-delete-table-version](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-delete-table-version.html)|[Remove-GLUETableVersionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableVersionBatch.html)|
 |[aws glue batch-get-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-blueprints.html)|[Get-GLUEBlueprintBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintBatch.html)|
 |[aws glue batch-get-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-crawlers.html)|[Get-GLUECrawlerBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerBatch.html)|
+|[aws glue batch-get-custom-entity-types](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-custom-entity-types.html)|[Get-GLUEGetCustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGetCustomEntityType.html)|
 |[aws glue batch-get-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-dev-endpoints.html)|[Get-GLUEDevEndpointBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointBatch.html)|
 |[aws glue batch-get-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-jobs.html)|[Get-GLUEJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobBatch.html)|
 |[aws glue batch-get-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/batch-get-partition.html)|[Get-GLUEPartitionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEPartitionBatch.html)|
@@ -34,6 +35,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue create-classifier](https://docs.aws.amazon.com/cli/latest/reference/glue/create-classifier.html)|[New-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEClassifier.html)|
 |[aws glue create-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/create-connection.html)|[New-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEConnection.html)|
 |[aws glue create-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/create-crawler.html)|[New-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUECrawler.html)|
+|[aws glue create-custom-entity-type](https://docs.aws.amazon.com/cli/latest/reference/glue/create-custom-entity-type.html)|[New-GLUECustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUECustomEntityType.html)|
 |[aws glue create-database](https://docs.aws.amazon.com/cli/latest/reference/glue/create-database.html)|[New-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDatabase.html)|
 |[aws glue create-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/create-dev-endpoint.html)|[New-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDevEndpoint.html)|
 |[aws glue create-job](https://docs.aws.amazon.com/cli/latest/reference/glue/create-job.html)|[New-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEJob.html)|
@@ -55,6 +57,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-column-statistics-for-table](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-column-statistics-for-table.html)|[Remove-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsForTable.html)|
 |[aws glue delete-connection](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-connection.html)|[Remove-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEConnection.html)|
 |[aws glue delete-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-crawler.html)|[Remove-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUECrawler.html)|
+|[aws glue delete-custom-entity-type](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-custom-entity-type.html)|[Remove-GLUECustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUECustomEntityType.html)|
 |[aws glue delete-database](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-database.html)|[Remove-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDatabase.html)|
 |[aws glue delete-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-dev-endpoint.html)|[Remove-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDevEndpoint.html)|
 |[aws glue delete-job](https://docs.aws.amazon.com/cli/latest/reference/glue/delete-job.html)|[Remove-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEJob.html)|
@@ -85,6 +88,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-crawler](https://docs.aws.amazon.com/cli/latest/reference/glue/get-crawler.html)|[Get-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawler.html)|
 |[aws glue get-crawler-metrics](https://docs.aws.amazon.com/cli/latest/reference/glue/get-crawler-metrics.html)|[Get-GLUECrawlerMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerMetricList.html)|
 |[aws glue get-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/get-crawlers.html)|[Get-GLUECrawlerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerList.html)|
+|[aws glue get-custom-entity-type](https://docs.aws.amazon.com/cli/latest/reference/glue/get-custom-entity-type.html)|[Get-GLUECustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECustomEntityType.html)|
 |[aws glue get-data-catalog-encryption-settings](https://docs.aws.amazon.com/cli/latest/reference/glue/get-data-catalog-encryption-settings.html)|[Get-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataCatalogEncryptionSetting.html)|
 |[aws glue get-database](https://docs.aws.amazon.com/cli/latest/reference/glue/get-database.html)|[Get-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDatabase.html)|
 |[aws glue get-databases](https://docs.aws.amazon.com/cli/latest/reference/glue/get-databases.html)|[Get-GLUEDatabaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDatabaseList.html)|
@@ -135,6 +139,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue import-catalog-to-glue](https://docs.aws.amazon.com/cli/latest/reference/glue/import-catalog-to-glue.html)|[Import-GLUECatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-GLUECatalog.html)|
 |[aws glue list-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-blueprints.html)|[Get-GLUEBlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintList.html)|
 |[aws glue list-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-crawlers.html)|[Get-GLUECrawlerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerNameList.html)|
+|[aws glue list-custom-entity-types](https://docs.aws.amazon.com/cli/latest/reference/glue/list-custom-entity-types.html)|[Get-GLUECustomEntityTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECustomEntityTypeList.html)|
 |[aws glue list-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-dev-endpoints.html)|[Get-GLUEDevEndpointNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointNameList.html)|
 |[aws glue list-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
 |[aws glue list-ml-transforms](https://docs.aws.amazon.com/cli/latest/reference/glue/list-ml-transforms.html)|[Get-GLUEMLTransformIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransformIdentifier.html)|

@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2022-04-11
+date: 2022-05-21
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms generate-data-key-pair](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key-pair.html)|[New-KMSDataKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyPair.html)|
 |[aws kms generate-data-key-pair-without-plaintext](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key-pair-without-plaintext.html)|[New-KMSDataKeyPairWithoutPlaintext](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyPairWithoutPlaintext.html)|
 |[aws kms generate-data-key-without-plaintext](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-data-key-without-plaintext.html)|[New-KMSDataKeyWithoutPlaintext](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyWithoutPlaintext.html)|
+|[aws kms generate-mac](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-mac.html)|[New-KMSMac](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSMac.html)|
 |[aws kms generate-random](https://docs.aws.amazon.com/cli/latest/reference/kms/generate-random.html)|[New-KMSRandom](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSRandom.html)|
 |[aws kms get-key-policy](https://docs.aws.amazon.com/cli/latest/reference/kms/get-key-policy.html)|[Get-KMSKeyPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyPolicy.html)|
 |[aws kms get-key-rotation-status](https://docs.aws.amazon.com/cli/latest/reference/kms/get-key-rotation-status.html)|[Get-KMSKeyRotationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyRotationStatus.html)|
@@ -61,4 +62,5 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms update-key-description](https://docs.aws.amazon.com/cli/latest/reference/kms/update-key-description.html)|[Update-KMSKeyDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSKeyDescription.html)|
 |[aws kms update-primary-region](https://docs.aws.amazon.com/cli/latest/reference/kms/update-primary-region.html)|[Update-KMSPrimaryRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KMSPrimaryRegion.html)|
 |[aws kms verify](https://docs.aws.amazon.com/cli/latest/reference/kms/verify.html)|[Test-KMSSignature](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-KMSSignature.html)|
+|[aws kms verify-mac](https://docs.aws.amazon.com/cli/latest/reference/kms/verify-mac.html)|[Test-KMSMac](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-KMSMac.html)|
 

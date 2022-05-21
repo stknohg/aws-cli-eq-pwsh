@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2022-04-11
+date: 2022-05-21
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 

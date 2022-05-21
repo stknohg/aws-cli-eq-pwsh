@@ -1,6 +1,6 @@
 ---
 title: kinesisvideo
-date: 2022-04-11
+date: 2022-05-21
 description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -17,6 +17,8 @@ description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 |[aws kinesisvideo create-stream](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/create-stream.html)|[New-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KVStream.html)|
 |[aws kinesisvideo delete-signaling-channel](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/delete-signaling-channel.html)|[Remove-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVSignalingChannel.html)|
 |[aws kinesisvideo delete-stream](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/delete-stream.html)|[Remove-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVStream.html)|
+|[aws kinesisvideo describe-image-generation-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/describe-image-generation-configuration.html)|[Get-KVImageGenerationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVImageGenerationConfiguration.html)|
+|[aws kinesisvideo describe-notification-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/describe-notification-configuration.html)|[Get-KVNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVNotificationConfiguration.html)|
 |[aws kinesisvideo describe-signaling-channel](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/describe-signaling-channel.html)|[Get-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVSignalingChannel.html)|
 |[aws kinesisvideo describe-stream](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/describe-stream.html)|[Get-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVStream.html)|
 |[aws kinesisvideo get-data-endpoint](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/get-data-endpoint.html)|[Get-KVDataEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVDataEndpoint.html)|
@@ -30,6 +32,8 @@ description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 |[aws kinesisvideo untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/untag-resource.html)|[Remove-KVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVResourceTag.html)|
 |[aws kinesisvideo untag-stream](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/untag-stream.html)|[Remove-KVStreamTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVStreamTag.html)|
 |[aws kinesisvideo update-data-retention](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/update-data-retention.html)|[Update-KVDataRetention](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVDataRetention.html)|
+|[aws kinesisvideo update-image-generation-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/update-image-generation-configuration.html)|[Update-KVImageGenerationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVImageGenerationConfiguration.html)|
+|[aws kinesisvideo update-notification-configuration](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/update-notification-configuration.html)|[Update-KVNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVNotificationConfiguration.html)|
 |[aws kinesisvideo update-signaling-channel](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/update-signaling-channel.html)|[Update-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVSignalingChannel.html)|
 |[aws kinesisvideo update-stream](https://docs.aws.amazon.com/cli/latest/reference/kinesisvideo/update-stream.html)|[Update-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVStream.html)|
 

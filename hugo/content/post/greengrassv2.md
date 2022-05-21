@@ -1,6 +1,6 @@
 ---
 title: greengrassv2
-date: 2022-04-11
+date: 2022-05-21
 description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 |[aws greengrassv2 create-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/create-deployment.html)|[New-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GGV2Deployment.html)|
 |[aws greengrassv2 delete-component](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/delete-component.html)|[Remove-GGV2Component](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2Component.html)|
 |[aws greengrassv2 delete-core-device](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/delete-core-device.html)|[Remove-GGV2CoreDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2CoreDevice.html)|
+|[aws greengrassv2 delete-deployment](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/delete-deployment.html)|[Remove-GGV2Deployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2Deployment.html)|
 |[aws greengrassv2 describe-component](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/describe-component.html)|[Get-GGV2ComponentMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2ComponentMetadata.html)|
 |[aws greengrassv2 disassociate-service-role-from-account](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/disassociate-service-role-from-account.html)|[Remove-GGV2ServiceRoleFromAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GGV2ServiceRoleFromAccount.html)|
 |[aws greengrassv2 get-component](https://docs.aws.amazon.com/cli/latest/reference/greengrassv2/get-component.html)|[Get-GGV2Component](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GGV2Component.html)|

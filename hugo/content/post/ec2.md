@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2022-04-11
+date: 2022-05-21
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -386,6 +386,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-groups-for-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-groups-for-capacity-reservation.html)|[Get-EC2GroupsForCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2GroupsForCapacityReservation.html)|
 |[aws ec2 get-host-reservation-purchase-preview](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|
 |[aws ec2 get-instance-types-from-instance-requirements](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-instance-types-from-instance-requirements.html)|[Get-EC2InstanceTypesFromInstanceRequirement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypesFromInstanceRequirement.html)|
+|[aws ec2 get-instance-uefi-data](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-instance-uefi-data.html)|[Get-EC2InstanceUefiData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceUefiData.html)|
 |[aws ec2 get-ipam-address-history](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-address-history.html)|[Get-EC2IpamAddressHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamAddressHistory.html)|
 |[aws ec2 get-ipam-pool-allocations](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-pool-allocations.html)|[Get-EC2IpamPoolAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPoolAllocation.html)|
 |[aws ec2 get-ipam-pool-cidrs](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-ipam-pool-cidrs.html)|[Get-EC2IpamPoolCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPoolCidr.html)|

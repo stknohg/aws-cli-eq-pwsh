@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2022-04-11
+date: 2022-05-21
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts get-outpost-instance-types](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
 |[aws outposts get-site](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-site.html)|[Get-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSite.html)|
 |[aws outposts get-site-address](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-site-address.html)|[Get-OUTPSiteAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSiteAddress.html)|
+|[aws outposts list-assets](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-assets.html)|[Get-OUTPAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPAssetList.html)|
 |[aws outposts list-catalog-items](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-catalog-items.html)|[Get-OUTPCatalogItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPCatalogItemList.html)|
 |[aws outposts list-orders](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-orders.html)|[Get-OUTPOrderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOrderList.html)|
 |[aws outposts list-outposts](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-outposts.html)|[Get-OUTPOutpostList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostList.html)|

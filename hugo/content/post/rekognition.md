@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2022-04-11
+date: 2022-05-21
 description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 ---
 
@@ -71,4 +71,5 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition tag-resource](https://docs.aws.amazon.com/cli/latest/reference/rekognition/tag-resource.html)|[Add-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-REKResourceTag.html)|
 |[aws rekognition untag-resource](https://docs.aws.amazon.com/cli/latest/reference/rekognition/untag-resource.html)|[Remove-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKResourceTag.html)|
 |[aws rekognition update-dataset-entries](https://docs.aws.amazon.com/cli/latest/reference/rekognition/update-dataset-entries.html)|[Update-REKDatasetEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-REKDatasetEntry.html)|
+|[aws rekognition update-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/update-stream-processor.html)|[Update-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-REKStreamProcessor.html)|
 

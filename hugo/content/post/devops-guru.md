@@ -1,6 +1,6 @@
 ---
 title: devops-guru
-date: 2022-04-11
+date: 2022-05-21
 description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws devops-guru add-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/add-notification-channel.html)|[Add-DGURUNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DGURUNotificationChannel.html)|
+|[aws devops-guru delete-insight](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/delete-insight.html)|[Remove-DGURUInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DGURUInsight.html)|
 |[aws devops-guru describe-account-health](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-account-health.html)|[Get-DGURUAccountHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAccountHealth.html)|
 |[aws devops-guru describe-account-overview](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-account-overview.html)|[Get-DGURUAccountOverview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAccountOverview.html)|
 |[aws devops-guru describe-anomaly](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/describe-anomaly.html)|[Get-DGURUAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAnomaly.html)|

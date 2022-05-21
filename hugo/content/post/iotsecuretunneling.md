@@ -1,6 +1,6 @@
 ---
 title: iotsecuretunneling
-date: 2022-04-11
+date: 2022-05-21
 description: aws iotsecuretunneling (AWS IoT Secure Tunneling) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws iotsecuretunneling (AWS IoT Secure Tunneling) command/cmdlet li
 |[aws iotsecuretunneling list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsecuretunneling/list-tags-for-resource.html)|[Get-IOTSTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSTResourceTag.html)|
 |[aws iotsecuretunneling list-tunnels](https://docs.aws.amazon.com/cli/latest/reference/iotsecuretunneling/list-tunnels.html)|[Get-IOTSTTunnelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSTTunnelList.html)|
 |[aws iotsecuretunneling open-tunnel](https://docs.aws.amazon.com/cli/latest/reference/iotsecuretunneling/open-tunnel.html)|[Open-IOTSTTunnel](https://docs.aws.amazon.com/powershell/latest/reference/items/Open-IOTSTTunnel.html)|
+|[aws iotsecuretunneling rotate-tunnel-access-token](https://docs.aws.amazon.com/cli/latest/reference/iotsecuretunneling/rotate-tunnel-access-token.html)|[Invoke-IOTSTTunnelAccessTokenRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-IOTSTTunnelAccessTokenRotation.html)|
 |[aws iotsecuretunneling tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsecuretunneling/tag-resource.html)|[Add-IOTSTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTSTResourceTag.html)|
 |[aws iotsecuretunneling untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iotsecuretunneling/untag-resource.html)|[Remove-IOTSTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTSTResourceTag.html)|
 

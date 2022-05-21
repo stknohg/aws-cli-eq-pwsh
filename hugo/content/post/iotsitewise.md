@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2022-04-11
+date: 2022-05-21
 description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 ---
 
@@ -17,6 +17,9 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise associate-time-series-to-asset-property](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/associate-time-series-to-asset-property.html)|[Add-IOTSWTimeSeriesToAssetProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTSWTimeSeriesToAssetProperty.html)|
 |[aws iotsitewise batch-associate-project-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/batch-associate-project-assets.html)|[Connect-IOTSWAssociateProjectAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-IOTSWAssociateProjectAsset.html)|
 |[aws iotsitewise batch-disassociate-project-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/batch-disassociate-project-assets.html)|[Disconnect-IOTSWDisassociateProjectAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-IOTSWDisassociateProjectAsset.html)|
+|[aws iotsitewise batch-get-asset-property-aggregates](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/batch-get-asset-property-aggregates.html)|[Get-IOTSWBatchAssetPropertyAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWBatchAssetPropertyAggregate.html)|
+|[aws iotsitewise batch-get-asset-property-value](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/batch-get-asset-property-value.html)|[Get-IOTSWBatchAssetPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWBatchAssetPropertyValue.html)|
+|[aws iotsitewise batch-get-asset-property-value-history](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/batch-get-asset-property-value-history.html)|[Get-IOTSWBatchAssetPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWBatchAssetPropertyValueHistory.html)|
 |[aws iotsitewise batch-put-asset-property-value](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/batch-put-asset-property-value.html)|[Import-IOTSWPutAssetPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-IOTSWPutAssetPropertyValue.html)|
 |[aws iotsitewise create-access-policy](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-access-policy.html)|[New-IOTSWAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWAccessPolicy.html)|
 |[aws iotsitewise create-asset](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-asset.html)|[New-IOTSWAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWAsset.html)|

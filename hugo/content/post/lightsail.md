@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2022-04-11
+date: 2022-05-21
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 
@@ -116,6 +116,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail get-load-balancer](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer.html)|[Get-LSLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancer.html)|
 |[aws lightsail get-load-balancer-metric-data](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer-metric-data.html)|[Get-LSLoadBalancerMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerMetricData.html)|
 |[aws lightsail get-load-balancer-tls-certificates](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer-tls-certificates.html)|[Get-LSLoadBalancerTlsCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerTlsCertificate.html)|
+|[aws lightsail get-load-balancer-tls-policies](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancer-tls-policies.html)|[Get-LSLoadBalancerTlsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerTlsPolicy.html)|
 |[aws lightsail get-load-balancers](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-load-balancers.html)|[Get-LSLoadBalancerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSLoadBalancerList.html)|
 |[aws lightsail get-operation](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-operation.html)|[Get-LSOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperation.html)|
 |[aws lightsail get-operations](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-operations.html)|[Get-LSOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperationList.html)|

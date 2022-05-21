@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-04-11
+date: 2022-05-21
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.5.4 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.61 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.7.2 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.90 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -56,6 +56,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime]({{%relref "post/chime.md" %}})|CHM||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})|CHMID|Amazon Chime SDK Identity API|
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-media-pipelines]({{%relref "post/chime-sdk-media-pipelines.md" %}})|CHMMP|Amazon Chime SDK Media Pipeline API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-meetings]({{%relref "post/chime-sdk-meetings.md" %}})|CHMTG|Amazon Chime SDK Meeting API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})|CHMMG|Amazon Chime SDK Messaging API|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
@@ -174,6 +175,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT TwinMaker](https://aws.amazon.com/iot-twinmaker/)|[iottwinmaker]({{%relref "post/iottwinmaker.md" %}})|IOTTM||
 |[AWS IoT Wireless](https://aws.amazon.com/iot/)|[iotwireless]({{%relref "post/iotwireless.md" %}})|IOTW||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivs]({{%relref "post/ivs.md" %}})|IVS||
+|[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivschat]({{%relref "post/ivschat.md" %}})|IVSC|Amazon IVS Chat control-plane API|
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC ||
 |[Amazon Kendra](https://aws.amazon.com/kendra/)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||

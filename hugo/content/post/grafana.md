@@ -1,6 +1,6 @@
 ---
 title: grafana
-date: 2022-04-11
+date: 2022-05-21
 description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 ---
 
@@ -15,7 +15,9 @@ description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 |----|----|
 |[aws grafana associate-license](https://docs.aws.amazon.com/cli/latest/reference/grafana/associate-license.html)|[Add-MGRFLicense](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MGRFLicense.html)|
 |[aws grafana create-workspace](https://docs.aws.amazon.com/cli/latest/reference/grafana/create-workspace.html)|[New-MGRFWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGRFWorkspace.html)|
+|[aws grafana create-workspace-api-key](https://docs.aws.amazon.com/cli/latest/reference/grafana/create-workspace-api-key.html)|[New-MGRFWorkspaceApiKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGRFWorkspaceApiKey.html)|
 |[aws grafana delete-workspace](https://docs.aws.amazon.com/cli/latest/reference/grafana/delete-workspace.html)|[Remove-MGRFWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFWorkspace.html)|
+|[aws grafana delete-workspace-api-key](https://docs.aws.amazon.com/cli/latest/reference/grafana/delete-workspace-api-key.html)|[Remove-MGRFWorkspaceApiKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFWorkspaceApiKey.html)|
 |[aws grafana describe-workspace](https://docs.aws.amazon.com/cli/latest/reference/grafana/describe-workspace.html)|[Get-MGRFWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFWorkspace.html)|
 |[aws grafana describe-workspace-authentication](https://docs.aws.amazon.com/cli/latest/reference/grafana/describe-workspace-authentication.html)|[Get-MGRFWorkspaceAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFWorkspaceAuthentication.html)|
 |[aws grafana disassociate-license](https://docs.aws.amazon.com/cli/latest/reference/grafana/disassociate-license.html)|[Remove-MGRFLicense](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFLicense.html)|

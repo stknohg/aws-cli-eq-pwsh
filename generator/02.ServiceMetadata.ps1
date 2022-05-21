@@ -138,6 +138,7 @@ $g_AWSServices = @{
     'budgets'                         = [PSCustomObject]@{ Prefix = 'BGT'; Name = 'AWS Budgets'; Url = 'https://aws.amazon.com/aws-cost-management/aws-budgets/'; Note = '' };
     'ce'                              = [PSCustomObject]@{ Prefix = 'CE'; Name = 'Cost Explorer'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-explorer/'; Note = '' };
     'chime-sdk-identity'              = [PSCustomObject]@{ Prefix = 'CHMID'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Identity API' };
+    'chime-sdk-media-pipelines'       = [PSCustomObject]@{ Prefix = 'CHMMP'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Media Pipeline API' };
     'chime-sdk-meetings'              = [PSCustomObject]@{ Prefix = 'CHMTG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
     'chime-sdk-messaging'             = [PSCustomObject]@{ Prefix = 'CHMMG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime'                           = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
@@ -257,6 +258,7 @@ $g_AWSServices = @{
     'iottwinmaker'                    = [PSCustomObject]@{ Prefix = 'IOTTM'; Name = 'AWS IoT TwinMaker'; Url = 'https://aws.amazon.com/iot-twinmaker/'; Note = '' };
     'iotwireless'                     = [PSCustomObject]@{ Prefix = 'IOTW'; Name = 'AWS IoT Wireless'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'ivs'                             = [PSCustomObject]@{ Prefix = 'IVS'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
+    'ivschat'                         = [PSCustomObject]@{ Prefix = 'IVSC'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = 'Amazon IVS Chat control-plane API' };
     'kafka'                           = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kafkaconnect'                    = [PSCustomObject]@{ Prefix = 'MSKC '; Name = 'Amazon Managed Streaming for Kafka Connect'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kendra'                          = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra/'; Note = '' };
@@ -447,6 +449,7 @@ $g_CmdletReferenceLinks = @{
     'budgets'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html';
     'ce'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html';
     'chime-sdk-identity'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKIdentity_cmdlets.html';
+    'chime-sdk-media-pipelines'       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMediaPipelines_cmdlets.html'
     'chime-sdk-meetings'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMeetings_cmdlets.html';
     'chime-sdk-messaging'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMessaging_cmdlets.html';
     'chime'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
@@ -565,6 +568,7 @@ $g_CmdletReferenceLinks = @{
     'iottwinmaker'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTTwinMaker_cmdlets.html';
     'iotwireless'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTWireless_cmdlets.html';
     'ivs'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IVS_cmdlets.html';
+    'ivschat'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Ivschat_cmdlets.html'
     'kafka'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
     'kafkaconnect'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KafkaConnect_cmdlets.html';
     'kendra'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Kendra_cmdlets.html';

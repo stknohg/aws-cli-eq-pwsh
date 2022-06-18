@@ -1,6 +1,6 @@
 ---
 title: drs
-date: 2022-05-21
+date: 2022-06-18
 description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws drs create-extended-source-server](https://docs.aws.amazon.com/cli/latest/reference/drs/create-extended-source-server.html)|[New-EDRSExtendedSourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EDRSExtendedSourceServer.html)|
 |[aws drs create-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/create-replication-configuration-template.html)|[New-EDRSReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EDRSReplicationConfigurationTemplate.html)|
 |[aws drs delete-job](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-job.html)|[Remove-EDRSJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSJob.html)|
 |[aws drs delete-recovery-instance](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-recovery-instance.html)|[Remove-EDRSRecoveryInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSRecoveryInstance.html)|
@@ -30,6 +31,8 @@ description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 |[aws drs get-launch-configuration](https://docs.aws.amazon.com/cli/latest/reference/drs/get-launch-configuration.html)|[Get-EDRSLaunchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSLaunchConfiguration.html)|
 |[aws drs get-replication-configuration](https://docs.aws.amazon.com/cli/latest/reference/drs/get-replication-configuration.html)|[Get-EDRSReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSReplicationConfiguration.html)|
 |[aws drs initialize-service](https://docs.aws.amazon.com/cli/latest/reference/drs/initialize-service.html)|[Initialize-EDRSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-EDRSService.html)|
+|[aws drs list-extensible-source-servers](https://docs.aws.amazon.com/cli/latest/reference/drs/list-extensible-source-servers.html)|[Get-EDRSExtensibleSourceServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSExtensibleSourceServerList.html)|
+|[aws drs list-staging-accounts](https://docs.aws.amazon.com/cli/latest/reference/drs/list-staging-accounts.html)|[Get-EDRSStagingAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSStagingAccountList.html)|
 |[aws drs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/drs/list-tags-for-resource.html)|[Get-EDRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSResourceTag.html)|
 |[aws drs retry-data-replication](https://docs.aws.amazon.com/cli/latest/reference/drs/retry-data-replication.html)|[Restart-EDRSDataReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EDRSDataReplication.html)|
 |[aws drs start-failback-launch](https://docs.aws.amazon.com/cli/latest/reference/drs/start-failback-launch.html)|[Start-EDRSFailbackLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSFailbackLaunch.html)|

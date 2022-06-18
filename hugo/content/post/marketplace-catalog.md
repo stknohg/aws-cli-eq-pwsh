@@ -1,6 +1,6 @@
 ---
 title: marketplace-catalog
-date: 2022-05-21
+date: 2022-06-18
 description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/cmdlet list.
 ---
 

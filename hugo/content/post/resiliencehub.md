@@ -1,6 +1,6 @@
 ---
 title: resiliencehub
-date: 2022-05-21
+date: 2022-06-18
 description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2022-05-21
+date: 2022-06-18
 description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws guardduty accept-administrator-invitation](https://docs.aws.amazon.com/cli/latest/reference/guardduty/accept-administrator-invitation.html)|[Receive-GDAdministratorInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Receive-GDAdministratorInvitation.html)|
 |[aws guardduty accept-invitation](https://docs.aws.amazon.com/cli/latest/reference/guardduty/accept-invitation.html)|[Confirm-GDInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-GDInvitation.html)|
 |[aws guardduty archive-findings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/archive-findings.html)|[Backup-GDFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Backup-GDFinding.html)|
 |[aws guardduty create-detector](https://docs.aws.amazon.com/cli/latest/reference/guardduty/create-detector.html)|[New-GDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDDetector.html)|
@@ -33,9 +34,11 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 |[aws guardduty describe-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-organization-configuration.html)|[Get-GDOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDOrganizationConfiguration.html)|
 |[aws guardduty describe-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-publishing-destination.html)|[Get-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestination.html)|
 |[aws guardduty disable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disable-organization-admin-account.html)|[Disable-GDOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-GDOrganizationAdminAccount.html)|
+|[aws guardduty disassociate-from-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-from-administrator-account.html)|[Remove-GDFromAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDFromAdministratorAccount.html)|
 |[aws guardduty disassociate-from-master-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-from-master-account.html)|[Unregister-GDFromMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDFromMasterAccount.html)|
 |[aws guardduty disassociate-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disassociate-members.html)|[Unregister-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-GDMember.html)|
 |[aws guardduty enable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/enable-organization-admin-account.html)|[Enable-GDOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-GDOrganizationAdminAccount.html)|
+|[aws guardduty get-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-administrator-account.html)|[Get-GDAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDAdministratorAccount.html)|
 |[aws guardduty get-detector](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-detector.html)|[Get-GDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetector.html)|
 |[aws guardduty get-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-filter.html)|[Get-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilter.html)|
 |[aws guardduty get-findings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-findings.html)|[Get-GDFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFinding.html)|
@@ -45,6 +48,7 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 |[aws guardduty get-master-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-master-account.html)|[Get-GDMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMasterAccount.html)|
 |[aws guardduty get-member-detectors](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-member-detectors.html)|[Get-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberDetector.html)|
 |[aws guardduty get-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-members.html)|[Get-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMember.html)|
+|[aws guardduty get-remaining-free-trial-days](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-remaining-free-trial-days.html)|[Get-GDRemainingFreeTrialDay](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDRemainingFreeTrialDay.html)|
 |[aws guardduty get-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-threat-intel-set.html)|[Get-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSet.html)|
 |[aws guardduty get-usage-statistics](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-usage-statistics.html)|[Get-GDUsageStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDUsageStatistic.html)|
 |[aws guardduty invite-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/invite-members.html)|[Send-GDMemberInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-GDMemberInvitation.html)|

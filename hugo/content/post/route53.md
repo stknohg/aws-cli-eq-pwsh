@@ -1,6 +1,6 @@
 ---
 title: route53
-date: 2022-05-21
+date: 2022-06-18
 description: aws route53 (Amazon Route 53) command/cmdlet list.
 ---
 
@@ -15,8 +15,10 @@ description: aws route53 (Amazon Route 53) command/cmdlet list.
 |----|----|
 |[aws route53 activate-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/activate-key-signing-key.html)|[Enable-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-R53KeySigningKey.html)|
 |[aws route53 associate-vpc-with-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/associate-vpc-with-hosted-zone.html)|[Register-R53VPCWithHostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-R53VPCWithHostedZone.html)|
+|[aws route53 change-cidr-collection](https://docs.aws.amazon.com/cli/latest/reference/route53/change-cidr-collection.html)|[Edit-R53CidrCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53CidrCollection.html)|
 |[aws route53 change-resource-record-sets](https://docs.aws.amazon.com/cli/latest/reference/route53/change-resource-record-sets.html)|[Edit-R53ResourceRecordSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53ResourceRecordSet.html)|
 |[aws route53 change-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/route53/change-tags-for-resource.html)|[Edit-R53TagsForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-R53TagsForResource.html)|
+|[aws route53 create-cidr-collection](https://docs.aws.amazon.com/cli/latest/reference/route53/create-cidr-collection.html)|[New-R53CidrCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53CidrCollection.html)|
 |[aws route53 create-health-check](https://docs.aws.amazon.com/cli/latest/reference/route53/create-health-check.html)|[New-R53HealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53HealthCheck.html)|
 |[aws route53 create-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/create-hosted-zone.html)|[New-R53HostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53HostedZone.html)|
 |[aws route53 create-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/create-key-signing-key.html)|[New-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53KeySigningKey.html)|
@@ -27,6 +29,7 @@ description: aws route53 (Amazon Route 53) command/cmdlet list.
 |[aws route53 create-traffic-policy-version](https://docs.aws.amazon.com/cli/latest/reference/route53/create-traffic-policy-version.html)|[New-R53TrafficPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53TrafficPolicyVersion.html)|
 |[aws route53 create-vpc-association-authorization](https://docs.aws.amazon.com/cli/latest/reference/route53/create-vpc-association-authorization.html)|[New-R53VPCAssociationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53VPCAssociationAuthorization.html)|
 |[aws route53 deactivate-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/deactivate-key-signing-key.html)|[Disable-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-R53KeySigningKey.html)|
+|[aws route53 delete-cidr-collection](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-cidr-collection.html)|[Remove-R53CidrCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53CidrCollection.html)|
 |[aws route53 delete-health-check](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-health-check.html)|[Remove-R53HealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53HealthCheck.html)|
 |[aws route53 delete-hosted-zone](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-hosted-zone.html)|[Remove-R53HostedZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53HostedZone.html)|
 |[aws route53 delete-key-signing-key](https://docs.aws.amazon.com/cli/latest/reference/route53/delete-key-signing-key.html)|[Remove-R53KeySigningKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53KeySigningKey.html)|
@@ -56,6 +59,9 @@ description: aws route53 (Amazon Route 53) command/cmdlet list.
 |[aws route53 get-traffic-policy](https://docs.aws.amazon.com/cli/latest/reference/route53/get-traffic-policy.html)|[Get-R53TrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53TrafficPolicy.html)|
 |[aws route53 get-traffic-policy-instance](https://docs.aws.amazon.com/cli/latest/reference/route53/get-traffic-policy-instance.html)|[Get-R53TrafficPolicyInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53TrafficPolicyInstance.html)|
 |[aws route53 get-traffic-policy-instance-count](https://docs.aws.amazon.com/cli/latest/reference/route53/get-traffic-policy-instance-count.html)|[Get-R53TrafficPolicyInstanceCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53TrafficPolicyInstanceCount.html)|
+|[aws route53 list-cidr-blocks](https://docs.aws.amazon.com/cli/latest/reference/route53/list-cidr-blocks.html)|[Get-R53CidrBlockList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53CidrBlockList.html)|
+|[aws route53 list-cidr-collections](https://docs.aws.amazon.com/cli/latest/reference/route53/list-cidr-collections.html)|[Get-R53CidrCollectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53CidrCollectionList.html)|
+|[aws route53 list-cidr-locations](https://docs.aws.amazon.com/cli/latest/reference/route53/list-cidr-locations.html)|[Get-R53CidrLocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53CidrLocationList.html)|
 |[aws route53 list-geo-locations](https://docs.aws.amazon.com/cli/latest/reference/route53/list-geo-locations.html)|[Get-R53GeoLocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GeoLocationList.html)|
 |[aws route53 list-health-checks](https://docs.aws.amazon.com/cli/latest/reference/route53/list-health-checks.html)|[Get-R53HealthCheckList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HealthCheckList.html)|
 |[aws route53 list-hosted-zones](https://docs.aws.amazon.com/cli/latest/reference/route53/list-hosted-zones.html)|[Get-R53HostedZoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53HostedZoneList.html)|

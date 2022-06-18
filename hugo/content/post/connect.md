@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-05-21
+date: 2022-06-18
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-quick-connect](https://docs.aws.amazon.com/cli/latest/reference/connect/create-quick-connect.html)|[New-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNQuickConnect.html)|
 |[aws connect create-routing-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/create-routing-profile.html)|[New-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNRoutingProfile.html)|
 |[aws connect create-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/create-security-profile.html)|[New-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNSecurityProfile.html)|
+|[aws connect create-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/create-task-template.html)|[New-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNTaskTemplate.html)|
 |[aws connect create-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/create-use-case.html)|[New-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUseCase.html)|
 |[aws connect create-user](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user.html)|[New-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUser.html)|
 |[aws connect create-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/create-user-hierarchy-group.html)|[New-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUserHierarchyGroup.html)|
@@ -45,6 +46,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-integration-association](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-integration-association.html)|[Remove-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNIntegrationAssociation.html)|
 |[aws connect delete-quick-connect](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-quick-connect.html)|[Remove-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQuickConnect.html)|
 |[aws connect delete-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-security-profile.html)|[Remove-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNSecurityProfile.html)|
+|[aws connect delete-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-task-template.html)|[Remove-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNTaskTemplate.html)|
 |[aws connect delete-use-case](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-use-case.html)|[Remove-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUseCase.html)|
 |[aws connect delete-user](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-user.html)|[Remove-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUser.html)|
 |[aws connect delete-user-hierarchy-group](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-user-hierarchy-group.html)|[Remove-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUserHierarchyGroup.html)|
@@ -77,8 +79,10 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect disassociate-security-key](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-security-key.html)|[Remove-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNSecurityKey.html)|
 |[aws connect get-contact-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/get-contact-attributes.html)|[Get-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactAttribute.html)|
 |[aws connect get-current-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-current-metric-data.html)|[Get-CONNCurrentMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentMetricData.html)|
+|[aws connect get-current-user-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-current-user-data.html)|[Get-CONNCurrentUserData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentUserData.html)|
 |[aws connect get-federation-token](https://docs.aws.amazon.com/cli/latest/reference/connect/get-federation-token.html)|[Get-CONNFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFederationToken.html)|
 |[aws connect get-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-metric-data.html)|[Get-CONNMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNMetricData.html)|
+|[aws connect get-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/get-task-template.html)|[Get-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNTaskTemplate.html)|
 |[aws connect list-agent-statuses](https://docs.aws.amazon.com/cli/latest/reference/connect/list-agent-statuses.html)|[Get-CONNAgentStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatusList.html)|
 |[aws connect list-approved-origins](https://docs.aws.amazon.com/cli/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
 |[aws connect list-bots](https://docs.aws.amazon.com/cli/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
@@ -105,6 +109,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-security-profile-permissions](https://docs.aws.amazon.com/cli/latest/reference/connect/list-security-profile-permissions.html)|[Get-CONNSecurityProfilePermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfilePermissionList.html)|
 |[aws connect list-security-profiles](https://docs.aws.amazon.com/cli/latest/reference/connect/list-security-profiles.html)|[Get-CONNSecurityProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfileList.html)|
 |[aws connect list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/list-tags-for-resource.html)|[Get-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNResourceTag.html)|
+|[aws connect list-task-templates](https://docs.aws.amazon.com/cli/latest/reference/connect/list-task-templates.html)|[Get-CONNTaskTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNTaskTemplateList.html)|
 |[aws connect list-use-cases](https://docs.aws.amazon.com/cli/latest/reference/connect/list-use-cases.html)|[Get-CONNUseCaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUseCaseList.html)|
 |[aws connect list-user-hierarchy-groups](https://docs.aws.amazon.com/cli/latest/reference/connect/list-user-hierarchy-groups.html)|[Get-CONNUserHierarchyGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroupList.html)|
 |[aws connect list-users](https://docs.aws.amazon.com/cli/latest/reference/connect/list-users.html)|[Get-CONNUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserList.html)|
@@ -124,6 +129,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect stop-contact-streaming](https://docs.aws.amazon.com/cli/latest/reference/connect/stop-contact-streaming.html)|[Stop-CONNContactStreaming](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CONNContactStreaming.html)|
 |[aws connect suspend-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/suspend-contact-recording.html)|[Suspend-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-CONNContactRecording.html)|
 |[aws connect tag-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/tag-resource.html)|[Add-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNResourceTag.html)|
+|[aws connect transfer-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/transfer-contact.html)|[Move-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-CONNContact.html)|
 |[aws connect untag-resource](https://docs.aws.amazon.com/cli/latest/reference/connect/untag-resource.html)|[Remove-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNResourceTag.html)|
 |[aws connect update-agent-status](https://docs.aws.amazon.com/cli/latest/reference/connect/update-agent-status.html)|[Update-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAgentStatus.html)|
 |[aws connect update-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/update-contact.html)|[Update-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContact.html)|
@@ -150,6 +156,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-routing-profile-name](https://docs.aws.amazon.com/cli/latest/reference/connect/update-routing-profile-name.html)|[Update-CONNRoutingProfileName](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNRoutingProfileName.html)|
 |[aws connect update-routing-profile-queues](https://docs.aws.amazon.com/cli/latest/reference/connect/update-routing-profile-queues.html)|[Update-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNRoutingProfileQueue.html)|
 |[aws connect update-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/update-security-profile.html)|[Update-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNSecurityProfile.html)|
+|[aws connect update-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/update-task-template.html)|[Update-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNTaskTemplate.html)|
 |[aws connect update-user-hierarchy](https://docs.aws.amazon.com/cli/latest/reference/connect/update-user-hierarchy.html)|[Update-CONNUserHierarchy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNUserHierarchy.html)|
 |[aws connect update-user-hierarchy-group-name](https://docs.aws.amazon.com/cli/latest/reference/connect/update-user-hierarchy-group-name.html)|[Update-CONNUserHierarchyGroupName](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNUserHierarchyGroupName.html)|
 |[aws connect update-user-hierarchy-structure](https://docs.aws.amazon.com/cli/latest/reference/connect/update-user-hierarchy-structure.html)|[Update-CONNUserHierarchyStructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNUserHierarchyStructure.html)|

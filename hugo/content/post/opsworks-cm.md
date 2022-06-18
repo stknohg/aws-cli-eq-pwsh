@@ -1,6 +1,6 @@
 ---
 title: opsworks-cm
-date: 2022-05-21
+date: 2022-06-18
 description: aws opsworks-cm (AWS OpsWorks for configuration management) command/cmdlet list.
 ---
 

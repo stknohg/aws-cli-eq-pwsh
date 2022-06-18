@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-messaging
-date: 2022-05-21
+date: 2022-06-18
 description: aws chime-sdk-messaging (Amazon Chime) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws chime-sdk-messaging (Amazon Chime) command/cmdlet list.
 |[aws chime-sdk-messaging list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/list-tags-for-resource.html)|[Get-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGResourceTag.html)|
 |[aws chime-sdk-messaging put-channel-membership-preferences](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/put-channel-membership-preferences.html)|[Write-CHMMGChannelMembershipPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMMGChannelMembershipPreference.html)|
 |[aws chime-sdk-messaging redact-channel-message](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/redact-channel-message.html)|[Hide-CHMMGChannelMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Hide-CHMMGChannelMessage.html)|
+|[aws chime-sdk-messaging search-channels](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/search-channels.html)|[Search-CHMMGChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CHMMGChannel.html)|
 |[aws chime-sdk-messaging send-channel-message](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/send-channel-message.html)|[Send-CHMMGChannelMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CHMMGChannelMessage.html)|
 |[aws chime-sdk-messaging tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/tag-resource.html)|[Add-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMMGResourceTag.html)|
 |[aws chime-sdk-messaging untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/untag-resource.html)|[Remove-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMMGResourceTag.html)|

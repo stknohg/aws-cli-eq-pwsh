@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2022-05-21
+date: 2022-06-18
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift create-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-cluster-snapshot.html)|[New-RSClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSClusterSnapshot.html)|
 |[aws redshift create-cluster-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-cluster-subnet-group.html)|[New-RSClusterSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSClusterSubnetGroup.html)|
 |[aws redshift create-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-endpoint-access.html)|[New-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSEndpointAccess.html)|
+|[aws redshift create-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-endpoint-access.html)|[New-RSSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSEndpointAccess.html)|
 |[aws redshift create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-event-subscription.html)|[New-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSEventSubscription.html)|
 |[aws redshift create-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-hsm-client-certificate.html)|[New-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmClientCertificate.html)|
 |[aws redshift create-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-hsm-configuration.html)|[New-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmConfiguration.html)|
@@ -39,6 +40,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift create-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-snapshot-schedule.html)|[New-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotSchedule.html)|
 |[aws redshift create-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-tags.html)|[New-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSResourceTag.html)|
 |[aws redshift create-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-usage-limit.html)|[New-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSUsageLimit.html)|
+|[aws redshift create-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/create-usage-limit.html)|[New-RSSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSUsageLimit.html)|
 |[aws redshift deauthorize-data-share](https://docs.aws.amazon.com/cli/latest/reference/redshift/deauthorize-data-share.html)|[Revoke-RSDataShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-RSDataShare.html)|
 |[aws redshift delete-authentication-profile](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-authentication-profile.html)|[Remove-RSAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSAuthenticationProfile.html)|
 |[aws redshift delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster.html)|[Remove-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSCluster.html)|
@@ -47,6 +49,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift delete-cluster-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-snapshot.html)|[Remove-RSClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSnapshot.html)|
 |[aws redshift delete-cluster-subnet-group](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-cluster-subnet-group.html)|[Remove-RSClusterSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSClusterSubnetGroup.html)|
 |[aws redshift delete-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-endpoint-access.html)|[Remove-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSEndpointAccess.html)|
+|[aws redshift delete-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-endpoint-access.html)|[Remove-RSSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSEndpointAccess.html)|
 |[aws redshift delete-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-event-subscription.html)|[Remove-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSEventSubscription.html)|
 |[aws redshift delete-hsm-client-certificate](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-client-certificate.html)|[Remove-RSHsmClientCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmClientCertificate.html)|
 |[aws redshift delete-hsm-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-hsm-configuration.html)|[Remove-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSHsmConfiguration.html)|
@@ -56,6 +59,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift delete-snapshot-schedule](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-snapshot-schedule.html)|[Remove-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotSchedule.html)|
 |[aws redshift delete-tags](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-tags.html)|[Remove-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSResourceTag.html)|
 |[aws redshift delete-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-usage-limit.html)|[Remove-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSUsageLimit.html)|
+|[aws redshift delete-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift/delete-usage-limit.html)|[Remove-RSSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSUsageLimit.html)|
 |[aws redshift describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-account-attributes.html)|[Get-RSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSAccountAttribute.html)|
 |[aws redshift describe-authentication-profiles](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-authentication-profiles.html)|[Get-RSAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSAuthenticationProfile.html)|
 |[aws redshift describe-cluster-db-revisions](https://docs.aws.amazon.com/cli/latest/reference/redshift/describe-cluster-db-revisions.html)|[Get-RSClusterDbRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterDbRevision.html)|
@@ -99,6 +103,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift enable-logging](https://docs.aws.amazon.com/cli/latest/reference/redshift/enable-logging.html)|[Enable-RSLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RSLogging.html)|
 |[aws redshift enable-snapshot-copy](https://docs.aws.amazon.com/cli/latest/reference/redshift/enable-snapshot-copy.html)|[Enable-RSSnapshotCopy](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RSSnapshotCopy.html)|
 |[aws redshift get-cluster-credentials](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-cluster-credentials.html)|[Get-RSClusterCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterCredential.html)|
+|[aws redshift get-cluster-credentials-with-iam](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-cluster-credentials-with-iam.html)|[Get-RSClusterCredentialsWithIAM](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterCredentialsWithIAM.html)|
 |[aws redshift get-reserved-node-exchange-configuration-options](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-reserved-node-exchange-configuration-options.html)|[Get-RSReservedNodeExchangeConfigurationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeConfigurationOption.html)|
 |[aws redshift get-reserved-node-exchange-offerings](https://docs.aws.amazon.com/cli/latest/reference/redshift/get-reserved-node-exchange-offerings.html)|[Get-RSReservedNodeExchangeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeOffering.html)|
 |[aws redshift modify-aqua-configuration](https://docs.aws.amazon.com/cli/latest/reference/redshift/modify-aqua-configuration.html)|[Edit-RSAquaConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSAquaConfiguration.html)|

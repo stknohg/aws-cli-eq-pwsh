@@ -1,6 +1,6 @@
 ---
 title: networkmanager
-date: 2022-05-21
+date: 2022-06-18
 description: aws networkmanager (AWS Transit Gateway network manager) command/cmdlet list.
 ---
 
@@ -72,12 +72,14 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager list-connect-peers](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/list-connect-peers.html)|[Get-NMGRConnectPeerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRConnectPeerList.html)|
 |[aws networkmanager list-core-network-policy-versions](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/list-core-network-policy-versions.html)|[Get-NMGRCoreNetworkPolicyVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRCoreNetworkPolicyVersionList.html)|
 |[aws networkmanager list-core-networks](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/list-core-networks.html)|[Get-NMGRCoreNetworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRCoreNetworkList.html)|
+|[aws networkmanager list-organization-service-access-status](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/list-organization-service-access-status.html)|[Get-NMGROrganizationServiceAccessStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGROrganizationServiceAccessStatusList.html)|
 |[aws networkmanager list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/list-tags-for-resource.html)|[Get-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRResourceTag.html)|
 |[aws networkmanager put-core-network-policy](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/put-core-network-policy.html)|[Write-NMGRCoreNetworkPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-NMGRCoreNetworkPolicy.html)|
 |[aws networkmanager put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/put-resource-policy.html)|[Write-NMGRResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-NMGRResourcePolicy.html)|
 |[aws networkmanager register-transit-gateway](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/register-transit-gateway.html)|[Register-NMGRTransitGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-NMGRTransitGateway.html)|
 |[aws networkmanager reject-attachment](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/reject-attachment.html)|[Deny-NMGRAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-NMGRAttachment.html)|
 |[aws networkmanager restore-core-network-policy-version](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/restore-core-network-policy-version.html)|[Restore-NMGRCoreNetworkPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-NMGRCoreNetworkPolicyVersion.html)|
+|[aws networkmanager start-organization-service-access-update](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/start-organization-service-access-update.html)|[Start-NMGROrganizationServiceAccessUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NMGROrganizationServiceAccessUpdate.html)|
 |[aws networkmanager start-route-analysis](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/start-route-analysis.html)|[Start-NMGRRouteAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NMGRRouteAnalysis.html)|
 |[aws networkmanager tag-resource](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/tag-resource.html)|[Add-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-NMGRResourceTag.html)|
 |[aws networkmanager untag-resource](https://docs.aws.amazon.com/cli/latest/reference/networkmanager/untag-resource.html)|[Remove-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NMGRResourceTag.html)|

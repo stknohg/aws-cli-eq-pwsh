@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2022-05-21
+date: 2022-06-18
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts delete-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/delete-outpost.html)|[Remove-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPOutpost.html)|
 |[aws outposts delete-site](https://docs.aws.amazon.com/cli/latest/reference/outposts/delete-site.html)|[Remove-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPSite.html)|
 |[aws outposts get-catalog-item](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-catalog-item.html)|[Get-OUTPCatalogItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPCatalogItem.html)|
+|[aws outposts get-connection](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-connection.html)|[Get-OUTPConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPConnection.html)|
 |[aws outposts get-order](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-order.html)|[Get-OUTPOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOrder.html)|
 |[aws outposts get-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-outpost.html)|[Get-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpost.html)|
 |[aws outposts get-outpost-instance-types](https://docs.aws.amazon.com/cli/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
@@ -31,6 +32,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts list-outposts](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-outposts.html)|[Get-OUTPOutpostList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostList.html)|
 |[aws outposts list-sites](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-sites.html)|[Get-OUTPSiteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSiteList.html)|
 |[aws outposts list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/list-tags-for-resource.html)|[Get-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPResourceTag.html)|
+|[aws outposts start-connection](https://docs.aws.amazon.com/cli/latest/reference/outposts/start-connection.html)|[Start-OUTPConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OUTPConnection.html)|
 |[aws outposts tag-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/tag-resource.html)|[Add-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OUTPResourceTag.html)|
 |[aws outposts untag-resource](https://docs.aws.amazon.com/cli/latest/reference/outposts/untag-resource.html)|[Remove-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPResourceTag.html)|
 |[aws outposts update-outpost](https://docs.aws.amazon.com/cli/latest/reference/outposts/update-outpost.html)|[Update-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OUTPOutpost.html)|

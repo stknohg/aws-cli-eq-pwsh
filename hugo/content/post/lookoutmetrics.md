@@ -1,6 +1,6 @@
 ---
 title: lookoutmetrics
-date: 2022-05-21
+date: 2022-06-18
 description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list
 |[aws lookoutmetrics put-feedback](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/put-feedback.html)|[Write-LOMFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LOMFeedback.html)|
 |[aws lookoutmetrics tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/tag-resource.html)|[Add-LOMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LOMResourceTag.html)|
 |[aws lookoutmetrics untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/untag-resource.html)|[Remove-LOMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOMResourceTag.html)|
+|[aws lookoutmetrics update-alert](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/update-alert.html)|[Update-LOMAlert](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LOMAlert.html)|
 |[aws lookoutmetrics update-anomaly-detector](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/update-anomaly-detector.html)|[Update-LOMAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LOMAnomalyDetector.html)|
 |[aws lookoutmetrics update-metric-set](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/update-metric-set.html)|[Update-LOMMetricSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LOMMetricSet.html)|
 

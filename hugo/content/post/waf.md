@@ -1,6 +1,6 @@
 ---
 title: waf
-date: 2022-05-21
+date: 2022-06-18
 description: aws waf (AWS WAF) command/cmdlet list.
 ---
 

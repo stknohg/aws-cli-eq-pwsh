@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-05-21
+date: 2022-06-18
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.7.2 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.90 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.7.9 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.108 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -127,6 +127,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elbv2]({{%relref "post/elbv2.md" %}})|ELB2||
 |[Amazon EMR](https://aws.amazon.com/emr/)|[emr]({{%relref "post/emr.md" %}})|EMR||
 |[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
+|[Amazon EMR Serverless](https://aws.amazon.com/emr/serverless/)|[emr-serverless]({{%relref "post/emr-serverless.md" %}})|EMRServerless||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
 |[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
@@ -201,6 +202,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)|[lookoutequipment]({{%relref "post/lookoutequipment.md" %}})|L4E||
 |[Amazon Lookout for Metrics](https://aws.amazon.com/lookout-for-metrics/)|[lookoutmetrics]({{%relref "post/lookoutmetrics.md" %}})|LOM||
 |[Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)|[lookoutvision]({{%relref "post/lookoutvision.md" %}})|LFV||
+|[AWS Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/)|[m2]({{%relref "post/m2.md" %}})|AMM||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2||

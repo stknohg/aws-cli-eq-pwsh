@@ -209,6 +209,7 @@ $g_AWSServices = @{
     'elb'                             = [PSCustomObject]@{ Prefix = 'ELB'; Name = 'Elastic Load Balancing'; Url = 'https://aws.amazon.com/elasticloadbalancing/'; Note = '' };
     'elbv2'                           = [PSCustomObject]@{ Prefix = 'ELB2'; Name = 'Elastic Load Balancing'; Url = 'https://aws.amazon.com/elasticloadbalancing/'; Note = '' };
     'emr-containers'                  = [PSCustomObject]@{ Prefix = 'EMRC'; Name = 'Amazon EMR on Amazon EKS'; Url = 'https://aws.amazon.com/emr/features/eks/'; Note = '' };
+    'emr-serverless'                  = [PSCustomObject]@{ Prefix = 'EMRServerless'; Name = 'Amazon EMR Serverless'; Url = 'https://aws.amazon.com/emr/serverless/'; Note = '' };
     'emr'                             = [PSCustomObject]@{ Prefix = 'EMR'; Name = 'Amazon EMR'; Url = 'https://aws.amazon.com/emr/'; Note = '' };
     'es'                              = [PSCustomObject]@{ Prefix = 'ES'; Name = 'Amazon Elasticsearch Service'; Url = 'https://aws.amazon.com/elasticsearch-service/'; Note = '' };
     'events'                          = [PSCustomObject]@{ Prefix = 'CWE'; Name = 'Amazon CloudWatch Events'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
@@ -284,6 +285,7 @@ $g_AWSServices = @{
     'lookoutequipment'                = [PSCustomObject]@{ Prefix = 'L4E'; Name = 'Amazon Lookout for Equipment'; Url = 'https://aws.amazon.com/lookout-for-equipment/'; Note = '' };
     'lookoutmetrics'                  = [PSCustomObject]@{ Prefix = 'LOM'; Name = 'Amazon Lookout for Metrics'; Url = 'https://aws.amazon.com/lookout-for-metrics/'; Note = '' };
     'lookoutvision'                   = [PSCustomObject]@{ Prefix = 'LFV'; Name = 'Amazon Lookout for Vision'; Url = 'https://aws.amazon.com/lookout-for-vision/'; Note = '' };
+    'm2'                              = [PSCustomObject]@{ Prefix = 'AMM'; Name = 'AWS Mainframe Modernization'; Url = 'https://aws.amazon.com/mainframe-modernization/'; Note = '' };
     'machinelearning'                 = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = '' };
     'macie'                           = [PSCustomObject]@{ Prefix = 'MAC'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
     'macie2'                          = [PSCustomObject]@{ Prefix = 'MAC2'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
@@ -519,6 +521,7 @@ $g_CmdletReferenceLinks = @{
     'elb'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Elastic_Load_Balancing_cmdlets.html';
     'elbv2'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Elastic_Load_Balancing_V2_cmdlets.html';
     'emr-containers'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/EMRContainers_cmdlets.html'
+    'emr-serverless'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/EMRServerless_cmdlets.html';
     'emr'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html';
     'es'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elasticsearch_cmdlets.html';
     'events'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Events_cmdlets.html';
@@ -594,6 +597,7 @@ $g_CmdletReferenceLinks = @{
     'lookoutequipment'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutEquipment_cmdlets.html';
     'lookoutmetrics'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutMetrics_cmdlets.html';
     'lookoutvision'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/LookoutforVision_cmdlets.html';
+    'm2'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MainframeModernization_cmdlets.html';
     'machinelearning'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html';
     'macie'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Macie_cmdlets.html';
     'macie2'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Macie2_cmdlets.html';

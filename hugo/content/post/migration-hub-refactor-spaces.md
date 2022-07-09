@@ -1,6 +1,6 @@
 ---
 title: migration-hub-refactor-spaces
-date: 2022-06-18
+date: 2022-07-09
 description: aws migration-hub-refactor-spaces (AWS Migration Hub Refactor Spaces) command/cmdlet list.
 ---
 
@@ -36,4 +36,5 @@ description: aws migration-hub-refactor-spaces (AWS Migration Hub Refactor Space
 |[aws migration-hub-refactor-spaces put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/migration-hub-refactor-spaces/put-resource-policy.html)|[Write-MHRSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MHRSResourcePolicy.html)|
 |[aws migration-hub-refactor-spaces tag-resource](https://docs.aws.amazon.com/cli/latest/reference/migration-hub-refactor-spaces/tag-resource.html)|[Add-MHRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MHRSResourceTag.html)|
 |[aws migration-hub-refactor-spaces untag-resource](https://docs.aws.amazon.com/cli/latest/reference/migration-hub-refactor-spaces/untag-resource.html)|[Remove-MHRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHRSResourceTag.html)|
+|[aws migration-hub-refactor-spaces update-route](https://docs.aws.amazon.com/cli/latest/reference/migration-hub-refactor-spaces/update-route.html)|[Update-MHRSRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MHRSRoute.html)|
 

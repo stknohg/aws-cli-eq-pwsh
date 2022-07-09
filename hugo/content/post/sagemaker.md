@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2022-06-18
+date: 2022-07-09
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -120,6 +120,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker describe-endpoint-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-endpoint-config.html)|[Get-SMEndpointConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMEndpointConfig.html)|
 |[aws sagemaker describe-experiment](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-experiment.html)|[Get-SMExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMExperiment.html)|
 |[aws sagemaker describe-feature-group](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-feature-group.html)|[Get-SMFeatureGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMFeatureGroup.html)|
+|[aws sagemaker describe-feature-metadata](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-feature-metadata.html)|[Get-SMFeatureMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMFeatureMetadata.html)|
 |[aws sagemaker describe-flow-definition](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-flow-definition.html)|[Get-SMFlowDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMFlowDefinition.html)|
 |[aws sagemaker describe-human-task-ui](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-human-task-ui.html)|[Get-SMHumanTaskUi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMHumanTaskUi.html)|
 |[aws sagemaker describe-hyper-parameter-tuning-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-hyper-parameter-tuning-job.html)|[Get-SMHyperParameterTuningJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMHyperParameterTuningJob.html)|
@@ -250,6 +251,8 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker update-endpoint](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-endpoint.html)|[Update-SMEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMEndpoint.html)|
 |[aws sagemaker update-endpoint-weights-and-capacities](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-endpoint-weights-and-capacities.html)|[Update-SMEndpointWeightAndCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMEndpointWeightAndCapacity.html)|
 |[aws sagemaker update-experiment](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-experiment.html)|[Update-SMExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMExperiment.html)|
+|[aws sagemaker update-feature-group](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-feature-group.html)|[Update-SMFeatureGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMFeatureGroup.html)|
+|[aws sagemaker update-feature-metadata](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-feature-metadata.html)|[Update-SMFeatureMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMFeatureMetadata.html)|
 |[aws sagemaker update-image](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-image.html)|[Update-SMImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMImage.html)|
 |[aws sagemaker update-model-package](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-model-package.html)|[Update-SMModelPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMModelPackage.html)|
 |[aws sagemaker update-monitoring-schedule](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-monitoring-schedule.html)|[Update-SMMonitoringSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMMonitoringSchedule.html)|

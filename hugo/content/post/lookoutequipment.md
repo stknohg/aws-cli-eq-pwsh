@@ -1,6 +1,6 @@
 ---
 title: lookoutequipment
-date: 2022-06-18
+date: 2022-07-09
 description: aws lookoutequipment (Amazon Lookout for Equipment) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws lookoutequipment (Amazon Lookout for Equipment) command/cmdlet 
 |[aws lookoutequipment describe-model](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/describe-model.html)|[Get-L4EModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EModel.html)|
 |[aws lookoutequipment list-data-ingestion-jobs](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-data-ingestion-jobs.html)|[Get-L4EDataIngestionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EDataIngestionJobList.html)|
 |[aws lookoutequipment list-datasets](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-datasets.html)|[Get-L4EDatasetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EDatasetList.html)|
+|[aws lookoutequipment list-inference-events](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-inference-events.html)|[Get-L4EInferenceEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EInferenceEventList.html)|
 |[aws lookoutequipment list-inference-executions](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-inference-executions.html)|[Get-L4EInferenceExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EInferenceExecutionList.html)|
 |[aws lookoutequipment list-inference-schedulers](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-inference-schedulers.html)|[Get-L4EInferenceSchedulerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EInferenceSchedulerList.html)|
 |[aws lookoutequipment list-models](https://docs.aws.amazon.com/cli/latest/reference/lookoutequipment/list-models.html)|[Get-L4EModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-L4EModelList.html)|

@@ -1,6 +1,6 @@
 ---
 title: redshift-data
-date: 2022-06-18
+date: 2022-07-09
 description: aws redshift-data (Amazon Redshift) command/cmdlet list.
 ---
 

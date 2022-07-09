@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2022-06-18
+date: 2022-07-09
 description: aws dms (AWS Database Migration Service) command/cmdlet list.
 ---
 
@@ -77,4 +77,5 @@ description: aws dms (AWS Database Migration Service) command/cmdlet list.
 |[aws dms start-replication-task-assessment-run](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task-assessment-run.html)|[Start-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTaskAssessmentRun.html)|
 |[aws dms stop-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/stop-replication-task.html)|[Stop-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DMSReplicationTask.html)|
 |[aws dms test-connection](https://docs.aws.amazon.com/cli/latest/reference/dms/test-connection.html)|[Test-DMSConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-DMSConnection.html)|
+|[aws dms update-subscriptions-to-event-bridge](https://docs.aws.amazon.com/cli/latest/reference/dms/update-subscriptions-to-event-bridge.html)|[Update-DMSSubscriptionsToEventBridge](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DMSSubscriptionsToEventBridge.html)|
 

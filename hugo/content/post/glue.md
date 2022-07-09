@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2022-06-18
+date: 2022-07-09
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -139,6 +139,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue import-catalog-to-glue](https://docs.aws.amazon.com/cli/latest/reference/glue/import-catalog-to-glue.html)|[Import-GLUECatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-GLUECatalog.html)|
 |[aws glue list-blueprints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-blueprints.html)|[Get-GLUEBlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprintList.html)|
 |[aws glue list-crawlers](https://docs.aws.amazon.com/cli/latest/reference/glue/list-crawlers.html)|[Get-GLUECrawlerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerNameList.html)|
+|[aws glue list-crawls](https://docs.aws.amazon.com/cli/latest/reference/glue/list-crawls.html)|[Get-GLUECrawlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlList.html)|
 |[aws glue list-custom-entity-types](https://docs.aws.amazon.com/cli/latest/reference/glue/list-custom-entity-types.html)|[Get-GLUECustomEntityTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECustomEntityTypeList.html)|
 |[aws glue list-dev-endpoints](https://docs.aws.amazon.com/cli/latest/reference/glue/list-dev-endpoints.html)|[Get-GLUEDevEndpointNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointNameList.html)|
 |[aws glue list-jobs](https://docs.aws.amazon.com/cli/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|

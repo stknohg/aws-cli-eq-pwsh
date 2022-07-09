@@ -1,6 +1,6 @@
 ---
 title: translate
-date: 2022-06-18
+date: 2022-07-09
 description: aws translate (Amazon Translate) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws translate (Amazon Translate) command/cmdlet list.
 |[aws translate get-parallel-data](https://docs.aws.amazon.com/cli/latest/reference/translate/get-parallel-data.html)|[Get-TRNParallelData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNParallelData.html)|
 |[aws translate get-terminology](https://docs.aws.amazon.com/cli/latest/reference/translate/get-terminology.html)|[Get-TRNTerminology](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNTerminology.html)|
 |[aws translate import-terminology](https://docs.aws.amazon.com/cli/latest/reference/translate/import-terminology.html)|[Import-TRNTerminology](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TRNTerminology.html)|
+|[aws translate list-languages](https://docs.aws.amazon.com/cli/latest/reference/translate/list-languages.html)|[Get-TRNLanguageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNLanguageList.html)|
 |[aws translate list-parallel-data](https://docs.aws.amazon.com/cli/latest/reference/translate/list-parallel-data.html)|[Get-TRNParallelDataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNParallelDataList.html)|
 |[aws translate list-terminologies](https://docs.aws.amazon.com/cli/latest/reference/translate/list-terminologies.html)|[Get-TRNTerminologyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNTerminologyList.html)|
 |[aws translate list-text-translation-jobs](https://docs.aws.amazon.com/cli/latest/reference/translate/list-text-translation-jobs.html)|[Get-TRNTextTranslationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNTextTranslationJobList.html)|

@@ -1,6 +1,6 @@
 ---
 title: appconfigdata
-date: 2022-06-18
+date: 2022-07-09
 description: aws appconfigdata (AWS AppConfig Data) command/cmdlet list.
 ---
 

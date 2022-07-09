@@ -1,6 +1,6 @@
 ---
 title: sagemaker-a2i-runtime
-date: 2022-06-18
+date: 2022-07-09
 description: aws sagemaker-a2i-runtime (Amazon Augmented AI) command/cmdlet list.
 ---
 

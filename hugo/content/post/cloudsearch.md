@@ -1,6 +1,6 @@
 ---
 title: cloudsearch
-date: 2022-06-18
+date: 2022-07-09
 description: aws cloudsearch (Amazon CloudSearch) command/cmdlet list.
 ---
 

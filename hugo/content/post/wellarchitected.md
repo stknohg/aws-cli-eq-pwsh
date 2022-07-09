@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2022-06-18
+date: 2022-07-09
 description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list.
 ---
 
@@ -47,6 +47,7 @@ description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list
 |[aws wellarchitected tag-resource](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/tag-resource.html)|[Add-WATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WATResourceTag.html)|
 |[aws wellarchitected untag-resource](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/untag-resource.html)|[Remove-WATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATResourceTag.html)|
 |[aws wellarchitected update-answer](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-answer.html)|[Update-WATAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATAnswer.html)|
+|[aws wellarchitected update-global-settings](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-global-settings.html)|[Update-WATGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATGlobalSetting.html)|
 |[aws wellarchitected update-lens-review](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-lens-review.html)|[Update-WATLensReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATLensReview.html)|
 |[aws wellarchitected update-share-invitation](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-share-invitation.html)|[Update-WATShareInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATShareInvitation.html)|
 |[aws wellarchitected update-workload](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/update-workload.html)|[Update-WATWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATWorkload.html)|

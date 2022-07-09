@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2022-06-18
+date: 2022-07-09
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 

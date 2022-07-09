@@ -1,6 +1,6 @@
 ---
 title: sagemaker-runtime
-date: 2022-06-18
+date: 2022-07-09
 description: aws sagemaker-runtime (Amazon SageMaker) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: iot1click-projects
-date: 2022-06-18
+date: 2022-07-09
 description: aws iot1click-projects (AWS IoT 1-Click Project) command/cmdlet list.
 ---
 

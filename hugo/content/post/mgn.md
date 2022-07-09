@@ -1,6 +1,6 @@
 ---
 title: mgn
-date: 2022-06-18
+date: 2022-07-09
 description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 ---
 
@@ -14,13 +14,16 @@ description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws mgn change-server-life-cycle-state](https://docs.aws.amazon.com/cli/latest/reference/mgn/change-server-life-cycle-state.html)|[Set-MGNServerLifeCycleState](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNServerLifeCycleState.html)|
+|[aws mgn create-launch-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/mgn/create-launch-configuration-template.html)|[New-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn create-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/mgn/create-replication-configuration-template.html)|[New-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNReplicationConfigurationTemplate.html)|
 |[aws mgn delete-job](https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-job.html)|[Remove-MGNJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNJob.html)|
+|[aws mgn delete-launch-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-launch-configuration-template.html)|[Remove-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn delete-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-replication-configuration-template.html)|[Remove-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNReplicationConfigurationTemplate.html)|
 |[aws mgn delete-source-server](https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-source-server.html)|[Remove-MGNSourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNSourceServer.html)|
 |[aws mgn delete-vcenter-client](https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-vcenter-client.html)|[Remove-MGNVcenterClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNVcenterClient.html)|
 |[aws mgn describe-job-log-items](https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-job-log-items.html)|[Get-MGNJobLogItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNJobLogItem.html)|
 |[aws mgn describe-jobs](https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-jobs.html)|[Get-MGNJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNJob.html)|
+|[aws mgn describe-launch-configuration-templates](https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-launch-configuration-templates.html)|[Get-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn describe-replication-configuration-templates](https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-replication-configuration-templates.html)|[Get-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNReplicationConfigurationTemplate.html)|
 |[aws mgn describe-source-servers](https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-source-servers.html)|[Get-MGNSourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNSourceServer.html)|
 |[aws mgn describe-vcenter-clients](https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-vcenter-clients.html)|[Get-MGNVcenterClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNVcenterClient.html)|
@@ -39,6 +42,7 @@ description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 |[aws mgn terminate-target-instances](https://docs.aws.amazon.com/cli/latest/reference/mgn/terminate-target-instances.html)|[Remove-MGNTargetInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNTargetInstance.html)|
 |[aws mgn untag-resource](https://docs.aws.amazon.com/cli/latest/reference/mgn/untag-resource.html)|[Remove-MGNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNResourceTag.html)|
 |[aws mgn update-launch-configuration](https://docs.aws.amazon.com/cli/latest/reference/mgn/update-launch-configuration.html)|[Update-MGNLaunchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNLaunchConfiguration.html)|
+|[aws mgn update-launch-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/mgn/update-launch-configuration-template.html)|[Update-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn update-replication-configuration](https://docs.aws.amazon.com/cli/latest/reference/mgn/update-replication-configuration.html)|[Update-MGNReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNReplicationConfiguration.html)|
 |[aws mgn update-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/mgn/update-replication-configuration-template.html)|[Update-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNReplicationConfigurationTemplate.html)|
 |[aws mgn update-source-server-replication-type](https://docs.aws.amazon.com/cli/latest/reference/mgn/update-source-server-replication-type.html)|[Update-MGNSourceServerReplicationType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNSourceServerReplicationType.html)|

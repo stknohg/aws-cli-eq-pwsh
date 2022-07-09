@@ -1,6 +1,6 @@
 ---
 title: docdb
-date: 2022-06-18
+date: 2022-07-09
 description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 ---
 

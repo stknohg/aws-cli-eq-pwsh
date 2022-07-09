@@ -1,6 +1,6 @@
 ---
 title: finspace-data
-date: 2022-06-18
+date: 2022-07-09
 description: aws finspace-data (Amazon FinSpace) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws finspace-data (Amazon FinSpace) command/cmdlet list.
 |[aws finspace-data get-changeset](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-changeset.html)|[Get-FNSPChangeset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPChangeset.html)|
 |[aws finspace-data get-data-view](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-data-view.html)|[Get-FNSPDataView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPDataView.html)|
 |[aws finspace-data get-dataset](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-dataset.html)|[Get-FNSPDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPDataset.html)|
+|[aws finspace-data get-external-data-view-access-details](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-external-data-view-access-details.html)|[Get-FNSPExternalDataViewAccessDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPExternalDataViewAccessDetail.html)|
 |[aws finspace-data get-permission-group](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-permission-group.html)|[Get-FNSPPermissionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPPermissionGroup.html)|
 |[aws finspace-data get-programmatic-access-credentials](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-programmatic-access-credentials.html)|[Get-FNSPProgrammaticAccessCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPProgrammaticAccessCredential.html)|
 |[aws finspace-data get-user](https://docs.aws.amazon.com/cli/latest/reference/finspace-data/get-user.html)|[Get-FNSPUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FNSPUser.html)|

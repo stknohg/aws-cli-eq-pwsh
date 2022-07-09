@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2022-06-18
+date: 2022-07-09
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |----|----|
 |[aws quicksight cancel-ingestion](https://docs.aws.amazon.com/cli/latest/reference/quicksight/cancel-ingestion.html)|[Stop-QSIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-QSIngestion.html)|
 |[aws quicksight create-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-account-customization.html)|[New-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSAccountCustomization.html)|
+|[aws quicksight create-account-subscription](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-account-subscription.html)|[New-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSAccountSubscription.html)|
 |[aws quicksight create-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-analysis.html)|[New-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSAnalysis.html)|
 |[aws quicksight create-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-dashboard.html)|[New-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSDashboard.html)|
 |[aws quicksight create-data-set](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-data-set.html)|[New-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSDataSet.html)|
@@ -49,6 +50,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight delete-user-by-principal-id](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user-by-principal-id.html)|[Remove-QSUserByPrincipalId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUserByPrincipalId.html)|
 |[aws quicksight describe-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-customization.html)|[Get-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountCustomization.html)|
 |[aws quicksight describe-account-settings](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-settings.html)|[Get-QSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSetting.html)|
+|[aws quicksight describe-account-subscription](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-subscription.html)|[Get-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSubscription.html)|
 |[aws quicksight describe-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis.html)|[Get-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysis.html)|
 |[aws quicksight describe-analysis-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis-permissions.html)|[Get-QSAnalysisPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisPermission.html)|
 |[aws quicksight describe-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard.html)|[Get-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboard.html)|

@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2022-06-18
+date: 2022-07-09
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 
@@ -42,6 +42,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds describe-event-topics](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-event-topics.html)|[Get-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSEventTopic.html)|
 |[aws ds describe-ldaps-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-ldaps-settings.html)|[Get-DSLDAPSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLDAPSSetting.html)|
 |[aws ds describe-regions](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-regions.html)|[Get-DSRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSRegion.html)|
+|[aws ds describe-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-settings.html)|[Get-DSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSetting.html)|
 |[aws ds describe-shared-directories](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-shared-directories.html)|[Get-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSharedDirectory.html)|
 |[aws ds describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-snapshots.html)|[Get-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshot.html)|
 |[aws ds describe-trusts](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-trusts.html)|[Get-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSTrust.html)|
@@ -74,6 +75,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds update-conditional-forwarder](https://docs.aws.amazon.com/cli/latest/reference/ds/update-conditional-forwarder.html)|[Update-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSConditionalForwarder.html)|
 |[aws ds update-number-of-domain-controllers](https://docs.aws.amazon.com/cli/latest/reference/ds/update-number-of-domain-controllers.html)|[Set-DSDomainControllerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DSDomainControllerCount.html)|
 |[aws ds update-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/update-radius.html)|[Update-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSRadius.html)|
+|[aws ds update-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/update-settings.html)|[Update-DSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSSetting.html)|
 |[aws ds update-trust](https://docs.aws.amazon.com/cli/latest/reference/ds/update-trust.html)|[Update-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSTrust.html)|
 |[aws ds verify-trust](https://docs.aws.amazon.com/cli/latest/reference/ds/verify-trust.html)|[Approve-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-DSTrust.html)|
 

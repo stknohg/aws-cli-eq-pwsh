@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-06-18
+date: 2022-07-09
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.7.9 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.108 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.7.14 ([CHANGELOG](https://github.com/aws/aws-cli/blob/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.122 ([CHANGELOG](https://github.com/aws/aws-tools-for-powershell/blob/master/CHANGELOG.md))
 
 ### Contents
 
@@ -88,7 +88,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Config](https://aws.amazon.com/config/)|[configservice]({{%relref "post/configservice.md" %}})|CFG||
 |-|[configure]({{%relref "post/configure.md" %}})||Configure AWS CLI options.|
 |[Amazon Connect](https://aws.amazon.com/connect/)|[connect]({{%relref "post/connect.md" %}})|CONN||
-|[Contact Lens for Amazon Connect ](https://aws.amazon.com/connect/)|[connect-contact-lens]({{%relref "post/connect-contact-lens.md" %}})|CCL||
+|[Contact Lens for Amazon Connect](https://aws.amazon.com/connect/)|[connect-contact-lens]({{%relref "post/connect-contact-lens.md" %}})|CCL||
+|[Amazon Connect Outbound Campaigns](https://aws.amazon.com/connect/outbound/)|[connectcampaigns]({{%relref "post/connectcampaigns.md" %}})|CCS||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
 |[AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)|[cur]({{%relref "post/cur.md" %}})|CUR||
 |[Amazon Connect Customer Profiles](https://aws.amazon.com/connect/)|[customer-profiles]({{%relref "post/customer-profiles.md" %}})|CPF||
@@ -259,11 +260,13 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Relational Database Service](https://aws.amazon.com/rds/)|[rds-data]({{%relref "post/rds-data.md" %}})|RDSD||
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift]({{%relref "post/redshift.md" %}})|RS||
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift-data]({{%relref "post/redshift-data.md" %}})|RSD||
+|[Amazon Redshift Serverless](https://aws.amazon.com/redshift/redshift-serverless/)|[redshift-serverless]({{%relref "post/redshift-serverless.md" %}})|RSS||
 |[Amazon Rekognition](https://aws.amazon.com/rekognition/)|[rekognition]({{%relref "post/rekognition.md" %}})|REK||
 |[AWS Resilience Hub](https://aws.amazon.com/resilience-hub/)|[resiliencehub]({{%relref "post/resiliencehub.md" %}})|RESH||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
 |[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||
+|[IAM Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/APIReference/Welcome.html)|[rolesanywhere]({{%relref "post/rolesanywhere.md" %}})|IAMRA||
 |[Amazon Route 53](https://aws.amazon.com/route53/)|[route53]({{%relref "post/route53.md" %}})|R53||
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})|RRC|Recovery Control Data Plane|
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})|R53RC|Recovery Control Configuration|

@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2022-06-18
+date: 2022-07-09
 description: aws workmail (Amazon WorkMail) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail associate-member-to-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/associate-member-to-group.html)|[Add-WMMemberToGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WMMemberToGroup.html)|
 |[aws workmail cancel-mailbox-export-job](https://docs.aws.amazon.com/cli/latest/reference/workmail/cancel-mailbox-export-job.html)|[Stop-WMMailboxExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-WMMailboxExportJob.html)|
 |[aws workmail create-alias](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-alias.html)|[New-WMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMAlias.html)|
+|[aws workmail create-availability-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-availability-configuration.html)|[New-WMAvailabilityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMAvailabilityConfiguration.html)|
 |[aws workmail create-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-group.html)|[New-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMGroup.html)|
 |[aws workmail create-mobile-device-access-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-mobile-device-access-rule.html)|[New-WMMobileDeviceAccessRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMMobileDeviceAccessRule.html)|
 |[aws workmail create-organization](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-organization.html)|[New-WMOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMOrganization.html)|
@@ -24,6 +25,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail create-user](https://docs.aws.amazon.com/cli/latest/reference/workmail/create-user.html)|[New-WMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WMUser.html)|
 |[aws workmail delete-access-control-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-access-control-rule.html)|[Remove-WMAccessControlRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMAccessControlRule.html)|
 |[aws workmail delete-alias](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-alias.html)|[Remove-WMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMAlias.html)|
+|[aws workmail delete-availability-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-availability-configuration.html)|[Remove-WMAvailabilityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMAvailabilityConfiguration.html)|
 |[aws workmail delete-email-monitoring-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-email-monitoring-configuration.html)|[Remove-WMEmailMonitoringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMEmailMonitoringConfiguration.html)|
 |[aws workmail delete-group](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-group.html)|[Remove-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMGroup.html)|
 |[aws workmail delete-mailbox-permissions](https://docs.aws.amazon.com/cli/latest/reference/workmail/delete-mailbox-permissions.html)|[Remove-WMMailboxPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMailboxPermission.html)|
@@ -52,6 +54,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail get-mobile-device-access-override](https://docs.aws.amazon.com/cli/latest/reference/workmail/get-mobile-device-access-override.html)|[Get-WMMobileDeviceAccessOverride](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMobileDeviceAccessOverride.html)|
 |[aws workmail list-access-control-rules](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-access-control-rules.html)|[Get-WMAccessControlRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAccessControlRuleList.html)|
 |[aws workmail list-aliases](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-aliases.html)|[Get-WMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAliasList.html)|
+|[aws workmail list-availability-configurations](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-availability-configurations.html)|[Get-WMAvailabilityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAvailabilityConfigurationList.html)|
 |[aws workmail list-group-members](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-group-members.html)|[Get-WMMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMemberList.html)|
 |[aws workmail list-groups](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-groups.html)|[Get-WMGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroupList.html)|
 |[aws workmail list-mail-domains](https://docs.aws.amazon.com/cli/latest/reference/workmail/list-mail-domains.html)|[Get-WMMailDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailDomainList.html)|
@@ -75,7 +78,9 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail reset-password](https://docs.aws.amazon.com/cli/latest/reference/workmail/reset-password.html)|[Reset-WMPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-WMPassword.html)|
 |[aws workmail start-mailbox-export-job](https://docs.aws.amazon.com/cli/latest/reference/workmail/start-mailbox-export-job.html)|[Start-WMMailboxExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WMMailboxExportJob.html)|
 |[aws workmail tag-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/tag-resource.html)|[Add-WMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WMResourceTag.html)|
+|[aws workmail test-availability-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/test-availability-configuration.html)|[Test-WMAvailabilityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-WMAvailabilityConfiguration.html)|
 |[aws workmail untag-resource](https://docs.aws.amazon.com/cli/latest/reference/workmail/untag-resource.html)|[Remove-WMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMResourceTag.html)|
+|[aws workmail update-availability-configuration](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-availability-configuration.html)|[Update-WMAvailabilityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMAvailabilityConfiguration.html)|
 |[aws workmail update-default-mail-domain](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-default-mail-domain.html)|[Update-WMDefaultMailDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMDefaultMailDomain.html)|
 |[aws workmail update-mailbox-quota](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-mailbox-quota.html)|[Update-WMMailboxQuota](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMailboxQuota.html)|
 |[aws workmail update-mobile-device-access-rule](https://docs.aws.amazon.com/cli/latest/reference/workmail/update-mobile-device-access-rule.html)|[Update-WMMobileDeviceAccessRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMobileDeviceAccessRule.html)|

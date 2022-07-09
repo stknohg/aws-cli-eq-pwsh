@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2022-06-18
+date: 2022-07-09
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws athena batch-get-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/batch-get-named-query.html)|[Get-ATHNamedQueryBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHNamedQueryBatch.html)|
+|[aws athena batch-get-prepared-statement](https://docs.aws.amazon.com/cli/latest/reference/athena/batch-get-prepared-statement.html)|[Get-ATHBatchPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHBatchPreparedStatement.html)|
 |[aws athena batch-get-query-execution](https://docs.aws.amazon.com/cli/latest/reference/athena/batch-get-query-execution.html)|[Get-ATHQueryExecutionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryExecutionBatch.html)|
 |[aws athena create-data-catalog](https://docs.aws.amazon.com/cli/latest/reference/athena/create-data-catalog.html)|[New-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHDataCatalog.html)|
 |[aws athena create-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/create-named-query.html)|[New-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHNamedQuery.html)|

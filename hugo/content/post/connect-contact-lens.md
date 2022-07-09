@@ -1,12 +1,12 @@
 ---
 title: connect-contact-lens
-date: 2022-06-18
-description: aws connect-contact-lens (Contact Lens for Amazon Connect ) command/cmdlet list.
+date: 2022-07-09
+description: aws connect-contact-lens (Contact Lens for Amazon Connect) command/cmdlet list.
 ---
 
 ## connect-contact-lens
 
-### [Contact Lens for Amazon Connect ](https://aws.amazon.com/connect/)
+### [Contact Lens for Amazon Connect](https://aws.amazon.com/connect/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/connect-contact-lens/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectContactLens_cmdlets.html)

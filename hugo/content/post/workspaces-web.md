@@ -1,6 +1,6 @@
 ---
 title: workspaces-web
-date: 2022-06-18
+date: 2022-07-09
 description: aws workspaces-web (Amazon WorkSpaces Web) command/cmdlet list.
 ---
 

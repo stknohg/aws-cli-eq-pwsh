@@ -170,7 +170,8 @@ $g_AWSServices = @{
     'compute-optimizer'               = [PSCustomObject]@{ Prefix = 'CO'; Name = 'AWS Compute Optimizer'; Url = 'https://aws.amazon.com/compute-optimizer/'; Note = '' };
     'configservice'                   = [PSCustomObject]@{ Prefix = 'CFG'; Name = 'AWS Config'; Url = 'https://aws.amazon.com/config/'; Note = '' };
     'configure'                       = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = 'Configure AWS CLI options.' };
-    'connect-contact-lens'            = [PSCustomObject]@{ Prefix = 'CCL'; Name = 'Contact Lens for Amazon Connect '; Url = 'https://aws.amazon.com/connect/'; Note = '' };
+    'connect-contact-lens'            = [PSCustomObject]@{ Prefix = 'CCL'; Name = 'Contact Lens for Amazon Connect'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
+    'connectcampaigns'                = [PSCustomObject]@{ Prefix = 'CCS'; Name = 'Amazon Connect Outbound Campaigns'; Url = 'https://aws.amazon.com/connect/outbound/'; Note = '' };
     'connect'                         = [PSCustomObject]@{ Prefix = 'CONN'; Name = 'Amazon Connect'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'connectparticipant'              = [PSCustomObject]@{ Prefix = 'CONNP'; Name = 'Amazon Connect Participant Service'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'cur'                             = [PSCustomObject]@{ Prefix = 'CUR'; Name = 'AWS Cost and Usage Report'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/'; Note = '' };
@@ -341,12 +342,14 @@ $g_AWSServices = @{
     'rds-data'                        = [PSCustomObject]@{ Prefix = 'RDSD'; Name = 'Amazon Relational Database Service'; Url = 'https://aws.amazon.com/rds/'; Note = '' };
     'rds'                             = [PSCustomObject]@{ Prefix = 'RDS'; Name = 'Amazon Relational Database Service'; Url = 'https://aws.amazon.com/rds/'; Note = '' };
     'redshift-data'                   = [PSCustomObject]@{ Prefix = 'RSD'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' }; 
+    'redshift-serverless'             = [PSCustomObject]@{ Prefix = 'RSS'; Name = 'Amazon Redshift Serverless'; Url = 'https://aws.amazon.com/redshift/redshift-serverless/'; Note = '' };
     'redshift'                        = [PSCustomObject]@{ Prefix = 'RS'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' };
     'rekognition'                     = [PSCustomObject]@{ Prefix = 'REK'; Name = 'Amazon Rekognition'; Url = 'https://aws.amazon.com/rekognition/'; Note = '' };
     'resiliencehub'                   = [PSCustomObject]@{ Prefix = 'RESH'; Name = 'AWS Resilience Hub'; Url = 'https://aws.amazon.com/resilience-hub/'; Note = '' };
     'resource-groups'                 = [PSCustomObject]@{ Prefix = 'RG'; Name = 'AWS Resource Groups'; Url = 'https://aws.amazon.com/'; Note = '' };
     'resourcegroupstaggingapi'        = [PSCustomObject]@{ Prefix = 'RGT'; Name = 'AWS Resource Groups Tagging'; Url = 'https://aws.amazon.com/'; Note = '' };
     'robomaker'                       = [PSCustomObject]@{ Prefix = 'ROBO'; Name = 'AWS RoboMaker'; Url = 'https://aws.amazon.com/robomaker/'; Note = '' };
+    'rolesanywhere'                   = [PSCustomObject]@{ Prefix = 'IAMRA'; Name = 'IAM Roles Anywhere'; Url = 'https://docs.aws.amazon.com/rolesanywhere/latest/APIReference/Welcome.html'; Note = '' };
     'route53'                         = [PSCustomObject]@{ Prefix = 'R53'; Name = 'Amazon Route 53'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
     'route53-recovery-cluster'        = [PSCustomObject]@{ Prefix = 'RRC'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Control Data Plane' };
     'route53-recovery-control-config' = [PSCustomObject]@{ Prefix = 'R53RC'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Control Configuration' };
@@ -484,6 +487,7 @@ $g_CmdletReferenceLinks = @{
     'configservice'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Config_cmdlets.html';
     'configure'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Shell_Configuration_cmdlets.html';
     'connect-contact-lens'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectContactLens_cmdlets.html'
+    'connectcampaigns'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectCampaignService_cmdlets.html'
     'connect'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Connect_Service_cmdlets.html';
     'connectparticipant'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectParticipant_cmdlets.html'
     'cur'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_and_Usage_Report_cmdlets.html';
@@ -653,12 +657,14 @@ $g_CmdletReferenceLinks = @{
     'rds-data'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RDS_DataService_cmdlets.html';
     'rds'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Relational_Database_Service_cmdlets.html';
     'redshift-data'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/RedshiftDataAPIService_cmdlets.html';
+    'redshift-serverless'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/RedshiftServerless_cmdlets.html'
     'redshift'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Redshift_cmdlets.html';
     'rekognition'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Rekognition_cmdlets.html';
     'resiliencehub'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ResilienceHub_cmdlets.html';
     'resource-groups'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Groups_cmdlets.html';
     'resourcegroupstaggingapi'        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Groups_Tagging_API_cmdlets.html';
     'robomaker'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RoboMaker_cmdlets.html';
+    'rolesanywhere'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IAMRolesAnywhere_cmdlets.html'
     'route53'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_cmdlets.html';
     'route53-recovery-cluster'        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryCluster_cmdlets.html';
     'route53-recovery-control-config' = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryControlConfig_cmdlets.html';

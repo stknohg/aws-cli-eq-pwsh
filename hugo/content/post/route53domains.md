@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2022-07-09
+date: 2022-07-17
 description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 ---
 

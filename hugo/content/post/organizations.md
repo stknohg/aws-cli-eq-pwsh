@@ -1,6 +1,6 @@
 ---
 title: organizations
-date: 2022-07-09
+date: 2022-07-17
 description: aws organizations (AWS Organizations) command/cmdlet list.
 ---
 

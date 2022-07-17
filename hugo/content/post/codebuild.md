@@ -1,6 +1,6 @@
 ---
 title: codebuild
-date: 2022-07-09
+date: 2022-07-17
 description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 ---
 

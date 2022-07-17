@@ -1,6 +1,6 @@
 ---
 title: inspector2
-date: 2022-07-09
+date: 2022-07-17
 description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 disassociate-member](https://docs.aws.amazon.com/cli/latest/reference/inspector2/disassociate-member.html)|[Unregister-INS2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-INS2Member.html)|
 |[aws inspector2 enable](https://docs.aws.amazon.com/cli/latest/reference/inspector2/enable.html)|[Stop-INS2Inspector](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-INS2Inspector.html)|
 |[aws inspector2 enable-delegated-admin-account](https://docs.aws.amazon.com/cli/latest/reference/inspector2/enable-delegated-admin-account.html)|[Enable-INS2DelegatedAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-INS2DelegatedAdminAccount.html)|
+|[aws inspector2 get-configuration](https://docs.aws.amazon.com/cli/latest/reference/inspector2/get-configuration.html)|[Get-INS2Configuration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2Configuration.html)|
 |[aws inspector2 get-delegated-admin-account](https://docs.aws.amazon.com/cli/latest/reference/inspector2/get-delegated-admin-account.html)|[Get-INS2DelegatedAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2DelegatedAdminAccount.html)|
 |[aws inspector2 get-findings-report-status](https://docs.aws.amazon.com/cli/latest/reference/inspector2/get-findings-report-status.html)|[Get-INS2FindingsReportStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2FindingsReportStatus.html)|
 |[aws inspector2 get-member](https://docs.aws.amazon.com/cli/latest/reference/inspector2/get-member.html)|[Get-INS2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2Member.html)|
@@ -41,6 +42,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 list-usage-totals](https://docs.aws.amazon.com/cli/latest/reference/inspector2/list-usage-totals.html)|[Get-INS2UsageTotalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2UsageTotalList.html)|
 |[aws inspector2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/inspector2/tag-resource.html)|[Add-INS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-INS2ResourceTag.html)|
 |[aws inspector2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/inspector2/untag-resource.html)|[Remove-INS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INS2ResourceTag.html)|
+|[aws inspector2 update-configuration](https://docs.aws.amazon.com/cli/latest/reference/inspector2/update-configuration.html)|[Update-INS2Configuration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INS2Configuration.html)|
 |[aws inspector2 update-filter](https://docs.aws.amazon.com/cli/latest/reference/inspector2/update-filter.html)|[Update-INS2Filter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INS2Filter.html)|
 |[aws inspector2 update-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/inspector2/update-organization-configuration.html)|[Update-INS2OrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INS2OrganizationConfiguration.html)|
 

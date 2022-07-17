@@ -1,6 +1,6 @@
 ---
 title: codeartifact
-date: 2022-07-09
+date: 2022-07-17
 description: aws codeartifact (AWS Artifact) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws codeartifact (AWS Artifact) command/cmdlet list.
 |[aws codeartifact delete-repository](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-repository.html)|[Remove-CARepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CARepository.html)|
 |[aws codeartifact delete-repository-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-repository-permissions-policy.html)|[Remove-CARepositoryPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CARepositoryPermissionsPolicy.html)|
 |[aws codeartifact describe-domain](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/describe-domain.html)|[Get-CADomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CADomain.html)|
+|[aws codeartifact describe-package](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/describe-package.html)|[Get-CAPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAPackage.html)|
 |[aws codeartifact describe-package-version](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/describe-package-version.html)|[Get-CAPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAPackageVersion.html)|
 |[aws codeartifact describe-repository](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/describe-repository.html)|[Get-CARepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CARepository.html)|
 |[aws codeartifact disassociate-external-connection](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/disassociate-external-connection.html)|[Disconnect-CAExternalConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-CAExternalConnection.html)|
@@ -43,6 +44,7 @@ description: aws codeartifact (AWS Artifact) command/cmdlet list.
 |[aws codeartifact list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-tags-for-resource.html)|[Get-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAResourceTag.html)|
 |[aws codeartifact login](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/login.html)||
 |[aws codeartifact put-domain-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-domain-permissions-policy.html)|[Write-CADomainPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CADomainPermissionsPolicy.html)|
+|[aws codeartifact put-package-origin-configuration](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-package-origin-configuration.html)|[Write-CAPackageOriginConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CAPackageOriginConfiguration.html)|
 |[aws codeartifact put-repository-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-repository-permissions-policy.html)|[Write-CARepositoryPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CARepositoryPermissionsPolicy.html)|
 |[aws codeartifact tag-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/tag-resource.html)|[Add-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CAResourceTag.html)|
 |[aws codeartifact untag-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/untag-resource.html)|[Remove-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CAResourceTag.html)|

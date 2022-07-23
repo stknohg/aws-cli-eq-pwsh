@@ -1,6 +1,6 @@
 ---
 title: devops-guru
-date: 2022-07-17
+date: 2022-07-23
 description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 ---
 
@@ -29,8 +29,10 @@ description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 |[aws devops-guru get-cost-estimation](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/get-cost-estimation.html)|[Get-DGURUCostEstimation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUCostEstimation.html)|
 |[aws devops-guru get-resource-collection](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/get-resource-collection.html)|[Get-DGURUResourceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUResourceCollection.html)|
 |[aws devops-guru list-anomalies-for-insight](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-anomalies-for-insight.html)|[Get-DGURUAnomaliesForInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAnomaliesForInsightList.html)|
+|[aws devops-guru list-anomalous-log-groups](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-anomalous-log-groups.html)|[Get-DGURUAnomalousLogGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUAnomalousLogGroupList.html)|
 |[aws devops-guru list-events](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-events.html)|[Get-DGURUEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUEventList.html)|
 |[aws devops-guru list-insights](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-insights.html)|[Get-DGURUInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUInsightList.html)|
+|[aws devops-guru list-monitored-resources](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-monitored-resources.html)|[Get-DGURUMonitoredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUMonitoredResourceList.html)|
 |[aws devops-guru list-notification-channels](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-notification-channels.html)|[Get-DGURUNotificationChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUNotificationChannelList.html)|
 |[aws devops-guru list-organization-insights](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-organization-insights.html)|[Get-DGURUOrganizationInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURUOrganizationInsightList.html)|
 |[aws devops-guru list-recommendations](https://docs.aws.amazon.com/cli/latest/reference/devops-guru/list-recommendations.html)|[Get-DGURURecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DGURURecommendationList.html)|

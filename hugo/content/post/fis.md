@@ -1,6 +1,6 @@
 ---
 title: fis
-date: 2022-07-17
+date: 2022-07-23
 description: aws fis (Amazon Fault Injection Simulator) command/cmdlet list.
 ---
 

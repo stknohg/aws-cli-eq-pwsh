@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2022-07-17
+date: 2022-07-23
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2022-07-17
+date: 2022-07-23
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena get-prepared-statement](https://docs.aws.amazon.com/cli/latest/reference/athena/get-prepared-statement.html)|[Get-ATHPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHPreparedStatement.html)|
 |[aws athena get-query-execution](https://docs.aws.amazon.com/cli/latest/reference/athena/get-query-execution.html)|[Get-ATHQueryExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryExecution.html)|
 |[aws athena get-query-results](https://docs.aws.amazon.com/cli/latest/reference/athena/get-query-results.html)|[Get-ATHQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryResult.html)|
+|[aws athena get-query-runtime-statistics](https://docs.aws.amazon.com/cli/latest/reference/athena/get-query-runtime-statistics.html)|[Get-ATHQueryRuntimeStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryRuntimeStatistic.html)|
 |[aws athena get-table-metadata](https://docs.aws.amazon.com/cli/latest/reference/athena/get-table-metadata.html)|[Get-ATHTableMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHTableMetadata.html)|
 |[aws athena get-work-group](https://docs.aws.amazon.com/cli/latest/reference/athena/get-work-group.html)|[Get-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHWorkGroup.html)|
 |[aws athena list-data-catalogs](https://docs.aws.amazon.com/cli/latest/reference/athena/list-data-catalogs.html)|[Get-ATHDataCatalogList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDataCatalogList.html)|

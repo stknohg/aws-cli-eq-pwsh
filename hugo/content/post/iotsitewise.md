@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2022-07-17
+date: 2022-07-23
 description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise create-access-policy](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-access-policy.html)|[New-IOTSWAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWAccessPolicy.html)|
 |[aws iotsitewise create-asset](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-asset.html)|[New-IOTSWAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWAsset.html)|
 |[aws iotsitewise create-asset-model](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-asset-model.html)|[New-IOTSWAssetModel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWAssetModel.html)|
+|[aws iotsitewise create-bulk-import-job](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-bulk-import-job.html)|[New-IOTSWBulkImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWBulkImportJob.html)|
 |[aws iotsitewise create-dashboard](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-dashboard.html)|[New-IOTSWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWDashboard.html)|
 |[aws iotsitewise create-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-gateway.html)|[New-IOTSWGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWGateway.html)|
 |[aws iotsitewise create-portal](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/create-portal.html)|[New-IOTSWPortal](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTSWPortal.html)|
@@ -40,6 +41,7 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise describe-asset](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-asset.html)|[Get-IOTSWAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAsset.html)|
 |[aws iotsitewise describe-asset-model](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-asset-model.html)|[Get-IOTSWAssetModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetModel.html)|
 |[aws iotsitewise describe-asset-property](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-asset-property.html)|[Get-IOTSWAssetProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetProperty.html)|
+|[aws iotsitewise describe-bulk-import-job](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-bulk-import-job.html)|[Get-IOTSWBulkImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWBulkImportJob.html)|
 |[aws iotsitewise describe-dashboard](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-dashboard.html)|[Get-IOTSWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWDashboard.html)|
 |[aws iotsitewise describe-default-encryption-configuration](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-default-encryption-configuration.html)|[Get-IOTSWDefaultEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWDefaultEncryptionConfiguration.html)|
 |[aws iotsitewise describe-gateway](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/describe-gateway.html)|[Get-IOTSWGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWGateway.html)|
@@ -60,6 +62,7 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise list-asset-relationships](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-relationships.html)|[Get-IOTSWAssetRelationshipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetRelationshipList.html)|
 |[aws iotsitewise list-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-assets.html)|[Get-IOTSWAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetList.html)|
 |[aws iotsitewise list-associated-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-associated-assets.html)|[Get-IOTSWAssociatedAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssociatedAssetList.html)|
+|[aws iotsitewise list-bulk-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-bulk-import-jobs.html)|[Get-IOTSWBulkImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWBulkImportJobList.html)|
 |[aws iotsitewise list-dashboards](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-dashboards.html)|[Get-IOTSWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWDashboardList.html)|
 |[aws iotsitewise list-gateways](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-gateways.html)|[Get-IOTSWGatewayList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWGatewayList.html)|
 |[aws iotsitewise list-portals](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-portals.html)|[Get-IOTSWPortalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWPortalList.html)|

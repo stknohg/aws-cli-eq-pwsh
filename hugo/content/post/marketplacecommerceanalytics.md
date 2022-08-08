@@ -1,6 +1,6 @@
 ---
 title: marketplacecommerceanalytics
-date: 2022-07-23
+date: 2022-08-08
 description: aws marketplacecommerceanalytics (AWS Marketplace Commerce Analytics) command/cmdlet list.
 ---
 

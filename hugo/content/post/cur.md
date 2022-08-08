@@ -1,6 +1,6 @@
 ---
 title: cur
-date: 2022-07-23
+date: 2022-08-08
 description: aws cur (AWS Cost and Usage Report) command/cmdlet list.
 ---
 

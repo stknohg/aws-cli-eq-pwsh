@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2022-07-23
+date: 2022-08-08
 description: aws customer-profiles (Amazon Connect Customer Profiles) command/cmdlet list.
 ---
 

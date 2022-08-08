@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2022-07-23
+date: 2022-08-08
 description: aws configservice (AWS Config) command/cmdlet list.
 ---
 
@@ -76,6 +76,7 @@ description: aws configservice (AWS Config) command/cmdlet list.
 |[aws configservice get-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-status.html)||
 |[aws configservice get-stored-query](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-stored-query.html)|[Get-CFGStoredQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGStoredQuery.html)|
 |[aws configservice list-aggregate-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-aggregate-discovered-resources.html)|[Get-CFGAggregateDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateDiscoveredResourceList.html)|
+|[aws configservice list-conformance-pack-compliance-scores](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-conformance-pack-compliance-scores.html)|[Get-CFGConformancePackComplianceScoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGConformancePackComplianceScoreList.html)|
 |[aws configservice list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-discovered-resources.html)|[Get-CFGDiscoveredResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDiscoveredResource.html)|
 |[aws configservice list-stored-queries](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-stored-queries.html)|[Get-CFGStoredQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGStoredQueryList.html)|
 |[aws configservice list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-tags-for-resource.html)|[Get-CFGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceTag.html)|

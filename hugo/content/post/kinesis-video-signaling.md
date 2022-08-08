@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-signaling
-date: 2022-07-23
+date: 2022-08-08
 description: aws kinesis-video-signaling (Amazon Kinesis Video Signaling Channels) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2022-07-23
+date: 2022-08-08
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces create-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-tags.html)|[New-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSTag.html)|
 |[aws workspaces create-updated-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-updated-workspace-image.html)|[New-WKSUpdatedWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSUpdatedWorkspaceImage.html)|
 |[aws workspaces create-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspace-bundle.html)|[New-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceBundle.html)|
+|[aws workspaces create-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspace-image.html)|[New-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceImage.html)|
 |[aws workspaces create-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspaces.html)|[New-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspace.html)|
 |[aws workspaces delete-client-branding](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-client-branding.html)|[Remove-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSClientBranding.html)|
 |[aws workspaces delete-connect-client-add-in](https://docs.aws.amazon.com/cli/latest/reference/workspaces/delete-connect-client-add-in.html)|[Remove-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectClientAddIn.html)|
@@ -56,6 +57,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces migrate-workspace](https://docs.aws.amazon.com/cli/latest/reference/workspaces/migrate-workspace.html)|[Start-WKSWorkspaceMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WKSWorkspaceMigration.html)|
 |[aws workspaces modify-account](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-account.html)|[Edit-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSAccount.html)|
 |[aws workspaces modify-client-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-client-properties.html)|[Edit-WKSClientProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSClientProperty.html)|
+|[aws workspaces modify-saml-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-saml-properties.html)|[Edit-WKSSamlProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSamlProperty.html)|
 |[aws workspaces modify-selfservice-permissions](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-selfservice-permissions.html)|[Edit-WKSSelfservicePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSelfservicePermission.html)|
 |[aws workspaces modify-workspace-access-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-workspace-access-properties.html)|[Edit-WKSWorkspaceAccessProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSWorkspaceAccessProperty.html)|
 |[aws workspaces modify-workspace-creation-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-workspace-creation-properties.html)|[Edit-WKSWorkspaceCreationProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSWorkspaceCreationProperty.html)|

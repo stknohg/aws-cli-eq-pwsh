@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2022-07-23
+date: 2022-08-08
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -103,6 +103,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds failover-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/failover-global-cluster.html)|[Start-RDSFailoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSFailoverGlobalCluster.html)|
 |[aws rds generate-db-auth-token](https://docs.aws.amazon.com/cli/latest/reference/rds/generate-db-auth-token.html)||
 |[aws rds list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rds/list-tags-for-resource.html)|[Get-RDSTagForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTagForResource.html)|
+|[aws rds modify-activity-stream](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-activity-stream.html)|[Edit-RDSActivityStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSActivityStream.html)|
 |[aws rds modify-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-certificates.html)|[Edit-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCertificate.html)|
 |[aws rds modify-current-db-cluster-capacity](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-current-db-cluster-capacity.html)|[Edit-RDSCurrentDBClusterCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCurrentDBClusterCapacity.html)|
 |[aws rds modify-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/modify-custom-db-engine-version.html)|[Edit-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSCustomDBEngineVersion.html)|

@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2022-07-23
+date: 2022-08-08
 description: aws macie2 (Amazon Macie) command/cmdlet list.
 ---
 
@@ -48,6 +48,9 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 get-macie-session](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-macie-session.html)|[Get-MAC2MacieSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2MacieSession.html)|
 |[aws macie2 get-master-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-master-account.html)|[Get-MAC2MasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2MasterAccount.html)|
 |[aws macie2 get-member](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-member.html)|[Get-MAC2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2Member.html)|
+|[aws macie2 get-reveal-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-reveal-configuration.html)|[Get-MAC2RevealConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2RevealConfiguration.html)|
+|[aws macie2 get-sensitive-data-occurrences](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-sensitive-data-occurrences.html)|[Get-MAC2SensitiveDataOccurrence](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2SensitiveDataOccurrence.html)|
+|[aws macie2 get-sensitive-data-occurrences-availability](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-sensitive-data-occurrences-availability.html)|[Get-MAC2SensitiveDataOccurrencesAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2SensitiveDataOccurrencesAvailability.html)|
 |[aws macie2 get-usage-statistics](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-usage-statistics.html)|[Get-MAC2UsageStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2UsageStatistic.html)|
 |[aws macie2 get-usage-totals](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-usage-totals.html)|[Get-MAC2UsageTotal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2UsageTotal.html)|
 |[aws macie2 list-classification-jobs](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-classification-jobs.html)|[Get-MAC2ClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ClassificationJobList.html)|
@@ -70,4 +73,5 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 update-macie-session](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-macie-session.html)|[Update-MAC2MacieSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2MacieSession.html)|
 |[aws macie2 update-member-session](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-member-session.html)|[Update-MAC2MemberSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2MemberSession.html)|
 |[aws macie2 update-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-organization-configuration.html)|[Update-MAC2OrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2OrganizationConfiguration.html)|
+|[aws macie2 update-reveal-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-reveal-configuration.html)|[Update-MAC2RevealConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2RevealConfiguration.html)|
 

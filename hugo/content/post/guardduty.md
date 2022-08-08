@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2022-07-23
+date: 2022-08-08
 description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 |[aws guardduty delete-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-members.html)|[Remove-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDMember.html)|
 |[aws guardduty delete-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-publishing-destination.html)|[Remove-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDPublishingDestination.html)|
 |[aws guardduty delete-threat-intel-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/delete-threat-intel-set.html)|[Remove-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GDThreatIntelSet.html)|
+|[aws guardduty describe-malware-scans](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-malware-scans.html)|[Get-GDMalwareScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareScan.html)|
 |[aws guardduty describe-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-organization-configuration.html)|[Get-GDOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDOrganizationConfiguration.html)|
 |[aws guardduty describe-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/describe-publishing-destination.html)|[Get-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestination.html)|
 |[aws guardduty disable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/disable-organization-admin-account.html)|[Disable-GDOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-GDOrganizationAdminAccount.html)|
@@ -45,6 +46,7 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 |[aws guardduty get-findings-statistics](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-findings-statistics.html)|[Get-GDFindingStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFindingStatistic.html)|
 |[aws guardduty get-invitations-count](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-invitations-count.html)|[Get-GDInvitationCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationCount.html)|
 |[aws guardduty get-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-ip-set.html)|[Get-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSet.html)|
+|[aws guardduty get-malware-scan-settings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-malware-scan-settings.html)|[Get-GDMalwareScanSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareScanSetting.html)|
 |[aws guardduty get-master-account](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-master-account.html)|[Get-GDMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMasterAccount.html)|
 |[aws guardduty get-member-detectors](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-member-detectors.html)|[Get-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberDetector.html)|
 |[aws guardduty get-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/get-members.html)|[Get-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMember.html)|
@@ -71,6 +73,7 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 |[aws guardduty update-filter](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-filter.html)|[Update-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFilter.html)|
 |[aws guardduty update-findings-feedback](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-findings-feedback.html)|[Update-GDFindingFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDFindingFeedback.html)|
 |[aws guardduty update-ip-set](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-ip-set.html)|[Update-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDIPSet.html)|
+|[aws guardduty update-malware-scan-settings](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-malware-scan-settings.html)|[Update-GDMalwareScanSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDMalwareScanSetting.html)|
 |[aws guardduty update-member-detectors](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-member-detectors.html)|[Update-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDMemberDetector.html)|
 |[aws guardduty update-organization-configuration](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-organization-configuration.html)|[Update-GDOrganizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDOrganizationConfiguration.html)|
 |[aws guardduty update-publishing-destination](https://docs.aws.amazon.com/cli/latest/reference/guardduty/update-publishing-destination.html)|[Update-GDPublishingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GDPublishingDestination.html)|

@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2022-07-23
+date: 2022-08-08
 description: aws appsync (AWS AppSync) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync delete-resolver](https://docs.aws.amazon.com/cli/latest/reference/appsync/delete-resolver.html)|[Remove-ASYNResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASYNResolver.html)|
 |[aws appsync delete-type](https://docs.aws.amazon.com/cli/latest/reference/appsync/delete-type.html)|[Remove-ASYNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASYNType.html)|
 |[aws appsync disassociate-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/disassociate-api.html)|[Stop-ASYNApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASYNApiAssociation.html)|
+|[aws appsync evaluate-mapping-template](https://docs.aws.amazon.com/cli/latest/reference/appsync/evaluate-mapping-template.html)|[Test-ASYNMappingTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ASYNMappingTemplate.html)|
 |[aws appsync flush-api-cache](https://docs.aws.amazon.com/cli/latest/reference/appsync/flush-api-cache.html)|[Clear-ASYNApiCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-ASYNApiCache.html)|
 |[aws appsync get-api-association](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-api-association.html)|[Get-ASYNApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNApiAssociation.html)|
 |[aws appsync get-api-cache](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-api-cache.html)|[Get-ASYNApiCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNApiCache.html)|

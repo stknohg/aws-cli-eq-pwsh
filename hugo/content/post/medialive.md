@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2022-07-23
+date: 2022-08-08
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -56,8 +56,10 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive list-reservations](https://docs.aws.amazon.com/cli/latest/reference/medialive/list-reservations.html)|[Get-EMLReservationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLReservationList.html)|
 |[aws medialive list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/medialive/list-tags-for-resource.html)|[Get-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLResourceTag.html)|
 |[aws medialive purchase-offering](https://docs.aws.amazon.com/cli/latest/reference/medialive/purchase-offering.html)|[New-EMLOfferingPurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLOfferingPurchase.html)|
+|[aws medialive reboot-input-device](https://docs.aws.amazon.com/cli/latest/reference/medialive/reboot-input-device.html)|[Restart-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EMLInputDevice.html)|
 |[aws medialive reject-input-device-transfer](https://docs.aws.amazon.com/cli/latest/reference/medialive/reject-input-device-transfer.html)|[Deny-EMLInputDeviceTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-EMLInputDeviceTransfer.html)|
 |[aws medialive start-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/start-channel.html)|[Start-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLChannel.html)|
+|[aws medialive start-input-device-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/medialive/start-input-device-maintenance-window.html)|[Start-EMLInputDeviceMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLInputDeviceMaintenanceWindow.html)|
 |[aws medialive start-multiplex](https://docs.aws.amazon.com/cli/latest/reference/medialive/start-multiplex.html)|[Start-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLMultiplex.html)|
 |[aws medialive stop-channel](https://docs.aws.amazon.com/cli/latest/reference/medialive/stop-channel.html)|[Stop-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLChannel.html)|
 |[aws medialive stop-multiplex](https://docs.aws.amazon.com/cli/latest/reference/medialive/stop-multiplex.html)|[Stop-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLMultiplex.html)|

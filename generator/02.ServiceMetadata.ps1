@@ -76,6 +76,7 @@ $g_SubCommandAlias = @{
     'pinpoint-email'               = 'pine';
     'pinpoint-sms-voice'           = 'pine'
     'pricing'                      = 'pls';
+    'privatenetworks'              = 'pv5g'
     'qldb-session'                 = 'qldbs';
     'rds-data'                     = 'rdsd';
     'resource-groups'              = 'rg';

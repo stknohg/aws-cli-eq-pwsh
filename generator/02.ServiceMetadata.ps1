@@ -132,6 +132,7 @@ $g_AWSServices = @{
     'autoscaling-plans'                  = [PSCustomObject]@{ Prefix = 'ASP'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
     'backup'                             = [PSCustomObject]@{ Prefix = 'BAK'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = '' };
     'backup-gateway'                     = [PSCustomObject]@{ Prefix = 'BUGW'; Name = 'AWS Backup'; Url = 'https://aws.amazon.com/backup/'; Note = 'Backup gateway' };
+    'backupstorage'                      = [PSCustomObject]@{ Prefix = 'BAKS'; Name = 'AWS Backup Storage'; Url = 'https://aws.amazon.com/backup/'; Note = 'API for external services' };
     'batch'                              = [PSCustomObject]@{ Prefix = 'BAT'; Name = 'AWS Batch'; Url = 'https://aws.amazon.com/batch/'; Note = '' };
     'billingconductor'                   = [PSCustomObject]@{ Prefix = 'ABC'; Name = 'AWS Billing Conductor'; Url = 'https://aws.amazon.com/aws-cost-management/aws-billing-conductor/'; Note = '' };
     'braket'                             = [PSCustomObject]@{ Prefix = 'BRKT'; Name = 'Amazon Braket'; Url = 'https://aws.amazon.com/braket/'; Note = '' };
@@ -334,6 +335,7 @@ $g_AWSServices = @{
     'pinpoint-sms-voice-v2'              = [PSCustomObject]@{ Prefix = 'SMSV'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'polly'                              = [PSCustomObject]@{ Prefix = 'POL'; Name = 'Amazon Polly'; Url = 'https://aws.amazon.com/pinpoint/polly/'; Note = '' };
     'pricing'                            = [PSCustomObject]@{ Prefix = 'PLS'; Name = 'AWS Price List Service'; Url = 'https://aws.amazon.com/pricing/'; Note = '' };
+    'privatenetworks'                    = [PSCustomObject]@{ Prefix = 'PV5G'; Name = 'AWS Private 5G'; Url = 'https://aws.amazon.com/private5g/'; Note = '' };
     'proton'                             = [PSCustomObject]@{ Prefix = 'PRO'; Name = 'AWS Proton'; Url = 'https://aws.amazon.com/proton/'; Note = '' };
     'qldb'                               = [PSCustomObject]@{ Prefix = 'QLDB'; Name = 'Amazon Quantum Ledger Database (QLDB)'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
     'qldb-session'                       = [PSCustomObject]@{ Prefix = 'QLDBS'; Name = 'Amazon QLDB Session'; Url = 'https://aws.amazon.com/qldb/'; Note = '' };
@@ -449,6 +451,7 @@ $g_CmdletReferenceLinks = @{
     'autoscaling-plans'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Auto_Scaling_Plans_cmdlets.html';
     'backup'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Backup_cmdlets.html';
     'backup-gateway'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/BackupGateway_cmdlets.html';
+    'backupstorage'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/BackupStorage_cmdlets.html'
     'batch'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Batch_cmdlets.html';
     'billingconductor'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/BillingConductor_cmdlets.html';
     'braket'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html';
@@ -650,6 +653,7 @@ $g_CmdletReferenceLinks = @{
     'pinpoint-sms-voice-v2'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointSMSVoiceV2_cmdlets.html';
     'polly'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Polly_cmdlets.html';
     'pricing'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html';
+    'privatenetworks'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Private5G_cmdlets.html'
     'proton'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Proton_cmdlets.html';
     'qldb'                               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDB_cmdlets.html';
     'qldb-session'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/QLDBSession_cmdlets.html';

@@ -1,6 +1,6 @@
 ---
 title: lakeformation
-date: 2022-08-08
+date: 2022-08-23
 description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws lakeformation add-lf-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/add-lf-tags-to-resource.html)|[Add-LKFLFTagsToResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LKFLFTagsToResource.html)|
+|[aws lakeformation assume-decorated-role-with-saml](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/assume-decorated-role-with-saml.html)||
 |[aws lakeformation batch-grant-permissions](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/batch-grant-permissions.html)|[Grant-LKFPermissionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-LKFPermissionBatch.html)|
 |[aws lakeformation batch-revoke-permissions](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/batch-revoke-permissions.html)|[Revoke-LKFPermissionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-LKFPermissionBatch.html)|
 |[aws lakeformation cancel-transaction](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/cancel-transaction.html)|[Stop-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LKFTransaction.html)|

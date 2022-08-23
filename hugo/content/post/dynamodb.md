@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2022-08-08
+date: 2022-08-23
 description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb describe-export](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-export.html)|[Get-DDBExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBExport.html)|
 |[aws dynamodb describe-global-table](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-global-table.html)|[Get-DDBGlobalTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBGlobalTable.html)|
 |[aws dynamodb describe-global-table-settings](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-global-table-settings.html)|[Get-DDBGlobalTableSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBGlobalTableSetting.html)|
+|[aws dynamodb describe-import](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-import.html)|[Get-DDBImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBImport.html)|
 |[aws dynamodb describe-kinesis-streaming-destination](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-kinesis-streaming-destination.html)|[Get-DDBKinesisStreamingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBKinesisStreamingDestination.html)|
 |[aws dynamodb describe-limits](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-limits.html)|[Get-DDBProvisionLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBProvisionLimit.html)|
 |[aws dynamodb describe-table](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/describe-table.html)|[Get-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBTable.html)|
@@ -41,10 +42,12 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb execute-transaction](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/execute-transaction.html)|[Invoke-DDBDDBExecuteTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-DDBDDBExecuteTransaction.html)|
 |[aws dynamodb export-table-to-point-in-time](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/export-table-to-point-in-time.html)|[Export-DDBTableToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-DDBTableToPointInTime.html)|
 |[aws dynamodb get-item](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/get-item.html)||
+|[aws dynamodb import-table](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/import-table.html)|[Import-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-DDBTable.html)|
 |[aws dynamodb list-backups](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-backups.html)|[Get-DDBBackupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBBackupList.html)|
 |[aws dynamodb list-contributor-insights](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-contributor-insights.html)|[Get-DDBContributorInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBContributorInsightList.html)|
 |[aws dynamodb list-exports](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-exports.html)|[Get-DDBExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBExportList.html)|
 |[aws dynamodb list-global-tables](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-global-tables.html)|[Get-DDBGlobalTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBGlobalTableList.html)|
+|[aws dynamodb list-imports](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-imports.html)|[Get-DDBImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBImportList.html)|
 |[aws dynamodb list-tables](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-tables.html)|[Get-DDBTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBTableList.html)|
 |[aws dynamodb list-tags-of-resource](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/list-tags-of-resource.html)|[Get-DDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBResourceTag.html)|
 |[aws dynamodb put-item](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/put-item.html)||

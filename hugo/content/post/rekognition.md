@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2022-08-08
+date: 2022-08-23
 description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws rekognition compare-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/compare-faces.html)|[Compare-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Compare-REKFace.html)|
+|[aws rekognition copy-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/copy-project-version.html)|[Copy-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-REKProjectVersion.html)|
 |[aws rekognition create-collection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-collection.html)|[New-REKCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKCollection.html)|
 |[aws rekognition create-dataset](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-dataset.html)|[New-REKDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKDataset.html)|
 |[aws rekognition create-project](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-project.html)|[New-REKProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKProject.html)|
@@ -23,6 +24,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition delete-dataset](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-dataset.html)|[Remove-REKDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKDataset.html)|
 |[aws rekognition delete-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-faces.html)|[Remove-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKFace.html)|
 |[aws rekognition delete-project](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-project.html)|[Remove-REKProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKProject.html)|
+|[aws rekognition delete-project-policy](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-project-policy.html)|[Remove-REKProjectPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKProjectPolicy.html)|
 |[aws rekognition delete-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-project-version.html)|[Remove-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKProjectVersion.html)|
 |[aws rekognition delete-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/delete-stream-processor.html)|[Remove-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-REKStreamProcessor.html)|
 |[aws rekognition describe-collection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/describe-collection.html)|[Get-REKCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCollection.html)|
@@ -51,8 +53,10 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition list-dataset-entries](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-dataset-entries.html)|[Get-REKDatasetEntryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKDatasetEntryList.html)|
 |[aws rekognition list-dataset-labels](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-dataset-labels.html)|[Get-REKDatasetLabelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKDatasetLabelList.html)|
 |[aws rekognition list-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-faces.html)|[Get-REKFaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceList.html)|
+|[aws rekognition list-project-policies](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-project-policies.html)|[Get-REKProjectPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKProjectPolicyList.html)|
 |[aws rekognition list-stream-processors](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-stream-processors.html)|[Get-REKStreamProcessorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKStreamProcessorList.html)|
 |[aws rekognition list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rekognition/list-tags-for-resource.html)|[Get-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKResourceTag.html)|
+|[aws rekognition put-project-policy](https://docs.aws.amazon.com/cli/latest/reference/rekognition/put-project-policy.html)|[Write-REKProjectPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-REKProjectPolicy.html)|
 |[aws rekognition recognize-celebrities](https://docs.aws.amazon.com/cli/latest/reference/rekognition/recognize-celebrities.html)|[Find-REKCelebrity](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-REKCelebrity.html)|
 |[aws rekognition search-faces](https://docs.aws.amazon.com/cli/latest/reference/rekognition/search-faces.html)|[Search-REKFace](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-REKFace.html)|
 |[aws rekognition search-faces-by-image](https://docs.aws.amazon.com/cli/latest/reference/rekognition/search-faces-by-image.html)|[Search-REKFacesByImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-REKFacesByImage.html)|

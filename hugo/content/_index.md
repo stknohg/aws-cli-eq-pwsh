@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-08-08
+date: 2022-08-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.7.21 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.141 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.7.25 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.152 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -49,6 +49,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling-plans]({{%relref "post/autoscaling-plans.md" %}})|ASP||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
+|[AWS Backup Storage](https://aws.amazon.com/backup/)|[backupstorage]({{%relref "post/backupstorage.md" %}})|BAKS|API for external services|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
 |[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
@@ -251,6 +252,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice-v2]({{%relref "post/pinpoint-sms-voice-v2.md" %}})|SMSV||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
+|[AWS Private 5G](https://aws.amazon.com/private5g/)|[privatenetworks]({{%relref "post/privatenetworks.md" %}})|PV5G||
 |[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO||
 |[Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)|[qldb]({{%relref "post/qldb.md" %}})|QLDB||
 |[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||

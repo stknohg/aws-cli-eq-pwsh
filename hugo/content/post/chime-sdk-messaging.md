@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-messaging
-date: 2022-08-08
+date: 2022-08-23
 description: aws chime-sdk-messaging (Amazon Chime) command/cmdlet list.
 ---
 
@@ -48,6 +48,7 @@ description: aws chime-sdk-messaging (Amazon Chime) command/cmdlet list.
 |[aws chime-sdk-messaging list-channels](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/list-channels.html)|[Get-CHMMGChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGChannelList.html)|
 |[aws chime-sdk-messaging list-channels-associated-with-channel-flow](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/list-channels-associated-with-channel-flow.html)|[Get-CHMMGChannelsAssociatedWithChannelFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGChannelsAssociatedWithChannelFlowList.html)|
 |[aws chime-sdk-messaging list-channels-moderated-by-app-instance-user](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/list-channels-moderated-by-app-instance-user.html)|[Get-CHMMGChannelsModeratedByAppInstanceUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGChannelsModeratedByAppInstanceUserList.html)|
+|[aws chime-sdk-messaging list-sub-channels](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/list-sub-channels.html)|[Get-CHMMGSubChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGSubChannelList.html)|
 |[aws chime-sdk-messaging list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/list-tags-for-resource.html)|[Get-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGResourceTag.html)|
 |[aws chime-sdk-messaging put-channel-membership-preferences](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/put-channel-membership-preferences.html)|[Write-CHMMGChannelMembershipPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CHMMGChannelMembershipPreference.html)|
 |[aws chime-sdk-messaging redact-channel-message](https://docs.aws.amazon.com/cli/latest/reference/chime-sdk-messaging/redact-channel-message.html)|[Hide-CHMMGChannelMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Hide-CHMMGChannelMessage.html)|

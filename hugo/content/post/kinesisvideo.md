@@ -1,6 +1,6 @@
 ---
 title: kinesisvideo
-date: 2022-08-08
+date: 2022-08-23
 description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: codestar
-date: 2022-08-08
+date: 2022-08-23
 description: aws codestar (AWS CodeStar) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: emr-containers
-date: 2022-08-08
+date: 2022-08-23
 description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 ---
 

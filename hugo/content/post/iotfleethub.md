@@ -1,6 +1,6 @@
 ---
 title: iotfleethub
-date: 2022-08-08
+date: 2022-08-23
 description: aws iotfleethub (Fleet Hub for AWS IoT Device Management) command/cmdlet list.
 ---
 

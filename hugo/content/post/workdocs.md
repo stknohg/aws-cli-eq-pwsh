@@ -1,6 +1,6 @@
 ---
 title: workdocs
-date: 2022-08-08
+date: 2022-08-23
 description: aws workdocs (Amazon WorkDocs) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2022-08-08
+date: 2022-08-23
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch get-metric-stream](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/get-metric-stream.html)|[Get-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStream.html)|
 |[aws cloudwatch get-metric-widget-image](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/get-metric-widget-image.html)|[Get-CWMetricWidgetImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricWidgetImage.html)|
 |[aws cloudwatch list-dashboards](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-dashboards.html)|[Get-CWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboardList.html)|
+|[aws cloudwatch list-managed-insight-rules](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-managed-insight-rules.html)|[Get-CWManagedInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWManagedInsightRule.html)|
 |[aws cloudwatch list-metric-streams](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-metric-streams.html)|[Get-CWMetricStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStreamList.html)|
 |[aws cloudwatch list-metrics](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-metrics.html)|[Get-CWMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricList.html)|
 |[aws cloudwatch list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/list-tags-for-resource.html)|[Get-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWResourceTag.html)|
@@ -41,6 +42,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch put-composite-alarm](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-composite-alarm.html)|[Write-CWCompositeAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWCompositeAlarm.html)|
 |[aws cloudwatch put-dashboard](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-dashboard.html)|[Write-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWDashboard.html)|
 |[aws cloudwatch put-insight-rule](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-insight-rule.html)|[Write-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWInsightRule.html)|
+|[aws cloudwatch put-managed-insight-rules](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-managed-insight-rules.html)|[Write-CWManagedInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWManagedInsightRule.html)|
 |[aws cloudwatch put-metric-alarm](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-alarm.html)|[Write-CWMetricAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricAlarm.html)|
 |[aws cloudwatch put-metric-data](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-data.html)|[Write-CWMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricData.html)|
 |[aws cloudwatch put-metric-stream](https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/put-metric-stream.html)|[Write-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricStream.html)|

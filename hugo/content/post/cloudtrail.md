@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2022-08-23
+date: 2022-09-17
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -21,12 +21,14 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail delete-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/delete-trail.html)|[Remove-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTTrail.html)|
 |[aws cloudtrail describe-query](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/describe-query.html)|[Get-CTQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTQuery.html)|
 |[aws cloudtrail describe-trails](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/describe-trails.html)|[Get-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrail.html)|
+|[aws cloudtrail get-channel](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-channel.html)|[Get-CTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTChannel.html)|
 |[aws cloudtrail get-event-data-store](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-event-data-store.html)|[Get-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventDataStore.html)|
 |[aws cloudtrail get-event-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-event-selectors.html)|[Get-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventSelector.html)|
 |[aws cloudtrail get-insight-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-insight-selectors.html)|[Get-CTInsightSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTInsightSelector.html)|
 |[aws cloudtrail get-query-results](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-query-results.html)|[Get-CTQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTQueryResult.html)|
 |[aws cloudtrail get-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-trail.html)|[Get-CTTrailByName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrailByName.html)|
 |[aws cloudtrail get-trail-status](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-trail-status.html)|[Get-CTTrailStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrailStatus.html)|
+|[aws cloudtrail list-channels](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-channels.html)|[Get-CTChannelSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTChannelSummary.html)|
 |[aws cloudtrail list-event-data-stores](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-event-data-stores.html)|[Get-CTEventDataStoreSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventDataStoreSummary.html)|
 |[aws cloudtrail list-public-keys](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-public-keys.html)|[Get-CTPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTPublicKey.html)|
 |[aws cloudtrail list-queries](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/list-queries.html)|[Get-CTQuerySummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTQuerySummary.html)|

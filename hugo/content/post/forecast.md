@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2022-08-23
+date: 2022-09-17
 description: aws forecast (Amazon Forecast) command/cmdlet list.
 ---
 
@@ -24,6 +24,9 @@ description: aws forecast (Amazon Forecast) command/cmdlet list.
 |[aws forecast create-monitor](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-monitor.html)|[New-FRCMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCMonitor.html)|
 |[aws forecast create-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-predictor.html)|[New-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCPredictor.html)|
 |[aws forecast create-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-predictor-backtest-export-job.html)|[New-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCPredictorBacktestExportJob.html)|
+|[aws forecast create-what-if-analysis](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-what-if-analysis.html)|[New-FRCWhatIfAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCWhatIfAnalysis.html)|
+|[aws forecast create-what-if-forecast](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-what-if-forecast.html)|[New-FRCWhatIfForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCWhatIfForecast.html)|
+|[aws forecast create-what-if-forecast-export](https://docs.aws.amazon.com/cli/latest/reference/forecast/create-what-if-forecast-export.html)|[New-FRCWhatIfForecastExport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FRCWhatIfForecastExport.html)|
 |[aws forecast delete-dataset](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-dataset.html)|[Remove-FRCDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCDataset.html)|
 |[aws forecast delete-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-dataset-group.html)|[Remove-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCDatasetGroup.html)|
 |[aws forecast delete-dataset-import-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-dataset-import-job.html)|[Remove-FRCDatasetImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCDatasetImportJob.html)|
@@ -35,6 +38,9 @@ description: aws forecast (Amazon Forecast) command/cmdlet list.
 |[aws forecast delete-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-predictor.html)|[Remove-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCPredictor.html)|
 |[aws forecast delete-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-predictor-backtest-export-job.html)|[Remove-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCPredictorBacktestExportJob.html)|
 |[aws forecast delete-resource-tree](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-resource-tree.html)|[Remove-FRCResourceTree](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCResourceTree.html)|
+|[aws forecast delete-what-if-analysis](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-what-if-analysis.html)|[Remove-FRCWhatIfAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCWhatIfAnalysis.html)|
+|[aws forecast delete-what-if-forecast](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-what-if-forecast.html)|[Remove-FRCWhatIfForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCWhatIfForecast.html)|
+|[aws forecast delete-what-if-forecast-export](https://docs.aws.amazon.com/cli/latest/reference/forecast/delete-what-if-forecast-export.html)|[Remove-FRCWhatIfForecastExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FRCWhatIfForecastExport.html)|
 |[aws forecast describe-auto-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-auto-predictor.html)|[Get-FRCAutoPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCAutoPredictor.html)|
 |[aws forecast describe-dataset](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset.html)|[Get-FRCDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDataset.html)|
 |[aws forecast describe-dataset-group](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-dataset-group.html)|[Get-FRCDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetGroup.html)|
@@ -46,6 +52,9 @@ description: aws forecast (Amazon Forecast) command/cmdlet list.
 |[aws forecast describe-monitor](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-monitor.html)|[Get-FRCMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCMonitor.html)|
 |[aws forecast describe-predictor](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-predictor.html)|[Get-FRCPredictor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictor.html)|
 |[aws forecast describe-predictor-backtest-export-job](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-predictor-backtest-export-job.html)|[Get-FRCPredictorBacktestExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorBacktestExportJob.html)|
+|[aws forecast describe-what-if-analysis](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-what-if-analysis.html)|[Get-FRCWhatIfAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCWhatIfAnalysis.html)|
+|[aws forecast describe-what-if-forecast](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-what-if-forecast.html)|[Get-FRCWhatIfForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCWhatIfForecast.html)|
+|[aws forecast describe-what-if-forecast-export](https://docs.aws.amazon.com/cli/latest/reference/forecast/describe-what-if-forecast-export.html)|[Get-FRCWhatIfForecastExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCWhatIfForecastExport.html)|
 |[aws forecast get-accuracy-metrics](https://docs.aws.amazon.com/cli/latest/reference/forecast/get-accuracy-metrics.html)|[Get-FRCAccuracyMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCAccuracyMetric.html)|
 |[aws forecast list-dataset-groups](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-dataset-groups.html)|[Get-FRCDatasetGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetGroupList.html)|
 |[aws forecast list-dataset-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-dataset-import-jobs.html)|[Get-FRCDatasetImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCDatasetImportJobList.html)|
@@ -59,6 +68,9 @@ description: aws forecast (Amazon Forecast) command/cmdlet list.
 |[aws forecast list-predictor-backtest-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictor-backtest-export-jobs.html)|[Get-FRCPredictorBacktestExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorBacktestExportJobList.html)|
 |[aws forecast list-predictors](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-predictors.html)|[Get-FRCPredictorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCPredictorList.html)|
 |[aws forecast list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-tags-for-resource.html)|[Get-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCResourceTag.html)|
+|[aws forecast list-what-if-analyses](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-what-if-analyses.html)|[Get-FRCWhatIfAnalysisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCWhatIfAnalysisList.html)|
+|[aws forecast list-what-if-forecast-exports](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-what-if-forecast-exports.html)|[Get-FRCWhatIfForecastExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCWhatIfForecastExportList.html)|
+|[aws forecast list-what-if-forecasts](https://docs.aws.amazon.com/cli/latest/reference/forecast/list-what-if-forecasts.html)|[Get-FRCWhatIfForecastList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FRCWhatIfForecastList.html)|
 |[aws forecast resume-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/resume-resource.html)|[Resume-FRCResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-FRCResource.html)|
 |[aws forecast stop-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/stop-resource.html)|[Stop-FRCResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FRCResource.html)|
 |[aws forecast tag-resource](https://docs.aws.amazon.com/cli/latest/reference/forecast/tag-resource.html)|[Add-FRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FRCResourceTag.html)|

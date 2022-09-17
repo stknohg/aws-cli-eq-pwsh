@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2022-08-23
+date: 2022-09-17
 description: aws macie2 (Amazon Macie) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |----|----|
 |[aws macie2 accept-invitation](https://docs.aws.amazon.com/cli/latest/reference/macie2/accept-invitation.html)|[Approve-MAC2Invitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-MAC2Invitation.html)|
 |[aws macie2 batch-get-custom-data-identifiers](https://docs.aws.amazon.com/cli/latest/reference/macie2/batch-get-custom-data-identifiers.html)|[Get-MAC2GetCustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2GetCustomDataIdentifier.html)|
+|[aws macie2 create-allow-list](https://docs.aws.amazon.com/cli/latest/reference/macie2/create-allow-list.html)|[New-MAC2AllowList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2AllowList.html)|
 |[aws macie2 create-classification-job](https://docs.aws.amazon.com/cli/latest/reference/macie2/create-classification-job.html)|[New-MAC2ClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2ClassificationJob.html)|
 |[aws macie2 create-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/create-custom-data-identifier.html)|[New-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2CustomDataIdentifier.html)|
 |[aws macie2 create-findings-filter](https://docs.aws.amazon.com/cli/latest/reference/macie2/create-findings-filter.html)|[New-MAC2FindingsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2FindingsFilter.html)|
@@ -22,6 +23,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 create-member](https://docs.aws.amazon.com/cli/latest/reference/macie2/create-member.html)|[New-MAC2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2Member.html)|
 |[aws macie2 create-sample-findings](https://docs.aws.amazon.com/cli/latest/reference/macie2/create-sample-findings.html)|[New-MAC2SampleFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2SampleFinding.html)|
 |[aws macie2 decline-invitations](https://docs.aws.amazon.com/cli/latest/reference/macie2/decline-invitations.html)|[Deny-MAC2Invitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-MAC2Invitation.html)|
+|[aws macie2 delete-allow-list](https://docs.aws.amazon.com/cli/latest/reference/macie2/delete-allow-list.html)|[Remove-MAC2AllowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2AllowList.html)|
 |[aws macie2 delete-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/delete-custom-data-identifier.html)|[Remove-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2CustomDataIdentifier.html)|
 |[aws macie2 delete-findings-filter](https://docs.aws.amazon.com/cli/latest/reference/macie2/delete-findings-filter.html)|[Remove-MAC2FindingsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2FindingsFilter.html)|
 |[aws macie2 delete-invitations](https://docs.aws.amazon.com/cli/latest/reference/macie2/delete-invitations.html)|[Remove-MAC2Invitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2Invitation.html)|
@@ -37,6 +39,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 enable-macie](https://docs.aws.amazon.com/cli/latest/reference/macie2/enable-macie.html)|[Enable-MAC2Macie](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-MAC2Macie.html)|
 |[aws macie2 enable-organization-admin-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/enable-organization-admin-account.html)|[Enable-MAC2OrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-MAC2OrganizationAdminAccount.html)|
 |[aws macie2 get-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-administrator-account.html)|[Get-MAC2AdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2AdministratorAccount.html)|
+|[aws macie2 get-allow-list](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-allow-list.html)|[Get-MAC2AllowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2AllowList.html)|
 |[aws macie2 get-bucket-statistics](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-bucket-statistics.html)|[Get-MAC2BucketStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2BucketStatistic.html)|
 |[aws macie2 get-classification-export-configuration](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-classification-export-configuration.html)|[Get-MAC2ClassificationExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ClassificationExportConfiguration.html)|
 |[aws macie2 get-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-custom-data-identifier.html)|[Get-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2CustomDataIdentifier.html)|
@@ -53,6 +56,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 get-sensitive-data-occurrences-availability](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-sensitive-data-occurrences-availability.html)|[Get-MAC2SensitiveDataOccurrencesAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2SensitiveDataOccurrencesAvailability.html)|
 |[aws macie2 get-usage-statistics](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-usage-statistics.html)|[Get-MAC2UsageStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2UsageStatistic.html)|
 |[aws macie2 get-usage-totals](https://docs.aws.amazon.com/cli/latest/reference/macie2/get-usage-totals.html)|[Get-MAC2UsageTotal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2UsageTotal.html)|
+|[aws macie2 list-allow-lists](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-allow-lists.html)|[Get-MAC2AllowListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2AllowListList.html)|
 |[aws macie2 list-classification-jobs](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-classification-jobs.html)|[Get-MAC2ClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ClassificationJobList.html)|
 |[aws macie2 list-custom-data-identifiers](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-custom-data-identifiers.html)|[Get-MAC2CustomDataIdentifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2CustomDataIdentifierList.html)|
 |[aws macie2 list-findings](https://docs.aws.amazon.com/cli/latest/reference/macie2/list-findings.html)|[Get-MAC2FindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2FindingList.html)|
@@ -68,6 +72,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 tag-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/tag-resource.html)|[Add-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MAC2ResourceTag.html)|
 |[aws macie2 test-custom-data-identifier](https://docs.aws.amazon.com/cli/latest/reference/macie2/test-custom-data-identifier.html)|[Test-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-MAC2CustomDataIdentifier.html)|
 |[aws macie2 untag-resource](https://docs.aws.amazon.com/cli/latest/reference/macie2/untag-resource.html)|[Remove-MAC2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MAC2ResourceTag.html)|
+|[aws macie2 update-allow-list](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-allow-list.html)|[Update-MAC2AllowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2AllowList.html)|
 |[aws macie2 update-classification-job](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-classification-job.html)|[Update-MAC2ClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2ClassificationJob.html)|
 |[aws macie2 update-findings-filter](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-findings-filter.html)|[Update-MAC2FindingsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2FindingsFilter.html)|
 |[aws macie2 update-macie-session](https://docs.aws.amazon.com/cli/latest/reference/macie2/update-macie-session.html)|[Update-MAC2MacieSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2MacieSession.html)|

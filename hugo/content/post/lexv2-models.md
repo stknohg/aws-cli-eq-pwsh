@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2022-08-23
+date: 2022-09-17
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -68,6 +68,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models search-associated-transcripts](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/search-associated-transcripts.html)|[Search-LMBV2AssociatedTranscript](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LMBV2AssociatedTranscript.html)|
 |[aws lexv2-models start-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-bot-recommendation.html)|[Start-LMBV2BotRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2BotRecommendation.html)|
 |[aws lexv2-models start-import](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-import.html)|[Start-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2Import.html)|
+|[aws lexv2-models stop-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/stop-bot-recommendation.html)|[Stop-LMBV2BotRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LMBV2BotRecommendation.html)|
 |[aws lexv2-models tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/tag-resource.html)|[Add-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMBV2ResourceTag.html)|
 |[aws lexv2-models untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/untag-resource.html)|[Remove-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2ResourceTag.html)|
 |[aws lexv2-models update-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-bot.html)|[Update-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2Bot.html)|

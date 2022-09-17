@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2022-08-23
+date: 2022-09-17
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer delete-agreement](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-agreement.html)|[Remove-TFRAgreement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRAgreement.html)|
 |[aws transfer delete-certificate](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-certificate.html)|[Remove-TFRCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRCertificate.html)|
 |[aws transfer delete-connector](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-connector.html)|[Remove-TFRConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRConnector.html)|
+|[aws transfer delete-host-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-host-key.html)|[Remove-TFRHostKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRHostKey.html)|
 |[aws transfer delete-profile](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-profile.html)|[Remove-TFRProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRProfile.html)|
 |[aws transfer delete-server](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-server.html)|[Remove-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRServer.html)|
 |[aws transfer delete-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/delete-ssh-public-key.html)|[Remove-TFRSshPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRSshPublicKey.html)|
@@ -34,18 +35,21 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer describe-certificate](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-certificate.html)|[Get-TFRCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRCertificate.html)|
 |[aws transfer describe-connector](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-connector.html)|[Get-TFRConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRConnector.html)|
 |[aws transfer describe-execution](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-execution.html)|[Get-TFRExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRExecution.html)|
+|[aws transfer describe-host-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-host-key.html)|[Get-TFRHostKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRHostKey.html)|
 |[aws transfer describe-profile](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-profile.html)|[Get-TFRProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRProfile.html)|
 |[aws transfer describe-security-policy](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-security-policy.html)|[Get-TFRSecurityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRSecurityPolicy.html)|
 |[aws transfer describe-server](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-server.html)|[Get-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServer.html)|
 |[aws transfer describe-user](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-user.html)|[Get-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUser.html)|
 |[aws transfer describe-workflow](https://docs.aws.amazon.com/cli/latest/reference/transfer/describe-workflow.html)|[Get-TFRWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWorkflow.html)|
 |[aws transfer import-certificate](https://docs.aws.amazon.com/cli/latest/reference/transfer/import-certificate.html)|[Import-TFRCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRCertificate.html)|
+|[aws transfer import-host-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/import-host-key.html)|[Import-TFRHostKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRHostKey.html)|
 |[aws transfer import-ssh-public-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/import-ssh-public-key.html)|[Import-TFRSshPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRSshPublicKey.html)|
 |[aws transfer list-accesses](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-accesses.html)|[Get-TFRAccessList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRAccessList.html)|
 |[aws transfer list-agreements](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-agreements.html)|[Get-TFRAgreementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRAgreementList.html)|
 |[aws transfer list-certificates](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-certificates.html)|[Get-TFRCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRCertificateList.html)|
 |[aws transfer list-connectors](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-connectors.html)|[Get-TFRConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRConnectorList.html)|
 |[aws transfer list-executions](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-executions.html)|[Get-TFRExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRExecutionList.html)|
+|[aws transfer list-host-keys](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-host-keys.html)|[Get-TFRHostKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRHostKeyList.html)|
 |[aws transfer list-profiles](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-profiles.html)|[Get-TFRProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRProfileList.html)|
 |[aws transfer list-security-policies](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-security-policies.html)|[Get-TFRSecurityPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRSecurityPolicyList.html)|
 |[aws transfer list-servers](https://docs.aws.amazon.com/cli/latest/reference/transfer/list-servers.html)|[Get-TFRServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServerList.html)|
@@ -63,6 +67,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer update-agreement](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-agreement.html)|[Update-TFRAgreement](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRAgreement.html)|
 |[aws transfer update-certificate](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-certificate.html)|[Update-TFRCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRCertificate.html)|
 |[aws transfer update-connector](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-connector.html)|[Update-TFRConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRConnector.html)|
+|[aws transfer update-host-key](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-host-key.html)|[Update-TFRHostKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRHostKey.html)|
 |[aws transfer update-profile](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-profile.html)|[Update-TFRProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRProfile.html)|
 |[aws transfer update-server](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-server.html)|[Update-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRServer.html)|
 |[aws transfer update-user](https://docs.aws.amazon.com/cli/latest/reference/transfer/update-user.html)|[Update-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRUser.html)|

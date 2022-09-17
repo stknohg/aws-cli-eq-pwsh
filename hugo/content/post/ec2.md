@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2022-08-23
+date: 2022-09-17
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -66,6 +66,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-carrier-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-carrier-gateway.html)|[New-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CarrierGateway.html)|
 |[aws ec2 create-client-vpn-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-client-vpn-endpoint.html)|[New-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ClientVpnEndpoint.html)|
 |[aws ec2 create-client-vpn-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-client-vpn-route.html)|[New-EC2ClientVpnRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ClientVpnRoute.html)|
+|[aws ec2 create-coip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-coip-cidr.html)|[New-EC2CoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CoipCidr.html)|
+|[aws ec2 create-coip-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-coip-pool.html)|[New-EC2CoipPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CoipPool.html)|
 |[aws ec2 create-customer-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-customer-gateway.html)|[New-EC2CustomerGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CustomerGateway.html)|
 |[aws ec2 create-default-subnet](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-default-subnet.html)|[New-EC2DefaultSubnet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2DefaultSubnet.html)|
 |[aws ec2 create-default-vpc](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-default-vpc.html)|[New-EC2DefaultVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2DefaultVpc.html)|
@@ -85,6 +87,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-launch-template.html)|[New-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LaunchTemplate.html)|
 |[aws ec2 create-launch-template-version](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-launch-template-version.html)|[New-EC2LaunchTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LaunchTemplateVersion.html)|
 |[aws ec2 create-local-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-local-gateway-route.html)|[New-EC2LocalGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRoute.html)|
+|[aws ec2 create-local-gateway-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-local-gateway-route-table.html)|[New-EC2LocalGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRouteTable.html)|
+|[aws ec2 create-local-gateway-route-table-virtual-interface-group-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-local-gateway-route-table-virtual-interface-group-association.html)|[New-EC2LocalGatewayRouteTableVirtualInterfaceGroupAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRouteTableVirtualInterfaceGroupAssociation.html)|
 |[aws ec2 create-local-gateway-route-table-vpc-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-local-gateway-route-table-vpc-association.html)|[New-EC2LocalGatewayRouteTableVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRouteTableVpcAssociation.html)|
 |[aws ec2 create-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-managed-prefix-list.html)|[New-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ManagedPrefixList.html)|
 |[aws ec2 create-nat-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/create-nat-gateway.html)|[New-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NatGateway.html)|
@@ -136,6 +140,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-carrier-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-carrier-gateway.html)|[Remove-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2CarrierGateway.html)|
 |[aws ec2 delete-client-vpn-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-client-vpn-endpoint.html)|[Remove-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2ClientVpnEndpoint.html)|
 |[aws ec2 delete-client-vpn-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-client-vpn-route.html)|[Remove-EC2ClientVpnRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2ClientVpnRoute.html)|
+|[aws ec2 delete-coip-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-coip-cidr.html)|[Remove-EC2CoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2CoipCidr.html)|
+|[aws ec2 delete-coip-pool](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-coip-pool.html)|[Remove-EC2CoipPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2CoipPool.html)|
 |[aws ec2 delete-customer-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-customer-gateway.html)|[Remove-EC2CustomerGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2CustomerGateway.html)|
 |[aws ec2 delete-dhcp-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-dhcp-options.html)|[Remove-EC2DhcpOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2DhcpOption.html)|
 |[aws ec2 delete-egress-only-internet-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-egress-only-internet-gateway.html)|[Remove-EC2EgressOnlyInternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2EgressOnlyInternetGateway.html)|
@@ -151,6 +157,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-launch-template.html)|[Remove-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LaunchTemplate.html)|
 |[aws ec2 delete-launch-template-versions](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-launch-template-versions.html)|[Remove-EC2TemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2TemplateVersion.html)|
 |[aws ec2 delete-local-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-local-gateway-route.html)|[Remove-EC2LocalGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LocalGatewayRoute.html)|
+|[aws ec2 delete-local-gateway-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-local-gateway-route-table.html)|[Remove-EC2LocalGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LocalGatewayRouteTable.html)|
+|[aws ec2 delete-local-gateway-route-table-virtual-interface-group-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-local-gateway-route-table-virtual-interface-group-association.html)|[Remove-EC2LocalGatewayRouteTableVirtualInterfaceGroupAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LocalGatewayRouteTableVirtualInterfaceGroupAssociation.html)|
 |[aws ec2 delete-local-gateway-route-table-vpc-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-local-gateway-route-table-vpc-association.html)|[Remove-EC2LocalGatewayRouteTableVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2LocalGatewayRouteTableVpcAssociation.html)|
 |[aws ec2 delete-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-managed-prefix-list.html)|[Remove-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2ManagedPrefixList.html)|
 |[aws ec2 delete-nat-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/delete-nat-gateway.html)|[Remove-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2NatGateway.html)|
@@ -450,6 +458,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-ipam-resource-cidr](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam-resource-cidr.html)|[Edit-EC2IpamResourceCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamResourceCidr.html)|
 |[aws ec2 modify-ipam-scope](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-ipam-scope.html)|[Edit-EC2IpamScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamScope.html)|
 |[aws ec2 modify-launch-template](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-launch-template.html)|[Edit-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LaunchTemplate.html)|
+|[aws ec2 modify-local-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-local-gateway-route.html)|[Edit-EC2LocalGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LocalGatewayRoute.html)|
 |[aws ec2 modify-managed-prefix-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-managed-prefix-list.html)|[Edit-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedPrefixList.html)|
 |[aws ec2 modify-network-interface-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 modify-private-dns-name-options](https://docs.aws.amazon.com/cli/latest/reference/ec2/modify-private-dns-name-options.html)|[Edit-EC2PrivateDnsNameOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2PrivateDnsNameOption.html)|

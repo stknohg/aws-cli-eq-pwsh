@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-08-23
+date: 2022-09-17
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.7.25 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.152 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.7.33 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.170 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -92,6 +92,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Contact Lens for Amazon Connect](https://aws.amazon.com/connect/)|[connect-contact-lens]({{%relref "post/connect-contact-lens.md" %}})|CCL||
 |[Amazon Connect Outbound Campaigns](https://aws.amazon.com/connect/outbound/)|[connectcampaigns]({{%relref "post/connectcampaigns.md" %}})|CCS||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
+|[AWS Control Tower](https://aws.amazon.com/controltower/)|[controltower]({{%relref "post/controltower.md" %}})|ACT||
 |[AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)|[cur]({{%relref "post/cur.md" %}})|CUR||
 |[Amazon Connect Customer Profiles](https://aws.amazon.com/connect/)|[customer-profiles]({{%relref "post/customer-profiles.md" %}})|CPF||
 |[AWS Glue DataBrew](https://aws.amazon.com/glue/features/databrew/)|[databrew]({{%relref "post/databrew.md" %}})|GDB||
@@ -315,6 +316,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Storage Gateway](https://aws.amazon.com/storagegateway/)|[storagegateway]({{%relref "post/storagegateway.md" %}})|SG||
 |[AWS Security Token Service](https://aws.amazon.com/iam/)|[sts]({{%relref "post/sts.md" %}})|STS||
 |[AWS Support](https://aws.amazon.com/premiumsupport/)|[support]({{%relref "post/support.md" %}})|ASA||
+|[AWS Support App in Slack API](https://aws.amazon.com/premiumsupport/)|[support-app]({{%relref "post/support-app.md" %}})|SUP||
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
 |[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||
 |[Amazon Textract](https://aws.amazon.com/textract/)|[textract]({{%relref "post/textract.md" %}})|TXT||

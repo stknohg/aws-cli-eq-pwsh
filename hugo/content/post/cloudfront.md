@@ -1,6 +1,6 @@
 ---
 title: cloudfront
-date: 2022-08-23
+date: 2022-09-17
 description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront create-invalidation](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-invalidation.html)|[New-CFInvalidation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFInvalidation.html)|
 |[aws cloudfront create-key-group](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-key-group.html)|[New-CFKeyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFKeyGroup.html)|
 |[aws cloudfront create-monitoring-subscription](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-monitoring-subscription.html)|[New-CFMonitoringSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFMonitoringSubscription.html)|
+|[aws cloudfront create-origin-access-control](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-origin-access-control.html)|[New-CFOriginAccessControl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFOriginAccessControl.html)|
 |[aws cloudfront create-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-origin-request-policy.html)|[New-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFOriginRequestPolicy.html)|
 |[aws cloudfront create-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-public-key.html)|[New-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFPublicKey.html)|
 |[aws cloudfront create-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/create-realtime-log-config.html)|[New-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFRealtimeLogConfig.html)|
@@ -38,6 +39,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront delete-function](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-function.html)|[Remove-CFFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFFunction.html)|
 |[aws cloudfront delete-key-group](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-key-group.html)|[Remove-CFKeyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFKeyGroup.html)|
 |[aws cloudfront delete-monitoring-subscription](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-monitoring-subscription.html)|[Remove-CFMonitoringSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFMonitoringSubscription.html)|
+|[aws cloudfront delete-origin-access-control](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-origin-access-control.html)|[Remove-CFOriginAccessControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFOriginAccessControl.html)|
 |[aws cloudfront delete-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-origin-request-policy.html)|[Remove-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFOriginRequestPolicy.html)|
 |[aws cloudfront delete-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-public-key.html)|[Remove-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFPublicKey.html)|
 |[aws cloudfront delete-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/delete-realtime-log-config.html)|[Remove-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFRealtimeLogConfig.html)|
@@ -59,6 +61,8 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront get-key-group](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-key-group.html)|[Get-CFKeyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKeyGroup.html)|
 |[aws cloudfront get-key-group-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-key-group-config.html)|[Get-CFKeyGroupConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKeyGroupConfig.html)|
 |[aws cloudfront get-monitoring-subscription](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-monitoring-subscription.html)|[Get-CFMonitoringSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFMonitoringSubscription.html)|
+|[aws cloudfront get-origin-access-control](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-origin-access-control.html)|[Get-CFOriginAccessControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginAccessControl.html)|
+|[aws cloudfront get-origin-access-control-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-origin-access-control-config.html)|[Get-CFOriginAccessControlConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginAccessControlConfig.html)|
 |[aws cloudfront get-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-origin-request-policy.html)|[Get-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginRequestPolicy.html)|
 |[aws cloudfront get-origin-request-policy-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-origin-request-policy-config.html)|[Get-CFOriginRequestPolicyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginRequestPolicyConfig.html)|
 |[aws cloudfront get-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/get-public-key.html)|[Get-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFPublicKey.html)|
@@ -83,6 +87,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront list-functions](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-functions.html)|[Get-CFFunctionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFFunctionList.html)|
 |[aws cloudfront list-invalidations](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-invalidations.html)|[Get-CFInvalidationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFInvalidationList.html)|
 |[aws cloudfront list-key-groups](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-key-groups.html)|[Get-CFKeyGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKeyGroupList.html)|
+|[aws cloudfront list-origin-access-controls](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-origin-access-controls.html)|[Get-CFOriginAccessControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginAccessControlList.html)|
 |[aws cloudfront list-origin-request-policies](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-origin-request-policies.html)|[Get-CFOriginRequestPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginRequestPolicyList.html)|
 |[aws cloudfront list-public-keys](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-public-keys.html)|[Get-CFPublicKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFPublicKeyList.html)|
 |[aws cloudfront list-realtime-log-configs](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/list-realtime-log-configs.html)|[Get-CFRealtimeLogConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFRealtimeLogConfigList.html)|
@@ -101,6 +106,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront update-field-level-encryption-profile](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-field-level-encryption-profile.html)|[Update-CFFieldLevelEncryptionProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFFieldLevelEncryptionProfile.html)|
 |[aws cloudfront update-function](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-function.html)|[Update-CFFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFFunction.html)|
 |[aws cloudfront update-key-group](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-key-group.html)|[Update-CFKeyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFKeyGroup.html)|
+|[aws cloudfront update-origin-access-control](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-origin-access-control.html)|[Update-CFOriginAccessControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFOriginAccessControl.html)|
 |[aws cloudfront update-origin-request-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-origin-request-policy.html)|[Update-CFOriginRequestPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFOriginRequestPolicy.html)|
 |[aws cloudfront update-public-key](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-public-key.html)|[Update-CFPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFPublicKey.html)|
 |[aws cloudfront update-realtime-log-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-realtime-log-config.html)|[Update-CFRealtimeLogConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFRealtimeLogConfig.html)|

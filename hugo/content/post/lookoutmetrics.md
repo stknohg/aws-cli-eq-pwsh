@@ -1,6 +1,6 @@
 ---
 title: lookoutmetrics
-date: 2022-08-23
+date: 2022-09-17
 description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list
 |[aws lookoutmetrics describe-metric-set](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/describe-metric-set.html)|[Get-LOMMetricSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMMetricSet.html)|
 |[aws lookoutmetrics detect-metric-set-config](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/detect-metric-set-config.html)|[Get-LOMMetricSetConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMMetricSetConfig.html)|
 |[aws lookoutmetrics get-anomaly-group](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/get-anomaly-group.html)|[Get-LOMAnomalyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAnomalyGroup.html)|
+|[aws lookoutmetrics get-data-quality-metrics](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/get-data-quality-metrics.html)|[Get-LOMDataQualityMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMDataQualityMetricList.html)|
 |[aws lookoutmetrics get-feedback](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/get-feedback.html)|[Get-LOMFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMFeedback.html)|
 |[aws lookoutmetrics get-sample-data](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/get-sample-data.html)|[Get-LOMSampleData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMSampleData.html)|
 |[aws lookoutmetrics list-alerts](https://docs.aws.amazon.com/cli/latest/reference/lookoutmetrics/list-alerts.html)|[Get-LOMAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOMAlertList.html)|

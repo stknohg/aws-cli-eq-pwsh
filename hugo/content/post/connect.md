@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-08-23
+date: 2022-09-17
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -117,6 +117,9 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect release-phone-number](https://docs.aws.amazon.com/cli/latest/reference/connect/release-phone-number.html)|[Remove-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNPhoneNumber.html)|
 |[aws connect resume-contact-recording](https://docs.aws.amazon.com/cli/latest/reference/connect/resume-contact-recording.html)|[Resume-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CONNContactRecording.html)|
 |[aws connect search-available-phone-numbers](https://docs.aws.amazon.com/cli/latest/reference/connect/search-available-phone-numbers.html)|[Search-CONNAvailablePhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNAvailablePhoneNumber.html)|
+|[aws connect search-queues](https://docs.aws.amazon.com/cli/latest/reference/connect/search-queues.html)|[Search-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNQueue.html)|
+|[aws connect search-routing-profiles](https://docs.aws.amazon.com/cli/latest/reference/connect/search-routing-profiles.html)|[Search-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNRoutingProfile.html)|
+|[aws connect search-security-profiles](https://docs.aws.amazon.com/cli/latest/reference/connect/search-security-profiles.html)|[Search-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNSecurityProfile.html)|
 |[aws connect search-users](https://docs.aws.amazon.com/cli/latest/reference/connect/search-users.html)|[Search-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNUser.html)|
 |[aws connect search-vocabularies](https://docs.aws.amazon.com/cli/latest/reference/connect/search-vocabularies.html)|[Search-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNVocabulary.html)|
 |[aws connect start-chat-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/start-chat-contact.html)|[Start-CONNChatContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNChatContact.html)|

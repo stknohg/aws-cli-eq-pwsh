@@ -1,6 +1,6 @@
 ---
 title: mobile
-date: 2022-08-23
+date: 2022-09-17
 description: aws mobile (AWS Mobile) command/cmdlet list.
 ---
 

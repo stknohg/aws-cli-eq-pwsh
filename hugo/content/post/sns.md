@@ -1,6 +1,6 @@
 ---
 title: sns
-date: 2022-08-23
+date: 2022-09-17
 description: aws sns (Amazon Simple Notification Service) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws sns (Amazon Simple Notification Service) command/cmdlet list.
 |[aws sns delete-platform-application](https://docs.aws.amazon.com/cli/latest/reference/sns/delete-platform-application.html)|[Remove-SNSPlatformApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSPlatformApplication.html)|
 |[aws sns delete-sms-sandbox-phone-number](https://docs.aws.amazon.com/cli/latest/reference/sns/delete-sms-sandbox-phone-number.html)|[Remove-SNSSMSSandboxPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSSMSSandboxPhoneNumber.html)|
 |[aws sns delete-topic](https://docs.aws.amazon.com/cli/latest/reference/sns/delete-topic.html)|[Remove-SNSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSTopic.html)|
+|[aws sns get-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/sns/get-data-protection-policy.html)|[Get-SNSDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSDataProtectionPolicy.html)|
 |[aws sns get-endpoint-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/get-endpoint-attributes.html)|[Get-SNSEndpointAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSEndpointAttribute.html)|
 |[aws sns get-platform-application-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/get-platform-application-attributes.html)|[Get-SNSPlatformApplicationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSPlatformApplicationAttribute.html)|
 |[aws sns get-sms-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/get-sms-attributes.html)|[Get-SNSSMSAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNSSMSAttribute.html)|
@@ -42,6 +43,7 @@ description: aws sns (Amazon Simple Notification Service) command/cmdlet list.
 |[aws sns opt-in-phone-number](https://docs.aws.amazon.com/cli/latest/reference/sns/opt-in-phone-number.html)|[Enable-SNSPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SNSPhoneNumber.html)|
 |[aws sns publish](https://docs.aws.amazon.com/cli/latest/reference/sns/publish.html)|[Publish-SNSMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SNSMessage.html)|
 |[aws sns publish-batch](https://docs.aws.amazon.com/cli/latest/reference/sns/publish-batch.html)|[Publish-SNSBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SNSBatch.html)|
+|[aws sns put-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/sns/put-data-protection-policy.html)|[Set-SNSDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSDataProtectionPolicy.html)|
 |[aws sns remove-permission](https://docs.aws.amazon.com/cli/latest/reference/sns/remove-permission.html)|[Remove-SNSPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSPermission.html)|
 |[aws sns set-endpoint-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/set-endpoint-attributes.html)|[Set-SNSEndpointAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSEndpointAttribute.html)|
 |[aws sns set-platform-application-attributes](https://docs.aws.amazon.com/cli/latest/reference/sns/set-platform-application-attributes.html)|[Set-SNSPlatformApplicationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SNSPlatformApplicationAttribute.html)|

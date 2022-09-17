@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2022-08-23
+date: 2022-09-17
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -151,4 +151,5 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-cluster.html)|[Stop-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBCluster.html)|
 |[aws rds stop-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|
 |[aws rds stop-db-instance-automated-backups-replication](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance-automated-backups-replication.html)|[Stop-RDSDBInstanceAutomatedBackupsReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstanceAutomatedBackupsReplication.html)|
+|[aws rds switchover-read-replica](https://docs.aws.amazon.com/cli/latest/reference/rds/switchover-read-replica.html)|[Convert-RDSReadReplicaToNewPrimary](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaToNewPrimary.html)|
 

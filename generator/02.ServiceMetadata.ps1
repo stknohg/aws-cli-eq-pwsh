@@ -176,6 +176,7 @@ $g_AWSServices = @{
     'connectcampaigns'                   = [PSCustomObject]@{ Prefix = 'CCS'; Name = 'Amazon Connect Outbound Campaigns'; Url = 'https://aws.amazon.com/connect/outbound/'; Note = '' };
     'connect'                            = [PSCustomObject]@{ Prefix = 'CONN'; Name = 'Amazon Connect'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'connectparticipant'                 = [PSCustomObject]@{ Prefix = 'CONNP'; Name = 'Amazon Connect Participant Service'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
+    'controltower'                       = [PSCustomObject]@{ Prefix = 'ACT'; Name = 'AWS Control Tower'; Url = 'https://aws.amazon.com/controltower/'; Note = '' };
     'cur'                                = [PSCustomObject]@{ Prefix = 'CUR'; Name = 'AWS Cost and Usage Report'; Url = 'https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/'; Note = '' };
     'customer-profiles'                  = [PSCustomObject]@{ Prefix = 'CPF'; Name = 'Amazon Connect Customer Profiles'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'databrew'                           = [PSCustomObject]@{ Prefix = 'GDB'; Name = 'AWS Glue DataBrew'; Url = 'https://aws.amazon.com/glue/features/databrew/'; Note = '' };
@@ -399,6 +400,7 @@ $g_AWSServices = @{
     'storagegateway'                     = [PSCustomObject]@{ Prefix = 'SG'; Name = 'AWS Storage Gateway'; Url = 'https://aws.amazon.com/storagegateway/'; Note = '' };
     'sts'                                = [PSCustomObject]@{ Prefix = 'STS'; Name = 'AWS Security Token Service'; Url = 'https://aws.amazon.com/iam/'; Note = '' };
     'support'                            = [PSCustomObject]@{ Prefix = 'ASA'; Name = 'AWS Support'; Url = 'https://aws.amazon.com/premiumsupport/'; Note = '' };
+    'support-app'                        = [PSCustomObject]@{ Prefix = 'SUP'; Name = 'AWS Support App in Slack API'; Url = 'https://aws.amazon.com/premiumsupport/'; Note = '' };
     'swf'                                = [PSCustomObject]@{ Prefix = 'SWF'; Name = 'Amazon Simple Workflow'; Url = 'https://aws.amazon.com/swf/'; Note = '' };
     'synthetics'                         = [PSCustomObject]@{ Prefix = 'CWSYN'; Name = 'Amazon CloudWatch Synthetics'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'textract'                           = [PSCustomObject]@{ Prefix = 'TXT'; Name = 'Amazon Textract'; Url = 'https://aws.amazon.com/textract/'; Note = '' };
@@ -495,6 +497,7 @@ $g_CmdletReferenceLinks = @{
     'connectcampaigns'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectCampaignService_cmdlets.html'
     'connect'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Connect_Service_cmdlets.html';
     'connectparticipant'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectParticipant_cmdlets.html'
+    'controltower'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ControlTower_cmdlets.html'
     'cur'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_and_Usage_Report_cmdlets.html';
     'customer-profiles'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CustomerProfiles_cmdlets.html'
     'databrew'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/GlueDataBrew_cmdlets.html'
@@ -716,6 +719,7 @@ $g_CmdletReferenceLinks = @{
     'storagegateway'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Storage_Gateway_cmdlets.html';
     'sts'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Token_Service_cmdlets.html';
     'support'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Support_API_cmdlets.html';
+    'support-app'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SupportApp_cmdlets.html'
     'swf'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Simple_Workflow_Service_cmdlets.html';
     'synthetics'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Synthetics_cmdlets.html';
     'textract'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Textract_cmdlets.html';

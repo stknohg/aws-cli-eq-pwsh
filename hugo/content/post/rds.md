@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2022-09-17
+date: 2022-09-25
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 

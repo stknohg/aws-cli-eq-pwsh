@@ -1,6 +1,6 @@
 ---
 title: cloudfront
-date: 2022-09-17
+date: 2022-09-25
 description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 ---
 

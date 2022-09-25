@@ -1,6 +1,6 @@
 ---
 title: inspector2
-date: 2022-09-17
+date: 2022-09-25
 description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ---
 

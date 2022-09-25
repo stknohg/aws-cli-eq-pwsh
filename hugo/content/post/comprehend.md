@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2022-09-17
+date: 2022-09-25
 description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend batch-detect-key-phrases](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-key-phrases.html)|[Find-COMPKeyPhrasesBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPKeyPhrasesBatch.html)|
 |[aws comprehend batch-detect-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-sentiment.html)|[Find-COMPSentimentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSentimentBatch.html)|
 |[aws comprehend batch-detect-syntax](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-syntax.html)|[Find-COMPSyntaxBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSyntaxBatch.html)|
+|[aws comprehend batch-detect-targeted-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/batch-detect-targeted-sentiment.html)|[Find-COMPTargetedSentimentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPTargetedSentimentBatch.html)|
 |[aws comprehend classify-document](https://docs.aws.amazon.com/cli/latest/reference/comprehend/classify-document.html)|[Invoke-COMPDocumentClassification](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-COMPDocumentClassification.html)|
 |[aws comprehend contains-pii-entities](https://docs.aws.amazon.com/cli/latest/reference/comprehend/contains-pii-entities.html)|[Find-COMPPiiEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPPiiEntityType.html)|
 |[aws comprehend create-document-classifier](https://docs.aws.amazon.com/cli/latest/reference/comprehend/create-document-classifier.html)|[New-COMPDocumentClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-COMPDocumentClassifier.html)|
@@ -46,6 +47,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend detect-pii-entities](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-pii-entities.html)|[Find-COMPPiiEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPPiiEntity.html)|
 |[aws comprehend detect-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-sentiment.html)|[Find-COMPSentiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSentiment.html)|
 |[aws comprehend detect-syntax](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-syntax.html)|[Find-COMPSyntax](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSyntax.html)|
+|[aws comprehend detect-targeted-sentiment](https://docs.aws.amazon.com/cli/latest/reference/comprehend/detect-targeted-sentiment.html)|[Find-COMPTargetedSentiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPTargetedSentiment.html)|
 |[aws comprehend import-model](https://docs.aws.amazon.com/cli/latest/reference/comprehend/import-model.html)|[Import-COMPModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-COMPModel.html)|
 |[aws comprehend list-document-classification-jobs](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classification-jobs.html)|[Get-COMPDocumentClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassificationJobList.html)|
 |[aws comprehend list-document-classifier-summaries](https://docs.aws.amazon.com/cli/latest/reference/comprehend/list-document-classifier-summaries.html)|[Get-COMPDocumentClassifierSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassifierSummaryList.html)|

@@ -1,6 +1,6 @@
 ---
 title: s3control
-date: 2022-09-17
+date: 2022-09-25
 description: aws s3control (Amazon S3) command/cmdlet list.
 ---
 
@@ -44,6 +44,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control get-bucket-lifecycle-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-bucket-lifecycle-configuration.html)|[Get-S3CBucketLifecycleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CBucketLifecycleConfiguration.html)|
 |[aws s3control get-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-bucket-policy.html)|[Get-S3CBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CBucketPolicy.html)|
 |[aws s3control get-bucket-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-bucket-tagging.html)|[Get-S3CBucketTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CBucketTagging.html)|
+|[aws s3control get-bucket-versioning](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-bucket-versioning.html)|[Get-S3CBucketVersioning](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CBucketVersioning.html)|
 |[aws s3control get-job-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-job-tagging.html)|[Get-S3CJobTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CJobTagging.html)|
 |[aws s3control get-multi-region-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point.html)|[Get-S3CMultiRegionAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPoint.html)|
 |[aws s3control get-multi-region-access-point-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point-policy.html)|[Get-S3CMultiRegionAccessPointPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPointPolicy.html)|
@@ -63,6 +64,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control put-bucket-lifecycle-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-bucket-lifecycle-configuration.html)|[Write-S3CBucketLifecycleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CBucketLifecycleConfiguration.html)|
 |[aws s3control put-bucket-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-bucket-policy.html)|[Write-S3CBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CBucketPolicy.html)|
 |[aws s3control put-bucket-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-bucket-tagging.html)|[Write-S3CBucketTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CBucketTagging.html)|
+|[aws s3control put-bucket-versioning](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-bucket-versioning.html)|[Write-S3CBucketVersioning](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CBucketVersioning.html)|
 |[aws s3control put-job-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-job-tagging.html)|[Add-S3CJobTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3CJobTagging.html)|
 |[aws s3control put-multi-region-access-point-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-multi-region-access-point-policy.html)|[Write-S3CMultiRegionAccessPointPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CMultiRegionAccessPointPolicy.html)|
 |[aws s3control put-public-access-block](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-public-access-block.html)|[Add-S3CPublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3CPublicAccessBlock.html)|

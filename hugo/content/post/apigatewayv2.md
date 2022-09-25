@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2022-09-17
+date: 2022-09-25
 description: aws apigatewayv2 (Amazon API Gateway) command/cmdlet list.
 ---
 

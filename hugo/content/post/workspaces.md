@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2022-09-17
+date: 2022-09-25
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 

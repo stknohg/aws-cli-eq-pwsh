@@ -1,6 +1,6 @@
 ---
 title: pinpoint-email
-date: 2022-09-17
+date: 2022-09-25
 description: aws pinpoint-email (Amazon Pinpoint Email) command/cmdlet list.
 ---
 

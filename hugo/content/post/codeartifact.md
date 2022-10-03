@@ -1,6 +1,6 @@
 ---
 title: codeartifact
-date: 2022-09-25
+date: 2022-10-03
 description: aws codeartifact (AWS Artifact) command/cmdlet list.
 ---
 

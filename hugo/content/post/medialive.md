@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2022-09-25
+date: 2022-10-03
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 

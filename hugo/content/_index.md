@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-09-25
+date: 2022-10-03
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.7.35 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.175 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.8.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.179 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -23,7 +23,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IAM Access Analyzer](https://aws.amazon.com/iam/)|[accessanalyzer]({{%relref "post/accessanalyzer.md" %}})|IAMAA||
 |[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
-|[AWS Certificate Manager Private Certificate Authority](https://aws.amazon.com/certificate-manager/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA||
+|[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority|
 |[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB||
 |[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
@@ -173,6 +173,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
 |[Fleet Hub for AWS IoT Device Management](https://aws.amazon.com/iot/)|[iotfleethub]({{%relref "post/iotfleethub.md" %}})|IOTFH||
+|[AWS IoT FleetWise](https://aws.amazon.com/iot-fleetwise/)|[iotfleetwise]({{%relref "post/iotfleetwise.md" %}})|IFW||
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
 |[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
 |[AWS IoT Things Graph](https://aws.amazon.com/iot-things-graph/)|[iotthingsgraph]({{%relref "post/iotthingsgraph.md" %}})|IOTTG||
@@ -228,6 +229,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)|[mgn]({{%relref "post/mgn.md" %}})|MGN||
 |[AWS Migration Hub Refactor Spaces](https://aws.amazon.com/application-migration-service/)|[migration-hub-refactor-spaces]({{%relref "post/migration-hub-refactor-spaces.md" %}})|MHRS||
 |[AWS Migration Hub Config](https://aws.amazon.com/migration-hub/)|[migrationhub-config]({{%relref "post/migrationhub-config.md" %}})|MHC||
+|[AWS Migration Hub Orchestrator](https://aws.amazon.com/migration-hub/)|[migrationhuborchestrator]({{%relref "post/migrationhuborchestrator.md" %}})|MHO||
 |[AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/migration-hub/)|[migrationhubstrategy]({{%relref "post/migrationhubstrategy.md" %}})|MHS||
 |[AWS Mobile](https://aws.amazon.com/amplify/)|[mobile]({{%relref "post/mobile.md" %}})|MOBL||
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||

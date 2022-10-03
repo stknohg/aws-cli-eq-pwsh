@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2022-09-25
+date: 2022-10-03
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location get-map-sprites](https://docs.aws.amazon.com/cli/latest/reference/location/get-map-sprites.html)|[Get-LOCMapSprite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCMapSprite.html)|
 |[aws location get-map-style-descriptor](https://docs.aws.amazon.com/cli/latest/reference/location/get-map-style-descriptor.html)|[Get-LOCMapStyleDescriptor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCMapStyleDescriptor.html)|
 |[aws location get-map-tile](https://docs.aws.amazon.com/cli/latest/reference/location/get-map-tile.html)|[Get-LOCMapTile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCMapTile.html)|
+|[aws location get-place](https://docs.aws.amazon.com/cli/latest/reference/location/get-place.html)|[Get-LOCPlace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCPlace.html)|
 |[aws location list-device-positions](https://docs.aws.amazon.com/cli/latest/reference/location/list-device-positions.html)|[Get-LOCDevicePositionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCDevicePositionList.html)|
 |[aws location list-geofence-collections](https://docs.aws.amazon.com/cli/latest/reference/location/list-geofence-collections.html)|[Get-LOCGeofenceCollectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCGeofenceCollectionList.html)|
 |[aws location list-geofences](https://docs.aws.amazon.com/cli/latest/reference/location/list-geofences.html)|[Get-LOCGeofenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCGeofenceList.html)|

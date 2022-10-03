@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2022-09-25
+date: 2022-10-03
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 
@@ -165,6 +165,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail update-distribution](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-distribution.html)|[Update-LSDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDistribution.html)|
 |[aws lightsail update-distribution-bundle](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-distribution-bundle.html)|[Update-LSDistributionBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDistributionBundle.html)|
 |[aws lightsail update-domain-entry](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-domain-entry.html)|[Update-LSDomainEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSDomainEntry.html)|
+|[aws lightsail update-instance-metadata-options](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-instance-metadata-options.html)|[Update-LSInstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSInstanceMetadataOption.html)|
 |[aws lightsail update-load-balancer-attribute](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-load-balancer-attribute.html)|[Update-LSLoadBalancerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSLoadBalancerAttribute.html)|
 |[aws lightsail update-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-relational-database.html)|[Update-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSRelationalDatabase.html)|
 |[aws lightsail update-relational-database-parameters](https://docs.aws.amazon.com/cli/latest/reference/lightsail/update-relational-database-parameters.html)|[Update-LSRelationalDatabaseParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LSRelationalDatabaseParameter.html)|

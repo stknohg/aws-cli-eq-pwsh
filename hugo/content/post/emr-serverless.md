@@ -1,6 +1,6 @@
 ---
 title: emr-serverless
-date: 2022-09-25
+date: 2022-10-03
 description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 |[aws emr-serverless create-application](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/create-application.html)|[New-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMRServerlessApplication.html)|
 |[aws emr-serverless delete-application](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/delete-application.html)|[Remove-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRServerlessApplication.html)|
 |[aws emr-serverless get-application](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/get-application.html)|[Get-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessApplication.html)|
+|[aws emr-serverless get-dashboard-for-job-run](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/get-dashboard-for-job-run.html)|[Get-EMRServerlessDashboardForJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessDashboardForJobRun.html)|
 |[aws emr-serverless get-job-run](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/get-job-run.html)|[Get-EMRServerlessJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRun.html)|
 |[aws emr-serverless list-applications](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/list-applications.html)|[Get-EMRServerlessApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessApplicationList.html)|
 |[aws emr-serverless list-job-runs](https://docs.aws.amazon.com/cli/latest/reference/emr-serverless/list-job-runs.html)|[Get-EMRServerlessJobRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRunList.html)|

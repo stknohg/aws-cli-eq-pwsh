@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2022-09-25
+date: 2022-10-03
 description: aws appsync (AWS AppSync) command/cmdlet list.
 ---
 

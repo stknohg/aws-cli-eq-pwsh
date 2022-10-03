@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2022-09-25
+date: 2022-10-03
 description: aws fsx (Amazon FSx) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx create-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-backup.html)|[New-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXBackup.html)|
 |[aws fsx create-data-repository-association](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-data-repository-association.html)|[New-FSXDataRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryAssociation.html)|
 |[aws fsx create-data-repository-task](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-data-repository-task.html)|[New-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryTask.html)|
+|[aws fsx create-file-cache](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-file-cache.html)|[New-FSXFileCache](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXFileCache.html)|
 |[aws fsx create-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-file-system.html)|[New-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXFileSystem.html)|
 |[aws fsx create-file-system-from-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-file-system-from-backup.html)|[New-FSXFileSystemFromBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXFileSystemFromBackup.html)|
 |[aws fsx create-snapshot](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-snapshot.html)|[New-FSXSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXSnapshot.html)|
@@ -27,6 +28,7 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx create-volume-from-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/create-volume-from-backup.html)|[New-FSXVolumeFromBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXVolumeFromBackup.html)|
 |[aws fsx delete-backup](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-backup.html)|[Remove-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXBackup.html)|
 |[aws fsx delete-data-repository-association](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-data-repository-association.html)|[Remove-FSXDataRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXDataRepositoryAssociation.html)|
+|[aws fsx delete-file-cache](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-file-cache.html)|[Remove-FSXFileCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXFileCache.html)|
 |[aws fsx delete-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-file-system.html)|[Remove-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXFileSystem.html)|
 |[aws fsx delete-snapshot](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-snapshot.html)|[Remove-FSXSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXSnapshot.html)|
 |[aws fsx delete-storage-virtual-machine](https://docs.aws.amazon.com/cli/latest/reference/fsx/delete-storage-virtual-machine.html)|[Remove-FSXStorageVirtualMachine](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXStorageVirtualMachine.html)|
@@ -34,6 +36,7 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx describe-backups](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-backups.html)|[Get-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXBackup.html)|
 |[aws fsx describe-data-repository-associations](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-data-repository-associations.html)|[Get-FSXDataRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXDataRepositoryAssociation.html)|
 |[aws fsx describe-data-repository-tasks](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-data-repository-tasks.html)|[Get-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXDataRepositoryTask.html)|
+|[aws fsx describe-file-caches](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-caches.html)|[Get-FSXFileCach](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileCach.html)|
 |[aws fsx describe-file-system-aliases](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-system-aliases.html)|[Get-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystemAlias.html)|
 |[aws fsx describe-file-systems](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-file-systems.html)|[Get-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystem.html)|
 |[aws fsx describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/fsx/describe-snapshots.html)|[Get-FSXSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXSnapshot.html)|
@@ -46,6 +49,7 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/tag-resource.html)|[Add-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FSXResourceTag.html)|
 |[aws fsx untag-resource](https://docs.aws.amazon.com/cli/latest/reference/fsx/untag-resource.html)|[Remove-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXResourceTag.html)|
 |[aws fsx update-data-repository-association](https://docs.aws.amazon.com/cli/latest/reference/fsx/update-data-repository-association.html)|[Update-FSXDataRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FSXDataRepositoryAssociation.html)|
+|[aws fsx update-file-cache](https://docs.aws.amazon.com/cli/latest/reference/fsx/update-file-cache.html)|[Update-FSXFileCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FSXFileCache.html)|
 |[aws fsx update-file-system](https://docs.aws.amazon.com/cli/latest/reference/fsx/update-file-system.html)|[Update-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FSXFileSystem.html)|
 |[aws fsx update-snapshot](https://docs.aws.amazon.com/cli/latest/reference/fsx/update-snapshot.html)|[Update-FSXSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FSXSnapshot.html)|
 |[aws fsx update-storage-virtual-machine](https://docs.aws.amazon.com/cli/latest/reference/fsx/update-storage-virtual-machine.html)|[Update-FSXStorageVirtualMachine](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FSXStorageVirtualMachine.html)|

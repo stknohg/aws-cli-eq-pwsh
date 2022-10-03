@@ -1,6 +1,6 @@
 ---
 title: translate
-date: 2022-09-25
+date: 2022-10-03
 description: aws translate (Amazon Translate) command/cmdlet list.
 ---
 
@@ -22,10 +22,13 @@ description: aws translate (Amazon Translate) command/cmdlet list.
 |[aws translate import-terminology](https://docs.aws.amazon.com/cli/latest/reference/translate/import-terminology.html)|[Import-TRNTerminology](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TRNTerminology.html)|
 |[aws translate list-languages](https://docs.aws.amazon.com/cli/latest/reference/translate/list-languages.html)|[Get-TRNLanguageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNLanguageList.html)|
 |[aws translate list-parallel-data](https://docs.aws.amazon.com/cli/latest/reference/translate/list-parallel-data.html)|[Get-TRNParallelDataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNParallelDataList.html)|
+|[aws translate list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/translate/list-tags-for-resource.html)|[Get-TRNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNResourceTag.html)|
 |[aws translate list-terminologies](https://docs.aws.amazon.com/cli/latest/reference/translate/list-terminologies.html)|[Get-TRNTerminologyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNTerminologyList.html)|
 |[aws translate list-text-translation-jobs](https://docs.aws.amazon.com/cli/latest/reference/translate/list-text-translation-jobs.html)|[Get-TRNTextTranslationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TRNTextTranslationJobList.html)|
 |[aws translate start-text-translation-job](https://docs.aws.amazon.com/cli/latest/reference/translate/start-text-translation-job.html)|[Start-TRNTextTranslationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TRNTextTranslationJob.html)|
 |[aws translate stop-text-translation-job](https://docs.aws.amazon.com/cli/latest/reference/translate/stop-text-translation-job.html)|[Stop-TRNTextTranslationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-TRNTextTranslationJob.html)|
+|[aws translate tag-resource](https://docs.aws.amazon.com/cli/latest/reference/translate/tag-resource.html)|[Add-TRNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TRNResourceTag.html)|
 |[aws translate translate-text](https://docs.aws.amazon.com/cli/latest/reference/translate/translate-text.html)|[ConvertTo-TRNTargetLanguage](https://docs.aws.amazon.com/powershell/latest/reference/items/ConvertTo-TRNTargetLanguage.html)|
+|[aws translate untag-resource](https://docs.aws.amazon.com/cli/latest/reference/translate/untag-resource.html)|[Remove-TRNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TRNResourceTag.html)|
 |[aws translate update-parallel-data](https://docs.aws.amazon.com/cli/latest/reference/translate/update-parallel-data.html)|[Update-TRNParallelData](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRNParallelData.html)|
 

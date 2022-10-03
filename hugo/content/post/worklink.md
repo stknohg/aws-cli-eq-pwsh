@@ -1,6 +1,6 @@
 ---
 title: worklink
-date: 2022-09-25
+date: 2022-10-03
 description: aws worklink (Amazon WorkLink) command/cmdlet list.
 ---
 

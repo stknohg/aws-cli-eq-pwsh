@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2022-09-25
+date: 2022-10-03
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 

@@ -107,7 +107,7 @@ $g_AWSServices = @{
     'accessanalyzer'                     = [PSCustomObject]@{ Prefix = 'IAMAA'; Name = 'AWS IAM Access Analyzer'; Url = 'https://aws.amazon.com/iam/'; Note = '' };
     'account'                            = [PSCustomObject]@{ Prefix = 'ACCT'; Name = 'AWS Account Management'; Url = 'https://aws.amazon.com/account/'; Note = '' };
     'acm'                                = [PSCustomObject]@{ Prefix = 'ACM'; Name = 'AWS Certificate Manager'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = '' };
-    'acm-pca'                            = [PSCustomObject]@{ Prefix = 'PCA'; Name = 'AWS Certificate Manager Private Certificate Authority'; Url = 'https://aws.amazon.com/certificate-manager/'; Note = '' };
+    'acm-pca'                            = [PSCustomObject]@{ Prefix = 'PCA'; Name = 'AWS Private Certificate Authority'; Url = 'https://aws.amazon.com/private-ca/'; Note = 'Formerly AWS Certificate Manager Private Certificate Authority' };
     'alexaforbusiness'                   = [PSCustomObject]@{ Prefix = 'ALXB'; Name = 'Alexa for Business'; Url = 'https://aws.amazon.com/alexaforbusiness/'; Note = '' };
     'amp'                                = [PSCustomObject]@{ Prefix = 'PROM'; Name = 'Amazon Managed Service for Prometheus'; Url = 'https://aws.amazon.com/prometheus/'; Note = '' };
     'amplify'                            = [PSCustomObject]@{ Prefix = 'AMP'; Name = 'AWS Amplify'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
@@ -256,6 +256,7 @@ $g_AWSServices = @{
     'iotdeviceadvisor'                   = [PSCustomObject]@{ Prefix = 'IOTDA'; Name = 'AWS IoT Core Device Advisor'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iotevents'                          = [PSCustomObject]@{ Prefix = 'IOTE'; Name = 'AWS IoT Events'; Url = 'https://aws.amazon.com/iot-events/'; Note = '' };
     'iotfleethub'                        = [PSCustomObject]@{ Prefix = 'IOTFH'; Name = 'Fleet Hub for AWS IoT Device Management'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
+    'iotfleetwise'                       = [PSCustomObject]@{ Prefix = 'IFW'; Name = 'AWS IoT FleetWise'; Url = 'https://aws.amazon.com/iot-fleetwise/'; Note = '' };
     'iotevents-data'                     = [PSCustomObject]@{ Prefix = 'IOTED'; Name = 'AWS IoT Events'; Url = 'https://aws.amazon.com/iot-events/'; Note = '' };
     'iotsecuretunneling'                 = [PSCustomObject]@{ Prefix = 'IOTST'; Name = 'AWS IoT Secure Tunneling'; Url = 'https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html'; Note = '' };
     'iotsitewise'                        = [PSCustomObject]@{ Prefix = 'IOTSW'; Name = 'Amazon IoT SiteWise'; Url = 'https://aws.amazon.com/iot-sitewise/'; Note = '' };
@@ -312,6 +313,7 @@ $g_AWSServices = @{
     'mgn'                                = [PSCustomObject]@{ Prefix = 'MGN'; Name = 'AWS Application Migration Service'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
     'migration-hub-refactor-spaces'      = [PSCustomObject]@{ Prefix = 'MHRS'; Name = 'AWS Migration Hub Refactor Spaces'; Url = 'https://aws.amazon.com/application-migration-service/'; Note = '' };
     'migrationhub-config'                = [PSCustomObject]@{ Prefix = 'MHC'; Name = 'AWS Migration Hub Config'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
+    'migrationhuborchestrator'           = [PSCustomObject]@{ Prefix = 'MHO'; Name = 'AWS Migration Hub Orchestrator'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'migrationhubstrategy'               = [PSCustomObject]@{ Prefix = 'MHS'; Name = 'AWS Migration Hub Strategy Recommendations'; Url = 'https://aws.amazon.com/migration-hub/'; Note = '' };
     'mobile'                             = [PSCustomObject]@{ Prefix = 'MOBL'; Name = 'AWS Mobile'; Url = 'https://aws.amazon.com/amplify/'; Note = '' };
     'mq'                                 = [PSCustomObject]@{ Prefix = 'MQ'; Name = 'Amazon MQ'; Url = 'https://aws.amazon.com/amazon-mq/'; Note = '' };
@@ -576,6 +578,7 @@ $g_CmdletReferenceLinks = @{
     'iotdeviceadvisor'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTDeviceAdvisor_cmdlets.html';
     'iotevents'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Events_cmdlets.html';
     'iotfleethub'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTFleetHub_cmdlets.html';
+    'iotfleetwise'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTFleetWise_cmdlets.html'
     'iotevents-data'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Events_Data_cmdlets.html';
     'iotsecuretunneling'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSecureTunneling_cmdlets.html';
     'iotsitewise'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTSiteWise_cmdlets.html';
@@ -632,6 +635,7 @@ $g_CmdletReferenceLinks = @{
     'mgn'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Mgn_cmdlets.html';
     'migration-hub-refactor-spaces'      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubRefactorSpaces_cmdlets.html';
     'migrationhub-config'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubConfig_cmdlets.html';
+    'migrationhuborchestrator'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubOrchestrator_cmdlets.html'
     'migrationhubstrategy'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubStrategyRecommendations_cmdlets.html';
     'mobile'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Mobile_cmdlets.html';
     'mq'                                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MQ_cmdlets.html';

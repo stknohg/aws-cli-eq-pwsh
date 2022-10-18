@@ -174,6 +174,7 @@ $g_AWSServices = @{
     'configure'                          = [PSCustomObject]@{ Prefix = ''; Name = '-'; Url = ''; Note = 'Configure AWS CLI options.' };
     'connect-contact-lens'               = [PSCustomObject]@{ Prefix = 'CCL'; Name = 'Contact Lens for Amazon Connect'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'connectcampaigns'                   = [PSCustomObject]@{ Prefix = 'CCS'; Name = 'Amazon Connect Outbound Campaigns'; Url = 'https://aws.amazon.com/connect/outbound/'; Note = '' };
+    'connectcases'                       = [PSCustomObject]@{ Prefix = 'CCAS'; Name = 'Amazon Connect Cases'; Url = 'https://aws.amazon.com/connect/cases/'; Note = '' };
     'connect'                            = [PSCustomObject]@{ Prefix = 'CONN'; Name = 'Amazon Connect'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'connectparticipant'                 = [PSCustomObject]@{ Prefix = 'CONNP'; Name = 'Amazon Connect Participant Service'; Url = 'https://aws.amazon.com/connect/'; Note = '' };
     'controltower'                       = [PSCustomObject]@{ Prefix = 'ACT'; Name = 'AWS Control Tower'; Url = 'https://aws.amazon.com/controltower/'; Note = '' };
@@ -497,6 +498,7 @@ $g_CmdletReferenceLinks = @{
     'configure'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Shell_Configuration_cmdlets.html';
     'connect-contact-lens'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectContactLens_cmdlets.html'
     'connectcampaigns'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectCampaignService_cmdlets.html'
+    'connectcases'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectCases_cmdlets.html'
     'connect'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Connect_Service_cmdlets.html';
     'connectparticipant'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectParticipant_cmdlets.html'
     'controltower'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ControlTower_cmdlets.html'

@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2022-10-03
+date: 2022-10-18
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -189,10 +189,12 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue update-database](https://docs.aws.amazon.com/cli/latest/reference/glue/update-database.html)|[Update-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDatabase.html)|
 |[aws glue update-dev-endpoint](https://docs.aws.amazon.com/cli/latest/reference/glue/update-dev-endpoint.html)|[Update-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDevEndpoint.html)|
 |[aws glue update-job](https://docs.aws.amazon.com/cli/latest/reference/glue/update-job.html)|[Update-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEJob.html)|
+|[aws glue update-job-from-source-control](https://docs.aws.amazon.com/cli/latest/reference/glue/update-job-from-source-control.html)|[Update-GLUEJobFromSourceControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEJobFromSourceControl.html)|
 |[aws glue update-ml-transform](https://docs.aws.amazon.com/cli/latest/reference/glue/update-ml-transform.html)|[Update-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEMLTransform.html)|
 |[aws glue update-partition](https://docs.aws.amazon.com/cli/latest/reference/glue/update-partition.html)|[Update-GLUEPartition](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEPartition.html)|
 |[aws glue update-registry](https://docs.aws.amazon.com/cli/latest/reference/glue/update-registry.html)|[Update-GLUERegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUERegistry.html)|
 |[aws glue update-schema](https://docs.aws.amazon.com/cli/latest/reference/glue/update-schema.html)|[Update-GLUESchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUESchema.html)|
+|[aws glue update-source-control-from-job](https://docs.aws.amazon.com/cli/latest/reference/glue/update-source-control-from-job.html)|[Update-GLUESourceControlFromJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUESourceControlFromJob.html)|
 |[aws glue update-table](https://docs.aws.amazon.com/cli/latest/reference/glue/update-table.html)|[Update-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETable.html)|
 |[aws glue update-trigger](https://docs.aws.amazon.com/cli/latest/reference/glue/update-trigger.html)|[Update-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETrigger.html)|
 |[aws glue update-user-defined-function](https://docs.aws.amazon.com/cli/latest/reference/glue/update-user-defined-function.html)|[Update-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEUserDefinedFunction.html)|

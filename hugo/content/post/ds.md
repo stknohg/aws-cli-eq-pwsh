@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2022-10-03
+date: 2022-10-18
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds describe-shared-directories](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-shared-directories.html)|[Get-DSSharedDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSharedDirectory.html)|
 |[aws ds describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-snapshots.html)|[Get-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshot.html)|
 |[aws ds describe-trusts](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-trusts.html)|[Get-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSTrust.html)|
+|[aws ds describe-update-directory](https://docs.aws.amazon.com/cli/latest/reference/ds/describe-update-directory.html)|[Get-DSUpdateDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSUpdateDirectory.html)|
 |[aws ds disable-client-authentication](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-client-authentication.html)|[Disable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSClientAuthentication.html)|
 |[aws ds disable-ldaps](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-ldaps.html)|[Disable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSLDAPS.html)|
 |[aws ds disable-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/disable-radius.html)|[Disable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSRadius.html)|
@@ -73,6 +74,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds start-schema-extension](https://docs.aws.amazon.com/cli/latest/reference/ds/start-schema-extension.html)|[Start-DSSchemaExtension](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DSSchemaExtension.html)|
 |[aws ds unshare-directory](https://docs.aws.amazon.com/cli/latest/reference/ds/unshare-directory.html)|[Disable-DSDirectoryShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSDirectoryShare.html)|
 |[aws ds update-conditional-forwarder](https://docs.aws.amazon.com/cli/latest/reference/ds/update-conditional-forwarder.html)|[Update-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSConditionalForwarder.html)|
+|[aws ds update-directory-setup](https://docs.aws.amazon.com/cli/latest/reference/ds/update-directory-setup.html)|[Update-DSDirectorySetup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSDirectorySetup.html)|
 |[aws ds update-number-of-domain-controllers](https://docs.aws.amazon.com/cli/latest/reference/ds/update-number-of-domain-controllers.html)|[Set-DSDomainControllerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DSDomainControllerCount.html)|
 |[aws ds update-radius](https://docs.aws.amazon.com/cli/latest/reference/ds/update-radius.html)|[Update-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSRadius.html)|
 |[aws ds update-settings](https://docs.aws.amazon.com/cli/latest/reference/ds/update-settings.html)|[Update-DSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSSetting.html)|

@@ -1,6 +1,6 @@
 ---
 title: wisdom
-date: 2022-10-03
+date: 2022-10-18
 description: aws wisdom (Amazon Connect Wisdom) command/cmdlet list.
 ---
 
@@ -35,7 +35,6 @@ description: aws wisdom (Amazon Connect Wisdom) command/cmdlet list.
 |[aws wisdom list-knowledge-bases](https://docs.aws.amazon.com/cli/latest/reference/wisdom/list-knowledge-bases.html)|[Get-WSDMKnowledgeBasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMKnowledgeBasisList.html)|
 |[aws wisdom list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/wisdom/list-tags-for-resource.html)|[Get-WSDMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMResourceTag.html)|
 |[aws wisdom notify-recommendations-received](https://docs.aws.amazon.com/cli/latest/reference/wisdom/notify-recommendations-received.html)|[Remove-WSDMRecommendationsReceived](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WSDMRecommendationsReceived.html)|
-|[aws wisdom put-feedback](https://docs.aws.amazon.com/cli/latest/reference/wisdom/put-feedback.html)|[Write-WSDMFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WSDMFeedback.html)|
 |[aws wisdom query-assistant](https://docs.aws.amazon.com/cli/latest/reference/wisdom/query-assistant.html)|[Search-WSDMAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-WSDMAssistant.html)|
 |[aws wisdom remove-knowledge-base-template-uri](https://docs.aws.amazon.com/cli/latest/reference/wisdom/remove-knowledge-base-template-uri.html)|[Remove-WSDMKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WSDMKnowledgeBaseTemplateUri.html)|
 |[aws wisdom search-content](https://docs.aws.amazon.com/cli/latest/reference/wisdom/search-content.html)|[Search-WSDMContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-WSDMContent.html)|

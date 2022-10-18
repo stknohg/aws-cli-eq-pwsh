@@ -1,6 +1,6 @@
 ---
 title: panorama
-date: 2022-10-03
+date: 2022-10-18
 description: aws panorama (AWS Panorama) command/cmdlet list.
 ---
 
@@ -43,6 +43,7 @@ description: aws panorama (AWS Panorama) command/cmdlet list.
 |[aws panorama provision-device](https://docs.aws.amazon.com/cli/latest/reference/panorama/provision-device.html)|[Register-PANDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-PANDevice.html)|
 |[aws panorama register-package-version](https://docs.aws.amazon.com/cli/latest/reference/panorama/register-package-version.html)|[Register-PANPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-PANPackageVersion.html)|
 |[aws panorama remove-application-instance](https://docs.aws.amazon.com/cli/latest/reference/panorama/remove-application-instance.html)|[Remove-PANApplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PANApplicationInstance.html)|
+|[aws panorama signal-application-instance-node-instances](https://docs.aws.amazon.com/cli/latest/reference/panorama/signal-application-instance-node-instances.html)|[Send-PANApplicationInstanceNodeInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PANApplicationInstanceNodeInstance.html)|
 |[aws panorama tag-resource](https://docs.aws.amazon.com/cli/latest/reference/panorama/tag-resource.html)|[Add-PANResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PANResourceTag.html)|
 |[aws panorama untag-resource](https://docs.aws.amazon.com/cli/latest/reference/panorama/untag-resource.html)|[Remove-PANResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PANResourceTag.html)|
 |[aws panorama update-device-metadata](https://docs.aws.amazon.com/cli/latest/reference/panorama/update-device-metadata.html)|[Update-PANDeviceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PANDeviceMetadata.html)|

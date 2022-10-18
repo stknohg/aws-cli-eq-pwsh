@@ -1,6 +1,6 @@
 ---
 title: apigatewaymanagementapi
-date: 2022-10-03
+date: 2022-10-18
 description: aws apigatewaymanagementapi (Amazon API Gateway Management) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: alexaforbusiness
-date: 2022-10-03
+date: 2022-10-18
 description: aws alexaforbusiness (Alexa for Business) command/cmdlet list.
 ---
 

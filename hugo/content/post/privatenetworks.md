@@ -1,6 +1,6 @@
 ---
 title: privatenetworks
-date: 2022-10-03
+date: 2022-10-18
 description: aws privatenetworks (AWS Private 5G) command/cmdlet list.
 ---
 

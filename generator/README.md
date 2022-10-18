@@ -1,10 +1,10 @@
 # How to build (example)
 
-## Create docker imager
+## Create conainer imager
 
 ```powershell
 PS > <local source path (Dockerfile path)>
-PS > docker build -t aws-cli-eq-pwsh .
+PS > nerdctl build -t aws-cli-eq-pwsh .
 ```
 
 ## Start container
@@ -13,14 +13,14 @@ PS > docker build -t aws-cli-eq-pwsh .
 
 ```powershell
 PS > cd <local source path>
-PS > docker run -v "$($pwd.Path):/mnt/src/" --rm -it aws-cli-eq-pwsh 
+PS > nerdctl run -v "$($pwd.Path):/mnt/src/" --rm -it aws-cli-eq-pwsh 
 ```
 
 * hugo server
 
 ```powershell
 PS > cd <local source path>
-PS > docker run -v "$($pwd.Path):/mnt/src/" -p 1313:1313 --rm aws-cli-eq-pwsh bash -c "cd /mnt/src/hugo/ && hugo server -w -p 1313 --bind=0.0.0.0"
+PS > nerdctl run -v "$($pwd.Path):/mnt/src/" -p 1313:1313 --rm aws-cli-eq-pwsh bash -c "cd /mnt/src/hugo/ && hugo server -w -p 1313 --bind=0.0.0.0"
 ```
 
 ## Generate contents

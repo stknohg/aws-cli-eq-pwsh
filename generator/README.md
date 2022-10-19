@@ -1,6 +1,6 @@
 # How to build (example)
 
-## Create conainer imager
+## Create container imager
 
 ```powershell
 PS > <local source path (Dockerfile path)>

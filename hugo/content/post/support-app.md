@@ -1,6 +1,6 @@
 ---
 title: support-app
-date: 2022-10-18
+date: 2022-10-22
 description: aws support-app (AWS Support App in Slack API) command/cmdlet list.
 ---
 
@@ -21,5 +21,6 @@ description: aws support-app (AWS Support App in Slack API) command/cmdlet list.
 |[aws support-app list-slack-channel-configurations](https://docs.aws.amazon.com/cli/latest/reference/support-app/list-slack-channel-configurations.html)|[Get-SUPSlackChannelConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUPSlackChannelConfigurationList.html)|
 |[aws support-app list-slack-workspace-configurations](https://docs.aws.amazon.com/cli/latest/reference/support-app/list-slack-workspace-configurations.html)|[Get-SUPSlackWorkspaceConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUPSlackWorkspaceConfigurationList.html)|
 |[aws support-app put-account-alias](https://docs.aws.amazon.com/cli/latest/reference/support-app/put-account-alias.html)|[Set-SUPAccountAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SUPAccountAlias.html)|
+|[aws support-app register-slack-workspace-for-organization](https://docs.aws.amazon.com/cli/latest/reference/support-app/register-slack-workspace-for-organization.html)|[Register-SUPSlackWorkspaceForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SUPSlackWorkspaceForOrganization.html)|
 |[aws support-app update-slack-channel-configuration](https://docs.aws.amazon.com/cli/latest/reference/support-app/update-slack-channel-configuration.html)|[Update-SUPSlackChannelConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SUPSlackChannelConfiguration.html)|
 

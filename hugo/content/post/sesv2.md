@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2022-10-18
+date: 2022-10-22
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -42,6 +42,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 get-contact-list](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-contact-list.html)|[Get-SES2ContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ContactList.html)|
 |[aws sesv2 get-custom-verification-email-template](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-custom-verification-email-template.html)|[Get-SES2CustomVerificationEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2CustomVerificationEmailTemplate.html)|
 |[aws sesv2 get-dedicated-ip](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-dedicated-ip.html)|[Get-SES2DedicatedIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DedicatedIp.html)|
+|[aws sesv2 get-dedicated-ip-pool](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-dedicated-ip-pool.html)|[Get-SES2DedicatedIpPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DedicatedIpPool.html)|
 |[aws sesv2 get-dedicated-ips](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-dedicated-ips.html)|[Get-SES2DedicatedIpList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DedicatedIpList.html)|
 |[aws sesv2 get-deliverability-dashboard-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-deliverability-dashboard-options.html)|[Get-SES2DeliverabilityDashboardOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DeliverabilityDashboardOption.html)|
 |[aws sesv2 get-deliverability-test-report](https://docs.aws.amazon.com/cli/latest/reference/sesv2/get-deliverability-test-report.html)|[Get-SES2DeliverabilityTestReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DeliverabilityTestReport.html)|

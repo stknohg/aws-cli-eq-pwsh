@@ -1,6 +1,6 @@
 ---
 title: globalaccelerator
-date: 2022-10-18
+date: 2022-10-22
 description: aws globalaccelerator (AWS Global Accelerator) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws globalaccelerator (AWS Global Accelerator) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws globalaccelerator add-custom-routing-endpoints](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/add-custom-routing-endpoints.html)|[Add-GACLCustomRoutingEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GACLCustomRoutingEndpoint.html)|
+|[aws globalaccelerator add-endpoints](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/add-endpoints.html)|[Add-GACLEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GACLEndpoint.html)|
 |[aws globalaccelerator advertise-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/advertise-byoip-cidr.html)|[Start-GACLAdvertisingByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GACLAdvertisingByoipCidr.html)|
 |[aws globalaccelerator allow-custom-routing-traffic](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/allow-custom-routing-traffic.html)|[Enable-GACLCustomRoutingTraffic](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-GACLCustomRoutingTraffic.html)|
 |[aws globalaccelerator create-accelerator](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/create-accelerator.html)|[New-GACLAccelerator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GACLAccelerator.html)|
@@ -50,6 +51,7 @@ description: aws globalaccelerator (AWS Global Accelerator) command/cmdlet list.
 |[aws globalaccelerator list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/list-tags-for-resource.html)|[Get-GACLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GACLResourceTag.html)|
 |[aws globalaccelerator provision-byoip-cidr](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/provision-byoip-cidr.html)|[Add-GACLByoipCidrProvision](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GACLByoipCidrProvision.html)|
 |[aws globalaccelerator remove-custom-routing-endpoints](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/remove-custom-routing-endpoints.html)|[Remove-GACLCustomRoutingEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GACLCustomRoutingEndpoint.html)|
+|[aws globalaccelerator remove-endpoints](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/remove-endpoints.html)|[Remove-GACLEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GACLEndpoint.html)|
 |[aws globalaccelerator tag-resource](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/tag-resource.html)|[Add-GACLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GACLResourceTag.html)|
 |[aws globalaccelerator untag-resource](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/untag-resource.html)|[Remove-GACLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GACLResourceTag.html)|
 |[aws globalaccelerator update-accelerator](https://docs.aws.amazon.com/cli/latest/reference/globalaccelerator/update-accelerator.html)|[Update-GACLAccelerator](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GACLAccelerator.html)|

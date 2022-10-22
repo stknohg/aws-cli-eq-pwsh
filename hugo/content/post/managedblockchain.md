@@ -1,6 +1,6 @@
 ---
 title: managedblockchain
-date: 2022-10-18
+date: 2022-10-22
 description: aws managedblockchain (Amazon Managed Blockchain) command/cmdlet list.
 ---
 
@@ -13,16 +13,20 @@ description: aws managedblockchain (Amazon Managed Blockchain) command/cmdlet li
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws managedblockchain create-accessor](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/create-accessor.html)|[New-MBCAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MBCAccessor.html)|
 |[aws managedblockchain create-member](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/create-member.html)|[New-MBCMember](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MBCMember.html)|
 |[aws managedblockchain create-network](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/create-network.html)|[New-MBCNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MBCNetwork.html)|
 |[aws managedblockchain create-node](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/create-node.html)|[New-MBCNode](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MBCNode.html)|
 |[aws managedblockchain create-proposal](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/create-proposal.html)|[New-MBCProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MBCProposal.html)|
+|[aws managedblockchain delete-accessor](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/delete-accessor.html)|[Remove-MBCAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MBCAccessor.html)|
 |[aws managedblockchain delete-member](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/delete-member.html)|[Remove-MBCMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MBCMember.html)|
 |[aws managedblockchain delete-node](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/delete-node.html)|[Remove-MBCNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MBCNode.html)|
+|[aws managedblockchain get-accessor](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/get-accessor.html)|[Get-MBCAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCAccessor.html)|
 |[aws managedblockchain get-member](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/get-member.html)|[Get-MBCMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCMember.html)|
 |[aws managedblockchain get-network](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/get-network.html)|[Get-MBCNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCNetwork.html)|
 |[aws managedblockchain get-node](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/get-node.html)|[Get-MBCNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCNode.html)|
 |[aws managedblockchain get-proposal](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/get-proposal.html)|[Get-MBCProposal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCProposal.html)|
+|[aws managedblockchain list-accessors](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-accessors.html)|[Get-MBCAccessorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCAccessorList.html)|
 |[aws managedblockchain list-invitations](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-invitations.html)|[Get-MBCInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCInvitationList.html)|
 |[aws managedblockchain list-members](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-members.html)|[Get-MBCMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCMemberList.html)|
 |[aws managedblockchain list-networks](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/list-networks.html)|[Get-MBCNetworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MBCNetworkList.html)|

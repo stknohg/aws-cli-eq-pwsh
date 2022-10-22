@@ -1,6 +1,6 @@
 ---
 title: codestar-notifications
-date: 2022-10-18
+date: 2022-10-22
 description: aws codestar-notifications (AWS CodeStar Notifications) command/cmdlet list.
 ---
 

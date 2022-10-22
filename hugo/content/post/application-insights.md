@@ -1,6 +1,6 @@
 ---
 title: application-insights
-date: 2022-10-18
+date: 2022-10-22
 description: aws application-insights (Amazon CloudWatch Application Insights) command/cmdlet list.
 ---
 

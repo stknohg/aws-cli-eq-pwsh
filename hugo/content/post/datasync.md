@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2022-10-18
+date: 2022-10-22
 description: aws datasync (AWS DataSync) command/cmdlet list.
 ---
 

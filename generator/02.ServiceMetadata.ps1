@@ -354,6 +354,7 @@ $g_AWSServices = @{
     'redshift'                           = [PSCustomObject]@{ Prefix = 'RS'; Name = 'Amazon Redshift'; Url = 'https://aws.amazon.com/redshift/'; Note = '' };
     'rekognition'                        = [PSCustomObject]@{ Prefix = 'REK'; Name = 'Amazon Rekognition'; Url = 'https://aws.amazon.com/rekognition/'; Note = '' };
     'resiliencehub'                      = [PSCustomObject]@{ Prefix = 'RESH'; Name = 'AWS Resilience Hub'; Url = 'https://aws.amazon.com/resilience-hub/'; Note = '' };
+    'resource-explorer-2'                = [PSCustomObject]@{ Prefix = 'AREX'; Name = 'AWS Resource Explorer'; Url = 'https://aws.amazon.com/resourceexplorer/'; Note = '' };
     'resource-groups'                    = [PSCustomObject]@{ Prefix = 'RG'; Name = 'AWS Resource Groups'; Url = 'https://aws.amazon.com/'; Note = '' };
     'resourcegroupstaggingapi'           = [PSCustomObject]@{ Prefix = 'RGT'; Name = 'AWS Resource Groups Tagging'; Url = 'https://aws.amazon.com/'; Note = '' };
     'robomaker'                          = [PSCustomObject]@{ Prefix = 'ROBO'; Name = 'AWS RoboMaker'; Url = 'https://aws.amazon.com/robomaker/'; Note = '' };
@@ -677,6 +678,7 @@ $g_CmdletReferenceLinks = @{
     'redshift'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Redshift_cmdlets.html';
     'rekognition'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Rekognition_cmdlets.html';
     'resiliencehub'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ResilienceHub_cmdlets.html';
+    'resource-explorer-2'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ResourceExplorer2_cmdlets.html';
     'resource-groups'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Groups_cmdlets.html';
     'resourcegroupstaggingapi'           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Resource_Groups_Tagging_API_cmdlets.html';
     'robomaker'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_RoboMaker_cmdlets.html';

@@ -1,6 +1,6 @@
 ---
 title: appintegrations
-date: 2022-10-22
+date: 2022-11-09
 description: aws appintegrations (Amazon AppIntegrations APIs) command/cmdlet list.
 ---
 

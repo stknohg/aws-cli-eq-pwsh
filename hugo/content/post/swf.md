@@ -1,6 +1,6 @@
 ---
 title: swf
-date: 2022-10-22
+date: 2022-11-09
 description: aws swf (Amazon Simple Workflow) command/cmdlet list.
 ---
 

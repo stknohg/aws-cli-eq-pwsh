@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2022-10-22
+date: 2022-11-09
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -191,6 +191,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker list-hyper-parameter-tuning-jobs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-hyper-parameter-tuning-jobs.html)|[Get-SMHyperParameterTuningJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMHyperParameterTuningJobList.html)|
 |[aws sagemaker list-image-versions](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-image-versions.html)|[Get-SMImageVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMImageVersionList.html)|
 |[aws sagemaker list-images](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-images.html)|[Get-SMImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMImageList.html)|
+|[aws sagemaker list-inference-recommendations-job-steps](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-inference-recommendations-job-steps.html)|[Get-SMInferenceRecommendationsJobStepList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMInferenceRecommendationsJobStepList.html)|
 |[aws sagemaker list-inference-recommendations-jobs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-inference-recommendations-jobs.html)|[Get-SMInferenceRecommendationsJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMInferenceRecommendationsJobList.html)|
 |[aws sagemaker list-labeling-jobs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-labeling-jobs.html)|[Get-SMLabelingJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLabelingJobList.html)|
 |[aws sagemaker list-labeling-jobs-for-workteam](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-labeling-jobs-for-workteam.html)|[Get-SMLabelingJobListForWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLabelingJobListForWorkteam.html)|

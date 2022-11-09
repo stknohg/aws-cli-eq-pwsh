@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2022-10-22
+date: 2022-11-09
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws ec2 accept-address-transfer](https://docs.aws.amazon.com/cli/latest/reference/ec2/accept-address-transfer.html)|[Approve-EC2AddressTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-EC2AddressTransfer.html)|
 |[aws ec2 accept-reserved-instances-exchange-quote](https://docs.aws.amazon.com/cli/latest/reference/ec2/accept-reserved-instances-exchange-quote.html)|[Approve-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-EC2ReservedInstancesExchangeQuote.html)|
 |[aws ec2 accept-transit-gateway-multicast-domain-associations](https://docs.aws.amazon.com/cli/latest/reference/ec2/accept-transit-gateway-multicast-domain-associations.html)|[Approve-EC2TransitGatewayMulticastDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-EC2TransitGatewayMulticastDomainAssociation.html)|
 |[aws ec2 accept-transit-gateway-peering-attachment](https://docs.aws.amazon.com/cli/latest/reference/ec2/accept-transit-gateway-peering-attachment.html)|[Approve-EC2TransitGatewayPeeringAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-EC2TransitGatewayPeeringAttachment.html)|
@@ -53,6 +54,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 cancel-capacity-reservation-fleets](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-capacity-reservation-fleets.html)|[Stop-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2CapacityReservationFleet.html)|
 |[aws ec2 cancel-conversion-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-conversion-task.html)||
 |[aws ec2 cancel-export-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-export-task.html)|[Stop-EC2ExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ExportTask.html)|
+|[aws ec2 cancel-image-launch-permission](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-image-launch-permission.html)|[Stop-EC2ImageLaunchPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ImageLaunchPermission.html)|
 |[aws ec2 cancel-import-task](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-import-task.html)|[Stop-EC2ImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ImportTask.html)|
 |[aws ec2 cancel-reserved-instances-listing](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-reserved-instances-listing.html)|[Stop-EC2ReservedInstancesListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ReservedInstancesListing.html)|
 |[aws ec2 cancel-spot-fleet-requests](https://docs.aws.amazon.com/cli/latest/reference/ec2/cancel-spot-fleet-requests.html)|[Stop-EC2SpotFleetRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2SpotFleetRequest.html)|
@@ -213,6 +215,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 deregister-transit-gateway-multicast-group-members](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-transit-gateway-multicast-group-members.html)|[Unregister-EC2TransitGatewayMulticastGroupMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastGroupMember.html)|
 |[aws ec2 deregister-transit-gateway-multicast-group-sources](https://docs.aws.amazon.com/cli/latest/reference/ec2/deregister-transit-gateway-multicast-group-sources.html)|[Unregister-EC2TransitGatewayMulticastGroupSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastGroupSource.html)|
 |[aws ec2 describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-account-attributes.html)|[Get-EC2AccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AccountAttribute.html)|
+|[aws ec2 describe-address-transfers](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-address-transfers.html)|[Get-EC2AddressTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AddressTransfer.html)|
 |[aws ec2 describe-addresses](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-addresses.html)|[Get-EC2Address](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Address.html)|
 |[aws ec2 describe-addresses-attribute](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-addresses-attribute.html)|[Get-EC2AddressesAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AddressesAttribute.html)|
 |[aws ec2 describe-aggregate-id-format](https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-aggregate-id-format.html)|[Get-EC2AggregateIdFormat](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AggregateIdFormat.html)|
@@ -352,6 +355,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 detach-network-interface](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-network-interface.html)|[Dismount-EC2NetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2NetworkInterface.html)|
 |[aws ec2 detach-volume](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-volume.html)|[Dismount-EC2Volume](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2Volume.html)|
 |[aws ec2 detach-vpn-gateway](https://docs.aws.amazon.com/cli/latest/reference/ec2/detach-vpn-gateway.html)|[Dismount-EC2VpnGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2VpnGateway.html)|
+|[aws ec2 disable-address-transfer](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-address-transfer.html)|[Disable-EC2AddressTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2AddressTransfer.html)|
 |[aws ec2 disable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-ebs-encryption-by-default.html)|[Disable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 disable-fast-launch](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-fast-launch.html)|[Disable-EC2FastLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastLaunch.html)|
 |[aws ec2 disable-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/disable-fast-snapshot-restores.html)|[Disable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastSnapshotRestore.html)|
@@ -374,6 +378,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 disassociate-transit-gateway-route-table](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-transit-gateway-route-table.html)|[Unregister-EC2TransitGatewayRouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayRouteTable.html)|
 |[aws ec2 disassociate-trunk-interface](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-trunk-interface.html)|[Unregister-EC2TrunkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TrunkInterface.html)|
 |[aws ec2 disassociate-vpc-cidr-block](https://docs.aws.amazon.com/cli/latest/reference/ec2/disassociate-vpc-cidr-block.html)|[Unregister-EC2VpcCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2VpcCidrBlock.html)|
+|[aws ec2 enable-address-transfer](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-address-transfer.html)|[Enable-EC2AddressTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2AddressTransfer.html)|
 |[aws ec2 enable-ebs-encryption-by-default](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-ebs-encryption-by-default.html)|[Enable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 enable-fast-launch](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-fast-launch.html)|[Enable-EC2FastLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastLaunch.html)|
 |[aws ec2 enable-fast-snapshot-restores](https://docs.aws.amazon.com/cli/latest/reference/ec2/enable-fast-snapshot-restores.html)|[Enable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastSnapshotRestore.html)|

@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2022-10-22
+date: 2022-11-09
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws sesv2 batch-get-metric-data](https://docs.aws.amazon.com/cli/latest/reference/sesv2/batch-get-metric-data.html)|[Get-SES2BatchMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2BatchMetricData.html)|
 |[aws sesv2 create-configuration-set](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-configuration-set.html)|[New-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSet.html)|
 |[aws sesv2 create-configuration-set-event-destination](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-configuration-set-event-destination.html)|[New-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSetEventDestination.html)|
 |[aws sesv2 create-contact](https://docs.aws.amazon.com/cli/latest/reference/sesv2/create-contact.html)|[New-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2Contact.html)|
@@ -63,17 +64,20 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 list-email-identities](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-email-identities.html)|[Get-SES2EmailIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentityList.html)|
 |[aws sesv2 list-email-templates](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-email-templates.html)|[Get-SES2EmailTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailTemplateList.html)|
 |[aws sesv2 list-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-import-jobs.html)|[Get-SES2ImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ImportJobList.html)|
+|[aws sesv2 list-recommendations](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-recommendations.html)|[Get-SES2RecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2RecommendationList.html)|
 |[aws sesv2 list-suppressed-destinations](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-suppressed-destinations.html)|[Get-SES2SuppressedDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2SuppressedDestinationList.html)|
 |[aws sesv2 list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/sesv2/list-tags-for-resource.html)|[Get-SES2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ResourceTag.html)|
 |[aws sesv2 put-account-dedicated-ip-warmup-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-account-dedicated-ip-warmup-attributes.html)|[Write-SES2AccountDedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountDedicatedIpWarmupAttribute.html)|
 |[aws sesv2 put-account-details](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-account-details.html)|[Write-SES2AccountDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountDetail.html)|
 |[aws sesv2 put-account-sending-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-account-sending-attributes.html)|[Write-SES2AccountSendingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountSendingAttribute.html)|
 |[aws sesv2 put-account-suppression-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-account-suppression-attributes.html)|[Write-SES2AccountSuppressionAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountSuppressionAttribute.html)|
+|[aws sesv2 put-account-vdm-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-account-vdm-attributes.html)|[Write-SES2AccountVdmAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountVdmAttribute.html)|
 |[aws sesv2 put-configuration-set-delivery-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-delivery-options.html)|[Write-SES2ConfigurationSetDeliveryOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetDeliveryOption.html)|
 |[aws sesv2 put-configuration-set-reputation-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-reputation-options.html)|[Write-SES2ConfigurationSetReputationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetReputationOption.html)|
 |[aws sesv2 put-configuration-set-sending-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-sending-options.html)|[Write-SES2ConfigurationSetSendingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetSendingOption.html)|
 |[aws sesv2 put-configuration-set-suppression-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-suppression-options.html)|[Write-SES2ConfigurationSetSuppressionOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetSuppressionOption.html)|
 |[aws sesv2 put-configuration-set-tracking-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-tracking-options.html)|[Write-SES2ConfigurationSetTrackingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetTrackingOption.html)|
+|[aws sesv2 put-configuration-set-vdm-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-vdm-options.html)|[Write-SES2ConfigurationSetVdmOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetVdmOption.html)|
 |[aws sesv2 put-dedicated-ip-in-pool](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-in-pool.html)|[Write-SES2DedicatedIpInPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpInPool.html)|
 |[aws sesv2 put-dedicated-ip-warmup-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-warmup-attributes.html)|[Write-SES2DedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpWarmupAttribute.html)|
 |[aws sesv2 put-deliverability-dashboard-option](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-deliverability-dashboard-option.html)|[Write-SES2DeliverabilityDashboardOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DeliverabilityDashboardOption.html)|

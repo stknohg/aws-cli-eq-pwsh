@@ -1,6 +1,6 @@
 ---
 title: billingconductor
-date: 2022-10-22
+date: 2022-11-09
 description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 |[aws billingconductor list-account-associations](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-account-associations.html)|[Get-ABCAccountAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCAccountAssociationList.html)|
 |[aws billingconductor list-billing-group-cost-reports](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-billing-group-cost-reports.html)|[Get-ABCBillingGroupCostReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupCostReportList.html)|
 |[aws billingconductor list-billing-groups](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-billing-groups.html)|[Get-ABCBillingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupList.html)|
+|[aws billingconductor list-custom-line-item-versions](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-custom-line-item-versions.html)|[Get-ABCCustomLineItemVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCCustomLineItemVersionList.html)|
 |[aws billingconductor list-custom-line-items](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-custom-line-items.html)|[Get-ABCCustomLineItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCCustomLineItemList.html)|
 |[aws billingconductor list-pricing-plans](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-pricing-plans.html)|[Get-ABCPricingPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCPricingPlanList.html)|
 |[aws billingconductor list-pricing-plans-associated-with-pricing-rule](https://docs.aws.amazon.com/cli/latest/reference/billingconductor/list-pricing-plans-associated-with-pricing-rule.html)|[Get-ABCPricingPlansAssociatedWithPricingRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCPricingPlansAssociatedWithPricingRuleList.html)|

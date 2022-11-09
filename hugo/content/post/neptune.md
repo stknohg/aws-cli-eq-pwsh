@@ -1,6 +1,6 @@
 ---
 title: neptune
-date: 2022-10-22
+date: 2022-11-09
 description: aws neptune (Amazon Neptune) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2022-10-22
+date: 2022-11-09
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs get-log-group-fields](https://docs.aws.amazon.com/cli/latest/reference/logs/get-log-group-fields.html)|[Get-CWLLogGroupField](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupField.html)|
 |[aws logs get-log-record](https://docs.aws.amazon.com/cli/latest/reference/logs/get-log-record.html)|[Get-CWLLogRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogRecord.html)|
 |[aws logs get-query-results](https://docs.aws.amazon.com/cli/latest/reference/logs/get-query-results.html)|[Get-CWLQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQueryResult.html)|
+|[aws logs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs list-tags-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/list-tags-log-group.html)|[Get-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupTag.html)|
 |[aws logs put-destination](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination.html)|[Write-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestination.html)|
 |[aws logs put-destination-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination-policy.html)|[Write-CWLDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestinationPolicy.html)|
@@ -53,7 +54,9 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs start-query](https://docs.aws.amazon.com/cli/latest/reference/logs/start-query.html)|[Start-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLQuery.html)|
 |[aws logs stop-query](https://docs.aws.amazon.com/cli/latest/reference/logs/stop-query.html)|[Stop-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLQuery.html)|
 |[aws logs tag-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/tag-log-group.html)|[Add-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWLLogGroupTag.html)|
+|[aws logs tag-resource](https://docs.aws.amazon.com/cli/latest/reference/logs/tag-resource.html)|[Add-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWLResourceTag.html)|
 |[aws logs tail](https://docs.aws.amazon.com/cli/latest/reference/logs/tail.html)||
 |[aws logs test-metric-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/test-metric-filter.html)|[Test-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CWLMetricFilter.html)|
 |[aws logs untag-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/untag-log-group.html)|[Remove-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroupTag.html)|
+|[aws logs untag-resource](https://docs.aws.amazon.com/cli/latest/reference/logs/untag-resource.html)|[Remove-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLResourceTag.html)|
 

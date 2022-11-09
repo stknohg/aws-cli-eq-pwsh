@@ -1,6 +1,6 @@
 ---
 title: es
-date: 2022-10-22
+date: 2022-11-09
 description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 ---
 

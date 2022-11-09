@@ -1,6 +1,6 @@
 ---
 title: fms
-date: 2022-10-22
+date: 2022-11-09
 description: aws fms (AWS Firewall Manager) command/cmdlet list.
 ---
 
@@ -15,10 +15,13 @@ description: aws fms (AWS Firewall Manager) command/cmdlet list.
 |----|----|
 |[aws fms associate-admin-account](https://docs.aws.amazon.com/cli/latest/reference/fms/associate-admin-account.html)|[Add-FMSAdminAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FMSAdminAccountAssociation.html)|
 |[aws fms associate-third-party-firewall](https://docs.aws.amazon.com/cli/latest/reference/fms/associate-third-party-firewall.html)|[Register-FMSThirdPartyFirewall](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-FMSThirdPartyFirewall.html)|
+|[aws fms batch-associate-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/batch-associate-resource.html)|[Add-FMSAssociatedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FMSAssociatedResource.html)|
+|[aws fms batch-disassociate-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/batch-disassociate-resource.html)|[Remove-FMSAssociatedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSAssociatedResource.html)|
 |[aws fms delete-apps-list](https://docs.aws.amazon.com/cli/latest/reference/fms/delete-apps-list.html)|[Remove-FMSAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSAppList.html)|
 |[aws fms delete-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/fms/delete-notification-channel.html)|[Remove-FMSNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSNotificationChannel.html)|
 |[aws fms delete-policy](https://docs.aws.amazon.com/cli/latest/reference/fms/delete-policy.html)|[Remove-FMSPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSPolicy.html)|
 |[aws fms delete-protocols-list](https://docs.aws.amazon.com/cli/latest/reference/fms/delete-protocols-list.html)|[Remove-FMSProtocolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSProtocolList.html)|
+|[aws fms delete-resource-set](https://docs.aws.amazon.com/cli/latest/reference/fms/delete-resource-set.html)|[Remove-FMSResourceSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSResourceSet.html)|
 |[aws fms disassociate-admin-account](https://docs.aws.amazon.com/cli/latest/reference/fms/disassociate-admin-account.html)|[Remove-FMSAdminAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSAdminAccountAssociation.html)|
 |[aws fms disassociate-third-party-firewall](https://docs.aws.amazon.com/cli/latest/reference/fms/disassociate-third-party-firewall.html)|[Unregister-FMSThirdPartyFirewall](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-FMSThirdPartyFirewall.html)|
 |[aws fms get-admin-account](https://docs.aws.amazon.com/cli/latest/reference/fms/get-admin-account.html)|[Get-FMSAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAdminAccount.html)|
@@ -28,19 +31,24 @@ description: aws fms (AWS Firewall Manager) command/cmdlet list.
 |[aws fms get-policy](https://docs.aws.amazon.com/cli/latest/reference/fms/get-policy.html)|[Get-FMSPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSPolicy.html)|
 |[aws fms get-protection-status](https://docs.aws.amazon.com/cli/latest/reference/fms/get-protection-status.html)|[Get-FMSProtectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSProtectionStatus.html)|
 |[aws fms get-protocols-list](https://docs.aws.amazon.com/cli/latest/reference/fms/get-protocols-list.html)|[Get-FMSProtocolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSProtocolList.html)|
+|[aws fms get-resource-set](https://docs.aws.amazon.com/cli/latest/reference/fms/get-resource-set.html)|[Get-FMSResourceSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceSet.html)|
 |[aws fms get-third-party-firewall-association-status](https://docs.aws.amazon.com/cli/latest/reference/fms/get-third-party-firewall-association-status.html)|[Get-FMSThirdPartyFirewallAssociationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSThirdPartyFirewallAssociationStatus.html)|
 |[aws fms get-violation-details](https://docs.aws.amazon.com/cli/latest/reference/fms/get-violation-details.html)|[Get-FMSViolationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSViolationDetail.html)|
 |[aws fms list-apps-lists](https://docs.aws.amazon.com/cli/latest/reference/fms/list-apps-lists.html)|[Get-FMSAppsListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAppsListList.html)|
 |[aws fms list-compliance-status](https://docs.aws.amazon.com/cli/latest/reference/fms/list-compliance-status.html)|[Get-FMSComplianceStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSComplianceStatusList.html)|
+|[aws fms list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/fms/list-discovered-resources.html)|[Read-FMSDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-FMSDiscoveredResourceList.html)|
 |[aws fms list-member-accounts](https://docs.aws.amazon.com/cli/latest/reference/fms/list-member-accounts.html)|[Get-FMSMemberAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSMemberAccountList.html)|
 |[aws fms list-policies](https://docs.aws.amazon.com/cli/latest/reference/fms/list-policies.html)|[Get-FMSPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSPolicyList.html)|
 |[aws fms list-protocols-lists](https://docs.aws.amazon.com/cli/latest/reference/fms/list-protocols-lists.html)|[Get-FMSProtocolsListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSProtocolsListList.html)|
+|[aws fms list-resource-set-resources](https://docs.aws.amazon.com/cli/latest/reference/fms/list-resource-set-resources.html)|[Read-FMSResourceSetResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-FMSResourceSetResourceList.html)|
+|[aws fms list-resource-sets](https://docs.aws.amazon.com/cli/latest/reference/fms/list-resource-sets.html)|[Get-FMSResourceSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceSetList.html)|
 |[aws fms list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/list-tags-for-resource.html)|[Get-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceTag.html)|
 |[aws fms list-third-party-firewall-firewall-policies](https://docs.aws.amazon.com/cli/latest/reference/fms/list-third-party-firewall-firewall-policies.html)|[Get-FMSThirdPartyFirewallFirewallPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSThirdPartyFirewallFirewallPolicyList.html)|
 |[aws fms put-apps-list](https://docs.aws.amazon.com/cli/latest/reference/fms/put-apps-list.html)|[Write-FMSAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSAppList.html)|
 |[aws fms put-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/fms/put-notification-channel.html)|[Write-FMSNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSNotificationChannel.html)|
 |[aws fms put-policy](https://docs.aws.amazon.com/cli/latest/reference/fms/put-policy.html)|[Set-FMSPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-FMSPolicy.html)|
 |[aws fms put-protocols-list](https://docs.aws.amazon.com/cli/latest/reference/fms/put-protocols-list.html)|[Write-FMSProtocolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSProtocolList.html)|
+|[aws fms put-resource-set](https://docs.aws.amazon.com/cli/latest/reference/fms/put-resource-set.html)|[Write-FMSResourceSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSResourceSet.html)|
 |[aws fms tag-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/tag-resource.html)|[Add-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FMSResourceTag.html)|
 |[aws fms untag-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/untag-resource.html)|[Remove-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSResourceTag.html)|
 

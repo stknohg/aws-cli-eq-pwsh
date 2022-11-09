@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2022-10-22
+date: 2022-11-09
 description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 ---
 
@@ -58,7 +58,9 @@ description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 |[aws iotsitewise get-asset-property-value-history](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-asset-property-value-history.html)|[Get-IOTSWAssetPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyValueHistory.html)|
 |[aws iotsitewise get-interpolated-asset-property-values](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/get-interpolated-asset-property-values.html)|[Get-IOTSWInterpolatedAssetPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWInterpolatedAssetPropertyValue.html)|
 |[aws iotsitewise list-access-policies](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-access-policies.html)|[Get-IOTSWAccessPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAccessPolicyList.html)|
+|[aws iotsitewise list-asset-model-properties](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-model-properties.html)|[Get-IOTSWAssetModelPropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetModelPropertyList.html)|
 |[aws iotsitewise list-asset-models](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-models.html)|[Get-IOTSWAssetModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetModelList.html)|
+|[aws iotsitewise list-asset-properties](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-properties.html)|[Get-IOTSWAssetPropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetPropertyList.html)|
 |[aws iotsitewise list-asset-relationships](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-asset-relationships.html)|[Get-IOTSWAssetRelationshipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetRelationshipList.html)|
 |[aws iotsitewise list-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-assets.html)|[Get-IOTSWAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssetList.html)|
 |[aws iotsitewise list-associated-assets](https://docs.aws.amazon.com/cli/latest/reference/iotsitewise/list-associated-assets.html)|[Get-IOTSWAssociatedAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSWAssociatedAssetList.html)|

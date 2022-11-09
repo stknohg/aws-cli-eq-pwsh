@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2022-10-22
+date: 2022-11-09
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail create-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/create-trail.html)|[New-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CTTrail.html)|
 |[aws cloudtrail delete-event-data-store](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/delete-event-data-store.html)|[Remove-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTEventDataStore.html)|
 |[aws cloudtrail delete-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/delete-trail.html)|[Remove-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTTrail.html)|
+|[aws cloudtrail deregister-organization-delegated-admin](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/deregister-organization-delegated-admin.html)|[Unregister-CTOrganizationDelegatedAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CTOrganizationDelegatedAdmin.html)|
 |[aws cloudtrail describe-query](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/describe-query.html)|[Get-CTQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTQuery.html)|
 |[aws cloudtrail describe-trails](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/describe-trails.html)|[Get-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrail.html)|
 |[aws cloudtrail get-channel](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/get-channel.html)|[Get-CTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTChannel.html)|
@@ -40,6 +41,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail lookup-events](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/lookup-events.html)|[Find-CTEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CTEvent.html)|
 |[aws cloudtrail put-event-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/put-event-selectors.html)|[Write-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTEventSelector.html)|
 |[aws cloudtrail put-insight-selectors](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/put-insight-selectors.html)|[Write-CTInsightSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTInsightSelector.html)|
+|[aws cloudtrail register-organization-delegated-admin](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/register-organization-delegated-admin.html)|[Register-CTOrganizationDelegatedAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CTOrganizationDelegatedAdmin.html)|
 |[aws cloudtrail remove-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/remove-tags.html)|[Remove-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTResourceTag.html)|
 |[aws cloudtrail restore-event-data-store](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/restore-event-data-store.html)|[Restore-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-CTEventDataStore.html)|
 |[aws cloudtrail start-import](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-import.html)|[Start-CTImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTImport.html)|

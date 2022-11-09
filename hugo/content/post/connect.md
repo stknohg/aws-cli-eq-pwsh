@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-10-22
+date: 2022-11-09
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -80,6 +80,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect disassociate-queue-quick-connects](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-queue-quick-connects.html)|[Remove-CONNQueueQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQueueQuickConnect.html)|
 |[aws connect disassociate-routing-profile-queues](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-routing-profile-queues.html)|[Disconnect-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-CONNRoutingProfileQueue.html)|
 |[aws connect disassociate-security-key](https://docs.aws.amazon.com/cli/latest/reference/connect/disassociate-security-key.html)|[Remove-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNSecurityKey.html)|
+|[aws connect dismiss-user-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/dismiss-user-contact.html)|[Write-CONNUserContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CONNUserContact.html)|
 |[aws connect get-contact-attributes](https://docs.aws.amazon.com/cli/latest/reference/connect/get-contact-attributes.html)|[Get-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactAttribute.html)|
 |[aws connect get-current-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-current-metric-data.html)|[Get-CONNCurrentMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentMetricData.html)|
 |[aws connect get-current-user-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-current-user-data.html)|[Get-CONNCurrentUserData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentUserData.html)|

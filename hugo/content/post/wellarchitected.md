@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2022-10-22
+date: 2022-11-09
 description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list.
 ---
 
@@ -34,6 +34,8 @@ description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list
 |[aws wellarchitected get-workload](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-workload.html)|[Get-WATWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATWorkload.html)|
 |[aws wellarchitected import-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/import-lens.html)|[Import-WATLens](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WATLens.html)|
 |[aws wellarchitected list-answers](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-answers.html)|[Get-WATAnswerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswerList.html)|
+|[aws wellarchitected list-check-details](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-check-details.html)|[Get-WATCheckDetailList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATCheckDetailList.html)|
+|[aws wellarchitected list-check-summaries](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-check-summaries.html)|[Get-WATCheckSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATCheckSummaryList.html)|
 |[aws wellarchitected list-lens-review-improvements](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-review-improvements.html)|[Get-WATLensReviewImprovementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewImprovementList.html)|
 |[aws wellarchitected list-lens-reviews](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-reviews.html)|[Get-WATLensReviewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewList.html)|
 |[aws wellarchitected list-lens-shares](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/list-lens-shares.html)|[Get-WATLensShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensShareList.html)|

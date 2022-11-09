@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2022-10-22
+date: 2022-11-09
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -48,4 +48,5 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka update-connectivity](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-connectivity.html)|[Update-MSKConnectivity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConnectivity.html)|
 |[aws kafka update-monitoring](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-monitoring.html)|[Update-MSKMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKMonitoring.html)|
 |[aws kafka update-security](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-security.html)|[Update-MSKSecurity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKSecurity.html)|
+|[aws kafka update-storage](https://docs.aws.amazon.com/cli/latest/reference/kafka/update-storage.html)|[Update-MSKStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKStorage.html)|
 

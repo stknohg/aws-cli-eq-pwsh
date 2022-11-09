@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-10-22
+date: 2022-11-09
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.8.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.191 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.8.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.203 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -270,6 +270,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Redshift Serverless](https://aws.amazon.com/redshift/redshift-serverless/)|[redshift-serverless]({{%relref "post/redshift-serverless.md" %}})|RSS||
 |[Amazon Rekognition](https://aws.amazon.com/rekognition/)|[rekognition]({{%relref "post/rekognition.md" %}})|REK||
 |[AWS Resilience Hub](https://aws.amazon.com/resilience-hub/)|[resiliencehub]({{%relref "post/resiliencehub.md" %}})|RESH||
+|[AWS Resource Explorer](https://aws.amazon.com/resourceexplorer/)|[resource-explorer-2]({{%relref "post/resource-explorer-2.md" %}})|AREX||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
 |[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||

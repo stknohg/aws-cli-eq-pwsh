@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2022-10-22
+date: 2022-11-09
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -13,6 +13,9 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws lexv2-models batch-create-custom-vocabulary-item](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/batch-create-custom-vocabulary-item.html)|[New-LMBV2CustomVocabularyItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2CustomVocabularyItem.html)|
+|[aws lexv2-models batch-delete-custom-vocabulary-item](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/batch-delete-custom-vocabulary-item.html)|[Remove-LMBV2CustomVocabularyItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2CustomVocabularyItem.html)|
+|[aws lexv2-models batch-update-custom-vocabulary-item](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/batch-update-custom-vocabulary-item.html)|[Edit-LMBV2CustomVocabularyItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LMBV2CustomVocabularyItem.html)|
 |[aws lexv2-models build-bot-locale](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/build-bot-locale.html)|[Invoke-LMBV2BuildBotLocale](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMBV2BuildBotLocale.html)|
 |[aws lexv2-models create-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-bot.html)|[New-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2Bot.html)|
 |[aws lexv2-models create-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-bot-alias.html)|[New-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2BotAlias.html)|
@@ -58,6 +61,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models list-bots](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bots.html)|[Get-LMBV2BotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotList.html)|
 |[aws lexv2-models list-built-in-intents](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-built-in-intents.html)|[Get-LMBV2BuiltInIntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BuiltInIntentList.html)|
 |[aws lexv2-models list-built-in-slot-types](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-built-in-slot-types.html)|[Get-LMBV2BuiltInSlotTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BuiltInSlotTypeList.html)|
+|[aws lexv2-models list-custom-vocabulary-items](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-custom-vocabulary-items.html)|[Get-LMBV2CustomVocabularyItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2CustomVocabularyItemList.html)|
 |[aws lexv2-models list-exports](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-exports.html)|[Get-LMBV2ExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ExportList.html)|
 |[aws lexv2-models list-imports](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-imports.html)|[Get-LMBV2ImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ImportList.html)|
 |[aws lexv2-models list-intents](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-intents.html)|[Get-LMBV2IntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2IntentList.html)|

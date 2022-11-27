@@ -143,6 +143,7 @@ $g_AWSServices = @{
     'chime-sdk-media-pipelines'          = [PSCustomObject]@{ Prefix = 'CHMMP'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Media Pipeline API' };
     'chime-sdk-meetings'                 = [PSCustomObject]@{ Prefix = 'CHMTG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
     'chime-sdk-messaging'                = [PSCustomObject]@{ Prefix = 'CHMMG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
+    'chime-sdk-voice'                    = [PSCustomObject]@{ Prefix = 'CHMVO'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime Voice Connector' };
     'chime'                              = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                             = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
     'cloudcontrol'                       = [PSCustomObject]@{ Prefix = 'CCA'; Name = 'AWS Cloud Control API'; Url = 'https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/'; Note = '' };
@@ -251,6 +252,7 @@ $g_AWSServices = @{
     'iot'                                = [PSCustomObject]@{ Prefix = 'IOT'; Name = 'AWS IoT'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-data'                           = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT-Data'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-jobs-data'                      = [PSCustomObject]@{ Prefix = 'IOTJ'; Name = 'AWS IoT Jobs'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
+    'iot-roborunner'                     = [PSCustomObject]@{ Prefix = 'IOTRR'; Name = 'AWS IoT RoboRunner'; Url = 'https://aws.amazon.com/roborunner/'; Note = '' };
     'iot1click-devices'                  = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT 1-Click Devices'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot1click-projects'                 = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT 1-Click Project'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iotanalytics'                       = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT Analytics'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
@@ -376,6 +378,7 @@ $g_AWSServices = @{
     'sagemaker-featurestore-runtime'     = [PSCustomObject]@{ Prefix = 'SMFS'; Name = 'Amazon SageMaker Feature Store'; Url = 'https://aws.amazon.com/sagemaker/feature-store/'; Note = '' };
     'sagemaker-runtime'                  = [PSCustomObject]@{ Prefix = 'SMR'; Name = 'Amazon SageMaker'; Url = 'https://aws.amazon.com/sagemaker/'; Note = '' };
     'savingsplans'                       = [PSCustomObject]@{ Prefix = 'SP'; Name = 'AWS Savings Plans'; Url = 'https://aws.amazon.com/savingsplans/'; Note = '' };
+    'scheduler'                          = [PSCustomObject]@{ Prefix = 'SCH'; Name = 'Amazon EventBridge Scheduler'; Url = 'https://aws.amazon.com/eventbridge/'; Note = '' };
     'schemas'                            = [PSCustomObject]@{ Prefix = 'SCHM'; Name = 'AWS EventBridge Schemas'; Url = 'https://aws.amazon.com/eventbridge/'; Note = '' };
     'sdb'                                = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon SimpleDB'; Url = 'https://aws.amazon.com/simpledb/'; Note = '' };
     'secretsmanager'                     = [PSCustomObject]@{ Prefix = 'SEC'; Name = 'AWS Secrets Manager'; Url = 'https://aws.amazon.com/secrets-manager/'; Note = '' };
@@ -397,6 +400,7 @@ $g_AWSServices = @{
     'ssm'                                = [PSCustomObject]@{ Prefix = 'SSM'; Name = 'AWS Systems Manager'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
     'ssm-contacts'                       = [PSCustomObject]@{ Prefix = 'SMC'; Name = 'AWS Systems Manager Contacts'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
     'ssm-incidents'                      = [PSCustomObject]@{ Prefix = 'SSMI'; Name = 'AWS Systems Manager Incident Manager'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
+    'ssm-sap'                            = [PSCustomObject]@{ Prefix = 'SMSAP'; Name = 'AWS Systems Manager for SAP'; Url = 'https://aws.amazon.com/systems-manager/'; Note = '' };
     'sso-admin'                          = [PSCustomObject]@{ Prefix = 'SSOADMN'; Name = 'AWS Single Sign-On'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
     'sso-oidc'                           = [PSCustomObject]@{ Prefix = 'SSOOIDC'; Name = 'AWS Single Sign-On OIDC'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
     'sso'                                = [PSCustomObject]@{ Prefix = 'SSO'; Name = 'AWS Single Sign-On'; Url = 'https://aws.amazon.com/single-sign-on/'; Note = '' };
@@ -468,6 +472,7 @@ $g_CmdletReferenceLinks = @{
     'chime-sdk-media-pipelines'          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMediaPipelines_cmdlets.html'
     'chime-sdk-meetings'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMeetings_cmdlets.html';
     'chime-sdk-messaging'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMessaging_cmdlets.html';
+    'chime-sdk-voice'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKVoice_cmdlets.html'
     'chime'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
     'cloud9'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud9_cmdlets.html';
     'cloudcontrol'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CloudControlApi_cmdlets.html';
@@ -575,6 +580,7 @@ $g_CmdletReferenceLinks = @{
     'iot'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html';
     'iot-data'                           = '';
     'iot-jobs-data'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Jobs_Data_Plane_cmdlets.html';
+    'iot-roborunner'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTRoboRunner_cmdlets.html'
     'iot1click-devices'                  = '';
     'iot1click-projects'                 = '';
     'iotanalytics'                       = '';
@@ -700,6 +706,7 @@ $g_CmdletReferenceLinks = @{
     'sagemaker-featurestore-runtime'     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerFeatureStoreRuntime_cmdlets.html';
     'sagemaker-runtime'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html';
     'savingsplans'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html';
+    'scheduler'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Scheduler_cmdlets.html'
     'schemas'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Schemas_cmdlets.html';
     'sdb'                                = '';
     'secretsmanager'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Secrets_Manager_cmdlets.html';
@@ -720,6 +727,7 @@ $g_CmdletReferenceLinks = @{
     'ssm'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Systems_Manager_cmdlets.html';
     'ssm-contacts'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSMContacts_cmdlets.html';
     'ssm-incidents'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSMIncidents_cmdlets.html';
+    'ssm-sap'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SsmSap_cmdlets.html'
     'sso-admin'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSOAdmin_cmdlets.html';
     'sso-oidc'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSOOIDC_cmdlets.html';
     'sso'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SSO_cmdlets.html';

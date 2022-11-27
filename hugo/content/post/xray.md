@@ -1,6 +1,6 @@
 ---
 title: xray
-date: 2022-11-09
+date: 2022-11-27
 description: aws xray (AWS X-Ray) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws xray (AWS X-Ray) command/cmdlet list.
 |[aws xray create-group](https://docs.aws.amazon.com/cli/latest/reference/xray/create-group.html)|[New-XRGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-XRGroup.html)|
 |[aws xray create-sampling-rule](https://docs.aws.amazon.com/cli/latest/reference/xray/create-sampling-rule.html)|[New-XRSamplingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-XRSamplingRule.html)|
 |[aws xray delete-group](https://docs.aws.amazon.com/cli/latest/reference/xray/delete-group.html)|[Remove-XRGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-XRGroup.html)|
+|[aws xray delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/xray/delete-resource-policy.html)|[Remove-XRResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-XRResourcePolicy.html)|
 |[aws xray delete-sampling-rule](https://docs.aws.amazon.com/cli/latest/reference/xray/delete-sampling-rule.html)|[Remove-XRSamplingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-XRSamplingRule.html)|
 |[aws xray get-encryption-config](https://docs.aws.amazon.com/cli/latest/reference/xray/get-encryption-config.html)|[Get-XREncryptionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XREncryptionConfig.html)|
 |[aws xray get-group](https://docs.aws.amazon.com/cli/latest/reference/xray/get-group.html)|[Get-XRGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRGroup.html)|
@@ -32,8 +33,10 @@ description: aws xray (AWS X-Ray) command/cmdlet list.
 |[aws xray get-time-series-service-statistics](https://docs.aws.amazon.com/cli/latest/reference/xray/get-time-series-service-statistics.html)|[Get-XRTimeSeriesServiceStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTimeSeriesServiceStatistic.html)|
 |[aws xray get-trace-graph](https://docs.aws.amazon.com/cli/latest/reference/xray/get-trace-graph.html)|[Get-XRTraceGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTraceGraph.html)|
 |[aws xray get-trace-summaries](https://docs.aws.amazon.com/cli/latest/reference/xray/get-trace-summaries.html)|[Get-XRTraceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRTraceSummary.html)|
+|[aws xray list-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/xray/list-resource-policies.html)|[Get-XRResourcePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRResourcePolicyList.html)|
 |[aws xray list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/xray/list-tags-for-resource.html)|[Get-XRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-XRResourceTag.html)|
 |[aws xray put-encryption-config](https://docs.aws.amazon.com/cli/latest/reference/xray/put-encryption-config.html)|[Write-XREncryptionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XREncryptionConfig.html)|
+|[aws xray put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/xray/put-resource-policy.html)|[Write-XRResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XRResourcePolicy.html)|
 |[aws xray put-telemetry-records](https://docs.aws.amazon.com/cli/latest/reference/xray/put-telemetry-records.html)|[Write-XRTelemetryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XRTelemetryRecord.html)|
 |[aws xray put-trace-segments](https://docs.aws.amazon.com/cli/latest/reference/xray/put-trace-segments.html)|[Write-XRTraceSegment](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-XRTraceSegment.html)|
 |[aws xray tag-resource](https://docs.aws.amazon.com/cli/latest/reference/xray/tag-resource.html)|[Add-XRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-XRResourceTag.html)|

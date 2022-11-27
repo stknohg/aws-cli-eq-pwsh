@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2022-11-09
+date: 2022-11-27
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces create-connect-client-add-in](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-connect-client-add-in.html)|[New-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSConnectClientAddIn.html)|
 |[aws workspaces create-connection-alias](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-connection-alias.html)|[New-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSConnectionAlias.html)|
 |[aws workspaces create-ip-group](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-ip-group.html)|[New-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSIpGroup.html)|
+|[aws workspaces create-standby-workspaces](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-standby-workspaces.html)|[New-WKSStandbyWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSStandbyWorkspace.html)|
 |[aws workspaces create-tags](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-tags.html)|[New-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSTag.html)|
 |[aws workspaces create-updated-workspace-image](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-updated-workspace-image.html)|[New-WKSUpdatedWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSUpdatedWorkspaceImage.html)|
 |[aws workspaces create-workspace-bundle](https://docs.aws.amazon.com/cli/latest/reference/workspaces/create-workspace-bundle.html)|[New-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceBundle.html)|
@@ -56,6 +57,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces list-available-management-cidr-ranges](https://docs.aws.amazon.com/cli/latest/reference/workspaces/list-available-management-cidr-ranges.html)|[Get-WKSAvailableManagementCidrRangeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAvailableManagementCidrRangeList.html)|
 |[aws workspaces migrate-workspace](https://docs.aws.amazon.com/cli/latest/reference/workspaces/migrate-workspace.html)|[Start-WKSWorkspaceMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WKSWorkspaceMigration.html)|
 |[aws workspaces modify-account](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-account.html)|[Edit-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSAccount.html)|
+|[aws workspaces modify-certificate-based-auth-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-certificate-based-auth-properties.html)|[Edit-WKSCertificateBasedAuthProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSCertificateBasedAuthProperty.html)|
 |[aws workspaces modify-client-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-client-properties.html)|[Edit-WKSClientProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSClientProperty.html)|
 |[aws workspaces modify-saml-properties](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-saml-properties.html)|[Edit-WKSSamlProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSamlProperty.html)|
 |[aws workspaces modify-selfservice-permissions](https://docs.aws.amazon.com/cli/latest/reference/workspaces/modify-selfservice-permissions.html)|[Edit-WKSSelfservicePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSelfservicePermission.html)|

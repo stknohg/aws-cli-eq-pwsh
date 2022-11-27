@@ -1,6 +1,6 @@
 ---
 title: auditmanager
-date: 2022-11-09
+date: 2022-11-27
 description: aws auditmanager (AWS Audit Manager) command/cmdlet list.
 ---
 

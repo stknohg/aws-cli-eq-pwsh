@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2022-11-09
+date: 2022-11-27
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -179,6 +179,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-principal-things](https://docs.aws.amazon.com/cli/latest/reference/iot/list-principal-things.html)|[Get-IOTPrincipalThingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalThingList.html)|
 |[aws iot list-provisioning-template-versions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-provisioning-template-versions.html)|[Get-IOTProvisioningTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateVersionList.html)|
 |[aws iot list-provisioning-templates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-provisioning-templates.html)|[Get-IOTProvisioningTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateList.html)|
+|[aws iot list-related-resources-for-audit-finding](https://docs.aws.amazon.com/cli/latest/reference/iot/list-related-resources-for-audit-finding.html)|[Get-IOTRelatedResourcesForAuditFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRelatedResourcesForAuditFindingList.html)|
 |[aws iot list-role-aliases](https://docs.aws.amazon.com/cli/latest/reference/iot/list-role-aliases.html)|[Get-IOTRoleAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRoleAliasList.html)|
 |[aws iot list-scheduled-audits](https://docs.aws.amazon.com/cli/latest/reference/iot/list-scheduled-audits.html)|[Get-IOTScheduledAuditList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTScheduledAuditList.html)|
 |[aws iot list-security-profiles](https://docs.aws.amazon.com/cli/latest/reference/iot/list-security-profiles.html)|[Get-IOTSecurityProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSecurityProfileList.html)|

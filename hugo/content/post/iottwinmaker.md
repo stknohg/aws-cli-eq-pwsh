@@ -1,6 +1,6 @@
 ---
 title: iottwinmaker
-date: 2022-11-09
+date: 2022-11-27
 description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 ---
 
@@ -22,8 +22,10 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |[aws iottwinmaker delete-entity](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-entity.html)|[Remove-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMEntity.html)|
 |[aws iottwinmaker delete-scene](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-scene.html)|[Remove-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMScene.html)|
 |[aws iottwinmaker delete-workspace](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-workspace.html)|[Remove-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMWorkspace.html)|
+|[aws iottwinmaker execute-query](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/execute-query.html)|[Invoke-IOTTMQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-IOTTMQuery.html)|
 |[aws iottwinmaker get-component-type](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-component-type.html)|[Get-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMComponentType.html)|
 |[aws iottwinmaker get-entity](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-entity.html)|[Get-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMEntity.html)|
+|[aws iottwinmaker get-pricing-plan](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-pricing-plan.html)|[Get-IOTTMPricingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPricingPlan.html)|
 |[aws iottwinmaker get-property-value](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-property-value.html)|[Get-IOTTMPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyValue.html)|
 |[aws iottwinmaker get-property-value-history](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-property-value-history.html)|[Get-IOTTMPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyValueHistory.html)|
 |[aws iottwinmaker get-scene](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-scene.html)|[Get-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMScene.html)|
@@ -37,6 +39,7 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |[aws iottwinmaker untag-resource](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/untag-resource.html)|[Remove-IOTTMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMResourceTag.html)|
 |[aws iottwinmaker update-component-type](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/update-component-type.html)|[Update-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTTMComponentType.html)|
 |[aws iottwinmaker update-entity](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/update-entity.html)|[Update-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTTMEntity.html)|
+|[aws iottwinmaker update-pricing-plan](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/update-pricing-plan.html)|[Update-IOTTMPricingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTTMPricingPlan.html)|
 |[aws iottwinmaker update-scene](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/update-scene.html)|[Update-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTTMScene.html)|
 |[aws iottwinmaker update-workspace](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/update-workspace.html)|[Update-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTTMWorkspace.html)|
 

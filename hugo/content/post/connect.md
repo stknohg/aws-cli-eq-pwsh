@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-11-09
+date: 2022-11-27
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -119,6 +119,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-use-cases](https://docs.aws.amazon.com/cli/latest/reference/connect/list-use-cases.html)|[Get-CONNUseCaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUseCaseList.html)|
 |[aws connect list-user-hierarchy-groups](https://docs.aws.amazon.com/cli/latest/reference/connect/list-user-hierarchy-groups.html)|[Get-CONNUserHierarchyGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroupList.html)|
 |[aws connect list-users](https://docs.aws.amazon.com/cli/latest/reference/connect/list-users.html)|[Get-CONNUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserList.html)|
+|[aws connect monitor-contact](https://docs.aws.amazon.com/cli/latest/reference/connect/monitor-contact.html)|[Start-CONNContactMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactMonitoring.html)|
 |[aws connect put-user-status](https://docs.aws.amazon.com/cli/latest/reference/connect/put-user-status.html)|[Write-CONNUserStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CONNUserStatus.html)|
 |[aws connect release-phone-number](https://docs.aws.amazon.com/cli/latest/reference/connect/release-phone-number.html)|[Remove-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNPhoneNumber.html)|
 |[aws connect replicate-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/replicate-instance.html)|[Copy-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-CONNInstance.html)|

@@ -1,6 +1,6 @@
 ---
 title: appflow
-date: 2022-11-09
+date: 2022-11-27
 description: aws appflow (Amazon AppFlow) command/cmdlet list.
 ---
 
@@ -34,5 +34,6 @@ description: aws appflow (Amazon AppFlow) command/cmdlet list.
 |[aws appflow unregister-connector](https://docs.aws.amazon.com/cli/latest/reference/appflow/unregister-connector.html)|[Unregister-AFConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-AFConnector.html)|
 |[aws appflow untag-resource](https://docs.aws.amazon.com/cli/latest/reference/appflow/untag-resource.html)|[Remove-AFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AFResourceTag.html)|
 |[aws appflow update-connector-profile](https://docs.aws.amazon.com/cli/latest/reference/appflow/update-connector-profile.html)|[Update-AFConnectorProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AFConnectorProfile.html)|
+|[aws appflow update-connector-registration](https://docs.aws.amazon.com/cli/latest/reference/appflow/update-connector-registration.html)|[Update-AFConnectorRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AFConnectorRegistration.html)|
 |[aws appflow update-flow](https://docs.aws.amazon.com/cli/latest/reference/appflow/update-flow.html)|[Update-AFFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AFFlow.html)|
 

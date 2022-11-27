@@ -1,6 +1,6 @@
 ---
 title: rbin
-date: 2022-11-09
+date: 2022-11-27
 description: aws rbin (Recycle Bin) command/cmdlet list.
 ---
 
@@ -18,7 +18,9 @@ description: aws rbin (Recycle Bin) command/cmdlet list.
 |[aws rbin get-rule](https://docs.aws.amazon.com/cli/latest/reference/rbin/get-rule.html)|[Get-RBINRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RBINRule.html)|
 |[aws rbin list-rules](https://docs.aws.amazon.com/cli/latest/reference/rbin/list-rules.html)|[Get-RBINRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RBINRuleList.html)|
 |[aws rbin list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rbin/list-tags-for-resource.html)|[Get-RBINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RBINResourceTag.html)|
+|[aws rbin lock-rule](https://docs.aws.amazon.com/cli/latest/reference/rbin/lock-rule.html)|[Lock-RBINRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Lock-RBINRule.html)|
 |[aws rbin tag-resource](https://docs.aws.amazon.com/cli/latest/reference/rbin/tag-resource.html)|[Add-RBINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RBINResourceTag.html)|
+|[aws rbin unlock-rule](https://docs.aws.amazon.com/cli/latest/reference/rbin/unlock-rule.html)|[Unlock-RBINRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Unlock-RBINRule.html)|
 |[aws rbin untag-resource](https://docs.aws.amazon.com/cli/latest/reference/rbin/untag-resource.html)|[Remove-RBINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RBINResourceTag.html)|
 |[aws rbin update-rule](https://docs.aws.amazon.com/cli/latest/reference/rbin/update-rule.html)|[Update-RBINRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RBINRule.html)|
 

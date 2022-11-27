@@ -1,6 +1,6 @@
 ---
 title: grafana
-date: 2022-11-09
+date: 2022-11-27
 description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 |[aws grafana delete-workspace-api-key](https://docs.aws.amazon.com/cli/latest/reference/grafana/delete-workspace-api-key.html)|[Remove-MGRFWorkspaceApiKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFWorkspaceApiKey.html)|
 |[aws grafana describe-workspace](https://docs.aws.amazon.com/cli/latest/reference/grafana/describe-workspace.html)|[Get-MGRFWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFWorkspace.html)|
 |[aws grafana describe-workspace-authentication](https://docs.aws.amazon.com/cli/latest/reference/grafana/describe-workspace-authentication.html)|[Get-MGRFWorkspaceAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFWorkspaceAuthentication.html)|
+|[aws grafana describe-workspace-configuration](https://docs.aws.amazon.com/cli/latest/reference/grafana/describe-workspace-configuration.html)|[Get-MGRFWorkspaceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFWorkspaceConfiguration.html)|
 |[aws grafana disassociate-license](https://docs.aws.amazon.com/cli/latest/reference/grafana/disassociate-license.html)|[Remove-MGRFLicense](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFLicense.html)|
 |[aws grafana list-permissions](https://docs.aws.amazon.com/cli/latest/reference/grafana/list-permissions.html)|[Get-MGRFPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFPermissionList.html)|
 |[aws grafana list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/grafana/list-tags-for-resource.html)|[Get-MGRFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFResourceTag.html)|
@@ -29,4 +30,5 @@ description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 |[aws grafana update-permissions](https://docs.aws.amazon.com/cli/latest/reference/grafana/update-permissions.html)|[Update-MGRFPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGRFPermission.html)|
 |[aws grafana update-workspace](https://docs.aws.amazon.com/cli/latest/reference/grafana/update-workspace.html)|[Update-MGRFWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGRFWorkspace.html)|
 |[aws grafana update-workspace-authentication](https://docs.aws.amazon.com/cli/latest/reference/grafana/update-workspace-authentication.html)|[Update-MGRFWorkspaceAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGRFWorkspaceAuthentication.html)|
+|[aws grafana update-workspace-configuration](https://docs.aws.amazon.com/cli/latest/reference/grafana/update-workspace-configuration.html)|[Update-MGRFWorkspaceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGRFWorkspaceConfiguration.html)|
 

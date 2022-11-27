@@ -1,6 +1,6 @@
 ---
 title: keyspaces
-date: 2022-11-09
+date: 2022-11-27
 description: aws keyspaces (Amazon Keyspaces) command/cmdlet list.
 ---
 

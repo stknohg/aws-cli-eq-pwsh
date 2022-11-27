@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2022-11-09
+date: 2022-11-27
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs describe-tasks](https://docs.aws.amazon.com/cli/latest/reference/ecs/describe-tasks.html)|[Get-ECSTaskDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDetail.html)|
 |[aws ecs discover-poll-endpoint](https://docs.aws.amazon.com/cli/latest/reference/ecs/discover-poll-endpoint.html)||
 |[aws ecs execute-command](https://docs.aws.amazon.com/cli/latest/reference/ecs/execute-command.html)|[Invoke-ECSCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-ECSCommand.html)|
+|[aws ecs get-task-protection](https://docs.aws.amazon.com/cli/latest/reference/ecs/get-task-protection.html)|[Get-ECSTaskProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskProtection.html)|
 |[aws ecs list-account-settings](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-account-settings.html)|[Get-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSAccountSetting.html)|
 |[aws ecs list-attributes](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-attributes.html)|[Get-ECSAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSAttributeList.html)|
 |[aws ecs list-clusters](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-clusters.html)|[Get-ECSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterList.html)|
@@ -65,5 +66,6 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs update-container-instances-state](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|
 |[aws ecs update-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service.html)|[Update-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSService.html)|
 |[aws ecs update-service-primary-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-service-primary-task-set.html)|[Update-ECSServicePrimaryTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSServicePrimaryTaskSet.html)|
+|[aws ecs update-task-protection](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-task-protection.html)|[Update-ECSTaskProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSTaskProtection.html)|
 |[aws ecs update-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/update-task-set.html)|[Update-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSTaskSet.html)|
 

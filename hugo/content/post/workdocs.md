@@ -1,6 +1,6 @@
 ---
 title: workdocs
-date: 2022-11-09
+date: 2022-11-27
 description: aws workdocs (Amazon WorkDocs) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws workdocs (Amazon WorkDocs) command/cmdlet list.
 |[aws workdocs delete-comment](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-comment.html)|[Remove-WDComment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDComment.html)|
 |[aws workdocs delete-custom-metadata](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-custom-metadata.html)|[Remove-WDCustomMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDCustomMetadata.html)|
 |[aws workdocs delete-document](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-document.html)|[Remove-WDDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDDocument.html)|
+|[aws workdocs delete-document-version](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-document-version.html)|[Remove-WDDocumentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDDocumentVersion.html)|
 |[aws workdocs delete-folder](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-folder.html)|[Remove-WDFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDFolder.html)|
 |[aws workdocs delete-folder-contents](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-folder-contents.html)|[Remove-WDFolderContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDFolderContent.html)|
 |[aws workdocs delete-labels](https://docs.aws.amazon.com/cli/latest/reference/workdocs/delete-labels.html)|[Remove-WDLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDLabel.html)|
@@ -50,6 +51,7 @@ description: aws workdocs (Amazon WorkDocs) command/cmdlet list.
 |[aws workdocs initiate-document-version-upload](https://docs.aws.amazon.com/cli/latest/reference/workdocs/initiate-document-version-upload.html)|[Start-WDDocumentVersionUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WDDocumentVersionUpload.html)|
 |[aws workdocs remove-all-resource-permissions](https://docs.aws.amazon.com/cli/latest/reference/workdocs/remove-all-resource-permissions.html)||
 |[aws workdocs remove-resource-permission](https://docs.aws.amazon.com/cli/latest/reference/workdocs/remove-resource-permission.html)|[Remove-WDResourcePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDResourcePermission.html)|
+|[aws workdocs restore-document-versions](https://docs.aws.amazon.com/cli/latest/reference/workdocs/restore-document-versions.html)|[Restore-WDDocumentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-WDDocumentVersion.html)|
 |[aws workdocs update-document](https://docs.aws.amazon.com/cli/latest/reference/workdocs/update-document.html)|[Update-WDDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WDDocument.html)|
 |[aws workdocs update-document-version](https://docs.aws.amazon.com/cli/latest/reference/workdocs/update-document-version.html)|[Update-WDDocumentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WDDocumentVersion.html)|
 |[aws workdocs update-folder](https://docs.aws.amazon.com/cli/latest/reference/workdocs/update-folder.html)|[Update-WDFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WDFolder.html)|

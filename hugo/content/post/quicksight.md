@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2022-11-09
+date: 2022-11-27
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight create-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-theme.html)|[New-QSTheme](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTheme.html)|
 |[aws quicksight create-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-theme-alias.html)|[New-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSThemeAlias.html)|
 |[aws quicksight delete-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-account-customization.html)|[Remove-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountCustomization.html)|
+|[aws quicksight delete-account-subscription](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-account-subscription.html)|[Remove-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountSubscription.html)|
 |[aws quicksight delete-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-analysis.html)|[Remove-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAnalysis.html)|
 |[aws quicksight delete-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-dashboard.html)|[Remove-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSDashboard.html)|
 |[aws quicksight delete-data-set](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-data-set.html)|[Remove-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSDataSet.html)|
@@ -105,6 +106,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight restore-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/restore-analysis.html)|[Restore-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-QSAnalysis.html)|
 |[aws quicksight search-analyses](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-analyses.html)|[Search-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSAnalysis.html)|
 |[aws quicksight search-dashboards](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-dashboards.html)|[Search-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDashboard.html)|
+|[aws quicksight search-data-sets](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-data-sets.html)|[Search-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDataSet.html)|
+|[aws quicksight search-data-sources](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-data-sources.html)|[Search-QSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDataSource.html)|
 |[aws quicksight search-folders](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-folders.html)|[Search-QSFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSFolder.html)|
 |[aws quicksight search-groups](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-groups.html)|[Find-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-QSGroup.html)|
 |[aws quicksight tag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|

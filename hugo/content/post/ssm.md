@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2022-11-09
+date: 2022-11-27
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm delete-parameters](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-parameters.html)|[Remove-SSMParameterCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMParameterCollection.html)|
 |[aws ssm delete-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-patch-baseline.html)|[Remove-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMPatchBaseline.html)|
 |[aws ssm delete-resource-data-sync](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-resource-data-sync.html)|[Remove-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMResourceDataSync.html)|
+|[aws ssm delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/ssm/delete-resource-policy.html)|[Remove-SSMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMResourcePolicy.html)|
 |[aws ssm deregister-managed-instance](https://docs.aws.amazon.com/cli/latest/reference/ssm/deregister-managed-instance.html)|[Unregister-SSMManagedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMManagedInstance.html)|
 |[aws ssm deregister-patch-baseline-for-patch-group](https://docs.aws.amazon.com/cli/latest/reference/ssm/deregister-patch-baseline-for-patch-group.html)|[Unregister-SSMPatchBaselineForPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMPatchBaselineForPatchGroup.html)|
 |[aws ssm deregister-target-from-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/ssm/deregister-target-from-maintenance-window.html)|[Unregister-SSMTargetFromMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMTargetFromMaintenanceWindow.html)|
@@ -96,6 +97,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm get-parameters-by-path](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-parameters-by-path.html)|[Get-SSMParametersByPath](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMParametersByPath.html)|
 |[aws ssm get-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-patch-baseline.html)|[Get-SSMPatchBaselineDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchBaselineDetail.html)|
 |[aws ssm get-patch-baseline-for-patch-group](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-patch-baseline-for-patch-group.html)|[Get-SSMPatchBaselineForPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchBaselineForPatchGroup.html)|
+|[aws ssm get-resource-policies](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-resource-policies.html)|[Get-SSMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMResourcePolicy.html)|
 |[aws ssm get-service-setting](https://docs.aws.amazon.com/cli/latest/reference/ssm/get-service-setting.html)|[Get-SSMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMServiceSetting.html)|
 |[aws ssm label-parameter-version](https://docs.aws.amazon.com/cli/latest/reference/ssm/label-parameter-version.html)|[Set-SSMParameterVersionLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SSMParameterVersionLabel.html)|
 |[aws ssm list-association-versions](https://docs.aws.amazon.com/cli/latest/reference/ssm/list-association-versions.html)|[Get-SSMAssociationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAssociationVersionList.html)|
@@ -118,6 +120,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm put-compliance-items](https://docs.aws.amazon.com/cli/latest/reference/ssm/put-compliance-items.html)|[Write-SSMComplianceItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMComplianceItem.html)|
 |[aws ssm put-inventory](https://docs.aws.amazon.com/cli/latest/reference/ssm/put-inventory.html)|[Write-SSMInventory](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMInventory.html)|
 |[aws ssm put-parameter](https://docs.aws.amazon.com/cli/latest/reference/ssm/put-parameter.html)|[Write-SSMParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMParameter.html)|
+|[aws ssm put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/ssm/put-resource-policy.html)|[Write-SSMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMResourcePolicy.html)|
 |[aws ssm register-default-patch-baseline](https://docs.aws.amazon.com/cli/latest/reference/ssm/register-default-patch-baseline.html)|[Register-SSMDefaultPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMDefaultPatchBaseline.html)|
 |[aws ssm register-patch-baseline-for-patch-group](https://docs.aws.amazon.com/cli/latest/reference/ssm/register-patch-baseline-for-patch-group.html)|[Register-SSMPatchBaselineForPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMPatchBaselineForPatchGroup.html)|
 |[aws ssm register-target-with-maintenance-window](https://docs.aws.amazon.com/cli/latest/reference/ssm/register-target-with-maintenance-window.html)|[Register-SSMTargetWithMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMTargetWithMaintenanceWindow.html)|

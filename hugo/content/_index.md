@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-11-09
+date: 2022-11-27
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.8.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.203 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.214 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -60,6 +60,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-media-pipelines]({{%relref "post/chime-sdk-media-pipelines.md" %}})|CHMMP|Amazon Chime SDK Media Pipeline API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-meetings]({{%relref "post/chime-sdk-meetings.md" %}})|CHMTG|Amazon Chime SDK Meeting API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})|CHMMG|Amazon Chime SDK Messaging API|
+|[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-voice]({{%relref "post/chime-sdk-voice.md" %}})|CHMVO|Amazon Chime Voice Connector|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[AWS Cloud Control API](https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
@@ -167,6 +168,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
+|[AWS IoT RoboRunner](https://aws.amazon.com/roborunner/)|[iot-roborunner]({{%relref "post/iot-roborunner.md" %}})|IOTRR||
 |[AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)|[iot1click-devices]({{%relref "post/iot1click-devices.md" %}})|||
 |[AWS IoT 1-Click Project](https://aws.amazon.com/iot/)|[iot1click-projects]({{%relref "post/iot1click-projects.md" %}})|||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
@@ -292,6 +294,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)|[sagemaker-featurestore-runtime]({{%relref "post/sagemaker-featurestore-runtime.md" %}})|SMFS||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
+|[Amazon EventBridge Scheduler](https://aws.amazon.com/eventbridge/)|[scheduler]({{%relref "post/scheduler.md" %}})|SCH||
 |[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|SCHM||
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[sdb]({{%relref "post/sdb.md" %}})|||
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
@@ -313,6 +316,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||
 |[AWS Systems Manager Contacts](https://aws.amazon.com/systems-manager/)|[ssm-contacts]({{%relref "post/ssm-contacts.md" %}})|SMC||
 |[AWS Systems Manager Incident Manager](https://aws.amazon.com/systems-manager/)|[ssm-incidents]({{%relref "post/ssm-incidents.md" %}})|SSMI||
+|[AWS Systems Manager for SAP](https://aws.amazon.com/systems-manager/)|[ssm-sap]({{%relref "post/ssm-sap.md" %}})|SMSAP||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso]({{%relref "post/sso.md" %}})|SSO||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso-admin]({{%relref "post/sso-admin.md" %}})|SSOADMN||
 |[AWS Single Sign-On OIDC](https://aws.amazon.com/single-sign-on/)|[sso-oidc]({{%relref "post/sso-oidc.md" %}})|SSOOIDC||

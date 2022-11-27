@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2022-11-09
+date: 2022-11-27
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 

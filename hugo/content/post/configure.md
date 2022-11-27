@@ -1,6 +1,6 @@
 ---
 title: configure
-date: 2022-11-09
+date: 2022-11-27
 description: aws configure (-) command/cmdlet list.
 ---
 
@@ -14,11 +14,13 @@ description: aws configure (-) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws configure add-model](https://docs.aws.amazon.com/cli/latest/reference/configure/add-model.html)||
+|[aws configure export-credentials](https://docs.aws.amazon.com/cli/latest/reference/configure/export-credentials.html)||
 |[aws configure get](https://docs.aws.amazon.com/cli/latest/reference/configure/get.html)||
 |[aws configure import](https://docs.aws.amazon.com/cli/latest/reference/configure/import.html)||
 |[aws configure list](https://docs.aws.amazon.com/cli/latest/reference/configure/list.html)||
 |[aws configure list-profiles](https://docs.aws.amazon.com/cli/latest/reference/configure/list-profiles.html)||
 |[aws configure set](https://docs.aws.amazon.com/cli/latest/reference/configure/set.html)||
 |[aws configure sso](https://docs.aws.amazon.com/cli/latest/reference/configure/sso.html)||
+|[aws configure sso-session](https://docs.aws.amazon.com/cli/latest/reference/configure/sso-session.html)||
 |[aws configure wizard](https://docs.aws.amazon.com/cli/latest/reference/configure/wizard.html)||
 

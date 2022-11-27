@@ -1,6 +1,6 @@
 ---
 title: license-manager
-date: 2022-11-09
+date: 2022-11-27
 description: aws license-manager (AWS License Manager) command/cmdlet list.
 ---
 
@@ -49,7 +49,9 @@ description: aws license-manager (AWS License Manager) command/cmdlet list.
 |[aws license-manager list-license-versions](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-license-versions.html)|[Get-LICMLicenseVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseVersionList.html)|
 |[aws license-manager list-licenses](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-licenses.html)|[Get-LICMLicenseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMLicenseList.html)|
 |[aws license-manager list-received-grants](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-received-grants.html)|[Get-LICMReceivedGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMReceivedGrantList.html)|
+|[aws license-manager list-received-grants-for-organization](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-received-grants-for-organization.html)|[Get-LICMReceivedGrantsForOrganizationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMReceivedGrantsForOrganizationList.html)|
 |[aws license-manager list-received-licenses](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-received-licenses.html)|[Get-LICMReceivedLicenseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMReceivedLicenseList.html)|
+|[aws license-manager list-received-licenses-for-organization](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-received-licenses-for-organization.html)|[Get-LICMReceivedLicensesForOrganizationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMReceivedLicensesForOrganizationList.html)|
 |[aws license-manager list-resource-inventory](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-resource-inventory.html)|[Get-LICMResourceInventoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMResourceInventoryList.html)|
 |[aws license-manager list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-tags-for-resource.html)|[Get-LICMResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMResourceTagList.html)|
 |[aws license-manager list-tokens](https://docs.aws.amazon.com/cli/latest/reference/license-manager/list-tokens.html)|[Get-LICMTokenList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LICMTokenList.html)|

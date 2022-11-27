@@ -1,6 +1,6 @@
 ---
 title: servicecatalog-appregistry
-date: 2022-11-09
+date: 2022-11-27
 description: aws servicecatalog-appregistry (AWS Service Catalog App Registry) command/cmdlet list.
 ---
 
@@ -24,12 +24,14 @@ description: aws servicecatalog-appregistry (AWS Service Catalog App Registry) c
 |[aws servicecatalog-appregistry get-application](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-application.html)|[Get-SCARApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARApplication.html)|
 |[aws servicecatalog-appregistry get-associated-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-associated-resource.html)|[Get-SCARAssociatedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAssociatedResource.html)|
 |[aws servicecatalog-appregistry get-attribute-group](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-attribute-group.html)|[Get-SCARAttributeGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAttributeGroup.html)|
+|[aws servicecatalog-appregistry get-configuration](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/get-configuration.html)|[Get-SCARConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARConfiguration.html)|
 |[aws servicecatalog-appregistry list-applications](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-applications.html)|[Get-SCARApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARApplicationList.html)|
 |[aws servicecatalog-appregistry list-associated-attribute-groups](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-associated-attribute-groups.html)|[Get-SCARAssociatedAttributeGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAssociatedAttributeGroupList.html)|
 |[aws servicecatalog-appregistry list-associated-resources](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-associated-resources.html)|[Get-SCARAssociatedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAssociatedResourceList.html)|
 |[aws servicecatalog-appregistry list-attribute-groups](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-attribute-groups.html)|[Get-SCARAttributeGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAttributeGroupList.html)|
 |[aws servicecatalog-appregistry list-attribute-groups-for-application](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-attribute-groups-for-application.html)|[Get-SCARAttributeGroupsForApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARAttributeGroupsForApplicationList.html)|
 |[aws servicecatalog-appregistry list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/list-tags-for-resource.html)|[Get-SCARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCARResourceTag.html)|
+|[aws servicecatalog-appregistry put-configuration](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/put-configuration.html)|[Write-SCARConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SCARConfiguration.html)|
 |[aws servicecatalog-appregistry sync-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/sync-resource.html)|[Sync-SCARResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Sync-SCARResource.html)|
 |[aws servicecatalog-appregistry tag-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/tag-resource.html)|[Add-SCARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SCARResourceTag.html)|
 |[aws servicecatalog-appregistry untag-resource](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog-appregistry/untag-resource.html)|[Remove-SCARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SCARResourceTag.html)|

@@ -127,6 +127,7 @@ $g_AWSServices = @{
     'apprunner'                          = [PSCustomObject]@{ Prefix = 'AAR '; Name = 'AWS App Runner'; Url = 'https://aws.amazon.com/apprunner/'; Note = '' };
     'appstream'                          = [PSCustomObject]@{ Prefix = 'APS'; Name = 'Amazon AppStream 2.0'; Url = 'https://aws.amazon.com/appstream2/'; Note = '' };
     'appsync'                            = [PSCustomObject]@{ Prefix = 'ASYN'; Name = 'AWS AppSync'; Url = 'https://aws.amazon.com/appsync/'; Note = '' };
+    'arc-zonal-shift'                    = [PSCustomObject]@{ Prefix = 'AZS'; Name = 'Amazon Route 53 Application Recovery Controller zonal shift'; Url = 'https://aws.amazon.com/route53/application-recovery-controller/'; Note = '' };
     'athena'                             = [PSCustomObject]@{ Prefix = 'ATH'; Name = 'Amazon Athena'; Url = 'https://aws.amazon.com/athena/'; Note = '' };
     'auditmanager'                       = [PSCustomObject]@{ Prefix = 'AUDM'; Name = 'AWS Audit Manager'; Url = 'https://aws.amazon.com/audit-manager/'; Note = '' };
     'autoscaling'                        = [PSCustomObject]@{ Prefix = 'AS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
@@ -326,6 +327,7 @@ $g_AWSServices = @{
     'network-firewall'                   = [PSCustomObject]@{ Prefix = 'NWFW'; Name = 'AWS Network Firewall'; Url = 'https://aws.amazon.com/network-firewall/'; Note = '' };
     'networkmanager'                     = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = '' }
     'nimble'                             = [PSCustomObject]@{ Prefix = 'NS'; Name = 'Amazon Nimble Studio'; Url = 'https://aws.amazon.com/nimble-studio/'; Note = '' }
+    'oam'                                = [PSCustomObject]@{ Prefix = 'CWOAM'; Name = 'Amazon CloudWatch Observability Access Manager'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' }
     'opensearch'                         = [PSCustomObject]@{ Prefix = 'OS'; Name = 'Amazon OpenSearch Service'; Url = 'https://aws.amazon.com/opensearch-service/'; Note = 'successor to Amazon Elasticsearch Service' }
     'opsworks'                           = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                        = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
@@ -456,6 +458,7 @@ $g_CmdletReferenceLinks = @{
     'apprunner'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppRunner_cmdlets.html';
     'appstream'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppStream_cmdlets.html';
     'appsync'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppSync_cmdlets.html';
+    'arc-zonal-shift'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ARCZonalShift_cmdlets.html'
     'athena'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Athena_cmdlets.html';
     'auditmanager'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AuditManager_cmdlets.html'
     'autoscaling'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Auto_Scaling_cmdlets.html';
@@ -654,6 +657,7 @@ $g_CmdletReferenceLinks = @{
     'network-firewall'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html';
     'networkmanager'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html'
     'nimble'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NimbleStudio_cmdlets.html';
+    'oam'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/OAM_cmdlets.html'
     'opensearch'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchService_cmdlets.html';
     'opsworks'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';

@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2022-11-28
+date: 2022-11-30
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -53,8 +53,10 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-account-settings](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-settings.html)|[Get-QSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSetting.html)|
 |[aws quicksight describe-account-subscription](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-subscription.html)|[Get-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSubscription.html)|
 |[aws quicksight describe-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis.html)|[Get-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysis.html)|
+|[aws quicksight describe-analysis-definition](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis-definition.html)|[Get-QSAnalysisDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisDefinition.html)|
 |[aws quicksight describe-analysis-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis-permissions.html)|[Get-QSAnalysisPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisPermission.html)|
 |[aws quicksight describe-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard.html)|[Get-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboard.html)|
+|[aws quicksight describe-dashboard-definition](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard-definition.html)|[Get-QSDashboardDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardDefinition.html)|
 |[aws quicksight describe-dashboard-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard-permissions.html)|[Get-QSDashboardPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardPermission.html)|
 |[aws quicksight describe-data-set](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-data-set.html)|[Get-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSet.html)|
 |[aws quicksight describe-data-set-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-data-set-permissions.html)|[Get-QSDataSetPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSetPermission.html)|
@@ -71,6 +73,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-namespace](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-namespace.html)|[Get-QSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSNamespace.html)|
 |[aws quicksight describe-template](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template.html)|[Get-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplate.html)|
 |[aws quicksight describe-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template-alias.html)|[Get-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateAlias.html)|
+|[aws quicksight describe-template-definition](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template-definition.html)|[Get-QSTemplateDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateDefinition.html)|
 |[aws quicksight describe-template-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-template-permissions.html)|[Get-QSTemplatePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplatePermission.html)|
 |[aws quicksight describe-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme.html)|[Get-QSTheme](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTheme.html)|
 |[aws quicksight describe-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-alias.html)|[Get-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeAlias.html)|

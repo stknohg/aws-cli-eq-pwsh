@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-11-28
+date: 2022-11-30
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.214 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.217 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -43,6 +43,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR ||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
+|[Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-zonal-shift]({{%relref "post/arc-zonal-shift.md" %}})|AZS||
 |[Amazon Athena](https://aws.amazon.com/athena/)|[athena]({{%relref "post/athena.md" %}})|ATH||
 |[AWS Audit Manager](https://aws.amazon.com/audit-manager/)|[auditmanager]({{%relref "post/auditmanager.md" %}})|AUDM||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling]({{%relref "post/autoscaling.md" %}})|AS||
@@ -242,6 +243,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|NS||
+|[Amazon CloudWatch Observability Access Manager](https://aws.amazon.com/cloudwatch/)|[oam]({{%relref "post/oam.md" %}})|CWOAM||
 |[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|successor to Amazon Elasticsearch Service|
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||

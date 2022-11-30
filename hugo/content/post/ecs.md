@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2022-11-28
+date: 2022-11-30
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs list-clusters](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-clusters.html)|[Get-ECSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterList.html)|
 |[aws ecs list-container-instances](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-container-instances.html)|[Get-ECSContainerInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSContainerInstanceList.html)|
 |[aws ecs list-services](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-services.html)|[Get-ECSClusterService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterService.html)|
+|[aws ecs list-services-by-namespace](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-services-by-namespace.html)|[Get-ECSServicesByNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServicesByNamespace.html)|
 |[aws ecs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-tags-for-resource.html)|[Get-ECSTagsForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTagsForResource.html)|
 |[aws ecs list-task-definition-families](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-task-definition-families.html)|[Get-ECSTaskDefinitionFamilyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDefinitionFamilyList.html)|
 |[aws ecs list-task-definitions](https://docs.aws.amazon.com/cli/latest/reference/ecs/list-task-definitions.html)|[Get-ECSTaskDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDefinitionList.html)|

@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2022-11-28
+date: 2022-11-30
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds copy-db-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-parameter-group.html)|[Copy-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBParameterGroup.html)|
 |[aws rds copy-db-snapshot](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-db-snapshot.html)|[Copy-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSDBSnapshot.html)|
 |[aws rds copy-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/copy-option-group.html)|[Copy-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-RDSOptionGroup.html)|
+|[aws rds create-blue-green-deployment](https://docs.aws.amazon.com/cli/latest/reference/rds/create-blue-green-deployment.html)|[New-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSBlueGreenDeployment.html)|
 |[aws rds create-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/create-custom-db-engine-version.html)|[New-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSCustomDBEngineVersion.html)|
 |[aws rds create-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster.html)|[New-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBCluster.html)|
 |[aws rds create-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/create-db-cluster-endpoint.html)|[New-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBClusterEndpoint.html)|
@@ -43,6 +44,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/rds/create-event-subscription.html)|[New-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSEventSubscription.html)|
 |[aws rds create-global-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/create-global-cluster.html)|[New-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSGlobalCluster.html)|
 |[aws rds create-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/create-option-group.html)|[New-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSOptionGroup.html)|
+|[aws rds delete-blue-green-deployment](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-blue-green-deployment.html)|[Remove-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSBlueGreenDeployment.html)|
 |[aws rds delete-custom-db-engine-version](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-custom-db-engine-version.html)|[Remove-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSCustomDBEngineVersion.html)|
 |[aws rds delete-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster.html)|[Remove-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBCluster.html)|
 |[aws rds delete-db-cluster-endpoint](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-db-cluster-endpoint.html)|[Remove-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterEndpoint.html)|
@@ -61,6 +63,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds delete-option-group](https://docs.aws.amazon.com/cli/latest/reference/rds/delete-option-group.html)|[Remove-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSOptionGroup.html)|
 |[aws rds deregister-db-proxy-targets](https://docs.aws.amazon.com/cli/latest/reference/rds/deregister-db-proxy-targets.html)|[Unregister-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-RDSDBProxyTarget.html)|
 |[aws rds describe-account-attributes](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-account-attributes.html)|[Get-RDSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSAccountAttribute.html)|
+|[aws rds describe-blue-green-deployments](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-blue-green-deployments.html)|[Get-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSBlueGreenDeployment.html)|
 |[aws rds describe-certificates](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-certificates.html)|[Get-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSCertificate.html)|
 |[aws rds describe-db-cluster-backtracks](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-cluster-backtracks.html)|[Get-RDSDBClusterBacktrackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterBacktrackList.html)|
 |[aws rds describe-db-cluster-endpoints](https://docs.aws.amazon.com/cli/latest/reference/rds/describe-db-cluster-endpoints.html)|[Get-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterEndpoint.html)|
@@ -151,5 +154,6 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds stop-db-cluster](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-cluster.html)|[Stop-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBCluster.html)|
 |[aws rds stop-db-instance](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|
 |[aws rds stop-db-instance-automated-backups-replication](https://docs.aws.amazon.com/cli/latest/reference/rds/stop-db-instance-automated-backups-replication.html)|[Stop-RDSDBInstanceAutomatedBackupsReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstanceAutomatedBackupsReplication.html)|
+|[aws rds switchover-blue-green-deployment](https://docs.aws.amazon.com/cli/latest/reference/rds/switchover-blue-green-deployment.html)|[Switch-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RDSBlueGreenDeployment.html)|
 |[aws rds switchover-read-replica](https://docs.aws.amazon.com/cli/latest/reference/rds/switchover-read-replica.html)|[Convert-RDSReadReplicaToNewPrimary](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaToNewPrimary.html)|
 

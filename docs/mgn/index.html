@@ -70,7 +70,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2022-11-28</p>
+<p class="text-right"><strong>Last update: </strong>2022-11-30</p>
 
 <h2 id="mgn">mgn</h2>
 <h3 id="aws-application-migration-servicehttpsawsamazoncomapplication-migration-service"><a href="https://aws.amazon.com/application-migration-service/">AWS Application Migration Service</a></h3>
@@ -87,8 +87,28 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/archive-application.html">aws mgn archive-application</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNApplicationAsArchived.html">Set-MGNApplicationAsArchived</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/archive-wave.html">aws mgn archive-wave</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNWaveAsArchived.html">Set-MGNWaveAsArchived</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/associate-applications.html">aws mgn associate-applications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MGNApplicationsToWave.html">Add-MGNApplicationsToWave</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/associate-source-servers.html">aws mgn associate-source-servers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MGNSourceServersToApplication.html">Add-MGNSourceServersToApplication</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/change-server-life-cycle-state.html">aws mgn change-server-life-cycle-state</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNServerLifeCycleState.html">Set-MGNServerLifeCycleState</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/create-application.html">aws mgn create-application</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNApplication.html">New-MGNApplication</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/create-launch-configuration-template.html">aws mgn create-launch-configuration-template</a></td>
@@ -97,6 +117,14 @@
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/create-replication-configuration-template.html">aws mgn create-replication-configuration-template</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNReplicationConfigurationTemplate.html">New-MGNReplicationConfigurationTemplate</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/create-wave.html">aws mgn create-wave</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNWave.html">New-MGNWave</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-application.html">aws mgn delete-application</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNApplication.html">Remove-MGNApplication</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-job.html">aws mgn delete-job</a></td>
@@ -117,6 +145,10 @@
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-vcenter-client.html">aws mgn delete-vcenter-client</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNVcenterClient.html">Remove-MGNVcenterClient</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/delete-wave.html">aws mgn delete-wave</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNWave.html">Remove-MGNWave</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/describe-job-log-items.html">aws mgn describe-job-log-items</a></td>
@@ -143,6 +175,14 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNVcenterClient.html">Get-MGNVcenterClient</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/disassociate-applications.html">aws mgn disassociate-applications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNApplicationsFromWave.html">Remove-MGNApplicationsFromWave</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/disassociate-source-servers.html">aws mgn disassociate-source-servers</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNSourceServersFromApplication.html">Remove-MGNSourceServersFromApplication</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/disconnect-from-service.html">aws mgn disconnect-from-service</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-MGNFromService.html">Disconnect-MGNFromService</a></td>
 </tr>
@@ -163,12 +203,44 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-MGNService.html">Initialize-MGNService</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/list-applications.html">aws mgn list-applications</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNApplicationList.html">Get-MGNApplicationList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/list-source-server-actions.html">aws mgn list-source-server-actions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNSourceServerActionList.html">Get-MGNSourceServerActionList</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/list-tags-for-resource.html">aws mgn list-tags-for-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNResourceTag.html">Get-MGNResourceTag</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/list-template-actions.html">aws mgn list-template-actions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNTemplateActionList.html">Get-MGNTemplateActionList</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/list-waves.html">aws mgn list-waves</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNWaveList.html">Get-MGNWaveList</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/mark-as-archived.html">aws mgn mark-as-archived</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNAsArchived.html">Set-MGNAsArchived</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/put-source-server-action.html">aws mgn put-source-server-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MGNSourceServerAction.html">Write-MGNSourceServerAction</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/put-template-action.html">aws mgn put-template-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MGNTemplateAction.html">Write-MGNTemplateAction</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/remove-source-server-action.html">aws mgn remove-source-server-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNSourceServerAction.html">Remove-MGNSourceServerAction</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/remove-template-action.html">aws mgn remove-template-action</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNTemplateAction.html">Remove-MGNTemplateAction</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/retry-data-replication.html">aws mgn retry-data-replication</a></td>
@@ -195,8 +267,20 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNTargetInstance.html">Remove-MGNTargetInstance</a></td>
 </tr>
 <tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/unarchive-application.html">aws mgn unarchive-application</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNApplicationAsUnarchived.html">Set-MGNApplicationAsUnarchived</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/unarchive-wave.html">aws mgn unarchive-wave</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNWaveAsUnarchived.html">Set-MGNWaveAsUnarchived</a></td>
+</tr>
+<tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/untag-resource.html">aws mgn untag-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNResourceTag.html">Remove-MGNResourceTag</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/update-application.html">aws mgn update-application</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNApplication.html">Update-MGNApplication</a></td>
 </tr>
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/update-launch-configuration.html">aws mgn update-launch-configuration</a></td>
@@ -217,6 +301,10 @@
 <tr>
 <td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/update-source-server-replication-type.html">aws mgn update-source-server-replication-type</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNSourceServerReplicationType.html">Update-MGNSourceServerReplicationType</a></td>
+</tr>
+<tr>
+<td><a href="https://docs.aws.amazon.com/cli/latest/reference/mgn/update-wave.html">aws mgn update-wave</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNWave.html">Update-MGNWave</a></td>
 </tr>
 </tbody>
 </table>

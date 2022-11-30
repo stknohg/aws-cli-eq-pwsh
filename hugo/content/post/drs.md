@@ -1,6 +1,6 @@
 ---
 title: drs
-date: 2022-11-28
+date: 2022-11-30
 description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 ---
 
@@ -35,9 +35,12 @@ description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 |[aws drs list-staging-accounts](https://docs.aws.amazon.com/cli/latest/reference/drs/list-staging-accounts.html)|[Get-EDRSStagingAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSStagingAccountList.html)|
 |[aws drs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/drs/list-tags-for-resource.html)|[Get-EDRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSResourceTag.html)|
 |[aws drs retry-data-replication](https://docs.aws.amazon.com/cli/latest/reference/drs/retry-data-replication.html)|[Restart-EDRSDataReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EDRSDataReplication.html)|
+|[aws drs reverse-replication](https://docs.aws.amazon.com/cli/latest/reference/drs/reverse-replication.html)|[Start-EDRSReversedReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSReversedReplication.html)|
 |[aws drs start-failback-launch](https://docs.aws.amazon.com/cli/latest/reference/drs/start-failback-launch.html)|[Start-EDRSFailbackLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSFailbackLaunch.html)|
 |[aws drs start-recovery](https://docs.aws.amazon.com/cli/latest/reference/drs/start-recovery.html)|[Start-EDRSRecovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSRecovery.html)|
+|[aws drs start-replication](https://docs.aws.amazon.com/cli/latest/reference/drs/start-replication.html)|[Start-EDRSReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSReplication.html)|
 |[aws drs stop-failback](https://docs.aws.amazon.com/cli/latest/reference/drs/stop-failback.html)|[Stop-EDRSFailback](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EDRSFailback.html)|
+|[aws drs stop-replication](https://docs.aws.amazon.com/cli/latest/reference/drs/stop-replication.html)|[Stop-EDRSReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EDRSReplication.html)|
 |[aws drs tag-resource](https://docs.aws.amazon.com/cli/latest/reference/drs/tag-resource.html)|[Add-EDRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EDRSResourceTag.html)|
 |[aws drs terminate-recovery-instances](https://docs.aws.amazon.com/cli/latest/reference/drs/terminate-recovery-instances.html)|[Stop-EDRSRecoveryInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EDRSRecoveryInstance.html)|
 |[aws drs untag-resource](https://docs.aws.amazon.com/cli/latest/reference/drs/untag-resource.html)|[Remove-EDRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2022-11-28
+date: 2022-11-30
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs create-export-task](https://docs.aws.amazon.com/cli/latest/reference/logs/create-export-task.html)|[New-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLExportTask.html)|
 |[aws logs create-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/create-log-group.html)|[New-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogGroup.html)|
 |[aws logs create-log-stream](https://docs.aws.amazon.com/cli/latest/reference/logs/create-log-stream.html)|[New-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogStream.html)|
+|[aws logs delete-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-data-protection-policy.html)|[Remove-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDataProtectionPolicy.html)|
 |[aws logs delete-destination](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-destination.html)|[Remove-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDestination.html)|
 |[aws logs delete-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-log-group.html)|[Remove-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroup.html)|
 |[aws logs delete-log-stream](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-log-stream.html)|[Remove-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogStream.html)|
@@ -37,12 +38,14 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs describe-subscription-filters](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-subscription-filters.html)|[Get-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLSubscriptionFilter.html)|
 |[aws logs disassociate-kms-key](https://docs.aws.amazon.com/cli/latest/reference/logs/disassociate-kms-key.html)|[Unregister-CWLKmsKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CWLKmsKey.html)|
 |[aws logs filter-log-events](https://docs.aws.amazon.com/cli/latest/reference/logs/filter-log-events.html)|[Get-CWLFilteredLogEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLFilteredLogEvent.html)|
+|[aws logs get-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/get-data-protection-policy.html)|[Get-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLDataProtectionPolicy.html)|
 |[aws logs get-log-events](https://docs.aws.amazon.com/cli/latest/reference/logs/get-log-events.html)|[Get-CWLLogEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogEvent.html)|
 |[aws logs get-log-group-fields](https://docs.aws.amazon.com/cli/latest/reference/logs/get-log-group-fields.html)|[Get-CWLLogGroupField](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupField.html)|
 |[aws logs get-log-record](https://docs.aws.amazon.com/cli/latest/reference/logs/get-log-record.html)|[Get-CWLLogRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogRecord.html)|
 |[aws logs get-query-results](https://docs.aws.amazon.com/cli/latest/reference/logs/get-query-results.html)|[Get-CWLQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQueryResult.html)|
 |[aws logs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs list-tags-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/list-tags-log-group.html)|[Get-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupTag.html)|
+|[aws logs put-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-data-protection-policy.html)|[Write-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDataProtectionPolicy.html)|
 |[aws logs put-destination](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination.html)|[Write-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestination.html)|
 |[aws logs put-destination-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination-policy.html)|[Write-CWLDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestinationPolicy.html)|
 |[aws logs put-log-events](https://docs.aws.amazon.com/cli/latest/reference/logs/put-log-events.html)|[Write-CWLLogEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLLogEvent.html)|

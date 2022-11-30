@@ -1,6 +1,6 @@
 ---
 title: license-manager-user-subscriptions
-date: 2022-11-28
+date: 2022-11-30
 description: aws license-manager-user-subscriptions (AWS License Manager) command/cmdlet list.
 ---
 
@@ -23,4 +23,5 @@ description: aws license-manager-user-subscriptions (AWS License Manager) comman
 |[aws license-manager-user-subscriptions register-identity-provider](https://docs.aws.amazon.com/cli/latest/reference/license-manager-user-subscriptions/register-identity-provider.html)|[Register-LMUSIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-LMUSIdentityProvider.html)|
 |[aws license-manager-user-subscriptions start-product-subscription](https://docs.aws.amazon.com/cli/latest/reference/license-manager-user-subscriptions/start-product-subscription.html)|[Start-LMUSProductSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMUSProductSubscription.html)|
 |[aws license-manager-user-subscriptions stop-product-subscription](https://docs.aws.amazon.com/cli/latest/reference/license-manager-user-subscriptions/stop-product-subscription.html)|[Stop-LMUSProductSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LMUSProductSubscription.html)|
+|[aws license-manager-user-subscriptions update-identity-provider-settings](https://docs.aws.amazon.com/cli/latest/reference/license-manager-user-subscriptions/update-identity-provider-settings.html)|[Update-LMUSIdentityProviderSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMUSIdentityProviderSetting.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: organizations
-date: 2022-11-28
+date: 2022-11-30
 description: aws organizations (AWS Organizations) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws organizations (AWS Organizations) command/cmdlet list.
 |[aws organizations delete-organization](https://docs.aws.amazon.com/cli/latest/reference/organizations/delete-organization.html)|[Remove-ORGOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGOrganization.html)|
 |[aws organizations delete-organizational-unit](https://docs.aws.amazon.com/cli/latest/reference/organizations/delete-organizational-unit.html)|[Remove-ORGOrganizationalUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGOrganizationalUnit.html)|
 |[aws organizations delete-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/delete-policy.html)|[Remove-ORGPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGPolicy.html)|
+|[aws organizations delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/delete-resource-policy.html)|[Remove-ORGResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGResourcePolicy.html)|
 |[aws organizations deregister-delegated-administrator](https://docs.aws.amazon.com/cli/latest/reference/organizations/deregister-delegated-administrator.html)|[Unregister-ORGDelegatedAdministrator](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ORGDelegatedAdministrator.html)|
 |[aws organizations describe-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-account.html)|[Get-ORGAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccount.html)|
 |[aws organizations describe-create-account-status](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-create-account-status.html)|[Get-ORGAccountCreationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountCreationStatus.html)|
@@ -34,6 +35,7 @@ description: aws organizations (AWS Organizations) command/cmdlet list.
 |[aws organizations describe-organization](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-organization.html)|[Get-ORGOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGOrganization.html)|
 |[aws organizations describe-organizational-unit](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-organizational-unit.html)|[Get-ORGOrganizationalUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGOrganizationalUnit.html)|
 |[aws organizations describe-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-policy.html)|[Get-ORGPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGPolicy.html)|
+|[aws organizations describe-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/describe-resource-policy.html)|[Get-ORGResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGResourcePolicy.html)|
 |[aws organizations detach-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/detach-policy.html)|[Dismount-ORGPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ORGPolicy.html)|
 |[aws organizations disable-aws-service-access](https://docs.aws.amazon.com/cli/latest/reference/organizations/disable-aws-service-access.html)|[Disable-ORGAWSServiceAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-ORGAWSServiceAccess.html)|
 |[aws organizations disable-policy-type](https://docs.aws.amazon.com/cli/latest/reference/organizations/disable-policy-type.html)|[Disable-ORGPolicyType](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-ORGPolicyType.html)|
@@ -59,6 +61,7 @@ description: aws organizations (AWS Organizations) command/cmdlet list.
 |[aws organizations list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-tags-for-resource.html)|[Get-ORGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGResourceTag.html)|
 |[aws organizations list-targets-for-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/list-targets-for-policy.html)|[Get-ORGTargetForPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGTargetForPolicy.html)|
 |[aws organizations move-account](https://docs.aws.amazon.com/cli/latest/reference/organizations/move-account.html)|[Move-ORGAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-ORGAccount.html)|
+|[aws organizations put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/organizations/put-resource-policy.html)|[Write-ORGResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ORGResourcePolicy.html)|
 |[aws organizations register-delegated-administrator](https://docs.aws.amazon.com/cli/latest/reference/organizations/register-delegated-administrator.html)|[Register-ORGDelegatedAdministrator](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-ORGDelegatedAdministrator.html)|
 |[aws organizations remove-account-from-organization](https://docs.aws.amazon.com/cli/latest/reference/organizations/remove-account-from-organization.html)|[Remove-ORGAccountFromOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGAccountFromOrganization.html)|
 |[aws organizations tag-resource](https://docs.aws.amazon.com/cli/latest/reference/organizations/tag-resource.html)|[Add-ORGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ORGResourceTag.html)|

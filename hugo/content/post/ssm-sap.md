@@ -1,6 +1,6 @@
 ---
 title: ssm-sap
-date: 2022-11-28
+date: 2022-11-30
 description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 ---
 

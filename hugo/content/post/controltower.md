@@ -1,6 +1,6 @@
 ---
 title: controltower
-date: 2022-11-28
+date: 2022-11-30
 description: aws controltower (AWS Control Tower) command/cmdlet list.
 ---
 

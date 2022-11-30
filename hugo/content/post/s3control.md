@@ -1,6 +1,6 @@
 ---
 title: s3control
-date: 2022-11-28
+date: 2022-11-30
 description: aws s3control (Amazon S3) command/cmdlet list.
 ---
 
@@ -49,6 +49,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control get-multi-region-access-point](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point.html)|[Get-S3CMultiRegionAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPoint.html)|
 |[aws s3control get-multi-region-access-point-policy](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point-policy.html)|[Get-S3CMultiRegionAccessPointPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPointPolicy.html)|
 |[aws s3control get-multi-region-access-point-policy-status](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point-policy-status.html)|[Get-S3CMultiRegionAccessPointPolicyStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPointPolicyStatus.html)|
+|[aws s3control get-multi-region-access-point-routes](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-multi-region-access-point-routes.html)|[Get-S3CMultiRegionAccessPointRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPointRoute.html)|
 |[aws s3control get-public-access-block](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-public-access-block.html)|[Get-S3CPublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CPublicAccessBlock.html)|
 |[aws s3control get-storage-lens-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-storage-lens-configuration.html)|[Get-S3CStorageLensConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CStorageLensConfiguration.html)|
 |[aws s3control get-storage-lens-configuration-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/get-storage-lens-configuration-tagging.html)|[Get-S3CStorageLensConfigurationTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CStorageLensConfigurationTagging.html)|
@@ -70,6 +71,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control put-public-access-block](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-public-access-block.html)|[Add-S3CPublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3CPublicAccessBlock.html)|
 |[aws s3control put-storage-lens-configuration](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-storage-lens-configuration.html)|[Write-S3CStorageLensConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CStorageLensConfiguration.html)|
 |[aws s3control put-storage-lens-configuration-tagging](https://docs.aws.amazon.com/cli/latest/reference/s3control/put-storage-lens-configuration-tagging.html)|[Write-S3CStorageLensConfigurationTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CStorageLensConfigurationTagging.html)|
+|[aws s3control submit-multi-region-access-point-routes](https://docs.aws.amazon.com/cli/latest/reference/s3control/submit-multi-region-access-point-routes.html)|[Submit-S3CMultiRegionAccessPointRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-S3CMultiRegionAccessPointRoute.html)|
 |[aws s3control update-job-priority](https://docs.aws.amazon.com/cli/latest/reference/s3control/update-job-priority.html)|[Update-S3CJobPriority](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3CJobPriority.html)|
 |[aws s3control update-job-status](https://docs.aws.amazon.com/cli/latest/reference/s3control/update-job-status.html)|[Update-S3CJobStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3CJobStatus.html)|
 

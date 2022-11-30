@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2022-11-28
+date: 2022-11-30
 description: aws configservice (AWS Config) command/cmdlet list.
 ---
 
@@ -73,11 +73,13 @@ description: aws configservice (AWS Config) command/cmdlet list.
 |[aws configservice get-organization-conformance-pack-detailed-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-organization-conformance-pack-detailed-status.html)|[Get-CFGOrganizationConformancePackDetailedStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGOrganizationConformancePackDetailedStatus.html)|
 |[aws configservice get-organization-custom-rule-policy](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-organization-custom-rule-policy.html)|[Get-CFGOrganizationCustomRulePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGOrganizationCustomRulePolicy.html)|
 |[aws configservice get-resource-config-history](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-resource-config-history.html)|[Get-CFGResourceConfigHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceConfigHistory.html)|
+|[aws configservice get-resource-evaluation-summary](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-resource-evaluation-summary.html)|[Get-CFGResourceEvaluationSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceEvaluationSummary.html)|
 |[aws configservice get-status](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-status.html)||
 |[aws configservice get-stored-query](https://docs.aws.amazon.com/cli/latest/reference/configservice/get-stored-query.html)|[Get-CFGStoredQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGStoredQuery.html)|
 |[aws configservice list-aggregate-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-aggregate-discovered-resources.html)|[Get-CFGAggregateDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGAggregateDiscoveredResourceList.html)|
 |[aws configservice list-conformance-pack-compliance-scores](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-conformance-pack-compliance-scores.html)|[Get-CFGConformancePackComplianceScoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGConformancePackComplianceScoreList.html)|
 |[aws configservice list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-discovered-resources.html)|[Get-CFGDiscoveredResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGDiscoveredResource.html)|
+|[aws configservice list-resource-evaluations](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-resource-evaluations.html)|[Get-CFGResourceEvaluationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceEvaluationList.html)|
 |[aws configservice list-stored-queries](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-stored-queries.html)|[Get-CFGStoredQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGStoredQueryList.html)|
 |[aws configservice list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/list-tags-for-resource.html)|[Get-CFGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFGResourceTag.html)|
 |[aws configservice put-aggregation-authorization](https://docs.aws.amazon.com/cli/latest/reference/configservice/put-aggregation-authorization.html)|[Write-CFGAggregationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFGAggregationAuthorization.html)|
@@ -100,6 +102,7 @@ description: aws configservice (AWS Config) command/cmdlet list.
 |[aws configservice start-config-rules-evaluation](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-config-rules-evaluation.html)|[Start-CFGConfigRulesEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigRulesEvaluation.html)|
 |[aws configservice start-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-configuration-recorder.html)|[Start-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGConfigurationRecorder.html)|
 |[aws configservice start-remediation-execution](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-remediation-execution.html)|[Start-CFGRemediationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGRemediationExecution.html)|
+|[aws configservice start-resource-evaluation](https://docs.aws.amazon.com/cli/latest/reference/configservice/start-resource-evaluation.html)|[Start-CFGResourceEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFGResourceEvaluation.html)|
 |[aws configservice stop-configuration-recorder](https://docs.aws.amazon.com/cli/latest/reference/configservice/stop-configuration-recorder.html)|[Stop-CFGConfigurationRecorder](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFGConfigurationRecorder.html)|
 |[aws configservice subscribe](https://docs.aws.amazon.com/cli/latest/reference/configservice/subscribe.html)||
 |[aws configservice tag-resource](https://docs.aws.amazon.com/cli/latest/reference/configservice/tag-resource.html)|[Add-CFGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CFGResourceTag.html)|

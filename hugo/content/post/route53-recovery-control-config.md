@@ -6,7 +6,7 @@ description: aws route53-recovery-control-config (Amazon Route 53 Application Re
 
 ## route53-recovery-control-config
 
-### [Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)
+### [Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/route53-recovery-control-config/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryControlConfig_cmdlets.html)

@@ -1,12 +1,12 @@
 ---
 title: arc-zonal-shift
 date: 2022-11-30
-description: aws arc-zonal-shift (Amazon Route 53 Application Recovery Controller zonal shift) command/cmdlet list.
+description: aws arc-zonal-shift (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 
 ## arc-zonal-shift
 
-### [Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/route53/application-recovery-controller/)
+### [Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/arc-zonal-shift/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ARCZonalShift_cmdlets.html)

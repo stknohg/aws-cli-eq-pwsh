@@ -43,7 +43,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR ||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
-|[Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-zonal-shift]({{%relref "post/arc-zonal-shift.md" %}})|AZS||
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-zonal-shift]({{%relref "post/arc-zonal-shift.md" %}})|AZS|Zonal shift|
 |[Amazon Athena](https://aws.amazon.com/athena/)|[athena]({{%relref "post/athena.md" %}})|ATH||
 |[AWS Audit Manager](https://aws.amazon.com/audit-manager/)|[auditmanager]({{%relref "post/auditmanager.md" %}})|AUDM||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling]({{%relref "post/autoscaling.md" %}})|AS||
@@ -280,9 +280,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||
 |[IAM Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/APIReference/Welcome.html)|[rolesanywhere]({{%relref "post/rolesanywhere.md" %}})|IAMRA||
 |[Amazon Route 53](https://aws.amazon.com/route53/)|[route53]({{%relref "post/route53.md" %}})|R53||
-|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})|RRC|Recovery Control Data Plane|
-|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})|R53RC|Recovery Control Configuration|
-|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})|PD|Recovery Readiness|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})|RRC|Recovery Control Data Plane|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})|R53RC|Recovery Control Configuration|
+|[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})|PD|Recovery Readiness|
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
 |[Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[rum]({{%relref "post/rum.md" %}})|CWRUM||

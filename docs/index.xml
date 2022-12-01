@@ -220,7 +220,7 @@
       <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://aws-cli-eq-pwsh.shibata.tech/arc-zonal-shift/</guid>
-      <description>arc-zonal-shift Amazon Route 53 Application Recovery Controller zonal shift CLI Reference Cmdlet Reference AWS CLI PowerShell Cmdlet aws arc-zonal-shift cancel-zonal-shift Stop-AZSZonalShift aws arc-zonal-shift get-managed-resource Get-AZSManagedResource aws arc-zonal-shift list-managed-resources Get-AZSManagedResourceList aws arc-zonal-shift list-zonal-shifts Get-AZSZonalShiftList aws arc-zonal-shift start-zonal-shift Start-AZSZonalShift aws arc-zonal-shift update-zonal-shift Update-AZSZonalShift </description>
+      <description>arc-zonal-shift Amazon Route 53 Application Recovery Controller CLI Reference Cmdlet Reference AWS CLI PowerShell Cmdlet aws arc-zonal-shift cancel-zonal-shift Stop-AZSZonalShift aws arc-zonal-shift get-managed-resource Get-AZSManagedResource aws arc-zonal-shift list-managed-resources Get-AZSManagedResourceList aws arc-zonal-shift list-zonal-shifts Get-AZSZonalShiftList aws arc-zonal-shift start-zonal-shift Start-AZSZonalShift aws arc-zonal-shift update-zonal-shift Update-AZSZonalShift </description>
     </item>
     
     <item>

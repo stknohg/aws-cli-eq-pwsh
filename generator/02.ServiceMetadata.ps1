@@ -127,7 +127,7 @@ $g_AWSServices = @{
     'apprunner'                          = [PSCustomObject]@{ Prefix = 'AAR '; Name = 'AWS App Runner'; Url = 'https://aws.amazon.com/apprunner/'; Note = '' };
     'appstream'                          = [PSCustomObject]@{ Prefix = 'APS'; Name = 'Amazon AppStream 2.0'; Url = 'https://aws.amazon.com/appstream2/'; Note = '' };
     'appsync'                            = [PSCustomObject]@{ Prefix = 'ASYN'; Name = 'AWS AppSync'; Url = 'https://aws.amazon.com/appsync/'; Note = '' };
-    'arc-zonal-shift'                    = [PSCustomObject]@{ Prefix = 'AZS'; Name = 'Amazon Route 53 Application Recovery Controller zonal shift'; Url = 'https://aws.amazon.com/route53/application-recovery-controller/'; Note = '' };
+    'arc-zonal-shift'                    = [PSCustomObject]@{ Prefix = 'AZS'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/application-recovery-controller/'; Note = 'Zonal shift' };
     'athena'                             = [PSCustomObject]@{ Prefix = 'ATH'; Name = 'Amazon Athena'; Url = 'https://aws.amazon.com/athena/'; Note = '' };
     'auditmanager'                       = [PSCustomObject]@{ Prefix = 'AUDM'; Name = 'AWS Audit Manager'; Url = 'https://aws.amazon.com/audit-manager/'; Note = '' };
     'autoscaling'                        = [PSCustomObject]@{ Prefix = 'AS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
@@ -364,9 +364,9 @@ $g_AWSServices = @{
     'robomaker'                          = [PSCustomObject]@{ Prefix = 'ROBO'; Name = 'AWS RoboMaker'; Url = 'https://aws.amazon.com/robomaker/'; Note = '' };
     'rolesanywhere'                      = [PSCustomObject]@{ Prefix = 'IAMRA'; Name = 'IAM Roles Anywhere'; Url = 'https://docs.aws.amazon.com/rolesanywhere/latest/APIReference/Welcome.html'; Note = '' };
     'route53'                            = [PSCustomObject]@{ Prefix = 'R53'; Name = 'Amazon Route 53'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
-    'route53-recovery-cluster'           = [PSCustomObject]@{ Prefix = 'RRC'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Control Data Plane' };
-    'route53-recovery-control-config'    = [PSCustomObject]@{ Prefix = 'R53RC'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Control Configuration' };
-    'route53-recovery-readiness'         = [PSCustomObject]@{ Prefix = 'PD'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/'; Note = 'Recovery Readiness' };
+    'route53-recovery-cluster'           = [PSCustomObject]@{ Prefix = 'RRC'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/application-recovery-controller/'; Note = 'Recovery Control Data Plane' };
+    'route53-recovery-control-config'    = [PSCustomObject]@{ Prefix = 'R53RC'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/application-recovery-controller/'; Note = 'Recovery Control Configuration' };
+    'route53-recovery-readiness'         = [PSCustomObject]@{ Prefix = 'PD'; Name = 'Amazon Route 53 Application Recovery Controller'; Url = 'https://aws.amazon.com/route53/application-recovery-controller/'; Note = 'Recovery Readiness' };
     'route53domains'                     = [PSCustomObject]@{ Prefix = 'R53D'; Name = 'Amazon Route 53 Domains'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
     'route53resolver'                    = [PSCustomObject]@{ Prefix = 'R53R'; Name = 'Amazon Route 53 Resolver'; Url = 'https://aws.amazon.com/route53/'; Note = '' };
     'rum'                                = [PSCustomObject]@{ Prefix = 'CWRUM'; Name = 'Real-User Monitoring for Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };

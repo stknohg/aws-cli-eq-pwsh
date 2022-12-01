@@ -121,7 +121,7 @@ $g_AWSServices = @{
     'appflow'                            = [PSCustomObject]@{ Prefix = 'AF'; Name = 'Amazon AppFlow'; Url = 'https://aws.amazon.com/appflow/'; Note = '' };
     'appintegrations'                    = [PSCustomObject]@{ Prefix = 'AIS'; Name = 'Amazon AppIntegrations APIs'; Url = 'https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html'; Note = '' };
     'application-autoscaling'            = [PSCustomObject]@{ Prefix = 'AAS'; Name = 'AWS Auto Scaling'; Url = 'https://aws.amazon.com/autoscaling/'; Note = '' };
-    'application-insights'               = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights'; Url = 'http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
+    'application-insights'               = [PSCustomObject]@{ Prefix = 'CWAI'; Name = 'Amazon CloudWatch Application Insights'; Url = 'https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html'; Note = '' };
     'applicationcostprofiler'            = [PSCustomObject]@{ Prefix = 'ACP '; Name = 'AWS Application Cost Profiler'; Url = 'https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/'; Note = '' };
     'appmesh'                            = [PSCustomObject]@{ Prefix = 'AMSH'; Name = 'AWS App Mesh'; Url = 'https://aws.amazon.com/app-mesh/'; Note = '' };
     'apprunner'                          = [PSCustomObject]@{ Prefix = 'AAR '; Name = 'AWS App Runner'; Url = 'https://aws.amazon.com/apprunner/'; Note = '' };
@@ -147,7 +147,7 @@ $g_AWSServices = @{
     'chime-sdk-voice'                    = [PSCustomObject]@{ Prefix = 'CHMVO'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime Voice Connector' };
     'chime'                              = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                             = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
-    'cloudcontrol'                       = [PSCustomObject]@{ Prefix = 'CCA'; Name = 'AWS Cloud Control API'; Url = 'https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/'; Note = '' };
+    'cloudcontrol'                       = [PSCustomObject]@{ Prefix = 'CCA'; Name = 'AWS Cloud Control API'; Url = 'https://aws.amazon.com/cloudcontrolapi/'; Note = '' };
     'clouddirectory'                     = [PSCustomObject]@{ Prefix = 'CDIR'; Name = 'Amazon Cloud Directory'; Url = 'https://aws.amazon.com/cloud-directory/'; Note = '' };
     'cloudformation'                     = [PSCustomObject]@{ Prefix = 'CFN'; Name = 'AWS Cloud​Formation'; Url = 'https://aws.amazon.com/cloudformation/'; Note = '' };
     'cloudfront'                         = [PSCustomObject]@{ Prefix = 'CF'; Name = 'Amazon CloudFront'; Url = 'https://aws.amazon.com/cloudfront/'; Note = '' };
@@ -186,7 +186,7 @@ $g_AWSServices = @{
     'dataexchange'                       = [PSCustomObject]@{ Prefix = 'DTEX'; Name = 'AWS Data Exchange'; Url = 'https://aws.amazon.com/data-exchange/'; Note = '' };
     'datapipeline'                       = [PSCustomObject]@{ Prefix = 'DP'; Name = 'AWS Data Pipeline'; Url = 'https://aws.amazon.com/datapipeline/'; Note = '' };
     'datasync'                           = [PSCustomObject]@{ Prefix = 'DSYN'; Name = 'AWS DataSync'; Url = 'https://aws.amazon.com/datasync/'; Note = '' };
-    'dax'                                = [PSCustomObject]@{ Prefix = 'DAX'; Name = 'Amazon DynamoDB Accelerator'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
+    'dax'                                = [PSCustomObject]@{ Prefix = 'DAX'; Name = 'Amazon DynamoDB Accelerator'; Url = 'https://aws.amazon.com/dynamodb/dax/'; Note = '' };
     'deploy'                             = [PSCustomObject]@{ Prefix = 'CD'; Name = 'AWS CodeDeploy'; Url = 'https://aws.amazon.com/codedeploy/'; Note = '' };
     'detective'                          = [PSCustomObject]@{ Prefix = 'DTCT'; Name = 'Amazon Detective'; Url = 'https://aws.amazon.com/detective/'; Note = '' };
     'devicefarm'                         = [PSCustomObject]@{ Prefix = 'DF'; Name = 'AWS Device Farm'; Url = 'https://aws.amazon.com/device-farm/'; Note = '' };
@@ -196,6 +196,7 @@ $g_AWSServices = @{
     'dlm'                                = [PSCustomObject]@{ Prefix = 'DLM'; Name = 'Amazon Data Lifecycle Manager'; Url = 'https://aws.amazon.com/ebs/'; Note = '' };
     'dms'                                = [PSCustomObject]@{ Prefix = 'DMS'; Name = 'AWS Database Migration Service'; Url = 'https://aws.amazon.com/dms/'; Note = '' };
     'docdb'                              = [PSCustomObject]@{ Prefix = 'DOC'; Name = 'Amazon DocumentDB'; Url = 'https://aws.amazon.com/documentdb/'; Note = '' };
+    'docdb-elastic'                      = [PSCustomObject]@{ Prefix = 'DOCE'; Name = 'Amazon DocumentDB Elastic Clusters'; Url = 'https://aws.amazon.com/documentdb/'; Note = '' };
     'drs'                                = [PSCustomObject]@{ Prefix = 'EDRS'; Name = 'AWS Elastic Disaster Recovery'; Url = 'https://aws.amazon.com/disaster-recovery/'; Note = '' };
     'ds'                                 = [PSCustomObject]@{ Prefix = 'DS'; Name = 'AWS Directory Service'; Url = 'https://aws.amazon.com/directoryservice/'; Note = '' };
     'dynamodb'                           = [PSCustomObject]@{ Prefix = 'DDB'; Name = 'Amazon DynamoDB'; Url = 'https://aws.amazon.com/dynamodb/'; Note = '' };
@@ -272,7 +273,7 @@ $g_AWSServices = @{
     'kafka'                              = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kafkaconnect'                       = [PSCustomObject]@{ Prefix = 'MSKC '; Name = 'Amazon Managed Streaming for Kafka Connect'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kendra'                             = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra/'; Note = '' };
-    'keyspaces'                          = [PSCustomObject]@{ Prefix = 'KS'; Name = 'Amazon Keyspaces'; Url = 'https://aws.amazon.com/jp/keyspaces/'; Note = '' };
+    'keyspaces'                          = [PSCustomObject]@{ Prefix = 'KS'; Name = 'Amazon Keyspaces'; Url = 'https://aws.amazon.com/keyspaces/'; Note = '' };
     'kinesis'                            = [PSCustomObject]@{ Prefix = 'KIN'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-archived-media'       = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-media'                = [PSCustomObject]@{ Prefix = 'KVM'; Name = 'Amazon Kinesis Video Streams Media'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
@@ -299,7 +300,7 @@ $g_AWSServices = @{
     'machinelearning'                    = [PSCustomObject]@{ Prefix = 'ML'; Name = 'Amazon Machine Learning'; Url = 'https://aws.amazon.com/machinelearning/'; Note = '' };
     'macie'                              = [PSCustomObject]@{ Prefix = 'MAC'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
     'macie2'                             = [PSCustomObject]@{ Prefix = 'MAC2'; Name = 'Amazon Macie'; Url = 'https://aws.amazon.com/macie/'; Note = '' };
-    'managedblockchain'                  = [PSCustomObject]@{ Prefix = 'MBC'; Name = 'Amazon Managed Blockchain'; Url = 'https://aws.amazon.com/jp/managed-blockchain/'; Note = '' };
+    'managedblockchain'                  = [PSCustomObject]@{ Prefix = 'MBC'; Name = 'Amazon Managed Blockchain'; Url = 'https://aws.amazon.com/managed-blockchain/'; Note = '' };
     'marketplace-catalog'                = [PSCustomObject]@{ Prefix = 'MCAT'; Name = 'AWS Marketplace Catalog Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'marketplace-entitlement'            = [PSCustomObject]@{ Prefix = 'MES'; Name = 'AWS Marketplace Entitlement Service'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
     'marketplacecommerceanalytics'       = [PSCustomObject]@{ Prefix = 'MCA'; Name = 'AWS Marketplace Commerce Analytics'; Url = 'https://aws.amazon.com/marketplace/'; Note = '' };
@@ -328,7 +329,9 @@ $g_AWSServices = @{
     'networkmanager'                     = [PSCustomObject]@{ Prefix = 'NMGR'; Name = 'AWS Transit Gateway network manager'; Url = 'https://aws.amazon.com/transit-gateway/network-manager/'; Note = '' }
     'nimble'                             = [PSCustomObject]@{ Prefix = 'NS'; Name = 'Amazon Nimble Studio'; Url = 'https://aws.amazon.com/nimble-studio/'; Note = '' }
     'oam'                                = [PSCustomObject]@{ Prefix = 'CWOAM'; Name = 'Amazon CloudWatch Observability Access Manager'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' }
+    'omics'                              = [PSCustomObject]@{ Prefix = 'OMICS'; Name = 'Amazon Omics'; Url = 'https://aws.amazon.com/omics/'; Note = '' }
     'opensearch'                         = [PSCustomObject]@{ Prefix = 'OS'; Name = 'Amazon OpenSearch Service'; Url = 'https://aws.amazon.com/opensearch-service/'; Note = 'successor to Amazon Elasticsearch Service' }
+    'opensearchserverless'               = [PSCustomObject]@{ Prefix = 'OSS'; Name = 'Amazon OpenSearch Serverless'; Url = 'https://aws.amazon.com/opensearch-service/features/serverless/'; Note = '' }
     'opsworks'                           = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                        = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                      = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
@@ -378,6 +381,7 @@ $g_AWSServices = @{
     'sagemaker-a2i-runtime'              = [PSCustomObject]@{ Prefix = 'A2IR'; Name = 'Amazon Augmented AI'; Url = 'https://aws.amazon.com/augmented-ai/'; Note = '' };
     'sagemaker-edge'                     = [PSCustomObject]@{ Prefix = 'SME'; Name = 'Amazon SageMaker Edge Manager'; Url = 'https://aws.amazon.com/sagemaker/edge-manager/'; Note = '' };
     'sagemaker-featurestore-runtime'     = [PSCustomObject]@{ Prefix = 'SMFS'; Name = 'Amazon SageMaker Feature Store'; Url = 'https://aws.amazon.com/sagemaker/feature-store/'; Note = '' };
+    'sagemaker-geospatial'               = [PSCustomObject]@{ Prefix = 'SMGS'; Name = 'Geospatial ML with Amazon SageMaker'; Url = 'https://aws.amazon.com/sagemaker/geospatial/'; Note = '' };
     'sagemaker-runtime'                  = [PSCustomObject]@{ Prefix = 'SMR'; Name = 'Amazon SageMaker'; Url = 'https://aws.amazon.com/sagemaker/'; Note = '' };
     'savingsplans'                       = [PSCustomObject]@{ Prefix = 'SP'; Name = 'AWS Savings Plans'; Url = 'https://aws.amazon.com/savingsplans/'; Note = '' };
     'scheduler'                          = [PSCustomObject]@{ Prefix = 'SCH'; Name = 'Amazon EventBridge Scheduler'; Url = 'https://aws.amazon.com/eventbridge/'; Note = '' };
@@ -385,6 +389,7 @@ $g_AWSServices = @{
     'sdb'                                = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon SimpleDB'; Url = 'https://aws.amazon.com/simpledb/'; Note = '' };
     'secretsmanager'                     = [PSCustomObject]@{ Prefix = 'SEC'; Name = 'AWS Secrets Manager'; Url = 'https://aws.amazon.com/secrets-manager/'; Note = '' };
     'securityhub'                        = [PSCustomObject]@{ Prefix = 'SHUB'; Name = 'AWS Security Hub'; Url = 'https://aws.amazon.com/securityhub/'; Note = '' };
+    'securitylake'                       = [PSCustomObject]@{ Prefix = 'SLK'; Name = 'Amazon Security Lake'; Url = 'https://aws.amazon.com/security-lake/'; Note = '' };
     'serverlessrepo'                     = [PSCustomObject]@{ Prefix = 'SAR'; Name = 'AWS Serverless Application Repository'; Url = 'https://aws.amazon.com/serverless/serverlessrepo/'; Note = '' };
     'service-quotas'                     = [PSCustomObject]@{ Prefix = 'SQ'; Name = 'AWS Service Quotas'; Url = 'https://console.aws.amazon.com/servicequotas/'; Note = '' };
     'servicecatalog-appregistry'         = [PSCustomObject]@{ Prefix = 'SCAR'; Name = 'AWS Service Catalog App Registry'; Url = 'https://aws.amazon.com/servicecatalog/'; Note = '' };
@@ -394,6 +399,7 @@ $g_AWSServices = @{
     'sesv2'                              = [PSCustomObject]@{ Prefix = 'SES2'; Name = 'Amazon Simple Email Service V2'; Url = 'https://aws.amazon.com/ses/'; Note = '' };
     'shield'                             = [PSCustomObject]@{ Prefix = 'SHLD'; Name = 'AWS Shield'; Url = 'https://aws.amazon.com/shield/'; Note = '' };
     'signer'                             = [PSCustomObject]@{ Prefix = ''; Name = 'AWS Signer'; Url = 'https://docs.aws.amazon.com/signer/latest/api/Welcome.html'; Note = '' };
+    'simspaceweaver'                     = [PSCustomObject]@{ Prefix = 'SSW'; Name = 'AWS SimSpace Weaver'; Url = 'https://aws.amazon.com/simspaceweaver/'; Note = '' };
     'sms'                                = [PSCustomObject]@{ Prefix = 'SMS'; Name = 'AWS Sever Migration Service'; Url = 'https://aws.amazon.com/server-migration-service/'; Note = '' };
     'snow-device-management'             = [PSCustomObject]@{ Prefix = 'SDMS'; Name = 'Amazon Web Services Snow Device Management'; Url = 'https://aws.amazon.com/snow/'; Note = '' }; 
     'snowball'                           = [PSCustomObject]@{ Prefix = 'SNOW'; Name = 'AWS Snow Family'; Url = 'https://aws.amazon.com/snow/'; Note = '' };
@@ -527,6 +533,7 @@ $g_CmdletReferenceLinks = @{
     'dlm'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Data_Lifecycle_Manager_cmdlets.html';
     'dms'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Database_Migration_Service_cmdlets.html';
     'docdb'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DocumentDB_cmdlets.html';
+    'docdb-elastic'                      = ''
     'drs'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Drs_cmdlets.html';
     'ds'                                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Directory_Service_cmdlets.html';
     'dynamodb'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html';
@@ -658,7 +665,9 @@ $g_CmdletReferenceLinks = @{
     'networkmanager'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html'
     'nimble'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/NimbleStudio_cmdlets.html';
     'oam'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/OAM_cmdlets.html'
+    'omics'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Omics_cmdlets.html'
     'opensearch'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchService_cmdlets.html';
+    'opensearchserverless'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchServerless_cmdlets.html'
     'opsworks'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
     'organizations'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html';
@@ -708,6 +717,7 @@ $g_CmdletReferenceLinks = @{
     'sagemaker-a2i-runtime'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AugmentedAIRuntime_cmdlets.html';
     'sagemaker-edge'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SagemakerEdgeManager_cmdlets.html';
     'sagemaker-featurestore-runtime'     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerFeatureStoreRuntime_cmdlets.html';
+    'sagemaker-geospatial'               = ''
     'sagemaker-runtime'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html';
     'savingsplans'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html';
     'scheduler'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Scheduler_cmdlets.html'
@@ -715,6 +725,7 @@ $g_CmdletReferenceLinks = @{
     'sdb'                                = '';
     'secretsmanager'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Secrets_Manager_cmdlets.html';
     'securityhub'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Hub_cmdlets.html';
+    'securitylake'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SecurityLake_cmdlets.html'
     'serverlessrepo'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Serverless_Application_Repository_cmdlets.html';
     'service-quotas'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Service_Quotas_cmdlets.html';
     'servicecatalog-appregistry'         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AppRegistry_cmdlets.html';
@@ -723,6 +734,7 @@ $g_CmdletReferenceLinks = @{
     'ses'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmail_cmdlets.html';
     'sesv2'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmailV2_cmdlets.html';
     'signer'                             = '';
+    'simspaceweaver'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SimSpaceWeaver_cmdlets.html'
     'sms'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Server_Migration_Service_cmdlets.html';
     'snow-device-management'             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SnowDeviceManagement_cmdlets.html';
     'snowball'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_Snowball_cmdlets.html';

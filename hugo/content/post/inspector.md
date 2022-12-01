@@ -1,6 +1,6 @@
 ---
 title: inspector
-date: 2022-11-30
+date: 2022-12-01
 description: aws inspector (Amazon Inspector) command/cmdlet list.
 ---
 

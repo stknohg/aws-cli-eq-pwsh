@@ -1,12 +1,12 @@
 ---
 title: cloudcontrol
-date: 2022-11-30
+date: 2022-12-01
 description: aws cloudcontrol (AWS Cloud Control API) command/cmdlet list.
 ---
 
 ## cloudcontrol
 
-### [AWS Cloud Control API](https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/)
+### [AWS Cloud Control API](https://aws.amazon.com/cloudcontrolapi/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudcontrol/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CloudControlApi_cmdlets.html)

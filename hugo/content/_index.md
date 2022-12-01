@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-11-30
+date: 2022-12-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.217 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.218 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -37,7 +37,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon AppFlow](https://aws.amazon.com/appflow/)|[appflow]({{%relref "post/appflow.md" %}})|AF||
 |[Amazon AppIntegrations APIs](https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html)|[appintegrations]({{%relref "post/appintegrations.md" %}})|AIS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
-|[Amazon CloudWatch Application Insights](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
+|[Amazon CloudWatch Application Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
 |[AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)|[applicationcostprofiler]({{%relref "post/applicationcostprofiler.md" %}})|ACP ||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
 |[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR ||
@@ -63,7 +63,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})|CHMMG|Amazon Chime SDK Messaging API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-voice]({{%relref "post/chime-sdk-voice.md" %}})|CHMVO|Amazon Chime Voice Connector|
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
-|[AWS Cloud Control API](https://docs.aws.amazon.com/ja_jp/cloudcontrolapi/latest/userguide/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
+|[AWS Cloud Control API](https://aws.amazon.com/cloudcontrolapi/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
 |[AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
 |[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CF||
@@ -102,7 +102,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Data Exchange](https://aws.amazon.com/data-exchange/)|[dataexchange]({{%relref "post/dataexchange.md" %}})|DTEX||
 |[AWS Data Pipeline](https://aws.amazon.com/datapipeline/)|[datapipeline]({{%relref "post/datapipeline.md" %}})|DP||
 |[AWS DataSync](https://aws.amazon.com/datasync/)|[datasync]({{%relref "post/datasync.md" %}})|DSYN||
-|[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/)|[dax]({{%relref "post/dax.md" %}})|DAX||
+|[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/dax/)|[dax]({{%relref "post/dax.md" %}})|DAX||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})|DDB|High level DynamoDB commands.|
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
 |[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|DTCT||
@@ -113,6 +113,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Data Lifecycle Manager](https://aws.amazon.com/ebs/)|[dlm]({{%relref "post/dlm.md" %}})|DLM||
 |[AWS Database Migration Service](https://aws.amazon.com/dms/)|[dms]({{%relref "post/dms.md" %}})|DMS||
 |[Amazon DocumentDB](https://aws.amazon.com/documentdb/)|[docdb]({{%relref "post/docdb.md" %}})|DOC||
+|[Amazon DocumentDB Elastic Clusters](https://aws.amazon.com/documentdb/)|[docdb-elastic]({{%relref "post/docdb-elastic.md" %}})|DOCE||
 |[AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)|[drs]({{%relref "post/drs.md" %}})|EDRS||
 |[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds]({{%relref "post/ds.md" %}})|DS||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[dynamodb]({{%relref "post/dynamodb.md" %}})|DDB||
@@ -188,7 +189,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC ||
 |[Amazon Kendra](https://aws.amazon.com/kendra/)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
-|[Amazon Keyspaces](https://aws.amazon.com/jp/keyspaces/)|[keyspaces]({{%relref "post/keyspaces.md" %}})|KS||
+|[Amazon Keyspaces](https://aws.amazon.com/keyspaces/)|[keyspaces]({{%relref "post/keyspaces.md" %}})|KS||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||
 |[Amazon Kinesis Video Streams Media](https://aws.amazon.com/kinesis/)|[kinesis-video-media]({{%relref "post/kinesis-video-media.md" %}})|KVM||
@@ -215,7 +216,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2||
-|[Amazon Managed Blockchain](https://aws.amazon.com/jp/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
+|[Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
 |[AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)|[marketplacecommerceanalytics]({{%relref "post/marketplacecommerceanalytics.md" %}})|MCA||
@@ -244,7 +245,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|NS||
 |[Amazon CloudWatch Observability Access Manager](https://aws.amazon.com/cloudwatch/)|[oam]({{%relref "post/oam.md" %}})|CWOAM||
+|[Amazon Omics](https://aws.amazon.com/omics/)|[omics]({{%relref "post/omics.md" %}})|OMICS||
 |[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|successor to Amazon Elasticsearch Service|
+|[Amazon OpenSearch Serverless](https://aws.amazon.com/opensearch-service/features/serverless/)|[opensearchserverless]({{%relref "post/opensearchserverless.md" %}})|OSS||
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
@@ -294,6 +297,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/)|[sagemaker-a2i-runtime]({{%relref "post/sagemaker-a2i-runtime.md" %}})|A2IR||
 |[Amazon SageMaker Edge Manager](https://aws.amazon.com/sagemaker/edge-manager/)|[sagemaker-edge]({{%relref "post/sagemaker-edge.md" %}})|SME||
 |[Amazon SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)|[sagemaker-featurestore-runtime]({{%relref "post/sagemaker-featurestore-runtime.md" %}})|SMFS||
+|[Geospatial ML with Amazon SageMaker](https://aws.amazon.com/sagemaker/geospatial/)|[sagemaker-geospatial]({{%relref "post/sagemaker-geospatial.md" %}})|SMGS||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
 |[Amazon EventBridge Scheduler](https://aws.amazon.com/eventbridge/)|[scheduler]({{%relref "post/scheduler.md" %}})|SCH||
@@ -301,6 +305,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[sdb]({{%relref "post/sdb.md" %}})|||
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
 |[AWS Security Hub](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
+|[Amazon Security Lake](https://aws.amazon.com/security-lake/)|[securitylake]({{%relref "post/securitylake.md" %}})|SLK||
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||
 |[AWS Service Quotas](https://console.aws.amazon.com/servicequotas/)|[service-quotas]({{%relref "post/service-quotas.md" %}})|SQ||
 |[AWS Service Catalog](https://aws.amazon.com/servicecatalog/)|[servicecatalog]({{%relref "post/servicecatalog.md" %}})|SC||
@@ -310,6 +315,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Simple Email Service V2](https://aws.amazon.com/ses/)|[sesv2]({{%relref "post/sesv2.md" %}})|SES2||
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
+|[AWS SimSpace Weaver](https://aws.amazon.com/simspaceweaver/)|[simspaceweaver]({{%relref "post/simspaceweaver.md" %}})|SSW||
 |[AWS Sever Migration Service](https://aws.amazon.com/server-migration-service/)|[sms]({{%relref "post/sms.md" %}})|SMS||
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||

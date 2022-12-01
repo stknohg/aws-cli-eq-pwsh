@@ -1,6 +1,6 @@
 ---
 title: resource-explorer-2
-date: 2022-11-30
+date: 2022-12-01
 description: aws resource-explorer-2 (AWS Resource Explorer) command/cmdlet list.
 ---
 

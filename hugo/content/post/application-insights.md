@@ -1,12 +1,12 @@
 ---
 title: application-insights
-date: 2022-11-30
+date: 2022-12-01
 description: aws application-insights (Amazon CloudWatch Application Insights) command/cmdlet list.
 ---
 
 ## application-insights
 
-### [Amazon CloudWatch Application Insights](http://docs.amazonaws.cn/en_us/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)
+### [Amazon CloudWatch Application Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/application-insights/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Application_Insights_cmdlets.html)

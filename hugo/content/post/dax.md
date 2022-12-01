@@ -1,12 +1,12 @@
 ---
 title: dax
-date: 2022-11-30
+date: 2022-12-01
 description: aws dax (Amazon DynamoDB Accelerator) command/cmdlet list.
 ---
 
 ## dax
 
-### [Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/)
+### [Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/dax/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/dax/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_Accelerator_(DAX)_cmdlets.html)

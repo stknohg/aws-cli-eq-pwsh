@@ -1,12 +1,12 @@
 ---
 title: keyspaces
-date: 2022-11-30
+date: 2022-12-01
 description: aws keyspaces (Amazon Keyspaces) command/cmdlet list.
 ---
 
 ## keyspaces
 
-### [Amazon Keyspaces](https://aws.amazon.com/jp/keyspaces/)
+### [Amazon Keyspaces](https://aws.amazon.com/keyspaces/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/keyspaces/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Keyspaces_cmdlets.html)

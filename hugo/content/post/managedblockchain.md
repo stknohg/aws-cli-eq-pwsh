@@ -1,12 +1,12 @@
 ---
 title: managedblockchain
-date: 2022-11-30
+date: 2022-12-01
 description: aws managedblockchain (Amazon Managed Blockchain) command/cmdlet list.
 ---
 
 ## managedblockchain
 
-### [Amazon Managed Blockchain](https://aws.amazon.com/jp/managed-blockchain/)
+### [Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/managedblockchain/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Managed_Blockchain_cmdlets.html)

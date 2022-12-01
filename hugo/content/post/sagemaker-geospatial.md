@@ -9,7 +9,7 @@ description: aws sagemaker-geospatial (Geospatial ML with Amazon SageMaker) comm
 ### [Geospatial ML with Amazon SageMaker](https://aws.amazon.com/sagemaker/geospatial/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-geospatial/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerGeospatial_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

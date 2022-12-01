@@ -9,7 +9,7 @@ description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 ### [Amazon DocumentDB](https://aws.amazon.com/documentdb/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/docdb/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DocumentDB_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/DocDB_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

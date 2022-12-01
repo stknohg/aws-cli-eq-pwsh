@@ -9,7 +9,7 @@ description: aws docdb-elastic (Amazon DocumentDB Elastic Clusters) command/cmdl
 ### [Amazon DocumentDB Elastic Clusters](https://aws.amazon.com/documentdb/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/docdb-elastic/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/DocDBElastic_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

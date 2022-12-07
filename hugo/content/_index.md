@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-12-01
+date: 2022-12-07
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.218 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.4 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.222 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -75,6 +75,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[cloudwatch]({{%relref "post/cloudwatch.md" %}})|CW||
 |[AWS Artifact](https://aws.amazon.com/artifact/)|[codeartifact]({{%relref "post/codeartifact.md" %}})|CA||
 |[AWS CodeBuild](https://aws.amazon.com/codebuild/)|[codebuild]({{%relref "post/codebuild.md" %}})|CB||
+|[Amazon CodeCatalyst](https://aws.amazon.com/codecatalyst/)|[codecatalyst]({{%relref "post/codecatalyst.md" %}})|||
 |[AWS CodeCommit](https://aws.amazon.com/codecommit/)|[codecommit]({{%relref "post/codecommit.md" %}})|CC||
 |[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)|[codeguru-reviewer]({{%relref "post/codeguru-reviewer.md" %}})|CGR||
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||
@@ -261,6 +262,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Pinpoint Email](https://aws.amazon.com/pinpoint/)|[pinpoint-email]({{%relref "post/pinpoint-email.md" %}})|PINE||
 |[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice]({{%relref "post/pinpoint-sms-voice.md" %}})|PINE||
 |[Amazon Pinpoint SMS and Voice Messaging](https://aws.amazon.com/pinpoint/)|[pinpoint-sms-voice-v2]({{%relref "post/pinpoint-sms-voice-v2.md" %}})|SMSV||
+|[Amazon EventBridge Pipes](https://aws.amazon.com/eventbridge/pipes/)|[pipes]({{%relref "post/pipes.md" %}})|PIPES||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
 |[AWS Private 5G](https://aws.amazon.com/private5g/)|[privatenetworks]({{%relref "post/privatenetworks.md" %}})|PV5G||

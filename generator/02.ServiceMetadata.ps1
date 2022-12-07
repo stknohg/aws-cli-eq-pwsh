@@ -159,6 +159,7 @@ $g_AWSServices = @{
     'cloudwatch'                         = [PSCustomObject]@{ Prefix = 'CW'; Name = 'Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'codeartifact'                       = [PSCustomObject]@{ Prefix = 'CA'; Name = 'AWS Artifact'; Url = 'https://aws.amazon.com/artifact/'; Note = '' };
     'codebuild'                          = [PSCustomObject]@{ Prefix = 'CB'; Name = 'AWS CodeBuild'; Url = 'https://aws.amazon.com/codebuild/'; Note = '' };
+    'codecatalyst'                       = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon CodeCatalyst'; Url = 'https://aws.amazon.com/codecatalyst/'; Note = '' };
     'codecommit'                         = [PSCustomObject]@{ Prefix = 'CC'; Name = 'AWS CodeCommit'; Url = 'https://aws.amazon.com/codecommit/'; Note = '' };
     'codeguru-reviewer'                  = [PSCustomObject]@{ Prefix = 'CGR'; Name = 'Amazon CodeGuru Reviewer'; Url = 'https://aws.amazon.com/codeguru/'; Note = '' };
     'codeguruprofiler'                   = [PSCustomObject]@{ Prefix = 'CGP'; Name = 'Amazon CodeGuru Profiler'; Url = 'https://aws.amazon.com/codeguru/'; Note = '' };
@@ -345,6 +346,7 @@ $g_AWSServices = @{
     'pinpoint-email'                     = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint Email'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'pinpoint-sms-voice'                 = [PSCustomObject]@{ Prefix = 'PINE'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
     'pinpoint-sms-voice-v2'              = [PSCustomObject]@{ Prefix = 'SMSV'; Name = 'Amazon Pinpoint SMS and Voice Messaging'; Url = 'https://aws.amazon.com/pinpoint/'; Note = '' };
+    'pipes'                              = [PSCustomObject]@{ Prefix = 'PIPES'; Name = 'Amazon EventBridge Pipes'; Url = 'https://aws.amazon.com/eventbridge/pipes/'; Note = '' };
     'polly'                              = [PSCustomObject]@{ Prefix = 'POL'; Name = 'Amazon Polly'; Url = 'https://aws.amazon.com/pinpoint/polly/'; Note = '' };
     'pricing'                            = [PSCustomObject]@{ Prefix = 'PLS'; Name = 'AWS Price List Service'; Url = 'https://aws.amazon.com/pricing/'; Note = '' };
     'privatenetworks'                    = [PSCustomObject]@{ Prefix = 'PV5G'; Name = 'AWS Private 5G'; Url = 'https://aws.amazon.com/private5g/'; Note = '' };
@@ -496,6 +498,7 @@ $g_CmdletReferenceLinks = @{
     'cloudwatch'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_cmdlets.html';
     'codeartifact'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeArtifact_cmdlets.html';
     'codebuild'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeBuild_cmdlets.html';
+    'codecatalyst'                       = ''
     'codecommit'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeCommit_cmdlets.html';
     'codeguru-reviewer'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruReviewer_cmdlets.html'
     'codeguruprofiler'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruProfiler_cmdlets.html'
@@ -681,6 +684,7 @@ $g_CmdletReferenceLinks = @{
     'pinpoint-email'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html';
     'pinpoint-sms-voice'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointEmail_cmdlets.html';
     'pinpoint-sms-voice-v2'              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/PinpointSMSVoiceV2_cmdlets.html';
+    'pipes'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Pipes_cmdlets.html'
     'polly'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Polly_cmdlets.html';
     'pricing'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html';
     'privatenetworks'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Private5G_cmdlets.html'

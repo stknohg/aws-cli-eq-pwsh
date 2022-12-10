@@ -159,7 +159,7 @@ $g_AWSServices = @{
     'cloudwatch'                         = [PSCustomObject]@{ Prefix = 'CW'; Name = 'Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'codeartifact'                       = [PSCustomObject]@{ Prefix = 'CA'; Name = 'AWS Artifact'; Url = 'https://aws.amazon.com/artifact/'; Note = '' };
     'codebuild'                          = [PSCustomObject]@{ Prefix = 'CB'; Name = 'AWS CodeBuild'; Url = 'https://aws.amazon.com/codebuild/'; Note = '' };
-    'codecatalyst'                       = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon CodeCatalyst'; Url = 'https://aws.amazon.com/codecatalyst/'; Note = '' };
+    'codecatalyst'                       = [PSCustomObject]@{ Prefix = 'CCAT'; Name = 'Amazon CodeCatalyst'; Url = 'https://aws.amazon.com/codecatalyst/'; Note = '' };
     'codecommit'                         = [PSCustomObject]@{ Prefix = 'CC'; Name = 'AWS CodeCommit'; Url = 'https://aws.amazon.com/codecommit/'; Note = '' };
     'codeguru-reviewer'                  = [PSCustomObject]@{ Prefix = 'CGR'; Name = 'Amazon CodeGuru Reviewer'; Url = 'https://aws.amazon.com/codeguru/'; Note = '' };
     'codeguruprofiler'                   = [PSCustomObject]@{ Prefix = 'CGP'; Name = 'Amazon CodeGuru Profiler'; Url = 'https://aws.amazon.com/codeguru/'; Note = '' };
@@ -498,7 +498,7 @@ $g_CmdletReferenceLinks = @{
     'cloudwatch'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_cmdlets.html';
     'codeartifact'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeArtifact_cmdlets.html';
     'codebuild'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeBuild_cmdlets.html';
-    'codecatalyst'                       = ''
+    'codecatalyst'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeCatalyst_cmdlets.html'
     'codecommit'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeCommit_cmdlets.html';
     'codeguru-reviewer'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruReviewer_cmdlets.html'
     'codeguruprofiler'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruProfiler_cmdlets.html'

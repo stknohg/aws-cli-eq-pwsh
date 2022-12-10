@@ -1,6 +1,6 @@
 ---
 title: firehose
-date: 2022-12-07
+date: 2022-12-10
 description: aws firehose (Amazon Kinesis Data Firehose) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-12-07
+date: 2022-12-10
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.4 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.222 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.6 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.227 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -75,7 +75,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[cloudwatch]({{%relref "post/cloudwatch.md" %}})|CW||
 |[AWS Artifact](https://aws.amazon.com/artifact/)|[codeartifact]({{%relref "post/codeartifact.md" %}})|CA||
 |[AWS CodeBuild](https://aws.amazon.com/codebuild/)|[codebuild]({{%relref "post/codebuild.md" %}})|CB||
-|[Amazon CodeCatalyst](https://aws.amazon.com/codecatalyst/)|[codecatalyst]({{%relref "post/codecatalyst.md" %}})|||
+|[Amazon CodeCatalyst](https://aws.amazon.com/codecatalyst/)|[codecatalyst]({{%relref "post/codecatalyst.md" %}})|CCAT||
 |[AWS CodeCommit](https://aws.amazon.com/codecommit/)|[codecommit]({{%relref "post/codecommit.md" %}})|CC||
 |[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)|[codeguru-reviewer]({{%relref "post/codeguru-reviewer.md" %}})|CGR||
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||

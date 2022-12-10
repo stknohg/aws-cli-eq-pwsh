@@ -1,6 +1,6 @@
 ---
 title: iottwinmaker
-date: 2022-12-07
+date: 2022-12-10
 description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 ---
 
@@ -17,10 +17,12 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |[aws iottwinmaker create-component-type](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/create-component-type.html)|[New-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMComponentType.html)|
 |[aws iottwinmaker create-entity](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/create-entity.html)|[New-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMEntity.html)|
 |[aws iottwinmaker create-scene](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/create-scene.html)|[New-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMScene.html)|
+|[aws iottwinmaker create-sync-job](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/create-sync-job.html)|[New-IOTTMSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMSyncJob.html)|
 |[aws iottwinmaker create-workspace](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/create-workspace.html)|[New-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMWorkspace.html)|
 |[aws iottwinmaker delete-component-type](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-component-type.html)|[Remove-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMComponentType.html)|
 |[aws iottwinmaker delete-entity](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-entity.html)|[Remove-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMEntity.html)|
 |[aws iottwinmaker delete-scene](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-scene.html)|[Remove-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMScene.html)|
+|[aws iottwinmaker delete-sync-job](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-sync-job.html)|[Remove-IOTTMSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMSyncJob.html)|
 |[aws iottwinmaker delete-workspace](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/delete-workspace.html)|[Remove-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTTMWorkspace.html)|
 |[aws iottwinmaker execute-query](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/execute-query.html)|[Invoke-IOTTMQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-IOTTMQuery.html)|
 |[aws iottwinmaker get-component-type](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-component-type.html)|[Get-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMComponentType.html)|
@@ -29,10 +31,13 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |[aws iottwinmaker get-property-value](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-property-value.html)|[Get-IOTTMPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyValue.html)|
 |[aws iottwinmaker get-property-value-history](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-property-value-history.html)|[Get-IOTTMPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyValueHistory.html)|
 |[aws iottwinmaker get-scene](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-scene.html)|[Get-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMScene.html)|
+|[aws iottwinmaker get-sync-job](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-sync-job.html)|[Get-IOTTMSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSyncJob.html)|
 |[aws iottwinmaker get-workspace](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/get-workspace.html)|[Get-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMWorkspace.html)|
 |[aws iottwinmaker list-component-types](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-component-types.html)|[Get-IOTTMComponentTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMComponentTypeList.html)|
 |[aws iottwinmaker list-entities](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-entities.html)|[Get-IOTTMEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMEntityList.html)|
 |[aws iottwinmaker list-scenes](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-scenes.html)|[Get-IOTTMSceneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSceneList.html)|
+|[aws iottwinmaker list-sync-jobs](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-sync-jobs.html)|[Get-IOTTMSyncJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSyncJobList.html)|
+|[aws iottwinmaker list-sync-resources](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-sync-resources.html)|[Get-IOTTMSyncResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSyncResourceList.html)|
 |[aws iottwinmaker list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-tags-for-resource.html)|[Get-IOTTMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMResourceTag.html)|
 |[aws iottwinmaker list-workspaces](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/list-workspaces.html)|[Get-IOTTMWorkspaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMWorkspaceList.html)|
 |[aws iottwinmaker tag-resource](https://docs.aws.amazon.com/cli/latest/reference/iottwinmaker/tag-resource.html)|[Add-IOTTMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTTMResourceTag.html)|

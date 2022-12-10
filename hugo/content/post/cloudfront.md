@@ -1,6 +1,6 @@
 ---
 title: cloudfront
-date: 2022-12-07
+date: 2022-12-10
 description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 ---
 
@@ -109,6 +109,7 @@ description: aws cloudfront (Amazon CloudFront) command/cmdlet list.
 |[aws cloudfront update-cloud-front-origin-access-identity](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-cloud-front-origin-access-identity.html)|[Update-CFCloudFrontOriginAccessIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFCloudFrontOriginAccessIdentity.html)|
 |[aws cloudfront update-continuous-deployment-policy](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-continuous-deployment-policy.html)|[Update-CFContinuousDeploymentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFContinuousDeploymentPolicy.html)|
 |[aws cloudfront update-distribution](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-distribution.html)|[Update-CFDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFDistribution.html)|
+|[aws cloudfront update-distribution-with-staging-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-distribution-with-staging-config.html)|[Update-CFDistributionWithStagingConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFDistributionWithStagingConfig.html)|
 |[aws cloudfront update-field-level-encryption-config](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-field-level-encryption-config.html)|[Update-CFFieldLevelEncryptionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFFieldLevelEncryptionConfig.html)|
 |[aws cloudfront update-field-level-encryption-profile](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-field-level-encryption-profile.html)|[Update-CFFieldLevelEncryptionProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFFieldLevelEncryptionProfile.html)|
 |[aws cloudfront update-function](https://docs.aws.amazon.com/cli/latest/reference/cloudfront/update-function.html)|[Update-CFFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFFunction.html)|

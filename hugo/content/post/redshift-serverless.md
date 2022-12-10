@@ -1,6 +1,6 @@
 ---
 title: redshift-serverless
-date: 2022-12-07
+date: 2022-12-10
 description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet list.
 ---
 
@@ -31,18 +31,21 @@ description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet
 |[aws redshift-serverless get-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-recovery-point.html)|[Get-RSSRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSRecoveryPoint.html)|
 |[aws redshift-serverless get-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-resource-policy.html)|[Get-RSSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSResourcePolicy.html)|
 |[aws redshift-serverless get-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-snapshot.html)|[Get-RSSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSSnapshot.html)|
+|[aws redshift-serverless get-table-restore-status](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-table-restore-status.html)|[Get-RSSTableRestoreStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSTableRestoreStatus.html)|
 |[aws redshift-serverless get-usage-limit](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-usage-limit.html)|[Get-RSSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSUsageLimit.html)|
 |[aws redshift-serverless get-workgroup](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/get-workgroup.html)|[Get-RSSWorkgroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSWorkgroup.html)|
 |[aws redshift-serverless list-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-endpoint-access.html)|[Get-RSSEndpointAccessList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSEndpointAccessList.html)|
 |[aws redshift-serverless list-namespaces](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-namespaces.html)|[Get-RSSNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSNamespaceList.html)|
 |[aws redshift-serverless list-recovery-points](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-recovery-points.html)|[Get-RSSRecoveryPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSRecoveryPointList.html)|
 |[aws redshift-serverless list-snapshots](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-snapshots.html)|[Get-RSSSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSSnapshotList.html)|
+|[aws redshift-serverless list-table-restore-status](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-table-restore-status.html)|[Get-RSSTableRestoreStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSTableRestoreStatusList.html)|
 |[aws redshift-serverless list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-tags-for-resource.html)|[Get-RSSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSResourceTag.html)|
 |[aws redshift-serverless list-usage-limits](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-usage-limits.html)|[Get-RSSUsageLimitList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSUsageLimitList.html)|
 |[aws redshift-serverless list-workgroups](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/list-workgroups.html)|[Get-RSSWorkgroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSWorkgroupList.html)|
 |[aws redshift-serverless put-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/put-resource-policy.html)|[Write-RSSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-RSSResourcePolicy.html)|
 |[aws redshift-serverless restore-from-recovery-point](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/restore-from-recovery-point.html)|[Restore-RSSFromRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RSSFromRecoveryPoint.html)|
 |[aws redshift-serverless restore-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/restore-from-snapshot.html)|[Restore-RSSFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RSSFromSnapshot.html)|
+|[aws redshift-serverless restore-table-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/restore-table-from-snapshot.html)|[Restore-RSSTableFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-RSSTableFromSnapshot.html)|
 |[aws redshift-serverless tag-resource](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/tag-resource.html)|[Add-RSSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RSSResourceTag.html)|
 |[aws redshift-serverless untag-resource](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/untag-resource.html)|[Remove-RSSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSResourceTag.html)|
 |[aws redshift-serverless update-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/redshift-serverless/update-endpoint-access.html)|[Update-RSSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSEndpointAccess.html)|

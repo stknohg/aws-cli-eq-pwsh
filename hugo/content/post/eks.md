@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2022-12-07
+date: 2022-12-10
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks delete-nodegroup](https://docs.aws.amazon.com/cli/latest/reference/eks/delete-nodegroup.html)|[Remove-EKSNodegroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSNodegroup.html)|
 |[aws eks deregister-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/deregister-cluster.html)|[Unregister-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EKSCluster.html)|
 |[aws eks describe-addon](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-addon.html)|[Get-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddon.html)|
+|[aws eks describe-addon-configuration](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-addon-configuration.html)|[Get-EKSAddonConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonConfiguration.html)|
 |[aws eks describe-addon-versions](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-addon-versions.html)|[Get-EKSAddonVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonVersion.html)|
 |[aws eks describe-cluster](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-cluster.html)|[Get-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCluster.html)|
 |[aws eks describe-fargate-profile](https://docs.aws.amazon.com/cli/latest/reference/eks/describe-fargate-profile.html)|[Get-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfile.html)|

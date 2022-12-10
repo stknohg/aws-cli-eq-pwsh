@@ -1,6 +1,6 @@
 ---
 title: backupstorage
-date: 2022-12-07
+date: 2022-12-10
 description: aws backupstorage (AWS Backup Storage) command/cmdlet list.
 ---
 

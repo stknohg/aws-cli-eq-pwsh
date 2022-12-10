@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2022-12-07
+date: 2022-12-10
 description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws autoscaling attach-instances](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-instances.html)|[Mount-ASInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-ASInstance.html)|
 |[aws autoscaling attach-load-balancer-target-groups](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-load-balancer-target-groups.html)|[Add-ASLoadBalancerTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASLoadBalancerTargetGroup.html)|
 |[aws autoscaling attach-load-balancers](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-load-balancers.html)|[Add-ASLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASLoadBalancer.html)|
+|[aws autoscaling attach-traffic-sources](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/attach-traffic-sources.html)|[Add-ASTrafficSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASTrafficSource.html)|
 |[aws autoscaling batch-delete-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/batch-delete-scheduled-action.html)|[Remove-ASScheduledActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASScheduledActionBatch.html)|
 |[aws autoscaling batch-put-scheduled-update-group-action](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/batch-put-scheduled-update-group-action.html)|[Set-ASScheduledUpdateGroupActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASScheduledUpdateGroupActionBatch.html)|
 |[aws autoscaling cancel-instance-refresh](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/cancel-instance-refresh.html)|[Stop-ASInstanceRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASInstanceRefresh.html)|
@@ -50,10 +51,12 @@ description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws autoscaling describe-scheduled-actions](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-scheduled-actions.html)|[Get-ASScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASScheduledAction.html)|
 |[aws autoscaling describe-tags](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-tags.html)|[Get-ASTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTag.html)|
 |[aws autoscaling describe-termination-policy-types](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-termination-policy-types.html)|[Get-ASTerminationPolicyType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTerminationPolicyType.html)|
+|[aws autoscaling describe-traffic-sources](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-traffic-sources.html)|[Get-ASTrafficSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASTrafficSource.html)|
 |[aws autoscaling describe-warm-pool](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/describe-warm-pool.html)|[Get-ASWarmPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASWarmPool.html)|
 |[aws autoscaling detach-instances](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-instances.html)|[Dismount-ASInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASInstance.html)|
 |[aws autoscaling detach-load-balancer-target-groups](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-load-balancer-target-groups.html)|[Dismount-ASLoadBalancerTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASLoadBalancerTargetGroup.html)|
 |[aws autoscaling detach-load-balancers](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-load-balancers.html)|[Dismount-ASLoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASLoadBalancer.html)|
+|[aws autoscaling detach-traffic-sources](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/detach-traffic-sources.html)|[Dismount-ASTrafficSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-ASTrafficSource.html)|
 |[aws autoscaling disable-metrics-collection](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/disable-metrics-collection.html)|[Disable-ASMetricsCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-ASMetricsCollection.html)|
 |[aws autoscaling enable-metrics-collection](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/enable-metrics-collection.html)|[Enable-ASMetricsCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-ASMetricsCollection.html)|
 |[aws autoscaling enter-standby](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/enter-standby.html)|[Enter-ASStandby](https://docs.aws.amazon.com/powershell/latest/reference/items/Enter-ASStandby.html)|

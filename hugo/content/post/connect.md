@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-12-07
+date: 2022-12-10
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-queue](https://docs.aws.amazon.com/cli/latest/reference/connect/create-queue.html)|[New-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNQueue.html)|
 |[aws connect create-quick-connect](https://docs.aws.amazon.com/cli/latest/reference/connect/create-quick-connect.html)|[New-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNQuickConnect.html)|
 |[aws connect create-routing-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/create-routing-profile.html)|[New-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNRoutingProfile.html)|
+|[aws connect create-rule](https://docs.aws.amazon.com/cli/latest/reference/connect/create-rule.html)|[New-CONNRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNRule.html)|
 |[aws connect create-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/create-security-profile.html)|[New-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNSecurityProfile.html)|
 |[aws connect create-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/create-task-template.html)|[New-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNTaskTemplate.html)|
 |[aws connect create-traffic-distribution-group](https://docs.aws.amazon.com/cli/latest/reference/connect/create-traffic-distribution-group.html)|[New-CONNTrafficDistributionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNTrafficDistributionGroup.html)|
@@ -46,6 +47,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-instance](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-instance.html)|[Remove-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstance.html)|
 |[aws connect delete-integration-association](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-integration-association.html)|[Remove-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNIntegrationAssociation.html)|
 |[aws connect delete-quick-connect](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-quick-connect.html)|[Remove-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQuickConnect.html)|
+|[aws connect delete-rule](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-rule.html)|[Remove-CONNRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNRule.html)|
 |[aws connect delete-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-security-profile.html)|[Remove-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNSecurityProfile.html)|
 |[aws connect delete-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-task-template.html)|[Remove-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNTaskTemplate.html)|
 |[aws connect delete-traffic-distribution-group](https://docs.aws.amazon.com/cli/latest/reference/connect/delete-traffic-distribution-group.html)|[Remove-CONNTrafficDistributionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNTrafficDistributionGroup.html)|
@@ -65,6 +67,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect describe-queue](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-queue.html)|[Get-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQueue.html)|
 |[aws connect describe-quick-connect](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-quick-connect.html)|[Get-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQuickConnect.html)|
 |[aws connect describe-routing-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-routing-profile.html)|[Get-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfile.html)|
+|[aws connect describe-rule](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-rule.html)|[Get-CONNRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRule.html)|
 |[aws connect describe-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-security-profile.html)|[Get-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfile.html)|
 |[aws connect describe-traffic-distribution-group](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-traffic-distribution-group.html)|[Get-CONNTrafficDistributionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNTrafficDistributionGroup.html)|
 |[aws connect describe-user](https://docs.aws.amazon.com/cli/latest/reference/connect/describe-user.html)|[Get-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUser.html)|
@@ -110,6 +113,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-quick-connects](https://docs.aws.amazon.com/cli/latest/reference/connect/list-quick-connects.html)|[Get-CONNQuickConnectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQuickConnectList.html)|
 |[aws connect list-routing-profile-queues](https://docs.aws.amazon.com/cli/latest/reference/connect/list-routing-profile-queues.html)|[Get-CONNRoutingProfileQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileQueueList.html)|
 |[aws connect list-routing-profiles](https://docs.aws.amazon.com/cli/latest/reference/connect/list-routing-profiles.html)|[Get-CONNRoutingProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileList.html)|
+|[aws connect list-rules](https://docs.aws.amazon.com/cli/latest/reference/connect/list-rules.html)|[Get-CONNRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRuleList.html)|
 |[aws connect list-security-keys](https://docs.aws.amazon.com/cli/latest/reference/connect/list-security-keys.html)|[Get-CONNSecurityKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityKeyList.html)|
 |[aws connect list-security-profile-permissions](https://docs.aws.amazon.com/cli/latest/reference/connect/list-security-profile-permissions.html)|[Get-CONNSecurityProfilePermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfilePermissionList.html)|
 |[aws connect list-security-profiles](https://docs.aws.amazon.com/cli/latest/reference/connect/list-security-profiles.html)|[Get-CONNSecurityProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfileList.html)|
@@ -166,6 +170,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-routing-profile-default-outbound-queue](https://docs.aws.amazon.com/cli/latest/reference/connect/update-routing-profile-default-outbound-queue.html)|[Update-CONNRoutingProfileDefaultOutboundQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNRoutingProfileDefaultOutboundQueue.html)|
 |[aws connect update-routing-profile-name](https://docs.aws.amazon.com/cli/latest/reference/connect/update-routing-profile-name.html)|[Update-CONNRoutingProfileName](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNRoutingProfileName.html)|
 |[aws connect update-routing-profile-queues](https://docs.aws.amazon.com/cli/latest/reference/connect/update-routing-profile-queues.html)|[Update-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNRoutingProfileQueue.html)|
+|[aws connect update-rule](https://docs.aws.amazon.com/cli/latest/reference/connect/update-rule.html)|[Update-CONNRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNRule.html)|
 |[aws connect update-security-profile](https://docs.aws.amazon.com/cli/latest/reference/connect/update-security-profile.html)|[Update-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNSecurityProfile.html)|
 |[aws connect update-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/update-task-template.html)|[Update-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNTaskTemplate.html)|
 |[aws connect update-traffic-distribution](https://docs.aws.amazon.com/cli/latest/reference/connect/update-traffic-distribution.html)|[Update-CONNTrafficDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNTrafficDistribution.html)|

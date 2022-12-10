@@ -1,6 +1,6 @@
 ---
 title: migrationhubstrategy
-date: 2022-12-07
+date: 2022-12-10
 description: aws migrationhubstrategy (AWS Migration Hub Strategy Recommendations) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws migrationhubstrategy (AWS Migration Hub Strategy Recommendation
 |[aws migrationhubstrategy get-application-component-strategies](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-application-component-strategies.html)|[Get-MHSApplicationComponentStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSApplicationComponentStrategy.html)|
 |[aws migrationhubstrategy get-assessment](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-assessment.html)|[Get-MHSAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSAssessment.html)|
 |[aws migrationhubstrategy get-import-file-task](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-import-file-task.html)|[Get-MHSImportFileTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSImportFileTask.html)|
+|[aws migrationhubstrategy get-latest-assessment-id](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-latest-assessment-id.html)|[Get-MHSLatestAssessmentId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSLatestAssessmentId.html)|
 |[aws migrationhubstrategy get-portfolio-preferences](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-portfolio-preferences.html)|[Get-MHSPortfolioPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSPortfolioPreference.html)|
 |[aws migrationhubstrategy get-portfolio-summary](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-portfolio-summary.html)|[Get-MHSPortfolioSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSPortfolioSummary.html)|
 |[aws migrationhubstrategy get-recommendation-report-details](https://docs.aws.amazon.com/cli/latest/reference/migrationhubstrategy/get-recommendation-report-details.html)|[Get-MHSRecommendationReportDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSRecommendationReportDetail.html)|

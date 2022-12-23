@@ -279,6 +279,7 @@ $g_AWSServices = @{
     'kinesis-video-archived-media'       = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-media'                = [PSCustomObject]@{ Prefix = 'KVM'; Name = 'Amazon Kinesis Video Streams Media'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-signaling'            = [PSCustomObject]@{ Prefix = 'KVSC'; Name = 'Amazon Kinesis Video Signaling Channels'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
+    'kinesis-video-webrtc-storage'       = [PSCustomObject]@{ Prefix = 'KVWS'; Name = 'Amazon Kinesis Video WebRTC Storage'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesisanalytics'                   = [PSCustomObject]@{ Prefix = 'KINA'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesisanalyticsv2'                 = [PSCustomObject]@{ Prefix = 'KINA2'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesisvideo'                       = [PSCustomObject]@{ Prefix = 'KV'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
@@ -384,6 +385,7 @@ $g_AWSServices = @{
     'sagemaker-edge'                     = [PSCustomObject]@{ Prefix = 'SME'; Name = 'Amazon SageMaker Edge Manager'; Url = 'https://aws.amazon.com/sagemaker/edge-manager/'; Note = '' };
     'sagemaker-featurestore-runtime'     = [PSCustomObject]@{ Prefix = 'SMFS'; Name = 'Amazon SageMaker Feature Store'; Url = 'https://aws.amazon.com/sagemaker/feature-store/'; Note = '' };
     'sagemaker-geospatial'               = [PSCustomObject]@{ Prefix = 'SMGS'; Name = 'Geospatial ML with Amazon SageMaker'; Url = 'https://aws.amazon.com/sagemaker/geospatial/'; Note = '' };
+    'sagemaker-metrics'                  = [PSCustomObject]@{ Prefix = 'SMM'; Name = 'Amazon SageMaker Metrics Service'; Url = 'https://aws.amazon.com/sagemaker/'; Note = '' };
     'sagemaker-runtime'                  = [PSCustomObject]@{ Prefix = 'SMR'; Name = 'Amazon SageMaker'; Url = 'https://aws.amazon.com/sagemaker/'; Note = '' };
     'savingsplans'                       = [PSCustomObject]@{ Prefix = 'SP'; Name = 'AWS Savings Plans'; Url = 'https://aws.amazon.com/savingsplans/'; Note = '' };
     'scheduler'                          = [PSCustomObject]@{ Prefix = 'SCH'; Name = 'Amazon EventBridge Scheduler'; Url = 'https://aws.amazon.com/eventbridge/'; Note = '' };
@@ -617,6 +619,7 @@ $g_CmdletReferenceLinks = @{
     'kinesis-video-archived-media'       = '';
     'kinesis-video-media'                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Video_Streams_Media_cmdlets.html';
     'kinesis-video-signaling'            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KinesisVideoSignalingChannels_cmdlets.html';
+    'kinesis-video-webrtc-storage'       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KinesisVideoWebRTCStorage_cmdlets.html'
     'kinesisanalytics'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Analytics_cmdlets.html';
     'kinesisanalyticsv2'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Analytics_(v2)_cmdlets.html';
     'kinesisvideo'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Video_Streams_cmdlets.html';
@@ -722,6 +725,7 @@ $g_CmdletReferenceLinks = @{
     'sagemaker-edge'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SagemakerEdgeManager_cmdlets.html';
     'sagemaker-featurestore-runtime'     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerFeatureStoreRuntime_cmdlets.html';
     'sagemaker-geospatial'               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerGeospatial_cmdlets.html'
+    'sagemaker-metrics'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerMetrics_cmdlets.html'
     'sagemaker-runtime'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html';
     'savingsplans'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html';
     'scheduler'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Scheduler_cmdlets.html'

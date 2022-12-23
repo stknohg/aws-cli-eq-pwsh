@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2022-12-10
+date: 2022-12-23
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 

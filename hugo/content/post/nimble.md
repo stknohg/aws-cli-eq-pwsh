@@ -1,6 +1,6 @@
 ---
 title: nimble
-date: 2022-12-10
+date: 2022-12-23
 description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 |[aws nimble get-launch-profile-member](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-launch-profile-member.html)|[Get-NSLaunchProfileMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSLaunchProfileMember.html)|
 |[aws nimble get-streaming-image](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-streaming-image.html)|[Get-NSStreamingImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingImage.html)|
 |[aws nimble get-streaming-session](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-streaming-session.html)|[Get-NSStreamingSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingSession.html)|
+|[aws nimble get-streaming-session-backup](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-streaming-session-backup.html)|[Get-NSStreamingSessionBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingSessionBackup.html)|
 |[aws nimble get-streaming-session-stream](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-streaming-session-stream.html)|[Get-NSStreamingSessionStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingSessionStream.html)|
 |[aws nimble get-studio](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-studio.html)|[Get-NSStudio](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStudio.html)|
 |[aws nimble get-studio-component](https://docs.aws.amazon.com/cli/latest/reference/nimble/get-studio-component.html)|[Get-NSStudioComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStudioComponent.html)|
@@ -43,6 +44,7 @@ description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 |[aws nimble list-launch-profile-members](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-launch-profile-members.html)|[Get-NSLaunchProfileMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSLaunchProfileMemberList.html)|
 |[aws nimble list-launch-profiles](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-launch-profiles.html)|[Get-NSLaunchProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSLaunchProfileList.html)|
 |[aws nimble list-streaming-images](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-streaming-images.html)|[Get-NSStreamingImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingImageList.html)|
+|[aws nimble list-streaming-session-backups](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-streaming-session-backups.html)|[Get-NSStreamingSessionBackupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingSessionBackupList.html)|
 |[aws nimble list-streaming-sessions](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-streaming-sessions.html)|[Get-NSStreamingSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStreamingSessionList.html)|
 |[aws nimble list-studio-components](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-studio-components.html)|[Get-NSStudioComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStudioComponentList.html)|
 |[aws nimble list-studio-members](https://docs.aws.amazon.com/cli/latest/reference/nimble/list-studio-members.html)|[Get-NSStudioMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSStudioMemberList.html)|

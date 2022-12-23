@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-12-10
+date: 2022-12-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.6 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.227 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.9 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.236 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -195,6 +195,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||
 |[Amazon Kinesis Video Streams Media](https://aws.amazon.com/kinesis/)|[kinesis-video-media]({{%relref "post/kinesis-video-media.md" %}})|KVM||
 |[Amazon Kinesis Video Signaling Channels](https://aws.amazon.com/kinesis/)|[kinesis-video-signaling]({{%relref "post/kinesis-video-signaling.md" %}})|KVSC||
+|[Amazon Kinesis Video WebRTC Storage](https://aws.amazon.com/kinesis/)|[kinesis-video-webrtc-storage]({{%relref "post/kinesis-video-webrtc-storage.md" %}})|KVWS||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalytics]({{%relref "post/kinesisanalytics.md" %}})|KINA||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalyticsv2]({{%relref "post/kinesisanalyticsv2.md" %}})|KINA2||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisvideo]({{%relref "post/kinesisvideo.md" %}})|KV||
@@ -300,6 +301,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon SageMaker Edge Manager](https://aws.amazon.com/sagemaker/edge-manager/)|[sagemaker-edge]({{%relref "post/sagemaker-edge.md" %}})|SME||
 |[Amazon SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)|[sagemaker-featurestore-runtime]({{%relref "post/sagemaker-featurestore-runtime.md" %}})|SMFS||
 |[Geospatial ML with Amazon SageMaker](https://aws.amazon.com/sagemaker/geospatial/)|[sagemaker-geospatial]({{%relref "post/sagemaker-geospatial.md" %}})|SMGS||
+|[Amazon SageMaker Metrics Service](https://aws.amazon.com/sagemaker/)|[sagemaker-metrics]({{%relref "post/sagemaker-metrics.md" %}})|SMM||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
 |[Amazon EventBridge Scheduler](https://aws.amazon.com/eventbridge/)|[scheduler]({{%relref "post/scheduler.md" %}})|SCH||

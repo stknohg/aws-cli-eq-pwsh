@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2022-12-10
+date: 2022-12-23
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -184,6 +184,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker import-hub-content](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/import-hub-content.html)|[Import-SMHubContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SMHubContent.html)|
 |[aws sagemaker list-actions](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-actions.html)|[Get-SMActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMActionList.html)|
 |[aws sagemaker list-algorithms](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-algorithms.html)|[Get-SMAlgorithmList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAlgorithmList.html)|
+|[aws sagemaker list-aliases](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-aliases.html)|[Get-SMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAliasList.html)|
 |[aws sagemaker list-app-image-configs](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-app-image-configs.html)|[Get-SMAppImageConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAppImageConfigList.html)|
 |[aws sagemaker list-apps](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-apps.html)|[Get-SMAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAppList.html)|
 |[aws sagemaker list-artifacts](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/list-artifacts.html)|[Get-SMArtifactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMArtifactList.html)|
@@ -294,6 +295,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker update-feature-metadata](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-feature-metadata.html)|[Update-SMFeatureMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMFeatureMetadata.html)|
 |[aws sagemaker update-hub](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-hub.html)|[Update-SMHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMHub.html)|
 |[aws sagemaker update-image](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-image.html)|[Update-SMImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMImage.html)|
+|[aws sagemaker update-image-version](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-image-version.html)|[Update-SMImageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMImageVersion.html)|
 |[aws sagemaker update-inference-experiment](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-inference-experiment.html)|[Update-SMInferenceExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMInferenceExperiment.html)|
 |[aws sagemaker update-model-card](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-model-card.html)|[Update-SMModelCard](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMModelCard.html)|
 |[aws sagemaker update-model-package](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/update-model-package.html)|[Update-SMModelPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMModelPackage.html)|

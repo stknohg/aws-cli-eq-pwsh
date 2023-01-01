@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2022-12-23
+date: 2023-01-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.9 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.236 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.12 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.241 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -207,6 +207,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lexv2-models]({{%relref "post/lexv2-models.md" %}})|LMBV2||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lexv2-runtime]({{%relref "post/lexv2-runtime.md" %}})|LRSV2||
 |[AWS License Manager](https://aws.amazon.com/license-manager/)|[license-manager]({{%relref "post/license-manager.md" %}})|LICM||
+|[AWS License Manager](https://aws.amazon.com/license-manager/)|[license-manager-linux-subscriptions]({{%relref "post/license-manager-linux-subscriptions.md" %}})|LLMS|Linux subscriptions|
 |[AWS License Manager](https://aws.amazon.com/license-manager/)|[license-manager-user-subscriptions]({{%relref "post/license-manager-user-subscriptions.md" %}})|LMUS|User Subscription|
 |[Amazon Lightsail](https://aws.amazon.com/lightsail/)|[lightsail]({{%relref "post/lightsail.md" %}})|LS||
 |[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||

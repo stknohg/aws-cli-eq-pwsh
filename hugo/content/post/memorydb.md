@@ -1,6 +1,6 @@
 ---
 title: memorydb
-date: 2022-12-23
+date: 2023-01-01
 description: aws memorydb (Amazon MemoryDB for Redis) command/cmdlet list.
 ---
 
@@ -33,6 +33,8 @@ description: aws memorydb (Amazon MemoryDB for Redis) command/cmdlet list.
 |[aws memorydb describe-events](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-events.html)|[Get-MDBEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBEvent.html)|
 |[aws memorydb describe-parameter-groups](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-parameter-groups.html)|[Get-MDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBParameterGroup.html)|
 |[aws memorydb describe-parameters](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-parameters.html)|[Get-MDBParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBParameter.html)|
+|[aws memorydb describe-reserved-nodes](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-reserved-nodes.html)|[Get-MDBReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBReservedNode.html)|
+|[aws memorydb describe-reserved-nodes-offerings](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-reserved-nodes-offerings.html)|[Get-MDBReservedNodesOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBReservedNodesOffering.html)|
 |[aws memorydb describe-service-updates](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-service-updates.html)|[Get-MDBServiceUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBServiceUpdate.html)|
 |[aws memorydb describe-snapshots](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-snapshots.html)|[Get-MDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBSnapshot.html)|
 |[aws memorydb describe-subnet-groups](https://docs.aws.amazon.com/cli/latest/reference/memorydb/describe-subnet-groups.html)|[Get-MDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBSubnetGroup.html)|
@@ -40,6 +42,7 @@ description: aws memorydb (Amazon MemoryDB for Redis) command/cmdlet list.
 |[aws memorydb failover-shard](https://docs.aws.amazon.com/cli/latest/reference/memorydb/failover-shard.html)|[Start-MDBFailoverShard](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MDBFailoverShard.html)|
 |[aws memorydb list-allowed-node-type-updates](https://docs.aws.amazon.com/cli/latest/reference/memorydb/list-allowed-node-type-updates.html)|[Get-MDBAllowedNodeTypeUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBAllowedNodeTypeUpdateList.html)|
 |[aws memorydb list-tags](https://docs.aws.amazon.com/cli/latest/reference/memorydb/list-tags.html)|[Get-MDBTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBTag.html)|
+|[aws memorydb purchase-reserved-nodes-offering](https://docs.aws.amazon.com/cli/latest/reference/memorydb/purchase-reserved-nodes-offering.html)|[Request-MDBReservedNodesOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-MDBReservedNodesOffering.html)|
 |[aws memorydb reset-parameter-group](https://docs.aws.amazon.com/cli/latest/reference/memorydb/reset-parameter-group.html)|[Reset-MDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-MDBParameterGroup.html)|
 |[aws memorydb tag-resource](https://docs.aws.amazon.com/cli/latest/reference/memorydb/tag-resource.html)|[Add-MDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MDBResourceTag.html)|
 |[aws memorydb untag-resource](https://docs.aws.amazon.com/cli/latest/reference/memorydb/untag-resource.html)|[Remove-MDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MDBResourceTag.html)|

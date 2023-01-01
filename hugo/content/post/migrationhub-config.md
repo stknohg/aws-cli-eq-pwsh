@@ -1,6 +1,6 @@
 ---
 title: migrationhub-config
-date: 2022-12-23
+date: 2023-01-01
 description: aws migrationhub-config (AWS Migration Hub Config) command/cmdlet list.
 ---
 

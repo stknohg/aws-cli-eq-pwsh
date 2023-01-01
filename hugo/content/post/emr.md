@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2022-12-23
+date: 2023-01-01
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -37,6 +37,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr get](https://docs.aws.amazon.com/cli/latest/reference/emr/get.html)||
 |[aws emr get-auto-termination-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/get-auto-termination-policy.html)|[Get-EMRAutoTerminationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRAutoTerminationPolicy.html)|
 |[aws emr get-block-public-access-configuration](https://docs.aws.amazon.com/cli/latest/reference/emr/get-block-public-access-configuration.html)|[Get-EMRBlockPublicAccessConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRBlockPublicAccessConfiguration.html)|
+|[aws emr get-cluster-session-credentials](https://docs.aws.amazon.com/cli/latest/reference/emr/get-cluster-session-credentials.html)|[Get-EMRClusterSessionCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRClusterSessionCredential.html)|
 |[aws emr get-managed-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/emr/get-managed-scaling-policy.html)|[Get-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRManagedScalingPolicy.html)|
 |[aws emr get-studio-session-mapping](https://docs.aws.amazon.com/cli/latest/reference/emr/get-studio-session-mapping.html)|[Get-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMapping.html)|
 |[aws emr install-applications](https://docs.aws.amazon.com/cli/latest/reference/emr/install-applications.html)||

@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2022-12-23
+date: 2023-01-01
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -158,6 +158,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/update-hours-of-operation.html)|[Update-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNHoursOfOperation.html)|
 |[aws connect update-instance-attribute](https://docs.aws.amazon.com/cli/latest/reference/connect/update-instance-attribute.html)|[Update-CONNInstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceAttribute.html)|
 |[aws connect update-instance-storage-config](https://docs.aws.amazon.com/cli/latest/reference/connect/update-instance-storage-config.html)|[Update-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceStorageConfig.html)|
+|[aws connect update-participant-role-config](https://docs.aws.amazon.com/cli/latest/reference/connect/update-participant-role-config.html)|[Update-CONNParticipantRoleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNParticipantRoleConfig.html)|
 |[aws connect update-phone-number](https://docs.aws.amazon.com/cli/latest/reference/connect/update-phone-number.html)|[Update-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPhoneNumber.html)|
 |[aws connect update-queue-hours-of-operation](https://docs.aws.amazon.com/cli/latest/reference/connect/update-queue-hours-of-operation.html)|[Update-CONNQueueHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNQueueHoursOfOperation.html)|
 |[aws connect update-queue-max-contacts](https://docs.aws.amazon.com/cli/latest/reference/connect/update-queue-max-contacts.html)|[Update-CONNQueueMaxContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNQueueMaxContact.html)|

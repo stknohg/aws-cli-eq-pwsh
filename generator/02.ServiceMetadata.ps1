@@ -145,6 +145,7 @@ $g_AWSServices = @{
     'chime-sdk-meetings'                  = [PSCustomObject]@{ Prefix = 'CHMTG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Meeting API' };
     'chime-sdk-messaging'                 = [PSCustomObject]@{ Prefix = 'CHMMG'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime SDK Messaging API' };
     'chime-sdk-voice'                     = [PSCustomObject]@{ Prefix = 'CHMVO'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = 'Amazon Chime Voice Connector' };
+    'cleanrooms'                          = [PSCustomObject]@{ Prefix = 'CRS'; Name = 'AWS Clean Rooms'; Url = 'https://aws.amazon.com/clean-rooms/'; Note = '' };
     'chime'                               = [PSCustomObject]@{ Prefix = 'CHM'; Name = 'Amazon Chime'; Url = 'https://aws.amazon.com/chime/'; Note = '' };
     'cloud9'                              = [PSCustomObject]@{ Prefix = 'C9'; Name = 'AWS Cloud9'; Url = 'https://aws.amazon.com/cloud9/'; Note = '' };
     'cloudcontrol'                        = [PSCustomObject]@{ Prefix = 'CCA'; Name = 'AWS Cloud Control API'; Url = 'https://aws.amazon.com/cloudcontrolapi/'; Note = '' };
@@ -274,6 +275,7 @@ $g_AWSServices = @{
     'kafka'                               = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kafkaconnect'                        = [PSCustomObject]@{ Prefix = 'MSKC '; Name = 'Amazon Managed Streaming for Kafka Connect'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kendra'                              = [PSCustomObject]@{ Prefix = 'KNDR'; Name = 'Amazon Kendra'; Url = 'https://aws.amazon.com/kendra/'; Note = '' };
+    'kendra-ranking'                      = [PSCustomObject]@{ Prefix = 'KNRK'; Name = 'Amazon Kendra Intelligent Ranking'; Url = 'https://aws.amazon.com/kendra/'; Note = '' };
     'keyspaces'                           = [PSCustomObject]@{ Prefix = 'KS'; Name = 'Amazon Keyspaces'; Url = 'https://aws.amazon.com/keyspaces/'; Note = '' };
     'kinesis'                             = [PSCustomObject]@{ Prefix = 'KIN'; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
     'kinesis-video-archived-media'        = [PSCustomObject]@{ Prefix = ''; Name = 'Amazon Kinesis'; Url = 'https://aws.amazon.com/kinesis/'; Note = '' };
@@ -487,6 +489,7 @@ $g_CmdletReferenceLinks = @{
     'chime-sdk-meetings'                  = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMeetings_cmdlets.html';
     'chime-sdk-messaging'                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMessaging_cmdlets.html';
     'chime-sdk-voice'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKVoice_cmdlets.html'
+    'cleanrooms'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CleanRooms_cmdlets.html'
     'chime'                               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Chime_cmdlets.html';
     'cloud9'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cloud9_cmdlets.html';
     'cloudcontrol'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CloudControlApi_cmdlets.html';
@@ -615,6 +618,7 @@ $g_CmdletReferenceLinks = @{
     'kafka'                               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
     'kafkaconnect'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KafkaConnect_cmdlets.html';
     'kendra'                              = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Kendra_cmdlets.html';
+    'kendra-ranking'                      = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KendraRanking_cmdlets.html'
     'keyspaces'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Keyspaces_cmdlets.html';
     'kinesis'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_cmdlets.html';
     'kinesis-video-archived-media'        = '';

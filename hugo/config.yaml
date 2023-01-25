@@ -4,7 +4,7 @@ relativeURLs: true
 languageCode: "en-us"
 title: "AWS CLI -eq PowerShell"
 theme: "papercss-hugo-theme"
-googleAnalytics: "UA-47904214-2"
+googleAnalytics: "G-Z5P3D0PNJR"
 
 taxonomies:
   tag: "tags"

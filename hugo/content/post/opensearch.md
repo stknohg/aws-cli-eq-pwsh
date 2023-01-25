@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2023-01-01
+date: 2023-01-25
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch describe-domain-change-progress](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-change-progress.html)|[Get-OSDomainChangeProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainChangeProgress.html)|
 |[aws opensearch describe-domain-config](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-config.html)|[Get-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainConfig.html)|
 |[aws opensearch describe-domains](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domains.html)|[Get-OSDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainList.html)|
+|[aws opensearch describe-dry-run-progress](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-dry-run-progress.html)|[Get-OSDryRunProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDryRunProgress.html)|
 |[aws opensearch describe-inbound-connections](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-inbound-connections.html)|[Get-OSInboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInboundConnection.html)|
 |[aws opensearch describe-instance-type-limits](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-instance-type-limits.html)|[Get-OSInstanceTypeLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInstanceTypeLimit.html)|
 |[aws opensearch describe-outbound-connections](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-outbound-connections.html)|[Get-OSOutboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSOutboundConnection.html)|

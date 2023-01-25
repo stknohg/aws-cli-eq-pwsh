@@ -1,6 +1,6 @@
 ---
 title: qldb
-date: 2023-01-01
+date: 2023-01-25
 description: aws qldb (Amazon Quantum Ledger Database (QLDB)) command/cmdlet list.
 ---
 

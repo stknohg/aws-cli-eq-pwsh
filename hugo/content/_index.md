@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-01-01
+date: 2023-01-25
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.12 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.241 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.17 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.256 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -62,6 +62,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-meetings]({{%relref "post/chime-sdk-meetings.md" %}})|CHMTG|Amazon Chime SDK Meeting API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})|CHMMG|Amazon Chime SDK Messaging API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-voice]({{%relref "post/chime-sdk-voice.md" %}})|CHMVO|Amazon Chime Voice Connector|
+|[AWS Clean Rooms](https://aws.amazon.com/clean-rooms/)|[cleanrooms]({{%relref "post/cleanrooms.md" %}})|CRS||
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[AWS Cloud Control API](https://aws.amazon.com/cloudcontrolapi/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
@@ -190,6 +191,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC ||
 |[Amazon Kendra](https://aws.amazon.com/kendra/)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
+|[Amazon Kendra Intelligent Ranking](https://aws.amazon.com/kendra/)|[kendra-ranking]({{%relref "post/kendra-ranking.md" %}})|KNRK||
 |[Amazon Keyspaces](https://aws.amazon.com/keyspaces/)|[keyspaces]({{%relref "post/keyspaces.md" %}})|KS||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||

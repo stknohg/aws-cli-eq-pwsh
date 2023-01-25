@@ -1,6 +1,6 @@
 ---
 title: kendra
-date: 2023-01-01
+date: 2023-01-25
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 
@@ -58,6 +58,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra list-indices](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-indices.html)|[Get-KNDRIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRIndexList.html)|
 |[aws kendra list-query-suggestions-block-lists](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-query-suggestions-block-lists.html)|[Get-KNDRQuerySuggestionsBlockListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRQuerySuggestionsBlockListList.html)|
 |[aws kendra list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-tags-for-resource.html)|[Get-KNDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRResourceTag.html)|
+|[aws kendra list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-tags-for-resource.html)|[Get-KNRKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNRKResourceTag.html)|
 |[aws kendra list-thesauri](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-thesauri.html)|[Get-KNDRThesauriList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRThesauriList.html)|
 |[aws kendra put-principal-mapping](https://docs.aws.amazon.com/cli/latest/reference/kendra/put-principal-mapping.html)|[Write-KNDRPrincipalMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-KNDRPrincipalMapping.html)|
 |[aws kendra query](https://docs.aws.amazon.com/cli/latest/reference/kendra/query.html)|[Invoke-KNDRQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KNDRQuery.html)|
@@ -65,7 +66,9 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra stop-data-source-sync-job](https://docs.aws.amazon.com/cli/latest/reference/kendra/stop-data-source-sync-job.html)|[Stop-KNDRDataSourceSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KNDRDataSourceSyncJob.html)|
 |[aws kendra submit-feedback](https://docs.aws.amazon.com/cli/latest/reference/kendra/submit-feedback.html)|[Send-KNDRFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-KNDRFeedback.html)|
 |[aws kendra tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kendra/tag-resource.html)|[Add-KNDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KNDRResourceTag.html)|
+|[aws kendra tag-resource](https://docs.aws.amazon.com/cli/latest/reference/kendra/tag-resource.html)|[Add-KNRKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KNRKResourceTag.html)|
 |[aws kendra untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kendra/untag-resource.html)|[Remove-KNDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KNDRResourceTag.html)|
+|[aws kendra untag-resource](https://docs.aws.amazon.com/cli/latest/reference/kendra/untag-resource.html)|[Remove-KNRKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KNRKResourceTag.html)|
 |[aws kendra update-access-control-configuration](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-access-control-configuration.html)|[Update-KNDRAccessControlConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRAccessControlConfiguration.html)|
 |[aws kendra update-data-source](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-data-source.html)|[Update-KNDRDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRDataSource.html)|
 |[aws kendra update-experience](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-experience.html)|[Update-KNDRExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRExperience.html)|

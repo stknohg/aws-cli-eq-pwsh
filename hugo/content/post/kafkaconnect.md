@@ -1,6 +1,6 @@
 ---
 title: kafkaconnect
-date: 2023-01-01
+date: 2023-01-25
 description: aws kafkaconnect (Amazon Managed Streaming for Kafka Connect) command/cmdlet list.
 ---
 

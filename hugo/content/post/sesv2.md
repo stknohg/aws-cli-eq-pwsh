@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2023-01-25
+date: 2023-02-11
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 

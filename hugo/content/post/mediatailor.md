@@ -1,6 +1,6 @@
 ---
 title: mediatailor
-date: 2023-01-25
+date: 2023-02-11
 description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws mediatailor configure-logs-for-channel](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/configure-logs-for-channel.html)|[Add-EMTLogsForChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMTLogsForChannel.html)|
 |[aws mediatailor configure-logs-for-playback-configuration](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/configure-logs-for-playback-configuration.html)|[Add-EMTLogsForPlaybackConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMTLogsForPlaybackConfiguration.html)|
 |[aws mediatailor create-channel](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/create-channel.html)|[New-EMTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMTChannel.html)|
 |[aws mediatailor create-live-source](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/create-live-source.html)|[New-EMTLiveSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMTLiveSource.html)|
@@ -53,6 +54,7 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 |[aws mediatailor untag-resource](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/untag-resource.html)|[Remove-EMTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTResourceTag.html)|
 |[aws mediatailor update-channel](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/update-channel.html)|[Update-EMTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMTChannel.html)|
 |[aws mediatailor update-live-source](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/update-live-source.html)|[Update-EMTLiveSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMTLiveSource.html)|
+|[aws mediatailor update-program](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/update-program.html)|[Update-EMTProgram](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMTProgram.html)|
 |[aws mediatailor update-source-location](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/update-source-location.html)|[Update-EMTSourceLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMTSourceLocation.html)|
 |[aws mediatailor update-vod-source](https://docs.aws.amazon.com/cli/latest/reference/mediatailor/update-vod-source.html)|[Update-EMTVodSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMTVodSource.html)|
 

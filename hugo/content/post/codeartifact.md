@@ -1,6 +1,6 @@
 ---
 title: codeartifact
-date: 2023-01-25
+date: 2023-02-11
 description: aws codeartifact (AWS Artifact) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws codeartifact (AWS Artifact) command/cmdlet list.
 |[aws codeartifact create-repository](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/create-repository.html)|[New-CARepository](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CARepository.html)|
 |[aws codeartifact delete-domain](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-domain.html)|[Remove-CADomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CADomain.html)|
 |[aws codeartifact delete-domain-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-domain-permissions-policy.html)|[Remove-CADomainPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CADomainPermissionsPolicy.html)|
+|[aws codeartifact delete-package](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-package.html)|[Remove-CAPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CAPackage.html)|
 |[aws codeartifact delete-package-versions](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-package-versions.html)|[Remove-CAPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CAPackageVersion.html)|
 |[aws codeartifact delete-repository](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-repository.html)|[Remove-CARepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CARepository.html)|
 |[aws codeartifact delete-repository-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/delete-repository-permissions-policy.html)|[Remove-CARepositoryPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CARepositoryPermissionsPolicy.html)|

@@ -1,6 +1,6 @@
 ---
 title: groundstation
-date: 2023-01-25
+date: 2023-02-11
 description: aws groundstation (AWS Ground Station) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws groundstation (AWS Ground Station) command/cmdlet list.
 |[aws groundstation delete-mission-profile](https://docs.aws.amazon.com/cli/latest/reference/groundstation/delete-mission-profile.html)|[Remove-GSMissionProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GSMissionProfile.html)|
 |[aws groundstation describe-contact](https://docs.aws.amazon.com/cli/latest/reference/groundstation/describe-contact.html)|[Get-GSContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSContact.html)|
 |[aws groundstation describe-ephemeris](https://docs.aws.amazon.com/cli/latest/reference/groundstation/describe-ephemeris.html)|[Get-GSEphemeris](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSEphemeris.html)|
+|[aws groundstation get-agent-configuration](https://docs.aws.amazon.com/cli/latest/reference/groundstation/get-agent-configuration.html)|[Get-GSAgentConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSAgentConfiguration.html)|
 |[aws groundstation get-config](https://docs.aws.amazon.com/cli/latest/reference/groundstation/get-config.html)|[Get-GSConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSConfig.html)|
 |[aws groundstation get-dataflow-endpoint-group](https://docs.aws.amazon.com/cli/latest/reference/groundstation/get-dataflow-endpoint-group.html)|[Get-GSDataflowEndpointGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSDataflowEndpointGroup.html)|
 |[aws groundstation get-minute-usage](https://docs.aws.amazon.com/cli/latest/reference/groundstation/get-minute-usage.html)|[Get-GSMinuteUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSMinuteUsage.html)|
@@ -37,9 +38,11 @@ description: aws groundstation (AWS Ground Station) command/cmdlet list.
 |[aws groundstation list-mission-profiles](https://docs.aws.amazon.com/cli/latest/reference/groundstation/list-mission-profiles.html)|[Get-GSMissionProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSMissionProfileList.html)|
 |[aws groundstation list-satellites](https://docs.aws.amazon.com/cli/latest/reference/groundstation/list-satellites.html)|[Get-GSSatelliteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSSatelliteList.html)|
 |[aws groundstation list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/groundstation/list-tags-for-resource.html)|[Get-GSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GSResourceTag.html)|
+|[aws groundstation register-agent](https://docs.aws.amazon.com/cli/latest/reference/groundstation/register-agent.html)|[Register-GSAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-GSAgent.html)|
 |[aws groundstation reserve-contact](https://docs.aws.amazon.com/cli/latest/reference/groundstation/reserve-contact.html)|[Add-GSReservedContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GSReservedContact.html)|
 |[aws groundstation tag-resource](https://docs.aws.amazon.com/cli/latest/reference/groundstation/tag-resource.html)|[Add-GSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GSResourceTag.html)|
 |[aws groundstation untag-resource](https://docs.aws.amazon.com/cli/latest/reference/groundstation/untag-resource.html)|[Remove-GSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GSResourceTag.html)|
+|[aws groundstation update-agent-status](https://docs.aws.amazon.com/cli/latest/reference/groundstation/update-agent-status.html)|[Update-GSAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GSAgentStatus.html)|
 |[aws groundstation update-config](https://docs.aws.amazon.com/cli/latest/reference/groundstation/update-config.html)|[Update-GSConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GSConfig.html)|
 |[aws groundstation update-ephemeris](https://docs.aws.amazon.com/cli/latest/reference/groundstation/update-ephemeris.html)|[Update-GSEphemeris](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GSEphemeris.html)|
 |[aws groundstation update-mission-profile](https://docs.aws.amazon.com/cli/latest/reference/groundstation/update-mission-profile.html)|[Update-GSMissionProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GSMissionProfile.html)|

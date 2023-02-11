@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2023-01-25
+date: 2023-02-11
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda get-layer-version-policy](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-layer-version-policy.html)|[Get-LMLayerVersionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersionPolicy.html)|
 |[aws lambda get-policy](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-policy.html)|[Get-LMPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMPolicy.html)|
 |[aws lambda get-provisioned-concurrency-config](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-provisioned-concurrency-config.html)|[Get-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMProvisionedConcurrencyConfig.html)|
+|[aws lambda get-runtime-management-config](https://docs.aws.amazon.com/cli/latest/reference/lambda/get-runtime-management-config.html)|[Get-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMRuntimeManagementConfig.html)|
 |[aws lambda invoke](https://docs.aws.amazon.com/cli/latest/reference/lambda/invoke.html)|[Invoke-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunction.html)|
 |[aws lambda invoke-async](https://docs.aws.amazon.com/cli/latest/reference/lambda/invoke-async.html)|[Invoke-LMFunctionAsync](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunctionAsync.html)|
 |[aws lambda list-aliases](https://docs.aws.amazon.com/cli/latest/reference/lambda/list-aliases.html)|[Get-LMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAliasList.html)|
@@ -65,6 +66,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda put-function-concurrency](https://docs.aws.amazon.com/cli/latest/reference/lambda/put-function-concurrency.html)|[Write-LMFunctionConcurrency](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionConcurrency.html)|
 |[aws lambda put-function-event-invoke-config](https://docs.aws.amazon.com/cli/latest/reference/lambda/put-function-event-invoke-config.html)|[Write-LMFunctionEventInvokeConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionEventInvokeConfig.html)|
 |[aws lambda put-provisioned-concurrency-config](https://docs.aws.amazon.com/cli/latest/reference/lambda/put-provisioned-concurrency-config.html)|[Write-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMProvisionedConcurrencyConfig.html)|
+|[aws lambda put-runtime-management-config](https://docs.aws.amazon.com/cli/latest/reference/lambda/put-runtime-management-config.html)|[Write-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMRuntimeManagementConfig.html)|
 |[aws lambda remove-layer-version-permission](https://docs.aws.amazon.com/cli/latest/reference/lambda/remove-layer-version-permission.html)|[Remove-LMLayerVersionPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersionPermission.html)|
 |[aws lambda remove-permission](https://docs.aws.amazon.com/cli/latest/reference/lambda/remove-permission.html)|[Remove-LMPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMPermission.html)|
 |[aws lambda tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lambda/tag-resource.html)|[Add-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMResourceTag.html)|

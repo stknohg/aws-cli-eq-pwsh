@@ -1,6 +1,6 @@
 ---
 title: proton
-date: 2023-01-25
+date: 2023-02-11
 description: aws proton (AWS Proton) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton get-environment-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/get-environment-template-version.html)|[Get-PROEnvironmentTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironmentTemplateVersion.html)|
 |[aws proton get-repository](https://docs.aws.amazon.com/cli/latest/reference/proton/get-repository.html)|[Get-PRORepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PRORepository.html)|
 |[aws proton get-repository-sync-status](https://docs.aws.amazon.com/cli/latest/reference/proton/get-repository-sync-status.html)|[Get-PRORepositorySyncStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PRORepositorySyncStatus.html)|
+|[aws proton get-resources-summary](https://docs.aws.amazon.com/cli/latest/reference/proton/get-resources-summary.html)|[Get-PROResourcesSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROResourcesSummary.html)|
 |[aws proton get-service](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service.html)|[Get-PROService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROService.html)|
 |[aws proton get-service-instance](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-instance.html)|[Get-PROServiceInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceInstance.html)|
 |[aws proton get-service-template](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-template.html)|[Get-PROServiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceTemplate.html)|

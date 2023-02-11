@@ -1,6 +1,6 @@
 ---
 title: ssm-sap
-date: 2023-01-25
+date: 2023-02-11
 description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 |[aws ssm-sap list-applications](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/list-applications.html)|[Get-SMSAPApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPApplicationList.html)|
 |[aws ssm-sap list-components](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/list-components.html)|[Get-SMSAPComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPComponentList.html)|
 |[aws ssm-sap list-databases](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/list-databases.html)|[Get-SMSAPDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPDatabasisList.html)|
+|[aws ssm-sap list-operations](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/list-operations.html)|[Get-SMSAPOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPOperationList.html)|
 |[aws ssm-sap list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/list-tags-for-resource.html)|[Get-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPResourceTag.html)|
 |[aws ssm-sap put-resource-permission](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/put-resource-permission.html)|[Write-SMSAPResourcePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SMSAPResourcePermission.html)|
 |[aws ssm-sap register-application](https://docs.aws.amazon.com/cli/latest/reference/ssm-sap/register-application.html)|[Register-SMSAPApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMSAPApplication.html)|

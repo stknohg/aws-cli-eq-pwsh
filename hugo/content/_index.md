@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-01-25
+date: 2023-02-11
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.9.17 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.256 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.9.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.269 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -73,6 +73,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearch]({{%relref "post/cloudsearch.md" %}})|CS||
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearchdomain]({{%relref "post/cloudsearchdomain.md" %}})|CSD||
 |[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)|[cloudtrail]({{%relref "post/cloudtrail.md" %}})|CT||
+|[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)|[cloudtrail-data]({{%relref "post/cloudtrail-data.md" %}})|CTD|Data Service|
 |[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[cloudwatch]({{%relref "post/cloudwatch.md" %}})|CW||
 |[AWS Artifact](https://aws.amazon.com/artifact/)|[codeartifact]({{%relref "post/codeartifact.md" %}})|CA||
 |[AWS CodeBuild](https://aws.amazon.com/codebuild/)|[codebuild]({{%relref "post/codebuild.md" %}})|CB||

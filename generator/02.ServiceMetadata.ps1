@@ -157,6 +157,7 @@ $g_AWSServices = @{
     'cloudsearch'                         = [PSCustomObject]@{ Prefix = 'CS'; Name = 'Amazon CloudSearch'; Url = 'https://aws.amazon.com/cloudsearch/'; Note = '' };
     'cloudsearchdomain'                   = [PSCustomObject]@{ Prefix = 'CSD'; Name = 'Amazon CloudSearch'; Url = 'https://aws.amazon.com/cloudsearch/'; Note = '' };
     'cloudtrail'                          = [PSCustomObject]@{ Prefix = 'CT'; Name = 'AWS CloudTrail'; Url = 'https://aws.amazon.com/cloudtrail/'; Note = '' };
+    'cloudtrail-data'                     = [PSCustomObject]@{ Prefix = 'CTD'; Name = 'AWS CloudTrail'; Url = 'https://aws.amazon.com/cloudtrail/'; Note = 'Data Service' };
     'cloudwatch'                          = [PSCustomObject]@{ Prefix = 'CW'; Name = 'Amazon CloudWatch'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'codeartifact'                        = [PSCustomObject]@{ Prefix = 'CA'; Name = 'AWS Artifact'; Url = 'https://aws.amazon.com/artifact/'; Note = '' };
     'codebuild'                           = [PSCustomObject]@{ Prefix = 'CB'; Name = 'AWS CodeBuild'; Url = 'https://aws.amazon.com/codebuild/'; Note = '' };
@@ -501,6 +502,7 @@ $g_CmdletReferenceLinks = @{
     'cloudsearch'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudSearch_cmdlets.html';
     'cloudsearchdomain'                   = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudSearchDomain_cmdlets.html';
     'cloudtrail'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CloudTrail_cmdlets.html';
+    'cloudtrail-data'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CloudTrailData_cmdlets.html';
     'cloudwatch'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_cmdlets.html';
     'codeartifact'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/CodeArtifact_cmdlets.html';
     'codebuild'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeBuild_cmdlets.html';

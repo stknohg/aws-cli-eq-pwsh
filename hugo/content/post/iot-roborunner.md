@@ -1,6 +1,6 @@
 ---
 title: iot-roborunner
-date: 2023-02-11
+date: 2023-02-22
 description: aws iot-roborunner (AWS IoT RoboRunner) command/cmdlet list.
 ---
 

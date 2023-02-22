@@ -1,6 +1,6 @@
 ---
 title: schemas
-date: 2023-02-11
+date: 2023-02-22
 description: aws schemas (AWS EventBridge Schemas) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: frauddetector
-date: 2023-02-11
+date: 2023-02-22
 description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 |[aws frauddetector create-batch-import-job](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-batch-import-job.html)|[New-FDBatchImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDBatchImportJob.html)|
 |[aws frauddetector create-batch-prediction-job](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-batch-prediction-job.html)|[New-FDBatchPredictionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDBatchPredictionJob.html)|
 |[aws frauddetector create-detector-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-detector-version.html)|[New-FDDetectorVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDDetectorVersion.html)|
+|[aws frauddetector create-list](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-list.html)|[New-FDList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDList.html)|
 |[aws frauddetector create-model](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model.html)|[New-FDModel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModel.html)|
 |[aws frauddetector create-model-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-model-version.html)|[New-FDModelVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDModelVersion.html)|
 |[aws frauddetector create-rule](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/create-rule.html)|[New-FDRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FDRule.html)|
@@ -34,6 +35,7 @@ description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 |[aws frauddetector delete-events-by-event-type](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-events-by-event-type.html)|[Remove-FDEventsByEventType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDEventsByEventType.html)|
 |[aws frauddetector delete-external-model](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-external-model.html)|[Remove-FDExternalModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDExternalModel.html)|
 |[aws frauddetector delete-label](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-label.html)|[Remove-FDLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDLabel.html)|
+|[aws frauddetector delete-list](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-list.html)|[Remove-FDList](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDList.html)|
 |[aws frauddetector delete-model](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-model.html)|[Remove-FDModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDModel.html)|
 |[aws frauddetector delete-model-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-model-version.html)|[Remove-FDModelVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDModelVersion.html)|
 |[aws frauddetector delete-outcome](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/delete-outcome.html)|[Remove-FDOutcome](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FDOutcome.html)|
@@ -54,6 +56,8 @@ description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 |[aws frauddetector get-external-models](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-external-models.html)|[Get-FDExternalModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDExternalModel.html)|
 |[aws frauddetector get-kms-encryption-key](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-kms-encryption-key.html)|[Get-FDKMSEncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDKMSEncryptionKey.html)|
 |[aws frauddetector get-labels](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-labels.html)|[Get-FDLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDLabel.html)|
+|[aws frauddetector get-list-elements](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-list-elements.html)|[Get-FDListElement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDListElement.html)|
+|[aws frauddetector get-lists-metadata](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-lists-metadata.html)|[Get-FDListsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDListsMetadata.html)|
 |[aws frauddetector get-model-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-model-version.html)|[Get-FDModelVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDModelVersion.html)|
 |[aws frauddetector get-models](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-models.html)|[Get-FDModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDModel.html)|
 |[aws frauddetector get-outcomes](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/get-outcomes.html)|[Get-FDOutcome](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FDOutcome.html)|
@@ -75,6 +79,7 @@ description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 |[aws frauddetector update-detector-version-metadata](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-detector-version-metadata.html)|[Update-FDDetectorVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDDetectorVersionMetadata.html)|
 |[aws frauddetector update-detector-version-status](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-detector-version-status.html)|[Update-FDDetectorVersionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDDetectorVersionStatus.html)|
 |[aws frauddetector update-event-label](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-event-label.html)|[Update-FDEventLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDEventLabel.html)|
+|[aws frauddetector update-list](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-list.html)|[Update-FDList](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDList.html)|
 |[aws frauddetector update-model](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-model.html)|[Update-FDModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDModel.html)|
 |[aws frauddetector update-model-version](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-model-version.html)|[Update-FDModelVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDModelVersion.html)|
 |[aws frauddetector update-model-version-status](https://docs.aws.amazon.com/cli/latest/reference/frauddetector/update-model-version-status.html)|[Update-FDModelVersionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FDModelVersionStatus.html)|

@@ -1,6 +1,6 @@
 ---
 title: privatenetworks
-date: 2023-02-11
+date: 2023-02-22
 description: aws privatenetworks (AWS Private 5G) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws privatenetworks (AWS Private 5G) command/cmdlet list.
 |[aws privatenetworks list-orders](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/list-orders.html)|[Get-PV5GOrderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PV5GOrderList.html)|
 |[aws privatenetworks list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/list-tags-for-resource.html)|[Get-PV5GResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PV5GResourceTag.html)|
 |[aws privatenetworks ping](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/ping.html)|[Ping-PV5GPing](https://docs.aws.amazon.com/powershell/latest/reference/items/Ping-PV5GPing.html)|
+|[aws privatenetworks start-network-resource-update](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/start-network-resource-update.html)|[Start-PV5GNetworkResourceUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-PV5GNetworkResourceUpdate.html)|
 |[aws privatenetworks tag-resource](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/tag-resource.html)|[Add-PV5GResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PV5GResourceTag.html)|
 |[aws privatenetworks untag-resource](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/untag-resource.html)|[Remove-PV5GResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PV5GResourceTag.html)|
 |[aws privatenetworks update-network-site](https://docs.aws.amazon.com/cli/latest/reference/privatenetworks/update-network-site.html)|[Update-PV5GNetworkSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PV5GNetworkSite.html)|

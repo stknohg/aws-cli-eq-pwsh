@@ -1,6 +1,6 @@
 ---
 title: snowball
-date: 2023-02-11
+date: 2023-02-22
 description: aws snowball (AWS Snow Family) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws snowball (AWS Snow Family) command/cmdlet list.
 |[aws snowball list-compatible-images](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-compatible-images.html)|[Get-SNOWCompatibleImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWCompatibleImageList.html)|
 |[aws snowball list-jobs](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-jobs.html)|[Get-SNOWJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWJobList.html)|
 |[aws snowball list-long-term-pricing](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-long-term-pricing.html)|[Get-SNOWLongTermPricing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWLongTermPricing.html)|
+|[aws snowball list-service-versions](https://docs.aws.amazon.com/cli/latest/reference/snowball/list-service-versions.html)|[Get-SNOWServiceVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SNOWServiceVersion.html)|
 |[aws snowball update-cluster](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-cluster.html)|[Update-SNOWCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWCluster.html)|
 |[aws snowball update-job](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-job.html)|[Update-SNOWJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWJob.html)|
 |[aws snowball update-job-shipment-state](https://docs.aws.amazon.com/cli/latest/reference/snowball/update-job-shipment-state.html)|[Update-SNOWJobShipmentState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SNOWJobShipmentState.html)|

@@ -1,6 +1,6 @@
 ---
 title: sso-admin
-date: 2023-02-11
+date: 2023-02-22
 description: aws sso-admin (AWS Single Sign-On) command/cmdlet list.
 ---
 

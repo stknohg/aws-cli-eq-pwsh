@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2023-02-11
+date: 2023-02-22
 description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 
@@ -70,6 +70,7 @@ description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws autoscaling put-warm-pool](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/put-warm-pool.html)|[Write-ASWarmPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASWarmPool.html)|
 |[aws autoscaling record-lifecycle-action-heartbeat](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/record-lifecycle-action-heartbeat.html)|[Write-ASLifecycleActionHeartbeat](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleActionHeartbeat.html)|
 |[aws autoscaling resume-processes](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/resume-processes.html)|[Resume-ASProcess](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-ASProcess.html)|
+|[aws autoscaling rollback-instance-refresh](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/rollback-instance-refresh.html)|[Undo-ASInstanceRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-ASInstanceRefresh.html)|
 |[aws autoscaling set-desired-capacity](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-desired-capacity.html)|[Set-ASDesiredCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASDesiredCapacity.html)|
 |[aws autoscaling set-instance-health](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-instance-health.html)|[Set-ASInstanceHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASInstanceHealth.html)|
 |[aws autoscaling set-instance-protection](https://docs.aws.amazon.com/cli/latest/reference/autoscaling/set-instance-protection.html)|[Set-ASInstanceProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ASInstanceProtection.html)|

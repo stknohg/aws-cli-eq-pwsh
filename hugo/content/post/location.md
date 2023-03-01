@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2023-02-22
+date: 2023-03-01
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 
@@ -23,16 +23,19 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location calculate-route](https://docs.aws.amazon.com/cli/latest/reference/location/calculate-route.html)|[Get-LOCRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRoute.html)|
 |[aws location calculate-route-matrix](https://docs.aws.amazon.com/cli/latest/reference/location/calculate-route-matrix.html)|[Get-LOCRouteMatrix](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRouteMatrix.html)|
 |[aws location create-geofence-collection](https://docs.aws.amazon.com/cli/latest/reference/location/create-geofence-collection.html)|[New-LOCGeofenceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCGeofenceCollection.html)|
+|[aws location create-key](https://docs.aws.amazon.com/cli/latest/reference/location/create-key.html)|[New-LOCKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCKey.html)|
 |[aws location create-map](https://docs.aws.amazon.com/cli/latest/reference/location/create-map.html)|[New-LOCMap](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCMap.html)|
 |[aws location create-place-index](https://docs.aws.amazon.com/cli/latest/reference/location/create-place-index.html)|[New-LOCPlaceIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCPlaceIndex.html)|
 |[aws location create-route-calculator](https://docs.aws.amazon.com/cli/latest/reference/location/create-route-calculator.html)|[New-LOCRouteCalculator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCRouteCalculator.html)|
 |[aws location create-tracker](https://docs.aws.amazon.com/cli/latest/reference/location/create-tracker.html)|[New-LOCTracker](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LOCTracker.html)|
 |[aws location delete-geofence-collection](https://docs.aws.amazon.com/cli/latest/reference/location/delete-geofence-collection.html)|[Remove-LOCGeofenceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCGeofenceCollection.html)|
+|[aws location delete-key](https://docs.aws.amazon.com/cli/latest/reference/location/delete-key.html)|[Remove-LOCKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCKey.html)|
 |[aws location delete-map](https://docs.aws.amazon.com/cli/latest/reference/location/delete-map.html)|[Remove-LOCMap](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCMap.html)|
 |[aws location delete-place-index](https://docs.aws.amazon.com/cli/latest/reference/location/delete-place-index.html)|[Remove-LOCPlaceIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCPlaceIndex.html)|
 |[aws location delete-route-calculator](https://docs.aws.amazon.com/cli/latest/reference/location/delete-route-calculator.html)|[Remove-LOCRouteCalculator](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCRouteCalculator.html)|
 |[aws location delete-tracker](https://docs.aws.amazon.com/cli/latest/reference/location/delete-tracker.html)|[Remove-LOCTracker](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCTracker.html)|
 |[aws location describe-geofence-collection](https://docs.aws.amazon.com/cli/latest/reference/location/describe-geofence-collection.html)|[Get-LOCGeofenceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCGeofenceCollection.html)|
+|[aws location describe-key](https://docs.aws.amazon.com/cli/latest/reference/location/describe-key.html)|[Get-LOCKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCKey.html)|
 |[aws location describe-map](https://docs.aws.amazon.com/cli/latest/reference/location/describe-map.html)|[Get-LOCMap](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCMap.html)|
 |[aws location describe-place-index](https://docs.aws.amazon.com/cli/latest/reference/location/describe-place-index.html)|[Get-LOCPlaceIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCPlaceIndex.html)|
 |[aws location describe-route-calculator](https://docs.aws.amazon.com/cli/latest/reference/location/describe-route-calculator.html)|[Get-LOCRouteCalculator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRouteCalculator.html)|
@@ -49,6 +52,7 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location list-device-positions](https://docs.aws.amazon.com/cli/latest/reference/location/list-device-positions.html)|[Get-LOCDevicePositionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCDevicePositionList.html)|
 |[aws location list-geofence-collections](https://docs.aws.amazon.com/cli/latest/reference/location/list-geofence-collections.html)|[Get-LOCGeofenceCollectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCGeofenceCollectionList.html)|
 |[aws location list-geofences](https://docs.aws.amazon.com/cli/latest/reference/location/list-geofences.html)|[Get-LOCGeofenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCGeofenceList.html)|
+|[aws location list-keys](https://docs.aws.amazon.com/cli/latest/reference/location/list-keys.html)|[Get-LOCKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCKeyList.html)|
 |[aws location list-maps](https://docs.aws.amazon.com/cli/latest/reference/location/list-maps.html)|[Get-LOCMapList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCMapList.html)|
 |[aws location list-place-indexes](https://docs.aws.amazon.com/cli/latest/reference/location/list-place-indexes.html)|[Get-LOCPlaceIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCPlaceIndexList.html)|
 |[aws location list-route-calculators](https://docs.aws.amazon.com/cli/latest/reference/location/list-route-calculators.html)|[Get-LOCRouteCalculatorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRouteCalculatorList.html)|
@@ -62,6 +66,7 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location tag-resource](https://docs.aws.amazon.com/cli/latest/reference/location/tag-resource.html)|[Add-LOCResourceTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LOCResourceTagSet.html)|
 |[aws location untag-resource](https://docs.aws.amazon.com/cli/latest/reference/location/untag-resource.html)|[Remove-LOCResourceTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LOCResourceTagSet.html)|
 |[aws location update-geofence-collection](https://docs.aws.amazon.com/cli/latest/reference/location/update-geofence-collection.html)|[Edit-LOCGeofenceCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCGeofenceCollection.html)|
+|[aws location update-key](https://docs.aws.amazon.com/cli/latest/reference/location/update-key.html)|[Update-LOCKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LOCKey.html)|
 |[aws location update-map](https://docs.aws.amazon.com/cli/latest/reference/location/update-map.html)|[Edit-LOCMap](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCMap.html)|
 |[aws location update-place-index](https://docs.aws.amazon.com/cli/latest/reference/location/update-place-index.html)|[Edit-LOCPlaceIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCPlaceIndex.html)|
 |[aws location update-route-calculator](https://docs.aws.amazon.com/cli/latest/reference/location/update-route-calculator.html)|[Edit-LOCRouteCalculator](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCRouteCalculator.html)|

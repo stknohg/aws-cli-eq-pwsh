@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2023-02-22
+date: 2023-03-01
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch list-domains-for-package](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-domains-for-package.html)|[Get-OSDomainsForPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainsForPackageList.html)|
 |[aws opensearch list-instance-type-details](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-instance-type-details.html)|[Get-OSInstanceTypeDetailList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInstanceTypeDetailList.html)|
 |[aws opensearch list-packages-for-domain](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-packages-for-domain.html)|[Get-OSPackagesForDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSPackagesForDomainList.html)|
+|[aws opensearch list-scheduled-actions](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-scheduled-actions.html)|[Get-OSScheduledActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSScheduledActionList.html)|
 |[aws opensearch list-tags](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-tags.html)|[Get-OSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSResourceTag.html)|
 |[aws opensearch list-versions](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-versions.html)|[Get-OSVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSVersionList.html)|
 |[aws opensearch list-vpc-endpoint-access](https://docs.aws.amazon.com/cli/latest/reference/opensearch/list-vpc-endpoint-access.html)|[Get-OSVpcEndpointAccessList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSVpcEndpointAccessList.html)|
@@ -64,6 +65,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch start-service-software-update](https://docs.aws.amazon.com/cli/latest/reference/opensearch/start-service-software-update.html)|[Start-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSServiceSoftwareUpdate.html)|
 |[aws opensearch update-domain-config](https://docs.aws.amazon.com/cli/latest/reference/opensearch/update-domain-config.html)|[Update-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDomainConfig.html)|
 |[aws opensearch update-package](https://docs.aws.amazon.com/cli/latest/reference/opensearch/update-package.html)|[Update-OSPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSPackage.html)|
+|[aws opensearch update-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/opensearch/update-scheduled-action.html)|[Update-OSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSScheduledAction.html)|
 |[aws opensearch update-vpc-endpoint](https://docs.aws.amazon.com/cli/latest/reference/opensearch/update-vpc-endpoint.html)|[Update-OSSVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSSVpcEndpoint.html)|
 |[aws opensearch update-vpc-endpoint](https://docs.aws.amazon.com/cli/latest/reference/opensearch/update-vpc-endpoint.html)|[Update-OSVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSVpcEndpoint.html)|
 |[aws opensearch upgrade-domain](https://docs.aws.amazon.com/cli/latest/reference/opensearch/upgrade-domain.html)|[Update-OSDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDomain.html)|

@@ -1,6 +1,6 @@
 ---
 title: greengrassv2
-date: 2023-02-22
+date: 2023-03-01
 description: aws greengrassv2 (AWS IoT Greengrass) command/cmdlet list.
 ---
 

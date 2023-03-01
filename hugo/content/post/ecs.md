@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2023-02-22
+date: 2023-03-01
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs delete-capacity-provider](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-capacity-provider.html)|[Remove-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSCapacityProvider.html)|
 |[aws ecs delete-cluster](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-cluster.html)|[Remove-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSCluster.html)|
 |[aws ecs delete-service](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-service.html)|[Remove-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSService.html)|
+|[aws ecs delete-task-definitions](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-task-definitions.html)|[Remove-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSTaskDefinition.html)|
 |[aws ecs delete-task-set](https://docs.aws.amazon.com/cli/latest/reference/ecs/delete-task-set.html)|[Remove-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSTaskSet.html)|
 |[aws ecs deploy](https://docs.aws.amazon.com/cli/latest/reference/ecs/deploy.html)||
 |[aws ecs deregister-container-instance](https://docs.aws.amazon.com/cli/latest/reference/ecs/deregister-container-instance.html)|[Unregister-ECSContainerInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECSContainerInstance.html)|

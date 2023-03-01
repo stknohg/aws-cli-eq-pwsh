@@ -1,6 +1,6 @@
 ---
 title: nimble
-date: 2023-02-22
+date: 2023-03-01
 description: aws nimble (Amazon Nimble Studio) command/cmdlet list.
 ---
 

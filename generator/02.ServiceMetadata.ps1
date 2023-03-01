@@ -430,6 +430,7 @@ $g_AWSServices = @{
     'textract'                            = [PSCustomObject]@{ Prefix = 'TXT'; Name = 'Amazon Textract'; Url = 'https://aws.amazon.com/textract/'; Note = '' };
     'timestream-query'                    = [PSCustomObject]@{ Prefix = 'TSQ'; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
     'timestream-write'                    = [PSCustomObject]@{ Prefix = 'TSW'; Name = 'Amazon Timestream'; Url = 'https://aws.amazon.com/timestream/'; Note = '' };
+    'tnb'                                 = [PSCustomObject]@{ Prefix = 'TNB'; Name = 'AWS Telco Network Builder'; Url = 'https://aws.amazon.com/tnb/'; Note = '' };
     'transcribe'                          = [PSCustomObject]@{ Prefix = 'TRS'; Name = 'Amazon Transcribe'; Url = 'https://aws.amazon.com/transcribe/'; Note = '' };
     'transfer'                            = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer Family'; Url = 'https://aws.amazon.com/aws-transfer-family/'; Note = '' };
     'translate'                           = [PSCustomObject]@{ Prefix = 'TRN'; Name = 'Amazon Translate'; Url = 'https://aws.amazon.com/translate/'; Note = '' };
@@ -773,6 +774,7 @@ $g_CmdletReferenceLinks = @{
     'textract'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Textract_cmdlets.html';
     'timestream-query'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/TimestreamQuery_cmdlets.html';
     'timestream-write'                    = 'https://docs.aws.amazon.com/powershell/latest/reference/items/TimestreamWrite_cmdlets.html';
+    'tnb'                                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Tnb_cmdlets.html'
     'transcribe'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Transcribe_Service_cmdlets.html';
     'transfer'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html';
     'translate'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Translate_cmdlets.html';

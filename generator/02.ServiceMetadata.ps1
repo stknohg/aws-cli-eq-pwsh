@@ -254,6 +254,7 @@ $g_AWSServices = @{
     'importexport'                        = [PSCustomObject]@{ Prefix = 'IE'; Name = 'AWS Import/Export'; Url = 'https://aws.amazon.com/snowball/'; Note = '' };
     'inspector'                           = [PSCustomObject]@{ Prefix = 'INS'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
     'inspector2'                          = [PSCustomObject]@{ Prefix = 'INS2'; Name = 'Amazon Inspector'; Url = 'https://aws.amazon.com/inspector/'; Note = '' };
+    'internetmonitor'                     = [PSCustomObject]@{ Prefix = 'CWIM'; Name = 'Amazon CloudWatch Internet Monitor'; Url = 'https://aws.amazon.com/cloudwatch/'; Note = '' };
     'iot'                                 = [PSCustomObject]@{ Prefix = 'IOT'; Name = 'AWS IoT'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-data'                            = [PSCustomObject]@{ Prefix = ''; Name = 'AWS IoT-Data'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'iot-jobs-data'                       = [PSCustomObject]@{ Prefix = 'IOTJ'; Name = 'AWS IoT Jobs'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
@@ -272,6 +273,7 @@ $g_AWSServices = @{
     'iottwinmaker'                        = [PSCustomObject]@{ Prefix = 'IOTTM'; Name = 'AWS IoT TwinMaker'; Url = 'https://aws.amazon.com/iot-twinmaker/'; Note = '' };
     'iotwireless'                         = [PSCustomObject]@{ Prefix = 'IOTW'; Name = 'AWS IoT Wireless'; Url = 'https://aws.amazon.com/iot/'; Note = '' };
     'ivs'                                 = [PSCustomObject]@{ Prefix = 'IVS'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
+    'ivs-realtime'                        = [PSCustomObject]@{ Prefix = 'IVSRT'; Name = 'Amazon Interactive Video Service RealTime'; Url = 'https://aws.amazon.com/ivs/'; Note = '' };
     'ivschat'                             = [PSCustomObject]@{ Prefix = 'IVSC'; Name = 'Amazon Interactive Video Service'; Url = 'https://aws.amazon.com/ivs/'; Note = 'Amazon IVS Chat control-plane API' };
     'kafka'                               = [PSCustomObject]@{ Prefix = 'MSK'; Name = 'Amazon Managed Streaming for Kafka'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
     'kafkaconnect'                        = [PSCustomObject]@{ Prefix = 'MSKC '; Name = 'Amazon Managed Streaming for Kafka Connect'; Url = 'https://aws.amazon.com/msk/'; Note = '' };
@@ -435,6 +437,7 @@ $g_AWSServices = @{
     'transfer'                            = [PSCustomObject]@{ Prefix = 'TFR'; Name = 'AWS Transfer Family'; Url = 'https://aws.amazon.com/aws-transfer-family/'; Note = '' };
     'translate'                           = [PSCustomObject]@{ Prefix = 'TRN'; Name = 'Amazon Translate'; Url = 'https://aws.amazon.com/translate/'; Note = '' };
     'voice-id'                            = [PSCustomObject]@{ Prefix = 'VID'; Name = 'Amazon Connect Voice ID'; Url = 'https://aws.amazon.com/connect/voice-id/'; Note = '' };
+    'vpc-lattice'                         = [PSCustomObject]@{ Prefix = 'VPCL'; Name = 'Amazon VPC Lattice'; Url = 'https://aws.amazon.com/vpc/lattice/'; Note = '' };
     'waf-regional'                        = [PSCustomObject]@{ Prefix = 'WAFR'; Name = 'AWS WAF Regional '; Url = 'https://aws.amazon.com/waf/'; Note = '' };
     'waf'                                 = [PSCustomObject]@{ Prefix = 'WAF'; Name = 'AWS WAF'; Url = 'https://aws.amazon.com/waf/'; Note = '' };
     'wafv2'                               = [PSCustomObject]@{ Prefix = 'WAF2'; Name = 'AWS WAF V2'; Url = 'https://aws.amazon.com/waf/'; Note = '' };
@@ -599,6 +602,7 @@ $g_CmdletReferenceLinks = @{
     'importexport'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_cmdlets.html';
     'inspector'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Inspector_cmdlets.html';
     'inspector2'                          = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Inspector2_cmdlets.html';
+    'internetmonitor'                     = 'https://docs.aws.amazon.com/powershell/latest/reference/items/InternetMonitor_cmdlets.html'
     'iot'                                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html';
     'iot-data'                            = '';
     'iot-jobs-data'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Jobs_Data_Plane_cmdlets.html';
@@ -617,6 +621,7 @@ $g_CmdletReferenceLinks = @{
     'iottwinmaker'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTTwinMaker_cmdlets.html';
     'iotwireless'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IoTWireless_cmdlets.html';
     'ivs'                                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IVS_cmdlets.html';
+    'ivs-realtime'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/IVSRealTime_cmdlets.html'
     'ivschat'                             = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Ivschat_cmdlets.html'
     'kafka'                               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Managed_Streaming_for_Kafka_cmdlets.html';
     'kafkaconnect'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/KafkaConnect_cmdlets.html';
@@ -779,6 +784,7 @@ $g_CmdletReferenceLinks = @{
     'transfer'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html';
     'translate'                           = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Translate_cmdlets.html';
     'voice-id'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/VoiceID_cmdlets.html';
+    'vpc-lattice'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/VPCLattice_cmdlets.html'
     'waf-regional'                        = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_WAF_Regional_cmdlets.html';
     'waf'                                 = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_WAF_cmdlets.html';
     'wafv2'                               = 'https://docs.aws.amazon.com/powershell/latest/reference/items/WAFV2_cmdlets.html';

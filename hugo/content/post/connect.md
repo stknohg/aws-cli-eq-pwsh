@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-03-01
+date: 2023-04-01
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -89,6 +89,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect get-current-user-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-current-user-data.html)|[Get-CONNCurrentUserData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentUserData.html)|
 |[aws connect get-federation-token](https://docs.aws.amazon.com/cli/latest/reference/connect/get-federation-token.html)|[Get-CONNFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFederationToken.html)|
 |[aws connect get-metric-data](https://docs.aws.amazon.com/cli/latest/reference/connect/get-metric-data.html)|[Get-CONNMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNMetricData.html)|
+|[aws connect get-metric-data-v2](https://docs.aws.amazon.com/cli/latest/reference/connect/get-metric-data-v2.html)|[Get-CONNMetricDataV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNMetricDataV2.html)|
 |[aws connect get-task-template](https://docs.aws.amazon.com/cli/latest/reference/connect/get-task-template.html)|[Get-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNTaskTemplate.html)|
 |[aws connect get-traffic-distribution](https://docs.aws.amazon.com/cli/latest/reference/connect/get-traffic-distribution.html)|[Get-CONNTrafficDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNTrafficDistribution.html)|
 |[aws connect list-agent-statuses](https://docs.aws.amazon.com/cli/latest/reference/connect/list-agent-statuses.html)|[Get-CONNAgentStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatusList.html)|

@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2023-03-01
+date: 2023-04-01
 description: aws chime (Amazon Chime) command/cmdlet list.
 ---
 
@@ -252,6 +252,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/list-tags-for-resource.html)|[Get-CHMMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMPResourceTag.html)|
 |[aws chime list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/list-tags-for-resource.html)|[Get-CHMTGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMTGResourceTag.html)|
 |[aws chime list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/list-tags-for-resource.html)|[Get-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMMGResourceTag.html)|
+|[aws chime list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/list-tags-for-resource.html)|[Get-CHMVOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVOResourceTag.html)|
 |[aws chime list-users](https://docs.aws.amazon.com/cli/latest/reference/chime/list-users.html)|[Get-CHMUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMUserList.html)|
 |[aws chime list-voice-connector-groups](https://docs.aws.amazon.com/cli/latest/reference/chime/list-voice-connector-groups.html)|[Get-CHMVoiceConnectorGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVoiceConnectorGroupList.html)|
 |[aws chime list-voice-connector-groups](https://docs.aws.amazon.com/cli/latest/reference/chime/list-voice-connector-groups.html)|[Get-CHMVOVoiceConnectorGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHMVOVoiceConnectorGroupList.html)|
@@ -304,6 +305,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-resource.html)|[Add-CHMMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMMPResourceTag.html)|
 |[aws chime tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-resource.html)|[Add-CHMTGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMTGResourceTag.html)|
 |[aws chime tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-resource.html)|[Add-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMMGResourceTag.html)|
+|[aws chime tag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/tag-resource.html)|[Add-CHMVOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHMVOResourceTag.html)|
 |[aws chime untag-attendee](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-attendee.html)|[Remove-CHMAttendeeTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMAttendeeTag.html)|
 |[aws chime untag-meeting](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-meeting.html)|[Remove-CHMMeetingTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMMeetingTag.html)|
 |[aws chime untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-resource.html)|[Remove-CHMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMResourceTag.html)|
@@ -311,6 +313,7 @@ description: aws chime (Amazon Chime) command/cmdlet list.
 |[aws chime untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-resource.html)|[Remove-CHMMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMMPResourceTag.html)|
 |[aws chime untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-resource.html)|[Remove-CHMTGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMTGResourceTag.html)|
 |[aws chime untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-resource.html)|[Remove-CHMMGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMMGResourceTag.html)|
+|[aws chime untag-resource](https://docs.aws.amazon.com/cli/latest/reference/chime/untag-resource.html)|[Remove-CHMVOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHMVOResourceTag.html)|
 |[aws chime update-account](https://docs.aws.amazon.com/cli/latest/reference/chime/update-account.html)|[Update-CHMAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMAccount.html)|
 |[aws chime update-account-settings](https://docs.aws.amazon.com/cli/latest/reference/chime/update-account-settings.html)|[Update-CHMAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMAccountSetting.html)|
 |[aws chime update-app-instance](https://docs.aws.amazon.com/cli/latest/reference/chime/update-app-instance.html)|[Update-CHMAppInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHMAppInstance.html)|

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-03-01
+date: 2023-04-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.10.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.281 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.11.8 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.304 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -170,6 +170,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector2]({{%relref "post/inspector2.md" %}})|INS2||
+|[Amazon CloudWatch Internet Monitor](https://aws.amazon.com/cloudwatch/)|[internetmonitor]({{%relref "post/internetmonitor.md" %}})|CWIM||
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
@@ -188,6 +189,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT TwinMaker](https://aws.amazon.com/iot-twinmaker/)|[iottwinmaker]({{%relref "post/iottwinmaker.md" %}})|IOTTM||
 |[AWS IoT Wireless](https://aws.amazon.com/iot/)|[iotwireless]({{%relref "post/iotwireless.md" %}})|IOTW||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivs]({{%relref "post/ivs.md" %}})|IVS||
+|[Amazon Interactive Video Service RealTime](https://aws.amazon.com/ivs/)|[ivs-realtime]({{%relref "post/ivs-realtime.md" %}})|IVSRT||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivschat]({{%relref "post/ivschat.md" %}})|IVSC|Amazon IVS Chat control-plane API|
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
 |[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC ||
@@ -351,6 +353,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
 |[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||
+|[Amazon VPC Lattice](https://aws.amazon.com/vpc/lattice/)|[vpc-lattice]({{%relref "post/vpc-lattice.md" %}})|VPCL||
 |[AWS WAF](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||
 |[AWS WAF Regional ](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||
 |[AWS WAF V2](https://aws.amazon.com/waf/)|[wafv2]({{%relref "post/wafv2.md" %}})|WAF2||

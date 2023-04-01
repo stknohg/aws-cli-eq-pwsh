@@ -1,6 +1,6 @@
 ---
 title: lakeformation
-date: 2023-03-01
+date: 2023-04-01
 description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |[aws lakeformation describe-resource](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/describe-resource.html)|[Get-LKFResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFResource.html)|
 |[aws lakeformation describe-transaction](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/describe-transaction.html)|[Get-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFTransaction.html)|
 |[aws lakeformation extend-transaction](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/extend-transaction.html)|[Invoke-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LKFTransaction.html)|
+|[aws lakeformation get-data-cells-filter](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-data-cells-filter.html)|[Get-LKFDataCellsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFDataCellsFilter.html)|
 |[aws lakeformation get-data-lake-settings](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-data-lake-settings.html)|[Get-LKFDataLakeSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFDataLakeSetting.html)|
 |[aws lakeformation get-effective-permissions-for-path](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-effective-permissions-for-path.html)|[Get-LKFEffectivePermissionsForPath](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFEffectivePermissionsForPath.html)|
 |[aws lakeformation get-lf-tag](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/get-lf-tag.html)|[Get-LKFLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFLFTag.html)|
@@ -54,6 +55,7 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |[aws lakeformation search-tables-by-lf-tags](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/search-tables-by-lf-tags.html)|[Search-LKFTablesByLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LKFTablesByLFTag.html)|
 |[aws lakeformation start-query-planning](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/start-query-planning.html)|[Start-LKFQueryPlanning](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LKFQueryPlanning.html)|
 |[aws lakeformation start-transaction](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/start-transaction.html)|[Start-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LKFTransaction.html)|
+|[aws lakeformation update-data-cells-filter](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/update-data-cells-filter.html)|[Update-LKFDataCellsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LKFDataCellsFilter.html)|
 |[aws lakeformation update-lf-tag](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/update-lf-tag.html)|[Update-LKFLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LKFLFTag.html)|
 |[aws lakeformation update-resource](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/update-resource.html)|[Update-LKFResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LKFResource.html)|
 |[aws lakeformation update-table-objects](https://docs.aws.amazon.com/cli/latest/reference/lakeformation/update-table-objects.html)|[Update-LKFTableObject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LKFTableObject.html)|

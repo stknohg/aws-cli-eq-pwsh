@@ -1,6 +1,6 @@
 ---
 title: timestream-write
-date: 2023-03-01
+date: 2023-04-01
 description: aws timestream-write (Amazon Timestream) command/cmdlet list.
 ---
 
@@ -13,16 +13,20 @@ description: aws timestream-write (Amazon Timestream) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws timestream-write create-batch-load-task](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/create-batch-load-task.html)|[New-TSWBatchLoadTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TSWBatchLoadTask.html)|
 |[aws timestream-write create-database](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/create-database.html)|[New-TSWDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TSWDatabase.html)|
 |[aws timestream-write create-table](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/create-table.html)|[New-TSWTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TSWTable.html)|
 |[aws timestream-write delete-database](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/delete-database.html)|[Remove-TSWDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TSWDatabase.html)|
 |[aws timestream-write delete-table](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/delete-table.html)|[Remove-TSWTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TSWTable.html)|
+|[aws timestream-write describe-batch-load-task](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/describe-batch-load-task.html)|[Get-TSWBatchLoadTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWBatchLoadTask.html)|
 |[aws timestream-write describe-database](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/describe-database.html)|[Get-TSWDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWDatabase.html)|
 |[aws timestream-write describe-endpoints](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/describe-endpoints.html)|[Get-TSWEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWEndpointList.html)|
 |[aws timestream-write describe-table](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/describe-table.html)|[Get-TSWTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWTable.html)|
+|[aws timestream-write list-batch-load-tasks](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/list-batch-load-tasks.html)|[Get-TSWBatchLoadTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWBatchLoadTaskList.html)|
 |[aws timestream-write list-databases](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/list-databases.html)|[Get-TSWDatabaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWDatabaseList.html)|
 |[aws timestream-write list-tables](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/list-tables.html)|[Get-TSWTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWTableList.html)|
 |[aws timestream-write list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/list-tags-for-resource.html)|[Get-TSWResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TSWResourceTagList.html)|
+|[aws timestream-write resume-batch-load-task](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/resume-batch-load-task.html)|[Resume-TSWBatchLoadTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-TSWBatchLoadTask.html)|
 |[aws timestream-write tag-resource](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/tag-resource.html)|[Add-TSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TSWResourceTag.html)|
 |[aws timestream-write untag-resource](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/untag-resource.html)|[Remove-TSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TSWResourceTag.html)|
 |[aws timestream-write update-database](https://docs.aws.amazon.com/cli/latest/reference/timestream-write/update-database.html)|[Update-TSWDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TSWDatabase.html)|

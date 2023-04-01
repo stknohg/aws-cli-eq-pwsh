@@ -1,6 +1,6 @@
 ---
 title: workdocs
-date: 2023-03-01
+date: 2023-04-01
 description: aws workdocs (Amazon WorkDocs) command/cmdlet list.
 ---
 
@@ -52,6 +52,7 @@ description: aws workdocs (Amazon WorkDocs) command/cmdlet list.
 |[aws workdocs remove-all-resource-permissions](https://docs.aws.amazon.com/cli/latest/reference/workdocs/remove-all-resource-permissions.html)||
 |[aws workdocs remove-resource-permission](https://docs.aws.amazon.com/cli/latest/reference/workdocs/remove-resource-permission.html)|[Remove-WDResourcePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WDResourcePermission.html)|
 |[aws workdocs restore-document-versions](https://docs.aws.amazon.com/cli/latest/reference/workdocs/restore-document-versions.html)|[Restore-WDDocumentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-WDDocumentVersion.html)|
+|[aws workdocs search-resources](https://docs.aws.amazon.com/cli/latest/reference/workdocs/search-resources.html)|[Search-WDResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-WDResource.html)|
 |[aws workdocs update-document](https://docs.aws.amazon.com/cli/latest/reference/workdocs/update-document.html)|[Update-WDDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WDDocument.html)|
 |[aws workdocs update-document-version](https://docs.aws.amazon.com/cli/latest/reference/workdocs/update-document-version.html)|[Update-WDDocumentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WDDocumentVersion.html)|
 |[aws workdocs update-folder](https://docs.aws.amazon.com/cli/latest/reference/workdocs/update-folder.html)|[Update-WDFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WDFolder.html)|

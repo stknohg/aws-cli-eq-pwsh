@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2023-03-01
+date: 2023-04-01
 description: aws dms (AWS Database Migration Service) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws dms (AWS Database Migration Service) command/cmdlet list.
 |----|----|
 |[aws dms add-tags-to-resource](https://docs.aws.amazon.com/cli/latest/reference/dms/add-tags-to-resource.html)|[Set-DMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DMSResourceTag.html)|
 |[aws dms apply-pending-maintenance-action](https://docs.aws.amazon.com/cli/latest/reference/dms/apply-pending-maintenance-action.html)|[Complete-DMSPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-DMSPendingMaintenanceAction.html)|
+|[aws dms batch-start-recommendations](https://docs.aws.amazon.com/cli/latest/reference/dms/batch-start-recommendations.html)|[Start-DMSBatchRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSBatchRecommendation.html)|
 |[aws dms cancel-replication-task-assessment-run](https://docs.aws.amazon.com/cli/latest/reference/dms/cancel-replication-task-assessment-run.html)|[Stop-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DMSReplicationTaskAssessmentRun.html)|
 |[aws dms create-endpoint](https://docs.aws.amazon.com/cli/latest/reference/dms/create-endpoint.html)|[New-DMSEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEndpoint.html)|
 |[aws dms create-event-subscription](https://docs.aws.amazon.com/cli/latest/reference/dms/create-event-subscription.html)|[New-DMSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DMSEventSubscription.html)|
@@ -49,6 +50,8 @@ description: aws dms (AWS Database Migration Service) command/cmdlet list.
 |[aws dms describe-fleet-advisor-schemas](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-fleet-advisor-schemas.html)|[Get-DMSFleetAdvisorSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSFleetAdvisorSchema.html)|
 |[aws dms describe-orderable-replication-instances](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-orderable-replication-instances.html)|[Get-DMSOrderableReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSOrderableReplicationInstance.html)|
 |[aws dms describe-pending-maintenance-actions](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-pending-maintenance-actions.html)|[Get-DMSPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSPendingMaintenanceAction.html)|
+|[aws dms describe-recommendation-limitations](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-recommendation-limitations.html)|[Get-DMSRecommendationLimitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSRecommendationLimitation.html)|
+|[aws dms describe-recommendations](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-recommendations.html)|[Get-DMSRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSRecommendation.html)|
 |[aws dms describe-refresh-schemas-status](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-refresh-schemas-status.html)|[Get-DMSRefreshSchemasStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSRefreshSchemasStatus.html)|
 |[aws dms describe-replication-instance-task-logs](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instance-task-logs.html)|[Get-DMSReplicationInstanceTaskLog](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstanceTaskLog.html)|
 |[aws dms describe-replication-instances](https://docs.aws.amazon.com/cli/latest/reference/dms/describe-replication-instances.html)|[Get-DMSReplicationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSReplicationInstance.html)|
@@ -72,6 +75,7 @@ description: aws dms (AWS Database Migration Service) command/cmdlet list.
 |[aws dms reload-tables](https://docs.aws.amazon.com/cli/latest/reference/dms/reload-tables.html)|[Restore-DMSTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DMSTable.html)|
 |[aws dms remove-tags-from-resource](https://docs.aws.amazon.com/cli/latest/reference/dms/remove-tags-from-resource.html)|[Remove-DMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DMSResourceTag.html)|
 |[aws dms run-fleet-advisor-lsa-analysis](https://docs.aws.amazon.com/cli/latest/reference/dms/run-fleet-advisor-lsa-analysis.html)|[Start-DMSFleetAdvisorLsaAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSFleetAdvisorLsaAnalysis.html)|
+|[aws dms start-recommendations](https://docs.aws.amazon.com/cli/latest/reference/dms/start-recommendations.html)|[Start-DMSRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSRecommendation.html)|
 |[aws dms start-replication-task](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task.html)|[Start-DMSReplicationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTask.html)|
 |[aws dms start-replication-task-assessment](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task-assessment.html)|[Start-DMSReplicationTaskAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTaskAssessment.html)|
 |[aws dms start-replication-task-assessment-run](https://docs.aws.amazon.com/cli/latest/reference/dms/start-replication-task-assessment-run.html)|[Start-DMSReplicationTaskAssessmentRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DMSReplicationTaskAssessmentRun.html)|

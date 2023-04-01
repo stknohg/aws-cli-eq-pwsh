@@ -1,6 +1,6 @@
 ---
 title: codeartifact
-date: 2023-03-01
+date: 2023-04-01
 description: aws codeartifact (AWS Artifact) command/cmdlet list.
 ---
 
@@ -44,6 +44,7 @@ description: aws codeartifact (AWS Artifact) command/cmdlet list.
 |[aws codeartifact list-repositories-in-domain](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-repositories-in-domain.html)|[Get-CARepositoriesInDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CARepositoriesInDomainList.html)|
 |[aws codeartifact list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/list-tags-for-resource.html)|[Get-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAResourceTag.html)|
 |[aws codeartifact login](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/login.html)||
+|[aws codeartifact publish-package-version](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/publish-package-version.html)|[Publish-CAPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-CAPackageVersion.html)|
 |[aws codeartifact put-domain-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-domain-permissions-policy.html)|[Write-CADomainPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CADomainPermissionsPolicy.html)|
 |[aws codeartifact put-package-origin-configuration](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-package-origin-configuration.html)|[Write-CAPackageOriginConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CAPackageOriginConfiguration.html)|
 |[aws codeartifact put-repository-permissions-policy](https://docs.aws.amazon.com/cli/latest/reference/codeartifact/put-repository-permissions-policy.html)|[Write-CARepositoryPermissionsPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CARepositoryPermissionsPolicy.html)|

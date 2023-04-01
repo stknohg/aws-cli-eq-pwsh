@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2023-03-01
+date: 2023-04-01
 description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list
 |[aws wellarchitected disassociate-lenses](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/disassociate-lenses.html)|[Unregister-WATLens](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WATLens.html)|
 |[aws wellarchitected export-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/export-lens.html)|[Export-WATLens](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-WATLens.html)|
 |[aws wellarchitected get-answer](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-answer.html)|[Get-WATAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswer.html)|
+|[aws wellarchitected get-consolidated-report](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-consolidated-report.html)|[Get-WATConsolidatedReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATConsolidatedReport.html)|
 |[aws wellarchitected get-lens](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens.html)|[Get-WATLens](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLens.html)|
 |[aws wellarchitected get-lens-review](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-review.html)|[Get-WATLensReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReview.html)|
 |[aws wellarchitected get-lens-review-report](https://docs.aws.amazon.com/cli/latest/reference/wellarchitected/get-lens-review-report.html)|[Get-WATLensReviewReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewReport.html)|

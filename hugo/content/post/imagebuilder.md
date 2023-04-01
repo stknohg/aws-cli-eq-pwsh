@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2023-03-01
+date: 2023-04-01
 description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 ---
 
@@ -39,6 +39,8 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder get-image-recipe](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-image-recipe.html)|[Get-EC2IBImageRecipe](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageRecipe.html)|
 |[aws imagebuilder get-image-recipe-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-image-recipe-policy.html)|[Get-EC2IBImageRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageRecipePolicy.html)|
 |[aws imagebuilder get-infrastructure-configuration](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-infrastructure-configuration.html)|[Get-EC2IBInfrastructureConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfiguration.html)|
+|[aws imagebuilder get-workflow-execution](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-workflow-execution.html)|[Get-EC2IBWorkflowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowExecution.html)|
+|[aws imagebuilder get-workflow-step-execution](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/get-workflow-step-execution.html)|[Get-EC2IBWorkflowStepExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowStepExecution.html)|
 |[aws imagebuilder import-component](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/import-component.html)|[Import-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBComponent.html)|
 |[aws imagebuilder import-vm-image](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/import-vm-image.html)|[Import-EC2IBVmImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBVmImage.html)|
 |[aws imagebuilder list-component-build-versions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-component-build-versions.html)|[Get-EC2IBComponentBuildVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentBuildVersionList.html)|
@@ -50,9 +52,13 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder list-image-pipeline-images](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-pipeline-images.html)|[Get-EC2IBImagePipelineImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePipelineImageList.html)|
 |[aws imagebuilder list-image-pipelines](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-pipelines.html)|[Get-EC2IBImagePipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImagePipelineList.html)|
 |[aws imagebuilder list-image-recipes](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-recipes.html)|[Get-EC2IBImageRecipeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageRecipeList.html)|
+|[aws imagebuilder list-image-scan-finding-aggregations](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-scan-finding-aggregations.html)|[Get-EC2IBImageScanFindingAggregationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageScanFindingAggregationList.html)|
+|[aws imagebuilder list-image-scan-findings](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-image-scan-findings.html)|[Get-EC2IBImageScanFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageScanFindingList.html)|
 |[aws imagebuilder list-images](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-images.html)|[Get-EC2IBImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBImageList.html)|
 |[aws imagebuilder list-infrastructure-configurations](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-infrastructure-configurations.html)|[Get-EC2IBInfrastructureConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfigurationList.html)|
 |[aws imagebuilder list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-tags-for-resource.html)|[Get-EC2IBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBResourceTag.html)|
+|[aws imagebuilder list-workflow-executions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-workflow-executions.html)|[Get-EC2IBWorkflowExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowExecutionList.html)|
+|[aws imagebuilder list-workflow-step-executions](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/list-workflow-step-executions.html)|[Get-EC2IBWorkflowStepExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowStepExecutionList.html)|
 |[aws imagebuilder put-component-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-component-policy.html)|[Write-EC2IBComponentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBComponentPolicy.html)|
 |[aws imagebuilder put-container-recipe-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-container-recipe-policy.html)|[Write-EC2IBContainerRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBContainerRecipePolicy.html)|
 |[aws imagebuilder put-image-policy](https://docs.aws.amazon.com/cli/latest/reference/imagebuilder/put-image-policy.html)|[Write-EC2IBImagePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBImagePolicy.html)|

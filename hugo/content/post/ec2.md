@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2023-03-01
+date: 2023-04-01
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -464,6 +464,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-verified-access-group-policy](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-verified-access-group-policy.html)|[Get-EC2VerifiedAccessGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2VerifiedAccessGroupPolicy.html)|
 |[aws ec2 get-vpn-connection-device-sample-configuration](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-vpn-connection-device-sample-configuration.html)|[Get-EC2VpnConnectionDeviceSampleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2VpnConnectionDeviceSampleConfiguration.html)|
 |[aws ec2 get-vpn-connection-device-types](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-vpn-connection-device-types.html)|[Get-EC2VpnConnectionDeviceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2VpnConnectionDeviceType.html)|
+|[aws ec2 get-vpn-tunnel-replacement-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/get-vpn-tunnel-replacement-status.html)|[Get-EC2VpnTunnelReplacementStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2VpnTunnelReplacementStatus.html)|
 |[aws ec2 import-client-vpn-client-certificate-revocation-list](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-client-vpn-client-certificate-revocation-list.html)|[Import-EC2ClientVpnClientCertificateRevocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2ClientVpnClientCertificateRevocationList.html)|
 |[aws ec2 import-image](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-image.html)|[Import-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2Image.html)|
 |[aws ec2 import-key-pair](https://docs.aws.amazon.com/cli/latest/reference/ec2/import-key-pair.html)|[Import-EC2KeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2KeyPair.html)|
@@ -562,6 +563,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 replace-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-route.html)|[Set-EC2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2Route.html)|
 |[aws ec2 replace-route-table-association](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-route-table-association.html)|[Set-EC2RouteTableAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2RouteTableAssociation.html)|
 |[aws ec2 replace-transit-gateway-route](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-transit-gateway-route.html)|[Set-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2TransitGatewayRoute.html)|
+|[aws ec2 replace-vpn-tunnel](https://docs.aws.amazon.com/cli/latest/reference/ec2/replace-vpn-tunnel.html)|[Set-EC2VpnTunnel](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2VpnTunnel.html)|
 |[aws ec2 report-instance-status](https://docs.aws.amazon.com/cli/latest/reference/ec2/report-instance-status.html)|[Send-EC2InstanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2InstanceStatus.html)|
 |[aws ec2 request-spot-fleet](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-fleet.html)|[Request-EC2SpotFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-EC2SpotFleet.html)|
 |[aws ec2 request-spot-instances](https://docs.aws.amazon.com/cli/latest/reference/ec2/request-spot-instances.html)|[Request-EC2SpotInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-EC2SpotInstance.html)|

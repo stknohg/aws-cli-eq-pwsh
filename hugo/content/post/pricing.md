@@ -1,6 +1,6 @@
 ---
 title: pricing
-date: 2023-03-01
+date: 2023-04-01
 description: aws pricing (AWS Price List Service) command/cmdlet list.
 ---
 
@@ -15,5 +15,7 @@ description: aws pricing (AWS Price List Service) command/cmdlet list.
 |----|----|
 |[aws pricing describe-services](https://docs.aws.amazon.com/cli/latest/reference/pricing/describe-services.html)|[Get-PLSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PLSService.html)|
 |[aws pricing get-attribute-values](https://docs.aws.amazon.com/cli/latest/reference/pricing/get-attribute-values.html)|[Get-PLSAttributeValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PLSAttributeValue.html)|
+|[aws pricing get-price-list-file-url](https://docs.aws.amazon.com/cli/latest/reference/pricing/get-price-list-file-url.html)|[Get-PLSPriceListFileUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PLSPriceListFileUrl.html)|
 |[aws pricing get-products](https://docs.aws.amazon.com/cli/latest/reference/pricing/get-products.html)|[Get-PLSProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PLSProduct.html)|
+|[aws pricing list-price-lists](https://docs.aws.amazon.com/cli/latest/reference/pricing/list-price-lists.html)|[Get-PLSPriceListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PLSPriceListList.html)|
 

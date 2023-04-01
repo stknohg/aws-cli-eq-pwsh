@@ -1,6 +1,6 @@
 ---
 title: connectcases
-date: 2023-03-01
+date: 2023-04-01
 description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 |[aws connectcases create-layout](https://docs.aws.amazon.com/cli/latest/reference/connectcases/create-layout.html)|[New-CCASLayout](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASLayout.html)|
 |[aws connectcases create-related-item](https://docs.aws.amazon.com/cli/latest/reference/connectcases/create-related-item.html)|[New-CCASRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASRelatedItem.html)|
 |[aws connectcases create-template](https://docs.aws.amazon.com/cli/latest/reference/connectcases/create-template.html)|[New-CCASTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASTemplate.html)|
+|[aws connectcases delete-domain](https://docs.aws.amazon.com/cli/latest/reference/connectcases/delete-domain.html)|[Remove-CCASDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASDomain.html)|
 |[aws connectcases get-case](https://docs.aws.amazon.com/cli/latest/reference/connectcases/get-case.html)|[Get-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCase.html)|
 |[aws connectcases get-case-event-configuration](https://docs.aws.amazon.com/cli/latest/reference/connectcases/get-case-event-configuration.html)|[Get-CCASCaseEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCaseEventConfiguration.html)|
 |[aws connectcases get-domain](https://docs.aws.amazon.com/cli/latest/reference/connectcases/get-domain.html)|[Get-CCASDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASDomain.html)|

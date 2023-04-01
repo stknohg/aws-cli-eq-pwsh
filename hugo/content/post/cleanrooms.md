@@ -1,6 +1,6 @@
 ---
 title: cleanrooms
-date: 2023-03-01
+date: 2023-04-01
 description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 ---
 
@@ -40,7 +40,10 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms list-memberships](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/list-memberships.html)|[Get-CRSMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSMembershipList.html)|
 |[aws cleanrooms list-protected-queries](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/list-protected-queries.html)|[Get-CRSProtectedQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSProtectedQueryList.html)|
 |[aws cleanrooms list-schemas](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/list-schemas.html)|[Get-CRSSchemaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSSchemaList.html)|
+|[aws cleanrooms list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/list-tags-for-resource.html)|[Get-CRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSResourceTag.html)|
 |[aws cleanrooms start-protected-query](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/start-protected-query.html)|[Start-CRSProtectedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CRSProtectedQuery.html)|
+|[aws cleanrooms tag-resource](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/tag-resource.html)|[Add-CRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CRSResourceTag.html)|
+|[aws cleanrooms untag-resource](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/untag-resource.html)|[Remove-CRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CRSResourceTag.html)|
 |[aws cleanrooms update-collaboration](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/update-collaboration.html)|[Update-CRSCollaboration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSCollaboration.html)|
 |[aws cleanrooms update-configured-table](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/update-configured-table.html)|[Update-CRSConfiguredTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSConfiguredTable.html)|
 |[aws cleanrooms update-configured-table-analysis-rule](https://docs.aws.amazon.com/cli/latest/reference/cleanrooms/update-configured-table-analysis-rule.html)|[Update-CRSConfiguredTableAnalysisRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSConfiguredTableAnalysisRule.html)|

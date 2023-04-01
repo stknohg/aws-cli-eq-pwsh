@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2023-03-01
+date: 2023-04-01
 description: aws securityhub (AWS Security Hub) command/cmdlet list.
 ---
 
@@ -17,8 +17,11 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub accept-invitation](https://docs.aws.amazon.com/cli/latest/reference/securityhub/accept-invitation.html)|[Confirm-SHUBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-SHUBInvitation.html)|
 |[aws securityhub batch-disable-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-disable-standards.html)|[Disable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBStandardsBatch.html)|
 |[aws securityhub batch-enable-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-enable-standards.html)|[Enable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBStandardsBatch.html)|
+|[aws securityhub batch-get-security-controls](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-get-security-controls.html)|[Get-SHUBGetSecurityControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBGetSecurityControl.html)|
+|[aws securityhub batch-get-standards-control-associations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-get-standards-control-associations.html)|[Get-SHUBGetStandardsControlAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBGetStandardsControlAssociation.html)|
 |[aws securityhub batch-import-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-import-findings.html)|[Import-SHUBFindingsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SHUBFindingsBatch.html)|
 |[aws securityhub batch-update-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-update-findings.html)|[Update-SHUBFindingsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBFindingsBatch.html)|
+|[aws securityhub batch-update-standards-control-associations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/batch-update-standards-control-associations.html)|[Edit-SHUBUpdateStandardsControlAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-SHUBUpdateStandardsControlAssociation.html)|
 |[aws securityhub create-action-target](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-action-target.html)|[New-SHUBActionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBActionTarget.html)|
 |[aws securityhub create-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-finding-aggregator.html)|[New-SHUBFindingAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBFindingAggregator.html)|
 |[aws securityhub create-insight](https://docs.aws.amazon.com/cli/latest/reference/securityhub/create-insight.html)|[New-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBInsight.html)|
@@ -59,6 +62,8 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub list-invitations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-invitations.html)|[Get-SHUBInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationList.html)|
 |[aws securityhub list-members](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-members.html)|[Get-SHUBMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMemberList.html)|
 |[aws securityhub list-organization-admin-accounts](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-organization-admin-accounts.html)|[Get-SHUBOrganizationAdminAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBOrganizationAdminAccountList.html)|
+|[aws securityhub list-security-control-definitions](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-security-control-definitions.html)|[Get-SHUBSecurityControlDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBSecurityControlDefinitionList.html)|
+|[aws securityhub list-standards-control-associations](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-standards-control-associations.html)|[Get-SHUBStandardsControlAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBStandardsControlAssociationList.html)|
 |[aws securityhub list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/securityhub/list-tags-for-resource.html)|[Get-SHUBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourceTag.html)|
 |[aws securityhub tag-resource](https://docs.aws.amazon.com/cli/latest/reference/securityhub/tag-resource.html)|[Add-SHUBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SHUBResourceTag.html)|
 |[aws securityhub untag-resource](https://docs.aws.amazon.com/cli/latest/reference/securityhub/untag-resource.html)|[Remove-SHUBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBResourceTag.html)|

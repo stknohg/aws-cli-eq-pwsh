@@ -1,6 +1,6 @@
 ---
 title: application-autoscaling
-date: 2023-03-01
+date: 2023-04-01
 description: aws application-autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 
@@ -20,7 +20,10 @@ description: aws application-autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws application-autoscaling describe-scaling-activities](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/describe-scaling-activities.html)|[Get-AASScalingActivity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AASScalingActivity.html)|
 |[aws application-autoscaling describe-scaling-policies](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/describe-scaling-policies.html)|[Get-AASScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AASScalingPolicy.html)|
 |[aws application-autoscaling describe-scheduled-actions](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/describe-scheduled-actions.html)|[Get-AASScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AASScheduledAction.html)|
+|[aws application-autoscaling list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/list-tags-for-resource.html)|[Get-AASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AASResourceTag.html)|
 |[aws application-autoscaling put-scaling-policy](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/put-scaling-policy.html)|[Set-AASScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-AASScalingPolicy.html)|
 |[aws application-autoscaling put-scheduled-action](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/put-scheduled-action.html)|[Set-AASScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-AASScheduledAction.html)|
 |[aws application-autoscaling register-scalable-target](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/register-scalable-target.html)|[Add-AASScalableTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AASScalableTarget.html)|
+|[aws application-autoscaling tag-resource](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/tag-resource.html)|[Add-AASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AASResourceTag.html)|
+|[aws application-autoscaling untag-resource](https://docs.aws.amazon.com/cli/latest/reference/application-autoscaling/untag-resource.html)|[Remove-AASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AASResourceTag.html)|
 

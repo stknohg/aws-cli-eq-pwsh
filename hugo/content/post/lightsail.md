@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2023-03-01
+date: 2023-04-01
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail create-distribution](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-distribution.html)|[New-LSDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDistribution.html)|
 |[aws lightsail create-domain](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-domain.html)|[New-LSDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDomain.html)|
 |[aws lightsail create-domain-entry](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-domain-entry.html)|[New-LSDomainEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSDomainEntry.html)|
+|[aws lightsail create-gui-session-access-details](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-gui-session-access-details.html)|[New-LSGUISessionAccessDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSGUISessionAccessDetail.html)|
 |[aws lightsail create-instance-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-instance-snapshot.html)|[New-LSInstanceSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSInstanceSnapshot.html)|
 |[aws lightsail create-instances](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-instances.html)|[New-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSInstance.html)|
 |[aws lightsail create-instances-from-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/create-instances-from-snapshot.html)|[New-LSInstancesFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LSInstancesFromSnapshot.html)|
@@ -92,6 +93,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail get-container-service-metric-data](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-service-metric-data.html)|[Get-LSContainerServiceMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerServiceMetricData.html)|
 |[aws lightsail get-container-service-powers](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-service-powers.html)|[Get-LSContainerServicePower](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerServicePower.html)|
 |[aws lightsail get-container-services](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-container-services.html)|[Get-LSContainerService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSContainerService.html)|
+|[aws lightsail get-cost-estimate](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-cost-estimate.html)|[Get-LSCostEstimate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSCostEstimate.html)|
 |[aws lightsail get-disk](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk.html)|[Get-LSDisk](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDisk.html)|
 |[aws lightsail get-disk-snapshot](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk-snapshot.html)|[Get-LSDiskSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskSnapshot.html)|
 |[aws lightsail get-disk-snapshots](https://docs.aws.amazon.com/cli/latest/reference/lightsail/get-disk-snapshots.html)|[Get-LSDiskSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSDiskSnapshotList.html)|
@@ -151,8 +153,10 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail send-contact-method-verification](https://docs.aws.amazon.com/cli/latest/reference/lightsail/send-contact-method-verification.html)|[Send-LSContactMethodVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LSContactMethodVerification.html)|
 |[aws lightsail set-ip-address-type](https://docs.aws.amazon.com/cli/latest/reference/lightsail/set-ip-address-type.html)|[Set-LSIpAddressType](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSIpAddressType.html)|
 |[aws lightsail set-resource-access-for-bucket](https://docs.aws.amazon.com/cli/latest/reference/lightsail/set-resource-access-for-bucket.html)|[Set-LSResourceAccessForBucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSResourceAccessForBucket.html)|
+|[aws lightsail start-gui-session](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-gui-session.html)|[Start-LSGUISession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSGUISession.html)|
 |[aws lightsail start-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-instance.html)|[Start-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSInstance.html)|
 |[aws lightsail start-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/start-relational-database.html)|[Start-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSRelationalDatabase.html)|
+|[aws lightsail stop-gui-session](https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-gui-session.html)|[Stop-LSGUISession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSGUISession.html)|
 |[aws lightsail stop-instance](https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-instance.html)|[Stop-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSInstance.html)|
 |[aws lightsail stop-relational-database](https://docs.aws.amazon.com/cli/latest/reference/lightsail/stop-relational-database.html)|[Stop-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LSRelationalDatabase.html)|
 |[aws lightsail tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lightsail/tag-resource.html)|[Add-LSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LSResourceTag.html)|

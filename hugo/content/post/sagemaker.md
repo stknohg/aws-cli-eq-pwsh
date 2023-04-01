@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2023-03-01
+date: 2023-04-01
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker create-app-image-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-app-image-config.html)|[New-SMAppImageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAppImageConfig.html)|
 |[aws sagemaker create-artifact](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-artifact.html)|[New-SMArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMArtifact.html)|
 |[aws sagemaker create-auto-ml-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-auto-ml-job.html)|[New-SMAutoMLJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAutoMLJob.html)|
+|[aws sagemaker create-auto-ml-job-v2](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-auto-ml-job-v2.html)|[New-SMAutoMLJobV2](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAutoMLJobV2.html)|
 |[aws sagemaker create-code-repository](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-code-repository.html)|[New-SMCodeRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMCodeRepository.html)|
 |[aws sagemaker create-compilation-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-compilation-job.html)|[New-SMCompilationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMCompilationJob.html)|
 |[aws sagemaker create-context](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-context.html)|[New-SMContext](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMContext.html)|
@@ -122,6 +123,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker describe-app-image-config](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-app-image-config.html)|[Get-SMAppImageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAppImageConfig.html)|
 |[aws sagemaker describe-artifact](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-artifact.html)|[Get-SMArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMArtifact.html)|
 |[aws sagemaker describe-auto-ml-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-auto-ml-job.html)|[Get-SMAutoMLJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAutoMLJob.html)|
+|[aws sagemaker describe-auto-ml-job-v2](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-auto-ml-job-v2.html)|[Get-SMAutoMLJobV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMAutoMLJobV2.html)|
 |[aws sagemaker describe-code-repository](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-code-repository.html)|[Get-SMCodeRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMCodeRepository.html)|
 |[aws sagemaker describe-compilation-job](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-compilation-job.html)|[Get-SMCompilationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMCompilationJob.html)|
 |[aws sagemaker describe-context](https://docs.aws.amazon.com/cli/latest/reference/sagemaker/describe-context.html)|[Get-SMContext](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMContext.html)|

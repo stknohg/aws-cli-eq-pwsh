@@ -1,6 +1,6 @@
 ---
 title: kendra
-date: 2023-03-01
+date: 2023-04-01
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra associate-entities-to-experience](https://docs.aws.amazon.com/cli/latest/reference/kendra/associate-entities-to-experience.html)|[Add-KNDREntitiesToExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KNDREntitiesToExperience.html)|
 |[aws kendra associate-personas-to-entities](https://docs.aws.amazon.com/cli/latest/reference/kendra/associate-personas-to-entities.html)|[Add-KNDRPersonasToEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KNDRPersonasToEntity.html)|
 |[aws kendra batch-delete-document](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-delete-document.html)|[Remove-KNDRDocumentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KNDRDocumentBatch.html)|
+|[aws kendra batch-delete-featured-results-set](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-delete-featured-results-set.html)|[Remove-KNDRFeaturedResultsSetBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KNDRFeaturedResultsSetBatch.html)|
 |[aws kendra batch-get-document-status](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-get-document-status.html)|[Get-KNDRGetDocumentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRGetDocumentStatus.html)|
 |[aws kendra batch-put-document](https://docs.aws.amazon.com/cli/latest/reference/kendra/batch-put-document.html)|[Write-KNDRDocumentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-KNDRDocumentBatch.html)|
 |[aws kendra clear-query-suggestions](https://docs.aws.amazon.com/cli/latest/reference/kendra/clear-query-suggestions.html)|[Clear-KNDRQuerySuggestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-KNDRQuerySuggestion.html)|
@@ -23,6 +24,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra create-data-source](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-data-source.html)|[New-KNDRDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRDataSource.html)|
 |[aws kendra create-experience](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-experience.html)|[New-KNDRExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRExperience.html)|
 |[aws kendra create-faq](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-faq.html)|[New-KNDRFaq](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRFaq.html)|
+|[aws kendra create-featured-results-set](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-featured-results-set.html)|[New-KNDRFeaturedResultsSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRFeaturedResultsSet.html)|
 |[aws kendra create-index](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-index.html)|[New-KNDRIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRIndex.html)|
 |[aws kendra create-query-suggestions-block-list](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-query-suggestions-block-list.html)|[New-KNDRQuerySuggestionsBlockList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRQuerySuggestionsBlockList.html)|
 |[aws kendra create-thesaurus](https://docs.aws.amazon.com/cli/latest/reference/kendra/create-thesaurus.html)|[New-KNDRThesaurus](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KNDRThesaurus.html)|
@@ -38,6 +40,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra describe-data-source](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-data-source.html)|[Get-KNDRDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRDataSource.html)|
 |[aws kendra describe-experience](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-experience.html)|[Get-KNDRExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRExperience.html)|
 |[aws kendra describe-faq](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-faq.html)|[Get-KNDRFaq](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRFaq.html)|
+|[aws kendra describe-featured-results-set](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-featured-results-set.html)|[Get-KNDRFeaturedResultsSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRFeaturedResultsSet.html)|
 |[aws kendra describe-index](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-index.html)|[Get-KNDRIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRIndex.html)|
 |[aws kendra describe-principal-mapping](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-principal-mapping.html)|[Get-KNDRPrincipalMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRPrincipalMapping.html)|
 |[aws kendra describe-query-suggestions-block-list](https://docs.aws.amazon.com/cli/latest/reference/kendra/describe-query-suggestions-block-list.html)|[Get-KNDRQuerySuggestionsBlockList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRQuerySuggestionsBlockList.html)|
@@ -54,6 +57,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra list-experience-entities](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-experience-entities.html)|[Get-KNDRExperienceEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRExperienceEntityList.html)|
 |[aws kendra list-experiences](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-experiences.html)|[Get-KNDRExperienceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRExperienceList.html)|
 |[aws kendra list-faqs](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-faqs.html)|[Get-KNDRFaqList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRFaqList.html)|
+|[aws kendra list-featured-results-sets](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-featured-results-sets.html)|[Get-KNDRFeaturedResultsSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRFeaturedResultsSetList.html)|
 |[aws kendra list-groups-older-than-ordering-id](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-groups-older-than-ordering-id.html)|[Get-KNDRGroupsOlderThanOrderingIdList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRGroupsOlderThanOrderingIdList.html)|
 |[aws kendra list-indices](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-indices.html)|[Get-KNDRIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRIndexList.html)|
 |[aws kendra list-query-suggestions-block-lists](https://docs.aws.amazon.com/cli/latest/reference/kendra/list-query-suggestions-block-lists.html)|[Get-KNDRQuerySuggestionsBlockListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRQuerySuggestionsBlockListList.html)|
@@ -72,6 +76,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra update-access-control-configuration](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-access-control-configuration.html)|[Update-KNDRAccessControlConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRAccessControlConfiguration.html)|
 |[aws kendra update-data-source](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-data-source.html)|[Update-KNDRDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRDataSource.html)|
 |[aws kendra update-experience](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-experience.html)|[Update-KNDRExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRExperience.html)|
+|[aws kendra update-featured-results-set](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-featured-results-set.html)|[Update-KNDRFeaturedResultsSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRFeaturedResultsSet.html)|
 |[aws kendra update-index](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-index.html)|[Update-KNDRIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRIndex.html)|
 |[aws kendra update-query-suggestions-block-list](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-query-suggestions-block-list.html)|[Update-KNDRQuerySuggestionsBlockList](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRQuerySuggestionsBlockList.html)|
 |[aws kendra update-query-suggestions-config](https://docs.aws.amazon.com/cli/latest/reference/kendra/update-query-suggestions-config.html)|[Update-KNDRQuerySuggestionsConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KNDRQuerySuggestionsConfig.html)|

@@ -1,6 +1,6 @@
 ---
 title: codecatalyst
-date: 2023-03-01
+date: 2023-04-01
 description: aws codecatalyst (Amazon CodeCatalyst) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws codecatalyst (Amazon CodeCatalyst) command/cmdlet list.
 |[aws codecatalyst start-dev-environment](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/start-dev-environment.html)|[Start-CCATDevEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CCATDevEnvironment.html)|
 |[aws codecatalyst start-dev-environment-session](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/start-dev-environment-session.html)|[Start-CCATDevEnvironmentSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CCATDevEnvironmentSession.html)|
 |[aws codecatalyst stop-dev-environment](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/stop-dev-environment.html)|[Stop-CCATDevEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CCATDevEnvironment.html)|
+|[aws codecatalyst stop-dev-environment-session](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/stop-dev-environment-session.html)|[Stop-CCATDevEnvironmentSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CCATDevEnvironmentSession.html)|
 |[aws codecatalyst update-dev-environment](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/update-dev-environment.html)|[Update-CCATDevEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCATDevEnvironment.html)|
 |[aws codecatalyst verify-session](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/verify-session.html)|[Confirm-CCATSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-CCATSession.html)|
 

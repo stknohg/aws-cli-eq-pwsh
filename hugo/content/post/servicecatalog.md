@@ -1,6 +1,6 @@
 ---
 title: servicecatalog
-date: 2023-04-01
+date: 2023-04-15
 description: aws servicecatalog (AWS Service Catalog) command/cmdlet list.
 ---
 
@@ -85,6 +85,9 @@ description: aws servicecatalog (AWS Service Catalog) command/cmdlet list.
 |[aws servicecatalog list-service-actions-for-provisioning-artifact](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-service-actions-for-provisioning-artifact.html)|[Get-SCServiceActionsForProvisioningArtifactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCServiceActionsForProvisioningArtifactList.html)|
 |[aws servicecatalog list-stack-instances-for-provisioned-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-stack-instances-for-provisioned-product.html)|[Get-SCStackInstancesForProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCStackInstancesForProvisionedProduct.html)|
 |[aws servicecatalog list-tag-options](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/list-tag-options.html)|[Get-SCTagOptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCTagOptionList.html)|
+|[aws servicecatalog notify-provision-product-engine-workflow-result](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/notify-provision-product-engine-workflow-result.html)|[Start-SCProvisionProductEngineWorkflowResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SCProvisionProductEngineWorkflowResult.html)|
+|[aws servicecatalog notify-terminate-provisioned-product-engine-workflow-result](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/notify-terminate-provisioned-product-engine-workflow-result.html)|[Start-SCTerminateProvisionedProductEngineWorkflowResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SCTerminateProvisionedProductEngineWorkflowResult.html)|
+|[aws servicecatalog notify-update-provisioned-product-engine-workflow-result](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/notify-update-provisioned-product-engine-workflow-result.html)|[Start-SCUpdateProvisionedProductEngineWorkflowResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SCUpdateProvisionedProductEngineWorkflowResult.html)|
 |[aws servicecatalog provision-product](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/provision-product.html)|[New-SCProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SCProvisionedProduct.html)|
 |[aws servicecatalog reject-portfolio-share](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/reject-portfolio-share.html)|[Deny-SCPortfolioShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-SCPortfolioShare.html)|
 |[aws servicecatalog scan-provisioned-products](https://docs.aws.amazon.com/cli/latest/reference/servicecatalog/scan-provisioned-products.html)|[Get-SCProvisionedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SCProvisionedProduct.html)|

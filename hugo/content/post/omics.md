@@ -1,6 +1,6 @@
 ---
 title: omics
-date: 2023-04-01
+date: 2023-04-15
 description: aws omics (Amazon Omics) command/cmdlet list.
 ---
 

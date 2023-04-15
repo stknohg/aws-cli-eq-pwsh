@@ -1,6 +1,6 @@
 ---
 title: proton
-date: 2023-04-01
+date: 2023-04-15
 description: aws proton (AWS Proton) command/cmdlet list.
 ---
 
@@ -25,6 +25,8 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton create-environment-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/create-environment-template-version.html)|[New-PROEnvironmentTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROEnvironmentTemplateVersion.html)|
 |[aws proton create-repository](https://docs.aws.amazon.com/cli/latest/reference/proton/create-repository.html)|[New-PRORepository](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PRORepository.html)|
 |[aws proton create-service](https://docs.aws.amazon.com/cli/latest/reference/proton/create-service.html)|[New-PROService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROService.html)|
+|[aws proton create-service-instance](https://docs.aws.amazon.com/cli/latest/reference/proton/create-service-instance.html)|[New-PROServiceInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROServiceInstance.html)|
+|[aws proton create-service-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/create-service-sync-config.html)|[New-PROServiceSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROServiceSyncConfig.html)|
 |[aws proton create-service-template](https://docs.aws.amazon.com/cli/latest/reference/proton/create-service-template.html)|[New-PROServiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROServiceTemplate.html)|
 |[aws proton create-service-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/create-service-template-version.html)|[New-PROServiceTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROServiceTemplateVersion.html)|
 |[aws proton create-template-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/create-template-sync-config.html)|[New-PROTemplateSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROTemplateSyncConfig.html)|
@@ -35,6 +37,7 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton delete-environment-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-environment-template-version.html)|[Remove-PROEnvironmentTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROEnvironmentTemplateVersion.html)|
 |[aws proton delete-repository](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-repository.html)|[Remove-PRORepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PRORepository.html)|
 |[aws proton delete-service](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-service.html)|[Remove-PROService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROService.html)|
+|[aws proton delete-service-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-service-sync-config.html)|[Remove-PROServiceSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROServiceSyncConfig.html)|
 |[aws proton delete-service-template](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-service-template.html)|[Remove-PROServiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROServiceTemplate.html)|
 |[aws proton delete-service-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-service-template-version.html)|[Remove-PROServiceTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROServiceTemplateVersion.html)|
 |[aws proton delete-template-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/delete-template-sync-config.html)|[Remove-PROTemplateSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROTemplateSyncConfig.html)|
@@ -49,6 +52,9 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton get-resources-summary](https://docs.aws.amazon.com/cli/latest/reference/proton/get-resources-summary.html)|[Get-PROResourcesSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROResourcesSummary.html)|
 |[aws proton get-service](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service.html)|[Get-PROService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROService.html)|
 |[aws proton get-service-instance](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-instance.html)|[Get-PROServiceInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceInstance.html)|
+|[aws proton get-service-instance-sync-status](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-instance-sync-status.html)|[Get-PROServiceInstanceSyncStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceInstanceSyncStatus.html)|
+|[aws proton get-service-sync-blocker-summary](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-sync-blocker-summary.html)|[Get-PROServiceSyncBlockerSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceSyncBlockerSummary.html)|
+|[aws proton get-service-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-sync-config.html)|[Get-PROServiceSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceSyncConfig.html)|
 |[aws proton get-service-template](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-template.html)|[Get-PROServiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceTemplate.html)|
 |[aws proton get-service-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/get-service-template-version.html)|[Get-PROServiceTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROServiceTemplateVersion.html)|
 |[aws proton get-template-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/get-template-sync-config.html)|[Get-PROTemplateSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROTemplateSyncConfig.html)|
@@ -86,6 +92,8 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton update-service](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service.html)|[Update-PROService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROService.html)|
 |[aws proton update-service-instance](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service-instance.html)|[Update-PROServiceInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROServiceInstance.html)|
 |[aws proton update-service-pipeline](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service-pipeline.html)|[Update-PROServicePipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROServicePipeline.html)|
+|[aws proton update-service-sync-blocker](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service-sync-blocker.html)|[Update-PROServiceSyncBlocker](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROServiceSyncBlocker.html)|
+|[aws proton update-service-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service-sync-config.html)|[Update-PROServiceSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROServiceSyncConfig.html)|
 |[aws proton update-service-template](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service-template.html)|[Update-PROServiceTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROServiceTemplate.html)|
 |[aws proton update-service-template-version](https://docs.aws.amazon.com/cli/latest/reference/proton/update-service-template-version.html)|[Update-PROServiceTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROServiceTemplateVersion.html)|
 |[aws proton update-template-sync-config](https://docs.aws.amazon.com/cli/latest/reference/proton/update-template-sync-config.html)|[Update-PROTemplateSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROTemplateSyncConfig.html)|

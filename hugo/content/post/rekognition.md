@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2023-04-01
+date: 2023-04-15
 description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition copy-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/copy-project-version.html)|[Copy-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-REKProjectVersion.html)|
 |[aws rekognition create-collection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-collection.html)|[New-REKCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKCollection.html)|
 |[aws rekognition create-dataset](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-dataset.html)|[New-REKDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKDataset.html)|
+|[aws rekognition create-face-liveness-session](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-face-liveness-session.html)|[New-REKFaceLivenessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKFaceLivenessSession.html)|
 |[aws rekognition create-project](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-project.html)|[New-REKProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKProject.html)|
 |[aws rekognition create-project-version](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-project-version.html)|[New-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKProjectVersion.html)|
 |[aws rekognition create-stream-processor](https://docs.aws.amazon.com/cli/latest/reference/rekognition/create-stream-processor.html)|[New-REKStreamProcessor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-REKStreamProcessor.html)|
@@ -43,6 +44,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition get-celebrity-recognition](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-celebrity-recognition.html)|[Get-REKCelebrityRecognition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKCelebrityRecognition.html)|
 |[aws rekognition get-content-moderation](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-content-moderation.html)|[Get-REKContentModeration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKContentModeration.html)|
 |[aws rekognition get-face-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-face-detection.html)|[Get-REKFaceDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceDetection.html)|
+|[aws rekognition get-face-liveness-session-results](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-face-liveness-session-results.html)|[Get-REKFaceLivenessSessionResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceLivenessSessionResult.html)|
 |[aws rekognition get-face-search](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-face-search.html)|[Get-REKFaceSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceSearch.html)|
 |[aws rekognition get-label-detection](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-label-detection.html)|[Get-REKLabelDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKLabelDetection.html)|
 |[aws rekognition get-person-tracking](https://docs.aws.amazon.com/cli/latest/reference/rekognition/get-person-tracking.html)|[Get-REKPersonTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKPersonTracking.html)|

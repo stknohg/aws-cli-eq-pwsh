@@ -1,6 +1,6 @@
 ---
 title: translate
-date: 2023-04-01
+date: 2023-04-15
 description: aws translate (Amazon Translate) command/cmdlet list.
 ---
 

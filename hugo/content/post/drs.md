@@ -1,6 +1,6 @@
 ---
 title: drs
-date: 2023-04-15
+date: 2023-05-01
 description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 ---
 
@@ -14,13 +14,16 @@ description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws drs create-extended-source-server](https://docs.aws.amazon.com/cli/latest/reference/drs/create-extended-source-server.html)|[New-EDRSExtendedSourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EDRSExtendedSourceServer.html)|
+|[aws drs create-launch-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/create-launch-configuration-template.html)|[New-EDRSLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EDRSLaunchConfigurationTemplate.html)|
 |[aws drs create-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/create-replication-configuration-template.html)|[New-EDRSReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EDRSReplicationConfigurationTemplate.html)|
 |[aws drs delete-job](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-job.html)|[Remove-EDRSJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSJob.html)|
+|[aws drs delete-launch-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-launch-configuration-template.html)|[Remove-EDRSLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSLaunchConfigurationTemplate.html)|
 |[aws drs delete-recovery-instance](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-recovery-instance.html)|[Remove-EDRSRecoveryInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSRecoveryInstance.html)|
 |[aws drs delete-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-replication-configuration-template.html)|[Remove-EDRSReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSReplicationConfigurationTemplate.html)|
 |[aws drs delete-source-server](https://docs.aws.amazon.com/cli/latest/reference/drs/delete-source-server.html)|[Remove-EDRSSourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSSourceServer.html)|
 |[aws drs describe-job-log-items](https://docs.aws.amazon.com/cli/latest/reference/drs/describe-job-log-items.html)|[Get-EDRSJobLogItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSJobLogItem.html)|
 |[aws drs describe-jobs](https://docs.aws.amazon.com/cli/latest/reference/drs/describe-jobs.html)|[Get-EDRSJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSJob.html)|
+|[aws drs describe-launch-configuration-templates](https://docs.aws.amazon.com/cli/latest/reference/drs/describe-launch-configuration-templates.html)|[Get-EDRSLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSLaunchConfigurationTemplate.html)|
 |[aws drs describe-recovery-instances](https://docs.aws.amazon.com/cli/latest/reference/drs/describe-recovery-instances.html)|[Get-EDRSRecoveryInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSRecoveryInstance.html)|
 |[aws drs describe-recovery-snapshots](https://docs.aws.amazon.com/cli/latest/reference/drs/describe-recovery-snapshots.html)|[Get-EDRSRecoverySnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSRecoverySnapshot.html)|
 |[aws drs describe-replication-configuration-templates](https://docs.aws.amazon.com/cli/latest/reference/drs/describe-replication-configuration-templates.html)|[Get-EDRSReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSReplicationConfigurationTemplate.html)|
@@ -46,6 +49,7 @@ description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 |[aws drs untag-resource](https://docs.aws.amazon.com/cli/latest/reference/drs/untag-resource.html)|[Remove-EDRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EDRSResourceTag.html)|
 |[aws drs update-failback-replication-configuration](https://docs.aws.amazon.com/cli/latest/reference/drs/update-failback-replication-configuration.html)|[Update-EDRSFailbackReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EDRSFailbackReplicationConfiguration.html)|
 |[aws drs update-launch-configuration](https://docs.aws.amazon.com/cli/latest/reference/drs/update-launch-configuration.html)|[Update-EDRSLaunchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EDRSLaunchConfiguration.html)|
+|[aws drs update-launch-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/update-launch-configuration-template.html)|[Update-EDRSLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EDRSLaunchConfigurationTemplate.html)|
 |[aws drs update-replication-configuration](https://docs.aws.amazon.com/cli/latest/reference/drs/update-replication-configuration.html)|[Update-EDRSReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EDRSReplicationConfiguration.html)|
 |[aws drs update-replication-configuration-template](https://docs.aws.amazon.com/cli/latest/reference/drs/update-replication-configuration-template.html)|[Update-EDRSReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EDRSReplicationConfigurationTemplate.html)|
 

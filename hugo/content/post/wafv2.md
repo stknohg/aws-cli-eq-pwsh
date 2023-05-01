@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2023-04-15
+date: 2023-05-01
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |----|----|
 |[aws wafv2 associate-web-acl](https://docs.aws.amazon.com/cli/latest/reference/wafv2/associate-web-acl.html)|[Add-WAF2WebACLToResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WAF2WebACLToResource.html)|
 |[aws wafv2 check-capacity](https://docs.aws.amazon.com/cli/latest/reference/wafv2/check-capacity.html)|[Test-WAF2Capacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-WAF2Capacity.html)|
+|[aws wafv2 create-api-key](https://docs.aws.amazon.com/cli/latest/reference/wafv2/create-api-key.html)|[New-WAF2APIKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2APIKey.html)|
 |[aws wafv2 create-ip-set](https://docs.aws.amazon.com/cli/latest/reference/wafv2/create-ip-set.html)|[New-WAF2IPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2IPSet.html)|
 |[aws wafv2 create-regex-pattern-set](https://docs.aws.amazon.com/cli/latest/reference/wafv2/create-regex-pattern-set.html)|[New-WAF2RegexPatternSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2RegexPatternSet.html)|
 |[aws wafv2 create-rule-group](https://docs.aws.amazon.com/cli/latest/reference/wafv2/create-rule-group.html)|[New-WAF2RuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2RuleGroup.html)|
@@ -29,6 +30,7 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 describe-managed-rule-group](https://docs.aws.amazon.com/cli/latest/reference/wafv2/describe-managed-rule-group.html)|[Get-WAF2ManagedRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ManagedRuleGroup.html)|
 |[aws wafv2 disassociate-web-acl](https://docs.aws.amazon.com/cli/latest/reference/wafv2/disassociate-web-acl.html)|[Remove-WAF2WebACLFromResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2WebACLFromResource.html)|
 |[aws wafv2 generate-mobile-sdk-release-url](https://docs.aws.amazon.com/cli/latest/reference/wafv2/generate-mobile-sdk-release-url.html)|[New-WAF2MobileSdkReleaseUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2MobileSdkReleaseUrl.html)|
+|[aws wafv2 get-decrypted-api-key](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-decrypted-api-key.html)|[Get-WAF2DecryptedAPIKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2DecryptedAPIKey.html)|
 |[aws wafv2 get-ip-set](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-ip-set.html)|[Get-WAF2IPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2IPSet.html)|
 |[aws wafv2 get-logging-configuration](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-logging-configuration.html)|[Get-WAF2LoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2LoggingConfiguration.html)|
 |[aws wafv2 get-managed-rule-set](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-managed-rule-set.html)|[Get-WAF2ManagedRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ManagedRuleSet.html)|
@@ -40,6 +42,7 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 get-sampled-requests](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-sampled-requests.html)|[Get-WAF2SampledRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2SampledRequest.html)|
 |[aws wafv2 get-web-acl](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-web-acl.html)|[Get-WAF2WebACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2WebACL.html)|
 |[aws wafv2 get-web-acl-for-resource](https://docs.aws.amazon.com/cli/latest/reference/wafv2/get-web-acl-for-resource.html)|[Get-WAF2WebACLForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2WebACLForResource.html)|
+|[aws wafv2 list-api-keys](https://docs.aws.amazon.com/cli/latest/reference/wafv2/list-api-keys.html)|[Get-WAF2APIKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2APIKeyList.html)|
 |[aws wafv2 list-available-managed-rule-group-versions](https://docs.aws.amazon.com/cli/latest/reference/wafv2/list-available-managed-rule-group-versions.html)|[Get-WAF2AvailableManagedRuleGroupVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2AvailableManagedRuleGroupVersionList.html)|
 |[aws wafv2 list-available-managed-rule-groups](https://docs.aws.amazon.com/cli/latest/reference/wafv2/list-available-managed-rule-groups.html)|[Get-WAF2AvailableManagedRuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2AvailableManagedRuleGroupList.html)|
 |[aws wafv2 list-ip-sets](https://docs.aws.amazon.com/cli/latest/reference/wafv2/list-ip-sets.html)|[Get-WAF2IPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2IPSetList.html)|

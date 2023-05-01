@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2023-04-15
+date: 2023-05-01
 description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 ---
 
@@ -66,6 +66,7 @@ description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
 |[aws guardduty list-publishing-destinations](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-publishing-destinations.html)|[Get-GDPublishingDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestinationList.html)|
 |[aws guardduty list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-tags-for-resource.html)|[Get-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDResourceTag.html)|
 |[aws guardduty list-threat-intel-sets](https://docs.aws.amazon.com/cli/latest/reference/guardduty/list-threat-intel-sets.html)|[Get-GDThreatIntelSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSetList.html)|
+|[aws guardduty start-malware-scan](https://docs.aws.amazon.com/cli/latest/reference/guardduty/start-malware-scan.html)|[Start-GDMalwareScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMalwareScan.html)|
 |[aws guardduty start-monitoring-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/start-monitoring-members.html)|[Start-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMonitoringMember.html)|
 |[aws guardduty stop-monitoring-members](https://docs.aws.amazon.com/cli/latest/reference/guardduty/stop-monitoring-members.html)|[Stop-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GDMonitoringMember.html)|
 |[aws guardduty tag-resource](https://docs.aws.amazon.com/cli/latest/reference/guardduty/tag-resource.html)|[Add-GDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GDResourceTag.html)|

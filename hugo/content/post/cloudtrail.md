@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2023-04-15
+date: 2023-05-01
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -58,4 +58,5 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail update-event-data-store](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/update-event-data-store.html)|[Update-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CTEventDataStore.html)|
 |[aws cloudtrail update-trail](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/update-trail.html)|[Update-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CTTrail.html)|
 |[aws cloudtrail validate-logs](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/validate-logs.html)||
+|[aws cloudtrail verify-query-results](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/verify-query-results.html)||
 

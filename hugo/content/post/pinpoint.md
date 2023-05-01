@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2023-04-15
+date: 2023-05-01
 description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 ---
 
@@ -80,6 +80,9 @@ description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 |[aws pinpoint get-journey-date-range-kpi](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-date-range-kpi.html)|[Get-PINJourneyDateRangeKpi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyDateRangeKpi.html)|
 |[aws pinpoint get-journey-execution-activity-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-activity-metrics.html)|[Get-PINJourneyExecutionActivityMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionActivityMetric.html)|
 |[aws pinpoint get-journey-execution-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-execution-metrics.html)|[Get-PINJourneyExecutionMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyExecutionMetric.html)|
+|[aws pinpoint get-journey-run-execution-activity-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-run-execution-activity-metrics.html)|[Get-PINJourneyRunExecutionActivityMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyRunExecutionActivityMetric.html)|
+|[aws pinpoint get-journey-run-execution-metrics](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-run-execution-metrics.html)|[Get-PINJourneyRunExecutionMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyRunExecutionMetric.html)|
+|[aws pinpoint get-journey-runs](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-journey-runs.html)|[Get-PINJourneyRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINJourneyRun.html)|
 |[aws pinpoint get-push-template](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-push-template.html)|[Get-PINPushTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINPushTemplate.html)|
 |[aws pinpoint get-recommender-configuration](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-recommender-configuration.html)|[Get-PINRecommenderConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINRecommenderConfiguration.html)|
 |[aws pinpoint get-recommender-configurations](https://docs.aws.amazon.com/cli/latest/reference/pinpoint/get-recommender-configurations.html)|[Get-PINRecommenderConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PINRecommenderConfigurationList.html)|

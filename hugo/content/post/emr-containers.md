@@ -1,6 +1,6 @@
 ---
 title: emr-containers
-date: 2023-04-15
+date: 2023-05-01
 description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 |[aws emr-containers describe-job-template](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/describe-job-template.html)|[Get-EMRCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCJobTemplate.html)|
 |[aws emr-containers describe-managed-endpoint](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/describe-managed-endpoint.html)|[Get-EMRCManagedEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCManagedEndpoint.html)|
 |[aws emr-containers describe-virtual-cluster](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/describe-virtual-cluster.html)|[Get-EMRCVirtualCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCVirtualCluster.html)|
+|[aws emr-containers get-managed-endpoint-session-credentials](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/get-managed-endpoint-session-credentials.html)|[Get-EMRCManagedEndpointSessionCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCManagedEndpointSessionCredential.html)|
 |[aws emr-containers list-job-runs](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/list-job-runs.html)|[Get-EMRCJobRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCJobRunList.html)|
 |[aws emr-containers list-job-templates](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/list-job-templates.html)|[Get-EMRCJobTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCJobTemplateList.html)|
 |[aws emr-containers list-managed-endpoints](https://docs.aws.amazon.com/cli/latest/reference/emr-containers/list-managed-endpoints.html)|[Get-EMRCManagedEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCManagedEndpointList.html)|

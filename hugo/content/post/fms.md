@@ -1,6 +1,6 @@
 ---
 title: fms
-date: 2023-04-15
+date: 2023-05-01
 description: aws fms (AWS Firewall Manager) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws fms (AWS Firewall Manager) command/cmdlet list.
 |[aws fms disassociate-admin-account](https://docs.aws.amazon.com/cli/latest/reference/fms/disassociate-admin-account.html)|[Remove-FMSAdminAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FMSAdminAccountAssociation.html)|
 |[aws fms disassociate-third-party-firewall](https://docs.aws.amazon.com/cli/latest/reference/fms/disassociate-third-party-firewall.html)|[Unregister-FMSThirdPartyFirewall](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-FMSThirdPartyFirewall.html)|
 |[aws fms get-admin-account](https://docs.aws.amazon.com/cli/latest/reference/fms/get-admin-account.html)|[Get-FMSAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAdminAccount.html)|
+|[aws fms get-admin-scope](https://docs.aws.amazon.com/cli/latest/reference/fms/get-admin-scope.html)|[Get-FMSAdminScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAdminScope.html)|
 |[aws fms get-apps-list](https://docs.aws.amazon.com/cli/latest/reference/fms/get-apps-list.html)|[Get-FMSAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAppList.html)|
 |[aws fms get-compliance-detail](https://docs.aws.amazon.com/cli/latest/reference/fms/get-compliance-detail.html)|[Get-FMSComplianceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSComplianceDetail.html)|
 |[aws fms get-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/fms/get-notification-channel.html)|[Get-FMSNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSNotificationChannel.html)|
@@ -34,6 +35,8 @@ description: aws fms (AWS Firewall Manager) command/cmdlet list.
 |[aws fms get-resource-set](https://docs.aws.amazon.com/cli/latest/reference/fms/get-resource-set.html)|[Get-FMSResourceSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceSet.html)|
 |[aws fms get-third-party-firewall-association-status](https://docs.aws.amazon.com/cli/latest/reference/fms/get-third-party-firewall-association-status.html)|[Get-FMSThirdPartyFirewallAssociationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSThirdPartyFirewallAssociationStatus.html)|
 |[aws fms get-violation-details](https://docs.aws.amazon.com/cli/latest/reference/fms/get-violation-details.html)|[Get-FMSViolationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSViolationDetail.html)|
+|[aws fms list-admin-accounts-for-organization](https://docs.aws.amazon.com/cli/latest/reference/fms/list-admin-accounts-for-organization.html)|[Get-FMSAdminAccountsForOrganizationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAdminAccountsForOrganizationList.html)|
+|[aws fms list-admins-managing-account](https://docs.aws.amazon.com/cli/latest/reference/fms/list-admins-managing-account.html)|[Get-FMSAdminsManagingAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAdminsManagingAccountList.html)|
 |[aws fms list-apps-lists](https://docs.aws.amazon.com/cli/latest/reference/fms/list-apps-lists.html)|[Get-FMSAppsListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSAppsListList.html)|
 |[aws fms list-compliance-status](https://docs.aws.amazon.com/cli/latest/reference/fms/list-compliance-status.html)|[Get-FMSComplianceStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSComplianceStatusList.html)|
 |[aws fms list-discovered-resources](https://docs.aws.amazon.com/cli/latest/reference/fms/list-discovered-resources.html)|[Read-FMSDiscoveredResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-FMSDiscoveredResourceList.html)|
@@ -44,6 +47,7 @@ description: aws fms (AWS Firewall Manager) command/cmdlet list.
 |[aws fms list-resource-sets](https://docs.aws.amazon.com/cli/latest/reference/fms/list-resource-sets.html)|[Get-FMSResourceSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceSetList.html)|
 |[aws fms list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/fms/list-tags-for-resource.html)|[Get-FMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSResourceTag.html)|
 |[aws fms list-third-party-firewall-firewall-policies](https://docs.aws.amazon.com/cli/latest/reference/fms/list-third-party-firewall-firewall-policies.html)|[Get-FMSThirdPartyFirewallFirewallPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FMSThirdPartyFirewallFirewallPolicyList.html)|
+|[aws fms put-admin-account](https://docs.aws.amazon.com/cli/latest/reference/fms/put-admin-account.html)|[Write-FMSAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSAdminAccount.html)|
 |[aws fms put-apps-list](https://docs.aws.amazon.com/cli/latest/reference/fms/put-apps-list.html)|[Write-FMSAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSAppList.html)|
 |[aws fms put-notification-channel](https://docs.aws.amazon.com/cli/latest/reference/fms/put-notification-channel.html)|[Write-FMSNotificationChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-FMSNotificationChannel.html)|
 |[aws fms put-policy](https://docs.aws.amazon.com/cli/latest/reference/fms/put-policy.html)|[Set-FMSPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-FMSPolicy.html)|

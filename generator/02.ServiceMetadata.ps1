@@ -343,6 +343,7 @@ $g_AWSServices = @{
     'opsworks'                            = [PSCustomObject]@{ Prefix = 'OPS'; Name = 'AWS OpsWorks'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'opsworks-cm'                         = [PSCustomObject]@{ Prefix = 'OWCM'; Name = 'AWS OpsWorks for configuration management'; Url = 'https://aws.amazon.com/opsworks/'; Note = '' };
     'organizations'                       = [PSCustomObject]@{ Prefix = 'ORG'; Name = 'AWS Organizations'; Url = 'https://aws.amazon.com/organizations/'; Note = '' };
+    'osis'                                = [PSCustomObject]@{ Prefix = 'OSIS'; Name = 'Amazon OpenSearch Ingestion'; Url = 'https://aws.amazon.com/opensearch-service/features/integration/'; Note = '' };
     'outposts'                            = [PSCustomObject]@{ Prefix = 'OUTP'; Name = 'AWS Outposts'; Url = 'https://aws.amazon.com/outposts/'; Note = '' };
     'panorama'                            = [PSCustomObject]@{ Prefix = 'PAN'; Name = 'AWS Panorama'; Url = 'https://aws.amazon.com/panorama/'; Note = '' };
     'personalize'                         = [PSCustomObject]@{ Prefix = 'PERS'; Name = 'Amazon Personalize'; Url = 'https://aws.amazon.com/personalize/'; Note = '' };
@@ -691,6 +692,7 @@ $g_CmdletReferenceLinks = @{
     'opsworks'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html';
     'opsworks-cm'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html';
     'organizations'                       = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html';
+    'osis'                                = 'https://docs.aws.amazon.com/powershell/latest/reference/items/OSIS_cmdlets.html'
     'outposts'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Outposts_cmdlets.html';
     'panorama'                            = 'https://docs.aws.amazon.com/powershell/latest/reference/items/Panorama_cmdlets.html';
     'personalize'                         = 'https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_cmdlets.html';

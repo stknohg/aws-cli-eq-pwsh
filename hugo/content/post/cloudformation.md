@@ -1,12 +1,12 @@
 ---
 title: cloudformation
 date: 2023-05-03
-description: aws cloudformation (AWS Cloud​Formation) command/cmdlet list.
+description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
 ## cloudformation
 
-### [AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)
+### [AWS CloudFormation](https://aws.amazon.com/cloudformation/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CloudFormation_cmdlets.html)

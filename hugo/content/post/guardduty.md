@@ -1,12 +1,12 @@
 ---
 title: guardduty
 date: 2023-05-03
-description: aws guardduty (Amazon Guard​Duty) command/cmdlet list.
+description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 ---
 
 ## guardduty
 
-### [Amazon Guard​Duty](https://aws.amazon.com/guardduty/)
+### [Amazon GuardDuty](https://aws.amazon.com/guardduty/)
 
 * [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/guardduty/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_GuardDuty_cmdlets.html)

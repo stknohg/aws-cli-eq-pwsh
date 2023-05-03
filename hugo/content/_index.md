@@ -66,7 +66,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[AWS Cloud Control API](https://aws.amazon.com/cloudcontrolapi/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
-|[AWS Cloud​Formation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
+|[AWS CloudFormation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
 |[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CF||
 |[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsm]({{%relref "post/cloudhsm.md" %}})|HSM||
 |[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsmv2]({{%relref "post/cloudhsmv2.md" %}})|HSM2||
@@ -159,7 +159,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrass]({{%relref "post/greengrass.md" %}})|GG||
 |[AWS IoT Greengrass](https://aws.amazon.com/greengrass/)|[greengrassv2]({{%relref "post/greengrassv2.md" %}})|GGV2||
 |[AWS Ground Station](https://aws.amazon.com/ground-station/)|[groundstation]({{%relref "post/groundstation.md" %}})|GS||
-|[Amazon Guard​Duty](https://aws.amazon.com/guardduty/)|[guardduty]({{%relref "post/guardduty.md" %}})|GD||
+|[Amazon GuardDuty](https://aws.amazon.com/guardduty/)|[guardduty]({{%relref "post/guardduty.md" %}})|GD||
 |[AWS Health](https://phd.aws.amazon.com/)|[health]({{%relref "post/health.md" %}})|HLTH||
 |[Amazon HealthLake](https://aws.amazon.com/healthlake/)|[healthlake]({{%relref "post/healthlake.md" %}})|AHLFHIR||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|

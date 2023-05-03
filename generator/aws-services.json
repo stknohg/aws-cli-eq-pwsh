@@ -1,0 +1,2084 @@
+{
+  "accessanalyzer": {
+    "Prefix": "IAMAA",
+    "Name": "AWS IAM Access Analyzer",
+    "Url": "https://aws.amazon.com/iam/",
+    "Note": ""
+  },
+  "account": {
+    "Prefix": "ACCT",
+    "Name": "AWS Account Management",
+    "Url": "https://aws.amazon.com/account/",
+    "Note": ""
+  },
+  "acm": {
+    "Prefix": "ACM",
+    "Name": "AWS Certificate Manager",
+    "Url": "https://aws.amazon.com/certificate-manager/",
+    "Note": ""
+  },
+  "acm-pca": {
+    "Prefix": "PCA",
+    "Name": "AWS Private Certificate Authority",
+    "Url": "https://aws.amazon.com/private-ca/",
+    "Note": "Formerly AWS Certificate Manager Private Certificate Authority"
+  },
+  "alexaforbusiness": {
+    "Prefix": "ALXB",
+    "Name": "Alexa for Business",
+    "Url": "https://aws.amazon.com/alexaforbusiness/",
+    "Note": ""
+  },
+  "amp": {
+    "Prefix": "PROM",
+    "Name": "Amazon Managed Service for Prometheus",
+    "Url": "https://aws.amazon.com/prometheus/",
+    "Note": ""
+  },
+  "amplify": {
+    "Prefix": "AMP",
+    "Name": "AWS Amplify",
+    "Url": "https://aws.amazon.com/amplify/",
+    "Note": ""
+  },
+  "amplifybackend": {
+    "Prefix": "AMPB",
+    "Name": "AWS Amplify Backend",
+    "Url": "https://aws.amazon.com/amplify/",
+    "Note": ""
+  },
+  "amplifyuibuilder": {
+    "Prefix": "AMPUI",
+    "Name": "AWS Amplify UI Builder",
+    "Url": "https://aws.amazon.com/amplify/",
+    "Note": ""
+  },
+  "apigateway": {
+    "Prefix": "AG",
+    "Name": "Amazon API Gateway",
+    "Url": "https://aws.amazon.com/api-gateway/",
+    "Note": ""
+  },
+  "apigatewaymanagementapi": {
+    "Prefix": "AGM",
+    "Name": "Amazon API Gateway Management",
+    "Url": "https://aws.amazon.com/api-gateway/",
+    "Note": ""
+  },
+  "apigatewayv2": {
+    "Prefix": "AG2",
+    "Name": "Amazon API Gateway",
+    "Url": "https://aws.amazon.com/api-gateway/",
+    "Note": ""
+  },
+  "appconfig": {
+    "Prefix": "APPC",
+    "Name": "AWS AppConfig",
+    "Url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html",
+    "Note": ""
+  },
+  "appconfigdata": {
+    "Prefix": "ACD",
+    "Name": "AWS AppConfig Data",
+    "Url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html",
+    "Note": ""
+  },
+  "appflow": {
+    "Prefix": "AF",
+    "Name": "Amazon AppFlow",
+    "Url": "https://aws.amazon.com/appflow/",
+    "Note": ""
+  },
+  "appintegrations": {
+    "Prefix": "AIS",
+    "Name": "Amazon AppIntegrations APIs",
+    "Url": "https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html",
+    "Note": ""
+  },
+  "application-autoscaling": {
+    "Prefix": "AAS",
+    "Name": "AWS Auto Scaling",
+    "Url": "https://aws.amazon.com/autoscaling/",
+    "Note": ""
+  },
+  "application-insights": {
+    "Prefix": "CWAI",
+    "Name": "Amazon CloudWatch Application Insights",
+    "Url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html",
+    "Note": ""
+  },
+  "applicationcostprofiler": {
+    "Prefix": "ACP ",
+    "Name": "AWS Application Cost Profiler",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/",
+    "Note": ""
+  },
+  "appmesh": {
+    "Prefix": "AMSH",
+    "Name": "AWS App Mesh",
+    "Url": "https://aws.amazon.com/app-mesh/",
+    "Note": ""
+  },
+  "apprunner": {
+    "Prefix": "AAR ",
+    "Name": "AWS App Runner",
+    "Url": "https://aws.amazon.com/apprunner/",
+    "Note": ""
+  },
+  "appstream": {
+    "Prefix": "APS",
+    "Name": "Amazon AppStream 2.0",
+    "Url": "https://aws.amazon.com/appstream2/",
+    "Note": ""
+  },
+  "appsync": {
+    "Prefix": "ASYN",
+    "Name": "AWS AppSync",
+    "Url": "https://aws.amazon.com/appsync/",
+    "Note": ""
+  },
+  "arc-zonal-shift": {
+    "Prefix": "AZS",
+    "Name": "Amazon Route 53 Application Recovery Controller",
+    "Url": "https://aws.amazon.com/route53/application-recovery-controller/",
+    "Note": "Zonal shift"
+  },
+  "athena": {
+    "Prefix": "ATH",
+    "Name": "Amazon Athena",
+    "Url": "https://aws.amazon.com/athena/",
+    "Note": ""
+  },
+  "auditmanager": {
+    "Prefix": "AUDM",
+    "Name": "AWS Audit Manager",
+    "Url": "https://aws.amazon.com/audit-manager/",
+    "Note": ""
+  },
+  "autoscaling": {
+    "Prefix": "AS",
+    "Name": "AWS Auto Scaling",
+    "Url": "https://aws.amazon.com/autoscaling/",
+    "Note": ""
+  },
+  "autoscaling-plans": {
+    "Prefix": "ASP",
+    "Name": "AWS Auto Scaling",
+    "Url": "https://aws.amazon.com/autoscaling/",
+    "Note": ""
+  },
+  "backup": {
+    "Prefix": "BAK",
+    "Name": "AWS Backup",
+    "Url": "https://aws.amazon.com/backup/",
+    "Note": ""
+  },
+  "backup-gateway": {
+    "Prefix": "BUGW",
+    "Name": "AWS Backup",
+    "Url": "https://aws.amazon.com/backup/",
+    "Note": "Backup gateway"
+  },
+  "backupstorage": {
+    "Prefix": "BAKS",
+    "Name": "AWS Backup Storage",
+    "Url": "https://aws.amazon.com/backup/",
+    "Note": "API for external services"
+  },
+  "batch": {
+    "Prefix": "BAT",
+    "Name": "AWS Batch",
+    "Url": "https://aws.amazon.com/batch/",
+    "Note": ""
+  },
+  "billingconductor": {
+    "Prefix": "ABC",
+    "Name": "AWS Billing Conductor",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-billing-conductor/",
+    "Note": ""
+  },
+  "braket": {
+    "Prefix": "BRKT",
+    "Name": "Amazon Braket",
+    "Url": "https://aws.amazon.com/braket/",
+    "Note": ""
+  },
+  "budgets": {
+    "Prefix": "BGT",
+    "Name": "AWS Budgets",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-budgets/",
+    "Note": ""
+  },
+  "ce": {
+    "Prefix": "CE",
+    "Name": "Cost Explorer",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/",
+    "Note": ""
+  },
+  "chime-sdk-identity": {
+    "Prefix": "CHMID",
+    "Name": "Amazon Chime",
+    "Url": "https://aws.amazon.com/chime/",
+    "Note": "Amazon Chime SDK Identity API"
+  },
+  "chime-sdk-media-pipelines": {
+    "Prefix": "CHMMP",
+    "Name": "Amazon Chime",
+    "Url": "https://aws.amazon.com/chime/",
+    "Note": "Amazon Chime SDK Media Pipeline API"
+  },
+  "chime-sdk-meetings": {
+    "Prefix": "CHMTG",
+    "Name": "Amazon Chime",
+    "Url": "https://aws.amazon.com/chime/",
+    "Note": "Amazon Chime SDK Meeting API"
+  },
+  "chime-sdk-messaging": {
+    "Prefix": "CHMMG",
+    "Name": "Amazon Chime",
+    "Url": "https://aws.amazon.com/chime/",
+    "Note": "Amazon Chime SDK Messaging API"
+  },
+  "chime-sdk-voice": {
+    "Prefix": "CHMVO",
+    "Name": "Amazon Chime",
+    "Url": "https://aws.amazon.com/chime/",
+    "Note": "Amazon Chime Voice Connector"
+  },
+  "cleanrooms": {
+    "Prefix": "CRS",
+    "Name": "AWS Clean Rooms",
+    "Url": "https://aws.amazon.com/clean-rooms/",
+    "Note": ""
+  },
+  "chime": {
+    "Prefix": "CHM",
+    "Name": "Amazon Chime",
+    "Url": "https://aws.amazon.com/chime/",
+    "Note": ""
+  },
+  "cloud9": {
+    "Prefix": "C9",
+    "Name": "AWS Cloud9",
+    "Url": "https://aws.amazon.com/cloud9/",
+    "Note": ""
+  },
+  "cloudcontrol": {
+    "Prefix": "CCA",
+    "Name": "AWS Cloud Control API",
+    "Url": "https://aws.amazon.com/cloudcontrolapi/",
+    "Note": ""
+  },
+  "clouddirectory": {
+    "Prefix": "CDIR",
+    "Name": "Amazon Cloud Directory",
+    "Url": "https://aws.amazon.com/cloud-directory/",
+    "Note": ""
+  },
+  "cloudformation": {
+    "Prefix": "CFN",
+    "Name": "AWS CloudFormation",
+    "Url": "https://aws.amazon.com/cloudformation/",
+    "Note": ""
+  },
+  "cloudfront": {
+    "Prefix": "CF",
+    "Name": "Amazon CloudFront",
+    "Url": "https://aws.amazon.com/cloudfront/",
+    "Note": ""
+  },
+  "cloudhsm": {
+    "Prefix": "HSM",
+    "Name": "AWS CloudHSM",
+    "Url": "https://aws.amazon.com/cloudhsm/",
+    "Note": ""
+  },
+  "cloudhsmv2": {
+    "Prefix": "HSM2",
+    "Name": "AWS CloudHSM",
+    "Url": "https://aws.amazon.com/cloudhsm/",
+    "Note": ""
+  },
+  "cloudsearch": {
+    "Prefix": "CS",
+    "Name": "Amazon CloudSearch",
+    "Url": "https://aws.amazon.com/cloudsearch/",
+    "Note": ""
+  },
+  "cloudsearchdomain": {
+    "Prefix": "CSD",
+    "Name": "Amazon CloudSearch",
+    "Url": "https://aws.amazon.com/cloudsearch/",
+    "Note": ""
+  },
+  "cloudtrail": {
+    "Prefix": "CT",
+    "Name": "AWS CloudTrail",
+    "Url": "https://aws.amazon.com/cloudtrail/",
+    "Note": ""
+  },
+  "cloudtrail-data": {
+    "Prefix": "CTD",
+    "Name": "AWS CloudTrail",
+    "Url": "https://aws.amazon.com/cloudtrail/",
+    "Note": "Data Service"
+  },
+  "cloudwatch": {
+    "Prefix": "CW",
+    "Name": "Amazon CloudWatch",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "codeartifact": {
+    "Prefix": "CA",
+    "Name": "AWS Artifact",
+    "Url": "https://aws.amazon.com/artifact/",
+    "Note": ""
+  },
+  "codebuild": {
+    "Prefix": "CB",
+    "Name": "AWS CodeBuild",
+    "Url": "https://aws.amazon.com/codebuild/",
+    "Note": ""
+  },
+  "codecatalyst": {
+    "Prefix": "CCAT",
+    "Name": "Amazon CodeCatalyst",
+    "Url": "https://aws.amazon.com/codecatalyst/",
+    "Note": ""
+  },
+  "codecommit": {
+    "Prefix": "CC",
+    "Name": "AWS CodeCommit",
+    "Url": "https://aws.amazon.com/codecommit/",
+    "Note": ""
+  },
+  "codeguru-reviewer": {
+    "Prefix": "CGR",
+    "Name": "Amazon CodeGuru Reviewer",
+    "Url": "https://aws.amazon.com/codeguru/",
+    "Note": ""
+  },
+  "codeguruprofiler": {
+    "Prefix": "CGP",
+    "Name": "Amazon CodeGuru Profiler",
+    "Url": "https://aws.amazon.com/codeguru/",
+    "Note": ""
+  },
+  "codepipeline": {
+    "Prefix": "CP",
+    "Name": "AWS CodePipeline",
+    "Url": "https://aws.amazon.com/codepipeline/",
+    "Note": ""
+  },
+  "codestar": {
+    "Prefix": "CST",
+    "Name": "AWS CodeStar",
+    "Url": "https://aws.amazon.com/codestar/",
+    "Note": ""
+  },
+  "codestar-connections": {
+    "Prefix": "CSTC",
+    "Name": "AWS CodeStar Connections ",
+    "Url": "https://aws.amazon.com/codestar/",
+    "Note": ""
+  },
+  "codestar-notifications": {
+    "Prefix": "CSTN",
+    "Name": "AWS CodeStar Notifications",
+    "Url": "https://aws.amazon.com/codestar/",
+    "Note": ""
+  },
+  "cognito-identity": {
+    "Prefix": "CGI",
+    "Name": "Amazon Cognito uniquely identifies",
+    "Url": "https://aws.amazon.com/cognito/",
+    "Note": ""
+  },
+  "cognito-idp": {
+    "Prefix": "CGIP",
+    "Name": "Amazon Cognito Identity Provider",
+    "Url": "https://aws.amazon.com/cognito/",
+    "Note": ""
+  },
+  "cognito-sync": {
+    "Prefix": "CGIS",
+    "Name": "Amazon Cognito Sync",
+    "Url": "https://aws.amazon.com/cognito/",
+    "Note": ""
+  },
+  "comprehend": {
+    "Prefix": "COMP",
+    "Name": "Amazon Comprehend",
+    "Url": "https://aws.amazon.com/comprehend/",
+    "Note": ""
+  },
+  "comprehendmedical": {
+    "Prefix": "CMPM",
+    "Name": "Amazon Comprehend",
+    "Url": "https://aws.amazon.com/comprehend/",
+    "Note": ""
+  },
+  "compute-optimizer": {
+    "Prefix": "CO",
+    "Name": "AWS Compute Optimizer",
+    "Url": "https://aws.amazon.com/compute-optimizer/",
+    "Note": ""
+  },
+  "configservice": {
+    "Prefix": "CFG",
+    "Name": "AWS Config",
+    "Url": "https://aws.amazon.com/config/",
+    "Note": ""
+  },
+  "configure": {
+    "Prefix": "",
+    "Name": "-",
+    "Url": "",
+    "Note": "Configure AWS CLI options."
+  },
+  "connect-contact-lens": {
+    "Prefix": "CCL",
+    "Name": "Contact Lens for Amazon Connect",
+    "Url": "https://aws.amazon.com/connect/",
+    "Note": ""
+  },
+  "connectcampaigns": {
+    "Prefix": "CCS",
+    "Name": "Amazon Connect Outbound Campaigns",
+    "Url": "https://aws.amazon.com/connect/outbound/",
+    "Note": ""
+  },
+  "connectcases": {
+    "Prefix": "CCAS",
+    "Name": "Amazon Connect Cases",
+    "Url": "https://aws.amazon.com/connect/cases/",
+    "Note": ""
+  },
+  "connect": {
+    "Prefix": "CONN",
+    "Name": "Amazon Connect",
+    "Url": "https://aws.amazon.com/connect/",
+    "Note": ""
+  },
+  "connectparticipant": {
+    "Prefix": "CONNP",
+    "Name": "Amazon Connect Participant Service",
+    "Url": "https://aws.amazon.com/connect/",
+    "Note": ""
+  },
+  "controltower": {
+    "Prefix": "ACT",
+    "Name": "AWS Control Tower",
+    "Url": "https://aws.amazon.com/controltower/",
+    "Note": ""
+  },
+  "cur": {
+    "Prefix": "CUR",
+    "Name": "AWS Cost and Usage Report",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/",
+    "Note": ""
+  },
+  "customer-profiles": {
+    "Prefix": "CPF",
+    "Name": "Amazon Connect Customer Profiles",
+    "Url": "https://aws.amazon.com/connect/",
+    "Note": ""
+  },
+  "databrew": {
+    "Prefix": "GDB",
+    "Name": "AWS Glue DataBrew",
+    "Url": "https://aws.amazon.com/glue/features/databrew/",
+    "Note": ""
+  },
+  "dataexchange": {
+    "Prefix": "DTEX",
+    "Name": "AWS Data Exchange",
+    "Url": "https://aws.amazon.com/data-exchange/",
+    "Note": ""
+  },
+  "datapipeline": {
+    "Prefix": "DP",
+    "Name": "AWS Data Pipeline",
+    "Url": "https://aws.amazon.com/datapipeline/",
+    "Note": ""
+  },
+  "datasync": {
+    "Prefix": "DSYN",
+    "Name": "AWS DataSync",
+    "Url": "https://aws.amazon.com/datasync/",
+    "Note": ""
+  },
+  "dax": {
+    "Prefix": "DAX",
+    "Name": "Amazon DynamoDB Accelerator",
+    "Url": "https://aws.amazon.com/dynamodb/dax/",
+    "Note": ""
+  },
+  "deploy": {
+    "Prefix": "CD",
+    "Name": "AWS CodeDeploy",
+    "Url": "https://aws.amazon.com/codedeploy/",
+    "Note": ""
+  },
+  "detective": {
+    "Prefix": "DTCT",
+    "Name": "Amazon Detective",
+    "Url": "https://aws.amazon.com/detective/",
+    "Note": ""
+  },
+  "devicefarm": {
+    "Prefix": "DF",
+    "Name": "AWS Device Farm",
+    "Url": "https://aws.amazon.com/device-farm/",
+    "Note": ""
+  },
+  "devops-guru": {
+    "Prefix": "DGURU",
+    "Name": "Amazon DevOps Guru",
+    "Url": "https://aws.amazon.com/devops-guru/",
+    "Note": ""
+  },
+  "directconnect": {
+    "Prefix": "DC",
+    "Name": "AWS Direct Connect",
+    "Url": "https://aws.amazon.com/directconnect/",
+    "Note": ""
+  },
+  "discovery": {
+    "Prefix": "ADS",
+    "Name": "AWS Application Discovery Service",
+    "Url": "https://aws.amazon.com/application-discovery/",
+    "Note": ""
+  },
+  "dlm": {
+    "Prefix": "DLM",
+    "Name": "Amazon Data Lifecycle Manager",
+    "Url": "https://aws.amazon.com/ebs/",
+    "Note": ""
+  },
+  "dms": {
+    "Prefix": "DMS",
+    "Name": "AWS Database Migration Service",
+    "Url": "https://aws.amazon.com/dms/",
+    "Note": ""
+  },
+  "docdb": {
+    "Prefix": "DOC",
+    "Name": "Amazon DocumentDB",
+    "Url": "https://aws.amazon.com/documentdb/",
+    "Note": ""
+  },
+  "docdb-elastic": {
+    "Prefix": "DOCE",
+    "Name": "Amazon DocumentDB Elastic Clusters",
+    "Url": "https://aws.amazon.com/documentdb/",
+    "Note": ""
+  },
+  "drs": {
+    "Prefix": "EDRS",
+    "Name": "AWS Elastic Disaster Recovery",
+    "Url": "https://aws.amazon.com/disaster-recovery/",
+    "Note": ""
+  },
+  "ds": {
+    "Prefix": "DS",
+    "Name": "AWS Directory Service",
+    "Url": "https://aws.amazon.com/directoryservice/",
+    "Note": ""
+  },
+  "dynamodb": {
+    "Prefix": "DDB",
+    "Name": "Amazon DynamoDB",
+    "Url": "https://aws.amazon.com/dynamodb/",
+    "Note": ""
+  },
+  "ddb": {
+    "Prefix": "DDB",
+    "Name": "Amazon DynamoDB",
+    "Url": "https://aws.amazon.com/dynamodb/",
+    "Note": "High level DynamoDB commands."
+  },
+  "dynamodbstreams": {
+    "Prefix": "DDB",
+    "Name": "Amazon DynamoDB Streams",
+    "Url": "https://aws.amazon.com/dynamodb/",
+    "Note": ""
+  },
+  "ebs": {
+    "Prefix": "EBS",
+    "Name": "Amazon Elastic Block Store",
+    "Url": "https://aws.amazon.com/ebs/",
+    "Note": ""
+  },
+  "ec2-instance-connect": {
+    "Prefix": "EC2IC",
+    "Name": "AWS EC2 Connect Service",
+    "Url": "https://aws.amazon.com/ec2/",
+    "Note": ""
+  },
+  "ec2": {
+    "Prefix": "EC2",
+    "Name": "Amazon EC2",
+    "Url": "https://aws.amazon.com/ec2/",
+    "Note": ""
+  },
+  "ecr-public": {
+    "Prefix": "ECRP",
+    "Name": "Amazon Elastic Container Registry Public",
+    "Url": "https://aws.amazon.com/ecr/",
+    "Note": ""
+  },
+  "ecr": {
+    "Prefix": "ECR",
+    "Name": "Amazon Elastic Container Registry",
+    "Url": "https://aws.amazon.com/ecr/",
+    "Note": ""
+  },
+  "ecs": {
+    "Prefix": "ECS",
+    "Name": "Amazon Elastic Container Service",
+    "Url": "https://aws.amazon.com/ecs/",
+    "Note": ""
+  },
+  "efs": {
+    "Prefix": "EFS",
+    "Name": "Amazon Elastic File System",
+    "Url": "https://aws.amazon.com/efs/",
+    "Note": ""
+  },
+  "eks": {
+    "Prefix": "EKS",
+    "Name": "Amazon Elastic Container Service for Kubernetes",
+    "Url": "https://aws.amazon.com/eks/",
+    "Note": ""
+  },
+  "elastic-inference": {
+    "Prefix": "EI",
+    "Name": "Amazon Elastic Inference",
+    "Url": "https://aws.amazon.com/machine-learning/elastic-inference/",
+    "Note": ""
+  },
+  "elasticache": {
+    "Prefix": "EC",
+    "Name": "Amazon ElastiCache",
+    "Url": "https://aws.amazon.com/elasticache/",
+    "Note": ""
+  },
+  "elasticbeanstalk": {
+    "Prefix": "EB",
+    "Name": "AWS Elastic Beanstalk",
+    "Url": "https://aws.amazon.com/elasticbeanstalk/",
+    "Note": ""
+  },
+  "elastictranscoder": {
+    "Prefix": "ETS",
+    "Name": "Amazon Elastic Transcoder",
+    "Url": "https://aws.amazon.com/elastictranscoder/",
+    "Note": ""
+  },
+  "elb": {
+    "Prefix": "ELB",
+    "Name": "Elastic Load Balancing",
+    "Url": "https://aws.amazon.com/elasticloadbalancing/",
+    "Note": ""
+  },
+  "elbv2": {
+    "Prefix": "ELB2",
+    "Name": "Elastic Load Balancing",
+    "Url": "https://aws.amazon.com/elasticloadbalancing/",
+    "Note": ""
+  },
+  "emr-containers": {
+    "Prefix": "EMRC",
+    "Name": "Amazon EMR on Amazon EKS",
+    "Url": "https://aws.amazon.com/emr/features/eks/",
+    "Note": ""
+  },
+  "emr-serverless": {
+    "Prefix": "EMRServerless",
+    "Name": "Amazon EMR Serverless",
+    "Url": "https://aws.amazon.com/emr/serverless/",
+    "Note": ""
+  },
+  "emr": {
+    "Prefix": "EMR",
+    "Name": "Amazon EMR",
+    "Url": "https://aws.amazon.com/emr/",
+    "Note": ""
+  },
+  "es": {
+    "Prefix": "ES",
+    "Name": "Amazon Elasticsearch Service",
+    "Url": "https://aws.amazon.com/elasticsearch-service/",
+    "Note": ""
+  },
+  "events": {
+    "Prefix": "CWE",
+    "Name": "Amazon CloudWatch Events",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "evidently": {
+    "Prefix": "CWEVD",
+    "Name": " Amazon CloudWatch Evidently",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "finspace": {
+    "Prefix": "FINSP",
+    "Name": "Amazon FinSpace",
+    "Url": "https://aws.amazon.com/finspace/",
+    "Note": ""
+  },
+  "finspace-data": {
+    "Prefix": "FNSP",
+    "Name": "Amazon FinSpace",
+    "Url": "https://aws.amazon.com/finspace/",
+    "Note": ""
+  },
+  "firehose": {
+    "Prefix": "KINF",
+    "Name": "Amazon Kinesis Data Firehose",
+    "Url": "https://aws.amazon.com/data-firehose/",
+    "Note": ""
+  },
+  "fis": {
+    "Prefix": "FIS",
+    "Name": "Amazon Fault Injection Simulator",
+    "Url": "https://aws.amazon.com/fis/",
+    "Note": ""
+  },
+  "fms": {
+    "Prefix": "FMS",
+    "Name": "AWS Firewall Manager",
+    "Url": "https://aws.amazon.com/waf/",
+    "Note": ""
+  },
+  "forecast": {
+    "Prefix": "FRC",
+    "Name": "Amazon Forecast",
+    "Url": "https://aws.amazon.com/forecast/",
+    "Note": ""
+  },
+  "forecastquery": {
+    "Prefix": "FRCQ",
+    "Name": "Amazon Forecast Query Service",
+    "Url": "https://aws.amazon.com/forecast/",
+    "Note": ""
+  },
+  "frauddetector": {
+    "Prefix": "FD",
+    "Name": "Amazon Fraud Detector",
+    "Url": "https://aws.amazon.com/fraud-detector/",
+    "Note": ""
+  },
+  "fsx": {
+    "Prefix": "FSX",
+    "Name": "Amazon FSx",
+    "Url": "https://aws.amazon.com/fsx/",
+    "Note": ""
+  },
+  "gamelift": {
+    "Prefix": "GML",
+    "Name": "Amazon GameLift",
+    "Url": "https://aws.amazon.com/gamelift/",
+    "Note": ""
+  },
+  "gamesparks": {
+    "Prefix": "GMESP ",
+    "Name": "Amazon GameSparks",
+    "Url": "https://aws.amazon.com/gamesparks/",
+    "Note": ""
+  },
+  "glacier": {
+    "Prefix": "GLC",
+    "Name": "Amazon S3 Glacier",
+    "Url": "https://aws.amazon.com/glacier/",
+    "Note": ""
+  },
+  "globalaccelerator": {
+    "Prefix": "GACL",
+    "Name": "AWS Global Accelerator",
+    "Url": "https://aws.amazon.com/global-accelerator/",
+    "Note": ""
+  },
+  "glue": {
+    "Prefix": "GLUE",
+    "Name": "AWS Glue",
+    "Url": "https://aws.amazon.com/glue/",
+    "Note": ""
+  },
+  "grafana": {
+    "Prefix": "MGRF",
+    "Name": "Amazon Managed Grafana",
+    "Url": "https://aws.amazon.com/grafana/",
+    "Note": ""
+  },
+  "greengrass": {
+    "Prefix": "GG",
+    "Name": "AWS IoT Greengrass",
+    "Url": "https://aws.amazon.com/greengrass/",
+    "Note": ""
+  },
+  "greengrassv2": {
+    "Prefix": "GGV2",
+    "Name": "AWS IoT Greengrass",
+    "Url": "https://aws.amazon.com/greengrass/",
+    "Note": ""
+  },
+  "groundstation": {
+    "Prefix": "GS",
+    "Name": "AWS Ground Station",
+    "Url": "https://aws.amazon.com/ground-station/",
+    "Note": ""
+  },
+  "guardduty": {
+    "Prefix": "GD",
+    "Name": "Amazon GuardDuty",
+    "Url": "https://aws.amazon.com/guardduty/",
+    "Note": ""
+  },
+  "health": {
+    "Prefix": "HLTH",
+    "Name": "AWS Health",
+    "Url": "https://phd.aws.amazon.com/",
+    "Note": ""
+  },
+  "healthlake": {
+    "Prefix": "AHLFHIR",
+    "Name": "Amazon HealthLake",
+    "Url": "https://aws.amazon.com/healthlake/",
+    "Note": ""
+  },
+  "history": {
+    "Prefix": "",
+    "Name": "-",
+    "Url": "",
+    "Note": "Commands to interact with the history of AWS CLI commands ran over time."
+  },
+  "honeycode": {
+    "Prefix": "HC",
+    "Name": "Amazon Honeycode",
+    "Url": "https://www.honeycode.aws/",
+    "Note": ""
+  },
+  "iam": {
+    "Prefix": "IAM",
+    "Name": "AWS Identity and Access Management",
+    "Url": "https://aws.amazon.com/iam/",
+    "Note": ""
+  },
+  "identitystore": {
+    "Prefix": "IDS",
+    "Name": "AWS SSO Identity Store",
+    "Url": "https://aws.amazon.com/single-sign-on/",
+    "Note": ""
+  },
+  "imagebuilder": {
+    "Prefix": "EC2IB",
+    "Name": "EC2 Image Builder",
+    "Url": "https://aws.amazon.com/image-builder/",
+    "Note": ""
+  },
+  "importexport": {
+    "Prefix": "IE",
+    "Name": "AWS Import/Export",
+    "Url": "https://aws.amazon.com/snowball/",
+    "Note": ""
+  },
+  "inspector": {
+    "Prefix": "INS",
+    "Name": "Amazon Inspector",
+    "Url": "https://aws.amazon.com/inspector/",
+    "Note": ""
+  },
+  "inspector2": {
+    "Prefix": "INS2",
+    "Name": "Amazon Inspector",
+    "Url": "https://aws.amazon.com/inspector/",
+    "Note": ""
+  },
+  "internetmonitor": {
+    "Prefix": "CWIM",
+    "Name": "Amazon CloudWatch Internet Monitor",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "iot": {
+    "Prefix": "IOT",
+    "Name": "AWS IoT",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iot-data": {
+    "Prefix": "",
+    "Name": "AWS IoT-Data",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iot-jobs-data": {
+    "Prefix": "IOTJ",
+    "Name": "AWS IoT Jobs",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iot-roborunner": {
+    "Prefix": "IOTRR",
+    "Name": "AWS IoT RoboRunner",
+    "Url": "https://aws.amazon.com/roborunner/",
+    "Note": ""
+  },
+  "iot1click-devices": {
+    "Prefix": "",
+    "Name": "AWS IoT 1-Click Devices",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iot1click-projects": {
+    "Prefix": "",
+    "Name": "AWS IoT 1-Click Project",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iotanalytics": {
+    "Prefix": "",
+    "Name": "AWS IoT Analytics",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iotdeviceadvisor": {
+    "Prefix": "IOTDA",
+    "Name": "AWS IoT Core Device Advisor",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iotevents": {
+    "Prefix": "IOTE",
+    "Name": "AWS IoT Events",
+    "Url": "https://aws.amazon.com/iot-events/",
+    "Note": ""
+  },
+  "iotfleethub": {
+    "Prefix": "IOTFH",
+    "Name": "Fleet Hub for AWS IoT Device Management",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iotfleetwise": {
+    "Prefix": "IFW",
+    "Name": "AWS IoT FleetWise",
+    "Url": "https://aws.amazon.com/iot-fleetwise/",
+    "Note": ""
+  },
+  "iotevents-data": {
+    "Prefix": "IOTED",
+    "Name": "AWS IoT Events",
+    "Url": "https://aws.amazon.com/iot-events/",
+    "Note": ""
+  },
+  "iotsecuretunneling": {
+    "Prefix": "IOTST",
+    "Name": "AWS IoT Secure Tunneling",
+    "Url": "https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html",
+    "Note": ""
+  },
+  "iotsitewise": {
+    "Prefix": "IOTSW",
+    "Name": "Amazon IoT SiteWise",
+    "Url": "https://aws.amazon.com/iot-sitewise/",
+    "Note": ""
+  },
+  "iotthingsgraph": {
+    "Prefix": "IOTTG",
+    "Name": "AWS IoT Things Graph",
+    "Url": "https://aws.amazon.com/iot-things-graph/",
+    "Note": ""
+  },
+  "iottwinmaker": {
+    "Prefix": "IOTTM",
+    "Name": "AWS IoT TwinMaker",
+    "Url": "https://aws.amazon.com/iot-twinmaker/",
+    "Note": ""
+  },
+  "iotwireless": {
+    "Prefix": "IOTW",
+    "Name": "AWS IoT Wireless",
+    "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "ivs": {
+    "Prefix": "IVS",
+    "Name": "Amazon Interactive Video Service",
+    "Url": "https://aws.amazon.com/ivs/",
+    "Note": ""
+  },
+  "ivs-realtime": {
+    "Prefix": "IVSRT",
+    "Name": "Amazon Interactive Video Service RealTime",
+    "Url": "https://aws.amazon.com/ivs/",
+    "Note": ""
+  },
+  "ivschat": {
+    "Prefix": "IVSC",
+    "Name": "Amazon Interactive Video Service",
+    "Url": "https://aws.amazon.com/ivs/",
+    "Note": "Amazon IVS Chat control-plane API"
+  },
+  "kafka": {
+    "Prefix": "MSK",
+    "Name": "Amazon Managed Streaming for Kafka",
+    "Url": "https://aws.amazon.com/msk/",
+    "Note": ""
+  },
+  "kafkaconnect": {
+    "Prefix": "MSKC ",
+    "Name": "Amazon Managed Streaming for Kafka Connect",
+    "Url": "https://aws.amazon.com/msk/",
+    "Note": ""
+  },
+  "kendra": {
+    "Prefix": "KNDR",
+    "Name": "Amazon Kendra",
+    "Url": "https://aws.amazon.com/kendra/",
+    "Note": ""
+  },
+  "kendra-ranking": {
+    "Prefix": "KNRK",
+    "Name": "Amazon Kendra Intelligent Ranking",
+    "Url": "https://aws.amazon.com/kendra/",
+    "Note": ""
+  },
+  "keyspaces": {
+    "Prefix": "KS",
+    "Name": "Amazon Keyspaces",
+    "Url": "https://aws.amazon.com/keyspaces/",
+    "Note": ""
+  },
+  "kinesis": {
+    "Prefix": "KIN",
+    "Name": "Amazon Kinesis",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesis-video-archived-media": {
+    "Prefix": "",
+    "Name": "Amazon Kinesis",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesis-video-media": {
+    "Prefix": "KVM",
+    "Name": "Amazon Kinesis Video Streams Media",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesis-video-signaling": {
+    "Prefix": "KVSC",
+    "Name": "Amazon Kinesis Video Signaling Channels",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesis-video-webrtc-storage": {
+    "Prefix": "KVWS",
+    "Name": "Amazon Kinesis Video WebRTC Storage",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesisanalytics": {
+    "Prefix": "KINA",
+    "Name": "Amazon Kinesis",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesisanalyticsv2": {
+    "Prefix": "KINA2",
+    "Name": "Amazon Kinesis",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kinesisvideo": {
+    "Prefix": "KV",
+    "Name": "Amazon Kinesis",
+    "Url": "https://aws.amazon.com/kinesis/",
+    "Note": ""
+  },
+  "kms": {
+    "Prefix": "KMS",
+    "Name": "AWS Key Management Service",
+    "Url": "https://aws.amazon.com/kms/",
+    "Note": ""
+  },
+  "lakeformation": {
+    "Prefix": "LKF",
+    "Name": "AWS Lake Formation",
+    "Url": "https://aws.amazon.com/lake-formation/",
+    "Note": ""
+  },
+  "lambda": {
+    "Prefix": "LM",
+    "Name": "AWS Lambda",
+    "Url": "https://aws.amazon.com/lambda/",
+    "Note": ""
+  },
+  "lex-models": {
+    "Prefix": "LMB",
+    "Name": "Amazon Lex",
+    "Url": "https://aws.amazon.com/lex/",
+    "Note": ""
+  },
+  "lex-runtime": {
+    "Prefix": "LEX",
+    "Name": "Amazon Lex",
+    "Url": "https://aws.amazon.com/lex/",
+    "Note": ""
+  },
+  "lexv2-models": {
+    "Prefix": "LMBV2",
+    "Name": "Amazon Lex",
+    "Url": "https://aws.amazon.com/lex/",
+    "Note": ""
+  },
+  "lexv2-runtime": {
+    "Prefix": "LRSV2",
+    "Name": "Amazon Lex",
+    "Url": "https://aws.amazon.com/lex/",
+    "Note": ""
+  },
+  "license-manager": {
+    "Prefix": "LICM",
+    "Name": "AWS License Manager",
+    "Url": "https://aws.amazon.com/license-manager/",
+    "Note": ""
+  },
+  "license-manager-linux-subscriptions": {
+    "Prefix": "LLMS",
+    "Name": "AWS License Manager",
+    "Url": "https://aws.amazon.com/license-manager/",
+    "Note": "Linux subscriptions"
+  },
+  "license-manager-user-subscriptions": {
+    "Prefix": "LMUS",
+    "Name": "AWS License Manager",
+    "Url": "https://aws.amazon.com/license-manager/",
+    "Note": "User Subscription"
+  },
+  "lightsail": {
+    "Prefix": "LS",
+    "Name": "Amazon Lightsail",
+    "Url": "https://aws.amazon.com/lightsail/",
+    "Note": ""
+  },
+  "location": {
+    "Prefix": "LOC",
+    "Name": "Amazon Location",
+    "Url": "https://aws.amazon.com/location/",
+    "Note": ""
+  },
+  "logs": {
+    "Prefix": "CWL",
+    "Name": "Amazon CloudWatch Logs",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "lookoutequipment": {
+    "Prefix": "L4E",
+    "Name": "Amazon Lookout for Equipment",
+    "Url": "https://aws.amazon.com/lookout-for-equipment/",
+    "Note": ""
+  },
+  "lookoutmetrics": {
+    "Prefix": "LOM",
+    "Name": "Amazon Lookout for Metrics",
+    "Url": "https://aws.amazon.com/lookout-for-metrics/",
+    "Note": ""
+  },
+  "lookoutvision": {
+    "Prefix": "LFV",
+    "Name": "Amazon Lookout for Vision",
+    "Url": "https://aws.amazon.com/lookout-for-vision/",
+    "Note": ""
+  },
+  "m2": {
+    "Prefix": "AMM",
+    "Name": "AWS Mainframe Modernization",
+    "Url": "https://aws.amazon.com/mainframe-modernization/",
+    "Note": ""
+  },
+  "machinelearning": {
+    "Prefix": "ML",
+    "Name": "Amazon Machine Learning",
+    "Url": "https://aws.amazon.com/machinelearning/",
+    "Note": ""
+  },
+  "macie": {
+    "Prefix": "MAC",
+    "Name": "Amazon Macie",
+    "Url": "https://aws.amazon.com/macie/",
+    "Note": ""
+  },
+  "macie2": {
+    "Prefix": "MAC2",
+    "Name": "Amazon Macie",
+    "Url": "https://aws.amazon.com/macie/",
+    "Note": ""
+  },
+  "managedblockchain": {
+    "Prefix": "MBC",
+    "Name": "Amazon Managed Blockchain",
+    "Url": "https://aws.amazon.com/managed-blockchain/",
+    "Note": ""
+  },
+  "marketplace-catalog": {
+    "Prefix": "MCAT",
+    "Name": "AWS Marketplace Catalog Service",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
+  "marketplace-entitlement": {
+    "Prefix": "MES",
+    "Name": "AWS Marketplace Entitlement Service",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
+  "marketplacecommerceanalytics": {
+    "Prefix": "MCA",
+    "Name": "AWS Marketplace Commerce Analytics",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
+  "mediaconnect": {
+    "Prefix": "EMCN",
+    "Name": "AWS Elemental MediaConnect",
+    "Url": "https://aws.amazon.com/mediaconnect/",
+    "Note": ""
+  },
+  "mediaconvert": {
+    "Prefix": "EMC",
+    "Name": "AWS Elemental MediaConvert",
+    "Url": "https://aws.amazon.com/mediaconvert/",
+    "Note": ""
+  },
+  "medialive": {
+    "Prefix": "EML",
+    "Name": "AWS Elemental MediaLive",
+    "Url": "https://aws.amazon.com/medialive/",
+    "Note": ""
+  },
+  "mediapackage": {
+    "Prefix": "EMP",
+    "Name": "AWS Elemental MediaPackage",
+    "Url": "https://aws.amazon.com/mediapackage/",
+    "Note": ""
+  },
+  "mediapackage-vod": {
+    "Prefix": "EMPV",
+    "Name": "AWS Elemental MediaPackage VOD",
+    "Url": "https://aws.amazon.com/mediapackage/",
+    "Note": ""
+  },
+  "mediastore": {
+    "Prefix": "EMS",
+    "Name": "AWS Elemental MediaStore",
+    "Url": "https://aws.amazon.com/mediastore/",
+    "Note": ""
+  },
+  "mediastore-data": {
+    "Prefix": "EMSD",
+    "Name": "AWS Elemental MediaStore Data Plane",
+    "Url": "https://aws.amazon.com/mediastore/",
+    "Note": ""
+  },
+  "mediatailor": {
+    "Prefix": "EMT",
+    "Name": "AWS Elemental MediaTailor",
+    "Url": "https://aws.amazon.com/mediatailor/",
+    "Note": ""
+  },
+  "memorydb": {
+    "Prefix": "MDB",
+    "Name": "Amazon MemoryDB for Redis",
+    "Url": "https://aws.amazon.com/memorydb/",
+    "Note": ""
+  },
+  "meteringmarketplace": {
+    "Prefix": "MM",
+    "Name": "AWS Marketplace Metering Service",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
+  "mgh": {
+    "Prefix": "MH",
+    "Name": "AWS Migration Hub",
+    "Url": "https://aws.amazon.com/migration-hub/",
+    "Note": ""
+  },
+  "mgn": {
+    "Prefix": "MGN",
+    "Name": "AWS Application Migration Service",
+    "Url": "https://aws.amazon.com/application-migration-service/",
+    "Note": ""
+  },
+  "migration-hub-refactor-spaces": {
+    "Prefix": "MHRS",
+    "Name": "AWS Migration Hub Refactor Spaces",
+    "Url": "https://aws.amazon.com/application-migration-service/",
+    "Note": ""
+  },
+  "migrationhub-config": {
+    "Prefix": "MHC",
+    "Name": "AWS Migration Hub Config",
+    "Url": "https://aws.amazon.com/migration-hub/",
+    "Note": ""
+  },
+  "migrationhuborchestrator": {
+    "Prefix": "MHO",
+    "Name": "AWS Migration Hub Orchestrator",
+    "Url": "https://aws.amazon.com/migration-hub/",
+    "Note": ""
+  },
+  "migrationhubstrategy": {
+    "Prefix": "MHS",
+    "Name": "AWS Migration Hub Strategy Recommendations",
+    "Url": "https://aws.amazon.com/migration-hub/",
+    "Note": ""
+  },
+  "mobile": {
+    "Prefix": "MOBL",
+    "Name": "AWS Mobile",
+    "Url": "https://aws.amazon.com/amplify/",
+    "Note": ""
+  },
+  "mq": {
+    "Prefix": "MQ",
+    "Name": "Amazon MQ",
+    "Url": "https://aws.amazon.com/amazon-mq/",
+    "Note": ""
+  },
+  "mturk": {
+    "Prefix": "MTR",
+    "Name": "Amazon Mechanical Turk",
+    "Url": "https://www.mturk.com/",
+    "Note": ""
+  },
+  "mwaa": {
+    "Prefix": "MWAA",
+    "Name": "Amazon Managed Workflows for Apache Airflow",
+    "Url": "https://aws.amazon.com/managed-workflows-for-apache-airflow/",
+    "Note": ""
+  },
+  "neptune": {
+    "Prefix": "NPT",
+    "Name": "Amazon Neptune",
+    "Url": "https://aws.amazon.com/neptune/",
+    "Note": ""
+  },
+  "network-firewall": {
+    "Prefix": "NWFW",
+    "Name": "AWS Network Firewall",
+    "Url": "https://aws.amazon.com/network-firewall/",
+    "Note": ""
+  },
+  "networkmanager": {
+    "Prefix": "NMGR",
+    "Name": "AWS Transit Gateway network manager",
+    "Url": "https://aws.amazon.com/transit-gateway/network-manager/",
+    "Note": ""
+  },
+  "nimble": {
+    "Prefix": "NS",
+    "Name": "Amazon Nimble Studio",
+    "Url": "https://aws.amazon.com/nimble-studio/",
+    "Note": ""
+  },
+  "oam": {
+    "Prefix": "CWOAM",
+    "Name": "Amazon CloudWatch Observability Access Manager",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "omics": {
+    "Prefix": "OMICS",
+    "Name": "Amazon Omics",
+    "Url": "https://aws.amazon.com/omics/",
+    "Note": ""
+  },
+  "opensearch": {
+    "Prefix": "OS",
+    "Name": "Amazon OpenSearch Service",
+    "Url": "https://aws.amazon.com/opensearch-service/",
+    "Note": "successor to Amazon Elasticsearch Service"
+  },
+  "opensearchserverless": {
+    "Prefix": "OSS",
+    "Name": "Amazon OpenSearch Serverless",
+    "Url": "https://aws.amazon.com/opensearch-service/features/serverless/",
+    "Note": ""
+  },
+  "opsworks": {
+    "Prefix": "OPS",
+    "Name": "AWS OpsWorks",
+    "Url": "https://aws.amazon.com/opsworks/",
+    "Note": ""
+  },
+  "opsworks-cm": {
+    "Prefix": "OWCM",
+    "Name": "AWS OpsWorks for configuration management",
+    "Url": "https://aws.amazon.com/opsworks/",
+    "Note": ""
+  },
+  "organizations": {
+    "Prefix": "ORG",
+    "Name": "AWS Organizations",
+    "Url": "https://aws.amazon.com/organizations/",
+    "Note": ""
+  },
+  "osis": {
+    "Prefix": "OSIS",
+    "Name": "Amazon OpenSearch Ingestion",
+    "Url": "https://aws.amazon.com/opensearch-service/features/integration/",
+    "Note": ""
+  },
+  "outposts": {
+    "Prefix": "OUTP",
+    "Name": "AWS Outposts",
+    "Url": "https://aws.amazon.com/outposts/",
+    "Note": ""
+  },
+  "panorama": {
+    "Prefix": "PAN",
+    "Name": "AWS Panorama",
+    "Url": "https://aws.amazon.com/panorama/",
+    "Note": ""
+  },
+  "personalize": {
+    "Prefix": "PERS",
+    "Name": "Amazon Personalize",
+    "Url": "https://aws.amazon.com/personalize/",
+    "Note": ""
+  },
+  "personalize-events": {
+    "Prefix": "PERSE",
+    "Name": "Amazon Personalize",
+    "Url": "https://aws.amazon.com/personalize/",
+    "Note": ""
+  },
+  "personalize-runtime": {
+    "Prefix": "PERSR",
+    "Name": "Amazon Personalize",
+    "Url": "https://aws.amazon.com/personalize/",
+    "Note": ""
+  },
+  "pi": {
+    "Prefix": "PI",
+    "Name": "AWS Performance Insights",
+    "Url": "https://aws.amazon.com/rds/performance-insights/",
+    "Note": ""
+  },
+  "pinpoint": {
+    "Prefix": "PIN",
+    "Name": "Amazon Pinpoint",
+    "Url": "https://aws.amazon.com/pinpoint/",
+    "Note": ""
+  },
+  "pinpoint-email": {
+    "Prefix": "PINE",
+    "Name": "Amazon Pinpoint Email",
+    "Url": "https://aws.amazon.com/pinpoint/",
+    "Note": ""
+  },
+  "pinpoint-sms-voice": {
+    "Prefix": "PINE",
+    "Name": "Amazon Pinpoint SMS and Voice Messaging",
+    "Url": "https://aws.amazon.com/pinpoint/",
+    "Note": ""
+  },
+  "pinpoint-sms-voice-v2": {
+    "Prefix": "SMSV",
+    "Name": "Amazon Pinpoint SMS and Voice Messaging",
+    "Url": "https://aws.amazon.com/pinpoint/",
+    "Note": ""
+  },
+  "pipes": {
+    "Prefix": "PIPES",
+    "Name": "Amazon EventBridge Pipes",
+    "Url": "https://aws.amazon.com/eventbridge/pipes/",
+    "Note": ""
+  },
+  "polly": {
+    "Prefix": "POL",
+    "Name": "Amazon Polly",
+    "Url": "https://aws.amazon.com/pinpoint/polly/",
+    "Note": ""
+  },
+  "pricing": {
+    "Prefix": "PLS",
+    "Name": "AWS Price List Service",
+    "Url": "https://aws.amazon.com/pricing/",
+    "Note": ""
+  },
+  "privatenetworks": {
+    "Prefix": "PV5G",
+    "Name": "AWS Private 5G",
+    "Url": "https://aws.amazon.com/private5g/",
+    "Note": ""
+  },
+  "proton": {
+    "Prefix": "PRO",
+    "Name": "AWS Proton",
+    "Url": "https://aws.amazon.com/proton/",
+    "Note": ""
+  },
+  "qldb": {
+    "Prefix": "QLDB",
+    "Name": "Amazon Quantum Ledger Database (QLDB)",
+    "Url": "https://aws.amazon.com/qldb/",
+    "Note": ""
+  },
+  "qldb-session": {
+    "Prefix": "QLDBS",
+    "Name": "Amazon QLDB Session",
+    "Url": "https://aws.amazon.com/qldb/",
+    "Note": ""
+  },
+  "quicksight": {
+    "Prefix": "QS",
+    "Name": "Amazon QuickSight",
+    "Url": "https://aws.amazon.com/quicksight/",
+    "Note": ""
+  },
+  "ram": {
+    "Prefix": "RAM",
+    "Name": "AWS Resource Access Manager",
+    "Url": "https://aws.amazon.com/ram/",
+    "Note": ""
+  },
+  "rbin": {
+    "Prefix": "RBIN",
+    "Name": "Recycle Bin",
+    "Url": "https://aws.amazon.com/ebs/snapshots/",
+    "Note": ""
+  },
+  "rds-data": {
+    "Prefix": "RDSD",
+    "Name": "Amazon Relational Database Service",
+    "Url": "https://aws.amazon.com/rds/",
+    "Note": ""
+  },
+  "rds": {
+    "Prefix": "RDS",
+    "Name": "Amazon Relational Database Service",
+    "Url": "https://aws.amazon.com/rds/",
+    "Note": ""
+  },
+  "redshift-data": {
+    "Prefix": "RSD",
+    "Name": "Amazon Redshift",
+    "Url": "https://aws.amazon.com/redshift/",
+    "Note": ""
+  },
+  "redshift-serverless": {
+    "Prefix": "RSS",
+    "Name": "Amazon Redshift Serverless",
+    "Url": "https://aws.amazon.com/redshift/redshift-serverless/",
+    "Note": ""
+  },
+  "redshift": {
+    "Prefix": "RS",
+    "Name": "Amazon Redshift",
+    "Url": "https://aws.amazon.com/redshift/",
+    "Note": ""
+  },
+  "rekognition": {
+    "Prefix": "REK",
+    "Name": "Amazon Rekognition",
+    "Url": "https://aws.amazon.com/rekognition/",
+    "Note": ""
+  },
+  "resiliencehub": {
+    "Prefix": "RESH",
+    "Name": "AWS Resilience Hub",
+    "Url": "https://aws.amazon.com/resilience-hub/",
+    "Note": ""
+  },
+  "resource-explorer-2": {
+    "Prefix": "AREX",
+    "Name": "AWS Resource Explorer",
+    "Url": "https://aws.amazon.com/resourceexplorer/",
+    "Note": ""
+  },
+  "resource-groups": {
+    "Prefix": "RG",
+    "Name": "AWS Resource Groups",
+    "Url": "https://aws.amazon.com/",
+    "Note": ""
+  },
+  "resourcegroupstaggingapi": {
+    "Prefix": "RGT",
+    "Name": "AWS Resource Groups Tagging",
+    "Url": "https://aws.amazon.com/",
+    "Note": ""
+  },
+  "robomaker": {
+    "Prefix": "ROBO",
+    "Name": "AWS RoboMaker",
+    "Url": "https://aws.amazon.com/robomaker/",
+    "Note": ""
+  },
+  "rolesanywhere": {
+    "Prefix": "IAMRA",
+    "Name": "IAM Roles Anywhere",
+    "Url": "https://docs.aws.amazon.com/rolesanywhere/latest/APIReference/Welcome.html",
+    "Note": ""
+  },
+  "route53": {
+    "Prefix": "R53",
+    "Name": "Amazon Route 53",
+    "Url": "https://aws.amazon.com/route53/",
+    "Note": ""
+  },
+  "route53-recovery-cluster": {
+    "Prefix": "RRC",
+    "Name": "Amazon Route 53 Application Recovery Controller",
+    "Url": "https://aws.amazon.com/route53/application-recovery-controller/",
+    "Note": "Recovery Control Data Plane"
+  },
+  "route53-recovery-control-config": {
+    "Prefix": "R53RC",
+    "Name": "Amazon Route 53 Application Recovery Controller",
+    "Url": "https://aws.amazon.com/route53/application-recovery-controller/",
+    "Note": "Recovery Control Configuration"
+  },
+  "route53-recovery-readiness": {
+    "Prefix": "PD",
+    "Name": "Amazon Route 53 Application Recovery Controller",
+    "Url": "https://aws.amazon.com/route53/application-recovery-controller/",
+    "Note": "Recovery Readiness"
+  },
+  "route53domains": {
+    "Prefix": "R53D",
+    "Name": "Amazon Route 53 Domains",
+    "Url": "https://aws.amazon.com/route53/",
+    "Note": ""
+  },
+  "route53resolver": {
+    "Prefix": "R53R",
+    "Name": "Amazon Route 53 Resolver",
+    "Url": "https://aws.amazon.com/route53/",
+    "Note": ""
+  },
+  "rum": {
+    "Prefix": "CWRUM",
+    "Name": "Real-User Monitoring for Amazon CloudWatch",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "s3": {
+    "Prefix": "S3",
+    "Name": "Amazon S3",
+    "Url": "https://aws.amazon.com/s3/",
+    "Note": "* Currntly, failed to create the list..."
+  },
+  "s3api": {
+    "Prefix": "S3",
+    "Name": "Amazon S3",
+    "Url": "https://aws.amazon.com/s3/",
+    "Note": "* Currntly, failed to create the list..."
+  },
+  "s3control": {
+    "Prefix": "S3C",
+    "Name": "Amazon S3",
+    "Url": "https://aws.amazon.com/s3/",
+    "Note": ""
+  },
+  "s3outposts": {
+    "Prefix": "S3O",
+    "Name": "Amazon S3 on Outposts",
+    "Url": "https://aws.amazon.com/outposts/",
+    "Note": ""
+  },
+  "sagemaker": {
+    "Prefix": "SM",
+    "Name": "Amazon SageMaker",
+    "Url": "https://aws.amazon.com/sagemaker/",
+    "Note": ""
+  },
+  "sagemaker-a2i-runtime": {
+    "Prefix": "A2IR",
+    "Name": "Amazon Augmented AI",
+    "Url": "https://aws.amazon.com/augmented-ai/",
+    "Note": ""
+  },
+  "sagemaker-edge": {
+    "Prefix": "SME",
+    "Name": "Amazon SageMaker Edge Manager",
+    "Url": "https://aws.amazon.com/sagemaker/edge-manager/",
+    "Note": ""
+  },
+  "sagemaker-featurestore-runtime": {
+    "Prefix": "SMFS",
+    "Name": "Amazon SageMaker Feature Store",
+    "Url": "https://aws.amazon.com/sagemaker/feature-store/",
+    "Note": ""
+  },
+  "sagemaker-geospatial": {
+    "Prefix": "SMGS",
+    "Name": "Geospatial ML with Amazon SageMaker",
+    "Url": "https://aws.amazon.com/sagemaker/geospatial/",
+    "Note": ""
+  },
+  "sagemaker-metrics": {
+    "Prefix": "SMM",
+    "Name": "Amazon SageMaker Metrics Service",
+    "Url": "https://aws.amazon.com/sagemaker/",
+    "Note": ""
+  },
+  "sagemaker-runtime": {
+    "Prefix": "SMR",
+    "Name": "Amazon SageMaker",
+    "Url": "https://aws.amazon.com/sagemaker/",
+    "Note": ""
+  },
+  "savingsplans": {
+    "Prefix": "SP",
+    "Name": "AWS Savings Plans",
+    "Url": "https://aws.amazon.com/savingsplans/",
+    "Note": ""
+  },
+  "scheduler": {
+    "Prefix": "SCH",
+    "Name": "Amazon EventBridge Scheduler",
+    "Url": "https://aws.amazon.com/eventbridge/",
+    "Note": ""
+  },
+  "schemas": {
+    "Prefix": "SCHM",
+    "Name": "AWS EventBridge Schemas",
+    "Url": "https://aws.amazon.com/eventbridge/",
+    "Note": ""
+  },
+  "sdb": {
+    "Prefix": "",
+    "Name": "Amazon SimpleDB",
+    "Url": "https://aws.amazon.com/simpledb/",
+    "Note": ""
+  },
+  "secretsmanager": {
+    "Prefix": "SEC",
+    "Name": "AWS Secrets Manager",
+    "Url": "https://aws.amazon.com/secrets-manager/",
+    "Note": ""
+  },
+  "securityhub": {
+    "Prefix": "SHUB",
+    "Name": "AWS Security Hub",
+    "Url": "https://aws.amazon.com/securityhub/",
+    "Note": ""
+  },
+  "securitylake": {
+    "Prefix": "SLK",
+    "Name": "Amazon Security Lake",
+    "Url": "https://aws.amazon.com/security-lake/",
+    "Note": ""
+  },
+  "serverlessrepo": {
+    "Prefix": "SAR",
+    "Name": "AWS Serverless Application Repository",
+    "Url": "https://aws.amazon.com/serverless/serverlessrepo/",
+    "Note": ""
+  },
+  "service-quotas": {
+    "Prefix": "SQ",
+    "Name": "AWS Service Quotas",
+    "Url": "https://console.aws.amazon.com/servicequotas/",
+    "Note": ""
+  },
+  "servicecatalog-appregistry": {
+    "Prefix": "SCAR",
+    "Name": "AWS Service Catalog App Registry",
+    "Url": "https://aws.amazon.com/servicecatalog/",
+    "Note": ""
+  },
+  "servicecatalog": {
+    "Prefix": "SC",
+    "Name": "AWS Service Catalog",
+    "Url": "https://aws.amazon.com/servicecatalog/",
+    "Note": ""
+  },
+  "servicediscovery": {
+    "Prefix": "SD",
+    "Name": "Amazon Route 53 Auto Naming",
+    "Url": "https://aws.amazon.com/route53/",
+    "Note": ""
+  },
+  "ses": {
+    "Prefix": "SES",
+    "Name": "Amazon Simple Email Service",
+    "Url": "https://aws.amazon.com/ses/",
+    "Note": ""
+  },
+  "sesv2": {
+    "Prefix": "SES2",
+    "Name": "Amazon Simple Email Service V2",
+    "Url": "https://aws.amazon.com/ses/",
+    "Note": ""
+  },
+  "shield": {
+    "Prefix": "SHLD",
+    "Name": "AWS Shield",
+    "Url": "https://aws.amazon.com/shield/",
+    "Note": ""
+  },
+  "signer": {
+    "Prefix": "",
+    "Name": "AWS Signer",
+    "Url": "https://docs.aws.amazon.com/signer/latest/api/Welcome.html",
+    "Note": ""
+  },
+  "simspaceweaver": {
+    "Prefix": "SSW",
+    "Name": "AWS SimSpace Weaver",
+    "Url": "https://aws.amazon.com/simspaceweaver/",
+    "Note": ""
+  },
+  "sms": {
+    "Prefix": "SMS",
+    "Name": "AWS Sever Migration Service",
+    "Url": "https://aws.amazon.com/server-migration-service/",
+    "Note": ""
+  },
+  "snow-device-management": {
+    "Prefix": "SDMS",
+    "Name": "Amazon Web Services Snow Device Management",
+    "Url": "https://aws.amazon.com/snow/",
+    "Note": ""
+  },
+  "snowball": {
+    "Prefix": "SNOW",
+    "Name": "AWS Snow Family",
+    "Url": "https://aws.amazon.com/snow/",
+    "Note": ""
+  },
+  "sns": {
+    "Prefix": "SNS",
+    "Name": "Amazon Simple Notification Service",
+    "Url": "https://aws.amazon.com/sns/",
+    "Note": ""
+  },
+  "sqs": {
+    "Prefix": "SQS",
+    "Name": "Amazon Simple Queue Service",
+    "Url": "https://aws.amazon.com/sqs/",
+    "Note": ""
+  },
+  "ssm": {
+    "Prefix": "SSM",
+    "Name": "AWS Systems Manager",
+    "Url": "https://aws.amazon.com/systems-manager/",
+    "Note": ""
+  },
+  "ssm-contacts": {
+    "Prefix": "SMC",
+    "Name": "AWS Systems Manager Contacts",
+    "Url": "https://aws.amazon.com/systems-manager/",
+    "Note": ""
+  },
+  "ssm-incidents": {
+    "Prefix": "SSMI",
+    "Name": "AWS Systems Manager Incident Manager",
+    "Url": "https://aws.amazon.com/systems-manager/",
+    "Note": ""
+  },
+  "ssm-sap": {
+    "Prefix": "SMSAP",
+    "Name": "AWS Systems Manager for SAP",
+    "Url": "https://aws.amazon.com/systems-manager/",
+    "Note": ""
+  },
+  "sso-admin": {
+    "Prefix": "SSOADMN",
+    "Name": "AWS Single Sign-On",
+    "Url": "https://aws.amazon.com/single-sign-on/",
+    "Note": ""
+  },
+  "sso-oidc": {
+    "Prefix": "SSOOIDC",
+    "Name": "AWS Single Sign-On OIDC",
+    "Url": "https://aws.amazon.com/single-sign-on/",
+    "Note": ""
+  },
+  "sso": {
+    "Prefix": "SSO",
+    "Name": "AWS Single Sign-On",
+    "Url": "https://aws.amazon.com/single-sign-on/",
+    "Note": ""
+  },
+  "stepfunctions": {
+    "Prefix": "SFN",
+    "Name": "AWS Step Functions",
+    "Url": "https://aws.amazon.com/step-functions/",
+    "Note": ""
+  },
+  "storagegateway": {
+    "Prefix": "SG",
+    "Name": "AWS Storage Gateway",
+    "Url": "https://aws.amazon.com/storagegateway/",
+    "Note": ""
+  },
+  "sts": {
+    "Prefix": "STS",
+    "Name": "AWS Security Token Service",
+    "Url": "https://aws.amazon.com/iam/",
+    "Note": ""
+  },
+  "support": {
+    "Prefix": "ASA",
+    "Name": "AWS Support",
+    "Url": "https://aws.amazon.com/premiumsupport/",
+    "Note": ""
+  },
+  "support-app": {
+    "Prefix": "SUP",
+    "Name": "AWS Support App in Slack API",
+    "Url": "https://aws.amazon.com/premiumsupport/",
+    "Note": ""
+  },
+  "swf": {
+    "Prefix": "SWF",
+    "Name": "Amazon Simple Workflow",
+    "Url": "https://aws.amazon.com/swf/",
+    "Note": ""
+  },
+  "synthetics": {
+    "Prefix": "CWSYN",
+    "Name": "Amazon CloudWatch Synthetics",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "textract": {
+    "Prefix": "TXT",
+    "Name": "Amazon Textract",
+    "Url": "https://aws.amazon.com/textract/",
+    "Note": ""
+  },
+  "timestream-query": {
+    "Prefix": "TSQ",
+    "Name": "Amazon Timestream",
+    "Url": "https://aws.amazon.com/timestream/",
+    "Note": ""
+  },
+  "timestream-write": {
+    "Prefix": "TSW",
+    "Name": "Amazon Timestream",
+    "Url": "https://aws.amazon.com/timestream/",
+    "Note": ""
+  },
+  "tnb": {
+    "Prefix": "TNB",
+    "Name": "AWS Telco Network Builder",
+    "Url": "https://aws.amazon.com/tnb/",
+    "Note": ""
+  },
+  "transcribe": {
+    "Prefix": "TRS",
+    "Name": "Amazon Transcribe",
+    "Url": "https://aws.amazon.com/transcribe/",
+    "Note": ""
+  },
+  "transfer": {
+    "Prefix": "TFR",
+    "Name": "AWS Transfer Family",
+    "Url": "https://aws.amazon.com/aws-transfer-family/",
+    "Note": ""
+  },
+  "translate": {
+    "Prefix": "TRN",
+    "Name": "Amazon Translate",
+    "Url": "https://aws.amazon.com/translate/",
+    "Note": ""
+  },
+  "voice-id": {
+    "Prefix": "VID",
+    "Name": "Amazon Connect Voice ID",
+    "Url": "https://aws.amazon.com/connect/voice-id/",
+    "Note": ""
+  },
+  "vpc-lattice": {
+    "Prefix": "VPCL",
+    "Name": "Amazon VPC Lattice",
+    "Url": "https://aws.amazon.com/vpc/lattice/",
+    "Note": ""
+  },
+  "waf-regional": {
+    "Prefix": "WAFR",
+    "Name": "AWS WAF Regional ",
+    "Url": "https://aws.amazon.com/waf/",
+    "Note": ""
+  },
+  "waf": {
+    "Prefix": "WAF",
+    "Name": "AWS WAF",
+    "Url": "https://aws.amazon.com/waf/",
+    "Note": ""
+  },
+  "wafv2": {
+    "Prefix": "WAF2",
+    "Name": "AWS WAF V2",
+    "Url": "https://aws.amazon.com/waf/",
+    "Note": ""
+  },
+  "wellarchitected": {
+    "Prefix": "WAT",
+    "Name": "AWS Well-Architected Tool",
+    "Url": "https://aws.amazon.com/well-architected-tool/",
+    "Note": ""
+  },
+  "wisdom": {
+    "Prefix": "WSDM",
+    "Name": "Amazon Connect Wisdom",
+    "Url": "https://aws.amazon.com/connect/wisdom/",
+    "Note": ""
+  },
+  "workdocs": {
+    "Prefix": "WD",
+    "Name": "Amazon WorkDocs",
+    "Url": "https://aws.amazon.com/workdocs/",
+    "Note": ""
+  },
+  "worklink": {
+    "Prefix": "WL",
+    "Name": "Amazon WorkLink",
+    "Url": "https://aws.amazon.com/worklink/",
+    "Note": ""
+  },
+  "workmail": {
+    "Prefix": "WM",
+    "Name": "Amazon WorkMail",
+    "Url": "https://aws.amazon.com/workmail/",
+    "Note": ""
+  },
+  "workmailmessageflow": {
+    "Prefix": "WMMF",
+    "Name": "Amazon WorkMail Message Flow",
+    "Url": "https://aws.amazon.com/workmail/",
+    "Note": ""
+  },
+  "workspaces": {
+    "Prefix": "WKS",
+    "Name": "Amazon WorkSpaces",
+    "Url": "https://aws.amazon.com/workspaces/",
+    "Note": ""
+  },
+  "workspaces-web": {
+    "Prefix": "WSW",
+    "Name": "Amazon WorkSpaces Web",
+    "Url": "https://aws.amazon.com/workspaces/",
+    "Note": ""
+  },
+  "xray": {
+    "Prefix": "XR",
+    "Name": "AWS X-Ray",
+    "Url": "https://aws.amazon.com/xray/",
+    "Note": ""
+  }
+}

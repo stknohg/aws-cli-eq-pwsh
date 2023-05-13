@@ -1,6 +1,6 @@
 ---
 title: iot-jobs-data
-date: 2023-05-03
+date: 2023-05-13
 description: aws iot-jobs-data (AWS IoT Jobs) command/cmdlet list.
 ---
 

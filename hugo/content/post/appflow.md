@@ -1,6 +1,6 @@
 ---
 title: appflow
-date: 2023-05-03
+date: 2023-05-13
 description: aws appflow (Amazon AppFlow) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws appflow (Amazon AppFlow) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws appflow cancel-flow-executions](https://docs.aws.amazon.com/cli/latest/reference/appflow/cancel-flow-executions.html)|[Stop-AFFlowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-AFFlowExecution.html)|
 |[aws appflow create-connector-profile](https://docs.aws.amazon.com/cli/latest/reference/appflow/create-connector-profile.html)|[New-AFConnectorProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AFConnectorProfile.html)|
 |[aws appflow create-flow](https://docs.aws.amazon.com/cli/latest/reference/appflow/create-flow.html)|[New-AFFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AFFlow.html)|
 |[aws appflow delete-connector-profile](https://docs.aws.amazon.com/cli/latest/reference/appflow/delete-connector-profile.html)|[Remove-AFConnectorProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AFConnectorProfile.html)|

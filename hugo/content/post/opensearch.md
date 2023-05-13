@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2023-05-03
+date: 2023-05-13
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -33,6 +33,8 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch describe-domain-auto-tunes](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-auto-tunes.html)|[Get-OSDomainAutoTune](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainAutoTune.html)|
 |[aws opensearch describe-domain-change-progress](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-change-progress.html)|[Get-OSDomainChangeProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainChangeProgress.html)|
 |[aws opensearch describe-domain-config](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-config.html)|[Get-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainConfig.html)|
+|[aws opensearch describe-domain-health](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-health.html)|[Get-OSDomainHealth](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainHealth.html)|
+|[aws opensearch describe-domain-nodes](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domain-nodes.html)|[Get-OSDomainNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainNode.html)|
 |[aws opensearch describe-domains](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-domains.html)|[Get-OSDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainList.html)|
 |[aws opensearch describe-dry-run-progress](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-dry-run-progress.html)|[Get-OSDryRunProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDryRunProgress.html)|
 |[aws opensearch describe-inbound-connections](https://docs.aws.amazon.com/cli/latest/reference/opensearch/describe-inbound-connections.html)|[Get-OSInboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInboundConnection.html)|

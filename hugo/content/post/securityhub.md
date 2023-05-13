@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2023-05-03
+date: 2023-05-13
 description: aws securityhub (AWS Security Hub) command/cmdlet list.
 ---
 
@@ -50,6 +50,7 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub get-administrator-account](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-administrator-account.html)|[Get-SHUBAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAdministratorAccount.html)|
 |[aws securityhub get-enabled-standards](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-enabled-standards.html)|[Get-SHUBEnabledStandard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledStandard.html)|
 |[aws securityhub get-finding-aggregator](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-finding-aggregator.html)|[Get-SHUBFindingAggregator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFindingAggregator.html)|
+|[aws securityhub get-finding-history](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-finding-history.html)|[Get-SHUBFindingHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFindingHistory.html)|
 |[aws securityhub get-findings](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-findings.html)|[Get-SHUBFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFinding.html)|
 |[aws securityhub get-insight-results](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-insight-results.html)|[Get-SHUBInsightResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsightResult.html)|
 |[aws securityhub get-insights](https://docs.aws.amazon.com/cli/latest/reference/securityhub/get-insights.html)|[Get-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsight.html)|

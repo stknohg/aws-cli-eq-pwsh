@@ -1,6 +1,6 @@
 ---
 title: support
-date: 2023-05-03
+date: 2023-05-13
 description: aws support (AWS Support) command/cmdlet list.
 ---
 
@@ -19,8 +19,10 @@ description: aws support (AWS Support) command/cmdlet list.
 |[aws support describe-attachment](https://docs.aws.amazon.com/cli/latest/reference/support/describe-attachment.html)|[Get-ASAAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAAttachment.html)|
 |[aws support describe-cases](https://docs.aws.amazon.com/cli/latest/reference/support/describe-cases.html)|[Get-ASACase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASACase.html)|
 |[aws support describe-communications](https://docs.aws.amazon.com/cli/latest/reference/support/describe-communications.html)|[Get-ASACommunication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASACommunication.html)|
+|[aws support describe-create-case-options](https://docs.aws.amazon.com/cli/latest/reference/support/describe-create-case-options.html)|[Get-ASACreateCaseOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASACreateCaseOption.html)|
 |[aws support describe-services](https://docs.aws.amazon.com/cli/latest/reference/support/describe-services.html)|[Get-ASAService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAService.html)|
 |[aws support describe-severity-levels](https://docs.aws.amazon.com/cli/latest/reference/support/describe-severity-levels.html)|[Get-ASASeverityLevel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASASeverityLevel.html)|
+|[aws support describe-supported-languages](https://docs.aws.amazon.com/cli/latest/reference/support/describe-supported-languages.html)|[Get-ASASupportedLanguage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASASupportedLanguage.html)|
 |[aws support describe-trusted-advisor-check-refresh-statuses](https://docs.aws.amazon.com/cli/latest/reference/support/describe-trusted-advisor-check-refresh-statuses.html)|[Get-ASATrustedAdvisorCheckRefreshStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASATrustedAdvisorCheckRefreshStatus.html)|
 |[aws support describe-trusted-advisor-check-result](https://docs.aws.amazon.com/cli/latest/reference/support/describe-trusted-advisor-check-result.html)|[Get-ASATrustedAdvisorCheckResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASATrustedAdvisorCheckResult.html)|
 |[aws support describe-trusted-advisor-check-summaries](https://docs.aws.amazon.com/cli/latest/reference/support/describe-trusted-advisor-check-summaries.html)|[Get-ASATrustedAdvisorCheckSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASATrustedAdvisorCheckSummary.html)|

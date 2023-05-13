@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2023-05-03
+date: 2023-05-13
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -16,6 +16,8 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena batch-get-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/batch-get-named-query.html)|[Get-ATHNamedQueryBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHNamedQueryBatch.html)|
 |[aws athena batch-get-prepared-statement](https://docs.aws.amazon.com/cli/latest/reference/athena/batch-get-prepared-statement.html)|[Get-ATHBatchPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHBatchPreparedStatement.html)|
 |[aws athena batch-get-query-execution](https://docs.aws.amazon.com/cli/latest/reference/athena/batch-get-query-execution.html)|[Get-ATHQueryExecutionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryExecutionBatch.html)|
+|[aws athena cancel-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/athena/cancel-capacity-reservation.html)|[Stop-ATHCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ATHCapacityReservation.html)|
+|[aws athena create-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/athena/create-capacity-reservation.html)|[New-ATHCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHCapacityReservation.html)|
 |[aws athena create-data-catalog](https://docs.aws.amazon.com/cli/latest/reference/athena/create-data-catalog.html)|[New-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHDataCatalog.html)|
 |[aws athena create-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/create-named-query.html)|[New-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHNamedQuery.html)|
 |[aws athena create-notebook](https://docs.aws.amazon.com/cli/latest/reference/athena/create-notebook.html)|[New-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHNotebook.html)|
@@ -31,6 +33,8 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena get-calculation-execution](https://docs.aws.amazon.com/cli/latest/reference/athena/get-calculation-execution.html)|[Get-ATHCalculationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCalculationExecution.html)|
 |[aws athena get-calculation-execution-code](https://docs.aws.amazon.com/cli/latest/reference/athena/get-calculation-execution-code.html)|[Get-ATHCalculationExecutionCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCalculationExecutionCode.html)|
 |[aws athena get-calculation-execution-status](https://docs.aws.amazon.com/cli/latest/reference/athena/get-calculation-execution-status.html)|[Get-ATHCalculationExecutionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCalculationExecutionStatus.html)|
+|[aws athena get-capacity-assignment-configuration](https://docs.aws.amazon.com/cli/latest/reference/athena/get-capacity-assignment-configuration.html)|[Get-ATHCapacityAssignmentConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCapacityAssignmentConfiguration.html)|
+|[aws athena get-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/athena/get-capacity-reservation.html)|[Get-ATHCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCapacityReservation.html)|
 |[aws athena get-data-catalog](https://docs.aws.amazon.com/cli/latest/reference/athena/get-data-catalog.html)|[Get-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDataCatalog.html)|
 |[aws athena get-database](https://docs.aws.amazon.com/cli/latest/reference/athena/get-database.html)|[Get-ATHDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDatabase.html)|
 |[aws athena get-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/get-named-query.html)|[Get-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHNamedQuery.html)|
@@ -46,6 +50,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena import-notebook](https://docs.aws.amazon.com/cli/latest/reference/athena/import-notebook.html)|[Import-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-ATHNotebook.html)|
 |[aws athena list-application-dpu-sizes](https://docs.aws.amazon.com/cli/latest/reference/athena/list-application-dpu-sizes.html)|[Get-ATHApplicationDPUSizeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHApplicationDPUSizeList.html)|
 |[aws athena list-calculation-executions](https://docs.aws.amazon.com/cli/latest/reference/athena/list-calculation-executions.html)|[Get-ATHCalculationExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCalculationExecutionList.html)|
+|[aws athena list-capacity-reservations](https://docs.aws.amazon.com/cli/latest/reference/athena/list-capacity-reservations.html)|[Get-ATHCapacityReservationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCapacityReservationList.html)|
 |[aws athena list-data-catalogs](https://docs.aws.amazon.com/cli/latest/reference/athena/list-data-catalogs.html)|[Get-ATHDataCatalogList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDataCatalogList.html)|
 |[aws athena list-databases](https://docs.aws.amazon.com/cli/latest/reference/athena/list-databases.html)|[Get-ATHDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHDatabasisList.html)|
 |[aws athena list-engine-versions](https://docs.aws.amazon.com/cli/latest/reference/athena/list-engine-versions.html)|[Get-ATHEngineVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHEngineVersionList.html)|
@@ -59,6 +64,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena list-table-metadata](https://docs.aws.amazon.com/cli/latest/reference/athena/list-table-metadata.html)|[Get-ATHTableMetadataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHTableMetadataList.html)|
 |[aws athena list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/athena/list-tags-for-resource.html)|[Get-ATHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHResourceTag.html)|
 |[aws athena list-work-groups](https://docs.aws.amazon.com/cli/latest/reference/athena/list-work-groups.html)|[Get-ATHWorkGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHWorkGroupList.html)|
+|[aws athena put-capacity-assignment-configuration](https://docs.aws.amazon.com/cli/latest/reference/athena/put-capacity-assignment-configuration.html)|[Write-ATHCapacityAssignmentConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ATHCapacityAssignmentConfiguration.html)|
 |[aws athena start-calculation-execution](https://docs.aws.amazon.com/cli/latest/reference/athena/start-calculation-execution.html)|[Start-ATHCalculationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ATHCalculationExecution.html)|
 |[aws athena start-query-execution](https://docs.aws.amazon.com/cli/latest/reference/athena/start-query-execution.html)|[Start-ATHQueryExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ATHQueryExecution.html)|
 |[aws athena start-session](https://docs.aws.amazon.com/cli/latest/reference/athena/start-session.html)|[Start-ATHSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ATHSession.html)|
@@ -67,6 +73,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena tag-resource](https://docs.aws.amazon.com/cli/latest/reference/athena/tag-resource.html)|[Add-ATHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ATHResourceTag.html)|
 |[aws athena terminate-session](https://docs.aws.amazon.com/cli/latest/reference/athena/terminate-session.html)|[Remove-ATHSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHSession.html)|
 |[aws athena untag-resource](https://docs.aws.amazon.com/cli/latest/reference/athena/untag-resource.html)|[Remove-ATHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHResourceTag.html)|
+|[aws athena update-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/athena/update-capacity-reservation.html)|[Update-ATHCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHCapacityReservation.html)|
 |[aws athena update-data-catalog](https://docs.aws.amazon.com/cli/latest/reference/athena/update-data-catalog.html)|[Update-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHDataCatalog.html)|
 |[aws athena update-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/update-named-query.html)|[Update-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHNamedQuery.html)|
 |[aws athena update-notebook](https://docs.aws.amazon.com/cli/latest/reference/athena/update-notebook.html)|[Update-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHNotebook.html)|

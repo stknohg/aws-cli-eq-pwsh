@@ -1,6 +1,6 @@
 ---
 title: simspaceweaver
-date: 2023-05-03
+date: 2023-05-13
 description: aws simspaceweaver (AWS SimSpace Weaver) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws simspaceweaver (AWS SimSpace Weaver) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws simspaceweaver create-snapshot](https://docs.aws.amazon.com/cli/latest/reference/simspaceweaver/create-snapshot.html)|[New-SSWSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSWSnapshot.html)|
 |[aws simspaceweaver delete-app](https://docs.aws.amazon.com/cli/latest/reference/simspaceweaver/delete-app.html)|[Remove-SSWApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSWApp.html)|
 |[aws simspaceweaver delete-simulation](https://docs.aws.amazon.com/cli/latest/reference/simspaceweaver/delete-simulation.html)|[Remove-SSWSimulation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSWSimulation.html)|
 |[aws simspaceweaver describe-app](https://docs.aws.amazon.com/cli/latest/reference/simspaceweaver/describe-app.html)|[Get-SSWApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSWApp.html)|

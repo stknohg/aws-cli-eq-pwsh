@@ -1,6 +1,6 @@
 ---
 title: frauddetector
-date: 2023-05-03
+date: 2023-05-13
 description: aws frauddetector (Amazon Fraud Detector) command/cmdlet list.
 ---
 

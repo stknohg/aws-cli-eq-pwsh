@@ -1,6 +1,6 @@
 ---
 title: omics
-date: 2023-05-03
+date: 2023-05-13
 description: aws omics (Amazon Omics) command/cmdlet list.
 ---
 
@@ -13,11 +13,14 @@ description: aws omics (Amazon Omics) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws omics abort-multipart-read-set-upload](https://docs.aws.amazon.com/cli/latest/reference/omics/abort-multipart-read-set-upload.html)|[Remove-OMICSMultipartReadSetUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSMultipartReadSetUpload.html)|
 |[aws omics batch-delete-read-set](https://docs.aws.amazon.com/cli/latest/reference/omics/batch-delete-read-set.html)|[Remove-OMICSReadSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSReadSet.html)|
 |[aws omics cancel-annotation-import-job](https://docs.aws.amazon.com/cli/latest/reference/omics/cancel-annotation-import-job.html)|[Stop-OMICSAnnotationImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OMICSAnnotationImportJob.html)|
 |[aws omics cancel-run](https://docs.aws.amazon.com/cli/latest/reference/omics/cancel-run.html)|[Stop-OMICSRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OMICSRun.html)|
 |[aws omics cancel-variant-import-job](https://docs.aws.amazon.com/cli/latest/reference/omics/cancel-variant-import-job.html)|[Stop-OMICSVariantImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OMICSVariantImportJob.html)|
+|[aws omics complete-multipart-read-set-upload](https://docs.aws.amazon.com/cli/latest/reference/omics/complete-multipart-read-set-upload.html)|[Complete-OMICSMultipartReadSetUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-OMICSMultipartReadSetUpload.html)|
 |[aws omics create-annotation-store](https://docs.aws.amazon.com/cli/latest/reference/omics/create-annotation-store.html)|[New-OMICSAnnotationStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSAnnotationStore.html)|
+|[aws omics create-multipart-read-set-upload](https://docs.aws.amazon.com/cli/latest/reference/omics/create-multipart-read-set-upload.html)|[New-OMICSMultipartReadSetUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSMultipartReadSetUpload.html)|
 |[aws omics create-reference-store](https://docs.aws.amazon.com/cli/latest/reference/omics/create-reference-store.html)|[New-OMICSReferenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSReferenceStore.html)|
 |[aws omics create-run-group](https://docs.aws.amazon.com/cli/latest/reference/omics/create-run-group.html)|[New-OMICSRunGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSRunGroup.html)|
 |[aws omics create-sequence-store](https://docs.aws.amazon.com/cli/latest/reference/omics/create-sequence-store.html)|[New-OMICSSequenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSSequenceStore.html)|
@@ -51,9 +54,11 @@ description: aws omics (Amazon Omics) command/cmdlet list.
 |[aws omics get-workflow](https://docs.aws.amazon.com/cli/latest/reference/omics/get-workflow.html)|[Get-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSWorkflow.html)|
 |[aws omics list-annotation-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/omics/list-annotation-import-jobs.html)|[Get-OMICSAnnotationImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationImportJobList.html)|
 |[aws omics list-annotation-stores](https://docs.aws.amazon.com/cli/latest/reference/omics/list-annotation-stores.html)|[Get-OMICSAnnotationStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationStoreList.html)|
+|[aws omics list-multipart-read-set-uploads](https://docs.aws.amazon.com/cli/latest/reference/omics/list-multipart-read-set-uploads.html)|[Get-OMICSMultipartReadSetUploadList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSMultipartReadSetUploadList.html)|
 |[aws omics list-read-set-activation-jobs](https://docs.aws.amazon.com/cli/latest/reference/omics/list-read-set-activation-jobs.html)|[Get-OMICSReadSetActivationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReadSetActivationJobList.html)|
 |[aws omics list-read-set-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/omics/list-read-set-export-jobs.html)|[Get-OMICSReadSetExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReadSetExportJobList.html)|
 |[aws omics list-read-set-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/omics/list-read-set-import-jobs.html)|[Get-OMICSReadSetImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReadSetImportJobList.html)|
+|[aws omics list-read-set-upload-parts](https://docs.aws.amazon.com/cli/latest/reference/omics/list-read-set-upload-parts.html)|[Get-OMICSReadSetUploadPartList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReadSetUploadPartList.html)|
 |[aws omics list-read-sets](https://docs.aws.amazon.com/cli/latest/reference/omics/list-read-sets.html)|[Get-OMICSReadSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReadSetList.html)|
 |[aws omics list-reference-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/omics/list-reference-import-jobs.html)|[Get-OMICSReferenceImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceImportJobList.html)|
 |[aws omics list-reference-stores](https://docs.aws.amazon.com/cli/latest/reference/omics/list-reference-stores.html)|[Get-OMICSReferenceStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceStoreList.html)|
@@ -79,4 +84,5 @@ description: aws omics (Amazon Omics) command/cmdlet list.
 |[aws omics update-run-group](https://docs.aws.amazon.com/cli/latest/reference/omics/update-run-group.html)|[Update-OMICSRunGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSRunGroup.html)|
 |[aws omics update-variant-store](https://docs.aws.amazon.com/cli/latest/reference/omics/update-variant-store.html)|[Update-OMICSVariantStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSVariantStore.html)|
 |[aws omics update-workflow](https://docs.aws.amazon.com/cli/latest/reference/omics/update-workflow.html)|[Update-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSWorkflow.html)|
+|[aws omics upload-read-set-part](https://docs.aws.amazon.com/cli/latest/reference/omics/upload-read-set-part.html)|[Set-OMICSReadSetPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-OMICSReadSetPart.html)|
 

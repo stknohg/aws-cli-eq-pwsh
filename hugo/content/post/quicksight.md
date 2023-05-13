@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2023-05-03
+date: 2023-05-13
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -32,6 +32,9 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight create-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-template-alias.html)|[New-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTemplateAlias.html)|
 |[aws quicksight create-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-theme.html)|[New-QSTheme](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTheme.html)|
 |[aws quicksight create-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-theme-alias.html)|[New-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSThemeAlias.html)|
+|[aws quicksight create-topic](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-topic.html)|[New-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTopic.html)|
+|[aws quicksight create-topic-refresh-schedule](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-topic-refresh-schedule.html)|[New-QSTopicRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTopicRefreshSchedule.html)|
+|[aws quicksight create-vpc-connection](https://docs.aws.amazon.com/cli/latest/reference/quicksight/create-vpc-connection.html)|[New-QSVPCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSVPCConnection.html)|
 |[aws quicksight delete-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-account-customization.html)|[Remove-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountCustomization.html)|
 |[aws quicksight delete-account-subscription](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-account-subscription.html)|[Remove-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountSubscription.html)|
 |[aws quicksight delete-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-analysis.html)|[Remove-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAnalysis.html)|
@@ -50,8 +53,11 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight delete-template-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-template-alias.html)|[Remove-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSTemplateAlias.html)|
 |[aws quicksight delete-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-theme.html)|[Remove-QSTheme](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSTheme.html)|
 |[aws quicksight delete-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-theme-alias.html)|[Remove-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSThemeAlias.html)|
+|[aws quicksight delete-topic](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-topic.html)|[Remove-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSTopic.html)|
+|[aws quicksight delete-topic-refresh-schedule](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-topic-refresh-schedule.html)|[Remove-QSTopicRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSTopicRefreshSchedule.html)|
 |[aws quicksight delete-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user.html)|[Remove-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUser.html)|
 |[aws quicksight delete-user-by-principal-id](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-user-by-principal-id.html)|[Remove-QSUserByPrincipalId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUserByPrincipalId.html)|
+|[aws quicksight delete-vpc-connection](https://docs.aws.amazon.com/cli/latest/reference/quicksight/delete-vpc-connection.html)|[Remove-QSVPCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSVPCConnection.html)|
 |[aws quicksight describe-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-customization.html)|[Get-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountCustomization.html)|
 |[aws quicksight describe-account-settings](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-settings.html)|[Get-QSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSetting.html)|
 |[aws quicksight describe-account-subscription](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-account-subscription.html)|[Get-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSubscription.html)|
@@ -83,7 +89,12 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme.html)|[Get-QSTheme](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTheme.html)|
 |[aws quicksight describe-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-alias.html)|[Get-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeAlias.html)|
 |[aws quicksight describe-theme-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-theme-permissions.html)|[Get-QSThemePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemePermission.html)|
+|[aws quicksight describe-topic](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-topic.html)|[Get-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopic.html)|
+|[aws quicksight describe-topic-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-topic-permissions.html)|[Get-QSTopicPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicPermission.html)|
+|[aws quicksight describe-topic-refresh](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-topic-refresh.html)|[Get-QSTopicRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicRefresh.html)|
+|[aws quicksight describe-topic-refresh-schedule](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-topic-refresh-schedule.html)|[Get-QSTopicRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicRefreshSchedule.html)|
 |[aws quicksight describe-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-user.html)|[Get-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUser.html)|
+|[aws quicksight describe-vpc-connection](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-vpc-connection.html)|[Get-QSVPCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSVPCConnection.html)|
 |[aws quicksight generate-embed-url-for-anonymous-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/generate-embed-url-for-anonymous-user.html)|[New-QSEmbedUrlForAnonymousUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSEmbedUrlForAnonymousUser.html)|
 |[aws quicksight generate-embed-url-for-registered-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/generate-embed-url-for-registered-user.html)|[New-QSEmbedUrlForRegisteredUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSEmbedUrlForRegisteredUser.html)|
 |[aws quicksight get-dashboard-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-dashboard-embed-url.html)|[Get-QSDashboardEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardEmbedUrl.html)|
@@ -109,8 +120,11 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight list-theme-aliases](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-theme-aliases.html)|[Get-QSThemeAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeAliasList.html)|
 |[aws quicksight list-theme-versions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-theme-versions.html)|[Get-QSThemeVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeVersionList.html)|
 |[aws quicksight list-themes](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-themes.html)|[Get-QSThemeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeList.html)|
+|[aws quicksight list-topic-refresh-schedules](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-topic-refresh-schedules.html)|[Get-QSTopicRefreshScheduleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicRefreshScheduleList.html)|
+|[aws quicksight list-topics](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-topics.html)|[Get-QSTopicList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicList.html)|
 |[aws quicksight list-user-groups](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-user-groups.html)|[Get-QSUserGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserGroupList.html)|
 |[aws quicksight list-users](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-users.html)|[Get-QSUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserList.html)|
+|[aws quicksight list-vpc-connections](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-vpc-connections.html)|[Get-QSVPCConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSVPCConnectionList.html)|
 |[aws quicksight put-data-set-refresh-properties](https://docs.aws.amazon.com/cli/latest/reference/quicksight/put-data-set-refresh-properties.html)|[Write-QSDataSetRefreshProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-QSDataSetRefreshProperty.html)|
 |[aws quicksight register-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/register-user.html)|[Register-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-QSUser.html)|
 |[aws quicksight restore-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/restore-analysis.html)|[Restore-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-QSAnalysis.html)|
@@ -146,5 +160,9 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-theme](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-theme.html)|[Update-QSTheme](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTheme.html)|
 |[aws quicksight update-theme-alias](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-theme-alias.html)|[Update-QSThemeAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSThemeAlias.html)|
 |[aws quicksight update-theme-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-theme-permissions.html)|[Update-QSThemePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSThemePermission.html)|
+|[aws quicksight update-topic](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-topic.html)|[Update-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTopic.html)|
+|[aws quicksight update-topic-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-topic-permissions.html)|[Update-QSTopicPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTopicPermission.html)|
+|[aws quicksight update-topic-refresh-schedule](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-topic-refresh-schedule.html)|[Update-QSTopicRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTopicRefreshSchedule.html)|
 |[aws quicksight update-user](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-user.html)|[Update-QSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSUser.html)|
+|[aws quicksight update-vpc-connection](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-vpc-connection.html)|[Update-QSVPCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSVPCConnection.html)|
 

@@ -1277,6 +1277,12 @@
     "Url": "https://aws.amazon.com/mediapackage/",
     "Note": ""
   },
+  "mediapackagev2": {
+    "Prefix": "MPV2",
+    "Name": "AWS Elemental MediaPackage",
+    "Url": "https://aws.amazon.com/mediapackage/",
+    "Note": ""
+  },
   "mediastore": {
     "Prefix": "EMS",
     "Name": "AWS Elemental MediaStore",

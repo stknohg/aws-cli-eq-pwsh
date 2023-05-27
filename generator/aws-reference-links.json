@@ -211,6 +211,7 @@
   "medialive": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaLive_cmdlets.html",
   "mediapackage": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaPackage_cmdlets.html",
   "mediapackage-vod": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaPackage_VOD_cmdlets.html",
+  "mediapackagev2": "https://docs.aws.amazon.com/powershell/latest/reference/items/MediaPackageV2_cmdlets.html",
   "mediastore": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_cmdlets.html",
   "mediastore-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_Data_Plane_cmdlets.html",
   "mediatailor": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaTailor_cmdlets.html",

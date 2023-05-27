@@ -1,6 +1,6 @@
 ---
 title: rolesanywhere
-date: 2023-05-13
+date: 2023-05-27
 description: aws rolesanywhere (IAM Roles Anywhere) command/cmdlet list.
 ---
 
@@ -34,6 +34,8 @@ description: aws rolesanywhere (IAM Roles Anywhere) command/cmdlet list.
 |[aws rolesanywhere list-subjects](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/list-subjects.html)|[Get-IAMRASubjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRASubjectList.html)|
 |[aws rolesanywhere list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/list-tags-for-resource.html)|[Get-IAMRAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRAResourceTag.html)|
 |[aws rolesanywhere list-trust-anchors](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/list-trust-anchors.html)|[Get-IAMRATrustAnchorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRATrustAnchorList.html)|
+|[aws rolesanywhere put-notification-settings](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/put-notification-settings.html)|[Write-IAMRANotificationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IAMRANotificationSetting.html)|
+|[aws rolesanywhere reset-notification-settings](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/reset-notification-settings.html)|[Reset-IAMRANotificationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IAMRANotificationSetting.html)|
 |[aws rolesanywhere tag-resource](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/tag-resource.html)|[Add-IAMRAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMRAResourceTag.html)|
 |[aws rolesanywhere untag-resource](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/untag-resource.html)|[Remove-IAMRAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMRAResourceTag.html)|
 |[aws rolesanywhere update-crl](https://docs.aws.amazon.com/cli/latest/reference/rolesanywhere/update-crl.html)|[Update-IAMRACrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMRACrl.html)|

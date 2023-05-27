@@ -1,6 +1,6 @@
 ---
 title: gamesparks
-date: 2023-05-13
+date: 2023-05-27
 description: aws gamesparks (Amazon GameSparks) command/cmdlet list.
 ---
 

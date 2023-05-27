@@ -1,6 +1,6 @@
 ---
 title: codecatalyst
-date: 2023-05-13
+date: 2023-05-27
 description: aws codecatalyst (Amazon CodeCatalyst) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws codecatalyst (Amazon CodeCatalyst) command/cmdlet list.
 |[aws codecatalyst get-subscription](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/get-subscription.html)|[Get-CCATSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATSubscription.html)|
 |[aws codecatalyst get-user-details](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/get-user-details.html)|[Get-CCATUserDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATUserDetail.html)|
 |[aws codecatalyst list-access-tokens](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/list-access-tokens.html)|[Get-CCATAccessTokenList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATAccessTokenList.html)|
+|[aws codecatalyst list-dev-environment-sessions](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/list-dev-environment-sessions.html)|[Get-CCATDevEnvironmentSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATDevEnvironmentSessionList.html)|
 |[aws codecatalyst list-dev-environments](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/list-dev-environments.html)|[Get-CCATDevEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATDevEnvironmentList.html)|
 |[aws codecatalyst list-event-logs](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/list-event-logs.html)|[Get-CCATEventLogList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATEventLogList.html)|
 |[aws codecatalyst list-projects](https://docs.aws.amazon.com/cli/latest/reference/codecatalyst/list-projects.html)|[Get-CCATProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCATProjectList.html)|

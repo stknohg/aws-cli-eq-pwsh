@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2023-05-13
+date: 2023-05-27
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -64,6 +64,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-analysis](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis.html)|[Get-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysis.html)|
 |[aws quicksight describe-analysis-definition](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis-definition.html)|[Get-QSAnalysisDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisDefinition.html)|
 |[aws quicksight describe-analysis-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-analysis-permissions.html)|[Get-QSAnalysisPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisPermission.html)|
+|[aws quicksight describe-asset-bundle-export-job](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-asset-bundle-export-job.html)|[Get-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAssetBundleExportJob.html)|
+|[aws quicksight describe-asset-bundle-import-job](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-asset-bundle-import-job.html)|[Get-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAssetBundleImportJob.html)|
 |[aws quicksight describe-dashboard](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard.html)|[Get-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboard.html)|
 |[aws quicksight describe-dashboard-definition](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard-definition.html)|[Get-QSDashboardDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardDefinition.html)|
 |[aws quicksight describe-dashboard-permissions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/describe-dashboard-permissions.html)|[Get-QSDashboardPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardPermission.html)|
@@ -100,6 +102,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight get-dashboard-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-dashboard-embed-url.html)|[Get-QSDashboardEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardEmbedUrl.html)|
 |[aws quicksight get-session-embed-url](https://docs.aws.amazon.com/cli/latest/reference/quicksight/get-session-embed-url.html)|[Get-QSSessionEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSSessionEmbedUrl.html)|
 |[aws quicksight list-analyses](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-analyses.html)|[Get-QSAnalysisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisList.html)|
+|[aws quicksight list-asset-bundle-export-jobs](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-asset-bundle-export-jobs.html)|[Get-QSAssetBundleExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAssetBundleExportJobList.html)|
+|[aws quicksight list-asset-bundle-import-jobs](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-asset-bundle-import-jobs.html)|[Get-QSAssetBundleImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAssetBundleImportJobList.html)|
 |[aws quicksight list-dashboard-versions](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-dashboard-versions.html)|[Get-QSDashboardVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardVersionList.html)|
 |[aws quicksight list-dashboards](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-dashboards.html)|[Get-QSDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardList.html)|
 |[aws quicksight list-data-sets](https://docs.aws.amazon.com/cli/latest/reference/quicksight/list-data-sets.html)|[Get-QSDataSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSetList.html)|
@@ -134,6 +138,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight search-data-sources](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-data-sources.html)|[Search-QSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDataSource.html)|
 |[aws quicksight search-folders](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-folders.html)|[Search-QSFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSFolder.html)|
 |[aws quicksight search-groups](https://docs.aws.amazon.com/cli/latest/reference/quicksight/search-groups.html)|[Find-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-QSGroup.html)|
+|[aws quicksight start-asset-bundle-export-job](https://docs.aws.amazon.com/cli/latest/reference/quicksight/start-asset-bundle-export-job.html)|[Start-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleExportJob.html)|
+|[aws quicksight start-asset-bundle-import-job](https://docs.aws.amazon.com/cli/latest/reference/quicksight/start-asset-bundle-import-job.html)|[Start-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleImportJob.html)|
 |[aws quicksight tag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|
 |[aws quicksight untag-resource](https://docs.aws.amazon.com/cli/latest/reference/quicksight/untag-resource.html)|[Remove-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSResourceTag.html)|
 |[aws quicksight update-account-customization](https://docs.aws.amazon.com/cli/latest/reference/quicksight/update-account-customization.html)|[Update-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountCustomization.html)|

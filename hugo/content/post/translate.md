@@ -1,6 +1,6 @@
 ---
 title: translate
-date: 2023-05-13
+date: 2023-05-27
 description: aws translate (Amazon Translate) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws translate (Amazon Translate) command/cmdlet list.
 |[aws translate start-text-translation-job](https://docs.aws.amazon.com/cli/latest/reference/translate/start-text-translation-job.html)|[Start-TRNTextTranslationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TRNTextTranslationJob.html)|
 |[aws translate stop-text-translation-job](https://docs.aws.amazon.com/cli/latest/reference/translate/stop-text-translation-job.html)|[Stop-TRNTextTranslationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-TRNTextTranslationJob.html)|
 |[aws translate tag-resource](https://docs.aws.amazon.com/cli/latest/reference/translate/tag-resource.html)|[Add-TRNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TRNResourceTag.html)|
+|[aws translate translate-document](https://docs.aws.amazon.com/cli/latest/reference/translate/translate-document.html)|[ConvertTo-TRNDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/ConvertTo-TRNDocument.html)|
 |[aws translate translate-text](https://docs.aws.amazon.com/cli/latest/reference/translate/translate-text.html)|[ConvertTo-TRNTargetLanguage](https://docs.aws.amazon.com/powershell/latest/reference/items/ConvertTo-TRNTargetLanguage.html)|
 |[aws translate untag-resource](https://docs.aws.amazon.com/cli/latest/reference/translate/untag-resource.html)|[Remove-TRNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TRNResourceTag.html)|
 |[aws translate update-parallel-data](https://docs.aws.amazon.com/cli/latest/reference/translate/update-parallel-data.html)|[Update-TRNParallelData](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRNParallelData.html)|

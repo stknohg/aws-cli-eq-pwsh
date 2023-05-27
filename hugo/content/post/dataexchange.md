@@ -1,6 +1,6 @@
 ---
 title: dataexchange
-date: 2023-05-13
+date: 2023-05-27
 description: aws dataexchange (AWS Data Exchange) command/cmdlet list.
 ---
 

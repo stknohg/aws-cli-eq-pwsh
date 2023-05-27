@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2023-05-13
+date: 2023-05-27
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -79,6 +79,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 put-configuration-set-tracking-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-tracking-options.html)|[Write-SES2ConfigurationSetTrackingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetTrackingOption.html)|
 |[aws sesv2 put-configuration-set-vdm-options](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-configuration-set-vdm-options.html)|[Write-SES2ConfigurationSetVdmOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetVdmOption.html)|
 |[aws sesv2 put-dedicated-ip-in-pool](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-in-pool.html)|[Write-SES2DedicatedIpInPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpInPool.html)|
+|[aws sesv2 put-dedicated-ip-pool-scaling-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-pool-scaling-attributes.html)|[Write-SES2DedicatedIpPoolScalingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpPoolScalingAttribute.html)|
 |[aws sesv2 put-dedicated-ip-warmup-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-dedicated-ip-warmup-attributes.html)|[Write-SES2DedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DedicatedIpWarmupAttribute.html)|
 |[aws sesv2 put-deliverability-dashboard-option](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-deliverability-dashboard-option.html)|[Write-SES2DeliverabilityDashboardOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2DeliverabilityDashboardOption.html)|
 |[aws sesv2 put-email-identity-configuration-set-attributes](https://docs.aws.amazon.com/cli/latest/reference/sesv2/put-email-identity-configuration-set-attributes.html)|[Write-SES2EmailIdentityConfigurationSetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2EmailIdentityConfigurationSetAttribute.html)|

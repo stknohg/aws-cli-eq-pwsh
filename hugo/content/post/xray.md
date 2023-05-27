@@ -1,6 +1,6 @@
 ---
 title: xray
-date: 2023-05-13
+date: 2023-05-27
 description: aws xray (AWS X-Ray) command/cmdlet list.
 ---
 

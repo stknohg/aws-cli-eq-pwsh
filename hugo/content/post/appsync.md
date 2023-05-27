@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2023-05-13
+date: 2023-05-27
 description: aws appsync (AWS AppSync) command/cmdlet list.
 ---
 
@@ -14,6 +14,8 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws appsync associate-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/associate-api.html)|[Start-ASYNApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNApiAssociation.html)|
+|[aws appsync associate-merged-graphql-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/associate-merged-graphql-api.html)|[Start-ASYNMergedGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNMergedGraphqlApi.html)|
+|[aws appsync associate-source-graphql-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/associate-source-graphql-api.html)|[Start-ASYNSourceGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSourceGraphqlApi.html)|
 |[aws appsync create-api-cache](https://docs.aws.amazon.com/cli/latest/reference/appsync/create-api-cache.html)|[New-ASYNApiCache](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASYNApiCache.html)|
 |[aws appsync create-api-key](https://docs.aws.amazon.com/cli/latest/reference/appsync/create-api-key.html)|[New-ASYNApiKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASYNApiKey.html)|
 |[aws appsync create-data-source](https://docs.aws.amazon.com/cli/latest/reference/appsync/create-data-source.html)|[New-ASYNDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASYNDataSource.html)|
@@ -31,6 +33,8 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync delete-resolver](https://docs.aws.amazon.com/cli/latest/reference/appsync/delete-resolver.html)|[Remove-ASYNResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASYNResolver.html)|
 |[aws appsync delete-type](https://docs.aws.amazon.com/cli/latest/reference/appsync/delete-type.html)|[Remove-ASYNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASYNType.html)|
 |[aws appsync disassociate-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/disassociate-api.html)|[Stop-ASYNApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASYNApiAssociation.html)|
+|[aws appsync disassociate-merged-graphql-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/disassociate-merged-graphql-api.html)|[Stop-ASYNMergedGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASYNMergedGraphqlApi.html)|
+|[aws appsync disassociate-source-graphql-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/disassociate-source-graphql-api.html)|[Stop-ASYNSourceGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ASYNSourceGraphqlApi.html)|
 |[aws appsync evaluate-code](https://docs.aws.amazon.com/cli/latest/reference/appsync/evaluate-code.html)|[Test-ASYNCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ASYNCode.html)|
 |[aws appsync evaluate-mapping-template](https://docs.aws.amazon.com/cli/latest/reference/appsync/evaluate-mapping-template.html)|[Test-ASYNMappingTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ASYNMappingTemplate.html)|
 |[aws appsync flush-api-cache](https://docs.aws.amazon.com/cli/latest/reference/appsync/flush-api-cache.html)|[Clear-ASYNApiCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-ASYNApiCache.html)|
@@ -43,6 +47,7 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync get-introspection-schema](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-introspection-schema.html)|[Get-ASYNIntrospectionSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNIntrospectionSchema.html)|
 |[aws appsync get-resolver](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-resolver.html)|[Get-ASYNResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResolver.html)|
 |[aws appsync get-schema-creation-status](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-schema-creation-status.html)|[Get-ASYNSchemaCreationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNSchemaCreationStatus.html)|
+|[aws appsync get-source-api-association](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-source-api-association.html)|[Get-ASYNSourceApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNSourceApiAssociation.html)|
 |[aws appsync get-type](https://docs.aws.amazon.com/cli/latest/reference/appsync/get-type.html)|[Get-ASYNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNType.html)|
 |[aws appsync list-api-keys](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-api-keys.html)|[Get-ASYNApiKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNApiKeyList.html)|
 |[aws appsync list-data-sources](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-data-sources.html)|[Get-ASYNDataSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNDataSourceList.html)|
@@ -51,9 +56,12 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync list-graphql-apis](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-graphql-apis.html)|[Get-ASYNGraphqlApiList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNGraphqlApiList.html)|
 |[aws appsync list-resolvers](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-resolvers.html)|[Get-ASYNResolverList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResolverList.html)|
 |[aws appsync list-resolvers-by-function](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-resolvers-by-function.html)|[Get-ASYNResolverListByFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResolverListByFunction.html)|
+|[aws appsync list-source-api-associations](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-source-api-associations.html)|[Get-ASYNSourceApiAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNSourceApiAssociationList.html)|
 |[aws appsync list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-tags-for-resource.html)|[Get-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResourceTag.html)|
 |[aws appsync list-types](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-types.html)|[Get-ASYNTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypeList.html)|
+|[aws appsync list-types-by-association](https://docs.aws.amazon.com/cli/latest/reference/appsync/list-types-by-association.html)|[Get-ASYNTypesByAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypesByAssociationList.html)|
 |[aws appsync start-schema-creation](https://docs.aws.amazon.com/cli/latest/reference/appsync/start-schema-creation.html)|[Start-ASYNSchemaCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaCreation.html)|
+|[aws appsync start-schema-merge](https://docs.aws.amazon.com/cli/latest/reference/appsync/start-schema-merge.html)|[Start-ASYNSchemaMerge](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaMerge.html)|
 |[aws appsync tag-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/tag-resource.html)|[Add-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASYNResourceTag.html)|
 |[aws appsync untag-resource](https://docs.aws.amazon.com/cli/latest/reference/appsync/untag-resource.html)|[Remove-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASYNResourceTag.html)|
 |[aws appsync update-api-cache](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-api-cache.html)|[Update-ASYNApiCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNApiCache.html)|
@@ -63,5 +71,6 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync update-function](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-function.html)|[Update-ASYNFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNFunction.html)|
 |[aws appsync update-graphql-api](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-graphql-api.html)|[Update-ASYNGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNGraphqlApi.html)|
 |[aws appsync update-resolver](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-resolver.html)|[Update-ASYNResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNResolver.html)|
+|[aws appsync update-source-api-association](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-source-api-association.html)|[Update-ASYNSourceApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNSourceApiAssociation.html)|
 |[aws appsync update-type](https://docs.aws.amazon.com/cli/latest/reference/appsync/update-type.html)|[Update-ASYNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ASYNType.html)|
 

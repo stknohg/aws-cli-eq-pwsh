@@ -1,6 +1,6 @@
 ---
 title: iotsitewise
-date: 2023-05-13
+date: 2023-05-27
 description: aws iotsitewise (Amazon IoT SiteWise) command/cmdlet list.
 ---
 

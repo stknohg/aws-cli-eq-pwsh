@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-05-13
+date: 2023-05-27
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.11.20 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.332 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.11.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.341 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/CHANGELOG.md))
 
 ### Contents
 
@@ -233,6 +233,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elemental MediaLive](https://aws.amazon.com/medialive/)|[medialive]({{%relref "post/medialive.md" %}})|EML||
 |[AWS Elemental MediaPackage](https://aws.amazon.com/mediapackage/)|[mediapackage]({{%relref "post/mediapackage.md" %}})|EMP||
 |[AWS Elemental MediaPackage VOD](https://aws.amazon.com/mediapackage/)|[mediapackage-vod]({{%relref "post/mediapackage-vod.md" %}})|EMPV||
+|[AWS Elemental MediaPackage](https://aws.amazon.com/mediapackage/)|[mediapackagev2]({{%relref "post/mediapackagev2.md" %}})|MPV2||
 |[AWS Elemental MediaStore](https://aws.amazon.com/mediastore/)|[mediastore]({{%relref "post/mediastore.md" %}})|EMS||
 |[AWS Elemental MediaStore Data Plane](https://aws.amazon.com/mediastore/)|[mediastore-data]({{%relref "post/mediastore-data.md" %}})|EMSD||
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||

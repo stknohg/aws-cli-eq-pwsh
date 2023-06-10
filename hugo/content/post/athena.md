@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2023-05-27
+date: 2023-06-10
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena create-prepared-statement](https://docs.aws.amazon.com/cli/latest/reference/athena/create-prepared-statement.html)|[New-ATHPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHPreparedStatement.html)|
 |[aws athena create-presigned-notebook-url](https://docs.aws.amazon.com/cli/latest/reference/athena/create-presigned-notebook-url.html)|[New-ATHPresignedNotebookUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHPresignedNotebookUrl.html)|
 |[aws athena create-work-group](https://docs.aws.amazon.com/cli/latest/reference/athena/create-work-group.html)|[New-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHWorkGroup.html)|
+|[aws athena delete-capacity-reservation](https://docs.aws.amazon.com/cli/latest/reference/athena/delete-capacity-reservation.html)|[Remove-ATHCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHCapacityReservation.html)|
 |[aws athena delete-data-catalog](https://docs.aws.amazon.com/cli/latest/reference/athena/delete-data-catalog.html)|[Remove-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHDataCatalog.html)|
 |[aws athena delete-named-query](https://docs.aws.amazon.com/cli/latest/reference/athena/delete-named-query.html)|[Remove-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHNamedQuery.html)|
 |[aws athena delete-notebook](https://docs.aws.amazon.com/cli/latest/reference/athena/delete-notebook.html)|[Remove-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHNotebook.html)|

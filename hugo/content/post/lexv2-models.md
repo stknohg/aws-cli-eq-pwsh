@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2023-05-27
+date: 2023-06-10
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models create-resource-policy-statement](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-resource-policy-statement.html)|[New-LMBV2ResourcePolicyStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2ResourcePolicyStatement.html)|
 |[aws lexv2-models create-slot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-slot.html)|[New-LMBV2Slot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2Slot.html)|
 |[aws lexv2-models create-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-slot-type.html)|[New-LMBV2SlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2SlotType.html)|
+|[aws lexv2-models create-test-set-discrepancy-report](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-test-set-discrepancy-report.html)|[New-LMBV2TestSetDiscrepancyReport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2TestSetDiscrepancyReport.html)|
 |[aws lexv2-models create-upload-url](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/create-upload-url.html)|[New-LMBV2UploadUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LMBV2UploadUrl.html)|
 |[aws lexv2-models delete-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-bot.html)|[Remove-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Bot.html)|
 |[aws lexv2-models delete-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-bot-alias.html)|[Remove-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2BotAlias.html)|
@@ -40,6 +41,7 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models delete-resource-policy-statement](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-resource-policy-statement.html)|[Remove-LMBV2ResourcePolicyStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2ResourcePolicyStatement.html)|
 |[aws lexv2-models delete-slot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-slot.html)|[Remove-LMBV2Slot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Slot.html)|
 |[aws lexv2-models delete-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-slot-type.html)|[Remove-LMBV2SlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2SlotType.html)|
+|[aws lexv2-models delete-test-set](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-test-set.html)|[Remove-LMBV2TestSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2TestSet.html)|
 |[aws lexv2-models delete-utterances](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/delete-utterances.html)|[Remove-LMBV2Utterance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2Utterance.html)|
 |[aws lexv2-models describe-bot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot.html)|[Get-LMBV2Bot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Bot.html)|
 |[aws lexv2-models describe-bot-alias](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-bot-alias.html)|[Get-LMBV2BotAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotAlias.html)|
@@ -53,6 +55,11 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models describe-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-resource-policy.html)|[Get-LMBV2ResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ResourcePolicy.html)|
 |[aws lexv2-models describe-slot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-slot.html)|[Get-LMBV2Slot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2Slot.html)|
 |[aws lexv2-models describe-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-slot-type.html)|[Get-LMBV2SlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotType.html)|
+|[aws lexv2-models describe-test-execution](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-test-execution.html)|[Get-LMBV2TestExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestExecution.html)|
+|[aws lexv2-models describe-test-set](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-test-set.html)|[Get-LMBV2TestSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSet.html)|
+|[aws lexv2-models describe-test-set-discrepancy-report](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-test-set-discrepancy-report.html)|[Get-LMBV2TestSetDiscrepancyReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSetDiscrepancyReport.html)|
+|[aws lexv2-models describe-test-set-generation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/describe-test-set-generation.html)|[Get-LMBV2TestSetGeneration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSetGeneration.html)|
+|[aws lexv2-models get-test-execution-artifacts-url](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/get-test-execution-artifacts-url.html)|[Get-LMBV2TestExecutionArtifactsUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestExecutionArtifactsUrl.html)|
 |[aws lexv2-models list-aggregated-utterances](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-aggregated-utterances.html)|[Get-LMBV2AggregatedUtteranceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2AggregatedUtteranceList.html)|
 |[aws lexv2-models list-bot-aliases](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-aliases.html)|[Get-LMBV2BotAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotAliasList.html)|
 |[aws lexv2-models list-bot-locales](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-bot-locales.html)|[Get-LMBV2BotLocaleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2BotLocaleList.html)|
@@ -69,9 +76,15 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models list-slot-types](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-slot-types.html)|[Get-LMBV2SlotTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotTypeList.html)|
 |[aws lexv2-models list-slots](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-slots.html)|[Get-LMBV2SlotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotList.html)|
 |[aws lexv2-models list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-tags-for-resource.html)|[Get-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ResourceTag.html)|
+|[aws lexv2-models list-test-execution-result-items](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-test-execution-result-items.html)|[Get-LMBV2TestExecutionResultItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestExecutionResultItemList.html)|
+|[aws lexv2-models list-test-executions](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-test-executions.html)|[Get-LMBV2TestExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestExecutionList.html)|
+|[aws lexv2-models list-test-set-records](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-test-set-records.html)|[Get-LMBV2TestSetRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSetRecordList.html)|
+|[aws lexv2-models list-test-sets](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/list-test-sets.html)|[Get-LMBV2TestSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSetList.html)|
 |[aws lexv2-models search-associated-transcripts](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/search-associated-transcripts.html)|[Search-LMBV2AssociatedTranscript](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LMBV2AssociatedTranscript.html)|
 |[aws lexv2-models start-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-bot-recommendation.html)|[Start-LMBV2BotRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2BotRecommendation.html)|
 |[aws lexv2-models start-import](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-import.html)|[Start-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2Import.html)|
+|[aws lexv2-models start-test-execution](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-test-execution.html)|[Start-LMBV2TestExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2TestExecution.html)|
+|[aws lexv2-models start-test-set-generation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/start-test-set-generation.html)|[Start-LMBV2TestSetGeneration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2TestSetGeneration.html)|
 |[aws lexv2-models stop-bot-recommendation](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/stop-bot-recommendation.html)|[Stop-LMBV2BotRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LMBV2BotRecommendation.html)|
 |[aws lexv2-models tag-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/tag-resource.html)|[Add-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMBV2ResourceTag.html)|
 |[aws lexv2-models untag-resource](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/untag-resource.html)|[Remove-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMBV2ResourceTag.html)|
@@ -84,4 +97,5 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models update-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-resource-policy.html)|[Update-LMBV2ResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2ResourcePolicy.html)|
 |[aws lexv2-models update-slot](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-slot.html)|[Update-LMBV2Slot](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2Slot.html)|
 |[aws lexv2-models update-slot-type](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-slot-type.html)|[Update-LMBV2SlotType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2SlotType.html)|
+|[aws lexv2-models update-test-set](https://docs.aws.amazon.com/cli/latest/reference/lexv2-models/update-test-set.html)|[Update-LMBV2TestSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMBV2TestSet.html)|
 

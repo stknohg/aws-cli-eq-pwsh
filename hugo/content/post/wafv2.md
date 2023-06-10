@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2023-05-27
+date: 2023-06-10
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 
@@ -27,6 +27,8 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 delete-regex-pattern-set](https://docs.aws.amazon.com/cli/latest/reference/wafv2/delete-regex-pattern-set.html)|[Remove-WAF2RegexPatternSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2RegexPatternSet.html)|
 |[aws wafv2 delete-rule-group](https://docs.aws.amazon.com/cli/latest/reference/wafv2/delete-rule-group.html)|[Remove-WAF2RuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2RuleGroup.html)|
 |[aws wafv2 delete-web-acl](https://docs.aws.amazon.com/cli/latest/reference/wafv2/delete-web-acl.html)|[Remove-WAF2WebACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2WebACL.html)|
+|[aws wafv2 describe-all-managed-products](https://docs.aws.amazon.com/cli/latest/reference/wafv2/describe-all-managed-products.html)|[Get-WAF2AllManagedProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2AllManagedProduct.html)|
+|[aws wafv2 describe-managed-products-by-vendor](https://docs.aws.amazon.com/cli/latest/reference/wafv2/describe-managed-products-by-vendor.html)|[Get-WAF2ManagedProductsByVendor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ManagedProductsByVendor.html)|
 |[aws wafv2 describe-managed-rule-group](https://docs.aws.amazon.com/cli/latest/reference/wafv2/describe-managed-rule-group.html)|[Get-WAF2ManagedRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ManagedRuleGroup.html)|
 |[aws wafv2 disassociate-web-acl](https://docs.aws.amazon.com/cli/latest/reference/wafv2/disassociate-web-acl.html)|[Remove-WAF2WebACLFromResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2WebACLFromResource.html)|
 |[aws wafv2 generate-mobile-sdk-release-url](https://docs.aws.amazon.com/cli/latest/reference/wafv2/generate-mobile-sdk-release-url.html)|[New-WAF2MobileSdkReleaseUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2MobileSdkReleaseUrl.html)|

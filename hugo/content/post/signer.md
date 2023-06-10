@@ -1,6 +1,6 @@
 ---
 title: signer
-date: 2023-05-27
+date: 2023-06-10
 description: aws signer (AWS Signer) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws signer (AWS Signer) command/cmdlet list.
 |[aws signer add-profile-permission](https://docs.aws.amazon.com/cli/latest/reference/signer/add-profile-permission.html)||
 |[aws signer cancel-signing-profile](https://docs.aws.amazon.com/cli/latest/reference/signer/cancel-signing-profile.html)||
 |[aws signer describe-signing-job](https://docs.aws.amazon.com/cli/latest/reference/signer/describe-signing-job.html)||
+|[aws signer get-revocation-status](https://docs.aws.amazon.com/cli/latest/reference/signer/get-revocation-status.html)||
 |[aws signer get-signing-platform](https://docs.aws.amazon.com/cli/latest/reference/signer/get-signing-platform.html)||
 |[aws signer get-signing-profile](https://docs.aws.amazon.com/cli/latest/reference/signer/get-signing-profile.html)||
 |[aws signer list-profile-permissions](https://docs.aws.amazon.com/cli/latest/reference/signer/list-profile-permissions.html)||
@@ -27,6 +28,7 @@ description: aws signer (AWS Signer) command/cmdlet list.
 |[aws signer remove-profile-permission](https://docs.aws.amazon.com/cli/latest/reference/signer/remove-profile-permission.html)||
 |[aws signer revoke-signature](https://docs.aws.amazon.com/cli/latest/reference/signer/revoke-signature.html)||
 |[aws signer revoke-signing-profile](https://docs.aws.amazon.com/cli/latest/reference/signer/revoke-signing-profile.html)||
+|[aws signer sign-payload](https://docs.aws.amazon.com/cli/latest/reference/signer/sign-payload.html)||
 |[aws signer start-signing-job](https://docs.aws.amazon.com/cli/latest/reference/signer/start-signing-job.html)||
 |[aws signer tag-resource](https://docs.aws.amazon.com/cli/latest/reference/signer/tag-resource.html)||
 |[aws signer untag-resource](https://docs.aws.amazon.com/cli/latest/reference/signer/untag-resource.html)||

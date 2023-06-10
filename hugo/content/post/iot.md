@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2023-05-27
+date: 2023-06-10
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -43,6 +43,8 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot create-keys-and-certificate](https://docs.aws.amazon.com/cli/latest/reference/iot/create-keys-and-certificate.html)|[New-IOTKeysAndCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTKeysAndCertificate.html)|
 |[aws iot create-mitigation-action](https://docs.aws.amazon.com/cli/latest/reference/iot/create-mitigation-action.html)|[New-IOTMitigationAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTMitigationAction.html)|
 |[aws iot create-ota-update](https://docs.aws.amazon.com/cli/latest/reference/iot/create-ota-update.html)|[New-IOTOTAUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTOTAUpdate.html)|
+|[aws iot create-package](https://docs.aws.amazon.com/cli/latest/reference/iot/create-package.html)|[New-IOTPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTPackage.html)|
+|[aws iot create-package-version](https://docs.aws.amazon.com/cli/latest/reference/iot/create-package-version.html)|[New-IOTPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTPackageVersion.html)|
 |[aws iot create-policy](https://docs.aws.amazon.com/cli/latest/reference/iot/create-policy.html)|[New-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTPolicy.html)|
 |[aws iot create-policy-version](https://docs.aws.amazon.com/cli/latest/reference/iot/create-policy-version.html)|[New-IOTPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTPolicyVersion.html)|
 |[aws iot create-provisioning-claim](https://docs.aws.amazon.com/cli/latest/reference/iot/create-provisioning-claim.html)|[New-IOTProvisioningClaim](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTProvisioningClaim.html)|
@@ -73,6 +75,8 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot delete-job-template](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-job-template.html)|[Remove-IOTJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTJobTemplate.html)|
 |[aws iot delete-mitigation-action](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-mitigation-action.html)|[Remove-IOTMitigationAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTMitigationAction.html)|
 |[aws iot delete-ota-update](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-ota-update.html)|[Remove-IOTOTAUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTOTAUpdate.html)|
+|[aws iot delete-package](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-package.html)|[Remove-IOTPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTPackage.html)|
+|[aws iot delete-package-version](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-package-version.html)|[Remove-IOTPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTPackageVersion.html)|
 |[aws iot delete-policy](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-policy.html)|[Remove-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTPolicy.html)|
 |[aws iot delete-policy-version](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-policy-version.html)|[Remove-IOTPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTPolicyVersion.html)|
 |[aws iot delete-provisioning-template](https://docs.aws.amazon.com/cli/latest/reference/iot/delete-provisioning-template.html)|[Remove-IOTProvisioningTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTProvisioningTemplate.html)|
@@ -136,6 +140,9 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot get-job-document](https://docs.aws.amazon.com/cli/latest/reference/iot/get-job-document.html)|[Get-IOTJobDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobDocument.html)|
 |[aws iot get-logging-options](https://docs.aws.amazon.com/cli/latest/reference/iot/get-logging-options.html)|[Get-IOTLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTLoggingOption.html)|
 |[aws iot get-ota-update](https://docs.aws.amazon.com/cli/latest/reference/iot/get-ota-update.html)|[Get-IOTOTAUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOTAUpdate.html)|
+|[aws iot get-package](https://docs.aws.amazon.com/cli/latest/reference/iot/get-package.html)|[Get-IOTPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackage.html)|
+|[aws iot get-package-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/get-package-configuration.html)|[Get-IOTPackageConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackageConfiguration.html)|
+|[aws iot get-package-version](https://docs.aws.amazon.com/cli/latest/reference/iot/get-package-version.html)|[Get-IOTPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackageVersion.html)|
 |[aws iot get-percentiles](https://docs.aws.amazon.com/cli/latest/reference/iot/get-percentiles.html)|[Get-IOTPercentile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPercentile.html)|
 |[aws iot get-policy](https://docs.aws.amazon.com/cli/latest/reference/iot/get-policy.html)|[Get-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicy.html)|
 |[aws iot get-policy-version](https://docs.aws.amazon.com/cli/latest/reference/iot/get-policy-version.html)|[Get-IOTPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyVersion.html)|
@@ -172,6 +179,8 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-mitigation-actions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-mitigation-actions.html)|[Get-IOTMitigationActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMitigationActionList.html)|
 |[aws iot list-ota-updates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-ota-updates.html)|[Get-IOTOTAUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOTAUpdateList.html)|
 |[aws iot list-outgoing-certificates](https://docs.aws.amazon.com/cli/latest/reference/iot/list-outgoing-certificates.html)|[Get-IOTOutgoingCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTOutgoingCertificate.html)|
+|[aws iot list-package-versions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-package-versions.html)|[Get-IOTPackageVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackageVersionList.html)|
+|[aws iot list-packages](https://docs.aws.amazon.com/cli/latest/reference/iot/list-packages.html)|[Get-IOTPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackageList.html)|
 |[aws iot list-policies](https://docs.aws.amazon.com/cli/latest/reference/iot/list-policies.html)|[Get-IOTPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyList.html)|
 |[aws iot list-policy-principals](https://docs.aws.amazon.com/cli/latest/reference/iot/list-policy-principals.html)|[Get-IOTPolicyPrincipalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyPrincipalList.html)|
 |[aws iot list-policy-versions](https://docs.aws.amazon.com/cli/latest/reference/iot/list-policy-versions.html)|[Get-IOTPolicyVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyVersionList.html)|
@@ -241,6 +250,9 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot update-indexing-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/update-indexing-configuration.html)|[Update-IOTIndexingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTIndexingConfiguration.html)|
 |[aws iot update-job](https://docs.aws.amazon.com/cli/latest/reference/iot/update-job.html)|[Update-IOTJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTJob.html)|
 |[aws iot update-mitigation-action](https://docs.aws.amazon.com/cli/latest/reference/iot/update-mitigation-action.html)|[Update-IOTMitigationAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTMitigationAction.html)|
+|[aws iot update-package](https://docs.aws.amazon.com/cli/latest/reference/iot/update-package.html)|[Update-IOTPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTPackage.html)|
+|[aws iot update-package-configuration](https://docs.aws.amazon.com/cli/latest/reference/iot/update-package-configuration.html)|[Update-IOTPackageConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTPackageConfiguration.html)|
+|[aws iot update-package-version](https://docs.aws.amazon.com/cli/latest/reference/iot/update-package-version.html)|[Update-IOTPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTPackageVersion.html)|
 |[aws iot update-provisioning-template](https://docs.aws.amazon.com/cli/latest/reference/iot/update-provisioning-template.html)|[Update-IOTProvisioningTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTProvisioningTemplate.html)|
 |[aws iot update-role-alias](https://docs.aws.amazon.com/cli/latest/reference/iot/update-role-alias.html)|[Update-IOTRoleAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTRoleAlias.html)|
 |[aws iot update-scheduled-audit](https://docs.aws.amazon.com/cli/latest/reference/iot/update-scheduled-audit.html)|[Update-IOTScheduledAudit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTScheduledAudit.html)|

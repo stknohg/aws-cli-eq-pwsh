@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2023-05-27
+date: 2023-06-10
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 

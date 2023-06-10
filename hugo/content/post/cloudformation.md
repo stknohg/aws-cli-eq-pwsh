@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2023-05-27
+date: 2023-06-10
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws cloudformation activate-organizations-access](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/activate-organizations-access.html)|[Enable-CFNOrganizationsAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CFNOrganizationsAccess.html)|
 |[aws cloudformation activate-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/activate-type.html)|[Enable-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CFNType.html)|
 |[aws cloudformation batch-describe-type-configurations](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/batch-describe-type-configurations.html)|[Get-CFNDescribeTypeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNDescribeTypeConfiguration.html)|
 |[aws cloudformation cancel-update-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/cancel-update-stack.html)|[Stop-CFNUpdateStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFNUpdateStack.html)|
@@ -21,6 +22,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation create-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/create-stack.html)|[New-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFNStack.html)|
 |[aws cloudformation create-stack-instances](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/create-stack-instances.html)|[New-CFNStackInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFNStackInstance.html)|
 |[aws cloudformation create-stack-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/create-stack-set.html)|[New-CFNStackSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFNStackSet.html)|
+|[aws cloudformation deactivate-organizations-access](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deactivate-organizations-access.html)|[Disable-CFNOrganizationsAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CFNOrganizationsAccess.html)|
 |[aws cloudformation deactivate-type](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/deactivate-type.html)|[Disable-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CFNType.html)|
 |[aws cloudformation delete-change-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-change-set.html)|[Remove-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNChangeSet.html)|
 |[aws cloudformation delete-stack](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/delete-stack.html)|[Remove-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNStack.html)|
@@ -31,6 +33,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation describe-account-limits](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-account-limits.html)|[Get-CFNAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNAccountLimit.html)|
 |[aws cloudformation describe-change-set](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-change-set.html)|[Get-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSet.html)|
 |[aws cloudformation describe-change-set-hooks](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-change-set-hooks.html)|[Get-CFNChangeSetHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetHook.html)|
+|[aws cloudformation describe-organizations-access](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-organizations-access.html)|[Get-CFNOrganizationsAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNOrganizationsAccess.html)|
 |[aws cloudformation describe-publisher](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-publisher.html)|[Get-CFNPublisher](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNPublisher.html)|
 |[aws cloudformation describe-stack-drift-detection-status](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stack-drift-detection-status.html)|[Get-CFNStackDriftDetectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackDriftDetectionStatus.html)|
 |[aws cloudformation describe-stack-events](https://docs.aws.amazon.com/cli/latest/reference/cloudformation/describe-stack-events.html)|[Get-CFNStackEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackEvent.html)|

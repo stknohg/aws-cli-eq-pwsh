@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2023-05-27
+date: 2023-06-10
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -49,9 +49,11 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail register-organization-delegated-admin](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/register-organization-delegated-admin.html)|[Register-CTOrganizationDelegatedAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CTOrganizationDelegatedAdmin.html)|
 |[aws cloudtrail remove-tags](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/remove-tags.html)|[Remove-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTResourceTag.html)|
 |[aws cloudtrail restore-event-data-store](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/restore-event-data-store.html)|[Restore-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-CTEventDataStore.html)|
+|[aws cloudtrail start-event-data-store-ingestion](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-event-data-store-ingestion.html)|[Start-CTEventDataStoreIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTEventDataStoreIngestion.html)|
 |[aws cloudtrail start-import](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-import.html)|[Start-CTImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTImport.html)|
 |[aws cloudtrail start-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-logging.html)|[Start-CTLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTLogging.html)|
 |[aws cloudtrail start-query](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/start-query.html)|[Start-CTQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTQuery.html)|
+|[aws cloudtrail stop-event-data-store-ingestion](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/stop-event-data-store-ingestion.html)|[Stop-CTEventDataStoreIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CTEventDataStoreIngestion.html)|
 |[aws cloudtrail stop-import](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/stop-import.html)|[Stop-CTImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CTImport.html)|
 |[aws cloudtrail stop-logging](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/stop-logging.html)|[Stop-CTLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CTLogging.html)|
 |[aws cloudtrail update-channel](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail/update-channel.html)|[Update-CTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CTChannel.html)|

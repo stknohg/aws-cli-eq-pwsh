@@ -1,6 +1,6 @@
 ---
 title: timestream-write
-date: 2023-05-27
+date: 2023-06-10
 description: aws timestream-write (Amazon Timestream) command/cmdlet list.
 ---
 

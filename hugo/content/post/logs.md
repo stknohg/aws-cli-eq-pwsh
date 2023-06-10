@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2023-05-27
+date: 2023-06-10
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs create-export-task](https://docs.aws.amazon.com/cli/latest/reference/logs/create-export-task.html)|[New-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLExportTask.html)|
 |[aws logs create-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/create-log-group.html)|[New-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogGroup.html)|
 |[aws logs create-log-stream](https://docs.aws.amazon.com/cli/latest/reference/logs/create-log-stream.html)|[New-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogStream.html)|
+|[aws logs delete-account-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-account-policy.html)|[Remove-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLAccountPolicy.html)|
 |[aws logs delete-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-data-protection-policy.html)|[Remove-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDataProtectionPolicy.html)|
 |[aws logs delete-destination](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-destination.html)|[Remove-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDestination.html)|
 |[aws logs delete-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-log-group.html)|[Remove-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroup.html)|
@@ -27,6 +28,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs delete-resource-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-resource-policy.html)|[Remove-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLResourcePolicy.html)|
 |[aws logs delete-retention-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-retention-policy.html)|[Remove-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLRetentionPolicy.html)|
 |[aws logs delete-subscription-filter](https://docs.aws.amazon.com/cli/latest/reference/logs/delete-subscription-filter.html)|[Remove-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLSubscriptionFilter.html)|
+|[aws logs describe-account-policies](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-account-policies.html)|[Get-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAccountPolicy.html)|
 |[aws logs describe-destinations](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-destinations.html)|[Get-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLDestination.html)|
 |[aws logs describe-export-tasks](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-export-tasks.html)|[Get-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLExportTask.html)|
 |[aws logs describe-log-groups](https://docs.aws.amazon.com/cli/latest/reference/logs/describe-log-groups.html)|[Get-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroup.html)|
@@ -45,6 +47,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs get-query-results](https://docs.aws.amazon.com/cli/latest/reference/logs/get-query-results.html)|[Get-CWLQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQueryResult.html)|
 |[aws logs list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs list-tags-log-group](https://docs.aws.amazon.com/cli/latest/reference/logs/list-tags-log-group.html)|[Get-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupTag.html)|
+|[aws logs put-account-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-account-policy.html)|[Write-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLAccountPolicy.html)|
 |[aws logs put-data-protection-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-data-protection-policy.html)|[Write-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDataProtectionPolicy.html)|
 |[aws logs put-destination](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination.html)|[Write-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestination.html)|
 |[aws logs put-destination-policy](https://docs.aws.amazon.com/cli/latest/reference/logs/put-destination-policy.html)|[Write-CWLDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDestinationPolicy.html)|

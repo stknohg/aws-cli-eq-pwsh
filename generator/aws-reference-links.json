@@ -241,6 +241,8 @@
   "osis": "https://docs.aws.amazon.com/powershell/latest/reference/items/OSIS_cmdlets.html",
   "outposts": "https://docs.aws.amazon.com/powershell/latest/reference/items/Outposts_cmdlets.html",
   "panorama": "https://docs.aws.amazon.com/powershell/latest/reference/items/Panorama_cmdlets.html",
+  "payment-cryptography": "https://docs.aws.amazon.com/powershell/latest/reference/items/PaymentCryptography_cmdlets.html",
+  "payment-cryptography-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/PaymentCryptographyData_cmdlets.html",
   "personalize": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_cmdlets.html",
   "personalize-events": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Personalize_Events_cmdlets.html",
   "personalize-runtime": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_Runtime_cmdlets.html",

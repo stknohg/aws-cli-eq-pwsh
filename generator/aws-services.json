@@ -1457,6 +1457,18 @@
     "Url": "https://aws.amazon.com/panorama/",
     "Note": ""
   },
+  "payment-cryptography": {
+    "Prefix": "PAYCC",
+    "Name": "AWS Payment Cryptography Control Plane",
+    "Url": "https://docs.aws.amazon.com/payment-cryptography/",
+    "Note": ""
+  },
+  "payment-cryptography-data": {
+    "Prefix": "PAYCD",
+    "Name": "AWS Payment Cryptography Data Plane",
+    "Url": "https://docs.aws.amazon.com/payment-cryptography/",
+    "Note": ""
+  },
   "personalize": {
     "Prefix": "PERS",
     "Name": "Amazon Personalize",

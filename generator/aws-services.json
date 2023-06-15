@@ -359,6 +359,12 @@
     "Url": "https://aws.amazon.com/codeguru/",
     "Note": ""
   },
+  "codeguru-security": {
+    "Prefix": "CGS",
+    "Name": "Amazon CodeGuru Security",
+    "Url": "https://aws.amazon.com/codeguru/",
+    "Note": ""
+  },
   "codeguruprofiler": {
     "Prefix": "CGP",
     "Name": "Amazon CodeGuru Profiler",
@@ -2013,6 +2019,12 @@
     "Prefix": "TRN",
     "Name": "Amazon Translate",
     "Url": "https://aws.amazon.com/translate/",
+    "Note": ""
+  },
+  "verifiedpermissions": {
+    "Prefix": "AVP",
+    "Name": "Amazon Verified Permissions",
+    "Url": "https://aws.amazon.com/verified-permissions/",
     "Note": ""
   },
   "voice-id": {

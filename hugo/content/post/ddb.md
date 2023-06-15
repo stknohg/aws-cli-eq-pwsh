@@ -1,6 +1,6 @@
 ---
 title: ddb
-date: 2023-06-10
+date: 2023-06-15
 description: aws ddb (Amazon DynamoDB) command/cmdlet list.
 ---
 
@@ -8,11 +8,11 @@ description: aws ddb (Amazon DynamoDB) command/cmdlet list.
 
 ### [Amazon DynamoDB](https://aws.amazon.com/dynamodb/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/ddb/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ddb/index.html)
 * Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws ddb put](https://docs.aws.amazon.com/cli/latest/reference/ddb/put.html)||
-|[aws ddb select](https://docs.aws.amazon.com/cli/latest/reference/ddb/select.html)||
+|[aws ddb put](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ddb/put.html)||
+|[aws ddb select](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ddb/select.html)||
 

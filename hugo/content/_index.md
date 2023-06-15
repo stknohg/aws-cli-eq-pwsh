@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-06-10
+date: 2023-06-15
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.11.27 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.350 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.12.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.352 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -80,6 +80,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CodeCatalyst](https://aws.amazon.com/codecatalyst/)|[codecatalyst]({{%relref "post/codecatalyst.md" %}})|CCAT||
 |[AWS CodeCommit](https://aws.amazon.com/codecommit/)|[codecommit]({{%relref "post/codecommit.md" %}})|CC||
 |[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)|[codeguru-reviewer]({{%relref "post/codeguru-reviewer.md" %}})|CGR||
+|[Amazon CodeGuru Security](https://aws.amazon.com/codeguru/)|[codeguru-security]({{%relref "post/codeguru-security.md" %}})|CGS||
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||
 |[AWS CodePipeline](https://aws.amazon.com/codepipeline/)|[codepipeline]({{%relref "post/codepipeline.md" %}})|CP||
 |[AWS CodeStar](https://aws.amazon.com/codestar/)|[codestar]({{%relref "post/codestar.md" %}})|CST||
@@ -356,6 +357,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
+|[Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)|[verifiedpermissions]({{%relref "post/verifiedpermissions.md" %}})|AVP||
 |[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||
 |[Amazon VPC Lattice](https://aws.amazon.com/vpc/lattice/)|[vpc-lattice]({{%relref "post/vpc-lattice.md" %}})|VPCL||
 |[AWS WAF](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||

@@ -1,6 +1,6 @@
 ---
 title: cloudtrail-data
-date: 2023-06-10
+date: 2023-06-15
 description: aws cloudtrail-data (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -8,10 +8,10 @@ description: aws cloudtrail-data (AWS CloudTrail) command/cmdlet list.
 
 ### [AWS CloudTrail](https://aws.amazon.com/cloudtrail/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail-data/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail-data/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CloudTrailData_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws cloudtrail-data put-audit-events](https://docs.aws.amazon.com/cli/latest/reference/cloudtrail-data/put-audit-events.html)|[Write-CTDAuditEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTDAuditEvent.html)|
+|[aws cloudtrail-data put-audit-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail-data/put-audit-events.html)|[Write-CTDAuditEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTDAuditEvent.html)|
 

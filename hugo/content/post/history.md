@@ -1,6 +1,6 @@
 ---
 title: history
-date: 2023-06-10
+date: 2023-06-15
 description: aws history (-) command/cmdlet list.
 ---
 
@@ -8,11 +8,11 @@ description: aws history (-) command/cmdlet list.
 
 ### -
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/history/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/history/index.html)
 * Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws history list](https://docs.aws.amazon.com/cli/latest/reference/history/list.html)||
-|[aws history show](https://docs.aws.amazon.com/cli/latest/reference/history/show.html)||
+|[aws history list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/history/list.html)||
+|[aws history show](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/history/show.html)||
 

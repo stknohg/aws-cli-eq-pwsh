@@ -1,6 +1,6 @@
 ---
 title: connect-contact-lens
-date: 2023-06-10
+date: 2023-06-15
 description: aws connect-contact-lens (Contact Lens for Amazon Connect) command/cmdlet list.
 ---
 
@@ -8,10 +8,10 @@ description: aws connect-contact-lens (Contact Lens for Amazon Connect) command/
 
 ### [Contact Lens for Amazon Connect](https://aws.amazon.com/connect/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/connect-contact-lens/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect-contact-lens/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectContactLens_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws connect-contact-lens list-realtime-contact-analysis-segments](https://docs.aws.amazon.com/cli/latest/reference/connect-contact-lens/list-realtime-contact-analysis-segments.html)|[Get-CCLRealtimeContactAnalysisSegmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCLRealtimeContactAnalysisSegmentList.html)|
+|[aws connect-contact-lens list-realtime-contact-analysis-segments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect-contact-lens/list-realtime-contact-analysis-segments.html)|[Get-CCLRealtimeContactAnalysisSegmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCLRealtimeContactAnalysisSegmentList.html)|
 

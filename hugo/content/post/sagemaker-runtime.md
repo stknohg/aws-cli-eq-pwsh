@@ -1,6 +1,6 @@
 ---
 title: sagemaker-runtime
-date: 2023-06-10
+date: 2023-06-15
 description: aws sagemaker-runtime (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -8,11 +8,11 @@ description: aws sagemaker-runtime (Amazon SageMaker) command/cmdlet list.
 
 ### [Amazon SageMaker](https://aws.amazon.com/sagemaker/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-runtime/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws sagemaker-runtime invoke-endpoint](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/invoke-endpoint.html)|[Invoke-SMREndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpoint.html)|
-|[aws sagemaker-runtime invoke-endpoint-async](https://docs.aws.amazon.com/cli/latest/reference/sagemaker-runtime/invoke-endpoint-async.html)|[Invoke-SMREndpointAsync](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpointAsync.html)|
+|[aws sagemaker-runtime invoke-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-runtime/invoke-endpoint.html)|[Invoke-SMREndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpoint.html)|
+|[aws sagemaker-runtime invoke-endpoint-async](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-runtime/invoke-endpoint-async.html)|[Invoke-SMREndpointAsync](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SMREndpointAsync.html)|
 

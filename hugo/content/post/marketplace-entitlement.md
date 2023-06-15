@@ -1,6 +1,6 @@
 ---
 title: marketplace-entitlement
-date: 2023-06-10
+date: 2023-06-15
 description: aws marketplace-entitlement (AWS Marketplace Entitlement Service) command/cmdlet list.
 ---
 
@@ -8,10 +8,10 @@ description: aws marketplace-entitlement (AWS Marketplace Entitlement Service) c
 
 ### [AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/marketplace-entitlement/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-entitlement/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Entitlement_Service_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws marketplace-entitlement get-entitlements](https://docs.aws.amazon.com/cli/latest/reference/marketplace-entitlement/get-entitlements.html)|[Get-MESEntitlementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MESEntitlementList.html)|
+|[aws marketplace-entitlement get-entitlements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-entitlement/get-entitlements.html)|[Get-MESEntitlementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MESEntitlementList.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: apigatewaymanagementapi
-date: 2023-06-10
+date: 2023-06-15
 description: aws apigatewaymanagementapi (Amazon API Gateway Management) command/cmdlet list.
 ---
 
@@ -8,12 +8,12 @@ description: aws apigatewaymanagementapi (Amazon API Gateway Management) command
 
 ### [Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewaymanagementapi/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_Management_API_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws apigatewaymanagementapi delete-connection](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/delete-connection.html)|[Remove-AGMConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGMConnection.html)|
-|[aws apigatewaymanagementapi get-connection](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/get-connection.html)|[Get-AGMConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGMConnection.html)|
-|[aws apigatewaymanagementapi post-to-connection](https://docs.aws.amazon.com/cli/latest/reference/apigatewaymanagementapi/post-to-connection.html)|[Send-AGMDataToConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-AGMDataToConnection.html)|
+|[aws apigatewaymanagementapi delete-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewaymanagementapi/delete-connection.html)|[Remove-AGMConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGMConnection.html)|
+|[aws apigatewaymanagementapi get-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewaymanagementapi/get-connection.html)|[Get-AGMConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGMConnection.html)|
+|[aws apigatewaymanagementapi post-to-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewaymanagementapi/post-to-connection.html)|[Send-AGMDataToConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-AGMDataToConnection.html)|
 

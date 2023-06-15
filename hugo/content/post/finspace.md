@@ -1,6 +1,6 @@
 ---
 title: finspace
-date: 2023-06-10
+date: 2023-06-15
 description: aws finspace (Amazon FinSpace) command/cmdlet list.
 ---
 
@@ -8,43 +8,43 @@ description: aws finspace (Amazon FinSpace) command/cmdlet list.
 
 ### [Amazon FinSpace](https://aws.amazon.com/finspace/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/finspace/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Finspace_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws finspace create-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/create-environment.html)|[New-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPEnvironment.html)|
-|[aws finspace create-kx-changeset](https://docs.aws.amazon.com/cli/latest/reference/finspace/create-kx-changeset.html)|[New-FINSPKxChangeset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxChangeset.html)|
-|[aws finspace create-kx-cluster](https://docs.aws.amazon.com/cli/latest/reference/finspace/create-kx-cluster.html)|[New-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxCluster.html)|
-|[aws finspace create-kx-database](https://docs.aws.amazon.com/cli/latest/reference/finspace/create-kx-database.html)|[New-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxDatabase.html)|
-|[aws finspace create-kx-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/create-kx-environment.html)|[New-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxEnvironment.html)|
-|[aws finspace create-kx-user](https://docs.aws.amazon.com/cli/latest/reference/finspace/create-kx-user.html)|[New-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxUser.html)|
-|[aws finspace delete-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/delete-environment.html)|[Remove-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPEnvironment.html)|
-|[aws finspace delete-kx-cluster](https://docs.aws.amazon.com/cli/latest/reference/finspace/delete-kx-cluster.html)|[Remove-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxCluster.html)|
-|[aws finspace delete-kx-database](https://docs.aws.amazon.com/cli/latest/reference/finspace/delete-kx-database.html)|[Remove-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxDatabase.html)|
-|[aws finspace delete-kx-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/delete-kx-environment.html)|[Remove-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxEnvironment.html)|
-|[aws finspace delete-kx-user](https://docs.aws.amazon.com/cli/latest/reference/finspace/delete-kx-user.html)|[Remove-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxUser.html)|
-|[aws finspace get-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-environment.html)|[Get-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPEnvironment.html)|
-|[aws finspace get-kx-changeset](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-kx-changeset.html)|[Get-FINSPKxChangeset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxChangeset.html)|
-|[aws finspace get-kx-cluster](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-kx-cluster.html)|[Get-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxCluster.html)|
-|[aws finspace get-kx-connection-string](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-kx-connection-string.html)|[Get-FINSPKxConnectionString](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxConnectionString.html)|
-|[aws finspace get-kx-database](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-kx-database.html)|[Get-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxDatabase.html)|
-|[aws finspace get-kx-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-kx-environment.html)|[Get-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxEnvironment.html)|
-|[aws finspace get-kx-user](https://docs.aws.amazon.com/cli/latest/reference/finspace/get-kx-user.html)|[Get-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxUser.html)|
-|[aws finspace list-environments](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-environments.html)|[Get-FINSPEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPEnvironmentList.html)|
-|[aws finspace list-kx-changesets](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-kx-changesets.html)|[Get-FINSPKxChangesetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxChangesetList.html)|
-|[aws finspace list-kx-cluster-nodes](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-kx-cluster-nodes.html)|[Get-FINSPKxClusterNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxClusterNodeList.html)|
-|[aws finspace list-kx-clusters](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-kx-clusters.html)|[Get-FINSPKxClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxClusterList.html)|
-|[aws finspace list-kx-databases](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-kx-databases.html)|[Get-FINSPKxDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxDatabasisList.html)|
-|[aws finspace list-kx-environments](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-kx-environments.html)|[Get-FINSPKxEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxEnvironmentList.html)|
-|[aws finspace list-kx-users](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-kx-users.html)|[Get-FINSPKxUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxUserList.html)|
-|[aws finspace list-tags-for-resource](https://docs.aws.amazon.com/cli/latest/reference/finspace/list-tags-for-resource.html)|[Get-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPResourceTag.html)|
-|[aws finspace tag-resource](https://docs.aws.amazon.com/cli/latest/reference/finspace/tag-resource.html)|[Add-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FINSPResourceTag.html)|
-|[aws finspace untag-resource](https://docs.aws.amazon.com/cli/latest/reference/finspace/untag-resource.html)|[Remove-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPResourceTag.html)|
-|[aws finspace update-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/update-environment.html)|[Update-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPEnvironment.html)|
-|[aws finspace update-kx-cluster-databases](https://docs.aws.amazon.com/cli/latest/reference/finspace/update-kx-cluster-databases.html)|[Update-FINSPKxClusterDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxClusterDatabasis.html)|
-|[aws finspace update-kx-database](https://docs.aws.amazon.com/cli/latest/reference/finspace/update-kx-database.html)|[Update-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxDatabase.html)|
-|[aws finspace update-kx-environment](https://docs.aws.amazon.com/cli/latest/reference/finspace/update-kx-environment.html)|[Update-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxEnvironment.html)|
-|[aws finspace update-kx-environment-network](https://docs.aws.amazon.com/cli/latest/reference/finspace/update-kx-environment-network.html)|[Update-FINSPKxEnvironmentNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxEnvironmentNetwork.html)|
-|[aws finspace update-kx-user](https://docs.aws.amazon.com/cli/latest/reference/finspace/update-kx-user.html)|[Update-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxUser.html)|
+|[aws finspace create-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-environment.html)|[New-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPEnvironment.html)|
+|[aws finspace create-kx-changeset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-kx-changeset.html)|[New-FINSPKxChangeset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxChangeset.html)|
+|[aws finspace create-kx-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-kx-cluster.html)|[New-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxCluster.html)|
+|[aws finspace create-kx-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-kx-database.html)|[New-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxDatabase.html)|
+|[aws finspace create-kx-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-kx-environment.html)|[New-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxEnvironment.html)|
+|[aws finspace create-kx-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-kx-user.html)|[New-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxUser.html)|
+|[aws finspace delete-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-environment.html)|[Remove-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPEnvironment.html)|
+|[aws finspace delete-kx-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-cluster.html)|[Remove-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxCluster.html)|
+|[aws finspace delete-kx-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-database.html)|[Remove-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxDatabase.html)|
+|[aws finspace delete-kx-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-environment.html)|[Remove-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxEnvironment.html)|
+|[aws finspace delete-kx-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-user.html)|[Remove-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxUser.html)|
+|[aws finspace get-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-environment.html)|[Get-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPEnvironment.html)|
+|[aws finspace get-kx-changeset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-kx-changeset.html)|[Get-FINSPKxChangeset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxChangeset.html)|
+|[aws finspace get-kx-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-kx-cluster.html)|[Get-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxCluster.html)|
+|[aws finspace get-kx-connection-string](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-kx-connection-string.html)|[Get-FINSPKxConnectionString](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxConnectionString.html)|
+|[aws finspace get-kx-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-kx-database.html)|[Get-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxDatabase.html)|
+|[aws finspace get-kx-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-kx-environment.html)|[Get-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxEnvironment.html)|
+|[aws finspace get-kx-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/get-kx-user.html)|[Get-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxUser.html)|
+|[aws finspace list-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-environments.html)|[Get-FINSPEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPEnvironmentList.html)|
+|[aws finspace list-kx-changesets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-kx-changesets.html)|[Get-FINSPKxChangesetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxChangesetList.html)|
+|[aws finspace list-kx-cluster-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-kx-cluster-nodes.html)|[Get-FINSPKxClusterNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxClusterNodeList.html)|
+|[aws finspace list-kx-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-kx-clusters.html)|[Get-FINSPKxClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxClusterList.html)|
+|[aws finspace list-kx-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-kx-databases.html)|[Get-FINSPKxDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxDatabasisList.html)|
+|[aws finspace list-kx-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-kx-environments.html)|[Get-FINSPKxEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxEnvironmentList.html)|
+|[aws finspace list-kx-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-kx-users.html)|[Get-FINSPKxUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPKxUserList.html)|
+|[aws finspace list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/list-tags-for-resource.html)|[Get-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FINSPResourceTag.html)|
+|[aws finspace tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/tag-resource.html)|[Add-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FINSPResourceTag.html)|
+|[aws finspace untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/untag-resource.html)|[Remove-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPResourceTag.html)|
+|[aws finspace update-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-environment.html)|[Update-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPEnvironment.html)|
+|[aws finspace update-kx-cluster-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-cluster-databases.html)|[Update-FINSPKxClusterDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxClusterDatabasis.html)|
+|[aws finspace update-kx-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-database.html)|[Update-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxDatabase.html)|
+|[aws finspace update-kx-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-environment.html)|[Update-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxEnvironment.html)|
+|[aws finspace update-kx-environment-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-environment-network.html)|[Update-FINSPKxEnvironmentNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxEnvironmentNetwork.html)|
+|[aws finspace update-kx-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-user.html)|[Update-FINSPKxUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxUser.html)|
 

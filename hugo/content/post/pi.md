@@ -1,6 +1,6 @@
 ---
 title: pi
-date: 2023-06-10
+date: 2023-06-15
 description: aws pi (AWS Performance Insights) command/cmdlet list.
 ---
 
@@ -8,15 +8,15 @@ description: aws pi (AWS Performance Insights) command/cmdlet list.
 
 ### [AWS Performance Insights](https://aws.amazon.com/rds/performance-insights/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/pi/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Performance_Insights_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws pi describe-dimension-keys](https://docs.aws.amazon.com/cli/latest/reference/pi/describe-dimension-keys.html)|[Get-PIDimensionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIDimensionKey.html)|
-|[aws pi get-dimension-key-details](https://docs.aws.amazon.com/cli/latest/reference/pi/get-dimension-key-details.html)|[Get-PIDimensionKeyDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIDimensionKeyDetail.html)|
-|[aws pi get-resource-metadata](https://docs.aws.amazon.com/cli/latest/reference/pi/get-resource-metadata.html)|[Get-PIResourceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceMetadata.html)|
-|[aws pi get-resource-metrics](https://docs.aws.amazon.com/cli/latest/reference/pi/get-resource-metrics.html)|[Get-PIResourceMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceMetric.html)|
-|[aws pi list-available-resource-dimensions](https://docs.aws.amazon.com/cli/latest/reference/pi/list-available-resource-dimensions.html)|[Get-PIAvailableResourceDimensionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIAvailableResourceDimensionList.html)|
-|[aws pi list-available-resource-metrics](https://docs.aws.amazon.com/cli/latest/reference/pi/list-available-resource-metrics.html)|[Get-PIAvailableResourceMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIAvailableResourceMetricList.html)|
+|[aws pi describe-dimension-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/describe-dimension-keys.html)|[Get-PIDimensionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIDimensionKey.html)|
+|[aws pi get-dimension-key-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/get-dimension-key-details.html)|[Get-PIDimensionKeyDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIDimensionKeyDetail.html)|
+|[aws pi get-resource-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/get-resource-metadata.html)|[Get-PIResourceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceMetadata.html)|
+|[aws pi get-resource-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/get-resource-metrics.html)|[Get-PIResourceMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceMetric.html)|
+|[aws pi list-available-resource-dimensions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-available-resource-dimensions.html)|[Get-PIAvailableResourceDimensionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIAvailableResourceDimensionList.html)|
+|[aws pi list-available-resource-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-available-resource-metrics.html)|[Get-PIAvailableResourceMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIAvailableResourceMetricList.html)|
 

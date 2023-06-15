@@ -1,6 +1,6 @@
 ---
 title: iot-data
-date: 2023-06-10
+date: 2023-06-15
 description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 ---
 
@@ -8,16 +8,16 @@ description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 
 ### [AWS IoT-Data](https://aws.amazon.com/iot/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/iot-data/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/index.html)
 * Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws iot-data delete-thing-shadow](https://docs.aws.amazon.com/cli/latest/reference/iot-data/delete-thing-shadow.html)||
-|[aws iot-data get-retained-message](https://docs.aws.amazon.com/cli/latest/reference/iot-data/get-retained-message.html)||
-|[aws iot-data get-thing-shadow](https://docs.aws.amazon.com/cli/latest/reference/iot-data/get-thing-shadow.html)||
-|[aws iot-data list-named-shadows-for-thing](https://docs.aws.amazon.com/cli/latest/reference/iot-data/list-named-shadows-for-thing.html)||
-|[aws iot-data list-retained-messages](https://docs.aws.amazon.com/cli/latest/reference/iot-data/list-retained-messages.html)||
-|[aws iot-data publish](https://docs.aws.amazon.com/cli/latest/reference/iot-data/publish.html)||
-|[aws iot-data update-thing-shadow](https://docs.aws.amazon.com/cli/latest/reference/iot-data/update-thing-shadow.html)||
+|[aws iot-data delete-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/delete-thing-shadow.html)||
+|[aws iot-data get-retained-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-retained-message.html)||
+|[aws iot-data get-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-thing-shadow.html)||
+|[aws iot-data list-named-shadows-for-thing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/list-named-shadows-for-thing.html)||
+|[aws iot-data list-retained-messages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/list-retained-messages.html)||
+|[aws iot-data publish](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/publish.html)||
+|[aws iot-data update-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/update-thing-shadow.html)||
 

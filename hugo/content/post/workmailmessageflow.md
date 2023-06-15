@@ -1,6 +1,6 @@
 ---
 title: workmailmessageflow
-date: 2023-06-10
+date: 2023-06-15
 description: aws workmailmessageflow (Amazon WorkMail Message Flow) command/cmdlet list.
 ---
 
@@ -8,11 +8,11 @@ description: aws workmailmessageflow (Amazon WorkMail Message Flow) command/cmdl
 
 ### [Amazon WorkMail Message Flow](https://aws.amazon.com/workmail/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/workmailmessageflow/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmailmessageflow/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMailMessageFlow_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws workmailmessageflow get-raw-message-content](https://docs.aws.amazon.com/cli/latest/reference/workmailmessageflow/get-raw-message-content.html)|[Get-WMMFRawMessageContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMFRawMessageContent.html)|
-|[aws workmailmessageflow put-raw-message-content](https://docs.aws.amazon.com/cli/latest/reference/workmailmessageflow/put-raw-message-content.html)|[Write-WMMFRawMessageContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMMFRawMessageContent.html)|
+|[aws workmailmessageflow get-raw-message-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmailmessageflow/get-raw-message-content.html)|[Get-WMMFRawMessageContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMFRawMessageContent.html)|
+|[aws workmailmessageflow put-raw-message-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmailmessageflow/put-raw-message-content.html)|[Write-WMMFRawMessageContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WMMFRawMessageContent.html)|
 

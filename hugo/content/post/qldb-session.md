@@ -1,6 +1,6 @@
 ---
 title: qldb-session
-date: 2023-06-10
+date: 2023-06-15
 description: aws qldb-session (Amazon QLDB Session) command/cmdlet list.
 ---
 
@@ -8,10 +8,10 @@ description: aws qldb-session (Amazon QLDB Session) command/cmdlet list.
 
 ### [Amazon QLDB Session](https://aws.amazon.com/qldb/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/qldb-session/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qldb-session/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/QLDBSession_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws qldb-session send-command](https://docs.aws.amazon.com/cli/latest/reference/qldb-session/send-command.html)|[Send-QLDBSCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-QLDBSCommand.html)|
+|[aws qldb-session send-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qldb-session/send-command.html)|[Send-QLDBSCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-QLDBSCommand.html)|
 

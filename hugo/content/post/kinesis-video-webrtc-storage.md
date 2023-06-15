@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-webrtc-storage
-date: 2023-06-10
+date: 2023-06-15
 description: aws kinesis-video-webrtc-storage (Amazon Kinesis Video WebRTC Storage) command/cmdlet list.
 ---
 
@@ -8,10 +8,10 @@ description: aws kinesis-video-webrtc-storage (Amazon Kinesis Video WebRTC Stora
 
 ### [Amazon Kinesis Video WebRTC Storage](https://aws.amazon.com/kinesis/)
 
-* [CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-webrtc-storage/index.html)
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis-video-webrtc-storage/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/KinesisVideoWebRTCStorage_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws kinesis-video-webrtc-storage join-storage-session](https://docs.aws.amazon.com/cli/latest/reference/kinesis-video-webrtc-storage/join-storage-session.html)|[Join-KVWSStorageSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-KVWSStorageSession.html)|
+|[aws kinesis-video-webrtc-storage join-storage-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis-video-webrtc-storage/join-storage-session.html)|[Join-KVWSStorageSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-KVWSStorageSession.html)|
 

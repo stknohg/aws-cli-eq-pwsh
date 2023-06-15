@@ -194,7 +194,7 @@ function Export-PostPageMarkdown {
         $displayUrl = $metadata.Url
     }
     $displayUrllink = if ($displayUrl -eq '') {$displayName} else {"[$displayName]($displayUrl)"}
-    $cliUrlLink = "[CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/index.html)"
+    $cliUrlLink = "[CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/$ServiceName/index.html)"
     $cmdletUrlLink = if ($null -eq $g_CmdletReferenceLinks[$ServiceName] -or $g_CmdletReferenceLinks[$ServiceName] -eq '') {"Cmdlet Reference"} else {"[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))"}
     $markdown = if ($null -eq $Commands) {
         & {
@@ -267,7 +267,7 @@ function Get-CLISubCommands {
             }
             # Get-AWSCmdletName は1つの AwsCliCommand から複数の Cmdlet を返す場合がある
             $awsCLISubcommandName = $cliTokens[2]
-            $awsCLIUrl = "https://docs.aws.amazon.com/cli/latest/reference/$ServiceName/$awsCLISubcommandName.html"
+            $awsCLIUrl = "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/$ServiceName/$awsCLISubcommandName.html"
             # Fix #2 : Since AWS Tools for PowerShell 4, Get-AWSCmdletName -AwsCliCommand is obsolete.
             $cmdletNames = Get-AWSCmdletName -Service $searchService -ApiOperation $searchOperation
             if($null -eq $cmdletNames) {

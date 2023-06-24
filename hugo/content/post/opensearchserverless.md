@@ -1,6 +1,6 @@
 ---
 title: opensearchserverless
-date: 2023-06-15
+date: 2023-06-24
 description: aws opensearchserverless (Amazon OpenSearch Serverless) command/cmdlet list.
 ---
 

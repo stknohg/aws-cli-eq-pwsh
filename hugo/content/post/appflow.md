@@ -1,6 +1,6 @@
 ---
 title: appflow
-date: 2023-06-15
+date: 2023-06-24
 description: aws appflow (Amazon AppFlow) command/cmdlet list.
 ---
 
@@ -29,6 +29,7 @@ description: aws appflow (Amazon AppFlow) command/cmdlet list.
 |[aws appflow list-flows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/list-flows.html)|[Get-AFFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AFFlowList.html)|
 |[aws appflow list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/list-tags-for-resource.html)|[Get-AFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AFResourceTag.html)|
 |[aws appflow register-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/register-connector.html)|[Register-AFConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-AFConnector.html)|
+|[aws appflow reset-connector-metadata-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/reset-connector-metadata-cache.html)|[Reset-AFConnectorMetadataCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-AFConnectorMetadataCache.html)|
 |[aws appflow start-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/start-flow.html)|[Start-AFFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AFFlow.html)|
 |[aws appflow stop-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/stop-flow.html)|[Stop-AFFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-AFFlow.html)|
 |[aws appflow tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appflow/tag-resource.html)|[Add-AFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AFResourceTag.html)|

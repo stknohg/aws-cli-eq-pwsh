@@ -1,6 +1,6 @@
 ---
 title: s3control
-date: 2023-06-15
+date: 2023-06-24
 description: aws s3control (Amazon S3) command/cmdlet list.
 ---
 

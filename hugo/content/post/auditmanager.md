@@ -1,6 +1,6 @@
 ---
 title: auditmanager
-date: 2023-06-15
+date: 2023-06-24
 description: aws auditmanager (AWS Audit Manager) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws auditmanager (AWS Audit Manager) command/cmdlet list.
 |[aws auditmanager get-delegations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-delegations.html)|[Get-AUDMDelegation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMDelegation.html)|
 |[aws auditmanager get-evidence](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-evidence.html)|[Get-AUDMEvidence](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMEvidence.html)|
 |[aws auditmanager get-evidence-by-evidence-folder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-evidence-by-evidence-folder.html)|[Get-AUDMEvidenceByEvidenceFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMEvidenceByEvidenceFolder.html)|
+|[aws auditmanager get-evidence-file-upload-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-evidence-file-upload-url.html)|[Get-AUDMEvidenceFileUploadUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMEvidenceFileUploadUrl.html)|
 |[aws auditmanager get-evidence-folder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-evidence-folder.html)|[Get-AUDMEvidenceFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMEvidenceFolder.html)|
 |[aws auditmanager get-evidence-folders-by-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-evidence-folders-by-assessment.html)|[Get-AUDMEvidenceFolderByAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMEvidenceFolderByAssessment.html)|
 |[aws auditmanager get-evidence-folders-by-assessment-control](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/auditmanager/get-evidence-folders-by-assessment-control.html)|[Get-AUDMEvidenceFolderByAssessmentControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AUDMEvidenceFolderByAssessmentControl.html)|

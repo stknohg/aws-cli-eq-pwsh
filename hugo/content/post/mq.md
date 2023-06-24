@@ -1,6 +1,6 @@
 ---
 title: mq
-date: 2023-06-15
+date: 2023-06-24
 description: aws mq (Amazon MQ) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws mq (Amazon MQ) command/cmdlet list.
 |[aws mq list-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/list-configurations.html)|[Get-MQConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQConfigurationList.html)|
 |[aws mq list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/list-tags.html)|[Get-MQTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQTagList.html)|
 |[aws mq list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/list-users.html)|[Get-MQUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQUserList.html)|
+|[aws mq promote](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/promote.html)|[Invoke-MQPromote](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-MQPromote.html)|
 |[aws mq reboot-broker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/reboot-broker.html)|[Restart-MQBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-MQBroker.html)|
 |[aws mq update-broker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/update-broker.html)|[Update-MQBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MQBroker.html)|
 |[aws mq update-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/update-configuration.html)|[Update-MQConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MQConfiguration.html)|

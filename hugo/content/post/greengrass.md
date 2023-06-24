@@ -1,6 +1,6 @@
 ---
 title: greengrass
-date: 2023-06-15
+date: 2023-06-24
 description: aws greengrass (AWS IoT Greengrass) command/cmdlet list.
 ---
 

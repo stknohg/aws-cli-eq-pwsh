@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2023-06-15
+date: 2023-06-24
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -50,6 +50,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr list-steps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-steps.html)|[Get-EMRStepList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStepList.html)|
 |[aws emr list-studio-session-mappings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-studio-session-mappings.html)|[Get-EMRStudioSessionMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMappingList.html)|
 |[aws emr list-studios](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-studios.html)|[Get-EMRStudioList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioList.html)|
+|[aws emr list-supported-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-supported-instance-types.html)|[Get-EMRSupportedInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSupportedInstanceType.html)|
 |[aws emr modify-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/modify-cluster.html)|[Edit-EMRCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EMRCluster.html)|
 |[aws emr modify-cluster-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/modify-cluster-attributes.html)||
 |[aws emr modify-instance-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/modify-instance-fleet.html)|[Edit-EMRInstanceFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EMRInstanceFleet.html)|

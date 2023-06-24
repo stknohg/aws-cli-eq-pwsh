@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2023-06-15
+date: 2023-06-24
 description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 ---
 

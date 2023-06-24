@@ -1,6 +1,6 @@
 ---
 title: billingconductor
-date: 2023-06-15
+date: 2023-06-24
 description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 ---
 

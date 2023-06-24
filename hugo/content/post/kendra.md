@@ -1,6 +1,6 @@
 ---
 title: kendra
-date: 2023-06-15
+date: 2023-06-24
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 
@@ -66,6 +66,7 @@ description: aws kendra (Amazon Kendra) command/cmdlet list.
 |[aws kendra list-thesauri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/list-thesauri.html)|[Get-KNDRThesauriList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KNDRThesauriList.html)|
 |[aws kendra put-principal-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/put-principal-mapping.html)|[Write-KNDRPrincipalMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-KNDRPrincipalMapping.html)|
 |[aws kendra query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/query.html)|[Invoke-KNDRQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KNDRQuery.html)|
+|[aws kendra retrieve](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/retrieve.html)|[Invoke-KNDRRetrieve](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KNDRRetrieve.html)|
 |[aws kendra start-data-source-sync-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/start-data-source-sync-job.html)|[Start-KNDRDataSourceSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KNDRDataSourceSyncJob.html)|
 |[aws kendra stop-data-source-sync-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/stop-data-source-sync-job.html)|[Stop-KNDRDataSourceSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KNDRDataSourceSyncJob.html)|
 |[aws kendra submit-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kendra/submit-feedback.html)|[Send-KNDRFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-KNDRFeedback.html)|

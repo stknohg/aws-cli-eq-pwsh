@@ -3,8 +3,10 @@
 ## Create container imager
 
 ```powershell
-PS > <local source path (Dockerfile path)>
+PS > cd <local source path (Dockerfile path)>
 PS > nerdctl build -t aws-cli-eq-pwsh .
+# or
+PS > docker build -t aws-cli-eq-pwsh .
 ```
 
 ## Start container
@@ -13,7 +15,9 @@ PS > nerdctl build -t aws-cli-eq-pwsh .
 
 ```powershell
 PS > cd <local source path>
-PS > nerdctl run -v "$($pwd.Path):/mnt/src/" --rm -it aws-cli-eq-pwsh 
+PS > nerdctl run -v "$($pwd.Path):/mnt/src/" --rm -it aws-cli-eq-pwsh
+# or
+PS > docker run -v "$($pwd.Path):/mnt/src/" --rm -it aws-cli-eq-pwsh
 ```
 
 * hugo server
@@ -21,6 +25,8 @@ PS > nerdctl run -v "$($pwd.Path):/mnt/src/" --rm -it aws-cli-eq-pwsh
 ```powershell
 PS > cd <local source path>
 PS > nerdctl run -v "$($pwd.Path):/mnt/src/" -p 1313:1313 --rm aws-cli-eq-pwsh bash -c "cd /mnt/src/hugo/ && hugo server -w -p 1313 --bind=0.0.0.0"
+# or
+PS > docker run -v "$($pwd.Path):/mnt/src/" -p 1313:1313 --rm aws-cli-eq-pwsh bash -c "cd /mnt/src/hugo/ && hugo server -w -p 1313 --bind=0.0.0.0"
 ```
 
 ## Generate contents

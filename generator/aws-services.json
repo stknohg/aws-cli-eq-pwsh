@@ -83,6 +83,12 @@
     "Url": "https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html",
     "Note": ""
   },
+  "appfabric": {
+    "Prefix": "AFAB",
+    "Name": "AWS AppFabric",
+    "Url": "https://aws.amazon.com/appfabric/",
+    "Note": ""
+  },
   "appflow": {
     "Prefix": "AF",
     "Name": "Amazon AppFlow",

@@ -13,6 +13,7 @@
   "apigatewayv2": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_API_Gateway_V2_cmdlets.html",
   "appconfig": "https://docs.aws.amazon.com/powershell/latest/reference/items/AppConfig_cmdlets.html",
   "appconfigdata": "https://docs.aws.amazon.com/powershell/latest/reference/items/AppConfigData_cmdlets.html",
+  "appfabric": "https://docs.aws.amazon.com/powershell/latest/reference/items/AppFabric_cmdlets.html",
   "appflow": "https://docs.aws.amazon.com/powershell/latest/reference/items/Appflow_cmdlets.html",
   "appintegrations": "https://docs.aws.amazon.com/powershell/latest/reference/items/AppIntegrationsService_cmdlets.html",
   "application-autoscaling": "https://docs.aws.amazon.com/powershell/latest/reference/items/Application_Auto_Scaling_cmdlets.html",

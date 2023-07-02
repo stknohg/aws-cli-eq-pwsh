@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-06-24
+date: 2023-07-02
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -149,6 +149,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect search-prompts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-prompts.html)|[Search-CONNPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNPrompt.html)|
 |[aws connect search-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-queues.html)|[Search-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNQueue.html)|
 |[aws connect search-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-quick-connects.html)|[Search-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNQuickConnect.html)|
+|[aws connect search-resource-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-resource-tags.html)|[Search-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNResourceTag.html)|
 |[aws connect search-routing-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-routing-profiles.html)|[Search-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNRoutingProfile.html)|
 |[aws connect search-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-security-profiles.html)|[Search-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNSecurityProfile.html)|
 |[aws connect search-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-users.html)|[Search-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNUser.html)|

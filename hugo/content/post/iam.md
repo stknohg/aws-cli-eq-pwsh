@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2023-06-24
+date: 2023-07-02
 description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 ---
 
@@ -76,6 +76,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam get-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-group-policy.html)|[Get-IAMGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMGroupPolicy.html)|
 |[aws iam get-instance-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-instance-profile.html)|[Get-IAMInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMInstanceProfile.html)|
 |[aws iam get-login-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-login-profile.html)|[Get-IAMLoginProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMLoginProfile.html)|
+|[aws iam get-mfa-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-mfa-device.html)|[Get-IAMMFADeviceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMMFADeviceMetadata.html)|
 |[aws iam get-open-id-connect-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-open-id-connect-provider.html)|[Get-IAMOpenIDConnectProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOpenIDConnectProvider.html)|
 |[aws iam get-organizations-access-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-organizations-access-report.html)|[Get-IAMOrganizationsAccessReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOrganizationsAccessReport.html)|
 |[aws iam get-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-policy.html)|[Get-IAMPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicy.html)|

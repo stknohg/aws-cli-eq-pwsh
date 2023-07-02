@@ -1,6 +1,6 @@
 ---
 title: cloud9
-date: 2023-06-24
+date: 2023-07-02
 description: aws cloud9 (AWS Cloud9) command/cmdlet list.
 ---
 

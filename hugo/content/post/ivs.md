@@ -1,6 +1,6 @@
 ---
 title: ivs
-date: 2023-06-24
+date: 2023-07-02
 description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 |----|----|
 |[aws ivs batch-get-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/batch-get-channel.html)|[Get-IVSChannelBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSChannelBatch.html)|
 |[aws ivs batch-get-stream-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/batch-get-stream-key.html)|[Get-IVSStreamKeyBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamKeyBatch.html)|
+|[aws ivs batch-start-viewer-session-revocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/batch-start-viewer-session-revocation.html)|[Start-IVSStartViewerSessionRevocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IVSStartViewerSessionRevocation.html)|
 |[aws ivs create-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/create-channel.html)|[New-IVSChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IVSChannel.html)|
 |[aws ivs create-recording-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/create-recording-configuration.html)|[New-IVSRecordingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IVSRecordingConfiguration.html)|
 |[aws ivs create-stream-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/create-stream-key.html)|[New-IVSStreamKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IVSStreamKey.html)|
@@ -37,6 +38,7 @@ description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 |[aws ivs list-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/list-streams.html)|[Get-IVSStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSStreamList.html)|
 |[aws ivs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/list-tags-for-resource.html)|[Get-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSResourceTag.html)|
 |[aws ivs put-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/put-metadata.html)|[Write-IVSMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IVSMetadata.html)|
+|[aws ivs start-viewer-session-revocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/start-viewer-session-revocation.html)|[Start-IVSViewerSessionRevocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IVSViewerSessionRevocation.html)|
 |[aws ivs stop-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/stop-stream.html)|[Stop-IVSStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IVSStream.html)|
 |[aws ivs tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/tag-resource.html)|[Add-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IVSResourceTag.html)|
 |[aws ivs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/untag-resource.html)|[Remove-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IVSResourceTag.html)|

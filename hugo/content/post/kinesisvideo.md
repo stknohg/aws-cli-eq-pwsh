@@ -1,6 +1,6 @@
 ---
 title: kinesisvideo
-date: 2023-06-24
+date: 2023-07-02
 description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 |----|----|
 |[aws kinesisvideo create-signaling-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/create-signaling-channel.html)|[New-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KVSignalingChannel.html)|
 |[aws kinesisvideo create-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/create-stream.html)|[New-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KVStream.html)|
+|[aws kinesisvideo delete-edge-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/delete-edge-configuration.html)|[Remove-KVEdgeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVEdgeConfiguration.html)|
 |[aws kinesisvideo delete-signaling-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/delete-signaling-channel.html)|[Remove-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVSignalingChannel.html)|
 |[aws kinesisvideo delete-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/delete-stream.html)|[Remove-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KVStream.html)|
 |[aws kinesisvideo describe-edge-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/describe-edge-configuration.html)|[Get-KVEdgeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVEdgeConfiguration.html)|
@@ -26,6 +27,7 @@ description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 |[aws kinesisvideo describe-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/describe-stream.html)|[Get-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVStream.html)|
 |[aws kinesisvideo get-data-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/get-data-endpoint.html)|[Get-KVDataEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVDataEndpoint.html)|
 |[aws kinesisvideo get-signaling-channel-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/get-signaling-channel-endpoint.html)|[Get-KVSignalingChannelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVSignalingChannelEndpoint.html)|
+|[aws kinesisvideo list-edge-agent-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/list-edge-agent-configurations.html)|[Get-KVEdgeAgentConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVEdgeAgentConfigurationList.html)|
 |[aws kinesisvideo list-signaling-channels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/list-signaling-channels.html)|[Get-KVSignalingChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVSignalingChannelList.html)|
 |[aws kinesisvideo list-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/list-streams.html)|[Get-KVStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVStreamList.html)|
 |[aws kinesisvideo list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/list-tags-for-resource.html)|[Get-KVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVResourceTag.html)|

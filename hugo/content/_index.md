@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-06-24
+date: 2023-07-02
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.12.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.359 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.12.6 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.364 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -34,6 +34,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
 |[AWS AppConfig](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfig]({{%relref "post/appconfig.md" %}})|APPC||
 |[AWS AppConfig Data](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfigdata]({{%relref "post/appconfigdata.md" %}})|ACD||
+|[AWS AppFabric](https://aws.amazon.com/appfabric/)|[appfabric]({{%relref "post/appfabric.md" %}})|AFAB||
 |[Amazon AppFlow](https://aws.amazon.com/appflow/)|[appflow]({{%relref "post/appflow.md" %}})|AF||
 |[Amazon AppIntegrations APIs](https://docs.aws.amazon.com/appintegrations/latest/APIReference/Welcome.html)|[appintegrations]({{%relref "post/appintegrations.md" %}})|AIS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||

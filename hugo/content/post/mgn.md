@@ -1,6 +1,6 @@
 ---
 title: mgn
-date: 2023-07-02
+date: 2023-07-10
 description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 ---
 
@@ -47,21 +47,25 @@ description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 |[aws mgn list-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-exports.html)|[Get-MGNExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNExportList.html)|
 |[aws mgn list-import-errors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-import-errors.html)|[Get-MGNImportErrorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNImportErrorList.html)|
 |[aws mgn list-imports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-imports.html)|[Get-MGNImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNImportList.html)|
+|[aws mgn list-managed-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-managed-accounts.html)|[Get-MGNManagedAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNManagedAccountList.html)|
 |[aws mgn list-source-server-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-source-server-actions.html)|[Get-MGNSourceServerActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNSourceServerActionList.html)|
 |[aws mgn list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-tags-for-resource.html)|[Get-MGNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNResourceTag.html)|
 |[aws mgn list-template-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-template-actions.html)|[Get-MGNTemplateActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNTemplateActionList.html)|
 |[aws mgn list-waves](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-waves.html)|[Get-MGNWaveList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNWaveList.html)|
 |[aws mgn mark-as-archived](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/mark-as-archived.html)|[Set-MGNAsArchived](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNAsArchived.html)|
+|[aws mgn pause-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/pause-replication.html)|[Suspend-MGNReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-MGNReplication.html)|
 |[aws mgn put-source-server-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/put-source-server-action.html)|[Write-MGNSourceServerAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MGNSourceServerAction.html)|
 |[aws mgn put-template-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/put-template-action.html)|[Write-MGNTemplateAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MGNTemplateAction.html)|
 |[aws mgn remove-source-server-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/remove-source-server-action.html)|[Remove-MGNSourceServerAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNSourceServerAction.html)|
 |[aws mgn remove-template-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/remove-template-action.html)|[Remove-MGNTemplateAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNTemplateAction.html)|
+|[aws mgn resume-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/resume-replication.html)|[Resume-MGNReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-MGNReplication.html)|
 |[aws mgn retry-data-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/retry-data-replication.html)|[Resume-MGNDataReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-MGNDataReplication.html)|
 |[aws mgn start-cutover](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/start-cutover.html)|[Start-MGNCutover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MGNCutover.html)|
 |[aws mgn start-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/start-export.html)|[Start-MGNExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MGNExport.html)|
 |[aws mgn start-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/start-import.html)|[Start-MGNImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MGNImport.html)|
 |[aws mgn start-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/start-replication.html)|[Start-MGNReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MGNReplication.html)|
 |[aws mgn start-test](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/start-test.html)|[Start-MGNTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MGNTest.html)|
+|[aws mgn stop-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/stop-replication.html)|[Stop-MGNReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-MGNReplication.html)|
 |[aws mgn tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/tag-resource.html)|[Add-MGNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MGNResourceTag.html)|
 |[aws mgn terminate-target-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/terminate-target-instances.html)|[Remove-MGNTargetInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNTargetInstance.html)|
 |[aws mgn unarchive-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/unarchive-application.html)|[Set-MGNApplicationAsUnarchived](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNApplicationAsUnarchived.html)|

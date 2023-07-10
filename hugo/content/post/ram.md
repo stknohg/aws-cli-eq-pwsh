@@ -1,6 +1,6 @@
 ---
 title: ram
-date: 2023-07-02
+date: 2023-07-10
 description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 ---
 

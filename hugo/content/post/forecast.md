@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2023-07-02
+date: 2023-07-10
 description: aws forecast (Amazon Forecast) command/cmdlet list.
 ---
 

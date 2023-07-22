@@ -1,6 +1,6 @@
 ---
 title: mediapackagev2
-date: 2023-07-10
+date: 2023-07-22
 description: aws mediapackagev2 (AWS Elemental MediaPackage) command/cmdlet list.
 ---
 

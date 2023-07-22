@@ -1,6 +1,6 @@
 ---
 title: pinpoint
-date: 2023-07-10
+date: 2023-07-22
 description: aws pinpoint (Amazon Pinpoint) command/cmdlet list.
 ---
 

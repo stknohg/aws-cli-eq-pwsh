@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2023-07-10
+date: 2023-07-22
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -242,6 +242,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker list-pipelines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-pipelines.html)|[Get-SMPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineList.html)|
 |[aws sagemaker list-processing-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-processing-jobs.html)|[Get-SMProcessingJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProcessingJobList.html)|
 |[aws sagemaker list-projects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-projects.html)|[Get-SMProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProjectList.html)|
+|[aws sagemaker list-resource-catalogs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-resource-catalogs.html)|[Get-SMResourceCatalogList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMResourceCatalogList.html)|
 |[aws sagemaker list-spaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-spaces.html)|[Get-SMSpaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSpaceList.html)|
 |[aws sagemaker list-stage-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-stage-devices.html)|[Get-SMStageDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMStageDeviceList.html)|
 |[aws sagemaker list-studio-lifecycle-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-studio-lifecycle-configs.html)|[Get-SMStudioLifecycleConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMStudioLifecycleConfigList.html)|

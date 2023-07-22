@@ -1,6 +1,6 @@
 ---
 title: securitylake
-date: 2023-07-10
+date: 2023-07-22
 description: aws securitylake (Amazon Security Lake) command/cmdlet list.
 ---
 
@@ -36,7 +36,10 @@ description: aws securitylake (Amazon Security Lake) command/cmdlet list.
 |[aws securitylake list-data-lakes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/list-data-lakes.html)|[Get-SLKDataLakeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SLKDataLakeList.html)|
 |[aws securitylake list-log-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/list-log-sources.html)|[Get-SLKLogSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SLKLogSourceList.html)|
 |[aws securitylake list-subscribers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/list-subscribers.html)|[Get-SLKSubscriberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SLKSubscriberList.html)|
+|[aws securitylake list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/list-tags-for-resource.html)|[Get-SLKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SLKResourceTag.html)|
 |[aws securitylake register-data-lake-delegated-administrator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/register-data-lake-delegated-administrator.html)|[Register-SLKDataLakeDelegatedAdministrator](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SLKDataLakeDelegatedAdministrator.html)|
+|[aws securitylake tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/tag-resource.html)|[Add-SLKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SLKResourceTag.html)|
+|[aws securitylake untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/untag-resource.html)|[Remove-SLKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SLKResourceTag.html)|
 |[aws securitylake update-data-lake](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/update-data-lake.html)|[Update-SLKDataLake](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SLKDataLake.html)|
 |[aws securitylake update-data-lake-exception-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/update-data-lake-exception-subscription.html)|[Update-SLKDataLakeExceptionSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SLKDataLakeExceptionSubscription.html)|
 |[aws securitylake update-subscriber](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securitylake/update-subscriber.html)|[Update-SLKSubscriber](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SLKSubscriber.html)|

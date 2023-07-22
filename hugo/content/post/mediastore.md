@@ -1,6 +1,6 @@
 ---
 title: mediastore
-date: 2023-07-10
+date: 2023-07-22
 description: aws mediastore (AWS Elemental MediaStore) command/cmdlet list.
 ---
 

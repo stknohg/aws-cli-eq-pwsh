@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2023-07-10
+date: 2023-07-22
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive delete-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-reservation.html)|[Remove-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLReservation.html)|
 |[aws medialive delete-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-schedule.html)|[Remove-EMLSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLSchedule.html)|
 |[aws medialive delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-tags.html)|[Remove-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLResourceTag.html)|
+|[aws medialive describe-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-account-configuration.html)|[Get-EMLAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLAccountConfiguration.html)|
 |[aws medialive describe-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-channel.html)|[Get-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLChannel.html)|
 |[aws medialive describe-input](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-input.html)|[Get-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInput.html)|
 |[aws medialive describe-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-input-device.html)|[Get-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputDevice.html)|
@@ -45,6 +46,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive describe-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-offering.html)|[Get-EMLOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLOffering.html)|
 |[aws medialive describe-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-reservation.html)|[Get-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLReservation.html)|
 |[aws medialive describe-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-schedule.html)|[Get-EMLSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSchedule.html)|
+|[aws medialive describe-thumbnails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-thumbnails.html)|[Get-EMLThumbnail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLThumbnail.html)|
 |[aws medialive list-channels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-channels.html)|[Get-EMLChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLChannelList.html)|
 |[aws medialive list-input-device-transfers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-input-device-transfers.html)|[Get-EMLInputDeviceTransferList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputDeviceTransferList.html)|
 |[aws medialive list-input-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-input-devices.html)|[Get-EMLInputDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputDeviceList.html)|
@@ -64,6 +66,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive stop-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/stop-channel.html)|[Stop-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLChannel.html)|
 |[aws medialive stop-multiplex](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/stop-multiplex.html)|[Stop-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLMultiplex.html)|
 |[aws medialive transfer-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/transfer-input-device.html)|[Move-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EMLInputDevice.html)|
+|[aws medialive update-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-account-configuration.html)|[Update-EMLAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLAccountConfiguration.html)|
 |[aws medialive update-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-channel.html)|[Update-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLChannel.html)|
 |[aws medialive update-channel-class](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-channel-class.html)|[Update-EMLChannelClass](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLChannelClass.html)|
 |[aws medialive update-input](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-input.html)|[Update-EMLInput](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLInput.html)|

@@ -1,6 +1,6 @@
 ---
 title: lexv2-models
-date: 2023-07-10
+date: 2023-07-22
 description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 ---
 
@@ -71,8 +71,13 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models list-custom-vocabulary-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-custom-vocabulary-items.html)|[Get-LMBV2CustomVocabularyItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2CustomVocabularyItemList.html)|
 |[aws lexv2-models list-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-exports.html)|[Get-LMBV2ExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ExportList.html)|
 |[aws lexv2-models list-imports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-imports.html)|[Get-LMBV2ImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ImportList.html)|
+|[aws lexv2-models list-intent-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-intent-metrics.html)|[Get-LMBV2IntentMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2IntentMetricList.html)|
+|[aws lexv2-models list-intent-paths](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-intent-paths.html)|[Get-LMBV2IntentPathList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2IntentPathList.html)|
+|[aws lexv2-models list-intent-stage-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-intent-stage-metrics.html)|[Get-LMBV2IntentStageMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2IntentStageMetricList.html)|
 |[aws lexv2-models list-intents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-intents.html)|[Get-LMBV2IntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2IntentList.html)|
 |[aws lexv2-models list-recommended-intents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-recommended-intents.html)|[Get-LMBV2RecommendedIntentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2RecommendedIntentList.html)|
+|[aws lexv2-models list-session-analytics-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-session-analytics-data.html)|[Get-LMBV2SessionAnalyticsDataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SessionAnalyticsDataList.html)|
+|[aws lexv2-models list-session-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-session-metrics.html)|[Get-LMBV2SessionMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SessionMetricList.html)|
 |[aws lexv2-models list-slot-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-slot-types.html)|[Get-LMBV2SlotTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotTypeList.html)|
 |[aws lexv2-models list-slots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-slots.html)|[Get-LMBV2SlotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2SlotList.html)|
 |[aws lexv2-models list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-tags-for-resource.html)|[Get-LMBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2ResourceTag.html)|
@@ -80,6 +85,8 @@ description: aws lexv2-models (Amazon Lex) command/cmdlet list.
 |[aws lexv2-models list-test-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-test-executions.html)|[Get-LMBV2TestExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestExecutionList.html)|
 |[aws lexv2-models list-test-set-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-test-set-records.html)|[Get-LMBV2TestSetRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSetRecordList.html)|
 |[aws lexv2-models list-test-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-test-sets.html)|[Get-LMBV2TestSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2TestSetList.html)|
+|[aws lexv2-models list-utterance-analytics-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-utterance-analytics-data.html)|[Get-LMBV2UtteranceAnalyticsDataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2UtteranceAnalyticsDataList.html)|
+|[aws lexv2-models list-utterance-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/list-utterance-metrics.html)|[Get-LMBV2UtteranceMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMBV2UtteranceMetricList.html)|
 |[aws lexv2-models search-associated-transcripts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/search-associated-transcripts.html)|[Search-LMBV2AssociatedTranscript](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-LMBV2AssociatedTranscript.html)|
 |[aws lexv2-models start-bot-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/start-bot-recommendation.html)|[Start-LMBV2BotRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2BotRecommendation.html)|
 |[aws lexv2-models start-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lexv2-models/start-import.html)|[Start-LMBV2Import](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LMBV2Import.html)|

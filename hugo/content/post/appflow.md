@@ -1,6 +1,6 @@
 ---
 title: appflow
-date: 2023-07-10
+date: 2023-07-22
 description: aws appflow (Amazon AppFlow) command/cmdlet list.
 ---
 

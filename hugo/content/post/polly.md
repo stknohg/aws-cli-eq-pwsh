@@ -1,6 +1,6 @@
 ---
 title: polly
-date: 2023-07-10
+date: 2023-07-22
 description: aws polly (Amazon Polly) command/cmdlet list.
 ---
 

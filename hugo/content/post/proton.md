@@ -1,6 +1,6 @@
 ---
 title: proton
-date: 2023-07-10
+date: 2023-07-22
 description: aws proton (AWS Proton) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton create-service-template-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/create-service-template-version.html)|[New-PROServiceTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROServiceTemplateVersion.html)|
 |[aws proton create-template-sync-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/create-template-sync-config.html)|[New-PROTemplateSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROTemplateSyncConfig.html)|
 |[aws proton delete-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/delete-component.html)|[Remove-PROComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROComponent.html)|
+|[aws proton delete-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/delete-deployment.html)|[Remove-PRODeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PRODeployment.html)|
 |[aws proton delete-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/delete-environment.html)|[Remove-PROEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROEnvironment.html)|
 |[aws proton delete-environment-account-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/delete-environment-account-connection.html)|[Remove-PROEnvironmentAccountConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROEnvironmentAccountConnection.html)|
 |[aws proton delete-environment-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/delete-environment-template.html)|[Remove-PROEnvironmentTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROEnvironmentTemplate.html)|
@@ -43,6 +44,7 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton delete-template-sync-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/delete-template-sync-config.html)|[Remove-PROTemplateSyncConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROTemplateSyncConfig.html)|
 |[aws proton get-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/get-account-settings.html)|[Get-PROAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROAccountSetting.html)|
 |[aws proton get-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/get-component.html)|[Get-PROComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROComponent.html)|
+|[aws proton get-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/get-deployment.html)|[Get-PRODeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PRODeployment.html)|
 |[aws proton get-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/get-environment.html)|[Get-PROEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironment.html)|
 |[aws proton get-environment-account-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/get-environment-account-connection.html)|[Get-PROEnvironmentAccountConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironmentAccountConnection.html)|
 |[aws proton get-environment-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/get-environment-template.html)|[Get-PROEnvironmentTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironmentTemplate.html)|
@@ -62,6 +64,7 @@ description: aws proton (AWS Proton) command/cmdlet list.
 |[aws proton list-component-outputs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-component-outputs.html)|[Get-PROComponentOutputList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROComponentOutputList.html)|
 |[aws proton list-component-provisioned-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-component-provisioned-resources.html)|[Get-PROComponentProvisionedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROComponentProvisionedResourceList.html)|
 |[aws proton list-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-components.html)|[Get-PROComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROComponentList.html)|
+|[aws proton list-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-deployments.html)|[Get-PRODeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PRODeploymentList.html)|
 |[aws proton list-environment-account-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-environment-account-connections.html)|[Get-PROEnvironmentAccountConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironmentAccountConnectionList.html)|
 |[aws proton list-environment-outputs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-environment-outputs.html)|[Get-PROEnvironmentOutputList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironmentOutputList.html)|
 |[aws proton list-environment-provisioned-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/proton/list-environment-provisioned-resources.html)|[Get-PROEnvironmentProvisionedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROEnvironmentProvisionedResourceList.html)|

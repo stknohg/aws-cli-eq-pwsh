@@ -1,6 +1,6 @@
 ---
 title: ssm-sap
-date: 2023-07-10
+date: 2023-07-22
 description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 |[aws ssm-sap list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-tags-for-resource.html)|[Get-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPResourceTag.html)|
 |[aws ssm-sap put-resource-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/put-resource-permission.html)|[Write-SMSAPResourcePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SMSAPResourcePermission.html)|
 |[aws ssm-sap register-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/register-application.html)|[Register-SMSAPApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMSAPApplication.html)|
+|[aws ssm-sap start-application-refresh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/start-application-refresh.html)|[Start-SMSAPApplicationRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMSAPApplicationRefresh.html)|
 |[aws ssm-sap tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/tag-resource.html)|[Add-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMSAPResourceTag.html)|
 |[aws ssm-sap untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/untag-resource.html)|[Remove-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMSAPResourceTag.html)|
 |[aws ssm-sap update-application-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/update-application-settings.html)|[Update-SMSAPApplicationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMSAPApplicationSetting.html)|

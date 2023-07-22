@@ -1,6 +1,6 @@
 ---
 title: grafana
-date: 2023-07-10
+date: 2023-07-22
 description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 |[aws grafana disassociate-license](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/disassociate-license.html)|[Remove-MGRFLicense](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFLicense.html)|
 |[aws grafana list-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/list-permissions.html)|[Get-MGRFPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFPermissionList.html)|
 |[aws grafana list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/list-tags-for-resource.html)|[Get-MGRFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFResourceTag.html)|
+|[aws grafana list-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/list-versions.html)|[Get-MGRFVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFVersionList.html)|
 |[aws grafana list-workspaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/list-workspaces.html)|[Get-MGRFWorkspaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGRFWorkspaceList.html)|
 |[aws grafana tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/tag-resource.html)|[Add-MGRFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MGRFResourceTag.html)|
 |[aws grafana untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/grafana/untag-resource.html)|[Remove-MGRFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGRFResourceTag.html)|

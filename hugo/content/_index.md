@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-07-10
+date: 2023-07-22
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.368 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.376 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -239,6 +239,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elemental MediaStore](https://aws.amazon.com/mediastore/)|[mediastore]({{%relref "post/mediastore.md" %}})|EMS||
 |[AWS Elemental MediaStore Data Plane](https://aws.amazon.com/mediastore/)|[mediastore-data]({{%relref "post/mediastore-data.md" %}})|EMSD||
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||
+|[Amazon HealthLake Imaging](https://aws.amazon.com/healthlake/imaging/)|[medical-imaging]({{%relref "post/medical-imaging.md" %}})|MIS|AWS Health Imaging API|
 |[Amazon MemoryDB for Redis](https://aws.amazon.com/memorydb/)|[memorydb]({{%relref "post/memorydb.md" %}})|MDB||
 |[AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)|[meteringmarketplace]({{%relref "post/meteringmarketplace.md" %}})|MM||
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||

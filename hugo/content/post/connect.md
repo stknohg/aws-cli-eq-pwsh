@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-07-10
+date: 2023-07-22
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -54,7 +54,9 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-instance.html)|[Remove-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstance.html)|
 |[aws connect delete-integration-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-integration-association.html)|[Remove-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNIntegrationAssociation.html)|
 |[aws connect delete-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-prompt.html)|[Remove-CONNPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNPrompt.html)|
+|[aws connect delete-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-queue.html)|[Remove-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQueue.html)|
 |[aws connect delete-quick-connect](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-quick-connect.html)|[Remove-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQuickConnect.html)|
+|[aws connect delete-routing-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-routing-profile.html)|[Remove-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNRoutingProfile.html)|
 |[aws connect delete-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-rule.html)|[Remove-CONNRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNRule.html)|
 |[aws connect delete-security-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-security-profile.html)|[Remove-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNSecurityProfile.html)|
 |[aws connect delete-task-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-task-template.html)|[Remove-CONNTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNTaskTemplate.html)|

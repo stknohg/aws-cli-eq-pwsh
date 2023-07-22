@@ -1,6 +1,6 @@
 ---
 title: codecommit
-date: 2023-07-10
+date: 2023-07-22
 description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 ---
 

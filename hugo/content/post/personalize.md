@@ -1,6 +1,6 @@
 ---
 title: personalize
-date: 2023-07-10
+date: 2023-07-22
 description: aws personalize (Amazon Personalize) command/cmdlet list.
 ---
 
@@ -77,6 +77,7 @@ description: aws personalize (Amazon Personalize) command/cmdlet list.
 |[aws personalize tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/tag-resource.html)|[Add-PERSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PERSResourceTag.html)|
 |[aws personalize untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/untag-resource.html)|[Remove-PERSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PERSResourceTag.html)|
 |[aws personalize update-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-campaign.html)|[Update-PERSCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSCampaign.html)|
+|[aws personalize update-dataset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-dataset.html)|[Update-PERSDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSDataset.html)|
 |[aws personalize update-metric-attribution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-metric-attribution.html)|[Update-PERSMetricAttribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSMetricAttribution.html)|
 |[aws personalize update-recommender](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-recommender.html)|[Update-PERSRecommender](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSRecommender.html)|
 

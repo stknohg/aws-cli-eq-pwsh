@@ -1313,6 +1313,12 @@
     "Url": "https://aws.amazon.com/mediatailor/",
     "Note": ""
   },
+  "medical-imaging": {
+    "Prefix": "MIS",
+    "Name": "Amazon HealthLake Imaging",
+    "Url": "https://aws.amazon.com/healthlake/imaging/",
+    "Note": "AWS Health Imaging API"
+  },
   "memorydb": {
     "Prefix": "MDB",
     "Name": "Amazon MemoryDB for Redis",

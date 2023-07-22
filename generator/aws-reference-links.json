@@ -217,6 +217,7 @@
   "mediastore": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_cmdlets.html",
   "mediastore-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaStore_Data_Plane_cmdlets.html",
   "mediatailor": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaTailor_cmdlets.html",
+  "medical-imaging": "https://docs.aws.amazon.com/powershell/latest/reference/items/MedicalImaging_cmdlets.html",
   "memorydb": "https://docs.aws.amazon.com/powershell/latest/reference/items/MemoryDB_cmdlets.html",
   "meteringmarketplace": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Metering_cmdlets.html",
   "mgh": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Migration_Hub_cmdlets.html",

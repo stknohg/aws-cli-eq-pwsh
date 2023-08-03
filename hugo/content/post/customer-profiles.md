@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2023-07-22
+date: 2023-08-03
 description: aws customer-profiles (Amazon Connect Customer Profiles) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles get-matches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-matches.html)|[Get-CPFMatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFMatch.html)|
 |[aws customer-profiles get-profile-object-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-profile-object-type.html)|[Get-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectType.html)|
 |[aws customer-profiles get-profile-object-type-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-profile-object-type-template.html)|[Get-CPFProfileObjectTypeTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeTemplate.html)|
+|[aws customer-profiles get-similar-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-similar-profiles.html)|[Get-CPFSimilarProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFSimilarProfile.html)|
 |[aws customer-profiles get-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-workflow.html)|[Get-CPFWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFWorkflow.html)|
 |[aws customer-profiles get-workflow-steps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-workflow-steps.html)|[Get-CPFWorkflowStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFWorkflowStep.html)|
 |[aws customer-profiles list-account-integrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-account-integrations.html)|[Get-CPFAccountIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFAccountIntegrationList.html)|
@@ -50,6 +51,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles list-profile-object-type-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-object-type-templates.html)|[Get-CPFProfileObjectTypeTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeTemplateList.html)|
 |[aws customer-profiles list-profile-object-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-object-types.html)|[Get-CPFProfileObjectTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeList.html)|
 |[aws customer-profiles list-profile-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-objects.html)|[Get-CPFProfileObjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectList.html)|
+|[aws customer-profiles list-rule-based-matches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-rule-based-matches.html)|[Get-CPFRuleBasedMatchList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFRuleBasedMatchList.html)|
 |[aws customer-profiles list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-tags-for-resource.html)|[Get-CPFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFResourceTag.html)|
 |[aws customer-profiles list-workflows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-workflows.html)|[Get-CPFWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFWorkflowList.html)|
 |[aws customer-profiles merge-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/merge-profiles.html)|[Merge-CPFProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-CPFProfile.html)|

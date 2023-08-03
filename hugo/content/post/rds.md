@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2023-07-22
+date: 2023-08-03
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -47,6 +47,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds delete-blue-green-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-blue-green-deployment.html)|[Remove-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSBlueGreenDeployment.html)|
 |[aws rds delete-custom-db-engine-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-custom-db-engine-version.html)|[Remove-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSCustomDBEngineVersion.html)|
 |[aws rds delete-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-cluster.html)|[Remove-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBCluster.html)|
+|[aws rds delete-db-cluster-automated-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-cluster-automated-backup.html)|[Remove-RDSDBClusterAutomatedBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterAutomatedBackup.html)|
 |[aws rds delete-db-cluster-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-cluster-endpoint.html)|[Remove-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterEndpoint.html)|
 |[aws rds delete-db-cluster-parameter-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-cluster-parameter-group.html)|[Remove-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterParameterGroup.html)|
 |[aws rds delete-db-cluster-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-cluster-snapshot.html)|[Remove-RDSDBClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBClusterSnapshot.html)|
@@ -65,6 +66,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-account-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-account-attributes.html)|[Get-RDSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSAccountAttribute.html)|
 |[aws rds describe-blue-green-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-blue-green-deployments.html)|[Get-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSBlueGreenDeployment.html)|
 |[aws rds describe-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-certificates.html)|[Get-RDSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSCertificate.html)|
+|[aws rds describe-db-cluster-automated-backups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-cluster-automated-backups.html)|[Get-RDSDBClusterAutomatedBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterAutomatedBackup.html)|
 |[aws rds describe-db-cluster-backtracks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-cluster-backtracks.html)|[Get-RDSDBClusterBacktrackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterBacktrackList.html)|
 |[aws rds describe-db-cluster-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-cluster-endpoints.html)|[Get-RDSDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterEndpoint.html)|
 |[aws rds describe-db-cluster-parameter-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-cluster-parameter-groups.html)|[Get-RDSDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBClusterParameterGroup.html)|

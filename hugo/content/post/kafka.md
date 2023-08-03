@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2023-07-22
+date: 2023-08-03
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka delete-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/delete-vpc-connection.html)|[Remove-MSKVpcConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKVpcConnection.html)|
 |[aws kafka describe-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster.html)|[Get-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCluster.html)|
 |[aws kafka describe-cluster-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster-operation.html)|[Get-MSKClusterOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperation.html)|
+|[aws kafka describe-cluster-operation-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster-operation-v2.html)|[Get-MSKClusterOperationV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperationV2.html)|
 |[aws kafka describe-cluster-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster-v2.html)|[Get-MSKClusterV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterV2.html)|
 |[aws kafka describe-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-configuration.html)|[Get-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfiguration.html)|
 |[aws kafka describe-configuration-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-configuration-revision.html)|[Get-MSKConfigurationRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevision.html)|
@@ -34,6 +35,7 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka get-compatible-kafka-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/get-compatible-kafka-versions.html)|[Get-MSKCompatibleKafkaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCompatibleKafkaVersion.html)|
 |[aws kafka list-client-vpc-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-client-vpc-connections.html)|[Get-MSKClientVpcConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClientVpcConnectionList.html)|
 |[aws kafka list-cluster-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-cluster-operations.html)|[Get-MSKClusterOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperationList.html)|
+|[aws kafka list-cluster-operations-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-cluster-operations-v2.html)|[Get-MSKClusterOperationsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperationsV2List.html)|
 |[aws kafka list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-clusters.html)|[Get-MSKClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterList.html)|
 |[aws kafka list-clusters-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-clusters-v2.html)|[Get-MSKClustersV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClustersV2List.html)|
 |[aws kafka list-configuration-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-configuration-revisions.html)|[Get-MSKConfigurationRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevisionList.html)|

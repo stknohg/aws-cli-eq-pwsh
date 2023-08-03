@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2023-07-22
+date: 2023-08-03
 description: aws dms (AWS Database Migration Service) command/cmdlet list.
 ---
 
@@ -42,6 +42,7 @@ description: aws dms (AWS Database Migration Service) command/cmdlet list.
 |[aws dms describe-endpoint-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-endpoint-settings.html)|[Get-DMSEndpointSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpointSetting.html)|
 |[aws dms describe-endpoint-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-endpoint-types.html)|[Get-DMSEndpointType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpointType.html)|
 |[aws dms describe-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-endpoints.html)|[Get-DMSEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEndpoint.html)|
+|[aws dms describe-engine-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-engine-versions.html)|[Get-DMSEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEngineVersion.html)|
 |[aws dms describe-event-categories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-event-categories.html)|[Get-DMSEventCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEventCategory.html)|
 |[aws dms describe-event-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-event-subscriptions.html)|[Get-DMSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEventSubscription.html)|
 |[aws dms describe-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dms/describe-events.html)|[Get-DMSEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DMSEvent.html)|

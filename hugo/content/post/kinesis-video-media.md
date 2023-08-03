@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-media
-date: 2023-07-22
+date: 2023-08-03
 description: aws kinesis-video-media (Amazon Kinesis Video Streams Media) command/cmdlet list.
 ---
 

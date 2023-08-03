@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2023-07-22
+date: 2023-08-03
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
@@ -60,6 +60,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation list-change-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-change-sets.html)|[Get-CFNChangeSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetList.html)|
 |[aws cloudformation list-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-exports.html)|[Get-CFNExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNExport.html)|
 |[aws cloudformation list-imports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-imports.html)|[Get-CFNImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNImportList.html)|
+|[aws cloudformation list-stack-instance-resource-drifts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-instance-resource-drifts.html)|[Get-CFNStackInstanceResourceDrift](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackInstanceResourceDrift.html)|
 |[aws cloudformation list-stack-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-instances.html)|[Get-CFNStackInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackInstanceList.html)|
 |[aws cloudformation list-stack-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-resources.html)|[Get-CFNStackResourceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackResourceSummary.html)|
 |[aws cloudformation list-stack-set-operation-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-set-operation-results.html)|[Get-CFNStackSetOperationResultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetOperationResultList.html)|

@@ -1,6 +1,6 @@
 ---
 title: inspector2
-date: 2023-07-22
+date: 2023-08-03
 description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 associate-member](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/associate-member.html)|[Register-INS2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-INS2Member.html)|
 |[aws inspector2 batch-get-account-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/batch-get-account-status.html)|[Get-INS2GetAccountStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2GetAccountStatus.html)|
 |[aws inspector2 batch-get-code-snippet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/batch-get-code-snippet.html)|[Get-INS2BatchGetCodeSnippet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2BatchGetCodeSnippet.html)|
+|[aws inspector2 batch-get-finding-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/batch-get-finding-details.html)|[Get-INS2GetFindingDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2GetFindingDetail.html)|
 |[aws inspector2 batch-get-free-trial-info](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/batch-get-free-trial-info.html)|[Get-INS2GetFreeTrialInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2GetFreeTrialInfo.html)|
 |[aws inspector2 batch-get-member-ec2-deep-inspection-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/batch-get-member-ec2-deep-inspection-status.html)|[Get-INS2BatchMemberEc2DeepInspectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2BatchMemberEc2DeepInspectionStatus.html)|
 |[aws inspector2 batch-update-member-ec2-deep-inspection-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/batch-update-member-ec2-deep-inspection-status.html)|[Update-INS2BatchMemberEc2DeepInspectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INS2BatchMemberEc2DeepInspectionStatus.html)|

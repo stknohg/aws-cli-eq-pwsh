@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2023-07-22
+date: 2023-08-03
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws ce (Cost Explorer) command/cmdlet list.
 |[aws ce get-reservation-purchase-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-reservation-purchase-recommendation.html)|[Get-CEReservationPurchaseRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationPurchaseRecommendation.html)|
 |[aws ce get-reservation-utilization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-reservation-utilization.html)|[Get-CEReservationUtilization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationUtilization.html)|
 |[aws ce get-rightsizing-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-rightsizing-recommendation.html)|[Get-CERightsizingRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CERightsizingRecommendation.html)|
+|[aws ce get-savings-plan-purchase-recommendation-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-savings-plan-purchase-recommendation-details.html)|[Get-CESavingsPlanPurchaseRecommendationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlanPurchaseRecommendationDetail.html)|
 |[aws ce get-savings-plans-coverage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-savings-plans-coverage.html)|[Get-CESavingsPlansCoverage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlansCoverage.html)|
 |[aws ce get-savings-plans-purchase-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-savings-plans-purchase-recommendation.html)|[Get-CESavingsPlansPurchaseRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlansPurchaseRecommendation.html)|
 |[aws ce get-savings-plans-utilization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-savings-plans-utilization.html)|[Get-CESavingsPlansUtilization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlansUtilization.html)|

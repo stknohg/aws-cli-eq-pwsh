@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-07-22
+date: 2023-08-03
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.376 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.6 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.385 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -140,6 +140,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EMR](https://aws.amazon.com/emr/)|[emr]({{%relref "post/emr.md" %}})|EMR||
 |[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
 |[Amazon EMR Serverless](https://aws.amazon.com/emr/serverless/)|[emr-serverless]({{%relref "post/emr-serverless.md" %}})|EMRServerless||
+|[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/)|[entityresolution]({{%relref "post/entityresolution.md" %}})|ERES||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
 |[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
@@ -227,6 +228,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2||
 |[Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
+|[Amazon Managed Blockchain Query](https://aws.amazon.com/managed-blockchain/amb-query/)|[managedblockchain-query]({{%relref "post/managedblockchain-query.md" %}})|MBCQ||
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
 |[AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)|[marketplacecommerceanalytics]({{%relref "post/marketplacecommerceanalytics.md" %}})|MCA||
@@ -239,7 +241,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elemental MediaStore](https://aws.amazon.com/mediastore/)|[mediastore]({{%relref "post/mediastore.md" %}})|EMS||
 |[AWS Elemental MediaStore Data Plane](https://aws.amazon.com/mediastore/)|[mediastore-data]({{%relref "post/mediastore-data.md" %}})|EMSD||
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||
-|[Amazon HealthLake Imaging](https://aws.amazon.com/healthlake/imaging/)|[medical-imaging]({{%relref "post/medical-imaging.md" %}})|MIS|AWS Health Imaging API|
+|[AWS HealthImaging](https://aws.amazon.com/healthimaging/)|[medical-imaging]({{%relref "post/medical-imaging.md" %}})|MIS||
 |[Amazon MemoryDB for Redis](https://aws.amazon.com/memorydb/)|[memorydb]({{%relref "post/memorydb.md" %}})|MDB||
 |[AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)|[meteringmarketplace]({{%relref "post/meteringmarketplace.md" %}})|MM||
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||

@@ -1,12 +1,12 @@
 ---
 title: medical-imaging
-date: 2023-07-22
-description: aws medical-imaging (Amazon HealthLake Imaging) command/cmdlet list.
+date: 2023-08-03
+description: aws medical-imaging (AWS HealthImaging) command/cmdlet list.
 ---
 
 ## medical-imaging
 
-### [Amazon HealthLake Imaging](https://aws.amazon.com/healthlake/imaging/)
+### [AWS HealthImaging](https://aws.amazon.com/healthimaging/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medical-imaging/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/MedicalImaging_cmdlets.html)

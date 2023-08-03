@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2023-07-22
+date: 2023-08-03
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
@@ -61,6 +61,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer start-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-server.html)|[Start-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRServer.html)|
 |[aws transfer stop-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/stop-server.html)|[Stop-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-TFRServer.html)|
 |[aws transfer tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/tag-resource.html)|[Add-TFRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TFRResourceTag.html)|
+|[aws transfer test-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/test-connection.html)|[Test-TFRConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-TFRConnection.html)|
 |[aws transfer test-identity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/test-identity-provider.html)|[Test-TFRIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-TFRIdentityProvider.html)|
 |[aws transfer untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/untag-resource.html)|[Remove-TFRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRResourceTag.html)|
 |[aws transfer update-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/update-access.html)|[Update-TFRAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRAccess.html)|

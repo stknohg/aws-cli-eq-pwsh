@@ -1,6 +1,6 @@
 ---
 title: application-insights
-date: 2023-07-22
+date: 2023-08-03
 description: aws application-insights (Amazon CloudWatch Application Insights) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws application-insights (Amazon CloudWatch Application Insights) c
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws application-insights add-workload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/add-workload.html)|[Add-CWAIWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWAIWorkload.html)|
 |[aws application-insights create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/create-application.html)|[New-CWAIApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWAIApplication.html)|
 |[aws application-insights create-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/create-component.html)|[New-CWAIComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWAIComponent.html)|
 |[aws application-insights create-log-pattern](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/create-log-pattern.html)|[New-CWAILogPattern](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWAILogPattern.html)|
@@ -27,6 +28,7 @@ description: aws application-insights (Amazon CloudWatch Application Insights) c
 |[aws application-insights describe-observation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/describe-observation.html)|[Get-CWAIObservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIObservation.html)|
 |[aws application-insights describe-problem](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/describe-problem.html)|[Get-CWAIProblem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIProblem.html)|
 |[aws application-insights describe-problem-observations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/describe-problem-observations.html)|[Get-CWAIProblemObservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIProblemObservation.html)|
+|[aws application-insights describe-workload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/describe-workload.html)|[Get-CWAIWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIWorkload.html)|
 |[aws application-insights list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-applications.html)|[Get-CWAIApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIApplicationList.html)|
 |[aws application-insights list-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-components.html)|[Get-CWAIComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIComponentList.html)|
 |[aws application-insights list-configuration-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-configuration-history.html)|[Get-CWAIConfigurationHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIConfigurationHistoryList.html)|
@@ -34,10 +36,14 @@ description: aws application-insights (Amazon CloudWatch Application Insights) c
 |[aws application-insights list-log-patterns](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-log-patterns.html)|[Get-CWAILogPatternList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAILogPatternList.html)|
 |[aws application-insights list-problems](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-problems.html)|[Get-CWAIProblemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIProblemList.html)|
 |[aws application-insights list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-tags-for-resource.html)|[Get-CWAIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIResourceTag.html)|
+|[aws application-insights list-workloads](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/list-workloads.html)|[Get-CWAIWorkloadList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAIWorkloadList.html)|
+|[aws application-insights remove-workload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/remove-workload.html)|[Remove-CWAIWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAIWorkload.html)|
 |[aws application-insights tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/tag-resource.html)|[Add-CWAIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWAIResourceTag.html)|
 |[aws application-insights untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/untag-resource.html)|[Remove-CWAIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAIResourceTag.html)|
 |[aws application-insights update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/update-application.html)|[Update-CWAIApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIApplication.html)|
 |[aws application-insights update-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/update-component.html)|[Update-CWAIComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIComponent.html)|
 |[aws application-insights update-component-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/update-component-configuration.html)|[Update-CWAIComponentConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIComponentConfiguration.html)|
 |[aws application-insights update-log-pattern](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/update-log-pattern.html)|[Update-CWAILogPattern](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAILogPattern.html)|
+|[aws application-insights update-problem](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/update-problem.html)|[Update-CWAIProblem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIProblem.html)|
+|[aws application-insights update-workload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-insights/update-workload.html)|[Update-CWAIWorkload](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWAIWorkload.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2023-07-22
+date: 2023-08-03
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -69,6 +69,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard.html)|[Get-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboard.html)|
 |[aws quicksight describe-dashboard-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-definition.html)|[Get-QSDashboardDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardDefinition.html)|
 |[aws quicksight describe-dashboard-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-permissions.html)|[Get-QSDashboardPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardPermission.html)|
+|[aws quicksight describe-dashboard-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-snapshot-job.html)|[Get-QSDashboardSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardSnapshotJob.html)|
+|[aws quicksight describe-dashboard-snapshot-job-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-snapshot-job-result.html)|[Get-QSDashboardSnapshotJobResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardSnapshotJobResult.html)|
 |[aws quicksight describe-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-data-set.html)|[Get-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSet.html)|
 |[aws quicksight describe-data-set-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-data-set-permissions.html)|[Get-QSDataSetPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSetPermission.html)|
 |[aws quicksight describe-data-set-refresh-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-data-set-refresh-properties.html)|[Get-QSDataSetRefreshProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSetRefreshProperty.html)|
@@ -140,6 +142,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight search-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/search-groups.html)|[Find-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-QSGroup.html)|
 |[aws quicksight start-asset-bundle-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-export-job.html)|[Start-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleExportJob.html)|
 |[aws quicksight start-asset-bundle-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-import-job.html)|[Start-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleImportJob.html)|
+|[aws quicksight start-dashboard-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job.html)|[Start-QSDashboardSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJob.html)|
 |[aws quicksight tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|
 |[aws quicksight untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/untag-resource.html)|[Remove-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSResourceTag.html)|
 |[aws quicksight update-account-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-account-customization.html)|[Update-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountCustomization.html)|

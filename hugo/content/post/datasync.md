@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2023-07-22
+date: 2023-08-03
 description: aws datasync (AWS DataSync) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync add-storage-system](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/add-storage-system.html)|[Add-DSYNStorageSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSYNStorageSystem.html)|
 |[aws datasync cancel-task-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/cancel-task-execution.html)|[Stop-DSYNTaskExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DSYNTaskExecution.html)|
 |[aws datasync create-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/create-agent.html)|[New-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNAgent.html)|
+|[aws datasync create-location-azure-blob](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/create-location-azure-blob.html)|[New-DSYNLocationAzureBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationAzureBlob.html)|
 |[aws datasync create-location-efs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/create-location-efs.html)|[New-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationEfs.html)|
 |[aws datasync create-location-fsx-lustre](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/create-location-fsx-lustre.html)|[New-DSYNLocationFsxLustre](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationFsxLustre.html)|
 |[aws datasync create-location-fsx-ontap](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/create-location-fsx-ontap.html)|[New-DSYNLocationFsxOntap](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSYNLocationFsxOntap.html)|
@@ -32,6 +33,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync delete-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/delete-task.html)|[Remove-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNTask.html)|
 |[aws datasync describe-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/describe-agent.html)|[Get-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNAgent.html)|
 |[aws datasync describe-discovery-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/describe-discovery-job.html)|[Get-DSYNDiscoveryJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNDiscoveryJob.html)|
+|[aws datasync describe-location-azure-blob](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/describe-location-azure-blob.html)|[Get-DSYNLocationAzureBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationAzureBlob.html)|
 |[aws datasync describe-location-efs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/describe-location-efs.html)|[Get-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationEfs.html)|
 |[aws datasync describe-location-fsx-lustre](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/describe-location-fsx-lustre.html)|[Get-DSYNLocationFsxLustre](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationFsxLustre.html)|
 |[aws datasync describe-location-fsx-ontap](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/describe-location-fsx-ontap.html)|[Get-DSYNLocationFsxOntap](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSYNLocationFsxOntap.html)|
@@ -63,6 +65,7 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/untag-resource.html)|[Remove-DSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSYNResourceTag.html)|
 |[aws datasync update-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-agent.html)|[Update-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNAgent.html)|
 |[aws datasync update-discovery-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-discovery-job.html)|[Update-DSYNDiscoveryJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNDiscoveryJob.html)|
+|[aws datasync update-location-azure-blob](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-azure-blob.html)|[Update-DSYNLocationAzureBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationAzureBlob.html)|
 |[aws datasync update-location-hdfs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-hdfs.html)|[Update-DSYNLocationHdf](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationHdf.html)|
 |[aws datasync update-location-nfs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-nfs.html)|[Update-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationNfs.html)|
 |[aws datasync update-location-object-storage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-object-storage.html)|[Update-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationObjectStorage.html)|

@@ -701,6 +701,12 @@
     "Url": "https://aws.amazon.com/elasticloadbalancing/",
     "Note": ""
   },
+  "emr": {
+    "Prefix": "EMR",
+    "Name": "Amazon EMR",
+    "Url": "https://aws.amazon.com/emr/",
+    "Note": ""
+  },
   "emr-containers": {
     "Prefix": "EMRC",
     "Name": "Amazon EMR on Amazon EKS",
@@ -713,10 +719,10 @@
     "Url": "https://aws.amazon.com/emr/serverless/",
     "Note": ""
   },
-  "emr": {
-    "Prefix": "EMR",
-    "Name": "Amazon EMR",
-    "Url": "https://aws.amazon.com/emr/",
+  "entityresolution": {
+    "Prefix": "ERES",
+    "Name": "AWS Entity Resolution",
+    "Url": "https://aws.amazon.com/entity-resolution/",
     "Note": ""
   },
   "es": {
@@ -1241,6 +1247,12 @@
     "Url": "https://aws.amazon.com/managed-blockchain/",
     "Note": ""
   },
+  "managedblockchain-query": {
+    "Prefix": "MBCQ",
+    "Name": "Amazon Managed Blockchain Query",
+    "Url": "https://aws.amazon.com/managed-blockchain/amb-query/",
+    "Note": ""
+  },
   "marketplace-catalog": {
     "Prefix": "MCAT",
     "Name": "AWS Marketplace Catalog Service",
@@ -1315,9 +1327,9 @@
   },
   "medical-imaging": {
     "Prefix": "MIS",
-    "Name": "Amazon HealthLake Imaging",
-    "Url": "https://aws.amazon.com/healthlake/imaging/",
-    "Note": "AWS Health Imaging API"
+    "Name": "AWS HealthImaging",
+    "Url": "https://aws.amazon.com/healthimaging/",
+    "Note": ""
   },
   "memorydb": {
     "Prefix": "MDB",

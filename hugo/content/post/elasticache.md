@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2023-08-03
+date: 2023-08-15
 description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 ---
 
@@ -78,4 +78,5 @@ description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 |[aws elasticache revoke-cache-security-group-ingress](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/revoke-cache-security-group-ingress.html)|[Revoke-ECCacheSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-ECCacheSecurityGroupIngress.html)|
 |[aws elasticache start-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/start-migration.html)|[Start-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECMigration.html)|
 |[aws elasticache test-failover](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/test-failover.html)|[Test-ECFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECFailover.html)|
+|[aws elasticache test-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/test-migration.html)|[Test-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECMigration.html)|
 

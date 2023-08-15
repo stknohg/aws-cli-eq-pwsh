@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2023-08-03
+date: 2023-08-15
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup create-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-vault.html)|[New-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupVault.html)|
 |[aws backup create-framework](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-framework.html)|[New-BAKFramework](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKFramework.html)|
 |[aws backup create-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-legal-hold.html)|[New-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKLegalHold.html)|
+|[aws backup create-logically-air-gapped-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-logically-air-gapped-backup-vault.html)|[New-BAKLogicallyAirGappedBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKLogicallyAirGappedBackupVault.html)|
 |[aws backup create-report-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-report-plan.html)|[New-BAKReportPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKReportPlan.html)|
 |[aws backup delete-backup-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-plan.html)|[Remove-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupPlan.html)|
 |[aws backup delete-backup-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-selection.html)|[Remove-BAKBackupSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupSelection.html)|
@@ -62,6 +63,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup list-frameworks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-frameworks.html)|[Get-BAKFrameworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKFrameworkList.html)|
 |[aws backup list-legal-holds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-legal-holds.html)|[Get-BAKLegalHoldList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKLegalHoldList.html)|
 |[aws backup list-protected-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-protected-resources.html)|[Get-BAKProtectedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResourceList.html)|
+|[aws backup list-protected-resources-by-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-protected-resources-by-backup-vault.html)|[Get-BAKProtectedResourcesByBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResourcesByBackupVaultList.html)|
 |[aws backup list-recovery-points-by-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-recovery-points-by-backup-vault.html)|[Get-BAKRecoveryPointsByBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByBackupVaultList.html)|
 |[aws backup list-recovery-points-by-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-recovery-points-by-legal-hold.html)|[Get-BAKRecoveryPointsByLegalHoldList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByLegalHoldList.html)|
 |[aws backup list-recovery-points-by-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-recovery-points-by-resource.html)|[Get-BAKRecoveryPointsByResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByResourceList.html)|

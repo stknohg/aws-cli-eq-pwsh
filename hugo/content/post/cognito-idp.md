@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2023-08-03
+date: 2023-08-15
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -73,6 +73,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp get-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-device.html)|[Get-CGIPDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPDevice.html)|
 |[aws cognito-idp get-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-group.html)|[Get-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPGroup.html)|
 |[aws cognito-idp get-identity-provider-by-identifier](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-identity-provider-by-identifier.html)|[Get-CGIPIdentityProviderByIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPIdentityProviderByIdentifier.html)|
+|[aws cognito-idp get-log-delivery-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-log-delivery-configuration.html)|[Get-CGIPLogDeliveryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPLogDeliveryConfiguration.html)|
 |[aws cognito-idp get-signing-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-signing-certificate.html)|[Get-CGIPSigningCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPSigningCertificate.html)|
 |[aws cognito-idp get-ui-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-ui-customization.html)|[Get-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUICustomization.html)|
 |[aws cognito-idp get-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-user.html)|[Get-CGIPUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUser.html)|
@@ -93,6 +94,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp resend-confirmation-code](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/resend-confirmation-code.html)|[Send-CGIPConfirmationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPConfirmationCode.html)|
 |[aws cognito-idp respond-to-auth-challenge](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/respond-to-auth-challenge.html)|[Send-CGIPAuthChallengeResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CGIPAuthChallengeResponse.html)|
 |[aws cognito-idp revoke-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/revoke-token.html)|[Revoke-CGIPToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-CGIPToken.html)|
+|[aws cognito-idp set-log-delivery-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/set-log-delivery-configuration.html)|[Set-CGIPLogDeliveryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPLogDeliveryConfiguration.html)|
 |[aws cognito-idp set-risk-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/set-risk-configuration.html)|[Set-CGIPRiskConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPRiskConfiguration.html)|
 |[aws cognito-idp set-ui-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/set-ui-customization.html)|[Set-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUICustomization.html)|
 |[aws cognito-idp set-user-mfa-preference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/set-user-mfa-preference.html)|[Set-CGIPUserMFAPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CGIPUserMFAPreference.html)|

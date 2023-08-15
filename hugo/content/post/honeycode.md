@@ -1,6 +1,6 @@
 ---
 title: honeycode
-date: 2023-08-03
+date: 2023-08-15
 description: aws honeycode (Amazon Honeycode) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: resiliencehub
-date: 2023-08-03
+date: 2023-08-15
 description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws resiliencehub add-draft-app-version-resource-mappings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/add-draft-app-version-resource-mappings.html)|[Add-RESHDraftAppVersionResourceMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RESHDraftAppVersionResourceMapping.html)|
+|[aws resiliencehub batch-update-recommendation-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/batch-update-recommendation-status.html)|[Set-RESHUpdateRecommendationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-RESHUpdateRecommendationStatus.html)|
 |[aws resiliencehub create-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/create-app.html)|[New-RESHApp](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RESHApp.html)|
 |[aws resiliencehub create-app-version-app-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/create-app-version-app-component.html)|[New-RESHAppVersionAppComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RESHAppVersionAppComponent.html)|
 |[aws resiliencehub create-app-version-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/create-app-version-resource.html)|[New-RESHAppVersionResource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RESHAppVersionResource.html)|
@@ -37,6 +38,7 @@ description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehub describe-resiliency-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/describe-resiliency-policy.html)|[Get-RESHResiliencyPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHResiliencyPolicy.html)|
 |[aws resiliencehub import-resources-to-draft-app-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/import-resources-to-draft-app-version.html)|[Import-RESHResourcesToDraftAppVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-RESHResourcesToDraftAppVersion.html)|
 |[aws resiliencehub list-alarm-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-alarm-recommendations.html)|[Get-RESHAlarmRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAlarmRecommendationList.html)|
+|[aws resiliencehub list-app-assessment-compliance-drifts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-assessment-compliance-drifts.html)|[Get-RESHAppAssessmentComplianceDriftList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppAssessmentComplianceDriftList.html)|
 |[aws resiliencehub list-app-assessments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-assessments.html)|[Get-RESHAppAssessmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppAssessmentList.html)|
 |[aws resiliencehub list-app-component-compliances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-component-compliances.html)|[Get-RESHAppComponentComplianceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppComponentComplianceList.html)|
 |[aws resiliencehub list-app-component-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-component-recommendations.html)|[Get-RESHAppComponentRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppComponentRecommendationList.html)|

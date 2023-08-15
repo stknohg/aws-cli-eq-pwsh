@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2023-08-03
+date: 2023-08-15
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -182,6 +182,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker get-lineage-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-lineage-group-policy.html)|[Get-SMLineageGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLineageGroupPolicy.html)|
 |[aws sagemaker get-model-package-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-model-package-group-policy.html)|[Get-SMModelPackageGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMModelPackageGroupPolicy.html)|
 |[aws sagemaker get-sagemaker-servicecatalog-portfolio-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-sagemaker-servicecatalog-portfolio-status.html)|[Get-SMSagemakerServicecatalogPortfolioStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSagemakerServicecatalogPortfolioStatus.html)|
+|[aws sagemaker get-scaling-configuration-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-scaling-configuration-recommendation.html)|[Get-SMScalingConfigurationRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMScalingConfigurationRecommendation.html)|
 |[aws sagemaker get-search-suggestions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-search-suggestions.html)|[Get-SMSearchSuggestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSearchSuggestion.html)|
 |[aws sagemaker import-hub-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/import-hub-content.html)|[Import-SMHubContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SMHubContent.html)|
 |[aws sagemaker list-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-actions.html)|[Get-SMActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMActionList.html)|

@@ -1,6 +1,6 @@
 ---
 title: personalize
-date: 2023-08-03
+date: 2023-08-15
 description: aws personalize (Amazon Personalize) command/cmdlet list.
 ---
 

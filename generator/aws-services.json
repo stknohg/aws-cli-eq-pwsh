@@ -1435,9 +1435,9 @@
   },
   "omics": {
     "Prefix": "OMICS",
-    "Name": "Amazon Omics",
-    "Url": "https://aws.amazon.com/omics/",
-    "Note": ""
+    "Name": "AWS HealthOmics",
+    "Url": "https://aws.amazon.com/healthomics/",
+    "Note": "ex-Amazon Omics"
   },
   "opensearch": {
     "Prefix": "OS",

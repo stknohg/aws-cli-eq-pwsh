@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2023-08-15
+date: 2023-08-26
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -157,5 +157,6 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds stop-db-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/stop-db-instance.html)|[Stop-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstance.html)|
 |[aws rds stop-db-instance-automated-backups-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/stop-db-instance-automated-backups-replication.html)|[Stop-RDSDBInstanceAutomatedBackupsReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RDSDBInstanceAutomatedBackupsReplication.html)|
 |[aws rds switchover-blue-green-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/switchover-blue-green-deployment.html)|[Switch-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Switch-RDSBlueGreenDeployment.html)|
+|[aws rds switchover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/switchover-global-cluster.html)|[Request-RDSSwitchoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-RDSSwitchoverGlobalCluster.html)|
 |[aws rds switchover-read-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/switchover-read-replica.html)|[Convert-RDSReadReplicaToNewPrimary](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaToNewPrimary.html)|
 

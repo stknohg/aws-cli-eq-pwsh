@@ -1,6 +1,6 @@
 ---
 title: codecommit
-date: 2023-08-15
+date: 2023-08-26
 description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 ---
 
@@ -58,6 +58,7 @@ description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 |[aws codecommit list-approval-rule-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-approval-rule-templates.html)|[Get-CCApprovalRuleTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCApprovalRuleTemplateList.html)|
 |[aws codecommit list-associated-approval-rule-templates-for-repository](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-associated-approval-rule-templates-for-repository.html)|[Get-CCAssociatedApprovalRuleTemplatesForRepositoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCAssociatedApprovalRuleTemplatesForRepositoryList.html)|
 |[aws codecommit list-branches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-branches.html)|[Get-CCBranchList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBranchList.html)|
+|[aws codecommit list-file-commit-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-file-commit-history.html)|[Get-CCFileCommitHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCFileCommitHistoryList.html)|
 |[aws codecommit list-pull-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-pull-requests.html)|[Get-CCPullRequestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCPullRequestList.html)|
 |[aws codecommit list-repositories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-repositories.html)|[Get-CCRepositoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCRepositoryList.html)|
 |[aws codecommit list-repositories-for-approval-rule-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/list-repositories-for-approval-rule-template.html)|[Get-CCRepositoriesForApprovalRuleTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCRepositoriesForApprovalRuleTemplateList.html)|

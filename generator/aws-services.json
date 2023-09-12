@@ -1409,6 +1409,12 @@
     "Url": "https://aws.amazon.com/neptune/",
     "Note": ""
   },
+  "neptunedata": {
+    "Prefix": "NEPT",
+    "Name": "Amazon Neptune",
+    "Url": "https://aws.amazon.com/neptune/",
+    "Note": "Data API"
+  },
   "network-firewall": {
     "Prefix": "NWFW",
     "Name": "AWS Network Firewall",
@@ -1497,6 +1503,12 @@
     "Prefix": "PAYCD",
     "Name": "AWS Payment Cryptography Data Plane",
     "Url": "https://docs.aws.amazon.com/payment-cryptography/",
+    "Note": ""
+  },
+  "pca-connector-ad": {
+    "Prefix": "PCAAD",
+    "Name": "AWS Private CA Connector for Active Directory",
+    "Url": "https://aws.amazon.com/private-ca/",
     "Note": ""
   },
   "personalize": {

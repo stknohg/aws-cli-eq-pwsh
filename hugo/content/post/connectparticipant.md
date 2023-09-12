@@ -1,6 +1,6 @@
 ---
 title: connectparticipant
-date: 2023-08-26
+date: 2023-09-12
 description: aws connectparticipant (Amazon Connect Participant Service) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws connectparticipant (Amazon Connect Participant Service) command
 |----|----|
 |[aws connectparticipant complete-attachment-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectparticipant/complete-attachment-upload.html)|[Complete-CONNPAttachmentUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-CONNPAttachmentUpload.html)|
 |[aws connectparticipant create-participant-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectparticipant/create-participant-connection.html)|[New-CONNPParticipantConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNPParticipantConnection.html)|
+|[aws connectparticipant describe-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectparticipant/describe-view.html)|[Get-CONNPView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNPView.html)|
 |[aws connectparticipant disconnect-participant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectparticipant/disconnect-participant.html)|[Disconnect-CONNPParticipant](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-CONNPParticipant.html)|
 |[aws connectparticipant get-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectparticipant/get-attachment.html)|[Get-CONNPAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNPAttachment.html)|
 |[aws connectparticipant get-transcript](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectparticipant/get-transcript.html)|[Get-CONNPTranscript](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNPTranscript.html)|

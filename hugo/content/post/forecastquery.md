@@ -1,6 +1,6 @@
 ---
 title: forecastquery
-date: 2023-08-26
+date: 2023-09-12
 description: aws forecastquery (Amazon Forecast Query Service) command/cmdlet list.
 ---
 

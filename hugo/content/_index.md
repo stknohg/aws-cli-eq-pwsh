@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-08-26
+date: 2023-09-12
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.13 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.402 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.17 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.412 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -255,6 +255,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Mechanical Turk](https://www.mturk.com/)|[mturk]({{%relref "post/mturk.md" %}})|MTR||
 |[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/)|[mwaa]({{%relref "post/mwaa.md" %}})|MWAA||
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptune]({{%relref "post/neptune.md" %}})|NPT||
+|[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptunedata]({{%relref "post/neptunedata.md" %}})|NEPT|Data API|
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|NS||
@@ -270,6 +271,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|PAN||
 |[AWS Payment Cryptography Control Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography]({{%relref "post/payment-cryptography.md" %}})|PAYCC||
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
+|[AWS Private CA Connector for Active Directory](https://aws.amazon.com/private-ca/)|[pca-connector-ad]({{%relref "post/pca-connector-ad.md" %}})|PCAAD||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|PERS||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|PERSE||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|PERSR||

@@ -1,6 +1,6 @@
 ---
 title: health
-date: 2023-08-26
+date: 2023-09-12
 description: aws health (AWS Health) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws health (AWS Health) command/cmdlet list.
 |[aws health describe-affected-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-affected-entities.html)|[Get-HLTHAffectedEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHAffectedEntity.html)|
 |[aws health describe-affected-entities-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-affected-entities-for-organization.html)|[Get-HLTHAffectedEntitiesForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHAffectedEntitiesForOrganization.html)|
 |[aws health describe-entity-aggregates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-entity-aggregates.html)|[Get-HLTHEntityAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEntityAggregate.html)|
+|[aws health describe-entity-aggregates-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-entity-aggregates-for-organization.html)|[Get-HLTHEntityAggregatesForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEntityAggregatesForOrganization.html)|
 |[aws health describe-event-aggregates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-event-aggregates.html)|[Get-HLTHEventAggregate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventAggregate.html)|
 |[aws health describe-event-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-event-details.html)|[Get-HLTHEventDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventDetail.html)|
 |[aws health describe-event-details-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-event-details-for-organization.html)|[Get-HLTHEventDetailsForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventDetailsForOrganization.html)|

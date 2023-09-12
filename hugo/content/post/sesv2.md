@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2023-08-26
+date: 2023-09-12
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws sesv2 batch-get-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/batch-get-metric-data.html)|[Get-SES2BatchMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2BatchMetricData.html)|
+|[aws sesv2 cancel-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/cancel-export-job.html)|[Stop-SES2ExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SES2ExportJob.html)|
 |[aws sesv2 create-configuration-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-configuration-set.html)|[New-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSet.html)|
 |[aws sesv2 create-configuration-set-event-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-configuration-set-event-destination.html)|[New-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSetEventDestination.html)|
 |[aws sesv2 create-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-contact.html)|[New-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2Contact.html)|
@@ -24,6 +25,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 create-email-identity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-email-identity.html)|[New-SES2EmailIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2EmailIdentity.html)|
 |[aws sesv2 create-email-identity-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-email-identity-policy.html)|[New-SES2EmailIdentityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2EmailIdentityPolicy.html)|
 |[aws sesv2 create-email-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-email-template.html)|[New-SES2EmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2EmailTemplate.html)|
+|[aws sesv2 create-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-export-job.html)|[New-SES2ExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ExportJob.html)|
 |[aws sesv2 create-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-import-job.html)|[New-SES2ImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ImportJob.html)|
 |[aws sesv2 delete-configuration-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/delete-configuration-set.html)|[Remove-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ConfigurationSet.html)|
 |[aws sesv2 delete-configuration-set-event-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/delete-configuration-set-event-destination.html)|[Remove-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ConfigurationSetEventDestination.html)|
@@ -52,7 +54,9 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 get-email-identity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-identity.html)|[Get-SES2EmailIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentity.html)|
 |[aws sesv2 get-email-identity-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-identity-policies.html)|[Get-SES2EmailIdentityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentityPolicy.html)|
 |[aws sesv2 get-email-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-template.html)|[Get-SES2EmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailTemplate.html)|
+|[aws sesv2 get-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-export-job.html)|[Get-SES2ExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ExportJob.html)|
 |[aws sesv2 get-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-import-job.html)|[Get-SES2ImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ImportJob.html)|
+|[aws sesv2 get-message-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-message-insights.html)|[Get-SES2MessageInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2MessageInsight.html)|
 |[aws sesv2 get-suppressed-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-suppressed-destination.html)|[Get-SES2SuppressedDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2SuppressedDestination.html)|
 |[aws sesv2 list-configuration-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-configuration-sets.html)|[Get-SES2ConfigurationSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ConfigurationSetList.html)|
 |[aws sesv2 list-contact-lists](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-contact-lists.html)|[Get-SES2ContactListCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ContactListCollection.html)|
@@ -63,6 +67,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 list-domain-deliverability-campaigns](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-domain-deliverability-campaigns.html)|[Get-SES2DomainDeliverabilityCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DomainDeliverabilityCampaignList.html)|
 |[aws sesv2 list-email-identities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-email-identities.html)|[Get-SES2EmailIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentityList.html)|
 |[aws sesv2 list-email-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-email-templates.html)|[Get-SES2EmailTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailTemplateList.html)|
+|[aws sesv2 list-export-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-export-jobs.html)|[Get-SES2ExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ExportJobList.html)|
 |[aws sesv2 list-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-import-jobs.html)|[Get-SES2ImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ImportJobList.html)|
 |[aws sesv2 list-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-recommendations.html)|[Get-SES2RecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2RecommendationList.html)|
 |[aws sesv2 list-suppressed-destinations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-suppressed-destinations.html)|[Get-SES2SuppressedDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2SuppressedDestinationList.html)|

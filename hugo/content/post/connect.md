@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-08-26
+date: 2023-09-12
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -45,6 +45,8 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-use-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-use-case.html)|[New-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUseCase.html)|
 |[aws connect create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-user.html)|[New-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUser.html)|
 |[aws connect create-user-hierarchy-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-user-hierarchy-group.html)|[New-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNUserHierarchyGroup.html)|
+|[aws connect create-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-view.html)|[New-CONNView](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNView.html)|
+|[aws connect create-view-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-view-version.html)|[New-CONNViewVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNViewVersion.html)|
 |[aws connect create-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-vocabulary.html)|[New-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNVocabulary.html)|
 |[aws connect deactivate-evaluation-form](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/deactivate-evaluation-form.html)|[Disable-CONNEvaluationForm](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CONNEvaluationForm.html)|
 |[aws connect delete-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-evaluation.html)|[Remove-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactEvaluation.html)|
@@ -65,6 +67,8 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-use-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-use-case.html)|[Remove-CONNUseCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUseCase.html)|
 |[aws connect delete-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-user.html)|[Remove-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUser.html)|
 |[aws connect delete-user-hierarchy-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-user-hierarchy-group.html)|[Remove-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNUserHierarchyGroup.html)|
+|[aws connect delete-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-view.html)|[Remove-CONNView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNView.html)|
+|[aws connect delete-view-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-view-version.html)|[Remove-CONNViewVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNViewVersion.html)|
 |[aws connect delete-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-vocabulary.html)|[Remove-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNVocabulary.html)|
 |[aws connect describe-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-agent-status.html)|[Get-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatus.html)|
 |[aws connect describe-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-contact.html)|[Get-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContact.html)|
@@ -87,6 +91,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect describe-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-user.html)|[Get-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUser.html)|
 |[aws connect describe-user-hierarchy-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-user-hierarchy-group.html)|[Get-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroup.html)|
 |[aws connect describe-user-hierarchy-structure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-user-hierarchy-structure.html)|[Get-CONNUserHierarchyStructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyStructure.html)|
+|[aws connect describe-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-view.html)|[Get-CONNView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNView.html)|
 |[aws connect describe-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-vocabulary.html)|[Get-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNVocabulary.html)|
 |[aws connect disassociate-approved-origin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-approved-origin.html)|[Remove-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNApprovedOrigin.html)|
 |[aws connect disassociate-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-bot.html)|[Remove-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNBot.html)|
@@ -144,6 +149,8 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-use-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-use-cases.html)|[Get-CONNUseCaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUseCaseList.html)|
 |[aws connect list-user-hierarchy-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-user-hierarchy-groups.html)|[Get-CONNUserHierarchyGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserHierarchyGroupList.html)|
 |[aws connect list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-users.html)|[Get-CONNUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNUserList.html)|
+|[aws connect list-view-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-view-versions.html)|[Get-CONNViewVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNViewVersionList.html)|
+|[aws connect list-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-views.html)|[Get-CONNViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNViewList.html)|
 |[aws connect monitor-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/monitor-contact.html)|[Start-CONNContactMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactMonitoring.html)|
 |[aws connect put-user-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/put-user-status.html)|[Write-CONNUserStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CONNUserStatus.html)|
 |[aws connect release-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/release-phone-number.html)|[Remove-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNPhoneNumber.html)|
@@ -213,4 +220,6 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-user-phone-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-user-phone-config.html)|[Update-CONNUserPhoneConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNUserPhoneConfig.html)|
 |[aws connect update-user-routing-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-user-routing-profile.html)|[Update-CONNUserRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNUserRoutingProfile.html)|
 |[aws connect update-user-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-user-security-profiles.html)|[Update-CONNUserSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNUserSecurityProfile.html)|
+|[aws connect update-view-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-view-content.html)|[Update-CONNViewContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNViewContent.html)|
+|[aws connect update-view-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-view-metadata.html)|[Update-CONNViewMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNViewMetadata.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: ddb
-date: 2023-08-26
+date: 2023-09-12
 description: aws ddb (Amazon DynamoDB) command/cmdlet list.
 ---
 

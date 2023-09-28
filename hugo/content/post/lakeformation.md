@@ -1,6 +1,6 @@
 ---
 title: lakeformation
-date: 2023-09-12
+date: 2023-09-28
 description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 ---
 
@@ -20,8 +20,10 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |[aws lakeformation cancel-transaction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/cancel-transaction.html)|[Stop-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LKFTransaction.html)|
 |[aws lakeformation commit-transaction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/commit-transaction.html)|[Write-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LKFTransaction.html)|
 |[aws lakeformation create-data-cells-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/create-data-cells-filter.html)|[New-LKFDataCellsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LKFDataCellsFilter.html)|
+|[aws lakeformation create-lake-formation-opt-in](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/create-lake-formation-opt-in.html)|[New-LKFLakeFormationOptIn](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LKFLakeFormationOptIn.html)|
 |[aws lakeformation create-lf-tag](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/create-lf-tag.html)|[New-LKFLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-LKFLFTag.html)|
 |[aws lakeformation delete-data-cells-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/delete-data-cells-filter.html)|[Remove-LKFDataCellsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LKFDataCellsFilter.html)|
+|[aws lakeformation delete-lake-formation-opt-in](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/delete-lake-formation-opt-in.html)|[Remove-LKFLakeFormationOptIn](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LKFLakeFormationOptIn.html)|
 |[aws lakeformation delete-lf-tag](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/delete-lf-tag.html)|[Remove-LKFLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LKFLFTag.html)|
 |[aws lakeformation delete-objects-on-cancel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/delete-objects-on-cancel.html)|[Remove-LKFObjectsOnCancel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LKFObjectsOnCancel.html)|
 |[aws lakeformation deregister-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/deregister-resource.html)|[Unregister-LKFResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-LKFResource.html)|
@@ -42,6 +44,7 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |[aws lakeformation get-work-units](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/get-work-units.html)|[Get-LKFWorkUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFWorkUnit.html)|
 |[aws lakeformation grant-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/grant-permissions.html)|[Grant-LKFPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Grant-LKFPermission.html)|
 |[aws lakeformation list-data-cells-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/list-data-cells-filter.html)|[Get-LKFDataCellsFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFDataCellsFilterList.html)|
+|[aws lakeformation list-lake-formation-opt-ins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/list-lake-formation-opt-ins.html)|[Get-LKFLakeFormationOptInList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFLakeFormationOptInList.html)|
 |[aws lakeformation list-lf-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/list-lf-tags.html)|[Get-LKFLFTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFLFTagList.html)|
 |[aws lakeformation list-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/list-permissions.html)|[Get-LKFPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFPermissionList.html)|
 |[aws lakeformation list-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/list-resources.html)|[Get-LKFResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFResourceList.html)|

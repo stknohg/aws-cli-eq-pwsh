@@ -1,6 +1,6 @@
 ---
 title: glacier
-date: 2023-09-12
+date: 2023-09-28
 description: aws glacier (Amazon S3 Glacier) command/cmdlet list.
 ---
 

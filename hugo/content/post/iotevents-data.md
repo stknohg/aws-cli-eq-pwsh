@@ -1,6 +1,6 @@
 ---
 title: iotevents-data
-date: 2023-09-12
+date: 2023-09-28
 description: aws iotevents-data (AWS IoT Events) command/cmdlet list.
 ---
 

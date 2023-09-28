@@ -1,6 +1,6 @@
 ---
 title: servicediscovery
-date: 2023-09-12
+date: 2023-09-28
 description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet l
 |[aws servicediscovery delete-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/delete-service.html)|[Remove-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDService.html)|
 |[aws servicediscovery deregister-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/deregister-instance.html)|[Remove-SDInstanceRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDInstanceRegistration.html)|
 |[aws servicediscovery discover-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/discover-instances.html)|[Find-SDInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-SDInstance.html)|
+|[aws servicediscovery discover-instances-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/discover-instances-revision.html)|[Get-SDInstancesRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDInstancesRevision.html)|
 |[aws servicediscovery get-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-instance.html)|[Get-SDInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDInstance.html)|
 |[aws servicediscovery get-instances-health-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-instances-health-status.html)|[Get-SDInstancesHealthStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDInstancesHealthStatus.html)|
 |[aws servicediscovery get-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-namespace.html)|[Get-SDNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDNamespace.html)|

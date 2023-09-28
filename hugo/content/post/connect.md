@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-09-12
+date: 2023-09-28
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -140,6 +140,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-routing-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profiles.html)|[Get-CONNRoutingProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileList.html)|
 |[aws connect list-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-rules.html)|[Get-CONNRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRuleList.html)|
 |[aws connect list-security-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-security-keys.html)|[Get-CONNSecurityKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityKeyList.html)|
+|[aws connect list-security-profile-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-security-profile-applications.html)|[Get-CONNSecurityProfileApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfileApplicationList.html)|
 |[aws connect list-security-profile-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-security-profile-permissions.html)|[Get-CONNSecurityProfilePermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfilePermissionList.html)|
 |[aws connect list-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-security-profiles.html)|[Get-CONNSecurityProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNSecurityProfileList.html)|
 |[aws connect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-tags-for-resource.html)|[Get-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNResourceTag.html)|

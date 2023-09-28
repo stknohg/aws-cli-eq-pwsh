@@ -1,6 +1,6 @@
 ---
 title: apprunner
-date: 2023-09-12
+date: 2023-09-28
 description: aws apprunner (AWS App Runner) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws apprunner (AWS App Runner) command/cmdlet list.
 |[aws apprunner list-observability-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-observability-configurations.html)|[Get-AARObservabilityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AARObservabilityConfigurationList.html)|
 |[aws apprunner list-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-operations.html)|[Get-AAROperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AAROperationList.html)|
 |[aws apprunner list-services](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-services.html)|[Get-AARServiceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AARServiceList.html)|
+|[aws apprunner list-services-for-auto-scaling-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-services-for-auto-scaling-configuration.html)|[Get-AARServicesForAutoScalingConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AARServicesForAutoScalingConfigurationList.html)|
 |[aws apprunner list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-tags-for-resource.html)|[Get-AARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AARResourceTag.html)|
 |[aws apprunner list-vpc-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-vpc-connectors.html)|[Get-AARVpcConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AARVpcConnectorList.html)|
 |[aws apprunner list-vpc-ingress-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/list-vpc-ingress-connections.html)|[Get-AARVpcIngressConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AARVpcIngressConnectionList.html)|
@@ -46,6 +47,7 @@ description: aws apprunner (AWS App Runner) command/cmdlet list.
 |[aws apprunner start-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/start-deployment.html)|[Start-AARDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AARDeployment.html)|
 |[aws apprunner tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/tag-resource.html)|[Add-AARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AARResourceTag.html)|
 |[aws apprunner untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/untag-resource.html)|[Remove-AARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AARResourceTag.html)|
+|[aws apprunner update-default-auto-scaling-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/update-default-auto-scaling-configuration.html)|[Update-AARDefaultAutoScalingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AARDefaultAutoScalingConfiguration.html)|
 |[aws apprunner update-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/update-service.html)|[Update-AARService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AARService.html)|
 |[aws apprunner update-vpc-ingress-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apprunner/update-vpc-ingress-connection.html)|[Update-AARVpcIngressConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AARVpcIngressConnection.html)|
 

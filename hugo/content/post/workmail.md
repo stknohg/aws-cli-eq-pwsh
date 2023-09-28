@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2023-09-12
+date: 2023-09-28
 description: aws workmail (Amazon WorkMail) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail deregister-from-work-mail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/deregister-from-work-mail.html)|[Remove-WMFromWorkMail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMFromWorkMail.html)|
 |[aws workmail deregister-mail-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/deregister-mail-domain.html)|[Remove-WMMailDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMMailDomain.html)|
 |[aws workmail describe-email-monitoring-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/describe-email-monitoring-configuration.html)|[Get-WMEmailMonitoringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMEmailMonitoringConfiguration.html)|
+|[aws workmail describe-entity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/describe-entity.html)|[Get-WMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMEntity.html)|
 |[aws workmail describe-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/describe-group.html)|[Get-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroup.html)|
 |[aws workmail describe-inbound-dmarc-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/describe-inbound-dmarc-settings.html)|[Get-WMInboundDmarcSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMInboundDmarcSetting.html)|
 |[aws workmail describe-mailbox-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/describe-mailbox-export-job.html)|[Get-WMMailboxExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxExportJob.html)|
@@ -62,6 +63,7 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail list-availability-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-availability-configurations.html)|[Get-WMAvailabilityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMAvailabilityConfigurationList.html)|
 |[aws workmail list-group-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-group-members.html)|[Get-WMMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMemberList.html)|
 |[aws workmail list-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-groups.html)|[Get-WMGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroupList.html)|
+|[aws workmail list-groups-for-entity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-groups-for-entity.html)|[Get-WMGroupsForEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMGroupsForEntityList.html)|
 |[aws workmail list-impersonation-roles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-impersonation-roles.html)|[Get-WMImpersonationRoleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMImpersonationRoleList.html)|
 |[aws workmail list-mail-domains](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-mail-domains.html)|[Get-WMMailDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailDomainList.html)|
 |[aws workmail list-mailbox-export-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/list-mailbox-export-jobs.html)|[Get-WMMailboxExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WMMailboxExportJobList.html)|
@@ -88,9 +90,11 @@ description: aws workmail (Amazon WorkMail) command/cmdlet list.
 |[aws workmail untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/untag-resource.html)|[Remove-WMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WMResourceTag.html)|
 |[aws workmail update-availability-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-availability-configuration.html)|[Update-WMAvailabilityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMAvailabilityConfiguration.html)|
 |[aws workmail update-default-mail-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-default-mail-domain.html)|[Update-WMDefaultMailDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMDefaultMailDomain.html)|
+|[aws workmail update-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-group.html)|[Update-WMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMGroup.html)|
 |[aws workmail update-impersonation-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-impersonation-role.html)|[Update-WMImpersonationRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMImpersonationRole.html)|
 |[aws workmail update-mailbox-quota](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-mailbox-quota.html)|[Update-WMMailboxQuota](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMailboxQuota.html)|
 |[aws workmail update-mobile-device-access-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-mobile-device-access-rule.html)|[Update-WMMobileDeviceAccessRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMMobileDeviceAccessRule.html)|
 |[aws workmail update-primary-email-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-primary-email-address.html)|[Update-WMPrimaryEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMPrimaryEmailAddress.html)|
 |[aws workmail update-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-resource.html)|[Update-WMResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMResource.html)|
+|[aws workmail update-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workmail/update-user.html)|[Update-WMUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WMUser.html)|
 

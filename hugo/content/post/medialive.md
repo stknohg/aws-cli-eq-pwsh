@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2023-09-12
+date: 2023-09-28
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -61,9 +61,11 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive reboot-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/reboot-input-device.html)|[Restart-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EMLInputDevice.html)|
 |[aws medialive reject-input-device-transfer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/reject-input-device-transfer.html)|[Deny-EMLInputDeviceTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-EMLInputDeviceTransfer.html)|
 |[aws medialive start-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/start-channel.html)|[Start-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLChannel.html)|
+|[aws medialive start-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/start-input-device.html)|[Start-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLInputDevice.html)|
 |[aws medialive start-input-device-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/start-input-device-maintenance-window.html)|[Start-EMLInputDeviceMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLInputDeviceMaintenanceWindow.html)|
 |[aws medialive start-multiplex](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/start-multiplex.html)|[Start-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMLMultiplex.html)|
 |[aws medialive stop-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/stop-channel.html)|[Stop-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLChannel.html)|
+|[aws medialive stop-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/stop-input-device.html)|[Stop-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLInputDevice.html)|
 |[aws medialive stop-multiplex](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/stop-multiplex.html)|[Stop-EMLMultiplex](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMLMultiplex.html)|
 |[aws medialive transfer-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/transfer-input-device.html)|[Move-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EMLInputDevice.html)|
 |[aws medialive update-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-account-configuration.html)|[Update-EMLAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLAccountConfiguration.html)|

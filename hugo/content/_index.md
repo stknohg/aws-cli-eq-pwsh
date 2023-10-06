@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-09-28
+date: 2023-10-06
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.22 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.423 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.24 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.428 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -53,6 +53,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
 |[AWS Backup Storage](https://aws.amazon.com/backup/)|[backupstorage]({{%relref "post/backupstorage.md" %}})|BAKS|API for external services|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
+|[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
+|[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock-runtime]({{%relref "post/bedrock-runtime.md" %}})|BDRR||
 |[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||

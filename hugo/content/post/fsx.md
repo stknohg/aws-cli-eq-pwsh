@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2023-09-28
+date: 2023-10-06
 description: aws fsx (Amazon FSx) command/cmdlet list.
 ---
 

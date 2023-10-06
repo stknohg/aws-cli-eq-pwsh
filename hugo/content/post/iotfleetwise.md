@@ -1,6 +1,6 @@
 ---
 title: iotfleetwise
-date: 2023-09-28
+date: 2023-10-06
 description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 |[aws iotfleetwise disassociate-vehicle-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/disassociate-vehicle-fleet.html)|[Remove-IFWVehicleFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWVehicleFleet.html)|
 |[aws iotfleetwise get-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-campaign.html)|[Get-IFWCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWCampaign.html)|
 |[aws iotfleetwise get-decoder-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-decoder-manifest.html)|[Get-IFWDecoderManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWDecoderManifest.html)|
+|[aws iotfleetwise get-encryption-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-encryption-configuration.html)|[Get-IFWEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWEncryptionConfiguration.html)|
 |[aws iotfleetwise get-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-fleet.html)|[Get-IFWFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWFleet.html)|
 |[aws iotfleetwise get-logging-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-logging-options.html)|[Get-IFWLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWLoggingOption.html)|
 |[aws iotfleetwise get-model-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-model-manifest.html)|[Get-IFWModelManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWModelManifest.html)|
@@ -53,6 +54,7 @@ description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 |[aws iotfleetwise list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-tags-for-resource.html)|[Get-IFWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWResourceTag.html)|
 |[aws iotfleetwise list-vehicles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-vehicles.html)|[Get-IFWVehicleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWVehicleList.html)|
 |[aws iotfleetwise list-vehicles-in-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-vehicles-in-fleet.html)|[Get-IFWVehiclesInFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWVehiclesInFleetList.html)|
+|[aws iotfleetwise put-encryption-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/put-encryption-configuration.html)|[Write-IFWEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IFWEncryptionConfiguration.html)|
 |[aws iotfleetwise put-logging-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/put-logging-options.html)|[Write-IFWLoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IFWLoggingOption.html)|
 |[aws iotfleetwise register-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/register-account.html)|[Register-IFWAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-IFWAccount.html)|
 |[aws iotfleetwise tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/tag-resource.html)|[Add-IFWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IFWResourceTag.html)|

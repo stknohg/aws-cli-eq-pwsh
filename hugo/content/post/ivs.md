@@ -1,6 +1,6 @@
 ---
 title: ivs
-date: 2023-09-28
+date: 2023-10-06
 description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 ---
 

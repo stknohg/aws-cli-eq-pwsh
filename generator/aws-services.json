@@ -197,6 +197,18 @@
     "Url": "https://aws.amazon.com/batch/",
     "Note": ""
   },
+  "bedrock": {
+    "Prefix": "BDR",
+    "Name": "Amazon Bedrock",
+    "Url": "https://aws.amazon.com/bedrock/",
+    "Note": ""
+  },
+  "bedrock-runtime": {
+    "Prefix": "BDRR",
+    "Name": "Amazon Bedrock",
+    "Url": "https://aws.amazon.com/bedrock/",
+    "Note": ""
+  },
   "billingconductor": {
     "Prefix": "ABC",
     "Name": "AWS Billing Conductor",

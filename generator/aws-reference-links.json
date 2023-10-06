@@ -32,6 +32,8 @@
   "backup-gateway": "https://docs.aws.amazon.com/powershell/latest/reference/items/BackupGateway_cmdlets.html",
   "backupstorage": "https://docs.aws.amazon.com/powershell/latest/reference/items/BackupStorage_cmdlets.html",
   "batch": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Batch_cmdlets.html",
+  "bedrock": "https://docs.aws.amazon.com/powershell/latest/reference/items/Bedrock_cmdlets.html",
+  "bedrock-runtime": "https://docs.aws.amazon.com/powershell/latest/reference/items/BedrockRuntime_cmdlets.html",
   "billingconductor": "https://docs.aws.amazon.com/powershell/latest/reference/items/BillingConductor_cmdlets.html",
   "braket": "https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html",
   "budgets": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html",

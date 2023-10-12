@@ -88,6 +88,7 @@
   "dataexchange": "https://docs.aws.amazon.com/powershell/latest/reference/items/DataExchange_cmdlets.html",
   "datapipeline": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Data_Pipeline_cmdlets.html",
   "datasync": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_DataSync_cmdlets.html",
+  "datazone": "https://docs.aws.amazon.com/powershell/latest/reference/items/DataZone_cmdlets.html",
   "dax": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_Accelerator_(DAX)_cmdlets.html",
   "deploy": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeDeploy_cmdlets.html",
   "detective": "https://docs.aws.amazon.com/powershell/latest/reference/items/Detective_cmdlets.html",

@@ -533,6 +533,12 @@
     "Url": "https://aws.amazon.com/datasync/",
     "Note": ""
   },
+  "datazone": {
+    "Prefix": "DZ",
+    "Name": "Amazon DataZone",
+    "Url": "https://aws.amazon.com/datazone/",
+    "Note": ""
+  },
   "dax": {
     "Prefix": "DAX",
     "Name": "Amazon DynamoDB Accelerator",

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-10-06
+date: 2023-10-12
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.24 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.428 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.25 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.429 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -109,6 +109,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Data Exchange](https://aws.amazon.com/data-exchange/)|[dataexchange]({{%relref "post/dataexchange.md" %}})|DTEX||
 |[AWS Data Pipeline](https://aws.amazon.com/datapipeline/)|[datapipeline]({{%relref "post/datapipeline.md" %}})|DP||
 |[AWS DataSync](https://aws.amazon.com/datasync/)|[datasync]({{%relref "post/datasync.md" %}})|DSYN||
+|[Amazon DataZone](https://aws.amazon.com/datazone/)|[datazone]({{%relref "post/datazone.md" %}})|DZ||
 |[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/dax/)|[dax]({{%relref "post/dax.md" %}})|DAX||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})|DDB|High level DynamoDB commands.|
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||

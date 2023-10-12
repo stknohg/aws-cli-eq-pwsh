@@ -1,6 +1,6 @@
 ---
 title: mgn
-date: 2023-10-06
+date: 2023-10-12
 description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 ---
 
@@ -19,10 +19,12 @@ description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 |[aws mgn associate-source-servers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/associate-source-servers.html)|[Add-MGNSourceServersToApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MGNSourceServersToApplication.html)|
 |[aws mgn change-server-life-cycle-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/change-server-life-cycle-state.html)|[Set-MGNServerLifeCycleState](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNServerLifeCycleState.html)|
 |[aws mgn create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/create-application.html)|[New-MGNApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNApplication.html)|
+|[aws mgn create-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/create-connector.html)|[New-MGNConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNConnector.html)|
 |[aws mgn create-launch-configuration-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/create-launch-configuration-template.html)|[New-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn create-replication-configuration-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/create-replication-configuration-template.html)|[New-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNReplicationConfigurationTemplate.html)|
 |[aws mgn create-wave](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/create-wave.html)|[New-MGNWave](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MGNWave.html)|
 |[aws mgn delete-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/delete-application.html)|[Remove-MGNApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNApplication.html)|
+|[aws mgn delete-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/delete-connector.html)|[Remove-MGNConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNConnector.html)|
 |[aws mgn delete-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/delete-job.html)|[Remove-MGNJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNJob.html)|
 |[aws mgn delete-launch-configuration-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/delete-launch-configuration-template.html)|[Remove-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn delete-replication-configuration-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/delete-replication-configuration-template.html)|[Remove-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNReplicationConfigurationTemplate.html)|
@@ -43,6 +45,7 @@ description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 |[aws mgn get-replication-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/get-replication-configuration.html)|[Get-MGNReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNReplicationConfiguration.html)|
 |[aws mgn initialize-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/initialize-service.html)|[Initialize-MGNService](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-MGNService.html)|
 |[aws mgn list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-applications.html)|[Get-MGNApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNApplicationList.html)|
+|[aws mgn list-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-connectors.html)|[Get-MGNConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNConnectorList.html)|
 |[aws mgn list-export-errors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-export-errors.html)|[Get-MGNExportErrorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNExportErrorList.html)|
 |[aws mgn list-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-exports.html)|[Get-MGNExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNExportList.html)|
 |[aws mgn list-import-errors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/list-import-errors.html)|[Get-MGNImportErrorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MGNImportErrorList.html)|
@@ -72,10 +75,12 @@ description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 |[aws mgn unarchive-wave](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/unarchive-wave.html)|[Set-MGNWaveAsUnarchived](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-MGNWaveAsUnarchived.html)|
 |[aws mgn untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/untag-resource.html)|[Remove-MGNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MGNResourceTag.html)|
 |[aws mgn update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-application.html)|[Update-MGNApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNApplication.html)|
+|[aws mgn update-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-connector.html)|[Update-MGNConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNConnector.html)|
 |[aws mgn update-launch-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-launch-configuration.html)|[Update-MGNLaunchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNLaunchConfiguration.html)|
 |[aws mgn update-launch-configuration-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-launch-configuration-template.html)|[Update-MGNLaunchConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNLaunchConfigurationTemplate.html)|
 |[aws mgn update-replication-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-replication-configuration.html)|[Update-MGNReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNReplicationConfiguration.html)|
 |[aws mgn update-replication-configuration-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-replication-configuration-template.html)|[Update-MGNReplicationConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNReplicationConfigurationTemplate.html)|
+|[aws mgn update-source-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-source-server.html)|[Update-MGNSourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNSourceServer.html)|
 |[aws mgn update-source-server-replication-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-source-server-replication-type.html)|[Update-MGNSourceServerReplicationType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNSourceServerReplicationType.html)|
 |[aws mgn update-wave](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mgn/update-wave.html)|[Update-MGNWave](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MGNWave.html)|
 

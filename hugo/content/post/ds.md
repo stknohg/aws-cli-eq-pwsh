@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2023-10-06
+date: 2023-10-12
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 

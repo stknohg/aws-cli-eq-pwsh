@@ -266,6 +266,9 @@ function Get-CLISubCommands {
                 $searchService = $g_SubCommandAlias[$ServiceName]
             }
             # Get-AWSCmdletName は1つの AwsCliCommand から複数の Cmdlet を返す場合がある
+            # どうやらAWS Tools for PowerShellのバグだった様で Ver.4.1.430 で解消された模様
+            # see : https://github.com/aws/aws-tools-for-powershell/issues/319
+            #       https://github.com/aws/aws-tools-for-powershell/commit/451df1cd87c16cf31b94ca06477945b92d8d6078
             $awsCLISubcommandName = $cliTokens[2]
             $awsCLIUrl = "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/$ServiceName/$awsCLISubcommandName.html"
             # Fix #2 : Since AWS Tools for PowerShell 4, Get-AWSCmdletName -AwsCliCommand is obsolete.

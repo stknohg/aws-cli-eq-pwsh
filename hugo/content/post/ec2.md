@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2023-10-12
+date: 2023-10-16
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -386,6 +386,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 disable-ebs-encryption-by-default](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-ebs-encryption-by-default.html)|[Disable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 disable-fast-launch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-fast-launch.html)|[Disable-EC2FastLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastLaunch.html)|
 |[aws ec2 disable-fast-snapshot-restores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-fast-snapshot-restores.html)|[Disable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2FastSnapshotRestore.html)|
+|[aws ec2 disable-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-image.html)|[Disable-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2Image.html)|
 |[aws ec2 disable-image-block-public-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-image-block-public-access.html)|[Disable-EC2ImageBlockPublicAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2ImageBlockPublicAccess.html)|
 |[aws ec2 disable-image-deprecation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-image-deprecation.html)|[Disable-EC2ImageDeprecation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2ImageDeprecation.html)|
 |[aws ec2 disable-ipam-organization-admin-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disable-ipam-organization-admin-account.html)|[Disable-EC2IpamOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-EC2IpamOrganizationAdminAccount.html)|
@@ -413,6 +414,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 enable-ebs-encryption-by-default](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-ebs-encryption-by-default.html)|[Enable-EC2EbsEncryptionByDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2EbsEncryptionByDefault.html)|
 |[aws ec2 enable-fast-launch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-fast-launch.html)|[Enable-EC2FastLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastLaunch.html)|
 |[aws ec2 enable-fast-snapshot-restores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-fast-snapshot-restores.html)|[Enable-EC2FastSnapshotRestore](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2FastSnapshotRestore.html)|
+|[aws ec2 enable-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-image.html)|[Enable-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2Image.html)|
 |[aws ec2 enable-image-block-public-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-image-block-public-access.html)|[Enable-EC2ImageBlockPublicAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2ImageBlockPublicAccess.html)|
 |[aws ec2 enable-image-deprecation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-image-deprecation.html)|[Enable-EC2ImageDeprecation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2ImageDeprecation.html)|
 |[aws ec2 enable-ipam-organization-admin-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/enable-ipam-organization-admin-account.html)|[Enable-EC2IpamOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-EC2IpamOrganizationAdminAccount.html)|

@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2023-10-12
+date: 2023-10-16
 description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 ---
 
@@ -18,7 +18,6 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb batch-write-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/batch-write-item.html)|[Set-DDBBatchItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DDBBatchItem.html)|
 |[aws dynamodb create-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/create-backup.html)|[New-DDBBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DDBBackup.html)|
 |[aws dynamodb create-global-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/create-global-table.html)|[New-DDBGlobalTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DDBGlobalTable.html)|
-|[aws dynamodb create-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/create-table.html)|[New-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DDBTable.html)|
 |[aws dynamodb create-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/create-table.html)|[New-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DDBTable.html)|
 |[aws dynamodb delete-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/delete-backup.html)|[Remove-DDBBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DDBBackup.html)|
 |[aws dynamodb delete-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/delete-item.html)|[Remove-DDBItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DDBItem.html)|

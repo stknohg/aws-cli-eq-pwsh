@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2023-10-12
+date: 2023-10-16
 description: aws fsx (Amazon FSx) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/list-tags-for-resource.html)|[Get-FSXResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXResourceTagList.html)|
 |[aws fsx release-file-system-nfs-v3-locks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/release-file-system-nfs-v3-locks.html)|[Clear-FSXFileSystemNfsV3Lock](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-FSXFileSystemNfsV3Lock.html)|
 |[aws fsx restore-volume-from-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/restore-volume-from-snapshot.html)|[Restore-FSXVolumeFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-FSXVolumeFromSnapshot.html)|
+|[aws fsx start-misconfigured-state-recovery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/start-misconfigured-state-recovery.html)|[Start-FSXMisconfiguredStateRecovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-FSXMisconfiguredStateRecovery.html)|
 |[aws fsx tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/tag-resource.html)|[Add-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FSXResourceTag.html)|
 |[aws fsx untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/untag-resource.html)|[Remove-FSXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FSXResourceTag.html)|
 |[aws fsx update-data-repository-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/update-data-repository-association.html)|[Update-FSXDataRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FSXDataRepositoryAssociation.html)|

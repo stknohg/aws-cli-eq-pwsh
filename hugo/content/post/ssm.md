@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2023-10-16
+date: 2023-11-06
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm delete-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-document.html)|[Remove-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMDocument.html)|
 |[aws ssm delete-inventory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-inventory.html)|[Remove-SSMInventory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMInventory.html)|
 |[aws ssm delete-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-maintenance-window.html)|[Remove-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMMaintenanceWindow.html)|
+|[aws ssm delete-ops-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-ops-item.html)|[Remove-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMOpsItem.html)|
 |[aws ssm delete-ops-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-ops-metadata.html)|[Remove-SSMOpsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMOpsMetadata.html)|
 |[aws ssm delete-parameter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-parameter.html)|[Remove-SSMParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMParameter.html)|
 |[aws ssm delete-parameters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-parameters.html)|[Remove-SSMParameterCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMParameterCollection.html)|

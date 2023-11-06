@@ -1,6 +1,6 @@
 ---
 title: route53-recovery-control-config
-date: 2023-10-16
+date: 2023-11-06
 description: aws route53-recovery-control-config (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws route53-recovery-control-config (Amazon Route 53 Application Re
 |[aws route53-recovery-control-config describe-control-panel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/describe-control-panel.html)|[Get-R53RCControlPanel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCControlPanel.html)|
 |[aws route53-recovery-control-config describe-routing-control](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/describe-routing-control.html)|[Get-R53RCRoutingControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCRoutingControl.html)|
 |[aws route53-recovery-control-config describe-safety-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/describe-safety-rule.html)|[Get-R53RCSafetyRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCSafetyRule.html)|
+|[aws route53-recovery-control-config get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/get-resource-policy.html)|[Get-R53RCResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCResourcePolicy.html)|
 |[aws route53-recovery-control-config list-associated-route53-health-checks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/list-associated-route53-health-checks.html)|[Get-R53RCAssociatedRoute53HealthCheckList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCAssociatedRoute53HealthCheckList.html)|
 |[aws route53-recovery-control-config list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/list-clusters.html)|[Get-R53RCClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCClusterList.html)|
 |[aws route53-recovery-control-config list-control-panels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/list-control-panels.html)|[Get-R53RCControlPanelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCControlPanelList.html)|

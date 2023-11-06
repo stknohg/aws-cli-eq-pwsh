@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-10-16
+date: 2023-11-06
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.26 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.430 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.32 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.445 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -157,7 +157,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Fraud Detector](https://aws.amazon.com/fraud-detector/)|[frauddetector]({{%relref "post/frauddetector.md" %}})|FD||
 |[Amazon FSx](https://aws.amazon.com/fsx/)|[fsx]({{%relref "post/fsx.md" %}})|FSX||
 |[Amazon GameLift](https://aws.amazon.com/gamelift/)|[gamelift]({{%relref "post/gamelift.md" %}})|GML||
-|[Amazon GameSparks](https://aws.amazon.com/gamesparks/)|[gamesparks]({{%relref "post/gamesparks.md" %}})|GMESP ||
 |[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||

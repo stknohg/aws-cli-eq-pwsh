@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2023-10-16
+date: 2023-11-06
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -46,9 +46,11 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch describe-vpc-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/describe-vpc-endpoints.html)|[Get-OSVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSVpcEndpoint.html)|
 |[aws opensearch dissociate-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/dissociate-package.html)|[Start-OSDissociatePackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSDissociatePackage.html)|
 |[aws opensearch get-compatible-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-compatible-versions.html)|[Get-OSCompatibleVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSCompatibleVersion.html)|
+|[aws opensearch get-domain-maintenance-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-domain-maintenance-status.html)|[Get-OSDomainMaintenanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainMaintenanceStatus.html)|
 |[aws opensearch get-package-version-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-package-version-history.html)|[Get-OSPackageVersionHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSPackageVersionHistory.html)|
 |[aws opensearch get-upgrade-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-upgrade-history.html)|[Get-OSUpgradeHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSUpgradeHistory.html)|
 |[aws opensearch get-upgrade-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-upgrade-status.html)|[Get-OSUpgradeStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSUpgradeStatus.html)|
+|[aws opensearch list-domain-maintenances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-domain-maintenances.html)|[Get-OSDomainMaintenanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainMaintenanceList.html)|
 |[aws opensearch list-domain-names](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-domain-names.html)|[Get-OSDomainNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainNameList.html)|
 |[aws opensearch list-domains-for-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-domains-for-package.html)|[Get-OSDomainsForPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainsForPackageList.html)|
 |[aws opensearch list-instance-type-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-instance-type-details.html)|[Get-OSInstanceTypeDetailList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInstanceTypeDetailList.html)|
@@ -64,6 +66,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch reject-inbound-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/reject-inbound-connection.html)|[Deny-OSInboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-OSInboundConnection.html)|
 |[aws opensearch remove-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/remove-tags.html)|[Remove-OSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OSResourceTag.html)|
 |[aws opensearch revoke-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/revoke-vpc-endpoint-access.html)|[Revoke-OSVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-OSVpcEndpointAccess.html)|
+|[aws opensearch start-domain-maintenance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-domain-maintenance.html)|[Start-OSDomainMaintenance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSDomainMaintenance.html)|
 |[aws opensearch start-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-service-software-update.html)|[Start-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSServiceSoftwareUpdate.html)|
 |[aws opensearch update-domain-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-domain-config.html)|[Update-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDomainConfig.html)|
 |[aws opensearch update-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-package.html)|[Update-OSPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSPackage.html)|

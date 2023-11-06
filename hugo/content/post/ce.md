@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2023-10-16
+date: 2023-11-06
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 

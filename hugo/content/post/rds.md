@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2023-10-16
+date: 2023-11-06
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -43,6 +43,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds create-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-subnet-group.html)|[New-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSubnetGroup.html)|
 |[aws rds create-event-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-event-subscription.html)|[New-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSEventSubscription.html)|
 |[aws rds create-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-global-cluster.html)|[New-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSGlobalCluster.html)|
+|[aws rds create-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-integration.html)|[New-RDSIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSIntegration.html)|
 |[aws rds create-option-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-option-group.html)|[New-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSOptionGroup.html)|
 |[aws rds delete-blue-green-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-blue-green-deployment.html)|[Remove-RDSBlueGreenDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSBlueGreenDeployment.html)|
 |[aws rds delete-custom-db-engine-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-custom-db-engine-version.html)|[Remove-RDSCustomDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSCustomDBEngineVersion.html)|
@@ -61,6 +62,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds delete-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-subnet-group.html)|[Remove-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSubnetGroup.html)|
 |[aws rds delete-event-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-event-subscription.html)|[Remove-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSEventSubscription.html)|
 |[aws rds delete-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-global-cluster.html)|[Remove-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSGlobalCluster.html)|
+|[aws rds delete-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-integration.html)|[Remove-RDSIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSIntegration.html)|
 |[aws rds delete-option-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-option-group.html)|[Remove-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSOptionGroup.html)|
 |[aws rds deregister-db-proxy-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/deregister-db-proxy-targets.html)|[Unregister-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-RDSDBProxyTarget.html)|
 |[aws rds describe-account-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-account-attributes.html)|[Get-RDSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSAccountAttribute.html)|
@@ -95,6 +97,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-events.html)|[Get-RDSEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSEvent.html)|
 |[aws rds describe-export-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-export-tasks.html)|[Get-RDSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSExportTask.html)|
 |[aws rds describe-global-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-global-clusters.html)|[Get-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSGlobalCluster.html)|
+|[aws rds describe-integrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-integrations.html)|[Get-RDSIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSIntegration.html)|
 |[aws rds describe-option-group-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-option-group-options.html)|[Get-RDSOptionGroupOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOptionGroupOption.html)|
 |[aws rds describe-option-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-option-groups.html)|[Get-RDSOptionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOptionGroup.html)|
 |[aws rds describe-orderable-db-instance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-orderable-db-instance-options.html)|[Get-RDSOrderableDBInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSOrderableDBInstanceOption.html)|

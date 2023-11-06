@@ -1,6 +1,6 @@
 ---
 title: migrationhubstrategy
-date: 2023-10-16
+date: 2023-11-06
 description: aws migrationhubstrategy (AWS Migration Hub Strategy Recommendations) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws migrationhubstrategy (AWS Migration Hub Strategy Recommendation
 |[aws migrationhubstrategy get-recommendation-report-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/get-recommendation-report-details.html)|[Get-MHSRecommendationReportDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSRecommendationReportDetail.html)|
 |[aws migrationhubstrategy get-server-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/get-server-details.html)|[Get-MHSServerDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSServerDetail.html)|
 |[aws migrationhubstrategy get-server-strategies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/get-server-strategies.html)|[Get-MHSServerStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSServerStrategy.html)|
+|[aws migrationhubstrategy list-analyzable-servers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/list-analyzable-servers.html)|[Get-MHSAnalyzableServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSAnalyzableServerList.html)|
 |[aws migrationhubstrategy list-application-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/list-application-components.html)|[Get-MHSApplicationComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSApplicationComponentList.html)|
 |[aws migrationhubstrategy list-collectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/list-collectors.html)|[Get-MHSCollectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSCollectorList.html)|
 |[aws migrationhubstrategy list-import-file-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhubstrategy/list-import-file-task.html)|[Get-MHSImportFileTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MHSImportFileTaskList.html)|

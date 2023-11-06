@@ -1,6 +1,6 @@
 ---
 title: dataexchange
-date: 2023-10-16
+date: 2023-11-06
 description: aws dataexchange (AWS Data Exchange) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws dataexchange (AWS Data Exchange) command/cmdlet list.
 |[aws dataexchange list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/list-tags-for-resource.html)|[Get-DTEXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DTEXResourceTag.html)|
 |[aws dataexchange revoke-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/revoke-revision.html)|[Revoke-DTEXRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-DTEXRevision.html)|
 |[aws dataexchange send-api-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/send-api-asset.html)|[Send-DTEXApiAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-DTEXApiAsset.html)|
+|[aws dataexchange send-data-set-notification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/send-data-set-notification.html)|[Send-DTEXDataSetNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-DTEXDataSetNotification.html)|
 |[aws dataexchange start-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/start-job.html)|[Start-DTEXJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DTEXJob.html)|
 |[aws dataexchange tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/tag-resource.html)|[Add-DTEXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DTEXResourceTag.html)|
 |[aws dataexchange untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dataexchange/untag-resource.html)|[Remove-DTEXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DTEXResourceTag.html)|

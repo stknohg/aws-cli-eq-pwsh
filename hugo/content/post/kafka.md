@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2023-10-16
+date: 2023-11-06
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -18,10 +18,12 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/create-cluster.html)|[New-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKCluster.html)|
 |[aws kafka create-cluster-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/create-cluster-v2.html)|[New-MSKClusterV2](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKClusterV2.html)|
 |[aws kafka create-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/create-configuration.html)|[New-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKConfiguration.html)|
+|[aws kafka create-replicator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/create-replicator.html)|[New-MSKReplicator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKReplicator.html)|
 |[aws kafka create-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/create-vpc-connection.html)|[New-MSKVpcConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MSKVpcConnection.html)|
 |[aws kafka delete-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/delete-cluster.html)|[Remove-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCluster.html)|
 |[aws kafka delete-cluster-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/delete-cluster-policy.html)|[Remove-MSKClusterPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKClusterPolicy.html)|
 |[aws kafka delete-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/delete-configuration.html)|[Remove-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKConfiguration.html)|
+|[aws kafka delete-replicator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/delete-replicator.html)|[Remove-MSKReplicator](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKReplicator.html)|
 |[aws kafka delete-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/delete-vpc-connection.html)|[Remove-MSKVpcConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKVpcConnection.html)|
 |[aws kafka describe-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster.html)|[Get-MSKCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCluster.html)|
 |[aws kafka describe-cluster-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster-operation.html)|[Get-MSKClusterOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterOperation.html)|
@@ -29,6 +31,7 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka describe-cluster-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-cluster-v2.html)|[Get-MSKClusterV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterV2.html)|
 |[aws kafka describe-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-configuration.html)|[Get-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfiguration.html)|
 |[aws kafka describe-configuration-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-configuration-revision.html)|[Get-MSKConfigurationRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationRevision.html)|
+|[aws kafka describe-replicator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-replicator.html)|[Get-MSKReplicator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKReplicator.html)|
 |[aws kafka describe-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/describe-vpc-connection.html)|[Get-MSKVpcConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKVpcConnection.html)|
 |[aws kafka get-bootstrap-brokers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/get-bootstrap-brokers.html)|[Get-MSKBootstrapBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKBootstrapBroker.html)|
 |[aws kafka get-cluster-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/get-cluster-policy.html)|[Get-MSKClusterPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKClusterPolicy.html)|
@@ -42,6 +45,7 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka list-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-configurations.html)|[Get-MSKConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKConfigurationList.html)|
 |[aws kafka list-kafka-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-kafka-versions.html)|[Get-MSKKafkaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKKafkaVersionList.html)|
 |[aws kafka list-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-nodes.html)|[Get-MSKNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKNodeList.html)|
+|[aws kafka list-replicators](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-replicators.html)|[Get-MSKReplicatorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKReplicatorList.html)|
 |[aws kafka list-scram-secrets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-scram-secrets.html)|[Get-MSKScramSecretList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKScramSecretList.html)|
 |[aws kafka list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-tags-for-resource.html)|[Get-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKResourceTag.html)|
 |[aws kafka list-vpc-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-vpc-connections.html)|[Get-MSKVpcConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKVpcConnectionList.html)|
@@ -58,6 +62,7 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka update-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-configuration.html)|[Update-MSKConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConfiguration.html)|
 |[aws kafka update-connectivity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-connectivity.html)|[Update-MSKConnectivity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKConnectivity.html)|
 |[aws kafka update-monitoring](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-monitoring.html)|[Update-MSKMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKMonitoring.html)|
+|[aws kafka update-replication-info](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-replication-info.html)|[Update-MSKReplicationInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKReplicationInfo.html)|
 |[aws kafka update-security](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-security.html)|[Update-MSKSecurity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKSecurity.html)|
 |[aws kafka update-storage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-storage.html)|[Update-MSKStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKStorage.html)|
 

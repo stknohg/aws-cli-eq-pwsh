@@ -1,6 +1,6 @@
 ---
 title: finspace
-date: 2023-10-16
+date: 2023-11-06
 description: aws finspace (Amazon FinSpace) command/cmdlet list.
 ---
 
@@ -42,6 +42,7 @@ description: aws finspace (Amazon FinSpace) command/cmdlet list.
 |[aws finspace tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/tag-resource.html)|[Add-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FINSPResourceTag.html)|
 |[aws finspace untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/untag-resource.html)|[Remove-FINSPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPResourceTag.html)|
 |[aws finspace update-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-environment.html)|[Update-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPEnvironment.html)|
+|[aws finspace update-kx-cluster-code-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-cluster-code-configuration.html)|[Update-FINSPKxClusterCodeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxClusterCodeConfiguration.html)|
 |[aws finspace update-kx-cluster-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-cluster-databases.html)|[Update-FINSPKxClusterDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxClusterDatabasis.html)|
 |[aws finspace update-kx-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-database.html)|[Update-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxDatabase.html)|
 |[aws finspace update-kx-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/update-kx-environment.html)|[Update-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FINSPKxEnvironment.html)|

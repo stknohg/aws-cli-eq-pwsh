@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2023-10-16
+date: 2023-11-06
 description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition get-face-liveness-session-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-face-liveness-session-results.html)|[Get-REKFaceLivenessSessionResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceLivenessSessionResult.html)|
 |[aws rekognition get-face-search](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-face-search.html)|[Get-REKFaceSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceSearch.html)|
 |[aws rekognition get-label-detection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-label-detection.html)|[Get-REKLabelDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKLabelDetection.html)|
+|[aws rekognition get-media-analysis-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-media-analysis-job.html)|[Get-REKMediaAnalysisJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKMediaAnalysisJob.html)|
 |[aws rekognition get-person-tracking](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-person-tracking.html)|[Get-REKPersonTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKPersonTracking.html)|
 |[aws rekognition get-segment-detection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-segment-detection.html)|[Get-REKSegmentDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKSegmentDetection.html)|
 |[aws rekognition get-text-detection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/get-text-detection.html)|[Get-REKTextDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKTextDetection.html)|
@@ -59,6 +60,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition list-dataset-entries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-dataset-entries.html)|[Get-REKDatasetEntryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKDatasetEntryList.html)|
 |[aws rekognition list-dataset-labels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-dataset-labels.html)|[Get-REKDatasetLabelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKDatasetLabelList.html)|
 |[aws rekognition list-faces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-faces.html)|[Get-REKFaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKFaceList.html)|
+|[aws rekognition list-media-analysis-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-media-analysis-jobs.html)|[Get-REKMediaAnalysisJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKMediaAnalysisJobList.html)|
 |[aws rekognition list-project-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-project-policies.html)|[Get-REKProjectPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKProjectPolicyList.html)|
 |[aws rekognition list-stream-processors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-stream-processors.html)|[Get-REKStreamProcessorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKStreamProcessorList.html)|
 |[aws rekognition list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/list-tags-for-resource.html)|[Get-REKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-REKResourceTag.html)|
@@ -74,6 +76,7 @@ description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 |[aws rekognition start-face-detection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-face-detection.html)|[Start-REKFaceDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKFaceDetection.html)|
 |[aws rekognition start-face-search](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-face-search.html)|[Start-REKFaceSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKFaceSearch.html)|
 |[aws rekognition start-label-detection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-label-detection.html)|[Start-REKLabelDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKLabelDetection.html)|
+|[aws rekognition start-media-analysis-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-media-analysis-job.html)|[Start-REKMediaAnalysisJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKMediaAnalysisJob.html)|
 |[aws rekognition start-person-tracking](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-person-tracking.html)|[Start-REKPersonTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKPersonTracking.html)|
 |[aws rekognition start-project-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-project-version.html)|[Start-REKProjectVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKProjectVersion.html)|
 |[aws rekognition start-segment-detection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rekognition/start-segment-detection.html)|[Start-REKSegmentDetection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-REKSegmentDetection.html)|

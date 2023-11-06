@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2023-10-16
+date: 2023-11-06
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 

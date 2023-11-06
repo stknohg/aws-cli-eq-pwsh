@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2023-10-16
+date: 2023-11-06
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -239,6 +239,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-aws-network-performance-metric-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-aws-network-performance-metric-subscriptions.html)|[Get-EC2AwsNetworkPerformanceMetricSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AwsNetworkPerformanceMetricSubscription.html)|
 |[aws ec2 describe-bundle-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-bundle-tasks.html)|[Get-EC2BundleTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2BundleTask.html)|
 |[aws ec2 describe-byoip-cidrs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-byoip-cidrs.html)|[Get-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ByoipCidr.html)|
+|[aws ec2 describe-capacity-block-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-block-offerings.html)|[Get-EC2CapacityBlockOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlockOffering.html)|
 |[aws ec2 describe-capacity-reservation-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-fleets.html)|[Get-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationFleet.html)|
 |[aws ec2 describe-capacity-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservations.html)|[Get-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservation.html)|
 |[aws ec2 describe-carrier-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-carrier-gateways.html)|[Get-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CarrierGateway.html)|
@@ -458,6 +459,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-network-insights-access-scope-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-network-insights-access-scope-content.html)|[Get-EC2NetworkInsightsAccessScopeContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkInsightsAccessScopeContent.html)|
 |[aws ec2 get-password-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
 |[aws ec2 get-reserved-instances-exchange-quote](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-reserved-instances-exchange-quote.html)|[Get-EC2ReservedInstancesExchangeQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ReservedInstancesExchangeQuote.html)|
+|[aws ec2 get-security-groups-for-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-security-groups-for-vpc.html)|[Get-EC2SecurityGroupsForVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupsForVpc.html)|
 |[aws ec2 get-serial-console-access-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-serial-console-access-status.html)|[Get-EC2SerialConsoleAccessStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SerialConsoleAccessStatus.html)|
 |[aws ec2 get-spot-placement-scores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-spot-placement-scores.html)|[Get-EC2SpotPlacementScore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SpotPlacementScore.html)|
 |[aws ec2 get-subnet-cidr-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-subnet-cidr-reservations.html)|[Get-EC2SubnetCidrReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SubnetCidrReservation.html)|
@@ -549,6 +551,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 provision-byoip-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/provision-byoip-cidr.html)|[Register-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2ByoipCidr.html)|
 |[aws ec2 provision-ipam-pool-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/provision-ipam-pool-cidr.html)|[Register-EC2IpamPoolCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2IpamPoolCidr.html)|
 |[aws ec2 provision-public-ipv4-pool-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/provision-public-ipv4-pool-cidr.html)|[Register-EC2PublicIpv4PoolCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2PublicIpv4PoolCidr.html)|
+|[aws ec2 purchase-capacity-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/purchase-capacity-block.html)|[New-EC2EC2CapacityBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2EC2CapacityBlock.html)|
 |[aws ec2 purchase-host-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/purchase-host-reservation.html)|[New-EC2HostReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2HostReservation.html)|
 |[aws ec2 purchase-reserved-instances-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/purchase-reserved-instances-offering.html)|[New-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ReservedInstance.html)|
 |[aws ec2 purchase-scheduled-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/purchase-scheduled-instances.html)|[New-EC2ScheduledInstancePurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ScheduledInstancePurchase.html)|

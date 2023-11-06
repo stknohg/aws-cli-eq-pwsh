@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-10-16
+date: 2023-11-06
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-routing-profile-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-routing-profile-queues.html)|[Join-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-CONNRoutingProfileQueue.html)|
 |[aws connect associate-security-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-security-key.html)|[Add-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNSecurityKey.html)|
 |[aws connect associate-traffic-distribution-group-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-traffic-distribution-group-user.html)|[Add-CONNTrafficDistributionGroupUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNTrafficDistributionGroupUser.html)|
+|[aws connect batch-get-flow-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/batch-get-flow-association.html)|[Get-CONNFlowAssociationBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFlowAssociationBatch.html)|
 |[aws connect claim-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/claim-phone-number.html)|[Request-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-CONNPhoneNumber.html)|
 |[aws connect create-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-agent-status.html)|[New-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNAgentStatus.html)|
 |[aws connect create-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-contact-flow.html)|[New-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlow.html)|
@@ -197,6 +198,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-instance-storage-config.html)|[Update-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceStorageConfig.html)|
 |[aws connect update-participant-role-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-participant-role-config.html)|[Update-CONNParticipantRoleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNParticipantRoleConfig.html)|
 |[aws connect update-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-phone-number.html)|[Update-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPhoneNumber.html)|
+|[aws connect update-phone-number-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-phone-number-metadata.html)|[Update-CONNPhoneNumberMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPhoneNumberMetadata.html)|
 |[aws connect update-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-prompt.html)|[Update-CONNPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPrompt.html)|
 |[aws connect update-queue-hours-of-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-queue-hours-of-operation.html)|[Update-CONNQueueHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNQueueHoursOfOperation.html)|
 |[aws connect update-queue-max-contacts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-queue-max-contacts.html)|[Update-CONNQueueMaxContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNQueueMaxContact.html)|

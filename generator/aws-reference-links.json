@@ -135,7 +135,7 @@
   "frauddetector": "https://docs.aws.amazon.com/powershell/latest/reference/items/FraudDetector_cmdlets.html",
   "fsx": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_FSx_cmdlets.html",
   "gamelift": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_GameLift_Service_cmdlets.html",
-  "gamesparks": "https://docs.aws.amazon.com/powershell/latest/reference/items/GameSparks_cmdlets.html",
+  "gamesparks": "",
   "glacier": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Glacier_cmdlets.html",
   "globalaccelerator": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Global_Accelerator_cmdlets.html",
   "glue": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Glue_cmdlets.html",

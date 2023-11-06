@@ -822,10 +822,10 @@
     "Note": ""
   },
   "gamesparks": {
-    "Prefix": "GMESP ",
-    "Name": "Amazon GameSparks",
+    "Prefix": "GMESP",
+    "Name": "(Deprecated) Amazon GameSparks",
     "Url": "https://aws.amazon.com/gamesparks/",
-    "Note": ""
+    "Note": "Service depredated"
   },
   "glacier": {
     "Prefix": "GLC",

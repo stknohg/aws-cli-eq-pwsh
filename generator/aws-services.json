@@ -300,6 +300,12 @@
     "Note": ""
   },
   "cloudfront": {
+    "Prefix": "CFKV",
+    "Name": "CloudFront KeyValueStore",
+    "Url": "https://aws.amazon.com/cloudfront/",
+    "Note": ""
+  },
+  "cloudfront-keyvaluestore": {
     "Prefix": "CF",
     "Name": "Amazon CloudFront",
     "Url": "https://aws.amazon.com/cloudfront/",
@@ -929,6 +935,12 @@
     "Url": "https://aws.amazon.com/inspector/",
     "Note": ""
   },
+  "inspector-scan": {
+    "Prefix": "ISCAN",
+    "Name": "Amazon Inspector Scan",
+    "Url": "https://aws.amazon.com/inspector/",
+    "Note": ""
+  },
   "inspector2": {
     "Prefix": "INS2",
     "Name": "Amazon Inspector",
@@ -1157,6 +1169,12 @@
     "Url": "https://aws.amazon.com/lambda/",
     "Note": ""
   },
+  "launch-wizard": {
+    "Prefix": "LWIZ",
+    "Name": "AWS Launch Wizard",
+    "Url": "https://aws.amazon.com/launchwizard/",
+    "Note": ""
+  },
   "lex-models": {
     "Prefix": "LMB",
     "Name": "Amazon Lex",
@@ -1247,17 +1265,11 @@
     "Url": "https://aws.amazon.com/machinelearning/",
     "Note": ""
   },
-  "macie": {
-    "Prefix": "MAC",
-    "Name": "Amazon Macie",
-    "Url": "https://aws.amazon.com/macie/",
-    "Note": ""
-  },
   "macie2": {
     "Prefix": "MAC2",
     "Name": "Amazon Macie",
     "Url": "https://aws.amazon.com/macie/",
-    "Note": ""
+    "Note": "Macie v1 API was removed."
   },
   "managedblockchain": {
     "Prefix": "MBC",
@@ -2073,6 +2085,12 @@
     "Prefix": "TRN",
     "Name": "Amazon Translate",
     "Url": "https://aws.amazon.com/translate/",
+    "Note": ""
+  },
+  "trustedadvisor": {
+    "Prefix": "TA",
+    "Name": "AWS Trusted Advisor",
+    "Url": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/",
     "Note": ""
   },
   "verifiedpermissions": {

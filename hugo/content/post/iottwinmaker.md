@@ -1,6 +1,6 @@
 ---
 title: iottwinmaker
-date: 2023-11-06
+date: 2023-11-23
 description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 ---
 
@@ -14,8 +14,10 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws iottwinmaker batch-put-property-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/batch-put-property-values.html)|[Import-IOTTMPutPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-IOTTMPutPropertyValue.html)|
+|[aws iottwinmaker cancel-metadata-transfer-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/cancel-metadata-transfer-job.html)|[Stop-IOTTMMetadataTransferJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IOTTMMetadataTransferJob.html)|
 |[aws iottwinmaker create-component-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/create-component-type.html)|[New-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMComponentType.html)|
 |[aws iottwinmaker create-entity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/create-entity.html)|[New-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMEntity.html)|
+|[aws iottwinmaker create-metadata-transfer-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/create-metadata-transfer-job.html)|[New-IOTTMMetadataTransferJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMMetadataTransferJob.html)|
 |[aws iottwinmaker create-scene](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/create-scene.html)|[New-IOTTMScene](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMScene.html)|
 |[aws iottwinmaker create-sync-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/create-sync-job.html)|[New-IOTTMSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMSyncJob.html)|
 |[aws iottwinmaker create-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/create-workspace.html)|[New-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTTMWorkspace.html)|
@@ -27,6 +29,7 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |[aws iottwinmaker execute-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/execute-query.html)|[Invoke-IOTTMQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-IOTTMQuery.html)|
 |[aws iottwinmaker get-component-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-component-type.html)|[Get-IOTTMComponentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMComponentType.html)|
 |[aws iottwinmaker get-entity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-entity.html)|[Get-IOTTMEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMEntity.html)|
+|[aws iottwinmaker get-metadata-transfer-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-metadata-transfer-job.html)|[Get-IOTTMMetadataTransferJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMMetadataTransferJob.html)|
 |[aws iottwinmaker get-pricing-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-pricing-plan.html)|[Get-IOTTMPricingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPricingPlan.html)|
 |[aws iottwinmaker get-property-value](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-property-value.html)|[Get-IOTTMPropertyValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyValue.html)|
 |[aws iottwinmaker get-property-value-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-property-value-history.html)|[Get-IOTTMPropertyValueHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyValueHistory.html)|
@@ -34,7 +37,10 @@ description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 |[aws iottwinmaker get-sync-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-sync-job.html)|[Get-IOTTMSyncJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSyncJob.html)|
 |[aws iottwinmaker get-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/get-workspace.html)|[Get-IOTTMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMWorkspace.html)|
 |[aws iottwinmaker list-component-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-component-types.html)|[Get-IOTTMComponentTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMComponentTypeList.html)|
+|[aws iottwinmaker list-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-components.html)|[Get-IOTTMComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMComponentList.html)|
 |[aws iottwinmaker list-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-entities.html)|[Get-IOTTMEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMEntityList.html)|
+|[aws iottwinmaker list-metadata-transfer-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-metadata-transfer-jobs.html)|[Get-IOTTMMetadataTransferJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMMetadataTransferJobList.html)|
+|[aws iottwinmaker list-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-properties.html)|[Get-IOTTMPropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMPropertyList.html)|
 |[aws iottwinmaker list-scenes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-scenes.html)|[Get-IOTTMSceneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSceneList.html)|
 |[aws iottwinmaker list-sync-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-sync-jobs.html)|[Get-IOTTMSyncJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSyncJobList.html)|
 |[aws iottwinmaker list-sync-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iottwinmaker/list-sync-resources.html)|[Get-IOTTMSyncResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTMSyncResourceList.html)|

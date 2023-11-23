@@ -1,6 +1,6 @@
 ---
 title: migrationhuborchestrator
-date: 2023-11-06
+date: 2023-11-23
 description: aws migrationhuborchestrator (AWS Migration Hub Orchestrator) command/cmdlet list.
 ---
 

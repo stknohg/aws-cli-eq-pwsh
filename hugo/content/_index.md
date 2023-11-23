@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-11-06
+date: 2023-11-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.32 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.445 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.13.38 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.459 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -70,7 +70,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Cloud Control API](https://aws.amazon.com/cloudcontrolapi/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
 |[AWS CloudFormation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
-|[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CF||
+|[CloudFront KeyValueStore](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CFKV||
+|[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront-keyvaluestore]({{%relref "post/cloudfront-keyvaluestore.md" %}})|CF||
 |[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsm]({{%relref "post/cloudhsm.md" %}})|HSM||
 |[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsmv2]({{%relref "post/cloudhsmv2.md" %}})|HSM2||
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearch]({{%relref "post/cloudsearch.md" %}})|CS||
@@ -174,6 +175,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
+|[Amazon Inspector Scan](https://aws.amazon.com/inspector/)|[inspector-scan]({{%relref "post/inspector-scan.md" %}})|ISCAN||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector2]({{%relref "post/inspector2.md" %}})|INS2||
 |[Amazon CloudWatch Internet Monitor](https://aws.amazon.com/cloudwatch/)|[internetmonitor]({{%relref "post/internetmonitor.md" %}})|CWIM||
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
@@ -212,6 +214,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Key Management Service](https://aws.amazon.com/kms/)|[kms]({{%relref "post/kms.md" %}})|KMS||
 |[AWS Lake Formation](https://aws.amazon.com/lake-formation/)|[lakeformation]({{%relref "post/lakeformation.md" %}})|LKF||
 |[AWS Lambda](https://aws.amazon.com/lambda/)|[lambda]({{%relref "post/lambda.md" %}})|LM||
+|[AWS Launch Wizard](https://aws.amazon.com/launchwizard/)|[launch-wizard]({{%relref "post/launch-wizard.md" %}})|LWIZ||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-models]({{%relref "post/lex-models.md" %}})|LMB||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lexv2-models]({{%relref "post/lexv2-models.md" %}})|LMBV2||
@@ -227,8 +230,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)|[lookoutvision]({{%relref "post/lookoutvision.md" %}})|LFV||
 |[AWS Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/)|[m2]({{%relref "post/m2.md" %}})|AMM||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
-|[Amazon Macie](https://aws.amazon.com/macie/)|[macie]({{%relref "post/macie.md" %}})|MAC||
-|[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2||
+|[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2|Macie v1 API was removed.|
 |[Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
 |[Amazon Managed Blockchain Query](https://aws.amazon.com/managed-blockchain/amb-query/)|[managedblockchain-query]({{%relref "post/managedblockchain-query.md" %}})|MBCQ||
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
@@ -365,6 +367,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
+|[AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)|[trustedadvisor]({{%relref "post/trustedadvisor.md" %}})|TA||
 |[Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)|[verifiedpermissions]({{%relref "post/verifiedpermissions.md" %}})|AVP||
 |[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||
 |[Amazon VPC Lattice](https://aws.amazon.com/vpc/lattice/)|[vpc-lattice]({{%relref "post/vpc-lattice.md" %}})|VPCL||

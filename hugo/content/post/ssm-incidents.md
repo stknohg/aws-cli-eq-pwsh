@@ -1,6 +1,6 @@
 ---
 title: ssm-incidents
-date: 2023-11-06
+date: 2023-11-23
 description: aws ssm-incidents (AWS Systems Manager Incident Manager) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws ssm-incidents (AWS Systems Manager Incident Manager) command/cm
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws ssm-incidents batch-get-incident-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/batch-get-incident-findings.html)|[Get-SSMIBatchIncidentFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIBatchIncidentFinding.html)|
 |[aws ssm-incidents create-replication-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/create-replication-set.html)|[New-SSMIReplicationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMIReplicationSet.html)|
 |[aws ssm-incidents create-response-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/create-response-plan.html)|[New-SSMIResponsePlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMIResponsePlan.html)|
 |[aws ssm-incidents create-timeline-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/create-timeline-event.html)|[New-SSMITimelineEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMITimelineEvent.html)|
@@ -26,6 +27,7 @@ description: aws ssm-incidents (AWS Systems Manager Incident Manager) command/cm
 |[aws ssm-incidents get-resource-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/get-resource-policies.html)|[Get-SSMIResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIResourcePolicy.html)|
 |[aws ssm-incidents get-response-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/get-response-plan.html)|[Get-SSMIResponsePlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIResponsePlan.html)|
 |[aws ssm-incidents get-timeline-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/get-timeline-event.html)|[Get-SSMITimelineEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMITimelineEvent.html)|
+|[aws ssm-incidents list-incident-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/list-incident-findings.html)|[Get-SSMIIncidentFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIIncidentFindingList.html)|
 |[aws ssm-incidents list-incident-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/list-incident-records.html)|[Get-SSMIIncidentRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIIncidentRecordList.html)|
 |[aws ssm-incidents list-related-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/list-related-items.html)|[Get-SSMIRelatedItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIRelatedItemList.html)|
 |[aws ssm-incidents list-replication-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-incidents/list-replication-sets.html)|[Get-SSMIReplicationSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMIReplicationSetList.html)|

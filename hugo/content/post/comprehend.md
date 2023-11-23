@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2023-11-06
+date: 2023-11-23
 description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 ---
 
@@ -54,6 +54,7 @@ description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 |[aws comprehend detect-sentiment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/detect-sentiment.html)|[Find-COMPSentiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSentiment.html)|
 |[aws comprehend detect-syntax](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/detect-syntax.html)|[Find-COMPSyntax](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPSyntax.html)|
 |[aws comprehend detect-targeted-sentiment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/detect-targeted-sentiment.html)|[Find-COMPTargetedSentiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPTargetedSentiment.html)|
+|[aws comprehend detect-toxic-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/detect-toxic-content.html)|[Find-COMPToxicContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-COMPToxicContent.html)|
 |[aws comprehend import-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/import-model.html)|[Import-COMPModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-COMPModel.html)|
 |[aws comprehend list-datasets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/list-datasets.html)|[Get-COMPDatasetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDatasetList.html)|
 |[aws comprehend list-document-classification-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehend/list-document-classification-jobs.html)|[Get-COMPDocumentClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COMPDocumentClassificationJobList.html)|

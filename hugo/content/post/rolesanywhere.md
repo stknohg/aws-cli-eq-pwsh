@@ -1,6 +1,6 @@
 ---
 title: rolesanywhere
-date: 2023-11-06
+date: 2023-11-23
 description: aws rolesanywhere (IAM Roles Anywhere) command/cmdlet list.
 ---
 

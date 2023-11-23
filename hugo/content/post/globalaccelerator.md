@@ -1,6 +1,6 @@
 ---
 title: globalaccelerator
-date: 2023-11-06
+date: 2023-11-23
 description: aws globalaccelerator (AWS Global Accelerator) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: stepfunctions
-date: 2023-11-06
+date: 2023-11-23
 description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 |[aws stepfunctions list-state-machines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/list-state-machines.html)|[Get-SFNStateMachineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SFNStateMachineList.html)|
 |[aws stepfunctions list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/list-tags-for-resource.html)|[Get-SFNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SFNResourceTag.html)|
 |[aws stepfunctions publish-state-machine-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/publish-state-machine-version.html)|[Publish-SFNStateMachineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SFNStateMachineVersion.html)|
+|[aws stepfunctions redrive-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/redrive-execution.html)|[Restart-SFNExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-SFNExecution.html)|
 |[aws stepfunctions send-task-failure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/send-task-failure.html)|[Send-SFNTaskFailure](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SFNTaskFailure.html)|
 |[aws stepfunctions send-task-heartbeat](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/send-task-heartbeat.html)|[Send-SFNTaskHeartbeat](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SFNTaskHeartbeat.html)|
 |[aws stepfunctions send-task-success](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/send-task-success.html)|[Send-SFNTaskSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SFNTaskSuccess.html)|

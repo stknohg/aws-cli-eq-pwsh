@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2023-11-06
+date: 2023-11-23
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 
@@ -54,5 +54,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr start-lifecycle-policy-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-lifecycle-policy-preview.html)|[Start-ECRLifecyclePolicyPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLifecyclePolicyPreview.html)|
 |[aws ecr tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/tag-resource.html)|[Add-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECRResourceTag.html)|
 |[aws ecr untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/untag-resource.html)|[Remove-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRResourceTag.html)|
+|[aws ecr update-pull-through-cache-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/update-pull-through-cache-rule.html)|[Update-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECRPullThroughCacheRule.html)|
 |[aws ecr upload-layer-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/upload-layer-part.html)|[Send-ECRLayerPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ECRLayerPart.html)|
+|[aws ecr validate-pull-through-cache-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/validate-pull-through-cache-rule.html)|[Test-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECRPullThroughCacheRule.html)|
 

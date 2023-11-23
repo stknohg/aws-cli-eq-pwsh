@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2023-11-06
+date: 2023-11-23
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2023-11-06
+date: 2023-11-23
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -53,12 +53,14 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup get-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-legal-hold.html)|[Get-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKLegalHold.html)|
 |[aws backup get-recovery-point-restore-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-recovery-point-restore-metadata.html)|[Get-BAKRecoveryPointRestoreMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointRestoreMetadata.html)|
 |[aws backup get-supported-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-supported-resource-types.html)|[Get-BAKSupportedResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKSupportedResourceType.html)|
+|[aws backup list-backup-job-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-job-summaries.html)|[Get-BAKBackupJobSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJobSummaryList.html)|
 |[aws backup list-backup-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-jobs.html)|[Get-BAKBackupJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJobList.html)|
 |[aws backup list-backup-plan-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-plan-templates.html)|[Get-BAKBackupPlanTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanTemplateList.html)|
 |[aws backup list-backup-plan-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-plan-versions.html)|[Get-BAKBackupPlanVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanVersionList.html)|
 |[aws backup list-backup-plans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-plans.html)|[Get-BAKBackupPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanList.html)|
 |[aws backup list-backup-selections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-selections.html)|[Get-BAKBackupSelectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupSelectionList.html)|
 |[aws backup list-backup-vaults](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-vaults.html)|[Get-BAKBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultList.html)|
+|[aws backup list-copy-job-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-copy-job-summaries.html)|[Get-BAKCopyJobSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJobSummaryList.html)|
 |[aws backup list-copy-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-copy-jobs.html)|[Get-BAKCopyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJobList.html)|
 |[aws backup list-frameworks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-frameworks.html)|[Get-BAKFrameworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKFrameworkList.html)|
 |[aws backup list-legal-holds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-legal-holds.html)|[Get-BAKLegalHoldList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKLegalHoldList.html)|
@@ -69,6 +71,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup list-recovery-points-by-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-recovery-points-by-resource.html)|[Get-BAKRecoveryPointsByResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByResourceList.html)|
 |[aws backup list-report-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-report-jobs.html)|[Get-BAKReportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKReportJobList.html)|
 |[aws backup list-report-plans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-report-plans.html)|[Get-BAKReportPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKReportPlanList.html)|
+|[aws backup list-restore-job-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-restore-job-summaries.html)|[Get-BAKRestoreJobSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobSummaryList.html)|
 |[aws backup list-restore-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-restore-jobs.html)|[Get-BAKRestoreJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobList.html)|
 |[aws backup list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-tags.html)|[Get-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKResourceTag.html)|
 |[aws backup put-backup-vault-access-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/put-backup-vault-access-policy.html)|[Write-BAKBackupVaultAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultAccessPolicy.html)|

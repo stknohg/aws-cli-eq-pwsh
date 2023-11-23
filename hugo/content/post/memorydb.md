@@ -1,6 +1,6 @@
 ---
 title: memorydb
-date: 2023-11-06
+date: 2023-11-23
 description: aws memorydb (Amazon MemoryDB for Redis) command/cmdlet list.
 ---
 

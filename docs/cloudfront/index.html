@@ -12,13 +12,13 @@
   
   
   
-  <meta name="description" content="aws cloudfront (Amazon CloudFront) command/cmdlet list.">
+  <meta name="description" content="aws cloudfront (CloudFront KeyValueStore) command/cmdlet list.">
   
   <meta property="og:url" content="https://aws-cli-eq-pwsh.shibata.tech/cloudfront/" />
   <meta property="og:type" content="article" />
   <meta property="og:site_name" content="AWS CLI -eq PowerShell" />
   <meta property="og:title" content="cloudfront" />
-  <meta property="og:description" content="aws cloudfront (Amazon CloudFront) command/cmdlet list." />
+  <meta property="og:description" content="aws cloudfront (CloudFront KeyValueStore) command/cmdlet list." />
   <meta property="og:image" content="https://aws-cli-eq-pwsh.shibata.tech/img/og-image.png" />
   <meta name="twitter:card" content="summary" />
 
@@ -70,10 +70,10 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2023-11-06</p>
+<p class="text-right"><strong>Last update: </strong>2023-11-23</p>
 
 <h2 id="cloudfront">cloudfront</h2>
-<h3 id="amazon-cloudfronthttpsawsamazoncomcloudfront"><a href="https://aws.amazon.com/cloudfront/">Amazon CloudFront</a></h3>
+<h3 id="cloudfront-keyvaluestorehttpsawsamazoncomcloudfront"><a href="https://aws.amazon.com/cloudfront/">CloudFront KeyValueStore</a></h3>
 <ul>
 <li><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/index.html">CLI Reference</a></li>
 <li><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudFront_cmdlets.html">Cmdlet Reference</a></li>
@@ -133,6 +133,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/create-key-group.html">aws cloudfront create-key-group</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFKeyGroup.html">New-CFKeyGroup</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/create-key-value-store.html">aws cloudfront create-key-value-store</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFKeyValueStore.html">New-CFKeyValueStore</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/create-monitoring-subscription.html">aws cloudfront create-monitoring-subscription</a></td>
@@ -199,6 +203,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFKeyGroup.html">Remove-CFKeyGroup</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/delete-key-value-store.html">aws cloudfront delete-key-value-store</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFKeyValueStore.html">Remove-CFKeyValueStore</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/delete-monitoring-subscription.html">aws cloudfront delete-monitoring-subscription</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFMonitoringSubscription.html">Remove-CFMonitoringSubscription</a></td>
 </tr>
@@ -229,6 +237,14 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/describe-function.html">aws cloudfront describe-function</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFFunctionSummary.html">Get-CFFunctionSummary</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/describe-key-value-store.html">aws cloudfront describe-key-value-store</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKeyValueStore.html">Get-CFKeyValueStore</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/describe-key-value-store.html">aws cloudfront describe-key-value-store</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKVKeyValueStore.html">Get-CFKVKeyValueStore</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/get-cache-policy.html">aws cloudfront get-cache-policy</a></td>
@@ -407,6 +423,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKeyGroupList.html">Get-CFKeyGroupList</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/list-key-value-stores.html">aws cloudfront list-key-value-stores</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFKeyValueStoreListItem.html">Get-CFKeyValueStoreListItem</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/list-origin-access-controls.html">aws cloudfront list-origin-access-controls</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFOriginAccessControlList.html">Get-CFOriginAccessControlList</a></td>
 </tr>
@@ -489,6 +509,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/update-key-group.html">aws cloudfront update-key-group</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFKeyGroup.html">Update-CFKeyGroup</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/update-key-value-store.html">aws cloudfront update-key-value-store</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFKeyValueStore.html">Update-CFKeyValueStore</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/update-origin-access-control.html">aws cloudfront update-origin-access-control</a></td>

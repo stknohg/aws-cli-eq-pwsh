@@ -1,6 +1,6 @@
 ---
 title: verifiedpermissions
-date: 2023-11-06
+date: 2023-11-23
 description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdle
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws verifiedpermissions batch-is-authorized](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/batch-is-authorized.html)|[Test-AVPBatchAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-AVPBatchAuthorization.html)|
 |[aws verifiedpermissions create-identity-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/create-identity-source.html)|[New-AVPIdentitySource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AVPIdentitySource.html)|
 |[aws verifiedpermissions create-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/create-policy.html)|[New-AVPPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AVPPolicy.html)|
 |[aws verifiedpermissions create-policy-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/create-policy-store.html)|[New-AVPPolicyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AVPPolicyStore.html)|

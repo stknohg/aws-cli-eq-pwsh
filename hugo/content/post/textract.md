@@ -1,6 +1,6 @@
 ---
 title: textract
-date: 2023-11-06
+date: 2023-11-23
 description: aws textract (Amazon Textract) command/cmdlet list.
 ---
 

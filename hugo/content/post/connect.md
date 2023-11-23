@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-11-06
+date: 2023-11-23
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-security-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-security-key.html)|[Add-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNSecurityKey.html)|
 |[aws connect associate-traffic-distribution-group-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-traffic-distribution-group-user.html)|[Add-CONNTrafficDistributionGroupUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNTrafficDistributionGroupUser.html)|
 |[aws connect batch-get-flow-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/batch-get-flow-association.html)|[Get-CONNFlowAssociationBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFlowAssociationBatch.html)|
+|[aws connect batch-put-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/batch-put-contact.html)|[Set-CONNBatchPutContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CONNBatchPutContact.html)|
 |[aws connect claim-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/claim-phone-number.html)|[Request-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-CONNPhoneNumber.html)|
 |[aws connect create-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-agent-status.html)|[New-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNAgentStatus.html)|
 |[aws connect create-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-contact-flow.html)|[New-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlow.html)|
@@ -35,6 +36,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-instance.html)|[New-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNInstance.html)|
 |[aws connect create-integration-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-integration-association.html)|[New-CONNIntegrationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNIntegrationAssociation.html)|
 |[aws connect create-participant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-participant.html)|[New-CONNParticipant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNParticipant.html)|
+|[aws connect create-persistent-contact-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-persistent-contact-association.html)|[New-CONNPersistentContactAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNPersistentContactAssociation.html)|
 |[aws connect create-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-prompt.html)|[New-CONNPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNPrompt.html)|
 |[aws connect create-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-queue.html)|[New-CONNQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNQueue.html)|
 |[aws connect create-quick-connect](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-quick-connect.html)|[New-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNQuickConnect.html)|

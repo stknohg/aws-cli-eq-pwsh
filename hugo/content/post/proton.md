@@ -1,6 +1,6 @@
 ---
 title: proton
-date: 2023-11-06
+date: 2023-11-23
 description: aws proton (AWS Proton) command/cmdlet list.
 ---
 

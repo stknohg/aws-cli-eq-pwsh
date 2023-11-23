@@ -1,6 +1,6 @@
 ---
 title: serverlessrepo
-date: 2023-11-06
+date: 2023-11-23
 description: aws serverlessrepo (AWS Serverless Application Repository) command/cmdlet list.
 ---
 

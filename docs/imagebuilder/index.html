@@ -70,7 +70,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2023-11-06</p>
+<p class="text-right"><strong>Last update: </strong>2023-11-23</p>
 
 <h2 id="imagebuilder">imagebuilder</h2>
 <h3 id="ec2-image-builderhttpsawsamazoncomimage-builder"><a href="https://aws.amazon.com/image-builder/">EC2 Image Builder</a></h3>
@@ -89,6 +89,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/cancel-image-creation.html">aws imagebuilder cancel-image-creation</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2IBImageCreation.html">Stop-EC2IBImageCreation</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/cancel-lifecycle-execution.html">aws imagebuilder cancel-lifecycle-execution</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2IBLifecycleExecution.html">Stop-EC2IBLifecycleExecution</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/create-component.html">aws imagebuilder create-component</a></td>
@@ -119,6 +123,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBInfrastructureConfiguration.html">New-EC2IBInfrastructureConfiguration</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/create-lifecycle-policy.html">aws imagebuilder create-lifecycle-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IBLifecyclePolicy.html">New-EC2IBLifecyclePolicy</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/delete-component.html">aws imagebuilder delete-component</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBComponent.html">Remove-EC2IBComponent</a></td>
 </tr>
@@ -145,6 +153,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/delete-infrastructure-configuration.html">aws imagebuilder delete-infrastructure-configuration</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBInfrastructureConfiguration.html">Remove-EC2IBInfrastructureConfiguration</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/delete-lifecycle-policy.html">aws imagebuilder delete-lifecycle-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBLifecyclePolicy.html">Remove-EC2IBLifecyclePolicy</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-component.html">aws imagebuilder get-component</a></td>
@@ -189,6 +201,14 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-infrastructure-configuration.html">aws imagebuilder get-infrastructure-configuration</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfiguration.html">Get-EC2IBInfrastructureConfiguration</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-lifecycle-execution.html">aws imagebuilder get-lifecycle-execution</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecycleExecution.html">Get-EC2IBLifecycleExecution</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-lifecycle-policy.html">aws imagebuilder get-lifecycle-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecyclePolicy.html">Get-EC2IBLifecyclePolicy</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-workflow-execution.html">aws imagebuilder get-workflow-execution</a></td>
@@ -259,6 +279,18 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfigurationList.html">Get-EC2IBInfrastructureConfigurationList</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/list-lifecycle-execution-resources.html">aws imagebuilder list-lifecycle-execution-resources</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecycleExecutionResourceList.html">Get-EC2IBLifecycleExecutionResourceList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/list-lifecycle-executions.html">aws imagebuilder list-lifecycle-executions</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecycleExecutionList.html">Get-EC2IBLifecycleExecutionList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/list-lifecycle-policies.html">aws imagebuilder list-lifecycle-policies</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecyclePolicyList.html">Get-EC2IBLifecyclePolicyList</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/list-tags-for-resource.html">aws imagebuilder list-tags-for-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBResourceTag.html">Get-EC2IBResourceTag</a></td>
 </tr>
@@ -291,6 +323,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBImagePipelineExecution.html">Start-EC2IBImagePipelineExecution</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/start-resource-state-update.html">aws imagebuilder start-resource-state-update</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBResourceStateUpdate.html">Start-EC2IBResourceStateUpdate</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/tag-resource.html">aws imagebuilder tag-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2IBResourceTag.html">Add-EC2IBResourceTag</a></td>
 </tr>
@@ -309,6 +345,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/update-infrastructure-configuration.html">aws imagebuilder update-infrastructure-configuration</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2IBInfrastructureConfiguration.html">Update-EC2IBInfrastructureConfiguration</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/update-lifecycle-policy.html">aws imagebuilder update-lifecycle-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2IBLifecyclePolicy.html">Update-EC2IBLifecyclePolicy</a></td>
 </tr>
 </tbody>
 </table>

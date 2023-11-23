@@ -1,6 +1,6 @@
 ---
 title: kendra
-date: 2023-11-06
+date: 2023-11-23
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 

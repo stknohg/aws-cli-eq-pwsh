@@ -1,6 +1,6 @@
 ---
 title: controltower
-date: 2023-11-06
+date: 2023-11-23
 description: aws controltower (AWS Control Tower) command/cmdlet list.
 ---
 
@@ -18,4 +18,7 @@ description: aws controltower (AWS Control Tower) command/cmdlet list.
 |[aws controltower get-control-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/get-control-operation.html)|[Get-ACTControlOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTControlOperation.html)|
 |[aws controltower get-enabled-control](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/get-enabled-control.html)|[Get-ACTEnabledControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTEnabledControl.html)|
 |[aws controltower list-enabled-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-enabled-controls.html)|[Get-ACTEnabledControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTEnabledControlList.html)|
+|[aws controltower list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-tags-for-resource.html)|[Get-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTResourceTag.html)|
+|[aws controltower tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/tag-resource.html)|[Add-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ACTResourceTag.html)|
+|[aws controltower untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/untag-resource.html)|[Remove-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ACTResourceTag.html)|
 

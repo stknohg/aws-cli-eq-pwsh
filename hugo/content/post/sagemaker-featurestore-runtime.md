@@ -1,6 +1,6 @@
 ---
 title: sagemaker-featurestore-runtime
-date: 2023-11-06
+date: 2023-11-23
 description: aws sagemaker-featurestore-runtime (Amazon SageMaker Feature Store) command/cmdlet list.
 ---
 

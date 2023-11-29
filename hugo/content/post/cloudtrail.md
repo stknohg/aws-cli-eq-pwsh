@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2023-11-23
+date: 2023-11-29
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -25,6 +25,8 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail deregister-organization-delegated-admin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/deregister-organization-delegated-admin.html)|[Unregister-CTOrganizationDelegatedAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CTOrganizationDelegatedAdmin.html)|
 |[aws cloudtrail describe-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/describe-query.html)|[Get-CTQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTQuery.html)|
 |[aws cloudtrail describe-trails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/describe-trails.html)|[Get-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrail.html)|
+|[aws cloudtrail disable-federation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/disable-federation.html)|[Disable-CTFederation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CTFederation.html)|
+|[aws cloudtrail enable-federation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/enable-federation.html)|[Enable-CTFederation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CTFederation.html)|
 |[aws cloudtrail get-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-channel.html)|[Get-CTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTChannel.html)|
 |[aws cloudtrail get-event-data-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-data-store.html)|[Get-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventDataStore.html)|
 |[aws cloudtrail get-event-selectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-selectors.html)|[Get-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventSelector.html)|

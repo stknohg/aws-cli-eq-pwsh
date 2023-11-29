@@ -1,6 +1,6 @@
 ---
 title: migration-hub-refactor-spaces
-date: 2023-11-23
+date: 2023-11-29
 description: aws migration-hub-refactor-spaces (AWS Migration Hub Refactor Spaces) command/cmdlet list.
 ---
 

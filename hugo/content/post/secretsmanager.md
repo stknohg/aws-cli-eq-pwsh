@@ -1,6 +1,6 @@
 ---
 title: secretsmanager
-date: 2023-11-23
+date: 2023-11-29
 description: aws secretsmanager (AWS Secrets Manager) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws secretsmanager (AWS Secrets Manager) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws secretsmanager batch-get-secret-value](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/batch-get-secret-value.html)|[Get-SECBatchSecretValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECBatchSecretValue.html)|
 |[aws secretsmanager cancel-rotate-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/cancel-rotate-secret.html)|[Stop-SECSecretRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SECSecretRotation.html)|
 |[aws secretsmanager create-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/create-secret.html)|[New-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SECSecret.html)|
 |[aws secretsmanager delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/delete-resource-policy.html)|[Remove-SECResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECResourcePolicy.html)|

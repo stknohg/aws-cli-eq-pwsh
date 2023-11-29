@@ -1,6 +1,6 @@
 ---
 title: stepfunctions
-date: 2023-11-23
+date: 2023-11-29
 description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 ---
 
@@ -44,6 +44,7 @@ description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 |[aws stepfunctions start-sync-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/start-sync-execution.html)|[Start-SFNSyncExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SFNSyncExecution.html)|
 |[aws stepfunctions stop-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/stop-execution.html)|[Stop-SFNExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SFNExecution.html)|
 |[aws stepfunctions tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/tag-resource.html)|[Add-SFNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SFNResourceTag.html)|
+|[aws stepfunctions test-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/test-state.html)|[Test-SFNState](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-SFNState.html)|
 |[aws stepfunctions untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/untag-resource.html)|[Remove-SFNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SFNResourceTag.html)|
 |[aws stepfunctions update-map-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/update-map-run.html)|[Update-SFNMapRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SFNMapRun.html)|
 |[aws stepfunctions update-state-machine](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/update-state-machine.html)|[Update-SFNStateMachine](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SFNStateMachine.html)|

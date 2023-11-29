@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2023-11-23
+date: 2023-11-29
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -48,6 +48,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight delete-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-group.html)|[Remove-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSGroup.html)|
 |[aws quicksight delete-group-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-group-membership.html)|[Remove-QSGroupMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSGroupMembership.html)|
 |[aws quicksight delete-iam-policy-assignment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-iam-policy-assignment.html)|[Remove-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSIAMPolicyAssignment.html)|
+|[aws quicksight delete-identity-propagation-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-identity-propagation-config.html)|[Remove-QSIdentityPropagationConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSIdentityPropagationConfig.html)|
 |[aws quicksight delete-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-namespace.html)|[Remove-QSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSNamespace.html)|
 |[aws quicksight delete-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-refresh-schedule.html)|[Remove-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSRefreshSchedule.html)|
 |[aws quicksight delete-role-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-role-custom-permission.html)|[Remove-QSRoleCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSRoleCustomPermission.html)|
@@ -120,6 +121,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight list-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-groups.html)|[Get-QSGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroupList.html)|
 |[aws quicksight list-iam-policy-assignments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-iam-policy-assignments.html)|[Get-QSIAMPolicyAssignmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIAMPolicyAssignmentList.html)|
 |[aws quicksight list-iam-policy-assignments-for-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-iam-policy-assignments-for-user.html)|[Get-QSIAMPolicyAssignmentsForUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIAMPolicyAssignmentsForUserList.html)|
+|[aws quicksight list-identity-propagation-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-identity-propagation-configs.html)|[Get-QSIdentityPropagationConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIdentityPropagationConfigList.html)|
 |[aws quicksight list-ingestions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-ingestions.html)|[Get-QSIngestionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIngestionList.html)|
 |[aws quicksight list-namespaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-namespaces.html)|[Get-QSNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSNamespaceList.html)|
 |[aws quicksight list-refresh-schedules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-refresh-schedules.html)|[Get-QSRefreshScheduleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRefreshScheduleList.html)|
@@ -165,6 +167,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-folder-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-folder-permissions.html)|[Update-QSFolderPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSFolderPermission.html)|
 |[aws quicksight update-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-group.html)|[Update-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSGroup.html)|
 |[aws quicksight update-iam-policy-assignment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-iam-policy-assignment.html)|[Update-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIAMPolicyAssignment.html)|
+|[aws quicksight update-identity-propagation-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-identity-propagation-config.html)|[Update-QSIdentityPropagationConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIdentityPropagationConfig.html)|
 |[aws quicksight update-ip-restriction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-ip-restriction.html)|[Update-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIpRestriction.html)|
 |[aws quicksight update-public-sharing-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-public-sharing-settings.html)|[Update-QSPublicSharingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSPublicSharingSetting.html)|
 |[aws quicksight update-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-refresh-schedule.html)|[Update-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRefreshSchedule.html)|

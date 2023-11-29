@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2023-11-23
+date: 2023-11-29
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs cancel-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/cancel-export-task.html)|[Stop-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLExportTask.html)|
 |[aws logs create-delivery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-delivery.html)|[New-CWLDelivery](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLDelivery.html)|
 |[aws logs create-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-export-task.html)|[New-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLExportTask.html)|
+|[aws logs create-log-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-log-anomaly-detector.html)|[New-CWLLogAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogAnomalyDetector.html)|
 |[aws logs create-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-log-group.html)|[New-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogGroup.html)|
 |[aws logs create-log-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-log-stream.html)|[New-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogStream.html)|
 |[aws logs delete-account-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-account-policy.html)|[Remove-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLAccountPolicy.html)|
@@ -26,6 +27,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs delete-delivery-destination-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-delivery-destination-policy.html)|[Remove-CWLDeliveryDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDeliveryDestinationPolicy.html)|
 |[aws logs delete-delivery-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-delivery-source.html)|[Remove-CWLDeliverySource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDeliverySource.html)|
 |[aws logs delete-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-destination.html)|[Remove-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLDestination.html)|
+|[aws logs delete-log-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-log-anomaly-detector.html)|[Remove-CWLLogAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogAnomalyDetector.html)|
 |[aws logs delete-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-log-group.html)|[Remove-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroup.html)|
 |[aws logs delete-log-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-log-stream.html)|[Remove-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogStream.html)|
 |[aws logs delete-metric-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-metric-filter.html)|[Remove-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLMetricFilter.html)|
@@ -53,10 +55,13 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs get-delivery-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-delivery-destination.html)|[Get-CWLDeliveryDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLDeliveryDestination.html)|
 |[aws logs get-delivery-destination-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-delivery-destination-policy.html)|[Get-CWLDeliveryDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLDeliveryDestinationPolicy.html)|
 |[aws logs get-delivery-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-delivery-source.html)|[Get-CWLDeliverySource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLDeliverySource.html)|
+|[aws logs get-log-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-log-anomaly-detector.html)|[Get-CWLLogAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogAnomalyDetector.html)|
 |[aws logs get-log-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-log-events.html)|[Get-CWLLogEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogEvent.html)|
 |[aws logs get-log-group-fields](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-log-group-fields.html)|[Get-CWLLogGroupField](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupField.html)|
 |[aws logs get-log-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-log-record.html)|[Get-CWLLogRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogRecord.html)|
 |[aws logs get-query-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-query-results.html)|[Get-CWLQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQueryResult.html)|
+|[aws logs list-anomalies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-anomalies.html)|[Get-CWLAnomalyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAnomalyList.html)|
+|[aws logs list-log-anomaly-detectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-anomaly-detectors.html)|[Get-CWLLogAnomalyDetectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogAnomalyDetectorList.html)|
 |[aws logs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs list-tags-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-log-group.html)|[Get-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupTag.html)|
 |[aws logs put-account-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-account-policy.html)|[Write-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLAccountPolicy.html)|
@@ -80,4 +85,6 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs test-metric-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/test-metric-filter.html)|[Test-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CWLMetricFilter.html)|
 |[aws logs untag-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/untag-log-group.html)|[Remove-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroupTag.html)|
 |[aws logs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/untag-resource.html)|[Remove-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLResourceTag.html)|
+|[aws logs update-anomaly](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-anomaly.html)|[Update-CWLAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLAnomaly.html)|
+|[aws logs update-log-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-log-anomaly-detector.html)|[Update-CWLLogAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLLogAnomalyDetector.html)|
 

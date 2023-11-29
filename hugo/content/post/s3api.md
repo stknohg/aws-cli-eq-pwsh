@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2023-11-23
+date: 2023-11-29
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api copy-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/copy-object.html)||
 |[aws s3api create-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-bucket.html)||
 |[aws s3api create-multipart-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-multipart-upload.html)||
+|[aws s3api create-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-session.html)||
 |[aws s3api delete-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html)||
 |[aws s3api delete-bucket-analytics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-analytics-configuration.html)||
 |[aws s3api delete-bucket-cors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-cors.html)||
@@ -73,6 +74,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api list-bucket-inventory-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-inventory-configurations.html)||
 |[aws s3api list-bucket-metrics-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-metrics-configurations.html)||
 |[aws s3api list-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-buckets.html)||
+|[aws s3api list-directory-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-directory-buckets.html)||
 |[aws s3api list-multipart-uploads](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-multipart-uploads.html)||
 |[aws s3api list-object-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-object-versions.html)||
 |[aws s3api list-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects.html)||

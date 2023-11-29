@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2023-11-23
+date: 2023-11-29
 description: aws appsync (AWS AppSync) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync get-api-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-api-association.html)|[Get-ASYNApiAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNApiAssociation.html)|
 |[aws appsync get-api-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-api-cache.html)|[Get-ASYNApiCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNApiCache.html)|
 |[aws appsync get-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-data-source.html)|[Get-ASYNDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNDataSource.html)|
+|[aws appsync get-data-source-introspection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-data-source-introspection.html)|[Get-ASYNDataSourceIntrospection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNDataSourceIntrospection.html)|
 |[aws appsync get-domain-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-domain-name.html)|[Get-ASYNDomainName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNDomainName.html)|
 |[aws appsync get-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-function.html)|[Get-ASYNFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNFunction.html)|
 |[aws appsync get-graphql-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-graphql-api.html)|[Get-ASYNGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNGraphqlApi.html)|
@@ -60,6 +61,7 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/list-tags-for-resource.html)|[Get-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResourceTag.html)|
 |[aws appsync list-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/list-types.html)|[Get-ASYNTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypeList.html)|
 |[aws appsync list-types-by-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/list-types-by-association.html)|[Get-ASYNTypesByAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypesByAssociationList.html)|
+|[aws appsync start-data-source-introspection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/start-data-source-introspection.html)|[Start-ASYNDataSourceIntrospection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNDataSourceIntrospection.html)|
 |[aws appsync start-schema-creation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/start-schema-creation.html)|[Start-ASYNSchemaCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaCreation.html)|
 |[aws appsync start-schema-merge](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/start-schema-merge.html)|[Start-ASYNSchemaMerge](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaMerge.html)|
 |[aws appsync tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/tag-resource.html)|[Add-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASYNResourceTag.html)|

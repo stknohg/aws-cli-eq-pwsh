@@ -1,6 +1,6 @@
 ---
 title: pi
-date: 2023-11-23
+date: 2023-11-29
 description: aws pi (AWS Performance Insights) command/cmdlet list.
 ---
 

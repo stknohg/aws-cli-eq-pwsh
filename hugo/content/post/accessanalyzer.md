@@ -1,6 +1,6 @@
 ---
 title: accessanalyzer
-date: 2023-11-23
+date: 2023-11-29
 description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 ---
 
@@ -15,6 +15,8 @@ description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 |----|----|
 |[aws accessanalyzer apply-archive-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/apply-archive-rule.html)|[Start-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IAMAAArchiveRule.html)|
 |[aws accessanalyzer cancel-policy-generation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/cancel-policy-generation.html)|[Stop-IAMAAPolicyGeneration](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IAMAAPolicyGeneration.html)|
+|[aws accessanalyzer check-access-not-granted](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/check-access-not-granted.html)|[Test-IAMAAAccessNotGranted](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IAMAAAccessNotGranted.html)|
+|[aws accessanalyzer check-no-new-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/check-no-new-access.html)|[Test-IAMAANoNewAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IAMAANoNewAccess.html)|
 |[aws accessanalyzer create-access-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-access-preview.html)|[New-IAMAAAccessPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAAccessPreview.html)|
 |[aws accessanalyzer create-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-analyzer.html)|[New-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAAnalyzer.html)|
 |[aws accessanalyzer create-archive-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-archive-rule.html)|[New-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAArchiveRule.html)|
@@ -25,6 +27,7 @@ description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 |[aws accessanalyzer get-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-analyzer.html)|[Get-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAnalyzer.html)|
 |[aws accessanalyzer get-archive-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-archive-rule.html)|[Get-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAArchiveRule.html)|
 |[aws accessanalyzer get-finding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-finding.html)|[Get-IAMAAFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFinding.html)|
+|[aws accessanalyzer get-finding-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-finding-v2.html)|[Get-IAMAAFindingV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFindingV2.html)|
 |[aws accessanalyzer get-generated-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-generated-policy.html)|[Get-IAMAAGeneratedPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAGeneratedPolicy.html)|
 |[aws accessanalyzer list-access-preview-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-access-preview-findings.html)|[Get-IAMAAAccessPreviewFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAccessPreviewFindingList.html)|
 |[aws accessanalyzer list-access-previews](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-access-previews.html)|[Get-IAMAAAccessPreviewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAccessPreviewList.html)|
@@ -32,6 +35,7 @@ description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 |[aws accessanalyzer list-analyzers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-analyzers.html)|[Get-IAMAAAnalyzerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAnalyzerList.html)|
 |[aws accessanalyzer list-archive-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-archive-rules.html)|[Get-IAMAAArchiveRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAArchiveRuleList.html)|
 |[aws accessanalyzer list-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-findings.html)|[Get-IAMAAFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFindingList.html)|
+|[aws accessanalyzer list-findings-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-findings-v2.html)|[Get-IAMAAFindingsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFindingsV2List.html)|
 |[aws accessanalyzer list-policy-generations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-policy-generations.html)|[Get-IAMAAPolicyGenerationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAPolicyGenerationList.html)|
 |[aws accessanalyzer list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-tags-for-resource.html)|[Get-IAMAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAResourceTag.html)|
 |[aws accessanalyzer start-policy-generation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/start-policy-generation.html)|[Start-IAMAAPolicyGeneration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IAMAAPolicyGeneration.html)|

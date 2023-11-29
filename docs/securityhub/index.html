@@ -70,7 +70,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2023-11-23</p>
+<p class="text-right"><strong>Last update: </strong>2023-11-29</p>
 
 <h2 id="securityhub">securityhub</h2>
 <h3 id="aws-security-hubhttpsawsamazoncomsecurityhub"><a href="https://aws.amazon.com/securityhub/">AWS Security Hub</a></h3>
@@ -111,6 +111,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBGetAutomationRule.html">Get-SHUBGetAutomationRule</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/batch-get-configuration-policy-associations.html">aws securityhub batch-get-configuration-policy-associations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBGetConfigurationPolicyAssociation.html">Get-SHUBGetConfigurationPolicyAssociation</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/batch-get-security-controls.html">aws securityhub batch-get-security-controls</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBGetSecurityControl.html">Get-SHUBGetSecurityControl</a></td>
 </tr>
@@ -143,6 +147,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBAutomationRule.html">New-SHUBAutomationRule</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/create-configuration-policy.html">aws securityhub create-configuration-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBConfigurationPolicy.html">New-SHUBConfigurationPolicy</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/create-finding-aggregator.html">aws securityhub create-finding-aggregator</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBFindingAggregator.html">New-SHUBFindingAggregator</a></td>
 </tr>
@@ -161,6 +169,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/delete-action-target.html">aws securityhub delete-action-target</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBActionTarget.html">Remove-SHUBActionTarget</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/delete-configuration-policy.html">aws securityhub delete-configuration-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBConfigurationPolicy.html">Remove-SHUBConfigurationPolicy</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/delete-finding-aggregator.html">aws securityhub delete-finding-aggregator</a></td>
@@ -243,6 +255,14 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAdministratorAccount.html">Get-SHUBAdministratorAccount</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-configuration-policy.html">aws securityhub get-configuration-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBConfigurationPolicy.html">Get-SHUBConfigurationPolicy</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-configuration-policy-association.html">aws securityhub get-configuration-policy-association</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBConfigurationPolicyAssociation.html">Get-SHUBConfigurationPolicyAssociation</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-enabled-standards.html">aws securityhub get-enabled-standards</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledStandard.html">Get-SHUBEnabledStandard</a></td>
 </tr>
@@ -279,12 +299,24 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMember.html">Get-SHUBMember</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-security-control-definition.html">aws securityhub get-security-control-definition</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBSecurityControlDefinition.html">Get-SHUBSecurityControlDefinition</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/invite-members.html">aws securityhub invite-members</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SHUBMemberInvitation.html">Send-SHUBMemberInvitation</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-automation-rules.html">aws securityhub list-automation-rules</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAutomationRuleList.html">Get-SHUBAutomationRuleList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-configuration-policies.html">aws securityhub list-configuration-policies</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBConfigurationPolicyList.html">Get-SHUBConfigurationPolicyList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-configuration-policy-associations.html">aws securityhub list-configuration-policy-associations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBConfigurationPolicyAssociationList.html">Get-SHUBConfigurationPolicyAssociationList</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-enabled-products-for-import.html">aws securityhub list-enabled-products-for-import</a></td>
@@ -319,6 +351,14 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourceTag.html">Get-SHUBResourceTag</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/start-configuration-policy-association.html">aws securityhub start-configuration-policy-association</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SHUBConfigurationPolicyAssociation.html">Start-SHUBConfigurationPolicyAssociation</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/start-configuration-policy-disassociation.html">aws securityhub start-configuration-policy-disassociation</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SHUBConfigurationPolicyDisassociation.html">Start-SHUBConfigurationPolicyDisassociation</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/tag-resource.html">aws securityhub tag-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SHUBResourceTag.html">Add-SHUBResourceTag</a></td>
 </tr>
@@ -329,6 +369,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/update-action-target.html">aws securityhub update-action-target</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBActionTarget.html">Update-SHUBActionTarget</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/update-configuration-policy.html">aws securityhub update-configuration-policy</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBConfigurationPolicy.html">Update-SHUBConfigurationPolicy</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/update-finding-aggregator.html">aws securityhub update-finding-aggregator</a></td>
@@ -345,6 +389,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/update-organization-configuration.html">aws securityhub update-organization-configuration</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBOrganizationConfiguration.html">Update-SHUBOrganizationConfiguration</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/update-security-control.html">aws securityhub update-security-control</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SHUBSecurityControl.html">Update-SHUBSecurityControl</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/update-security-hub-configuration.html">aws securityhub update-security-hub-configuration</a></td>

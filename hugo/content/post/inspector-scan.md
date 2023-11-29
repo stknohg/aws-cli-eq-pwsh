@@ -1,6 +1,6 @@
 ---
 title: inspector-scan
-date: 2023-11-23
+date: 2023-11-29
 description: aws inspector-scan (Amazon Inspector Scan) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws inspector-scan (Amazon Inspector Scan) command/cmdlet list.
 ### [Amazon Inspector Scan](https://aws.amazon.com/inspector/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector-scan/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/InspectorScan_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

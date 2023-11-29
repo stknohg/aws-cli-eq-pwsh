@@ -1,6 +1,6 @@
 ---
 title: connectcases
-date: 2023-11-23
+date: 2023-11-29
 description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2023-11-23
+date: 2023-11-29
 description: aws customer-profiles (Amazon Connect Customer Profiles) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles delete-profile-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/delete-profile-object.html)|[Remove-CPFProfileObject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPFProfileObject.html)|
 |[aws customer-profiles delete-profile-object-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/delete-profile-object-type.html)|[Remove-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPFProfileObjectType.html)|
 |[aws customer-profiles delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/delete-workflow.html)|[Remove-CPFWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CPFWorkflow.html)|
+|[aws customer-profiles detect-profile-object-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/detect-profile-object-type.html)|[Find-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CPFProfileObjectType.html)|
 |[aws customer-profiles get-auto-merging-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-auto-merging-preview.html)|[Get-CPFAutoMergingPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFAutoMergingPreview.html)|
 |[aws customer-profiles get-calculated-attribute-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-calculated-attribute-definition.html)|[Get-CPFCalculatedAttributeDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFCalculatedAttributeDefinition.html)|
 |[aws customer-profiles get-calculated-attribute-for-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-calculated-attribute-for-profile.html)|[Get-CPFCalculatedAttributeForProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFCalculatedAttributeForProfile.html)|

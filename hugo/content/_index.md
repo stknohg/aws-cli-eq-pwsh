@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-11-23
+date: 2023-11-29
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.13.38 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.459 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.14.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.463 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -49,11 +49,15 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Audit Manager](https://aws.amazon.com/audit-manager/)|[auditmanager]({{%relref "post/auditmanager.md" %}})|AUDM||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling]({{%relref "post/autoscaling.md" %}})|AS||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling-plans]({{%relref "post/autoscaling-plans.md" %}})|ASP||
+|[AWS B2B Data Interchange](https://aws.amazon.com/b2b-data-interchange/)|[b2bi]({{%relref "post/b2bi.md" %}})|B2BI||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
 |[AWS Backup Storage](https://aws.amazon.com/backup/)|[backupstorage]({{%relref "post/backupstorage.md" %}})|BAKS|API for external services|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
+|[Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/aws-cost-management/)|[bcm-data-exports]({{%relref "post/bcm-data-exports.md" %}})|BCMDE||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
+|[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|||
+|[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock-runtime]({{%relref "post/bedrock-runtime.md" %}})|BDRR||
 |[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
@@ -104,6 +108,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Connect Cases](https://aws.amazon.com/connect/cases/)|[connectcases]({{%relref "post/connectcases.md" %}})|CCAS||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
 |[AWS Control Tower](https://aws.amazon.com/controltower/)|[controltower]({{%relref "post/controltower.md" %}})|ACT||
+|[AWS Cost Optimization Hub](https://aws.amazon.com/aws-cost-management/cost-optimization-hub/)|[cost-optimization-hub]({{%relref "post/cost-optimization-hub.md" %}})|COH||
 |[AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)|[cur]({{%relref "post/cur.md" %}})|CUR||
 |[Amazon Connect Customer Profiles](https://aws.amazon.com/connect/)|[customer-profiles]({{%relref "post/customer-profiles.md" %}})|CPF||
 |[AWS Glue DataBrew](https://aws.amazon.com/glue/features/databrew/)|[databrew]({{%relref "post/databrew.md" %}})|GDB||
@@ -135,6 +140,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Elastic Container Service](https://aws.amazon.com/ecs/)|[ecs]({{%relref "post/ecs.md" %}})|ECS||
 |[Amazon Elastic File System](https://aws.amazon.com/efs/)|[efs]({{%relref "post/efs.md" %}})|EFS||
 |[Amazon Elastic Container Service for Kubernetes](https://aws.amazon.com/eks/)|[eks]({{%relref "post/eks.md" %}})|EKS||
+|[EKS Pod Identity](https://aws.amazon.com/eks/)|[eks-auth]({{%relref "post/eks-auth.md" %}})|EKSAU||
 |[Amazon Elastic Inference](https://aws.amazon.com/machine-learning/elastic-inference/)|[elastic-inference]({{%relref "post/elastic-inference.md" %}})|EI||
 |[Amazon ElastiCache](https://aws.amazon.com/elasticache/)|[elasticache]({{%relref "post/elasticache.md" %}})|EC||
 |[AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)|[elasticbeanstalk]({{%relref "post/elasticbeanstalk.md" %}})|EB||
@@ -156,6 +162,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Forecast](https://aws.amazon.com/forecast/)|[forecast]({{%relref "post/forecast.md" %}})|FRC||
 |[Amazon Forecast Query Service](https://aws.amazon.com/forecast/)|[forecastquery]({{%relref "post/forecastquery.md" %}})|FRCQ||
 |[Amazon Fraud Detector](https://aws.amazon.com/fraud-detector/)|[frauddetector]({{%relref "post/frauddetector.md" %}})|FD||
+|[AWS Free Tier GetFreeTierUsage API](https://aws.amazon.com/aws-cost-management/)|[freetier]({{%relref "post/freetier.md" %}})|FT||
 |[Amazon FSx](https://aws.amazon.com/fsx/)|[fsx]({{%relref "post/fsx.md" %}})|FSX||
 |[Amazon GameLift](https://aws.amazon.com/gamelift/)|[gamelift]({{%relref "post/gamelift.md" %}})|GML||
 |[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
@@ -289,6 +296,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
 |[AWS Private 5G](https://aws.amazon.com/private5g/)|[privatenetworks]({{%relref "post/privatenetworks.md" %}})|PV5G||
 |[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO||
+|[Amazon Q](https://aws.amazon.com/q/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|||
+|[Amazon Q in Connect](https://aws.amazon.com/connect/q/)|[qconnect]({{%relref "post/qconnect.md" %}})|||
 |[Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)|[qldb]({{%relref "post/qldb.md" %}})|QLDB||
 |[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||
 |[Amazon QuickSight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||
@@ -300,6 +309,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Redshift](https://aws.amazon.com/redshift/)|[redshift-data]({{%relref "post/redshift-data.md" %}})|RSD||
 |[Amazon Redshift Serverless](https://aws.amazon.com/redshift/redshift-serverless/)|[redshift-serverless]({{%relref "post/redshift-serverless.md" %}})|RSS||
 |[Amazon Rekognition](https://aws.amazon.com/rekognition/)|[rekognition]({{%relref "post/rekognition.md" %}})|REK||
+|[AWS re:Post Private](https://aws.amazon.com/repost-private/)|[repostspace]({{%relref "post/repostspace.md" %}})|RESP||
 |[AWS Resilience Hub](https://aws.amazon.com/resilience-hub/)|[resiliencehub]({{%relref "post/resiliencehub.md" %}})|RESH||
 |[AWS Resource Explorer](https://aws.amazon.com/resourceexplorer/)|[resource-explorer-2]({{%relref "post/resource-explorer-2.md" %}})|AREX||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
@@ -381,6 +391,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||
 |[Amazon WorkMail Message Flow](https://aws.amazon.com/workmail/)|[workmailmessageflow]({{%relref "post/workmailmessageflow.md" %}})|WMMF||
 |[Amazon WorkSpaces](https://aws.amazon.com/workspaces/)|[workspaces]({{%relref "post/workspaces.md" %}})|WKS||
+|[Amazon WorkSpaces Thin Client](https://aws.amazon.com/workspaces/thin-client/)|[workspaces-thin-client]({{%relref "post/workspaces-thin-client.md" %}})|WSTC||
 |[Amazon WorkSpaces Web](https://aws.amazon.com/workspaces/)|[workspaces-web]({{%relref "post/workspaces-web.md" %}})|WSW||
 |[AWS X-Ray](https://aws.amazon.com/xray/)|[xray]({{%relref "post/xray.md" %}})|XR||
 

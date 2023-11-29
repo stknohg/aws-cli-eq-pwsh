@@ -1,6 +1,6 @@
 ---
 title: cloudfront-keyvaluestore
-date: 2023-11-23
+date: 2023-11-29
 description: aws cloudfront-keyvaluestore (Amazon CloudFront) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws cloudfront-keyvaluestore (Amazon CloudFront) command/cmdlet lis
 ### [Amazon CloudFront](https://aws.amazon.com/cloudfront/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront-keyvaluestore/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CloudFrontKeyValueStore_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

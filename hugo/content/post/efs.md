@@ -1,6 +1,6 @@
 ---
 title: efs
-date: 2023-11-23
+date: 2023-11-29
 description: aws efs (Amazon Elastic File System) command/cmdlet list.
 ---
 
@@ -43,4 +43,5 @@ description: aws efs (Amazon Elastic File System) command/cmdlet list.
 |[aws efs tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/tag-resource.html)|[Add-EFSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EFSResourceTag.html)|
 |[aws efs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/untag-resource.html)|[Remove-EFSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSResourceTag.html)|
 |[aws efs update-file-system](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/update-file-system.html)|[Update-EFSFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EFSFileSystem.html)|
+|[aws efs update-file-system-protection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/update-file-system-protection.html)|[Update-EFSFileSystemProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EFSFileSystemProtection.html)|
 

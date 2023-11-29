@@ -1,6 +1,6 @@
 ---
 title: personalize-runtime
-date: 2023-11-23
+date: 2023-11-29
 description: aws personalize-runtime (Amazon Personalize) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws personalize-runtime (Amazon Personalize) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws personalize-runtime get-action-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize-runtime/get-action-recommendations.html)|[Get-PERSRActionRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSRActionRecommendation.html)|
 |[aws personalize-runtime get-personalized-ranking](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize-runtime/get-personalized-ranking.html)|[Get-PERSRPersonalizedRanking](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSRPersonalizedRanking.html)|
 |[aws personalize-runtime get-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize-runtime/get-recommendations.html)|[Get-PERSRRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSRRecommendation.html)|
 

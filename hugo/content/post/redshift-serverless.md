@@ -1,6 +1,6 @@
 ---
 title: redshift-serverless
-date: 2023-11-23
+date: 2023-11-29
 description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet list.
 ---
 

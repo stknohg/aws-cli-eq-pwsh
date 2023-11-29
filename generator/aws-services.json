@@ -173,6 +173,12 @@
     "Url": "https://aws.amazon.com/autoscaling/",
     "Note": ""
   },
+  "b2bi": {
+    "Prefix": "B2BI",
+    "Name": "AWS B2B Data Interchange",
+    "Url": "https://aws.amazon.com/b2b-data-interchange/",
+    "Note": ""
+  },
   "backup": {
     "Prefix": "BAK",
     "Name": "AWS Backup",
@@ -197,10 +203,28 @@
     "Url": "https://aws.amazon.com/batch/",
     "Note": ""
   },
+  "bcm-data-exports": {
+    "Prefix": "BCMDE",
+    "Name": "Data Exports for AWS Billing and Cost Management",
+    "Url": "https://aws.amazon.com/aws-cost-management/",
+    "Note": ""
+  },
   "bedrock": {
     "Prefix": "BDR",
     "Name": "Amazon Bedrock",
     "Url": "https://aws.amazon.com/bedrock/",
+    "Note": ""
+  },
+  "bedrock-agent": {
+    "Prefix": "",
+    "Name": "Agents for Amazon Bedrock",
+    "Url": "https://aws.amazon.com/bedrock/agents/",
+    "Note": ""
+  },
+  "bedrock-agent-runtime": {
+    "Prefix": "",
+    "Name": "Agents for Amazon Bedrock",
+    "Url": "https://aws.amazon.com/bedrock/agents/",
     "Note": ""
   },
   "bedrock-runtime": {
@@ -503,6 +527,12 @@
     "Url": "https://aws.amazon.com/controltower/",
     "Note": ""
   },
+  "cost-optimization-hub": {
+    "Prefix": "COH",
+    "Name": "AWS Cost Optimization Hub",
+    "Url": "https://aws.amazon.com/aws-cost-management/cost-optimization-hub/",
+    "Note": ""
+  },
   "cur": {
     "Prefix": "CUR",
     "Name": "AWS Cost and Usage Report",
@@ -689,6 +719,12 @@
     "Url": "https://aws.amazon.com/eks/",
     "Note": ""
   },
+  "eks-auth": {
+    "Prefix": "EKSAU",
+    "Name": "EKS Pod Identity",
+    "Url": "https://aws.amazon.com/eks/",
+    "Note": ""
+  },
   "elastic-inference": {
     "Prefix": "EI",
     "Name": "Amazon Elastic Inference",
@@ -813,6 +849,12 @@
     "Prefix": "FD",
     "Name": "Amazon Fraud Detector",
     "Url": "https://aws.amazon.com/fraud-detector/",
+    "Note": ""
+  },
+  "freetier": {
+    "Prefix": "FT",
+    "Name": "AWS Free Tier GetFreeTierUsage API",
+    "Url": "https://aws.amazon.com/aws-cost-management/",
     "Note": ""
   },
   "fsx": {
@@ -1619,6 +1661,18 @@
     "Url": "https://aws.amazon.com/proton/",
     "Note": ""
   },
+  "qbusiness": {
+    "Prefix": "",
+    "Name": "Amazon Q",
+    "Url": "https://aws.amazon.com/q/",
+    "Note": ""
+  },
+  "qconnect": {
+    "Prefix": "",
+    "Name": "Amazon Q in Connect",
+    "Url": "https://aws.amazon.com/connect/q/",
+    "Note": ""
+  },
   "qldb": {
     "Prefix": "QLDB",
     "Name": "Amazon Quantum Ledger Database (QLDB)",
@@ -1683,6 +1737,12 @@
     "Prefix": "REK",
     "Name": "Amazon Rekognition",
     "Url": "https://aws.amazon.com/rekognition/",
+    "Note": ""
+  },
+  "repostspace": {
+    "Prefix": "RESP",
+    "Name": "AWS re:Post Private",
+    "Url": "https://aws.amazon.com/repost-private/",
     "Note": ""
   },
   "resiliencehub": {
@@ -2169,6 +2229,12 @@
     "Prefix": "WKS",
     "Name": "Amazon WorkSpaces",
     "Url": "https://aws.amazon.com/workspaces/",
+    "Note": ""
+  },
+  "workspaces-thin-client": {
+    "Prefix": "WSTC",
+    "Name": "Amazon WorkSpaces Thin Client",
+    "Url": "https://aws.amazon.com/workspaces/thin-client/",
     "Note": ""
   },
   "workspaces-web": {

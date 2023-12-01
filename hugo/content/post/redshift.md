@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2023-11-29
+date: 2023-12-01
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift create-hsm-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-hsm-configuration.html)|[New-RSHsmConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSHsmConfiguration.html)|
 |[aws redshift create-redshift-idc-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-redshift-idc-application.html)|[New-RSRedshiftIdcApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSRedshiftIdcApplication.html)|
 |[aws redshift create-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-scheduled-action.html)|[New-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSScheduledAction.html)|
+|[aws redshift create-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-scheduled-action.html)|[New-RSSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSScheduledAction.html)|
 |[aws redshift create-snapshot-copy-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-snapshot-copy-grant.html)|[New-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotCopyGrant.html)|
 |[aws redshift create-snapshot-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-snapshot-schedule.html)|[New-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSSnapshotSchedule.html)|
 |[aws redshift create-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/create-tags.html)|[New-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RSResourceTag.html)|
@@ -63,6 +64,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-resource-policy.html)|[Remove-RSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSResourcePolicy.html)|
 |[aws redshift delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-resource-policy.html)|[Remove-RSSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSResourcePolicy.html)|
 |[aws redshift delete-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-scheduled-action.html)|[Remove-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSScheduledAction.html)|
+|[aws redshift delete-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-scheduled-action.html)|[Remove-RSSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSScheduledAction.html)|
 |[aws redshift delete-snapshot-copy-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-snapshot-copy-grant.html)|[Remove-RSSnapshotCopyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotCopyGrant.html)|
 |[aws redshift delete-snapshot-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-snapshot-schedule.html)|[Remove-RSSnapshotSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSnapshotSchedule.html)|
 |[aws redshift delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-tags.html)|[Remove-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSResourceTag.html)|

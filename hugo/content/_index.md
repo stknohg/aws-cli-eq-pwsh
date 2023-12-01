@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-11-29
+date: 2023-12-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.14.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.463 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.14.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.466 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -56,8 +56,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
 |[Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/aws-cost-management/)|[bcm-data-exports]({{%relref "post/bcm-data-exports.md" %}})|BCMDE||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
-|[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|||
-|[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|||
+|[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|AAB||
+|[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|BAR||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock-runtime]({{%relref "post/bedrock-runtime.md" %}})|BDRR||
 |[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
@@ -70,6 +70,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-messaging]({{%relref "post/chime-sdk-messaging.md" %}})|CHMMG|Amazon Chime SDK Messaging API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-voice]({{%relref "post/chime-sdk-voice.md" %}})|CHMVO|Amazon Chime Voice Connector|
 |[AWS Clean Rooms](https://aws.amazon.com/clean-rooms/)|[cleanrooms]({{%relref "post/cleanrooms.md" %}})|CRS||
+|[AWS Clean Rooms ML](https://aws.amazon.com/clean-rooms/ml/)|[cleanroomsml]({{%relref "post/cleanroomsml.md" %}})|CRML||
 |[AWS Cloud9](https://aws.amazon.com/cloud9/)|[cloud9]({{%relref "post/cloud9.md" %}})|C9||
 |[AWS Cloud Control API](https://aws.amazon.com/cloudcontrolapi/)|[cloudcontrol]({{%relref "post/cloudcontrol.md" %}})|CCA||
 |[Amazon Cloud Directory](https://aws.amazon.com/cloud-directory/)|[clouddirectory]({{%relref "post/clouddirectory.md" %}})|CDIR||
@@ -240,7 +241,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2|Macie v1 API was removed.|
 |[Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
 |[Amazon Managed Blockchain Query](https://aws.amazon.com/managed-blockchain/amb-query/)|[managedblockchain-query]({{%relref "post/managedblockchain-query.md" %}})|MBCQ||
+|[AWS Marketplace Agreement Service](https://aws.amazon.com/marketplace/)|[marketplace-agreement]({{%relref "post/marketplace-agreement.md" %}})|MAS||
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
+|[AWS Marketplace Deployment Service](https://aws.amazon.com/marketplace/)|[marketplace-deployment]({{%relref "post/marketplace-deployment.md" %}})|MD||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
 |[AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)|[marketplacecommerceanalytics]({{%relref "post/marketplacecommerceanalytics.md" %}})|MCA||
 |[AWS Elemental MediaConnect](https://aws.amazon.com/mediaconnect/)|[mediaconnect]({{%relref "post/mediaconnect.md" %}})|EMCN||

@@ -1,6 +1,6 @@
 ---
 title: deploy
-date: 2023-11-29
+date: 2023-12-01
 description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 ---
 
@@ -52,6 +52,7 @@ description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 |[aws deploy list-git-hub-account-token-names](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-git-hub-account-token-names.html)|[Get-CDGitHubAccountTokenNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDGitHubAccountTokenNameList.html)|
 |[aws deploy list-on-premises-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-on-premises-instances.html)|[Get-CDOnPremiseInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDOnPremiseInstanceList.html)|
 |[aws deploy list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-tags-for-resource.html)|[Get-CDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDResourceTag.html)|
+|[aws deploy list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-tags-for-resource.html)|[Get-MDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDResourceTag.html)|
 |[aws deploy push](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/push.html)||
 |[aws deploy put-lifecycle-event-hook-execution-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/put-lifecycle-event-hook-execution-status.html)|[Write-CDLifecycleEventHookExecutionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CDLifecycleEventHookExecutionStatus.html)|
 |[aws deploy register](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/register.html)||
@@ -60,8 +61,10 @@ description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 |[aws deploy remove-tags-from-on-premises-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/remove-tags-from-on-premises-instances.html)|[Remove-CDOnPremiseInstanceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CDOnPremiseInstanceTag.html)|
 |[aws deploy stop-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/stop-deployment.html)|[Stop-CDDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CDDeployment.html)|
 |[aws deploy tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/tag-resource.html)|[Add-CDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CDResourceTag.html)|
+|[aws deploy tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/tag-resource.html)|[Add-MDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MDResourceTag.html)|
 |[aws deploy uninstall](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/uninstall.html)||
 |[aws deploy untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/untag-resource.html)|[Remove-CDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CDResourceTag.html)|
+|[aws deploy untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/untag-resource.html)|[Remove-MDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MDResourceTag.html)|
 |[aws deploy update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/update-application.html)|[Update-CDApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CDApplication.html)|
 |[aws deploy update-deployment-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/update-deployment-group.html)|[Update-CDDeploymentGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CDDeploymentGroup.html)|
 

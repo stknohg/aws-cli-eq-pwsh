@@ -1,6 +1,6 @@
 ---
 title: simspaceweaver
-date: 2023-11-29
+date: 2023-12-01
 description: aws simspaceweaver (AWS SimSpace Weaver) command/cmdlet list.
 ---
 

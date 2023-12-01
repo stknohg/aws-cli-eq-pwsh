@@ -1,6 +1,6 @@
 ---
 title: amplify
-date: 2023-11-29
+date: 2023-12-01
 description: aws amplify (AWS Amplify) command/cmdlet list.
 ---
 

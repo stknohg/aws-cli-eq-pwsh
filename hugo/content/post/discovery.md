@@ -1,6 +1,6 @@
 ---
 title: discovery
-date: 2023-11-29
+date: 2023-12-01
 description: aws discovery (AWS Application Discovery Service) command/cmdlet list.
 ---
 

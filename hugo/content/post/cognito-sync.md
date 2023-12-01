@@ -1,6 +1,6 @@
 ---
 title: cognito-sync
-date: 2023-11-29
+date: 2023-12-01
 description: aws cognito-sync (Amazon Cognito Sync) command/cmdlet list.
 ---
 

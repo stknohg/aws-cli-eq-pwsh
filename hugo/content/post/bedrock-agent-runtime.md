@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent-runtime
-date: 2023-11-29
+date: 2023-12-01
 description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdle
 ### [Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/BedrockAgentRuntime_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

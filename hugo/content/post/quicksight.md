@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2023-11-29
+date: 2023-12-01
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 

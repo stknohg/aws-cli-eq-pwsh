@@ -1,6 +1,6 @@
 ---
 title: applicationcostprofiler
-date: 2023-11-29
+date: 2023-12-01
 description: aws applicationcostprofiler (AWS Application Cost Profiler) command/cmdlet list.
 ---
 

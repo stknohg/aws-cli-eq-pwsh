@@ -216,13 +216,13 @@
     "Note": ""
   },
   "bedrock-agent": {
-    "Prefix": "",
+    "Prefix": "AAB",
     "Name": "Agents for Amazon Bedrock",
     "Url": "https://aws.amazon.com/bedrock/agents/",
     "Note": ""
   },
   "bedrock-agent-runtime": {
-    "Prefix": "",
+    "Prefix": "BAR",
     "Name": "Agents for Amazon Bedrock",
     "Url": "https://aws.amazon.com/bedrock/agents/",
     "Note": ""
@@ -291,6 +291,12 @@
     "Prefix": "CRS",
     "Name": "AWS Clean Rooms",
     "Url": "https://aws.amazon.com/clean-rooms/",
+    "Note": ""
+  },
+  "cleanroomsml": {
+    "Prefix": "CRML",
+    "Name": "AWS Clean Rooms ML",
+    "Url": "https://aws.amazon.com/clean-rooms/ml/",
     "Note": ""
   },
   "chime": {
@@ -1325,9 +1331,21 @@
     "Url": "https://aws.amazon.com/managed-blockchain/amb-query/",
     "Note": ""
   },
+  "marketplace-agreement": {
+    "Prefix": "MAS",
+    "Name": "AWS Marketplace Agreement Service",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
   "marketplace-catalog": {
     "Prefix": "MCAT",
     "Name": "AWS Marketplace Catalog Service",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
+  "marketplace-deployment": {
+    "Prefix": "MD",
+    "Name": "AWS Marketplace Deployment Service",
     "Url": "https://aws.amazon.com/marketplace/",
     "Note": ""
   },

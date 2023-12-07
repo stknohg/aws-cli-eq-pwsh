@@ -1,6 +1,6 @@
 ---
 title: cleanroomsml
-date: 2023-12-01
+date: 2023-12-07
 description: aws cleanroomsml (AWS Clean Rooms ML) command/cmdlet list.
 ---
 

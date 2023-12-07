@@ -1,15 +1,15 @@
 ---
 title: qbusiness
-date: 2023-12-01
-description: aws qbusiness (Amazon Q) command/cmdlet list.
+date: 2023-12-07
+description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 
 ## qbusiness
 
-### [Amazon Q](https://aws.amazon.com/q/)
+### [Amazon Q for Your Business](https://aws.amazon.com/q/business-expert/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/QBusiness_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2023-12-01
+date: 2023-12-07
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ### [Amazon Q in Connect](https://aws.amazon.com/connect/q/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/QConnect_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
@@ -42,6 +42,7 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect list-quick-responses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-quick-responses.html)|[Get-QCQuickResponseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCQuickResponseList.html)|
 |[aws qconnect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-tags-for-resource.html)|[Get-QCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCResourceTag.html)|
 |[aws qconnect notify-recommendations-received](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/notify-recommendations-received.html)|[Remove-QCRecommendationsReceived](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCRecommendationsReceived.html)|
+|[aws qconnect put-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/put-feedback.html)|[Write-QCFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-QCFeedback.html)|
 |[aws qconnect query-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/query-assistant.html)|[Search-QCAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QCAssistant.html)|
 |[aws qconnect remove-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-knowledge-base-template-uri.html)|[Remove-QCKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCKnowledgeBaseTemplateUri.html)|
 |[aws qconnect search-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/search-content.html)|[Search-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QCContent.html)|

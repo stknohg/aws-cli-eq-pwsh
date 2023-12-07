@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2023-12-01
+date: 2023-12-07
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.14.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.466 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.14.6 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.470 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -299,8 +299,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
 |[AWS Private 5G](https://aws.amazon.com/private5g/)|[privatenetworks]({{%relref "post/privatenetworks.md" %}})|PV5G||
 |[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO||
-|[Amazon Q](https://aws.amazon.com/q/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|||
-|[Amazon Q in Connect](https://aws.amazon.com/connect/q/)|[qconnect]({{%relref "post/qconnect.md" %}})|||
+|[Amazon Q for Your Business](https://aws.amazon.com/q/business-expert/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|QBUS||
+|[Amazon Q in Connect](https://aws.amazon.com/connect/q/)|[qconnect]({{%relref "post/qconnect.md" %}})|QC||
 |[Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)|[qldb]({{%relref "post/qldb.md" %}})|QLDB||
 |[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||
 |[Amazon QuickSight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||

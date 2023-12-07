@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2023-12-01
+date: 2023-12-07
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 

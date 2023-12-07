@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2023-12-01
+date: 2023-12-07
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 

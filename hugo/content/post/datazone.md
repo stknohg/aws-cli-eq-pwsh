@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2023-12-01
+date: 2023-12-07
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 

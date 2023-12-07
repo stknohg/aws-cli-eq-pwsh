@@ -1680,13 +1680,13 @@
     "Note": ""
   },
   "qbusiness": {
-    "Prefix": "",
-    "Name": "Amazon Q",
-    "Url": "https://aws.amazon.com/q/",
+    "Prefix": "QBUS",
+    "Name": "Amazon Q for Your Business",
+    "Url": "https://aws.amazon.com/q/business-expert/",
     "Note": ""
   },
   "qconnect": {
-    "Prefix": "",
+    "Prefix": "QC",
     "Name": "Amazon Q in Connect",
     "Url": "https://aws.amazon.com/connect/q/",
     "Note": ""

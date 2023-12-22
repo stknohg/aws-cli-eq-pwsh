@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2023-12-07
+date: 2023-12-22
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -88,6 +88,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-db-proxy-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-proxy-endpoints.html)|[Get-RDSDBProxyEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxyEndpoint.html)|
 |[aws rds describe-db-proxy-target-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-proxy-target-groups.html)|[Get-RDSDBProxyTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxyTargetGroup.html)|
 |[aws rds describe-db-proxy-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-proxy-targets.html)|[Get-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxyTarget.html)|
+|[aws rds describe-db-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-recommendations.html)|[Get-RDSDBRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBRecommendation.html)|
 |[aws rds describe-db-security-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-security-groups.html)|[Get-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSecurityGroup.html)|
 |[aws rds describe-db-snapshot-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-snapshot-attributes.html)|[Get-RDSDBSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSnapshotAttribute.html)|
 |[aws rds describe-db-snapshot-tenant-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-snapshot-tenant-databases.html)|[Get-RDSDBSnapshotTenantDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSnapshotTenantDatabasis.html)|
@@ -128,6 +129,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds modify-db-proxy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-proxy.html)|[Edit-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxy.html)|
 |[aws rds modify-db-proxy-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-proxy-endpoint.html)|[Edit-RDSDBProxyEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxyEndpoint.html)|
 |[aws rds modify-db-proxy-target-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-proxy-target-group.html)|[Edit-RDSDBProxyTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxyTargetGroup.html)|
+|[aws rds modify-db-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-recommendation.html)|[Edit-RDSDBRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBRecommendation.html)|
 |[aws rds modify-db-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-snapshot.html)|[Edit-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSnapshot.html)|
 |[aws rds modify-db-snapshot-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-snapshot-attribute.html)|[Edit-RDSDBSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSnapshotAttribute.html)|
 |[aws rds modify-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-subnet-group.html)|[Edit-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSubnetGroup.html)|

@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2023-12-07
+date: 2023-12-22
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -81,6 +81,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker delete-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-association.html)|[Remove-SMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMAssociation.html)|
 |[aws sagemaker delete-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-cluster.html)|[Remove-SMCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMCluster.html)|
 |[aws sagemaker delete-code-repository](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-code-repository.html)|[Remove-SMCodeRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMCodeRepository.html)|
+|[aws sagemaker delete-compilation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-compilation-job.html)|[Remove-SMCompilationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMCompilationJob.html)|
 |[aws sagemaker delete-context](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-context.html)|[Remove-SMContext](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMContext.html)|
 |[aws sagemaker delete-data-quality-job-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-data-quality-job-definition.html)|[Remove-SMDataQualityJobDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMDataQualityJobDefinition.html)|
 |[aws sagemaker delete-device-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-device-fleet.html)|[Remove-SMDeviceFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMDeviceFleet.html)|

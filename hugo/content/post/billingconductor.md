@@ -1,6 +1,6 @@
 ---
 title: billingconductor
-date: 2023-12-07
+date: 2023-12-22
 description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 |[aws billingconductor delete-pricing-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/delete-pricing-rule.html)|[Remove-ABCPricingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ABCPricingRule.html)|
 |[aws billingconductor disassociate-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/disassociate-accounts.html)|[Unregister-ABCAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ABCAccount.html)|
 |[aws billingconductor disassociate-pricing-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/disassociate-pricing-rules.html)|[Unregister-ABCPricingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ABCPricingRule.html)|
+|[aws billingconductor get-billing-group-cost-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/get-billing-group-cost-report.html)|[Get-ABCBillingGroupCostReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupCostReport.html)|
 |[aws billingconductor list-account-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/list-account-associations.html)|[Get-ABCAccountAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCAccountAssociationList.html)|
 |[aws billingconductor list-billing-group-cost-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/list-billing-group-cost-reports.html)|[Get-ABCBillingGroupCostReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupCostReportList.html)|
 |[aws billingconductor list-billing-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/list-billing-groups.html)|[Get-ABCBillingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupList.html)|

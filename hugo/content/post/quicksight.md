@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2023-12-07
+date: 2023-12-22
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -157,6 +157,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-analysis](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-analysis.html)|[Update-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAnalysis.html)|
 |[aws quicksight update-analysis-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-analysis-permissions.html)|[Update-QSAnalysisPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAnalysisPermission.html)|
 |[aws quicksight update-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard.html)|[Update-QSDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboard.html)|
+|[aws quicksight update-dashboard-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard-links.html)|[Update-QSDashboardLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardLink.html)|
 |[aws quicksight update-dashboard-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard-permissions.html)|[Update-QSDashboardPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardPermission.html)|
 |[aws quicksight update-dashboard-published-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard-published-version.html)|[Update-QSDashboardPublishedVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardPublishedVersion.html)|
 |[aws quicksight update-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-data-set.html)|[Update-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDataSet.html)|

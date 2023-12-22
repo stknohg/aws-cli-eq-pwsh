@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2023-12-07
+date: 2023-12-22
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -167,9 +167,11 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-view-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-view-versions.html)|[Get-CONNViewVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNViewVersionList.html)|
 |[aws connect list-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-views.html)|[Get-CONNViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNViewList.html)|
 |[aws connect monitor-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/monitor-contact.html)|[Start-CONNContactMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactMonitoring.html)|
+|[aws connect pause-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/pause-contact.html)|[Invoke-CONNPauseContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CONNPauseContact.html)|
 |[aws connect put-user-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/put-user-status.html)|[Write-CONNUserStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CONNUserStatus.html)|
 |[aws connect release-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/release-phone-number.html)|[Remove-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNPhoneNumber.html)|
 |[aws connect replicate-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/replicate-instance.html)|[Copy-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-CONNInstance.html)|
+|[aws connect resume-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/resume-contact.html)|[Invoke-CONNResumeContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CONNResumeContact.html)|
 |[aws connect resume-contact-recording](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/resume-contact-recording.html)|[Resume-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CONNContactRecording.html)|
 |[aws connect search-available-phone-numbers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-available-phone-numbers.html)|[Search-CONNAvailablePhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNAvailablePhoneNumber.html)|
 |[aws connect search-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-hours-of-operations.html)|[Search-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNHoursOfOperation.html)|
@@ -194,8 +196,10 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect stop-contact-streaming](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/stop-contact-streaming.html)|[Stop-CONNContactStreaming](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CONNContactStreaming.html)|
 |[aws connect submit-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/submit-contact-evaluation.html)|[Submit-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-CONNContactEvaluation.html)|
 |[aws connect suspend-contact-recording](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/suspend-contact-recording.html)|[Suspend-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-CONNContactRecording.html)|
+|[aws connect tag-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/tag-contact.html)|[Add-CONNContactTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNContactTag.html)|
 |[aws connect tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/tag-resource.html)|[Add-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNResourceTag.html)|
 |[aws connect transfer-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/transfer-contact.html)|[Move-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-CONNContact.html)|
+|[aws connect untag-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/untag-contact.html)|[Remove-CONNContactTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactTag.html)|
 |[aws connect untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/untag-resource.html)|[Remove-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNResourceTag.html)|
 |[aws connect update-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-agent-status.html)|[Update-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAgentStatus.html)|
 |[aws connect update-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact.html)|[Update-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContact.html)|

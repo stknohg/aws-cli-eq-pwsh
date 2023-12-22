@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2023-12-07
+date: 2023-12-22
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 

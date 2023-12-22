@@ -1,6 +1,6 @@
 ---
 title: neptune
-date: 2023-12-07
+date: 2023-12-22
 description: aws neptune (Amazon Neptune) command/cmdlet list.
 ---
 
@@ -61,6 +61,7 @@ description: aws neptune (Amazon Neptune) command/cmdlet list.
 |[aws neptune failover-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/failover-db-cluster.html)|[Start-NPTDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NPTDBClusterFailover.html)|
 |[aws neptune failover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/failover-global-cluster.html)|[Edit-NPTGlobalClusterPrimary](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTGlobalClusterPrimary.html)|
 |[aws neptune list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/list-tags-for-resource.html)|[Get-NPTResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTResourceTagList.html)|
+|[aws neptune list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/list-tags-for-resource.html)|[Get-NEPTGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTGResourceTag.html)|
 |[aws neptune modify-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/modify-db-cluster.html)|[Edit-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBCluster.html)|
 |[aws neptune modify-db-cluster-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/modify-db-cluster-endpoint.html)|[Edit-NPTDBClusterEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBClusterEndpoint.html)|
 |[aws neptune modify-db-cluster-parameter-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/modify-db-cluster-parameter-group.html)|[Edit-NPTDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTDBClusterParameterGroup.html)|

@@ -1,6 +1,6 @@
 ---
 title: marketplace-catalog
-date: 2023-12-07
+date: 2023-12-22
 description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/c
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws marketplace-catalog batch-describe-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/batch-describe-entities.html)|[Get-MCATBatchEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATBatchEntity.html)|
 |[aws marketplace-catalog cancel-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/cancel-change-set.html)|[Stop-MCATChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-MCATChangeSet.html)|
 |[aws marketplace-catalog delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/delete-resource-policy.html)|[Remove-MCATResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MCATResourcePolicy.html)|
 |[aws marketplace-catalog describe-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/describe-change-set.html)|[Get-MCATChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATChangeSet.html)|

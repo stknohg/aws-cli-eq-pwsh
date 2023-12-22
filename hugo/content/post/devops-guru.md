@@ -1,6 +1,6 @@
 ---
 title: devops-guru
-date: 2023-12-07
+date: 2023-12-22
 description: aws devops-guru (Amazon DevOps Guru) command/cmdlet list.
 ---
 

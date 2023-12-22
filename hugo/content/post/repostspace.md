@@ -1,6 +1,6 @@
 ---
 title: repostspace
-date: 2023-12-07
+date: 2023-12-22
 description: aws repostspace (AWS re:Post Private) command/cmdlet list.
 ---
 

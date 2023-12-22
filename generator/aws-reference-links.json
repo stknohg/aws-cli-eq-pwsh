@@ -248,6 +248,7 @@
   "mturk": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MTurk_Service_cmdlets.html",
   "mwaa": "https://docs.aws.amazon.com/powershell/latest/reference/items/MWAA_cmdlets.html",
   "neptune": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Neptune_cmdlets.html",
+  "neptune-graph": "https://docs.aws.amazon.com/powershell/latest/reference/items/NeptuneGraph_cmdlets.html",
   "neptunedata": "https://docs.aws.amazon.com/powershell/latest/reference/items/Neptunedata_cmdlets.html",
   "network-firewall": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html",
   "networkmanager": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html",

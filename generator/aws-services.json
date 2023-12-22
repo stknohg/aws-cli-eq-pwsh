@@ -1499,6 +1499,12 @@
     "Url": "https://aws.amazon.com/neptune/",
     "Note": ""
   },
+  "neptune-graph": {
+    "Prefix": "NEPTG",
+    "Name": "Amazon Neptune Analytics",
+    "Url": "https://aws.amazon.com/neptune/",
+    "Note": ""
+  },
   "neptunedata": {
     "Prefix": "NEPT",
     "Name": "Amazon Neptune",

@@ -1523,6 +1523,12 @@
     "Url": "https://aws.amazon.com/transit-gateway/network-manager/",
     "Note": ""
   },
+  "networkmonitor": {
+    "Prefix": "CWNM",
+    "Name": "Amazon CloudWatch Network Monitor",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
   "nimble": {
     "Prefix": "NS",
     "Name": "Amazon Nimble Studio",

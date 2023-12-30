@@ -252,6 +252,7 @@
   "neptunedata": "https://docs.aws.amazon.com/powershell/latest/reference/items/Neptunedata_cmdlets.html",
   "network-firewall": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html",
   "networkmanager": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html",
+  "networkmonitor": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkMonitor_cmdlets.html",
   "nimble": "https://docs.aws.amazon.com/powershell/latest/reference/items/NimbleStudio_cmdlets.html",
   "oam": "https://docs.aws.amazon.com/powershell/latest/reference/items/OAM_cmdlets.html",
   "omics": "https://docs.aws.amazon.com/powershell/latest/reference/items/Omics_cmdlets.html",

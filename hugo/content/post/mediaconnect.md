@@ -1,6 +1,6 @@
 ---
 title: mediaconnect
-date: 2023-12-22
+date: 2023-12-30
 description: aws mediaconnect (AWS Elemental MediaConnect) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws mediaconnect (AWS Elemental MediaConnect) command/cmdlet list.
 |[aws mediaconnect deregister-gateway-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/deregister-gateway-instance.html)|[Remove-EMCNGatewayInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCNGatewayInstance.html)|
 |[aws mediaconnect describe-bridge](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/describe-bridge.html)|[Get-EMCNBridge](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNBridge.html)|
 |[aws mediaconnect describe-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/describe-flow.html)|[Get-EMCNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNFlow.html)|
+|[aws mediaconnect describe-flow-source-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/describe-flow-source-metadata.html)|[Get-EMCNFlowSourceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNFlowSourceMetadata.html)|
 |[aws mediaconnect describe-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/describe-gateway.html)|[Get-EMCNGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNGateway.html)|
 |[aws mediaconnect describe-gateway-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/describe-gateway-instance.html)|[Get-EMCNGatewayInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNGatewayInstance.html)|
 |[aws mediaconnect describe-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconnect/describe-offering.html)|[Get-EMCNOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCNOffering.html)|

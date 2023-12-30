@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2023-12-22
+date: 2023-12-30
 description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty get-master-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-master-account.html)|[Get-GDMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMasterAccount.html)|
 |[aws guardduty get-member-detectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-member-detectors.html)|[Get-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberDetector.html)|
 |[aws guardduty get-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-members.html)|[Get-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMember.html)|
+|[aws guardduty get-organization-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-organization-statistics.html)|[Get-GDOrganizationStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDOrganizationStatistic.html)|
 |[aws guardduty get-remaining-free-trial-days](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-remaining-free-trial-days.html)|[Get-GDRemainingFreeTrialDay](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDRemainingFreeTrialDay.html)|
 |[aws guardduty get-threat-intel-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-threat-intel-set.html)|[Get-GDThreatIntelSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSet.html)|
 |[aws guardduty get-usage-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-usage-statistics.html)|[Get-GDUsageStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDUsageStatistic.html)|

@@ -1,6 +1,6 @@
 ---
 title: servicecatalog-appregistry
-date: 2023-12-22
+date: 2023-12-30
 description: aws servicecatalog-appregistry (AWS Service Catalog App Registry) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2023-12-22
+date: 2023-12-30
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks describe-eks-anywhere-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-eks-anywhere-subscription.html)|[Get-EKSEksAnywhereSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSEksAnywhereSubscription.html)|
 |[aws eks describe-fargate-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-fargate-profile.html)|[Get-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfile.html)|
 |[aws eks describe-identity-provider-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-identity-provider-config.html)|[Get-EKSIdentityProviderConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSIdentityProviderConfig.html)|
+|[aws eks describe-insight](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-insight.html)|[Get-EKSInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSInsight.html)|
 |[aws eks describe-nodegroup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-nodegroup.html)|[Get-EKSNodegroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSNodegroup.html)|
 |[aws eks describe-pod-identity-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-pod-identity-association.html)|[Get-EKSPodIdentityAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSPodIdentityAssociation.html)|
 |[aws eks describe-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-update.html)|[Get-EKSUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdate.html)|
@@ -53,6 +54,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks list-eks-anywhere-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-eks-anywhere-subscriptions.html)|[Get-EKSEksAnywhereSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSEksAnywhereSubscriptionList.html)|
 |[aws eks list-fargate-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-fargate-profiles.html)|[Get-EKSFargateProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfileList.html)|
 |[aws eks list-identity-provider-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-identity-provider-configs.html)|[Get-EKSIdentityProviderConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSIdentityProviderConfigList.html)|
+|[aws eks list-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-insights.html)|[Get-EKSInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSInsightList.html)|
 |[aws eks list-nodegroups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-nodegroups.html)|[Get-EKSNodegroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSNodegroupList.html)|
 |[aws eks list-pod-identity-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-pod-identity-associations.html)|[Get-EKSPodIdentityAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSPodIdentityAssociationList.html)|
 |[aws eks list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-tags-for-resource.html)|[Get-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSResourceTag.html)|

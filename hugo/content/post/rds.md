@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2023-12-22
+date: 2023-12-30
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -111,7 +111,9 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-source-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-source-regions.html)|[Get-RDSSourceRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSSourceRegion.html)|
 |[aws rds describe-tenant-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-tenant-databases.html)|[Get-RDSTenantDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTenantDatabasis.html)|
 |[aws rds describe-valid-db-instance-modifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-valid-db-instance-modifications.html)|[Get-RDSValidDBInstanceModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSValidDBInstanceModification.html)|
+|[aws rds disable-http-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/disable-http-endpoint.html)|[Disable-RDSHttpEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-RDSHttpEndpoint.html)|
 |[aws rds download-db-log-file-portion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/download-db-log-file-portion.html)|[Get-RDSDBLogFilePortion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBLogFilePortion.html)|
+|[aws rds enable-http-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/enable-http-endpoint.html)|[Enable-RDSHttpEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-RDSHttpEndpoint.html)|
 |[aws rds failover-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/failover-db-cluster.html)|[Start-RDSDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSDBClusterFailover.html)|
 |[aws rds failover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/failover-global-cluster.html)|[Start-RDSFailoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RDSFailoverGlobalCluster.html)|
 |[aws rds generate-db-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/generate-db-auth-token.html)||

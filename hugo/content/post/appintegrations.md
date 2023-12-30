@@ -1,6 +1,6 @@
 ---
 title: appintegrations
-date: 2023-12-22
+date: 2023-12-30
 description: aws appintegrations (Amazon AppIntegrations APIs) command/cmdlet list.
 ---
 
@@ -16,11 +16,13 @@ description: aws appintegrations (Amazon AppIntegrations APIs) command/cmdlet li
 |[aws appintegrations create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/create-application.html)|[New-AISApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AISApplication.html)|
 |[aws appintegrations create-data-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/create-data-integration.html)|[New-AISDataIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AISDataIntegration.html)|
 |[aws appintegrations create-event-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/create-event-integration.html)|[New-AISEventIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AISEventIntegration.html)|
+|[aws appintegrations delete-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/delete-application.html)|[Remove-AISApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AISApplication.html)|
 |[aws appintegrations delete-data-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/delete-data-integration.html)|[Remove-AISDataIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AISDataIntegration.html)|
 |[aws appintegrations delete-event-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/delete-event-integration.html)|[Remove-AISEventIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AISEventIntegration.html)|
 |[aws appintegrations get-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/get-application.html)|[Get-AISApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISApplication.html)|
 |[aws appintegrations get-data-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/get-data-integration.html)|[Get-AISDataIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISDataIntegration.html)|
 |[aws appintegrations get-event-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/get-event-integration.html)|[Get-AISEventIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISEventIntegration.html)|
+|[aws appintegrations list-application-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/list-application-associations.html)|[Get-AISApplicationAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISApplicationAssociationList.html)|
 |[aws appintegrations list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/list-applications.html)|[Get-AISApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISApplicationList.html)|
 |[aws appintegrations list-data-integration-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/list-data-integration-associations.html)|[Get-AISDataIntegrationAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISDataIntegrationAssociationList.html)|
 |[aws appintegrations list-data-integrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appintegrations/list-data-integrations.html)|[Get-AISDataIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AISDataIntegrationList.html)|

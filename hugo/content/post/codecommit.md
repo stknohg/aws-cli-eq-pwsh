@@ -1,6 +1,6 @@
 ---
 title: codecommit
-date: 2023-12-22
+date: 2023-12-30
 description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 ---
 
@@ -90,5 +90,6 @@ description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 |[aws codecommit update-pull-request-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/update-pull-request-status.html)|[Update-CCPullRequestStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCPullRequestStatus.html)|
 |[aws codecommit update-pull-request-title](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/update-pull-request-title.html)|[Update-CCPullRequestTitle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCPullRequestTitle.html)|
 |[aws codecommit update-repository-description](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/update-repository-description.html)|[Update-CCRepositoryDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCRepositoryDescription.html)|
+|[aws codecommit update-repository-encryption-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/update-repository-encryption-key.html)|[Update-CCRepositoryEncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCRepositoryEncryptionKey.html)|
 |[aws codecommit update-repository-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/update-repository-name.html)|[Update-CCRepositoryName](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCRepositoryName.html)|
 

@@ -5,6 +5,7 @@
     <link>https://aws-cli-eq-pwsh.shibata.tech/tags/</link>
     <description>Recent content in Tags on AWS CLI -eq PowerShell</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://aws-cli-eq-pwsh.shibata.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://aws-cli-eq-pwsh.shibata.tech/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

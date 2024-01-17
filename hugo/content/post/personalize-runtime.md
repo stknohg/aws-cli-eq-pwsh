@@ -1,6 +1,6 @@
 ---
 title: personalize-runtime
-date: 2023-12-30
+date: 2024-01-17
 description: aws personalize-runtime (Amazon Personalize) command/cmdlet list.
 ---
 

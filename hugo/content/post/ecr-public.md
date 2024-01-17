@@ -1,6 +1,6 @@
 ---
 title: ecr-public
-date: 2023-12-30
+date: 2024-01-17
 description: aws ecr-public (Amazon Elastic Container Registry Public) command/cmdlet list.
 ---
 

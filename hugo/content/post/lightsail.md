@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2023-12-30
+date: 2024-01-17
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 
@@ -136,6 +136,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail get-relational-database-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-relational-database-snapshot.html)|[Get-LSRelationalDatabaseSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseSnapshot.html)|
 |[aws lightsail get-relational-database-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-relational-database-snapshots.html)|[Get-LSRelationalDatabaseSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseSnapshotList.html)|
 |[aws lightsail get-relational-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-relational-databases.html)|[Get-LSRelationalDatabaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseList.html)|
+|[aws lightsail get-setup-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-setup-history.html)|[Get-LSSetupHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSSetupHistory.html)|
 |[aws lightsail get-static-ip](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-static-ip.html)|[Get-LSStaticIp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSStaticIp.html)|
 |[aws lightsail get-static-ips](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-static-ips.html)|[Get-LSStaticIpList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSStaticIpList.html)|
 |[aws lightsail import-key-pair](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/import-key-pair.html)|[Import-LSKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-LSKeyPair.html)|
@@ -153,6 +154,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail send-contact-method-verification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/send-contact-method-verification.html)|[Send-LSContactMethodVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LSContactMethodVerification.html)|
 |[aws lightsail set-ip-address-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/set-ip-address-type.html)|[Set-LSIpAddressType](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSIpAddressType.html)|
 |[aws lightsail set-resource-access-for-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/set-resource-access-for-bucket.html)|[Set-LSResourceAccessForBucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSResourceAccessForBucket.html)|
+|[aws lightsail setup-instance-https](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/setup-instance-https.html)|[Set-LSInstanceHttp](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-LSInstanceHttp.html)|
 |[aws lightsail start-gui-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/start-gui-session.html)|[Start-LSGUISession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSGUISession.html)|
 |[aws lightsail start-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/start-instance.html)|[Start-LSInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSInstance.html)|
 |[aws lightsail start-relational-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/start-relational-database.html)|[Start-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-LSRelationalDatabase.html)|

@@ -1,6 +1,6 @@
 ---
 title: sms
-date: 2023-12-30
+date: 2024-01-17
 description: aws sms (AWS Sever Migration Service) command/cmdlet list.
 ---
 

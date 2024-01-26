@@ -349,6 +349,7 @@
   "stepfunctions": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Step_Functions_cmdlets.html",
   "storagegateway": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Storage_Gateway_cmdlets.html",
   "sts": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Token_Service_cmdlets.html",
+  "supplychain": "https://docs.aws.amazon.com/powershell/latest/reference/items/SupplyChain_cmdlets.html",
   "support": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Support_API_cmdlets.html",
   "support-app": "https://docs.aws.amazon.com/powershell/latest/reference/items/SupportApp_cmdlets.html",
   "swf": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Simple_Workflow_Service_cmdlets.html",

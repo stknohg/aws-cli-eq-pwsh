@@ -2111,6 +2111,12 @@
     "Url": "https://aws.amazon.com/iam/",
     "Note": ""
   },
+  "supplychain": {
+    "Prefix": "SUPCH",
+    "Name": "AWS Supply Chain",
+    "Url": "https://aws.amazon.com/aws-supply-chain/",
+    "Note": ""
+  },
   "support": {
     "Prefix": "ASA",
     "Name": "AWS Support",

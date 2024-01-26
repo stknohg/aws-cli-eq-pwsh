@@ -70,7 +70,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2024-01-17</p>
+<p class="text-right"><strong>Last update: </strong>2024-01-26</p>
 
 <h2 id="inspector2">inspector2</h2>
 <h3 id="amazon-inspectorhttpsawsamazoncominspector"><a href="https://aws.amazon.com/inspector/">Amazon Inspector</a></h3>
@@ -123,6 +123,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-INS2SbomExport.html">Stop-INS2SbomExport</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/create-cis-scan-configuration.html">aws inspector2 create-cis-scan-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-INS2CisScanConfiguration.html">New-INS2CisScanConfiguration</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/create-filter.html">aws inspector2 create-filter</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-INS2Filter.html">New-INS2Filter</a></td>
 </tr>
@@ -133,6 +137,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/create-sbom-export.html">aws inspector2 create-sbom-export</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-INS2SbomExport.html">New-INS2SbomExport</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/delete-cis-scan-configuration.html">aws inspector2 delete-cis-scan-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INS2CisScanConfiguration.html">Remove-INS2CisScanConfiguration</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/delete-filter.html">aws inspector2 delete-filter</a></td>
@@ -161,6 +169,14 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/enable-delegated-admin-account.html">aws inspector2 enable-delegated-admin-account</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-INS2DelegatedAdminAccount.html">Enable-INS2DelegatedAdminAccount</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-cis-scan-report.html">aws inspector2 get-cis-scan-report</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanReport.html">Get-INS2CisScanReport</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-cis-scan-result-details.html">aws inspector2 get-cis-scan-result-details</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanResultDetail.html">Get-INS2CisScanResultDetail</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-configuration.html">aws inspector2 get-configuration</a></td>
@@ -193,6 +209,22 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-account-permissions.html">aws inspector2 list-account-permissions</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2AccountPermissionList.html">Get-INS2AccountPermissionList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-cis-scan-configurations.html">aws inspector2 list-cis-scan-configurations</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanConfigurationList.html">Get-INS2CisScanConfigurationList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-cis-scan-results-aggregated-by-checks.html">aws inspector2 list-cis-scan-results-aggregated-by-checks</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanResultsAggregatedByCheckList.html">Get-INS2CisScanResultsAggregatedByCheckList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-cis-scan-results-aggregated-by-target-resource.html">aws inspector2 list-cis-scan-results-aggregated-by-target-resource</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanResultsAggregatedByTargetResourceList.html">Get-INS2CisScanResultsAggregatedByTargetResourceList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-cis-scans.html">aws inspector2 list-cis-scans</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanList.html">Get-INS2CisScanList</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-coverage.html">aws inspector2 list-coverage</a></td>
@@ -239,12 +271,32 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Search-INS2Vulnerability.html">Search-INS2Vulnerability</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/send-cis-session-health.html">aws inspector2 send-cis-session-health</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Send-INS2CisSessionHealth.html">Send-INS2CisSessionHealth</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/send-cis-session-telemetry.html">aws inspector2 send-cis-session-telemetry</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Send-INS2CisSessionTelemetry.html">Send-INS2CisSessionTelemetry</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/start-cis-session.html">aws inspector2 start-cis-session</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-INS2CisSession.html">Start-INS2CisSession</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/stop-cis-session.html">aws inspector2 stop-cis-session</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-INS2CisSession.html">Stop-INS2CisSession</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/tag-resource.html">aws inspector2 tag-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Add-INS2ResourceTag.html">Add-INS2ResourceTag</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/untag-resource.html">aws inspector2 untag-resource</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INS2ResourceTag.html">Remove-INS2ResourceTag</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/update-cis-scan-configuration.html">aws inspector2 update-cis-scan-configuration</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INS2CisScanConfiguration.html">Update-INS2CisScanConfiguration</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/update-configuration.html">aws inspector2 update-configuration</a></td>

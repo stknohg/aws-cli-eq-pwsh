@@ -1,6 +1,6 @@
 ---
 title: cloudsearchdomain
-date: 2024-01-17
+date: 2024-01-26
 description: aws cloudsearchdomain (Amazon CloudSearch) command/cmdlet list.
 ---
 

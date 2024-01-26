@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2024-01-17
+date: 2024-01-26
 description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 ---
 
@@ -63,6 +63,7 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb update-global-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-global-table.html)|[Update-DDBGlobalTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBGlobalTable.html)|
 |[aws dynamodb update-global-table-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-global-table-settings.html)|[Update-DDBGlobalTableSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBGlobalTableSetting.html)|
 |[aws dynamodb update-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-item.html)|[Update-DDBItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBItem.html)|
+|[aws dynamodb update-kinesis-streaming-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-kinesis-streaming-destination.html)|[Update-DDBKinesisStreamingDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBKinesisStreamingDestination.html)|
 |[aws dynamodb update-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-table.html)|[Update-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBTable.html)|
 |[aws dynamodb update-table-replica-auto-scaling](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-table-replica-auto-scaling.html)|[Update-DDBTableReplicaAutoScaling](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBTableReplicaAutoScaling.html)|
 |[aws dynamodb update-time-to-live](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/update-time-to-live.html)|[Update-DDBTimeToLive](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DDBTimeToLive.html)|

@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2024-01-17
+date: 2024-01-26
 description: aws gamelift (Amazon GameLift) command/cmdlet list.
 ---
 

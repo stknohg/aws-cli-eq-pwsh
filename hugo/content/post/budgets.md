@@ -1,6 +1,6 @@
 ---
 title: budgets
-date: 2024-01-17
+date: 2024-01-26
 description: aws budgets (AWS Budgets) command/cmdlet list.
 ---
 

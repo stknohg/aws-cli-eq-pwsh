@@ -1,6 +1,6 @@
 ---
 title: keyspaces
-date: 2024-01-17
+date: 2024-01-26
 description: aws keyspaces (Amazon Keyspaces) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws keyspaces (Amazon Keyspaces) command/cmdlet list.
 |[aws keyspaces delete-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/delete-table.html)|[Remove-KSTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KSTable.html)|
 |[aws keyspaces get-keyspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/get-keyspace.html)|[Get-KSKeyspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KSKeyspace.html)|
 |[aws keyspaces get-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/get-table.html)|[Get-KSTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KSTable.html)|
+|[aws keyspaces get-table-auto-scaling-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/get-table-auto-scaling-settings.html)|[Get-KSTableAutoScalingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KSTableAutoScalingSetting.html)|
 |[aws keyspaces list-keyspaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/list-keyspaces.html)|[Get-KSKeyspaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KSKeyspaceList.html)|
 |[aws keyspaces list-tables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/list-tables.html)|[Get-KSTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KSTableList.html)|
 |[aws keyspaces list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/list-tags-for-resource.html)|[Get-KSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KSResourceTag.html)|

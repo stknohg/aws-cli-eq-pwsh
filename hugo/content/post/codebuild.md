@@ -1,6 +1,6 @@
 ---
 title: codebuild
-date: 2024-01-17
+date: 2024-01-26
 description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 ---
 
@@ -16,13 +16,16 @@ description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 |[aws codebuild batch-delete-builds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-delete-builds.html)|[Remove-CBBuildBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBBuildBatch.html)|
 |[aws codebuild batch-get-build-batches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-get-build-batches.html)|[Get-CBBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBBatch.html)|
 |[aws codebuild batch-get-builds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-get-builds.html)|[Get-CBBuildBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBBuildBatch.html)|
+|[aws codebuild batch-get-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-get-fleets.html)|[Get-CBCBFleetBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBCBFleetBatch.html)|
 |[aws codebuild batch-get-projects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-get-projects.html)|[Get-CBProjectBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBProjectBatch.html)|
 |[aws codebuild batch-get-report-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-get-report-groups.html)|[Get-CBReportGroupBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportGroupBatch.html)|
 |[aws codebuild batch-get-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/batch-get-reports.html)|[Get-CBReportBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportBatch.html)|
+|[aws codebuild create-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/create-fleet.html)|[New-CBFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CBFleet.html)|
 |[aws codebuild create-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/create-project.html)|[New-CBProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CBProject.html)|
 |[aws codebuild create-report-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/create-report-group.html)|[New-CBReportGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CBReportGroup.html)|
 |[aws codebuild create-webhook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/create-webhook.html)|[New-CBWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CBWebhook.html)|
 |[aws codebuild delete-build-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/delete-build-batch.html)|[Remove-CBBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBBatch.html)|
+|[aws codebuild delete-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/delete-fleet.html)|[Remove-CBFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBFleet.html)|
 |[aws codebuild delete-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/delete-project.html)|[Remove-CBProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBProject.html)|
 |[aws codebuild delete-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/delete-report.html)|[Remove-CBReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBReport.html)|
 |[aws codebuild delete-report-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/delete-report-group.html)|[Remove-CBReportGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CBReportGroup.html)|
@@ -40,6 +43,7 @@ description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 |[aws codebuild list-builds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-builds.html)|[Get-CBBuildIdList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBBuildIdList.html)|
 |[aws codebuild list-builds-for-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-builds-for-project.html)|[Get-CBBuildIdListForProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBBuildIdListForProject.html)|
 |[aws codebuild list-curated-environment-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-curated-environment-images.html)|[Get-CBCuratedEnvironmentImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBCuratedEnvironmentImageList.html)|
+|[aws codebuild list-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-fleets.html)|[Get-CBFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBFleetList.html)|
 |[aws codebuild list-projects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-projects.html)|[Get-CBProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBProjectList.html)|
 |[aws codebuild list-report-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-report-groups.html)|[Get-CBReportGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportGroupList.html)|
 |[aws codebuild list-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/list-reports.html)|[Get-CBReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CBReportList.html)|
@@ -54,6 +58,7 @@ description: aws codebuild (AWS CodeBuild) command/cmdlet list.
 |[aws codebuild start-build-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/start-build-batch.html)|[Start-CBBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CBBatch.html)|
 |[aws codebuild stop-build](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/stop-build.html)|[Stop-CBBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CBBuild.html)|
 |[aws codebuild stop-build-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/stop-build-batch.html)|[Stop-CBBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CBBatch.html)|
+|[aws codebuild update-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/update-fleet.html)|[Update-CBFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBFleet.html)|
 |[aws codebuild update-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/update-project.html)|[Update-CBProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBProject.html)|
 |[aws codebuild update-project-visibility](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/update-project-visibility.html)|[Update-CBProjectVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBProjectVisibility.html)|
 |[aws codebuild update-report-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codebuild/update-report-group.html)|[Update-CBReportGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CBReportGroup.html)|

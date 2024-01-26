@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-01-17
+date: 2024-01-26
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.495 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.14 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.502 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -371,6 +371,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Step Functions](https://aws.amazon.com/step-functions/)|[stepfunctions]({{%relref "post/stepfunctions.md" %}})|SFN||
 |[AWS Storage Gateway](https://aws.amazon.com/storagegateway/)|[storagegateway]({{%relref "post/storagegateway.md" %}})|SG||
 |[AWS Security Token Service](https://aws.amazon.com/iam/)|[sts]({{%relref "post/sts.md" %}})|STS||
+|[AWS Supply Chain](https://aws.amazon.com/aws-supply-chain/)|[supplychain]({{%relref "post/supplychain.md" %}})|SUPCH||
 |[AWS Support](https://aws.amazon.com/premiumsupport/)|[support]({{%relref "post/support.md" %}})|ASA||
 |[AWS Support App in Slack API](https://aws.amazon.com/premiumsupport/)|[support-app]({{%relref "post/support-app.md" %}})|SUP||
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||

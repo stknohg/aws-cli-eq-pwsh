@@ -1,6 +1,6 @@
 ---
 title: forecast
-date: 2024-01-17
+date: 2024-01-26
 description: aws forecast (Amazon Forecast) command/cmdlet list.
 ---
 

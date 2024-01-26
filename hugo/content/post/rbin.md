@@ -1,6 +1,6 @@
 ---
 title: rbin
-date: 2024-01-17
+date: 2024-01-26
 description: aws rbin (Recycle Bin) command/cmdlet list.
 ---
 

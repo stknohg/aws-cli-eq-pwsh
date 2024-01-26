@@ -1,6 +1,6 @@
 ---
 title: pi
-date: 2024-01-17
+date: 2024-01-26
 description: aws pi (AWS Performance Insights) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: appsync
-date: 2024-01-26
+date: 2024-02-19
 description: aws appsync (AWS AppSync) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync get-domain-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-domain-name.html)|[Get-ASYNDomainName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNDomainName.html)|
 |[aws appsync get-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-function.html)|[Get-ASYNFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNFunction.html)|
 |[aws appsync get-graphql-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-graphql-api.html)|[Get-ASYNGraphqlApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNGraphqlApi.html)|
+|[aws appsync get-graphql-api-environment-variables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-graphql-api-environment-variables.html)|[Get-ASYNGraphqlApiEnvironmentVariable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNGraphqlApiEnvironmentVariable.html)|
 |[aws appsync get-introspection-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-introspection-schema.html)|[Get-ASYNIntrospectionSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNIntrospectionSchema.html)|
 |[aws appsync get-resolver](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-resolver.html)|[Get-ASYNResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResolver.html)|
 |[aws appsync get-schema-creation-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/get-schema-creation-status.html)|[Get-ASYNSchemaCreationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNSchemaCreationStatus.html)|
@@ -61,6 +62,7 @@ description: aws appsync (AWS AppSync) command/cmdlet list.
 |[aws appsync list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/list-tags-for-resource.html)|[Get-ASYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNResourceTag.html)|
 |[aws appsync list-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/list-types.html)|[Get-ASYNTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypeList.html)|
 |[aws appsync list-types-by-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/list-types-by-association.html)|[Get-ASYNTypesByAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASYNTypesByAssociationList.html)|
+|[aws appsync put-graphql-api-environment-variables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/put-graphql-api-environment-variables.html)|[Write-ASYNGraphqlApiEnvironmentVariable](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASYNGraphqlApiEnvironmentVariable.html)|
 |[aws appsync start-data-source-introspection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/start-data-source-introspection.html)|[Start-ASYNDataSourceIntrospection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNDataSourceIntrospection.html)|
 |[aws appsync start-schema-creation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/start-schema-creation.html)|[Start-ASYNSchemaCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaCreation.html)|
 |[aws appsync start-schema-merge](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appsync/start-schema-merge.html)|[Start-ASYNSchemaMerge](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASYNSchemaMerge.html)|

@@ -1,12 +1,12 @@
 ---
 title: firehose
-date: 2024-01-26
-description: aws firehose (Amazon Kinesis Data Firehose) command/cmdlet list.
+date: 2024-02-19
+description: aws firehose (Amazon Data Firehose) command/cmdlet list.
 ---
 
 ## firehose
 
-### [Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)
+### [Amazon Data Firehose](https://aws.amazon.com/firehose/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/firehose/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html)

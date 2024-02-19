@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2024-01-26
+date: 2024-02-19
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds create-db-proxy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-proxy.html)|[New-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBProxy.html)|
 |[aws rds create-db-proxy-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-proxy-endpoint.html)|[New-RDSDBProxyEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBProxyEndpoint.html)|
 |[aws rds create-db-security-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-security-group.html)|[New-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSecurityGroup.html)|
+|[aws rds create-db-shard-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-shard-group.html)|[New-RDSDBShardGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBShardGroup.html)|
 |[aws rds create-db-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-snapshot.html)|[New-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSnapshot.html)|
 |[aws rds create-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-db-subnet-group.html)|[New-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSDBSubnetGroup.html)|
 |[aws rds create-event-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/create-event-subscription.html)|[New-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSEventSubscription.html)|
@@ -59,6 +60,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds delete-db-proxy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-proxy.html)|[Remove-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBProxy.html)|
 |[aws rds delete-db-proxy-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-proxy-endpoint.html)|[Remove-RDSDBProxyEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBProxyEndpoint.html)|
 |[aws rds delete-db-security-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-security-group.html)|[Remove-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSecurityGroup.html)|
+|[aws rds delete-db-shard-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-shard-group.html)|[Remove-RDSDBShardGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBShardGroup.html)|
 |[aws rds delete-db-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-snapshot.html)|[Remove-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSnapshot.html)|
 |[aws rds delete-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-db-subnet-group.html)|[Remove-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSDBSubnetGroup.html)|
 |[aws rds delete-event-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/delete-event-subscription.html)|[Remove-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSEventSubscription.html)|
@@ -90,6 +92,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-db-proxy-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-proxy-targets.html)|[Get-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxyTarget.html)|
 |[aws rds describe-db-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-recommendations.html)|[Get-RDSDBRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBRecommendation.html)|
 |[aws rds describe-db-security-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-security-groups.html)|[Get-RDSDBSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSecurityGroup.html)|
+|[aws rds describe-db-shard-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-shard-groups.html)|[Get-RDSDBShardGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBShardGroup.html)|
 |[aws rds describe-db-snapshot-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-snapshot-attributes.html)|[Get-RDSDBSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSnapshotAttribute.html)|
 |[aws rds describe-db-snapshot-tenant-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-snapshot-tenant-databases.html)|[Get-RDSDBSnapshotTenantDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSnapshotTenantDatabasis.html)|
 |[aws rds describe-db-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-snapshots.html)|[Get-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBSnapshot.html)|
@@ -132,6 +135,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds modify-db-proxy-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-proxy-endpoint.html)|[Edit-RDSDBProxyEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxyEndpoint.html)|
 |[aws rds modify-db-proxy-target-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-proxy-target-group.html)|[Edit-RDSDBProxyTargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBProxyTargetGroup.html)|
 |[aws rds modify-db-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-recommendation.html)|[Edit-RDSDBRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBRecommendation.html)|
+|[aws rds modify-db-shard-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-shard-group.html)|[Edit-RDSDBShardGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBShardGroup.html)|
 |[aws rds modify-db-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-snapshot.html)|[Edit-RDSDBSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSnapshot.html)|
 |[aws rds modify-db-snapshot-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-snapshot-attribute.html)|[Edit-RDSDBSnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSnapshotAttribute.html)|
 |[aws rds modify-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-subnet-group.html)|[Edit-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSubnetGroup.html)|
@@ -143,6 +147,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds purchase-reserved-db-instances-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/purchase-reserved-db-instances-offering.html)|[New-RDSReservedDBInstancesOfferingPurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RDSReservedDBInstancesOfferingPurchase.html)|
 |[aws rds reboot-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/reboot-db-cluster.html)|[Restart-RDSDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RDSDBCluster.html)|
 |[aws rds reboot-db-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/reboot-db-instance.html)|[Restart-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RDSDBInstance.html)|
+|[aws rds reboot-db-shard-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/reboot-db-shard-group.html)|[Restart-RDSDBShardGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RDSDBShardGroup.html)|
 |[aws rds register-db-proxy-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/register-db-proxy-targets.html)|[Register-RDSDBProxyTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-RDSDBProxyTarget.html)|
 |[aws rds remove-from-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/remove-from-global-cluster.html)|[Remove-RDSFromGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RDSFromGlobalCluster.html)|
 |[aws rds remove-option-from-option-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/remove-option-from-option-group.html)||

@@ -1,6 +1,6 @@
 ---
 title: es
-date: 2024-01-26
+date: 2024-02-19
 description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 |[aws es add-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/add-tags.html)|[Add-ESResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ESResourceTag.html)|
 |[aws es associate-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/associate-package.html)|[Start-ESAssociatePackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ESAssociatePackage.html)|
 |[aws es authorize-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/authorize-vpc-endpoint-access.html)|[Approve-ESVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-ESVpcEndpointAccess.html)|
+|[aws es cancel-domain-config-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/cancel-domain-config-change.html)|[Stop-ESDomainConfigChange](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ESDomainConfigChange.html)|
 |[aws es cancel-elasticsearch-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/cancel-elasticsearch-service-software-update.html)|[Stop-ESElasticsearchServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ESElasticsearchServiceSoftwareUpdate.html)|
 |[aws es create-elasticsearch-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/create-elasticsearch-domain.html)|[New-ESDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ESDomain.html)|
 |[aws es create-outbound-cross-cluster-search-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/create-outbound-cross-cluster-search-connection.html)|[New-ESOutboundCrossClusterSearchConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ESOutboundCrossClusterSearchConnection.html)|

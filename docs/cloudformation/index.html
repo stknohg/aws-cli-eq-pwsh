@@ -70,7 +70,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2024-01-26</p>
+<p class="text-right"><strong>Last update: </strong>2024-02-19</p>
 
 <h2 id="cloudformation">cloudformation</h2>
 <h3 id="aws-cloudformationhttpsawsamazoncomcloudformation"><a href="https://aws.amazon.com/cloudformation/">AWS CloudFormation</a></h3>
@@ -111,6 +111,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFNChangeSet.html">New-CFNChangeSet</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/create-generated-template.html">aws cloudformation create-generated-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFNGeneratedTemplate.html">New-CFNGeneratedTemplate</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/create-stack.html">aws cloudformation create-stack</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-CFNStack.html">New-CFNStack</a></td>
 </tr>
@@ -133,6 +137,10 @@
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/delete-change-set.html">aws cloudformation delete-change-set</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNChangeSet.html">Remove-CFNChangeSet</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/delete-generated-template.html">aws cloudformation delete-generated-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNGeneratedTemplate.html">Remove-CFNGeneratedTemplate</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/delete-stack.html">aws cloudformation delete-stack</a></td>
@@ -167,12 +175,20 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetHook.html">Get-CFNChangeSetHook</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-generated-template.html">aws cloudformation describe-generated-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNGeneratedTemplateInformation.html">Get-CFNGeneratedTemplateInformation</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-organizations-access.html">aws cloudformation describe-organizations-access</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNOrganizationsAccess.html">Get-CFNOrganizationsAccess</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-publisher.html">aws cloudformation describe-publisher</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNPublisher.html">Get-CFNPublisher</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-resource-scan.html">aws cloudformation describe-resource-scan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNResourceScan.html">Get-CFNResourceScan</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-stack-drift-detection-status.html">aws cloudformation describe-stack-drift-detection-status</a></td>
@@ -247,6 +263,10 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNChangeSet.html">Start-CFNChangeSet</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-generated-template.html">aws cloudformation get-generated-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNGeneratedTemplate.html">Get-CFNGeneratedTemplate</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-stack-policy.html">aws cloudformation get-stack-policy</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackPolicy.html">Get-CFNStackPolicy</a></td>
 </tr>
@@ -271,8 +291,24 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNExport.html">Get-CFNExport</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-generated-templates.html">aws cloudformation list-generated-templates</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNGeneratedTemplateList.html">Get-CFNGeneratedTemplateList</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-imports.html">aws cloudformation list-imports</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNImportList.html">Get-CFNImportList</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-resource-scan-related-resources.html">aws cloudformation list-resource-scan-related-resources</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNResourceScanRelatedResource.html">Get-CFNResourceScanRelatedResource</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-resource-scan-resources.html">aws cloudformation list-resource-scan-resources</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNResourceScanResource.html">Get-CFNResourceScanResource</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-resource-scans.html">aws cloudformation list-resource-scans</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNResourceScanList.html">Get-CFNResourceScanList</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-instance-resource-drifts.html">aws cloudformation list-stack-instance-resource-drifts</a></td>
@@ -355,12 +391,20 @@
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CFNResourceSignal.html">Send-CFNResourceSignal</a></td>
 </tr>
 <tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/start-resource-scan.html">aws cloudformation start-resource-scan</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNResourceScan.html">Start-CFNResourceScan</a></td>
+</tr>
+<tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/stop-stack-set-operation.html">aws cloudformation stop-stack-set-operation</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CFNStackSetOperation.html">Stop-CFNStackSetOperation</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/test-type.html">aws cloudformation test-type</a></td>
 <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CFNType.html">Test-CFNType</a></td>
+</tr>
+<tr>
+<td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/update-generated-template.html">aws cloudformation update-generated-template</a></td>
+<td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CFNGeneratedTemplate.html">Update-CFNGeneratedTemplate</a></td>
 </tr>
 <tr>
 <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/update-stack.html">aws cloudformation update-stack</a></td>

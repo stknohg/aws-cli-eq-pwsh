@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-01-26
+date: 2024-02-19
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.14 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.502 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.21 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.518 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -45,6 +45,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-zonal-shift]({{%relref "post/arc-zonal-shift.md" %}})|AZS|Zonal shift|
+|[AWS Artifact](https://aws.amazon.com/artifact/)|[artifact]({{%relref "post/artifact.md" %}})|ART||
 |[Amazon Athena](https://aws.amazon.com/athena/)|[athena]({{%relref "post/athena.md" %}})|ATH||
 |[AWS Audit Manager](https://aws.amazon.com/audit-manager/)|[auditmanager]({{%relref "post/auditmanager.md" %}})|AUDM||
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[autoscaling]({{%relref "post/autoscaling.md" %}})|AS||
@@ -157,7 +158,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
-|[Amazon Kinesis Data Firehose](https://aws.amazon.com/data-firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF||
+|[Amazon Data Firehose](https://aws.amazon.com/firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF|Formerly Amazon Kinesis Data Firehose|
 |[Amazon Fault Injection Simulator](https://aws.amazon.com/fis/)|[fis]({{%relref "post/fis.md" %}})|FIS||
 |[AWS Firewall Manager](https://aws.amazon.com/waf/)|[fms]({{%relref "post/fms.md" %}})|FMS||
 |[Amazon Forecast](https://aws.amazon.com/forecast/)|[forecast]({{%relref "post/forecast.md" %}})|FRC||

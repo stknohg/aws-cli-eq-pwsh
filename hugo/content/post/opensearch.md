@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2024-01-26
+date: 2024-02-19
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch add-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/add-tags.html)|[Add-OSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OSResourceTag.html)|
 |[aws opensearch associate-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/associate-package.html)|[Start-OSAssociatePackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSAssociatePackage.html)|
 |[aws opensearch authorize-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/authorize-vpc-endpoint-access.html)|[Approve-OSVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-OSVpcEndpointAccess.html)|
+|[aws opensearch cancel-domain-config-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/cancel-domain-config-change.html)|[Stop-OSDomainConfigChange](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OSDomainConfigChange.html)|
 |[aws opensearch cancel-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/cancel-service-software-update.html)|[Stop-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OSServiceSoftwareUpdate.html)|
 |[aws opensearch create-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/create-domain.html)|[New-OSDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OSDomain.html)|
 |[aws opensearch create-outbound-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/create-outbound-connection.html)|[New-OSOutboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OSOutboundConnection.html)|

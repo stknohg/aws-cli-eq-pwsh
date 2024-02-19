@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2024-01-26
+date: 2024-02-19
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -96,6 +96,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker delete-hub](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-hub.html)|[Remove-SMHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMHub.html)|
 |[aws sagemaker delete-hub-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-hub-content.html)|[Remove-SMHubContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMHubContent.html)|
 |[aws sagemaker delete-human-task-ui](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-human-task-ui.html)|[Remove-SMHumanTaskUi](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMHumanTaskUi.html)|
+|[aws sagemaker delete-hyper-parameter-tuning-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-hyper-parameter-tuning-job.html)|[Remove-SMHyperParameterTuningJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMHyperParameterTuningJob.html)|
 |[aws sagemaker delete-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-image.html)|[Remove-SMImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMImage.html)|
 |[aws sagemaker delete-image-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-image-version.html)|[Remove-SMImageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMImageVersion.html)|
 |[aws sagemaker delete-inference-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-inference-component.html)|[Remove-SMInferenceComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMInferenceComponent.html)|
@@ -299,6 +300,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker update-app-image-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-app-image-config.html)|[Update-SMAppImageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMAppImageConfig.html)|
 |[aws sagemaker update-artifact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-artifact.html)|[Update-SMArtifact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMArtifact.html)|
 |[aws sagemaker update-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-cluster.html)|[Update-SMCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMCluster.html)|
+|[aws sagemaker update-cluster-software](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-cluster-software.html)|[Update-SMClusterSoftware](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMClusterSoftware.html)|
 |[aws sagemaker update-code-repository](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-code-repository.html)|[Update-SMCodeRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMCodeRepository.html)|
 |[aws sagemaker update-context](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-context.html)|[Update-SMContext](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMContext.html)|
 |[aws sagemaker update-device-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-device-fleet.html)|[Update-SMDeviceFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMDeviceFleet.html)|

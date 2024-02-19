@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2024-01-26
+date: 2024-02-19
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -122,6 +122,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift get-reserved-node-exchange-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-reserved-node-exchange-offerings.html)|[Get-RSReservedNodeExchangeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeOffering.html)|
 |[aws redshift get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-resource-policy.html)|[Get-RSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSResourcePolicy.html)|
 |[aws redshift get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-resource-policy.html)|[Get-RSSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSResourcePolicy.html)|
+|[aws redshift list-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/list-recommendations.html)|[Get-RSRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSRecommendationList.html)|
 |[aws redshift modify-aqua-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-aqua-configuration.html)|[Edit-RSAquaConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSAquaConfiguration.html)|
 |[aws redshift modify-authentication-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-authentication-profile.html)|[Edit-RSAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSAuthenticationProfile.html)|
 |[aws redshift modify-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-cluster.html)|[Edit-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSCluster.html)|

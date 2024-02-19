@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2024-01-26
+date: 2024-02-19
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 create-regex-pattern-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/create-regex-pattern-set.html)|[New-WAF2RegexPatternSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2RegexPatternSet.html)|
 |[aws wafv2 create-rule-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/create-rule-group.html)|[New-WAF2RuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2RuleGroup.html)|
 |[aws wafv2 create-web-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/create-web-acl.html)|[New-WAF2WebACL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2WebACL.html)|
+|[aws wafv2 delete-api-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/delete-api-key.html)|[Remove-WAF2APIKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2APIKey.html)|
 |[aws wafv2 delete-firewall-manager-rule-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/delete-firewall-manager-rule-groups.html)|[Remove-WAF2FirewallManagerRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2FirewallManagerRuleGroup.html)|
 |[aws wafv2 delete-ip-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/delete-ip-set.html)|[Remove-WAF2IPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2IPSet.html)|
 |[aws wafv2 delete-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/delete-logging-configuration.html)|[Remove-WAF2LoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2LoggingConfiguration.html)|

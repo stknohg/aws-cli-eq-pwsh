@@ -149,6 +149,12 @@
     "Url": "https://aws.amazon.com/route53/application-recovery-controller/",
     "Note": "Zonal shift"
   },
+  "artifact": {
+    "Prefix": "ART",
+    "Name": "AWS Artifact",
+    "Url": "https://aws.amazon.com/artifact/",
+    "Note": ""
+  },
   "athena": {
     "Prefix": "ATH",
     "Name": "Amazon Athena",
@@ -823,9 +829,9 @@
   },
   "firehose": {
     "Prefix": "KINF",
-    "Name": "Amazon Kinesis Data Firehose",
-    "Url": "https://aws.amazon.com/data-firehose/",
-    "Note": ""
+    "Name": "Amazon Data Firehose",
+    "Url": "https://aws.amazon.com/firehose/",
+    "Note": "Formerly Amazon Kinesis Data Firehose"
   },
   "fis": {
     "Prefix": "FIS",

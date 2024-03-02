@@ -263,6 +263,12 @@
     "Url": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/",
     "Note": ""
   },
+  "chatbot": {
+    "Prefix": "CHAT",
+    "Name": "AWS Chatbot",
+    "Url": "https://aws.amazon.com/chatbot/",
+    "Note": ""
+  },
   "chime-sdk-identity": {
     "Prefix": "CHMID",
     "Name": "Amazon Chime",

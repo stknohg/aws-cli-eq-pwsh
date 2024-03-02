@@ -43,6 +43,7 @@
   "braket": "https://docs.aws.amazon.com/powershell/latest/reference/items/Braket_cmdlets.html",
   "budgets": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Budgets_cmdlets.html",
   "ce": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Cost_Explorer_cmdlets.html",
+  "chatbot": "https://docs.aws.amazon.com/powershell/latest/reference/items/Chatbot_cmdlets.html",
   "chime-sdk-identity": "https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKIdentity_cmdlets.html",
   "chime-sdk-media-pipelines": "https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMediaPipelines_cmdlets.html",
   "chime-sdk-meetings": "https://docs.aws.amazon.com/powershell/latest/reference/items/ChimeSDKMeetings_cmdlets.html",

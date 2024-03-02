@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2024-02-19
+date: 2024-03-02
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws ce (Cost Explorer) command/cmdlet list.
 |[aws ce get-anomalies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-anomalies.html)|[Get-CEAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEAnomaly.html)|
 |[aws ce get-anomaly-monitors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-anomaly-monitors.html)|[Get-CEAnomalyMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEAnomalyMonitor.html)|
 |[aws ce get-anomaly-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-anomaly-subscriptions.html)|[Get-CEAnomalySubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEAnomalySubscription.html)|
+|[aws ce get-approximate-usage-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-approximate-usage-records.html)|[Get-CEApproximateUsageRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEApproximateUsageRecord.html)|
 |[aws ce get-cost-and-usage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-and-usage.html)|[Get-CECostAndUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAndUsage.html)|
 |[aws ce get-cost-and-usage-with-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-and-usage-with-resources.html)|[Get-CECostAndUsageWithResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAndUsageWithResource.html)|
 |[aws ce get-cost-categories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-categories.html)|[Get-CECostCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostCategory.html)|

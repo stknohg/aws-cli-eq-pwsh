@@ -1,6 +1,6 @@
 ---
 title: marketplace-agreement
-date: 2024-02-19
+date: 2024-03-02
 description: aws marketplace-agreement (AWS Marketplace Agreement Service) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: migrationhuborchestrator
-date: 2024-02-19
+date: 2024-03-02
 description: aws migrationhuborchestrator (AWS Migration Hub Orchestrator) command/cmdlet list.
 ---
 
@@ -13,9 +13,11 @@ description: aws migrationhuborchestrator (AWS Migration Hub Orchestrator) comma
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws migrationhuborchestrator create-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/create-template.html)|[New-MHOTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MHOTemplate.html)|
 |[aws migrationhuborchestrator create-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/create-workflow.html)|[New-MHOWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MHOWorkflow.html)|
 |[aws migrationhuborchestrator create-workflow-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/create-workflow-step.html)|[New-MHOWorkflowStep](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MHOWorkflowStep.html)|
 |[aws migrationhuborchestrator create-workflow-step-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/create-workflow-step-group.html)|[New-MHOWorkflowStepGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MHOWorkflowStepGroup.html)|
+|[aws migrationhuborchestrator delete-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/delete-template.html)|[Remove-MHOTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHOTemplate.html)|
 |[aws migrationhuborchestrator delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/delete-workflow.html)|[Remove-MHOWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHOWorkflow.html)|
 |[aws migrationhuborchestrator delete-workflow-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/delete-workflow-step.html)|[Remove-MHOWorkflowStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHOWorkflowStep.html)|
 |[aws migrationhuborchestrator delete-workflow-step-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/delete-workflow-step-group.html)|[Remove-MHOWorkflowStepGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHOWorkflowStepGroup.html)|
@@ -38,6 +40,7 @@ description: aws migrationhuborchestrator (AWS Migration Hub Orchestrator) comma
 |[aws migrationhuborchestrator stop-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/stop-workflow.html)|[Stop-MHOWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-MHOWorkflow.html)|
 |[aws migrationhuborchestrator tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/tag-resource.html)|[Add-MHOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MHOResourceTag.html)|
 |[aws migrationhuborchestrator untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/untag-resource.html)|[Remove-MHOResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MHOResourceTag.html)|
+|[aws migrationhuborchestrator update-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/update-template.html)|[Update-MHOTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MHOTemplate.html)|
 |[aws migrationhuborchestrator update-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/update-workflow.html)|[Update-MHOWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MHOWorkflow.html)|
 |[aws migrationhuborchestrator update-workflow-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/update-workflow-step.html)|[Update-MHOWorkflowStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MHOWorkflowStep.html)|
 |[aws migrationhuborchestrator update-workflow-step-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/migrationhuborchestrator/update-workflow-step-group.html)|[Update-MHOWorkflowStepGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MHOWorkflowStepGroup.html)|

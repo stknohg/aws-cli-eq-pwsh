@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2024-02-19
+date: 2024-03-02
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 
@@ -48,12 +48,15 @@ description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 |[aws kafka list-replicators](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-replicators.html)|[Get-MSKReplicatorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKReplicatorList.html)|
 |[aws kafka list-scram-secrets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-scram-secrets.html)|[Get-MSKScramSecretList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKScramSecretList.html)|
 |[aws kafka list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-tags-for-resource.html)|[Get-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKResourceTag.html)|
+|[aws kafka list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-tags-for-resource.html)|[Get-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCResourceTag.html)|
 |[aws kafka list-vpc-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/list-vpc-connections.html)|[Get-MSKVpcConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKVpcConnectionList.html)|
 |[aws kafka put-cluster-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/put-cluster-policy.html)|[Write-MSKClusterPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MSKClusterPolicy.html)|
 |[aws kafka reboot-broker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/reboot-broker.html)|[Restart-MSKBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-MSKBroker.html)|
 |[aws kafka reject-client-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/reject-client-vpc-connection.html)|[Deny-MSKClientVpcConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-MSKClientVpcConnection.html)|
 |[aws kafka tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/tag-resource.html)|[Add-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MSKResourceTag.html)|
+|[aws kafka tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/tag-resource.html)|[Add-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MSKCResourceTag.html)|
 |[aws kafka untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/untag-resource.html)|[Remove-MSKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKResourceTag.html)|
+|[aws kafka untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/untag-resource.html)|[Remove-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCResourceTag.html)|
 |[aws kafka update-broker-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-broker-count.html)|[Update-MSKBrokerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerCount.html)|
 |[aws kafka update-broker-storage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-broker-storage.html)|[Update-MSKBrokerStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerStorage.html)|
 |[aws kafka update-broker-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafka/update-broker-type.html)|[Update-MSKBrokerType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKBrokerType.html)|

@@ -1,6 +1,6 @@
 ---
 title: amplify
-date: 2024-02-19
+date: 2024-03-02
 description: aws amplify (AWS Amplify) command/cmdlet list.
 ---
 
@@ -40,12 +40,15 @@ description: aws amplify (AWS Amplify) command/cmdlet list.
 |[aws amplify list-domain-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/list-domain-associations.html)|[Get-AMPDomainAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPDomainAssociationList.html)|
 |[aws amplify list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/list-jobs.html)|[Get-AMPJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPJobList.html)|
 |[aws amplify list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/list-tags-for-resource.html)|[Get-AMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPResourceTag.html)|
+|[aws amplify list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/list-tags-for-resource.html)|[Get-AMPUIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPUIResourceTag.html)|
 |[aws amplify list-webhooks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/list-webhooks.html)|[Get-AMPWebhookList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPWebhookList.html)|
 |[aws amplify start-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/start-deployment.html)|[Start-AMPDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AMPDeployment.html)|
 |[aws amplify start-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/start-job.html)|[Start-AMPJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AMPJob.html)|
 |[aws amplify stop-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/stop-job.html)|[Stop-AMPJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-AMPJob.html)|
 |[aws amplify tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/tag-resource.html)|[Add-AMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AMPResourceTag.html)|
+|[aws amplify tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/tag-resource.html)|[Add-AMPUIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AMPUIResourceTag.html)|
 |[aws amplify untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/untag-resource.html)|[Remove-AMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPResourceTag.html)|
+|[aws amplify untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/untag-resource.html)|[Remove-AMPUIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPUIResourceTag.html)|
 |[aws amplify update-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/update-app.html)|[Update-AMPApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPApp.html)|
 |[aws amplify update-branch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/update-branch.html)|[Update-AMPBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPBranch.html)|
 |[aws amplify update-domain-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplify/update-domain-association.html)|[Update-AMPDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPDomainAssociation.html)|

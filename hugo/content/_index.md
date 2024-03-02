@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-02-19
+date: 2024-03-02
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.21 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.518 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.25 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.528 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -64,6 +64,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
 |[Cost Explorer](https://aws.amazon.com/aws-cost-management/aws-cost-explorer/)|[ce]({{%relref "post/ce.md" %}})|CE||
+|[AWS Chatbot](https://aws.amazon.com/chatbot/)|[chatbot]({{%relref "post/chatbot.md" %}})|CHAT||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime]({{%relref "post/chime.md" %}})|CHM||
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-identity]({{%relref "post/chime-sdk-identity.md" %}})|CHMID|Amazon Chime SDK Identity API|
 |[Amazon Chime](https://aws.amazon.com/chime/)|[chime-sdk-media-pipelines]({{%relref "post/chime-sdk-media-pipelines.md" %}})|CHMMP|Amazon Chime SDK Media Pipeline API|

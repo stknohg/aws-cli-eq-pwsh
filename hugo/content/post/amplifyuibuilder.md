@@ -1,6 +1,6 @@
 ---
 title: amplifyuibuilder
-date: 2024-02-19
+date: 2024-03-02
 description: aws amplifyuibuilder (AWS Amplify UI Builder) command/cmdlet list.
 ---
 
@@ -31,10 +31,13 @@ description: aws amplifyuibuilder (AWS Amplify UI Builder) command/cmdlet list.
 |[aws amplifyuibuilder list-codegen-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/list-codegen-jobs.html)|[Get-AMPUICodegenJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPUICodegenJobList.html)|
 |[aws amplifyuibuilder list-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/list-components.html)|[Get-AMPUIComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPUIComponentList.html)|
 |[aws amplifyuibuilder list-forms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/list-forms.html)|[Get-AMPUIFormList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPUIFormList.html)|
+|[aws amplifyuibuilder list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/list-tags-for-resource.html)|[Get-AMPUIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPUIResourceTag.html)|
 |[aws amplifyuibuilder list-themes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/list-themes.html)|[Get-AMPUIThemeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMPUIThemeList.html)|
 |[aws amplifyuibuilder put-metadata-flag](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/put-metadata-flag.html)|[Write-AMPUIMetadataFlag](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AMPUIMetadataFlag.html)|
 |[aws amplifyuibuilder refresh-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/refresh-token.html)|[Update-AMPUIToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPUIToken.html)|
 |[aws amplifyuibuilder start-codegen-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/start-codegen-job.html)|[New-AMPUICodegenJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMPUICodegenJob.html)|
+|[aws amplifyuibuilder tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/tag-resource.html)|[Add-AMPUIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AMPUIResourceTag.html)|
+|[aws amplifyuibuilder untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/untag-resource.html)|[Remove-AMPUIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMPUIResourceTag.html)|
 |[aws amplifyuibuilder update-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/update-component.html)|[Update-AMPUIComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPUIComponent.html)|
 |[aws amplifyuibuilder update-form](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/update-form.html)|[Update-AMPUIForm](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPUIForm.html)|
 |[aws amplifyuibuilder update-theme](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amplifyuibuilder/update-theme.html)|[Update-AMPUITheme](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AMPUITheme.html)|

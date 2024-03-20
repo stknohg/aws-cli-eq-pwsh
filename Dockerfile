@@ -1,10 +1,10 @@
 #
 # Docker image for AWS CLI -eq PowerShell development
 # 
-FROM mcr.microsoft.com/powershell:7.3-ubuntu-22.04
+FROM mcr.microsoft.com/powershell:7.4-ubuntu-22.04
 
 # Define args
-ARG HUGO_VERSION=0.121.1
+ARG HUGO_VERSION=0.124.0
 # Download packages
 ADD https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip /tmp/awscliv2.zip
 ADD https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-amd64.deb /tmp/hugo_linux.deb

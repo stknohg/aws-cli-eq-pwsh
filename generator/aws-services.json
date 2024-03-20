@@ -1031,12 +1031,6 @@
     "Url": "https://aws.amazon.com/iot/",
     "Note": ""
   },
-  "iot-roborunner": {
-    "Prefix": "IOTRR",
-    "Name": "AWS IoT RoboRunner",
-    "Url": "https://aws.amazon.com/roborunner/",
-    "Note": ""
-  },
   "iot1click-devices": {
     "Prefix": "",
     "Name": "AWS IoT 1-Click Devices",
@@ -2159,15 +2153,21 @@
     "Url": "https://aws.amazon.com/textract/",
     "Note": ""
   },
+  "timestream-influxdb": {
+    "Prefix": "TIDB",
+    "Name": "Amazon Timestream for InfluxDB",
+    "Url": "https://aws.amazon.com/timestream/",
+    "Note": ""
+  },
   "timestream-query": {
     "Prefix": "TSQ",
-    "Name": "Amazon Timestream",
+    "Name": "Amazon Timestream for LiveAnalytics",
     "Url": "https://aws.amazon.com/timestream/",
     "Note": ""
   },
   "timestream-write": {
     "Prefix": "TSW",
-    "Name": "Amazon Timestream",
+    "Name": "Amazon Timestream for LiveAnalytics",
     "Url": "https://aws.amazon.com/timestream/",
     "Note": ""
   },

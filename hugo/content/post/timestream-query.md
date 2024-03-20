@@ -1,12 +1,12 @@
 ---
 title: timestream-query
-date: 2024-03-02
-description: aws timestream-query (Amazon Timestream) command/cmdlet list.
+date: 2024-03-20
+description: aws timestream-query (Amazon Timestream for LiveAnalytics) command/cmdlet list.
 ---
 
 ## timestream-query
 
-### [Amazon Timestream](https://aws.amazon.com/timestream/)
+### [Amazon Timestream for LiveAnalytics](https://aws.amazon.com/timestream/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-query/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/TimestreamQuery_cmdlets.html)

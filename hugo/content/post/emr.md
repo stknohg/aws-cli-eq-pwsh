@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2024-03-02
+date: 2024-03-20
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -66,7 +66,6 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr remove-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/remove-tags.html)|[Remove-EMRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRResourceTag.html)|
 |[aws emr restore-from-hbase-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/restore-from-hbase-backup.html)||
 |[aws emr schedule-hbase-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/schedule-hbase-backup.html)||
-|[aws emr set-unhealthy-node-replacement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/set-unhealthy-node-replacement.html)|[Set-EMRUnhealthyNodeReplacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EMRUnhealthyNodeReplacement.html)|
 |[aws emr socks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/socks.html)||
 |[aws emr ssh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/ssh.html)||
 |[aws emr start-notebook-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/start-notebook-execution.html)|[Start-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRNotebookExecution.html)|

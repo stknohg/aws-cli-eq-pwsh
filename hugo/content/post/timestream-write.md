@@ -1,12 +1,12 @@
 ---
 title: timestream-write
-date: 2024-03-02
-description: aws timestream-write (Amazon Timestream) command/cmdlet list.
+date: 2024-03-20
+description: aws timestream-write (Amazon Timestream for LiveAnalytics) command/cmdlet list.
 ---
 
 ## timestream-write
 
-### [Amazon Timestream](https://aws.amazon.com/timestream/)
+### [Amazon Timestream for LiveAnalytics](https://aws.amazon.com/timestream/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-write/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/TimestreamWrite_cmdlets.html)

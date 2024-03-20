@@ -1,6 +1,6 @@
 ---
 title: sns
-date: 2024-03-02
+date: 2024-03-20
 description: aws sns (Amazon Simple Notification Service) command/cmdlet list.
 ---
 

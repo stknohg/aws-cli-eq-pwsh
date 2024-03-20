@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-03-02
+date: 2024-03-20
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.25 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.528 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.30 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.540 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -191,7 +191,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
-|[AWS IoT RoboRunner](https://aws.amazon.com/roborunner/)|[iot-roborunner]({{%relref "post/iot-roborunner.md" %}})|IOTRR||
 |[AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)|[iot1click-devices]({{%relref "post/iot1click-devices.md" %}})|||
 |[AWS IoT 1-Click Project](https://aws.amazon.com/iot/)|[iot1click-projects]({{%relref "post/iot1click-projects.md" %}})|||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
@@ -379,8 +378,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
 |[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||
 |[Amazon Textract](https://aws.amazon.com/textract/)|[textract]({{%relref "post/textract.md" %}})|TXT||
-|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|TSQ||
-|[Amazon Timestream](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|TSW||
+|[Amazon Timestream for InfluxDB](https://aws.amazon.com/timestream/)|[timestream-influxdb]({{%relref "post/timestream-influxdb.md" %}})|TIDB||
+|[Amazon Timestream for LiveAnalytics](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|TSQ||
+|[Amazon Timestream for LiveAnalytics](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|TSW||
 |[AWS Telco Network Builder](https://aws.amazon.com/tnb/)|[tnb]({{%relref "post/tnb.md" %}})|TNB||
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||

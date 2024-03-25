@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2024-03-20
+date: 2024-03-25
 description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb create-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/create-table.html)|[New-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DDBTable.html)|
 |[aws dynamodb delete-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/delete-backup.html)|[Remove-DDBBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DDBBackup.html)|
 |[aws dynamodb delete-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/delete-item.html)|[Remove-DDBItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DDBItem.html)|
+|[aws dynamodb delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/delete-resource-policy.html)|[Remove-DDBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DDBResourcePolicy.html)|
 |[aws dynamodb delete-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/delete-table.html)|[Remove-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DDBTable.html)|
 |[aws dynamodb describe-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/describe-backup.html)|[Get-DDBBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBBackup.html)|
 |[aws dynamodb describe-continuous-backups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/describe-continuous-backups.html)|[Get-DDBContinuousBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBContinuousBackup.html)|
@@ -41,6 +42,7 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb execute-transaction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/execute-transaction.html)|[Invoke-DDBDDBExecuteTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-DDBDDBExecuteTransaction.html)|
 |[aws dynamodb export-table-to-point-in-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/export-table-to-point-in-time.html)|[Export-DDBTableToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-DDBTableToPointInTime.html)|
 |[aws dynamodb get-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/get-item.html)|[Get-DDBItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBItem.html)|
+|[aws dynamodb get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/get-resource-policy.html)|[Get-DDBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBResourcePolicy.html)|
 |[aws dynamodb import-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/import-table.html)|[Import-DDBTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-DDBTable.html)|
 |[aws dynamodb list-backups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/list-backups.html)|[Get-DDBBackupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBBackupList.html)|
 |[aws dynamodb list-contributor-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/list-contributor-insights.html)|[Get-DDBContributorInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBContributorInsightList.html)|
@@ -50,6 +52,7 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb list-tables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/list-tables.html)|[Get-DDBTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBTableList.html)|
 |[aws dynamodb list-tags-of-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/list-tags-of-resource.html)|[Get-DDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBResourceTag.html)|
 |[aws dynamodb put-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/put-item.html)|[Set-DDBItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DDBItem.html)|
+|[aws dynamodb put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/put-resource-policy.html)|[Write-DDBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DDBResourcePolicy.html)|
 |[aws dynamodb query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/query.html)|[Invoke-DDBQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-DDBQuery.html)|
 |[aws dynamodb restore-table-from-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/restore-table-from-backup.html)|[Restore-DDBTableFromBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DDBTableFromBackup.html)|
 |[aws dynamodb restore-table-to-point-in-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/restore-table-to-point-in-time.html)|[Restore-DDBTableToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DDBTableToPointInTime.html)|

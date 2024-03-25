@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-03-20
+date: 2024-03-25
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -305,6 +305,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-local-gateway-virtual-interfaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-local-gateway-virtual-interfaces.html)|[Get-EC2LocalGatewayVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LocalGatewayVirtualInterface.html)|
 |[aws ec2 describe-local-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-local-gateways.html)|[Get-EC2LocalGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LocalGateway.html)|
 |[aws ec2 describe-locked-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-locked-snapshots.html)|[Get-EC2LockedSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LockedSnapshot.html)|
+|[aws ec2 describe-mac-hosts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-mac-hosts.html)|[Get-EC2MacHost](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MacHost.html)|
 |[aws ec2 describe-managed-prefix-lists](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-managed-prefix-lists.html)|[Get-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixList.html)|
 |[aws ec2 describe-moving-addresses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-moving-addresses.html)|[Get-EC2MovingAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MovingAddress.html)|
 |[aws ec2 describe-nat-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-nat-gateways.html)|[Get-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NatGateway.html)|

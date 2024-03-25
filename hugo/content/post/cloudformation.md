@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2024-03-20
+date: 2024-03-25
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
@@ -72,6 +72,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation list-stack-instance-resource-drifts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-instance-resource-drifts.html)|[Get-CFNStackInstanceResourceDrift](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackInstanceResourceDrift.html)|
 |[aws cloudformation list-stack-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-instances.html)|[Get-CFNStackInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackInstanceList.html)|
 |[aws cloudformation list-stack-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-resources.html)|[Get-CFNStackResourceSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackResourceSummary.html)|
+|[aws cloudformation list-stack-set-auto-deployment-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-set-auto-deployment-targets.html)|[Get-CFNStackSetAutoDeploymentTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetAutoDeploymentTarget.html)|
 |[aws cloudformation list-stack-set-operation-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-set-operation-results.html)|[Get-CFNStackSetOperationResultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetOperationResultList.html)|
 |[aws cloudformation list-stack-set-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-set-operations.html)|[Get-CFNStackSetOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetOperationList.html)|
 |[aws cloudformation list-stack-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-stack-sets.html)|[Get-CFNStackSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackSetList.html)|

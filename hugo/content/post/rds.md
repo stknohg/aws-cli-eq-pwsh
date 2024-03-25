@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2024-03-20
+date: 2024-03-25
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -141,6 +141,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds modify-db-subnet-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-db-subnet-group.html)|[Edit-RDSDBSubnetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSDBSubnetGroup.html)|
 |[aws rds modify-event-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-event-subscription.html)|[Edit-RDSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSEventSubscription.html)|
 |[aws rds modify-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-global-cluster.html)|[Edit-RDSGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSGlobalCluster.html)|
+|[aws rds modify-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-integration.html)|[Edit-RDSIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSIntegration.html)|
 |[aws rds modify-tenant-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/modify-tenant-database.html)|[Edit-RDSTenantDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RDSTenantDatabase.html)|
 |[aws rds promote-read-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/promote-read-replica.html)|[Convert-RDSReadReplicaToStandalone](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaToStandalone.html)|
 |[aws rds promote-read-replica-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/promote-read-replica-db-cluster.html)|[Convert-RDSReadReplicaDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RDSReadReplicaDBCluster.html)|

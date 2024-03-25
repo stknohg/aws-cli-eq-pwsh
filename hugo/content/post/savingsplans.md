@@ -1,6 +1,6 @@
 ---
 title: savingsplans
-date: 2024-03-20
+date: 2024-03-25
 description: aws savingsplans (AWS Savings Plans) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws savingsplans (AWS Savings Plans) command/cmdlet list.
 |[aws savingsplans describe-savings-plans-offering-rates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/savingsplans/describe-savings-plans-offering-rates.html)|[Get-SPSavingsPlansOfferingRate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SPSavingsPlansOfferingRate.html)|
 |[aws savingsplans describe-savings-plans-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/savingsplans/describe-savings-plans-offerings.html)|[Get-SPSavingsPlansOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SPSavingsPlansOffering.html)|
 |[aws savingsplans list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/savingsplans/list-tags-for-resource.html)|[Get-SPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SPResourceTag.html)|
+|[aws savingsplans return-savings-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/savingsplans/return-savings-plan.html)|[Invoke-SPReturnSavingsPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SPReturnSavingsPlan.html)|
 |[aws savingsplans tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/savingsplans/tag-resource.html)|[Add-SPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SPResourceTag.html)|
 |[aws savingsplans untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/savingsplans/untag-resource.html)|[Remove-SPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SPResourceTag.html)|
 

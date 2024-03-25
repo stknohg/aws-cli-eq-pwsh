@@ -1,6 +1,6 @@
 ---
 title: route53-recovery-readiness
-date: 2024-03-20
+date: 2024-03-25
 description: aws route53-recovery-readiness (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 

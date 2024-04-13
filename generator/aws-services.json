@@ -419,6 +419,12 @@
     "Url": "https://aws.amazon.com/codecommit/",
     "Note": ""
   },
+  "codeconnections": {
+    "Prefix": "CCON",
+    "Name": "AWS CodeConnection",
+    "Url": "https://aws.amazon.com/products/developer-tools/",
+    "Note": ""
+  },
   "codeguru-reviewer": {
     "Prefix": "CGR",
     "Name": "Amazon CodeGuru Reviewer",
@@ -539,6 +545,12 @@
     "Url": "https://aws.amazon.com/connect/",
     "Note": ""
   },
+  "controlcatalog": {
+    "Prefix": "CLCAT",
+    "Name": "AWS Control Catalog",
+    "Url": "https://aws.amazon.com/controltower/",
+    "Note": ""
+  },
   "controltower": {
     "Prefix": "ACT",
     "Name": "AWS Control Tower",
@@ -597,6 +609,12 @@
     "Prefix": "DAX",
     "Name": "Amazon DynamoDB Accelerator",
     "Url": "https://aws.amazon.com/dynamodb/dax/",
+    "Note": ""
+  },
+  "deadline": {
+    "Prefix": "ADC",
+    "Name": "AWS Deadline Cloud",
+    "Url": "https://aws.amazon.com/deadline-cloud/",
     "Note": ""
   },
   "deploy": {

@@ -1,6 +1,6 @@
 ---
 title: supplychain
-date: 2024-03-25
+date: 2024-04-13
 description: aws supplychain (AWS Supply Chain) command/cmdlet list.
 ---
 
@@ -15,4 +15,5 @@ description: aws supplychain (AWS Supply Chain) command/cmdlet list.
 |----|----|
 |[aws supplychain create-bill-of-materials-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/supplychain/create-bill-of-materials-import-job.html)|[New-SUPCHBillOfMaterialsImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SUPCHBillOfMaterialsImportJob.html)|
 |[aws supplychain get-bill-of-materials-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/supplychain/get-bill-of-materials-import-job.html)|[Get-SUPCHBillOfMaterialsImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUPCHBillOfMaterialsImportJob.html)|
+|[aws supplychain send-data-integration-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/supplychain/send-data-integration-event.html)|[Send-SUPCHDataIntegrationEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SUPCHDataIntegrationEvent.html)|
 

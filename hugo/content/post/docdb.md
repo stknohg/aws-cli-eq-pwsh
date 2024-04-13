@@ -1,6 +1,6 @@
 ---
 title: docdb
-date: 2024-03-25
+date: 2024-04-13
 description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 ---
 
@@ -66,4 +66,5 @@ description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 |[aws docdb restore-db-cluster-to-point-in-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/restore-db-cluster-to-point-in-time.html)|[Restore-DOCDBClusterToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DOCDBClusterToPointInTime.html)|
 |[aws docdb start-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/start-db-cluster.html)|[Start-DOCDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DOCDBCluster.html)|
 |[aws docdb stop-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/stop-db-cluster.html)|[Stop-DOCDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DOCDBCluster.html)|
+|[aws docdb switchover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/switchover-global-cluster.html)|[Request-DOCSwitchoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-DOCSwitchoverGlobalCluster.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2024-03-25
+date: 2024-04-13
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 
@@ -40,11 +40,13 @@ description: aws ce (Cost Explorer) command/cmdlet list.
 |[aws ce get-savings-plans-utilization-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-savings-plans-utilization-details.html)|[Get-CESavingsPlansUtilizationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlansUtilizationDetail.html)|
 |[aws ce get-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-tags.html)|[Get-CETag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CETag.html)|
 |[aws ce get-usage-forecast](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-usage-forecast.html)|[Get-CEUsageForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEUsageForecast.html)|
+|[aws ce list-cost-allocation-tag-backfill-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-allocation-tag-backfill-history.html)|[Get-CECostAllocationTagBackfillHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAllocationTagBackfillHistoryList.html)|
 |[aws ce list-cost-allocation-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-allocation-tags.html)|[Get-CECostAllocationTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAllocationTagList.html)|
 |[aws ce list-cost-category-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-category-definitions.html)|[Get-CECostCategoryDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostCategoryDefinitionList.html)|
 |[aws ce list-savings-plans-purchase-recommendation-generation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-savings-plans-purchase-recommendation-generation.html)|[Get-CESavingsPlansPurchaseRecommendationGenerationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlansPurchaseRecommendationGenerationList.html)|
 |[aws ce list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-tags-for-resource.html)|[Get-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEResourceTag.html)|
 |[aws ce provide-anomaly-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/provide-anomaly-feedback.html)|[Set-CEAnomalyFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CEAnomalyFeedback.html)|
+|[aws ce start-cost-allocation-tag-backfill](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/start-cost-allocation-tag-backfill.html)|[Start-CECostAllocationTagBackfill](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CECostAllocationTagBackfill.html)|
 |[aws ce start-savings-plans-purchase-recommendation-generation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/start-savings-plans-purchase-recommendation-generation.html)|[Start-CESavingsPlansPurchaseRecommendationGeneration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CESavingsPlansPurchaseRecommendationGeneration.html)|
 |[aws ce tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/tag-resource.html)|[Add-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CEResourceTag.html)|
 |[aws ce untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/untag-resource.html)|[Remove-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CEResourceTag.html)|

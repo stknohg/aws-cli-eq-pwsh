@@ -1,6 +1,6 @@
 ---
 title: route53-recovery-cluster
-date: 2024-03-25
+date: 2024-04-13
 description: aws route53-recovery-cluster (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 

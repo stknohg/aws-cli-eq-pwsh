@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2024-03-25
+date: 2024-04-13
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 
@@ -55,4 +55,5 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect update-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-content.html)|[Update-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCContent.html)|
 |[aws qconnect update-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-knowledge-base-template-uri.html)|[Update-QCKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCKnowledgeBaseTemplateUri.html)|
 |[aws qconnect update-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-quick-response.html)|[Update-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCQuickResponse.html)|
+|[aws qconnect update-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-session.html)|[Update-QCSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCSession.html)|
 

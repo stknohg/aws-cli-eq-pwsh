@@ -1,6 +1,6 @@
 ---
 title: finspace
-date: 2024-03-25
+date: 2024-04-13
 description: aws finspace (Amazon FinSpace) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws finspace (Amazon FinSpace) command/cmdlet list.
 |[aws finspace create-kx-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/create-kx-volume.html)|[New-FINSPKxVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FINSPKxVolume.html)|
 |[aws finspace delete-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-environment.html)|[Remove-FINSPEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPEnvironment.html)|
 |[aws finspace delete-kx-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-cluster.html)|[Remove-FINSPKxCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxCluster.html)|
+|[aws finspace delete-kx-cluster-node](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-cluster-node.html)|[Remove-FINSPKxClusterNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxClusterNode.html)|
 |[aws finspace delete-kx-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-database.html)|[Remove-FINSPKxDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxDatabase.html)|
 |[aws finspace delete-kx-dataview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-dataview.html)|[Remove-FINSPKxDataview](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxDataview.html)|
 |[aws finspace delete-kx-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/finspace/delete-kx-environment.html)|[Remove-FINSPKxEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FINSPKxEnvironment.html)|

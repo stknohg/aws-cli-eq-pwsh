@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-03-25
+date: 2024-04-13
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.32 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.543 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.38 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.558 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -90,6 +90,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS CodeBuild](https://aws.amazon.com/codebuild/)|[codebuild]({{%relref "post/codebuild.md" %}})|CB||
 |[Amazon CodeCatalyst](https://aws.amazon.com/codecatalyst/)|[codecatalyst]({{%relref "post/codecatalyst.md" %}})|CCAT||
 |[AWS CodeCommit](https://aws.amazon.com/codecommit/)|[codecommit]({{%relref "post/codecommit.md" %}})|CC||
+|[AWS CodeConnection](https://aws.amazon.com/products/developer-tools/)|[codeconnections]({{%relref "post/codeconnections.md" %}})|CCON||
 |[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)|[codeguru-reviewer]({{%relref "post/codeguru-reviewer.md" %}})|CGR||
 |[Amazon CodeGuru Security](https://aws.amazon.com/codeguru/)|[codeguru-security]({{%relref "post/codeguru-security.md" %}})|CGS||
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||
@@ -110,6 +111,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Connect Outbound Campaigns](https://aws.amazon.com/connect/outbound/)|[connectcampaigns]({{%relref "post/connectcampaigns.md" %}})|CCS||
 |[Amazon Connect Cases](https://aws.amazon.com/connect/cases/)|[connectcases]({{%relref "post/connectcases.md" %}})|CCAS||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
+|[AWS Control Catalog](https://aws.amazon.com/controltower/)|[controlcatalog]({{%relref "post/controlcatalog.md" %}})|CLCAT||
 |[AWS Control Tower](https://aws.amazon.com/controltower/)|[controltower]({{%relref "post/controltower.md" %}})|ACT||
 |[AWS Cost Optimization Hub](https://aws.amazon.com/aws-cost-management/cost-optimization-hub/)|[cost-optimization-hub]({{%relref "post/cost-optimization-hub.md" %}})|COH||
 |[AWS Cost and Usage Report](https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/)|[cur]({{%relref "post/cur.md" %}})|CUR||
@@ -121,6 +123,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon DataZone](https://aws.amazon.com/datazone/)|[datazone]({{%relref "post/datazone.md" %}})|DZ||
 |[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/dax/)|[dax]({{%relref "post/dax.md" %}})|DAX||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})|DDB|High level DynamoDB commands.|
+|[AWS Deadline Cloud](https://aws.amazon.com/deadline-cloud/)|[deadline]({{%relref "post/deadline.md" %}})|ADC||
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
 |[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|DTCT||
 |[AWS Device Farm](https://aws.amazon.com/device-farm/)|[devicefarm]({{%relref "post/devicefarm.md" %}})|DF||

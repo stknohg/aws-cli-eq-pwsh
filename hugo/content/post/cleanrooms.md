@@ -1,6 +1,6 @@
 ---
 title: cleanrooms
-date: 2024-03-25
+date: 2024-04-13
 description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |----|----|
 |[aws cleanrooms batch-get-collaboration-analysis-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/batch-get-collaboration-analysis-template.html)|[Get-CRSBatchCollaborationAnalysisTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSBatchCollaborationAnalysisTemplate.html)|
 |[aws cleanrooms batch-get-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/batch-get-schema.html)|[Get-CRSBatchSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSBatchSchema.html)|
+|[aws cleanrooms batch-get-schema-analysis-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/batch-get-schema-analysis-rule.html)|[Get-CRSBatchGetSchemaAnalysisRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSBatchGetSchemaAnalysisRule.html)|
 |[aws cleanrooms create-analysis-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/create-analysis-template.html)|[New-CRSAnalysisTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CRSAnalysisTemplate.html)|
 |[aws cleanrooms create-collaboration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/create-collaboration.html)|[New-CRSCollaboration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CRSCollaboration.html)|
 |[aws cleanrooms create-configured-audience-model-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/create-configured-audience-model-association.html)|[New-CRSConfiguredAudienceModelAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CRSConfiguredAudienceModelAssociation.html)|

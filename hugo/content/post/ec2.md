@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-03-25
+date: 2024-04-13
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -453,6 +453,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-groups-for-capacity-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-groups-for-capacity-reservation.html)|[Get-EC2GroupsForCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2GroupsForCapacityReservation.html)|
 |[aws ec2 get-host-reservation-purchase-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-host-reservation-purchase-preview.html)|[Get-EC2HostReservationPurchasePreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2HostReservationPurchasePreview.html)|
 |[aws ec2 get-image-block-public-access-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-image-block-public-access-state.html)|[Get-EC2ImageBlockPublicAccessState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImageBlockPublicAccessState.html)|
+|[aws ec2 get-instance-metadata-defaults](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-instance-metadata-defaults.html)|[Get-EC2InstanceMetadataDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceMetadataDefault.html)|
 |[aws ec2 get-instance-types-from-instance-requirements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-instance-types-from-instance-requirements.html)|[Get-EC2InstanceTypesFromInstanceRequirement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypesFromInstanceRequirement.html)|
 |[aws ec2 get-instance-uefi-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-instance-uefi-data.html)|[Get-EC2InstanceUefiData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceUefiData.html)|
 |[aws ec2 get-ipam-address-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-ipam-address-history.html)|[Get-EC2IpamAddressHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamAddressHistory.html)|
@@ -512,6 +513,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-instance-event-start-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-event-start-time.html)|[Edit-EC2InstanceEventStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventStartTime.html)|
 |[aws ec2 modify-instance-event-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-event-window.html)|[Edit-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventWindow.html)|
 |[aws ec2 modify-instance-maintenance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-maintenance-options.html)|[Edit-EC2InstanceMaintenanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMaintenanceOption.html)|
+|[aws ec2 modify-instance-metadata-defaults](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-metadata-defaults.html)|[Edit-EC2InstanceMetadataDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataDefault.html)|
 |[aws ec2 modify-instance-metadata-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-metadata-options.html)|[Edit-EC2InstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataOption.html)|
 |[aws ec2 modify-instance-placement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-placement.html)|[Edit-EC2InstancePlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstancePlacement.html)|
 |[aws ec2 modify-ipam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam.html)|[Edit-EC2Ipam](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Ipam.html)|

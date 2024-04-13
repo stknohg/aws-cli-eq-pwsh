@@ -1,6 +1,6 @@
 ---
 title: iotwireless
-date: 2024-03-25
+date: 2024-04-13
 description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 ---
 
@@ -56,6 +56,8 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless get-event-configuration-by-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-event-configuration-by-resource-types.html)|[Get-IOTWEventConfigurationByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWEventConfigurationByResourceType.html)|
 |[aws iotwireless get-fuota-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-fuota-task.html)|[Get-IOTWFuotaTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWFuotaTask.html)|
 |[aws iotwireless get-log-levels-by-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-log-levels-by-resource-types.html)|[Get-IOTWLogLevelsByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWLogLevelsByResourceType.html)|
+|[aws iotwireless get-metric-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-metric-configuration.html)|[Get-IOTWMetricConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWMetricConfiguration.html)|
+|[aws iotwireless get-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-metrics.html)|[Get-IOTWMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWMetric.html)|
 |[aws iotwireless get-multicast-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-multicast-group.html)|[Get-IOTWMulticastGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWMulticastGroup.html)|
 |[aws iotwireless get-multicast-group-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-multicast-group-session.html)|[Get-IOTWMulticastGroupSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWMulticastGroupSession.html)|
 |[aws iotwireless get-network-analyzer-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/get-network-analyzer-configuration.html)|[Get-IOTWNetworkAnalyzerConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTWNetworkAnalyzerConfiguration.html)|
@@ -113,6 +115,7 @@ description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 |[aws iotwireless update-event-configuration-by-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-event-configuration-by-resource-types.html)|[Update-IOTWEventConfigurationByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWEventConfigurationByResourceType.html)|
 |[aws iotwireless update-fuota-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-fuota-task.html)|[Update-IOTWFuotaTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWFuotaTask.html)|
 |[aws iotwireless update-log-levels-by-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-log-levels-by-resource-types.html)|[Update-IOTWLogLevelsByResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWLogLevelsByResourceType.html)|
+|[aws iotwireless update-metric-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-metric-configuration.html)|[Update-IOTWMetricConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWMetricConfiguration.html)|
 |[aws iotwireless update-multicast-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-multicast-group.html)|[Update-IOTWMulticastGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWMulticastGroup.html)|
 |[aws iotwireless update-network-analyzer-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-network-analyzer-configuration.html)|[Update-IOTWNetworkAnalyzerConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWNetworkAnalyzerConfiguration.html)|
 |[aws iotwireless update-partner-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotwireless/update-partner-account.html)|[Update-IOTWPartnerAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTWPartnerAccount.html)|

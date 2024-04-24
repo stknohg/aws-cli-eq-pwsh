@@ -1,6 +1,6 @@
 ---
 title: panorama
-date: 2024-04-13
+date: 2024-04-24
 description: aws panorama (AWS Panorama) command/cmdlet list.
 ---
 

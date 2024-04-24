@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2024-04-13
+date: 2024-04-24
 description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list.
 ---
 
@@ -37,6 +37,7 @@ description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list
 |[aws wellarchitected export-lens](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/export-lens.html)|[Export-WATLens](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-WATLens.html)|
 |[aws wellarchitected get-answer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/get-answer.html)|[Get-WATAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATAnswer.html)|
 |[aws wellarchitected get-consolidated-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/get-consolidated-report.html)|[Get-WATConsolidatedReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATConsolidatedReport.html)|
+|[aws wellarchitected get-global-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/get-global-settings.html)|[Get-WATGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATGlobalSetting.html)|
 |[aws wellarchitected get-lens](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/get-lens.html)|[Get-WATLens](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLens.html)|
 |[aws wellarchitected get-lens-review](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/get-lens-review.html)|[Get-WATLensReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReview.html)|
 |[aws wellarchitected get-lens-review-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/get-lens-review-report.html)|[Get-WATLensReviewReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WATLensReviewReport.html)|
@@ -72,6 +73,7 @@ description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list
 |[aws wellarchitected untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/untag-resource.html)|[Remove-WATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WATResourceTag.html)|
 |[aws wellarchitected update-answer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/update-answer.html)|[Update-WATAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATAnswer.html)|
 |[aws wellarchitected update-global-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/update-global-settings.html)|[Update-WATGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATGlobalSetting.html)|
+|[aws wellarchitected update-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/update-integration.html)|[Update-WATIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATIntegration.html)|
 |[aws wellarchitected update-lens-review](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/update-lens-review.html)|[Update-WATLensReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATLensReview.html)|
 |[aws wellarchitected update-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/update-profile.html)|[Update-WATProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATProfile.html)|
 |[aws wellarchitected update-review-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wellarchitected/update-review-template.html)|[Update-WATReviewTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WATReviewTemplate.html)|

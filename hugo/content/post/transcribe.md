@@ -1,6 +1,6 @@
 ---
 title: transcribe
-date: 2024-04-13
+date: 2024-04-24
 description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 ---
 

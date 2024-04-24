@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2024-04-13
+date: 2024-04-24
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -13,11 +13,13 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws workspaces accept-account-link-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/accept-account-link-invitation.html)|[Approve-WKSAccountLinkInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-WKSAccountLinkInvitation.html)|
 |[aws workspaces associate-connection-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/associate-connection-alias.html)|[Register-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WKSConnectionAlias.html)|
 |[aws workspaces associate-ip-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/associate-ip-groups.html)|[Register-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WKSIpGroup.html)|
 |[aws workspaces associate-workspace-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/associate-workspace-application.html)|[Register-WKSWorkspaceApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WKSWorkspaceApplication.html)|
 |[aws workspaces authorize-ip-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/authorize-ip-rules.html)|[Approve-WKSIpRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-WKSIpRule.html)|
 |[aws workspaces copy-workspace-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/copy-workspace-image.html)|[Copy-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-WKSWorkspaceImage.html)|
+|[aws workspaces create-account-link-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-account-link-invitation.html)|[New-WKSAccountLinkInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSAccountLinkInvitation.html)|
 |[aws workspaces create-connect-client-add-in](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-connect-client-add-in.html)|[New-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSConnectClientAddIn.html)|
 |[aws workspaces create-connection-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-connection-alias.html)|[New-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSConnectionAlias.html)|
 |[aws workspaces create-ip-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-ip-group.html)|[New-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSIpGroup.html)|
@@ -27,6 +29,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces create-workspace-bundle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-workspace-bundle.html)|[New-WKSWorkspaceBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceBundle.html)|
 |[aws workspaces create-workspace-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-workspace-image.html)|[New-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspaceImage.html)|
 |[aws workspaces create-workspaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/create-workspaces.html)|[New-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WKSWorkspace.html)|
+|[aws workspaces delete-account-link-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/delete-account-link-invitation.html)|[Remove-WKSAccountLinkInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSAccountLinkInvitation.html)|
 |[aws workspaces delete-client-branding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/delete-client-branding.html)|[Remove-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSClientBranding.html)|
 |[aws workspaces delete-connect-client-add-in](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/delete-connect-client-add-in.html)|[Remove-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectClientAddIn.html)|
 |[aws workspaces delete-connection-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/delete-connection-alias.html)|[Remove-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSConnectionAlias.html)|
@@ -60,8 +63,10 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces disassociate-connection-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/disassociate-connection-alias.html)|[Unregister-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSConnectionAlias.html)|
 |[aws workspaces disassociate-ip-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/disassociate-ip-groups.html)|[Unregister-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSIpGroup.html)|
 |[aws workspaces disassociate-workspace-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/disassociate-workspace-application.html)|[Unregister-WKSWorkspaceApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSWorkspaceApplication.html)|
+|[aws workspaces get-account-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/get-account-link.html)|[Get-WKSAccountLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccountLink.html)|
 |[aws workspaces import-client-branding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/import-client-branding.html)|[Import-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSClientBranding.html)|
 |[aws workspaces import-workspace-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/import-workspace-image.html)|[Import-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSWorkspaceImage.html)|
+|[aws workspaces list-account-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/list-account-links.html)|[Get-WKSAccountLinkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccountLinkList.html)|
 |[aws workspaces list-available-management-cidr-ranges](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/list-available-management-cidr-ranges.html)|[Get-WKSAvailableManagementCidrRangeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAvailableManagementCidrRangeList.html)|
 |[aws workspaces migrate-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/migrate-workspace.html)|[Start-WKSWorkspaceMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WKSWorkspaceMigration.html)|
 |[aws workspaces modify-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-account.html)|[Edit-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSAccount.html)|
@@ -76,6 +81,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces reboot-workspaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/reboot-workspaces.html)|[Restart-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-WKSWorkspace.html)|
 |[aws workspaces rebuild-workspaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/rebuild-workspaces.html)|[Reset-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-WKSWorkspace.html)|
 |[aws workspaces register-workspace-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/register-workspace-directory.html)|[Register-WKSWorkspaceDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WKSWorkspaceDirectory.html)|
+|[aws workspaces reject-account-link-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/reject-account-link-invitation.html)|[Deny-WKSAccountLinkInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-WKSAccountLinkInvitation.html)|
 |[aws workspaces restore-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/restore-workspace.html)|[Restore-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-WKSWorkspace.html)|
 |[aws workspaces revoke-ip-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/revoke-ip-rules.html)|[Revoke-WKSIpRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-WKSIpRule.html)|
 |[aws workspaces start-workspaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/start-workspaces.html)|[Start-WKSWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-WKSWorkspace.html)|

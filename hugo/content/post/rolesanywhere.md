@@ -1,6 +1,6 @@
 ---
 title: rolesanywhere
-date: 2024-04-13
+date: 2024-04-24
 description: aws rolesanywhere (IAM Roles Anywhere) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws rolesanywhere (IAM Roles Anywhere) command/cmdlet list.
 |----|----|
 |[aws rolesanywhere create-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/create-profile.html)|[New-IAMRAProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMRAProfile.html)|
 |[aws rolesanywhere create-trust-anchor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/create-trust-anchor.html)|[New-IAMRATrustAnchor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMRATrustAnchor.html)|
+|[aws rolesanywhere delete-attribute-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/delete-attribute-mapping.html)|[Remove-IAMRAAttributeMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMRAAttributeMapping.html)|
 |[aws rolesanywhere delete-crl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/delete-crl.html)|[Remove-IAMRACrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMRACrl.html)|
 |[aws rolesanywhere delete-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/delete-profile.html)|[Remove-IAMRAProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMRAProfile.html)|
 |[aws rolesanywhere delete-trust-anchor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/delete-trust-anchor.html)|[Remove-IAMRATrustAnchor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMRATrustAnchor.html)|
@@ -34,6 +35,7 @@ description: aws rolesanywhere (IAM Roles Anywhere) command/cmdlet list.
 |[aws rolesanywhere list-subjects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/list-subjects.html)|[Get-IAMRASubjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRASubjectList.html)|
 |[aws rolesanywhere list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/list-tags-for-resource.html)|[Get-IAMRAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRAResourceTag.html)|
 |[aws rolesanywhere list-trust-anchors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/list-trust-anchors.html)|[Get-IAMRATrustAnchorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRATrustAnchorList.html)|
+|[aws rolesanywhere put-attribute-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/put-attribute-mapping.html)|[Write-IAMRAAttributeMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IAMRAAttributeMapping.html)|
 |[aws rolesanywhere put-notification-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/put-notification-settings.html)|[Write-IAMRANotificationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IAMRANotificationSetting.html)|
 |[aws rolesanywhere reset-notification-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/reset-notification-settings.html)|[Reset-IAMRANotificationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-IAMRANotificationSetting.html)|
 |[aws rolesanywhere tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rolesanywhere/tag-resource.html)|[Add-IAMRAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMRAResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2024-04-13
+date: 2024-04-24
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms list-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-aliases.html)|[Get-KMSAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSAliasList.html)|
 |[aws kms list-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-grants.html)|[Get-KMSGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSGrantList.html)|
 |[aws kms list-key-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-key-policies.html)|[Get-KMSKeyPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyPolicyList.html)|
+|[aws kms list-key-rotations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-key-rotations.html)|[Get-KMSKeyRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyRotation.html)|
 |[aws kms list-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-keys.html)|[Get-KMSKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyList.html)|
 |[aws kms list-resource-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-resource-tags.html)|[Get-KMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSResourceTag.html)|
 |[aws kms list-retirable-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/list-retirable-grants.html)|[Get-KMSRetirableGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSRetirableGrant.html)|
@@ -53,6 +54,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms replicate-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/replicate-key.html)|[New-KMSReplicaKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSReplicaKey.html)|
 |[aws kms retire-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/retire-grant.html)|[Disable-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-KMSGrant.html)|
 |[aws kms revoke-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/revoke-grant.html)|[Revoke-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-KMSGrant.html)|
+|[aws kms rotate-key-on-demand](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/rotate-key-on-demand.html)|[Start-KMSRotateKeyOnDemand](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KMSRotateKeyOnDemand.html)|
 |[aws kms schedule-key-deletion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/schedule-key-deletion.html)|[Request-KMSKeyDeletion](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-KMSKeyDeletion.html)|
 |[aws kms sign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/sign.html)|[Invoke-KMSSigning](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSSigning.html)|
 |[aws kms tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/tag-resource.html)|[Add-KMSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KMSResourceTag.html)|

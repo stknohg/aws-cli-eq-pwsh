@@ -1,6 +1,6 @@
 ---
 title: managedblockchain-query
-date: 2024-04-13
+date: 2024-04-24
 description: aws managedblockchain-query (Amazon Managed Blockchain Query) command/cmdlet list.
 ---
 

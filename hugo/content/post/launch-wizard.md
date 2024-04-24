@@ -1,6 +1,6 @@
 ---
 title: launch-wizard
-date: 2024-04-13
+date: 2024-04-24
 description: aws launch-wizard (AWS Launch Wizard) command/cmdlet list.
 ---
 

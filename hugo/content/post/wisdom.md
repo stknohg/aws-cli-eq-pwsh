@@ -1,6 +1,6 @@
 ---
 title: wisdom
-date: 2024-04-13
+date: 2024-04-24
 description: aws wisdom (Amazon Connect Wisdom) command/cmdlet list.
 ---
 

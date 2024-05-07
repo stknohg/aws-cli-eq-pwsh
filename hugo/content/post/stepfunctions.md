@@ -1,6 +1,6 @@
 ---
 title: stepfunctions
-date: 2024-04-24
+date: 2024-05-07
 description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 ---
 
@@ -49,4 +49,5 @@ description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 |[aws stepfunctions update-map-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/update-map-run.html)|[Update-SFNMapRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SFNMapRun.html)|
 |[aws stepfunctions update-state-machine](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/update-state-machine.html)|[Update-SFNStateMachine](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SFNStateMachine.html)|
 |[aws stepfunctions update-state-machine-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/update-state-machine-alias.html)|[Update-SFNStateMachineAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SFNStateMachineAlias.html)|
+|[aws stepfunctions validate-state-machine-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/stepfunctions/validate-state-machine-definition.html)|[Test-SFNStateMachineDefinitionValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-SFNStateMachineDefinitionValidation.html)|
 

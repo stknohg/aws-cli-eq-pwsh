@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-messaging
-date: 2024-04-24
+date: 2024-05-07
 description: aws chime-sdk-messaging (Amazon Chime) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2024-04-24
+date: 2024-05-07
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-users.html)|[Get-TFRUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUserList.html)|
 |[aws transfer list-workflows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-workflows.html)|[Get-TFRWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWorkflowList.html)|
 |[aws transfer send-workflow-step-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/send-workflow-step-state.html)|[Send-TFRWorkflowStepState](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-TFRWorkflowStepState.html)|
+|[aws transfer start-directory-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-directory-listing.html)|[Start-TFRDirectoryListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRDirectoryListing.html)|
 |[aws transfer start-file-transfer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-file-transfer.html)|[Start-TFRFileTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRFileTransfer.html)|
 |[aws transfer start-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-server.html)|[Start-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRServer.html)|
 |[aws transfer stop-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/stop-server.html)|[Stop-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-TFRServer.html)|

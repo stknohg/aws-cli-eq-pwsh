@@ -1,6 +1,6 @@
 ---
 title: trustedadvisor
-date: 2024-04-24
+date: 2024-05-07
 description: aws trustedadvisor (AWS Trusted Advisor) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws trustedadvisor (AWS Trusted Advisor) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws trustedadvisor batch-update-recommendation-resource-exclusion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/batch-update-recommendation-resource-exclusion.html)|[Update-TAUpdateRecommendationResourceExclusionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TAUpdateRecommendationResourceExclusionBatch.html)|
 |[aws trustedadvisor get-organization-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/get-organization-recommendation.html)|[Get-TAOrganizationRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TAOrganizationRecommendation.html)|
 |[aws trustedadvisor get-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/get-recommendation.html)|[Get-TARecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TARecommendation.html)|
 |[aws trustedadvisor list-checks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/list-checks.html)|[Get-TACheckList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TACheckList.html)|

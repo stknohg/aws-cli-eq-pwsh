@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2024-04-24
+date: 2024-05-07
 description: aws gamelift (Amazon GameLift) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift claim-game-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/claim-game-server.html)|[Request-GMLGameServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-GMLGameServer.html)|
 |[aws gamelift create-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-alias.html)|[New-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLAlias.html)|
 |[aws gamelift create-build](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-build.html)|[New-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLBuild.html)|
+|[aws gamelift create-container-group-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-container-group-definition.html)|[New-GMLContainerGroupDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLContainerGroupDefinition.html)|
 |[aws gamelift create-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-fleet.html)|[New-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLFleet.html)|
 |[aws gamelift create-fleet-locations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-fleet-locations.html)|[New-GMLFleetLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLFleetLocation.html)|
 |[aws gamelift create-game-server-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-game-server-group.html)|[New-GMLGameServerGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLGameServerGroup.html)|
@@ -32,6 +33,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift create-vpc-peering-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-vpc-peering-connection.html)|[New-GMLVpcPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLVpcPeeringConnection.html)|
 |[aws gamelift delete-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-alias.html)|[Remove-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLAlias.html)|
 |[aws gamelift delete-build](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-build.html)|[Remove-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLBuild.html)|
+|[aws gamelift delete-container-group-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-container-group-definition.html)|[Remove-GMLContainerGroupDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLContainerGroupDefinition.html)|
 |[aws gamelift delete-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-fleet.html)|[Remove-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLFleet.html)|
 |[aws gamelift delete-fleet-locations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-fleet-locations.html)|[Remove-GMLFleetLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLFleetLocation.html)|
 |[aws gamelift delete-game-server-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-game-server-group.html)|[Remove-GMLGameServerGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLGameServerGroup.html)|
@@ -48,6 +50,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift describe-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-alias.html)|[Get-GMLAliasDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAliasDetail.html)|
 |[aws gamelift describe-build](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-build.html)|[Get-GMLBuildDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLBuildDetail.html)|
 |[aws gamelift describe-compute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-compute.html)|[Get-GMLCompute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLCompute.html)|
+|[aws gamelift describe-container-group-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-container-group-definition.html)|[Get-GMLContainerGroupDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupDefinition.html)|
 |[aws gamelift describe-ec2-instance-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-ec2-instance-limits.html)|[Get-GMLEC2InstanceLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLEC2InstanceLimit.html)|
 |[aws gamelift describe-fleet-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-attributes.html)|[Get-GMLFleetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetAttribute.html)|
 |[aws gamelift describe-fleet-capacity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-capacity.html)|[Get-GMLFleetCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetCapacity.html)|
@@ -82,6 +85,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift list-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-aliases.html)|[Get-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAlias.html)|
 |[aws gamelift list-builds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-builds.html)|[Get-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLBuild.html)|
 |[aws gamelift list-compute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-compute.html)|[Get-GMLComputeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLComputeList.html)|
+|[aws gamelift list-container-group-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-container-group-definitions.html)|[Get-GMLContainerGroupDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupDefinitionList.html)|
 |[aws gamelift list-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-fleets.html)|[Get-GMLFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleet.html)|
 |[aws gamelift list-game-server-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-game-server-groups.html)|[Get-GMLGameServerGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameServerGroupList.html)|
 |[aws gamelift list-game-servers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-game-servers.html)|[Get-GMLGameServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameServerList.html)|

@@ -1,6 +1,6 @@
 ---
 title: sts
-date: 2024-04-24
+date: 2024-05-07
 description: aws sts (AWS Security Token Service) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: acm-pca
-date: 2024-04-24
+date: 2024-05-07
 description: aws acm-pca (AWS Private Certificate Authority) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2024-04-24
+date: 2024-05-07
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -173,6 +173,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-public-sharing-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-public-sharing-settings.html)|[Update-QSPublicSharingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSPublicSharingSetting.html)|
 |[aws quicksight update-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-refresh-schedule.html)|[Update-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRefreshSchedule.html)|
 |[aws quicksight update-role-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-role-custom-permission.html)|[Update-QSRoleCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRoleCustomPermission.html)|
+|[aws quicksight update-spice-capacity-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-spice-capacity-configuration.html)|[Update-QSSPICECapacityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSSPICECapacityConfiguration.html)|
 |[aws quicksight update-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-template.html)|[Update-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplate.html)|
 |[aws quicksight update-template-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-template-alias.html)|[Update-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplateAlias.html)|
 |[aws quicksight update-template-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-template-permissions.html)|[Update-QSTemplatePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplatePermission.html)|

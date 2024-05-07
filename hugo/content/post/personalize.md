@@ -1,6 +1,6 @@
 ---
 title: personalize
-date: 2024-04-24
+date: 2024-05-07
 description: aws personalize (Amazon Personalize) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws personalize (Amazon Personalize) command/cmdlet list.
 |[aws personalize create-batch-inference-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-batch-inference-job.html)|[New-PERSBatchInferenceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSBatchInferenceJob.html)|
 |[aws personalize create-batch-segment-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-batch-segment-job.html)|[New-PERSBatchSegmentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSBatchSegmentJob.html)|
 |[aws personalize create-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-campaign.html)|[New-PERSCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSCampaign.html)|
+|[aws personalize create-data-deletion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-data-deletion-job.html)|[New-PERSDataDeletionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSDataDeletionJob.html)|
 |[aws personalize create-dataset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-dataset.html)|[New-PERSDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSDataset.html)|
 |[aws personalize create-dataset-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-dataset-export-job.html)|[New-PERSDatasetExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSDatasetExportJob.html)|
 |[aws personalize create-dataset-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/create-dataset-group.html)|[New-PERSDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PERSDatasetGroup.html)|
@@ -40,6 +41,7 @@ description: aws personalize (Amazon Personalize) command/cmdlet list.
 |[aws personalize describe-batch-inference-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-batch-inference-job.html)|[Get-PERSBatchInferenceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSBatchInferenceJob.html)|
 |[aws personalize describe-batch-segment-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-batch-segment-job.html)|[Get-PERSBatchSegmentJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSBatchSegmentJob.html)|
 |[aws personalize describe-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-campaign.html)|[Get-PERSCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSCampaign.html)|
+|[aws personalize describe-data-deletion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-data-deletion-job.html)|[Get-PERSDataDeletionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDataDeletionJob.html)|
 |[aws personalize describe-dataset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-dataset.html)|[Get-PERSDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDataset.html)|
 |[aws personalize describe-dataset-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-dataset-export-job.html)|[Get-PERSDatasetExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetExportJob.html)|
 |[aws personalize describe-dataset-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/describe-dataset-group.html)|[Get-PERSDatasetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetGroup.html)|
@@ -57,6 +59,7 @@ description: aws personalize (Amazon Personalize) command/cmdlet list.
 |[aws personalize list-batch-inference-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-batch-inference-jobs.html)|[Get-PERSBatchInferenceJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSBatchInferenceJobList.html)|
 |[aws personalize list-batch-segment-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-batch-segment-jobs.html)|[Get-PERSBatchSegmentJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSBatchSegmentJobList.html)|
 |[aws personalize list-campaigns](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-campaigns.html)|[Get-PERSCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSCampaignList.html)|
+|[aws personalize list-data-deletion-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-data-deletion-jobs.html)|[Get-PERSDataDeletionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDataDeletionJobList.html)|
 |[aws personalize list-dataset-export-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-dataset-export-jobs.html)|[Get-PERSDatasetExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetExportJobList.html)|
 |[aws personalize list-dataset-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-dataset-groups.html)|[Get-PERSDatasetGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetGroupList.html)|
 |[aws personalize list-dataset-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/list-dataset-import-jobs.html)|[Get-PERSDatasetImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PERSDatasetImportJobList.html)|

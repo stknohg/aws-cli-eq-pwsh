@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2024-04-24
+date: 2024-05-07
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -58,6 +58,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm describe-instance-patch-states](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-instance-patch-states.html)|[Get-SSMInstancePatchState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInstancePatchState.html)|
 |[aws ssm describe-instance-patch-states-for-patch-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-instance-patch-states-for-patch-group.html)|[Get-SSMInstancePatchStatesForPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInstancePatchStatesForPatchGroup.html)|
 |[aws ssm describe-instance-patches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-instance-patches.html)|[Get-SSMInstancePatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInstancePatch.html)|
+|[aws ssm describe-instance-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-instance-properties.html)|[Get-SSMInstanceProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInstanceProperty.html)|
 |[aws ssm describe-inventory-deletions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-inventory-deletions.html)|[Get-SSMInventoryDeletionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInventoryDeletionList.html)|
 |[aws ssm describe-maintenance-window-execution-task-invocations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-maintenance-window-execution-task-invocations.html)|[Get-SSMMaintenanceWindowExecutionTaskInvocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowExecutionTaskInvocationList.html)|
 |[aws ssm describe-maintenance-window-execution-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-maintenance-window-execution-tasks.html)|[Get-SSMMaintenanceWindowExecutionTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindowExecutionTaskList.html)|

@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2024-04-24
+date: 2024-05-07
 description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 |[aws codepipeline put-webhook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/put-webhook.html)|[Write-CPWebhook](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPWebhook.html)|
 |[aws codepipeline register-webhook-with-third-party](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/register-webhook-with-third-party.html)|[Register-CPWebhookWithThirdParty](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CPWebhookWithThirdParty.html)|
 |[aws codepipeline retry-stage-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/retry-stage-execution.html)|[Redo-CPStageExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Redo-CPStageExecution.html)|
+|[aws codepipeline rollback-stage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/rollback-stage.html)|[Undo-CPStageExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-CPStageExecution.html)|
 |[aws codepipeline start-pipeline-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/start-pipeline-execution.html)|[Start-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CPPipelineExecution.html)|
 |[aws codepipeline stop-pipeline-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/stop-pipeline-execution.html)|[Stop-CPPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CPPipelineExecution.html)|
 |[aws codepipeline tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/tag-resource.html)|[Add-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CPResourceTag.html)|

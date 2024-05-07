@@ -1,6 +1,6 @@
 ---
 title: entityresolution
-date: 2024-04-24
+date: 2024-05-07
 description: aws entityresolution (AWS Entity Resolution) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws entityresolution (AWS Entity Resolution) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws entityresolution add-policy-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/add-policy-statement.html)|[Add-ERESPolicyStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ERESPolicyStatement.html)|
+|[aws entityresolution batch-delete-unique-id](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/batch-delete-unique-id.html)|[Remove-ERESDeleteUniqueId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ERESDeleteUniqueId.html)|
 |[aws entityresolution create-id-mapping-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/create-id-mapping-workflow.html)|[New-ERESIdMappingWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ERESIdMappingWorkflow.html)|
 |[aws entityresolution create-id-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/create-id-namespace.html)|[New-ERESIdNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ERESIdNamespace.html)|
 |[aws entityresolution create-matching-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/create-matching-workflow.html)|[New-ERESMatchingWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ERESMatchingWorkflow.html)|

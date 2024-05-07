@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-04-24
+date: 2024-05-07
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.40 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.564 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.45 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.573 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -330,6 +330,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})|R53RC|Recovery Control Configuration|
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})|PD|Recovery Readiness|
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
+|[Amazon Route 53 Profiles](https://aws.amazon.com/route53/)|[route53profiles]({{%relref "post/route53profiles.md" %}})|R53P||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
 |[Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[rum]({{%relref "post/rum.md" %}})|CWRUM||
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})|S3|* Currntly, failed to create the list...|

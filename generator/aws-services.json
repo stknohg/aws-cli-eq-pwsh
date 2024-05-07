@@ -1865,6 +1865,12 @@
     "Url": "https://aws.amazon.com/route53/",
     "Note": ""
   },
+  "route53profiles": {
+    "Prefix": "R53P",
+    "Name": "Amazon Route 53 Profiles",
+    "Url": "https://aws.amazon.com/route53/",
+    "Note": ""
+  },
   "route53resolver": {
     "Prefix": "R53R",
     "Name": "Amazon Route 53 Resolver",

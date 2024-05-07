@@ -309,6 +309,7 @@
   "route53-recovery-control-config": "https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryControlConfig_cmdlets.html",
   "route53-recovery-readiness": "https://docs.aws.amazon.com/powershell/latest/reference/items/Route53RecoveryReadiness_cmdlets.html",
   "route53domains": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Domains_cmdlets.html",
+  "route53profiles": "https://docs.aws.amazon.com/powershell/latest/reference/items/Route53Profiles_cmdlets.html",
   "route53resolver": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Resolver_cmdlets.html",
   "rum": "https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchRUM_cmdlets.html",
   "s3": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html",

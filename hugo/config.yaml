@@ -26,7 +26,7 @@ menu:
       url: "https://github.com/stknohg/aws-cli-eq-pwsh/"
       weight: 1
     - name: "Theme"
-      url: "https://themes.gohugo.io/papercss-hugo-theme/"
+      url: "https://github.com/zwbetz-gh/papercss-hugo-theme/"
       weight: 2
 
 markup:

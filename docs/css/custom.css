@@ -1,12 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap");
+
 /* base */
-body {
-  background-image: url('/img/geometry2.png');
+html body {
+  background: var(--main-background);
 }
 
 /* anchors */
 a,
 a:visited {
-  color: rgb(0, 0, 238);
+  color: var(--secondary);
   background-image: none;
   text-decoration: underline;
 }
@@ -14,13 +16,14 @@ a:visited {
 /* navbar */
 nav a,
 nav a:visited {
-  color: #41403e;
+  color: var(--primary);
   text-decoration: none;
 }
 
-/* blockquote */
-blockquote {
-  font-style: italic;
+/* font */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Patrick Hand", sans-serif;
+  font-weight: normal;
 }
 
 /* post list */
@@ -28,11 +31,6 @@ blockquote {
   font-size: 2em; 
 }
 .summary {
-  margin-bottom: 0.1em; 
-}
-
-/* post single */
-.post-title {
   margin-bottom: 0.1em; 
 }
 

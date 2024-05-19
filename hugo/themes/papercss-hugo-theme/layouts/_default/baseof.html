@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.Language.Lang }}">
+<html lang="{{ .Site.Language.Lang }}" class="light">
   {{ partial "head.html" . }}
+  {{ with $js := resources.Get "js/base.js" }}
+  <script src="{{ $js.Permalink }}"></script>
+  {{ end }}
   <body>
     <div class="container paper">
       {{ partial "nav.html" . }}

@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2024-05-07
+date: 2024-05-19
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 

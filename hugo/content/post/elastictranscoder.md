@@ -1,6 +1,6 @@
 ---
 title: elastictranscoder
-date: 2024-05-07
+date: 2024-05-19
 description: aws elastictranscoder (Amazon Elastic Transcoder) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: resourcegroupstaggingapi
-date: 2024-05-07
+date: 2024-05-19
 description: aws resourcegroupstaggingapi (AWS Resource Groups Tagging) command/cmdlet list.
 ---
 

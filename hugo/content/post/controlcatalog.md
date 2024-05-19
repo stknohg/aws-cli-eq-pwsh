@@ -1,6 +1,6 @@
 ---
 title: controlcatalog
-date: 2024-05-07
+date: 2024-05-19
 description: aws controlcatalog (AWS Control Catalog) command/cmdlet list.
 ---
 

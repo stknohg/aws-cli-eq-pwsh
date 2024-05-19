@@ -1,6 +1,6 @@
 ---
 title: resiliencehub
-date: 2024-05-07
+date: 2024-05-19
 description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehub import-resources-to-draft-app-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/import-resources-to-draft-app-version.html)|[Import-RESHResourcesToDraftAppVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-RESHResourcesToDraftAppVersion.html)|
 |[aws resiliencehub list-alarm-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-alarm-recommendations.html)|[Get-RESHAlarmRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAlarmRecommendationList.html)|
 |[aws resiliencehub list-app-assessment-compliance-drifts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-assessment-compliance-drifts.html)|[Get-RESHAppAssessmentComplianceDriftList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppAssessmentComplianceDriftList.html)|
+|[aws resiliencehub list-app-assessment-resource-drifts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-assessment-resource-drifts.html)|[Get-RESHAppAssessmentResourceDriftList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppAssessmentResourceDriftList.html)|
 |[aws resiliencehub list-app-assessments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-assessments.html)|[Get-RESHAppAssessmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppAssessmentList.html)|
 |[aws resiliencehub list-app-component-compliances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-component-compliances.html)|[Get-RESHAppComponentComplianceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppComponentComplianceList.html)|
 |[aws resiliencehub list-app-component-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-app-component-recommendations.html)|[Get-RESHAppComponentRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHAppComponentRecommendationList.html)|

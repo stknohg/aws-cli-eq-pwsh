@@ -1,6 +1,6 @@
 ---
 title: lakeformation
-date: 2024-05-07
+date: 2024-05-19
 description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 |[aws lakeformation describe-transaction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/describe-transaction.html)|[Get-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFTransaction.html)|
 |[aws lakeformation extend-transaction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/extend-transaction.html)|[Invoke-LKFTransaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LKFTransaction.html)|
 |[aws lakeformation get-data-cells-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/get-data-cells-filter.html)|[Get-LKFDataCellsFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFDataCellsFilter.html)|
+|[aws lakeformation get-data-lake-principal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/get-data-lake-principal.html)|[Get-LKFDataLakePrincipal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFDataLakePrincipal.html)|
 |[aws lakeformation get-data-lake-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/get-data-lake-settings.html)|[Get-LKFDataLakeSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFDataLakeSetting.html)|
 |[aws lakeformation get-effective-permissions-for-path](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/get-effective-permissions-for-path.html)|[Get-LKFEffectivePermissionsForPath](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFEffectivePermissionsForPath.html)|
 |[aws lakeformation get-lf-tag](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lakeformation/get-lf-tag.html)|[Get-LKFLFTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LKFLFTag.html)|

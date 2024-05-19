@@ -1,6 +1,6 @@
 ---
 title: trustedadvisor
-date: 2024-05-07
+date: 2024-05-19
 description: aws trustedadvisor (AWS Trusted Advisor) command/cmdlet list.
 ---
 

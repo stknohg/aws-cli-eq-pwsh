@@ -1,6 +1,6 @@
 ---
 title: budgets
-date: 2024-05-07
+date: 2024-05-19
 description: aws budgets (AWS Budgets) command/cmdlet list.
 ---
 
@@ -32,6 +32,9 @@ description: aws budgets (AWS Budgets) command/cmdlet list.
 |[aws budgets describe-notifications-for-budget](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/describe-notifications-for-budget.html)|[Get-BGTNotificationsForBudget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTNotificationsForBudget.html)|
 |[aws budgets describe-subscribers-for-notification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/describe-subscribers-for-notification.html)|[Get-BGTSubscribersForNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTSubscribersForNotification.html)|
 |[aws budgets execute-budget-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/execute-budget-action.html)|[Invoke-BGTBudgetAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BGTBudgetAction.html)|
+|[aws budgets list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/list-tags-for-resource.html)|[Get-BGTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BGTResourceTag.html)|
+|[aws budgets tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/tag-resource.html)|[Add-BGTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BGTResourceTag.html)|
+|[aws budgets untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/untag-resource.html)|[Remove-BGTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BGTResourceTag.html)|
 |[aws budgets update-budget](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/update-budget.html)|[Update-BGTBudget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BGTBudget.html)|
 |[aws budgets update-budget-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/update-budget-action.html)|[Update-BGTBudgetAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BGTBudgetAction.html)|
 |[aws budgets update-notification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/budgets/update-notification.html)|[Update-BGTNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BGTNotification.html)|

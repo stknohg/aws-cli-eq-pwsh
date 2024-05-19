@@ -1,6 +1,6 @@
 ---
 title: events
-date: 2024-05-07
+date: 2024-05-19
 description: aws events (Amazon CloudWatch Events) command/cmdlet list.
 ---
 
@@ -69,5 +69,6 @@ description: aws events (Amazon CloudWatch Events) command/cmdlet list.
 |[aws events update-archive](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/events/update-archive.html)|[Update-CWEArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEArchive.html)|
 |[aws events update-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/events/update-connection.html)|[Update-CWEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWEConnection.html)|
 |[aws events update-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/events/update-endpoint.html)||
+|[aws events update-event-bus](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/events/update-event-bus.html)||
 |[aws events wizard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/events/wizard.html)||
 

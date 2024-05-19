@@ -1,6 +1,6 @@
 ---
 title: ssm-sap
-date: 2024-05-07
+date: 2024-05-19
 description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 ---
 
@@ -23,11 +23,14 @@ description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 |[aws ssm-sap list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-applications.html)|[Get-SMSAPApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPApplicationList.html)|
 |[aws ssm-sap list-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-components.html)|[Get-SMSAPComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPComponentList.html)|
 |[aws ssm-sap list-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-databases.html)|[Get-SMSAPDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPDatabasisList.html)|
+|[aws ssm-sap list-operation-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-operation-events.html)|[Get-SMSAPOperationEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPOperationEventList.html)|
 |[aws ssm-sap list-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-operations.html)|[Get-SMSAPOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPOperationList.html)|
 |[aws ssm-sap list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/list-tags-for-resource.html)|[Get-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSAPResourceTag.html)|
 |[aws ssm-sap put-resource-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/put-resource-permission.html)|[Write-SMSAPResourcePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SMSAPResourcePermission.html)|
 |[aws ssm-sap register-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/register-application.html)|[Register-SMSAPApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMSAPApplication.html)|
+|[aws ssm-sap start-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/start-application.html)|[Start-SMSAPApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMSAPApplication.html)|
 |[aws ssm-sap start-application-refresh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/start-application-refresh.html)|[Start-SMSAPApplicationRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMSAPApplicationRefresh.html)|
+|[aws ssm-sap stop-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/stop-application.html)|[Stop-SMSAPApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMSAPApplication.html)|
 |[aws ssm-sap tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/tag-resource.html)|[Add-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMSAPResourceTag.html)|
 |[aws ssm-sap untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/untag-resource.html)|[Remove-SMSAPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMSAPResourceTag.html)|
 |[aws ssm-sap update-application-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm-sap/update-application-settings.html)|[Update-SMSAPApplicationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMSAPApplicationSetting.html)|

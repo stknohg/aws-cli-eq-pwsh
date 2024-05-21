@@ -333,8 +333,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Route 53 Profiles](https://aws.amazon.com/route53/)|[route53profiles]({{%relref "post/route53profiles.md" %}})|R53P||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
 |[Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[rum]({{%relref "post/rum.md" %}})|CWRUM||
-|[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})|S3|* Currntly, failed to create the list...|
-|[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|* Currntly, failed to create the list...|
+|[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})||High-level S3 commands.|
+|[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|PowerShell cmdlets are paired with s3api commands.|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3control]({{%relref "post/s3control.md" %}})|S3C||
 |[Amazon S3 on Outposts](https://aws.amazon.com/outposts/)|[s3outposts]({{%relref "post/s3outposts.md" %}})|S3O||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker]({{%relref "post/sagemaker.md" %}})|SM||

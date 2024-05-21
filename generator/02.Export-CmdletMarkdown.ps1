@@ -116,6 +116,35 @@ $g_SubCommandAlias = @{
 $g_AWSServices = Get-Content -LiteralPath "./aws-services.json" -Raw | ConvertFrom-Json -AsHashtable
 $g_CmdletReferenceLinks = Get-Content -LiteralPath "./aws-reference-links.json" -Raw | ConvertFrom-Json -AsHashtable
 
+# Special operation mapping for S3API
+$g_S3APIOperationsMapping = @{
+    # PowerShell cmdlets treat bucket ACL and object ACL the same.
+    'get-bucket-acl'                        = 'GetACL'
+    'get-object-acl'                        = 'GetACL'
+    'put-bucket-acl'                        = 'PutACL'
+    'put-object-acl'                        = 'PutACL'
+    # S3 lifecycle API is special
+    'delete-bucket-lifecycle'               = 'DeleteLifecycleConfiguration' # "DeleteBucketLifecycle" is correct, but PowerShell cmdlet returns incorrect name. 
+    'get-bucket-lifecycle'                  = '----'                         # GetBucketLifecycle is old API.
+    'get-bucket-lifecycle-configuration'    = 'GetLifecycleConfiguration'    # "GetBucketLifecycleConfiguration" is correct, but PowerShell cmdlet returns incorrect name. 
+    'put-bucket-lifecycle'                  = '----'                         # PutBucketLifecycle is old API.
+    'put-bucket-lifecycle-configuration'    = 'PutLifecycleConfiguration'    # "PutBucketLifecycleConfiguration" is correct, but PowerShell cmdlet returns incorrect name. 
+    # S3 notification API is spectial
+    'get-bucket-notification'               = '----'                  # GetBucketNotification is no longer used.
+    'get-bucket-notification-configuration' = 'GetBucketNotification' # "GetBucketNotificationConfiguration" is current, but PowerShell cmdlet returns old name.
+    'put-bucket-notification'               = '----'                  # PutBucketNotification is no longer used.
+    'put-bucket-notification-configuration' = 'PutBucketNotification' # "PutBucketNotificationConfiguration" is current, but PowerShell cmdlet returns old name.
+    # PowerShell cmdlet returns incorrect operation name due to AWS SDK for .NET. 
+    'create-bucket'                         = 'PutBucket'               # "CreateBucket" is correct.
+    'create-multipart-upload'               = 'InitiateMultipartUpload' # "CreateMultipartUpload" is correct.
+    'delete-bucket-cors'                    = 'DeleteCORSConfiguration' # "DeleteBucketCors" is correct.
+    'delete-object'                         = 'DeleteObjects'           # "DeleteObject" is correct.
+    'get-bucket-cors'                       = 'GetCORSConfiguration'    # "GetBucketCors" is correct.
+    'list-object-versions'                  = 'ListVersions'            # "ListObjectVersions" is correct.
+    'put-bucket-cors'                       = 'PutCORSConfiguration'    # "PutBucketCors" is correct.
+    'upload-part-copy'                      = 'UploadPart'              # "UploadPartCopy" is correct.
+}
+
 # clear markdown directory
 Remove-Item -Path "./markdown/*.md" -Force
 Remove-Item -Path "./markdown/post/*.md" -Force
@@ -261,9 +290,17 @@ function Get-CLISubCommands {
                 Write-Error "Failed to parse AWS CLI command line. ($_)"
             }
             $searchService = $cliTokens[1] -replace "-", ""
-            $searchOperation = $cliTokens[2] -replace "-", ""
             if ($null -ne $g_SubCommandAlias[$ServiceName]) {
                 $searchService = $g_SubCommandAlias[$ServiceName]
+            }
+            $searchOperation = $cliTokens[2] -replace "-", ""
+            switch ($cliTokens[1]) {
+                # Special conversions for specific services
+                's3api' {
+                    if ($null -ne $g_S3APIOperationsMapping[$cliTokens[2]]) {
+                        $searchOperation = $g_S3APIOperationsMapping[$cliTokens[2]]
+                    }
+                }
             }
             # Get-AWSCmdletName は1つの AwsCliCommand から複数の Cmdlet を返す場合がある
             # どうやらAWS Tools for PowerShellのバグだった様で Ver.4.1.430 で解消された模様
@@ -324,8 +361,7 @@ function Get-CLISubCommands {
 
 # export top page
 'Exporting top page...' | Write-HostInfo
-Export-TopPageMarkdown -CLIVersionMetadataPath './temp/_cli.version.cfg' -CLIMetadataPath './temp/_cli.metadata.cfg' | 
-    Out-File -FilePath "./markdown/_index.md"
+Export-TopPageMarkdown -CLIVersionMetadataPath './temp/_cli.version.cfg' -CLIMetadataPath './temp/_cli.metadata.cfg' | Out-File -FilePath "./markdown/_index.md"
 
 # export each subcommands pages
 $query = '*.txt'
@@ -338,7 +374,6 @@ Get-ChildItem "./temp/$query" | ForEach-Object {
     #
     $commands = Get-CLISubCommands -CommandFilePath ($_.FullName) -ServiceName $serviceName
     # output markdown
-    Export-PostPageMarkdown -ServiceName $serviceName -Commands $commands |
-        Out-File -FilePath "./markdown/post/$($_.BaseName).md"
+    Export-PostPageMarkdown -ServiceName $serviceName -Commands $commands | Out-File -FilePath "./markdown/post/$($_.BaseName).md"
 }
 

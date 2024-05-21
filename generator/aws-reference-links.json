@@ -312,7 +312,7 @@
   "route53profiles": "https://docs.aws.amazon.com/powershell/latest/reference/items/Route53Profiles_cmdlets.html",
   "route53resolver": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Route_53_Resolver_cmdlets.html",
   "rum": "https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchRUM_cmdlets.html",
-  "s3": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html",
+  "s3": "",
   "s3api": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Storage_Service_cmdlets.html",
   "s3control": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_S3_Control_cmdlets.html",
   "s3outposts": "https://docs.aws.amazon.com/powershell/latest/reference/items/S3Outposts_cmdlets.html",

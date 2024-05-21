@@ -1884,16 +1884,16 @@
     "Note": ""
   },
   "s3": {
-    "Prefix": "S3",
+    "Prefix": "",
     "Name": "Amazon S3",
     "Url": "https://aws.amazon.com/s3/",
-    "Note": "* Currntly, failed to create the list..."
+    "Note": "High-level S3 commands."
   },
   "s3api": {
     "Prefix": "S3",
     "Name": "Amazon S3",
     "Url": "https://aws.amazon.com/s3/",
-    "Note": "* Currntly, failed to create the list..."
+    "Note": "PowerShell cmdlets are paired with s3api commands."
   },
   "s3control": {
     "Prefix": "S3C",

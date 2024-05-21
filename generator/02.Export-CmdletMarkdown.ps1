@@ -94,6 +94,7 @@ $g_SubCommandAlias = @{
     'route53'                      = 'r53';
     'route53domains'               = 'r53d';
     'route53resolver'              = 'r53r';
+    's3api'                        = 's3';
     's3control'                    = 's3c';
     'sagemaker'                    = 'sm';
     'sagemaker-a2i-runtime'        = 'a2ir';
@@ -123,7 +124,7 @@ Remove-Item -Path "./markdown/post/*.md" -Force
 function Write-HostInfo () {
     [CmdletBinding()]
     param (
-        [Parameter(ValueFromPipeline=$true, Mandatory=$true)]
+        [Parameter(ValueFromPipeline = $true, Mandatory = $true)]
         [string]$Message
     )
     Write-Host $Message -ForegroundColor Green
@@ -132,9 +133,9 @@ function Write-HostInfo () {
 function Export-TopPageMarkdown {
     [CmdletBinding()]
     param (
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$CLIVersionMetadataPath,
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$CLIMetadataPath
     )
     return & {
@@ -170,7 +171,7 @@ function Export-TopPageMarkdown {
                 $displayName = $metadata.Name
                 $displayUrl = $metadata.Url
             }
-            $displayColumn = if($displayUrl -eq '') {"$displayName"} else {"[$displayName]($displayUrl)"}
+            $displayColumn = if ($displayUrl -eq '') { "$displayName" } else { "[$displayName]($displayUrl)" }
             "|$displayColumn|[$command]({{%relref ""post/$command.md"" %}})|$cmdletPrefix|$note|"
         } 
     } | Out-String
@@ -179,9 +180,9 @@ function Export-TopPageMarkdown {
 function Export-PostPageMarkdown {
     [CmdletBinding()]
     param (
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$ServiceName,
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [Object[]]$Commands
     )
 
@@ -193,9 +194,9 @@ function Export-PostPageMarkdown {
         $displayName = $metadata.Name
         $displayUrl = $metadata.Url
     }
-    $displayUrllink = if ($displayUrl -eq '') {$displayName} else {"[$displayName]($displayUrl)"}
+    $displayUrllink = if ($displayUrl -eq '') { $displayName } else { "[$displayName]($displayUrl)" }
     $cliUrlLink = "[CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/$ServiceName/index.html)"
-    $cmdletUrlLink = if ($null -eq $g_CmdletReferenceLinks[$ServiceName] -or $g_CmdletReferenceLinks[$ServiceName] -eq '') {"Cmdlet Reference"} else {"[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))"}
+    $cmdletUrlLink = if ($null -eq $g_CmdletReferenceLinks[$ServiceName] -or $g_CmdletReferenceLinks[$ServiceName] -eq '') { "Cmdlet Reference" } else { "[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))" }
     $markdown = if ($null -eq $Commands) {
         & {
             "---"
@@ -231,8 +232,7 @@ function Export-PostPageMarkdown {
             foreach ($c in $Commands) {
                 if ($c.CmdLet) {
                     "|[$($c.CLI)]($($c.CLIUrl))|[$($c.CmdLet)]($($c.CmdletUrl))|"
-                }
-                else {
+                } else {
                     "|[$($c.CLI)]($($c.CLIUrl))||"
                 }
             }
@@ -244,9 +244,9 @@ function Export-PostPageMarkdown {
 function Get-CLISubCommands {
     [CmdletBinding()]
     param (
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$CommandFilePath,
-        [Parameter(Mandatory=$true)]
+        [Parameter(Mandatory = $true)]
         [string]$ServiceName
     )
     $commands = Get-Content -LiteralPath $CommandFilePath | ForEach-Object {
@@ -273,7 +273,7 @@ function Get-CLISubCommands {
             $awsCLIUrl = "https://awscli.amazonaws.com/v2/documentation/api/latest/reference/$ServiceName/$awsCLISubcommandName.html"
             # Fix #2 : Since AWS Tools for PowerShell 4, Get-AWSCmdletName -AwsCliCommand is obsolete.
             $cmdletNames = Get-AWSCmdletName -Service $searchService -ApiOperation $searchOperation
-            if($null -eq $cmdletNames) {
+            if ($null -eq $cmdletNames) {
                 $o = [PSCustomObject]@{
                     CLI              = $awsCLI
                     CLISubCommand    = $awsCLISubcommandName
@@ -305,8 +305,7 @@ function Get-CLISubCommands {
                     Write-Output $o
                 }
             }
-        }
-        catch {
+        } catch {
             $o = [PSCustomObject]@{
                 CLI              = $awsCLI
                 CLISubCommand    = $awsCLISubcommandName

@@ -21,7 +21,7 @@
     "Prefix": "PCA",
     "Name": "AWS Private Certificate Authority",
     "Url": "https://aws.amazon.com/private-ca/",
-    "Note": "Formerly AWS Certificate Manager Private Certificate Authority"
+    "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
   },
   "alexaforbusiness": {
     "Prefix": "ALXB",
@@ -696,10 +696,10 @@
     "Note": ""
   },
   "ddb": {
-    "Prefix": "DDB",
+    "Prefix": "",
     "Name": "Amazon DynamoDB",
     "Url": "https://aws.amazon.com/dynamodb/",
-    "Note": "High level DynamoDB commands."
+    "Note": "High-level DynamoDB commands."
   },
   "dynamodbstreams": {
     "Prefix": "DDB",
@@ -855,7 +855,7 @@
     "Prefix": "KINF",
     "Name": "Amazon Data Firehose",
     "Url": "https://aws.amazon.com/firehose/",
-    "Note": "Formerly Amazon Kinesis Data Firehose"
+    "Note": "Formerly Amazon Kinesis Data Firehose."
   },
   "fis": {
     "Prefix": "FIS",
@@ -1569,13 +1569,13 @@
     "Prefix": "OMICS",
     "Name": "AWS HealthOmics",
     "Url": "https://aws.amazon.com/healthomics/",
-    "Note": "ex-Amazon Omics"
+    "Note": "Formerly Amazon Omics."
   },
   "opensearch": {
     "Prefix": "OS",
     "Name": "Amazon OpenSearch Service",
     "Url": "https://aws.amazon.com/opensearch-service/",
-    "Note": "successor to Amazon Elasticsearch Service"
+    "Note": "Formerly Amazon Elasticsearch Service."
   },
   "opensearchserverless": {
     "Prefix": "OSS",
@@ -2313,7 +2313,7 @@
     "Prefix": "WSW",
     "Name": "Amazon WorkSpaces Secure Browser",
     "Url": "https://aws.amazon.com/workspaces/secure-browser/",
-    "Note": "Formerly Amazon WorkSpaces Web"
+    "Note": "Formerly Amazon WorkSpaces Web."
   },
   "xray": {
     "Prefix": "XR",

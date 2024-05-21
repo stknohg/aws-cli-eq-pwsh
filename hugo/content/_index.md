@@ -23,7 +23,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IAM Access Analyzer](https://aws.amazon.com/iam/)|[accessanalyzer]({{%relref "post/accessanalyzer.md" %}})|IAMAA||
 |[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
-|[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority|
+|[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority.|
 |[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB|Cmdlets was removed on 2024-05-17.|
 |[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
@@ -122,7 +122,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS DataSync](https://aws.amazon.com/datasync/)|[datasync]({{%relref "post/datasync.md" %}})|DSYN||
 |[Amazon DataZone](https://aws.amazon.com/datazone/)|[datazone]({{%relref "post/datazone.md" %}})|DZ||
 |[Amazon DynamoDB Accelerator](https://aws.amazon.com/dynamodb/dax/)|[dax]({{%relref "post/dax.md" %}})|DAX||
-|[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})|DDB|High level DynamoDB commands.|
+|[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[ddb]({{%relref "post/ddb.md" %}})||High-level DynamoDB commands.|
 |[AWS Deadline Cloud](https://aws.amazon.com/deadline-cloud/)|[deadline]({{%relref "post/deadline.md" %}})|ADC||
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
 |[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|DTCT||
@@ -162,7 +162,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
-|[Amazon Data Firehose](https://aws.amazon.com/firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF|Formerly Amazon Kinesis Data Firehose|
+|[Amazon Data Firehose](https://aws.amazon.com/firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF|Formerly Amazon Kinesis Data Firehose.|
 |[Amazon Fault Injection Simulator](https://aws.amazon.com/fis/)|[fis]({{%relref "post/fis.md" %}})|FIS||
 |[AWS Firewall Manager](https://aws.amazon.com/waf/)|[fms]({{%relref "post/fms.md" %}})|FMS||
 |[Amazon Forecast](https://aws.amazon.com/forecast/)|[forecast]({{%relref "post/forecast.md" %}})|FRC||
@@ -280,8 +280,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CloudWatch Network Monitor](https://aws.amazon.com/cloudwatch/)|[networkmonitor]({{%relref "post/networkmonitor.md" %}})|CWNM||
 |[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|NS||
 |[Amazon CloudWatch Observability Access Manager](https://aws.amazon.com/cloudwatch/)|[oam]({{%relref "post/oam.md" %}})|CWOAM||
-|[AWS HealthOmics](https://aws.amazon.com/healthomics/)|[omics]({{%relref "post/omics.md" %}})|OMICS|ex-Amazon Omics|
-|[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|successor to Amazon Elasticsearch Service|
+|[AWS HealthOmics](https://aws.amazon.com/healthomics/)|[omics]({{%relref "post/omics.md" %}})|OMICS|Formerly Amazon Omics.|
+|[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|Formerly Amazon Elasticsearch Service.|
 |[Amazon OpenSearch Serverless](https://aws.amazon.com/opensearch-service/features/serverless/)|[opensearchserverless]({{%relref "post/opensearchserverless.md" %}})|OSS||
 |[AWS OpsWorks](https://aws.amazon.com/opsworks/)|[opsworks]({{%relref "post/opsworks.md" %}})|OPS||
 |[AWS OpsWorks for configuration management](https://aws.amazon.com/opsworks/)|[opsworks-cm]({{%relref "post/opsworks-cm.md" %}})|OWCM||
@@ -404,6 +404,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon WorkMail Message Flow](https://aws.amazon.com/workmail/)|[workmailmessageflow]({{%relref "post/workmailmessageflow.md" %}})|WMMF||
 |[Amazon WorkSpaces](https://aws.amazon.com/workspaces/)|[workspaces]({{%relref "post/workspaces.md" %}})|WKS||
 |[Amazon WorkSpaces Thin Client](https://aws.amazon.com/workspaces/thin-client/)|[workspaces-thin-client]({{%relref "post/workspaces-thin-client.md" %}})|WSTC||
-|[Amazon WorkSpaces Secure Browser](https://aws.amazon.com/workspaces/secure-browser/)|[workspaces-web]({{%relref "post/workspaces-web.md" %}})|WSW|Formerly Amazon WorkSpaces Web|
+|[Amazon WorkSpaces Secure Browser](https://aws.amazon.com/workspaces/secure-browser/)|[workspaces-web]({{%relref "post/workspaces-web.md" %}})|WSW|Formerly Amazon WorkSpaces Web.|
 |[AWS X-Ray](https://aws.amazon.com/xray/)|[xray]({{%relref "post/xray.md" %}})|XR||
 

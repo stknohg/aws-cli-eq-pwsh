@@ -2311,9 +2311,9 @@
   },
   "workspaces-web": {
     "Prefix": "WSW",
-    "Name": "Amazon WorkSpaces Web",
-    "Url": "https://aws.amazon.com/workspaces/",
-    "Note": ""
+    "Name": "Amazon WorkSpaces Secure Browser",
+    "Url": "https://aws.amazon.com/workspaces/secure-browser/",
+    "Note": "Formerly Amazon WorkSpaces Web"
   },
   "xray": {
     "Prefix": "XR",

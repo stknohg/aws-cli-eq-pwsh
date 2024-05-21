@@ -9,7 +9,7 @@ description: aws honeycode (Amazon Honeycode) command/cmdlet list.
 ### [Amazon Honeycode](https://www.honeycode.aws/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/honeycode/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Honeycode_cmdlets.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

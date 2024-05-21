@@ -9,7 +9,7 @@ description: aws alexaforbusiness (Alexa for Business) command/cmdlet list.
 ### [Alexa for Business](https://aws.amazon.com/alexaforbusiness/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/alexaforbusiness/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Alexa_For_Business_cmdlets.html)
+* Cmdlet Reference
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

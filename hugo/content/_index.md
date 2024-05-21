@@ -24,7 +24,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority|
-|[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB||
+|[Alexa for Business](https://aws.amazon.com/alexaforbusiness/)|[alexaforbusiness]({{%relref "post/alexaforbusiness.md" %}})|ALXB|Cmdlets was removed on 2024-05-17.|
 |[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
 |[AWS Amplify Backend](https://aws.amazon.com/amplify/)|[amplifybackend]({{%relref "post/amplifybackend.md" %}})|AMPB||
@@ -182,7 +182,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Health](https://phd.aws.amazon.com/)|[health]({{%relref "post/health.md" %}})|HLTH||
 |[Amazon HealthLake](https://aws.amazon.com/healthlake/)|[healthlake]({{%relref "post/healthlake.md" %}})|AHLFHIR||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
-|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})|HC||
+|[Amazon Honeycode](https://www.honeycode.aws/)|[honeycode]({{%relref "post/honeycode.md" %}})|HC|Cmdlets was removed on 2024-05-17.|
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
 |[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|IDS||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||

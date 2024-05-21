@@ -1,12 +1,12 @@
 ---
 title: workspaces-web
-date: 2024-05-19
-description: aws workspaces-web (Amazon WorkSpaces Web) command/cmdlet list.
+date: 2024-05-21
+description: aws workspaces-web (Amazon WorkSpaces Secure Browser) command/cmdlet list.
 ---
 
 ## workspaces-web
 
-### [Amazon WorkSpaces Web](https://aws.amazon.com/workspaces/)
+### [Amazon WorkSpaces Secure Browser](https://aws.amazon.com/workspaces/secure-browser/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/WorkSpacesWeb_cmdlets.html)

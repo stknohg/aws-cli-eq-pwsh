@@ -1,6 +1,6 @@
 ---
 title: mgn
-date: 2024-05-19
+date: 2024-05-21
 description: aws mgn (AWS Application Migration Service) command/cmdlet list.
 ---
 

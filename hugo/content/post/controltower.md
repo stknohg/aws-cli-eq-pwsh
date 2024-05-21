@@ -1,6 +1,6 @@
 ---
 title: controltower
-date: 2024-05-19
+date: 2024-05-21
 description: aws controltower (AWS Control Tower) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws controltower (AWS Control Tower) command/cmdlet list.
 |[aws controltower get-landing-zone](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/get-landing-zone.html)|[Get-ACTLandingZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTLandingZone.html)|
 |[aws controltower get-landing-zone-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/get-landing-zone-operation.html)|[Get-ACTLandingZoneOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTLandingZoneOperation.html)|
 |[aws controltower list-baselines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-baselines.html)|[Get-ACTBaselineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTBaselineList.html)|
+|[aws controltower list-control-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-control-operations.html)|[Get-ACTControlOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTControlOperationList.html)|
 |[aws controltower list-enabled-baselines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-enabled-baselines.html)|[Get-ACTEnabledBaselineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTEnabledBaselineList.html)|
 |[aws controltower list-enabled-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-enabled-controls.html)|[Get-ACTEnabledControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTEnabledControlList.html)|
 |[aws controltower list-landing-zones](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-landing-zones.html)|[Get-ACTLandingZoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTLandingZoneList.html)|

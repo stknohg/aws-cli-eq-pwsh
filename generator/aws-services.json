@@ -27,7 +27,7 @@
     "Prefix": "ALXB",
     "Name": "Alexa for Business",
     "Url": "https://aws.amazon.com/alexaforbusiness/",
-    "Note": ""
+    "Note": "Cmdlets was removed on 2024-05-17."
   },
   "amp": {
     "Prefix": "PROM",
@@ -981,7 +981,7 @@
     "Prefix": "HC",
     "Name": "Amazon Honeycode",
     "Url": "https://www.honeycode.aws/",
-    "Note": ""
+    "Note": "Cmdlets was removed on 2024-05-17."
   },
   "iam": {
     "Prefix": "IAM",

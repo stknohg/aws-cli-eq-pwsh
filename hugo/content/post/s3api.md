@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2024-05-21
+date: 2024-05-30
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -67,8 +67,8 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api get-object-tagging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-tagging.html)|[Get-S3ObjectTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectTagSet.html)|
 |[aws s3api get-object-torrent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-torrent.html)||
 |[aws s3api get-public-access-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-public-access-block.html)|[Get-S3PublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3PublicAccessBlock.html)|
-|[aws s3api head-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-bucket.html)||
-|[aws s3api head-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-object.html)||
+|[aws s3api head-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-bucket.html)|[Get-S3ObjectMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectMetadata.html)|
+|[aws s3api head-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/head-object.html)|[Get-S3ObjectMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectMetadata.html)|
 |[aws s3api list-bucket-analytics-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-analytics-configurations.html)|[Get-S3BucketAnalyticsConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketAnalyticsConfigurationList.html)|
 |[aws s3api list-bucket-intelligent-tiering-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-intelligent-tiering-configurations.html)|[Get-S3BucketIntelligentTieringConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketIntelligentTieringConfigurationList.html)|
 |[aws s3api list-bucket-inventory-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-bucket-inventory-configurations.html)|[Get-S3BucketInventoryConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketInventoryConfigurationList.html)|

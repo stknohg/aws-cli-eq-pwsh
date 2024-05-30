@@ -1,0 +1,63 @@
+---
+title: mailmanager
+date: 2024-05-30
+description: aws mailmanager (Amazon SES Mail Manager) command/cmdlet list.
+---
+
+## mailmanager
+
+### [Amazon SES Mail Manager](https://aws.amazon.com/ses/)
+
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/index.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/MailManager_cmdlets.html)
+
+|AWS CLI|PowerShell Cmdlet|
+|----|----|
+|[aws mailmanager create-addon-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-addon-instance.html)|[New-MMGRAddonInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRAddonInstance.html)|
+|[aws mailmanager create-addon-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-addon-subscription.html)|[New-MMGRAddonSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRAddonSubscription.html)|
+|[aws mailmanager create-archive](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-archive.html)|[New-MMGRArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRArchive.html)|
+|[aws mailmanager create-ingress-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-ingress-point.html)|[New-MMGRIngressPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRIngressPoint.html)|
+|[aws mailmanager create-relay](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-relay.html)|[New-MMGRRelay](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRRelay.html)|
+|[aws mailmanager create-rule-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-rule-set.html)|[New-MMGRRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRRuleSet.html)|
+|[aws mailmanager create-traffic-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/create-traffic-policy.html)|[New-MMGRTrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MMGRTrafficPolicy.html)|
+|[aws mailmanager delete-addon-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-addon-instance.html)|[Remove-MMGRAddonInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRAddonInstance.html)|
+|[aws mailmanager delete-addon-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-addon-subscription.html)|[Remove-MMGRAddonSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRAddonSubscription.html)|
+|[aws mailmanager delete-archive](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-archive.html)|[Remove-MMGRArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRArchive.html)|
+|[aws mailmanager delete-ingress-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-ingress-point.html)|[Remove-MMGRIngressPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRIngressPoint.html)|
+|[aws mailmanager delete-relay](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-relay.html)|[Remove-MMGRRelay](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRRelay.html)|
+|[aws mailmanager delete-rule-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-rule-set.html)|[Remove-MMGRRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRRuleSet.html)|
+|[aws mailmanager delete-traffic-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/delete-traffic-policy.html)|[Remove-MMGRTrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRTrafficPolicy.html)|
+|[aws mailmanager get-addon-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-addon-instance.html)|[Get-MMGRAddonInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRAddonInstance.html)|
+|[aws mailmanager get-addon-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-addon-subscription.html)|[Get-MMGRAddonSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRAddonSubscription.html)|
+|[aws mailmanager get-archive](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-archive.html)|[Get-MMGRArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchive.html)|
+|[aws mailmanager get-archive-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-archive-export.html)|[Get-MMGRArchiveExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveExport.html)|
+|[aws mailmanager get-archive-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-archive-message.html)|[Get-MMGRArchiveMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveMessage.html)|
+|[aws mailmanager get-archive-message-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-archive-message-content.html)|[Get-MMGRArchiveMessageContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveMessageContent.html)|
+|[aws mailmanager get-archive-search](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-archive-search.html)|[Get-MMGRArchiveSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveSearch.html)|
+|[aws mailmanager get-archive-search-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-archive-search-results.html)|[Get-MMGRArchiveSearchResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveSearchResult.html)|
+|[aws mailmanager get-ingress-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-ingress-point.html)|[Get-MMGRIngressPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRIngressPoint.html)|
+|[aws mailmanager get-relay](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-relay.html)|[Get-MMGRRelay](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRRelay.html)|
+|[aws mailmanager get-rule-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-rule-set.html)|[Get-MMGRRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRRuleSet.html)|
+|[aws mailmanager get-traffic-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/get-traffic-policy.html)|[Get-MMGRTrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRTrafficPolicy.html)|
+|[aws mailmanager list-addon-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-addon-instances.html)|[Get-MMGRAddonInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRAddonInstanceList.html)|
+|[aws mailmanager list-addon-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-addon-subscriptions.html)|[Get-MMGRAddonSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRAddonSubscriptionList.html)|
+|[aws mailmanager list-archive-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-archive-exports.html)|[Get-MMGRArchiveExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveExportList.html)|
+|[aws mailmanager list-archive-searches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-archive-searches.html)|[Get-MMGRArchiveSearchList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveSearchList.html)|
+|[aws mailmanager list-archives](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-archives.html)|[Get-MMGRArchiveList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRArchiveList.html)|
+|[aws mailmanager list-ingress-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-ingress-points.html)|[Get-MMGRIngressPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRIngressPointList.html)|
+|[aws mailmanager list-relays](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-relays.html)|[Get-MMGRRelayList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRRelayList.html)|
+|[aws mailmanager list-rule-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-rule-sets.html)|[Get-MMGRRuleSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRRuleSetList.html)|
+|[aws mailmanager list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-tags-for-resource.html)|[Get-MMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRResourceTag.html)|
+|[aws mailmanager list-traffic-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/list-traffic-policies.html)|[Get-MMGRTrafficPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MMGRTrafficPolicyList.html)|
+|[aws mailmanager start-archive-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/start-archive-export.html)|[Start-MMGRArchiveExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MMGRArchiveExport.html)|
+|[aws mailmanager start-archive-search](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/start-archive-search.html)|[Start-MMGRArchiveSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MMGRArchiveSearch.html)|
+|[aws mailmanager stop-archive-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/stop-archive-export.html)|[Stop-MMGRArchiveExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-MMGRArchiveExport.html)|
+|[aws mailmanager stop-archive-search](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/stop-archive-search.html)|[Stop-MMGRArchiveSearch](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-MMGRArchiveSearch.html)|
+|[aws mailmanager tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/tag-resource.html)|[Add-MMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MMGRResourceTag.html)|
+|[aws mailmanager untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/untag-resource.html)|[Remove-MMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MMGRResourceTag.html)|
+|[aws mailmanager update-archive](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/update-archive.html)|[Update-MMGRArchive](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MMGRArchive.html)|
+|[aws mailmanager update-ingress-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/update-ingress-point.html)|[Update-MMGRIngressPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MMGRIngressPoint.html)|
+|[aws mailmanager update-relay](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/update-relay.html)|[Update-MMGRRelay](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MMGRRelay.html)|
+|[aws mailmanager update-rule-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/update-rule-set.html)|[Update-MMGRRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MMGRRuleSet.html)|
+|[aws mailmanager update-traffic-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mailmanager/update-traffic-policy.html)|[Update-MMGRTrafficPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MMGRTrafficPolicy.html)|
+

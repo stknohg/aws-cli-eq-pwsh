@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-05-21
+date: 2024-05-30
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.15.54 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.583 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.15.60 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.589 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -243,6 +243,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/)|[m2]({{%relref "post/m2.md" %}})|AMM||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2|Macie v1 API was removed.|
+|[Amazon SES Mail Manager](https://aws.amazon.com/ses/)|[mailmanager]({{%relref "post/mailmanager.md" %}})|MMGR||
 |[Amazon Managed Blockchain](https://aws.amazon.com/managed-blockchain/)|[managedblockchain]({{%relref "post/managedblockchain.md" %}})|MBC||
 |[Amazon Managed Blockchain Query](https://aws.amazon.com/managed-blockchain/amb-query/)|[managedblockchain-query]({{%relref "post/managedblockchain-query.md" %}})|MBCQ||
 |[AWS Marketplace Agreement Service](https://aws.amazon.com/marketplace/)|[marketplace-agreement]({{%relref "post/marketplace-agreement.md" %}})|MAS||

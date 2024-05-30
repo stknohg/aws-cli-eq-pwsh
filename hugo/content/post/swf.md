@@ -1,6 +1,6 @@
 ---
 title: swf
-date: 2024-05-21
+date: 2024-05-30
 description: aws swf (Amazon Simple Workflow) command/cmdlet list.
 ---
 
@@ -17,6 +17,8 @@ description: aws swf (Amazon Simple Workflow) command/cmdlet list.
 |[aws swf count-open-workflow-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/count-open-workflow-executions.html)|[Get-SWFOpenWorkflowExecutionCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SWFOpenWorkflowExecutionCount.html)|
 |[aws swf count-pending-activity-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/count-pending-activity-tasks.html)|[Get-SWFPendingActivityTaskCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SWFPendingActivityTaskCount.html)|
 |[aws swf count-pending-decision-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/count-pending-decision-tasks.html)|[Get-SWFPendingDecisionTaskCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SWFPendingDecisionTaskCount.html)|
+|[aws swf delete-activity-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/delete-activity-type.html)|[Uninstall-SWFActivityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Uninstall-SWFActivityType.html)|
+|[aws swf delete-workflow-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/delete-workflow-type.html)|[Uninstall-SWFWorkflowType](https://docs.aws.amazon.com/powershell/latest/reference/items/Uninstall-SWFWorkflowType.html)|
 |[aws swf deprecate-activity-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/deprecate-activity-type.html)|[Remove-SWFActivityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SWFActivityType.html)|
 |[aws swf deprecate-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/deprecate-domain.html)|[Remove-SWFDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SWFDomain.html)|
 |[aws swf deprecate-workflow-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/swf/deprecate-workflow-type.html)|[Remove-SWFWorkflowType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SWFWorkflowType.html)|

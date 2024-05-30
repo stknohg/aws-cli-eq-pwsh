@@ -1,6 +1,6 @@
 ---
 title: mediapackage
-date: 2024-05-21
+date: 2024-05-30
 description: aws mediapackage (AWS Elemental MediaPackage) command/cmdlet list.
 ---
 

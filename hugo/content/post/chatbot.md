@@ -1,6 +1,6 @@
 ---
 title: chatbot
-date: 2024-05-21
+date: 2024-05-30
 description: aws chatbot (AWS Chatbot) command/cmdlet list.
 ---
 
@@ -32,6 +32,9 @@ description: aws chatbot (AWS Chatbot) command/cmdlet list.
 |[aws chatbot list-microsoft-teams-channel-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/list-microsoft-teams-channel-configurations.html)|[Get-CHATMicrosoftTeamsChannelConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHATMicrosoftTeamsChannelConfigurationList.html)|
 |[aws chatbot list-microsoft-teams-configured-teams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/list-microsoft-teams-configured-teams.html)|[Get-CHATMicrosoftTeamsConfiguredTeamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHATMicrosoftTeamsConfiguredTeamList.html)|
 |[aws chatbot list-microsoft-teams-user-identities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/list-microsoft-teams-user-identities.html)|[Get-CHATMicrosoftTeamsUserIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHATMicrosoftTeamsUserIdentityList.html)|
+|[aws chatbot list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/list-tags-for-resource.html)|[Get-CHATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CHATResourceTag.html)|
+|[aws chatbot tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/tag-resource.html)|[Add-CHATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CHATResourceTag.html)|
+|[aws chatbot untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/untag-resource.html)|[Remove-CHATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CHATResourceTag.html)|
 |[aws chatbot update-account-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/update-account-preferences.html)|[Update-CHATAccountPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHATAccountPreference.html)|
 |[aws chatbot update-chime-webhook-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/update-chime-webhook-configuration.html)|[Update-CHATChimeWebhookConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHATChimeWebhookConfiguration.html)|
 |[aws chatbot update-microsoft-teams-channel-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/chatbot/update-microsoft-teams-channel-configuration.html)|[Update-CHATMicrosoftTeamsChannelConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CHATMicrosoftTeamsChannelConfiguration.html)|

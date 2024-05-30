@@ -222,6 +222,7 @@
   "m2": "https://docs.aws.amazon.com/powershell/latest/reference/items/MainframeModernization_cmdlets.html",
   "machinelearning": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Machine_Learning_cmdlets.html",
   "macie2": "https://docs.aws.amazon.com/powershell/latest/reference/items/Macie2_cmdlets.html",
+  "mailmanager": "https://docs.aws.amazon.com/powershell/latest/reference/items/MailManager_cmdlets.html",
   "managedblockchain": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Managed_Blockchain_cmdlets.html",
   "managedblockchain-query": "https://docs.aws.amazon.com/powershell/latest/reference/items/ManagedBlockchainQuery_cmdlets.html",
   "marketplace-agreement": "https://docs.aws.amazon.com/powershell/latest/reference/items/MarketplaceAgreement_cmdlets.html",

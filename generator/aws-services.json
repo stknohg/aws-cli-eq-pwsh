@@ -1343,6 +1343,12 @@
     "Url": "https://aws.amazon.com/macie/",
     "Note": "Macie v1 API was removed."
   },
+  "mailmanager": {
+    "Prefix": "MMGR",
+    "Name": "Amazon SES Mail Manager",
+    "Url": "https://aws.amazon.com/ses/",
+    "Note": ""
+  },
   "managedblockchain": {
     "Prefix": "MBC",
     "Name": "Amazon Managed Blockchain",

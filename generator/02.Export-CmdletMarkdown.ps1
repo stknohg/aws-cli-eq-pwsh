@@ -143,6 +143,8 @@ $g_S3APIOperationsMapping = @{
     'list-object-versions'                  = 'ListVersions'            # "ListObjectVersions" is correct.
     'put-bucket-cors'                       = 'PutCORSConfiguration'    # "PutBucketCors" is correct.
     'upload-part-copy'                      = 'UploadPart'              # "UploadPartCopy" is correct.
+    'head-bucket'                           = 'GetObjectMetadata'       # "HeadBucket" is correct.
+    'head-object'                           = 'GetObjectMetadata'       # "HeadObject" is correct.
 }
 
 # clear markdown directory

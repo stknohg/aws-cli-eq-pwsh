@@ -1,6 +1,6 @@
 ---
 title: emr-serverless
-date: 2024-05-30
+date: 2024-06-01
 description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 |[aws emr-serverless get-dashboard-for-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-dashboard-for-job-run.html)|[Get-EMRServerlessDashboardForJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessDashboardForJobRun.html)|
 |[aws emr-serverless get-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-job-run.html)|[Get-EMRServerlessJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRun.html)|
 |[aws emr-serverless list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-applications.html)|[Get-EMRServerlessApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessApplicationList.html)|
+|[aws emr-serverless list-job-run-attempts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-job-run-attempts.html)|[Get-EMRServerlessJobRunAttemptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRunAttemptList.html)|
 |[aws emr-serverless list-job-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-job-runs.html)|[Get-EMRServerlessJobRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRunList.html)|
 |[aws emr-serverless list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-tags-for-resource.html)|[Get-EMRServerlessResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessResourceTagList.html)|
 |[aws emr-serverless start-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/start-application.html)|[Start-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRServerlessApplication.html)|

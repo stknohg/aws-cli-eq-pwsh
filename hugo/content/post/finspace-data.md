@@ -1,6 +1,6 @@
 ---
 title: finspace-data
-date: 2024-05-30
+date: 2024-06-01
 description: aws finspace-data (Amazon FinSpace) command/cmdlet list.
 ---
 

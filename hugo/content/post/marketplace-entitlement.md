@@ -1,6 +1,6 @@
 ---
 title: marketplace-entitlement
-date: 2024-05-30
+date: 2024-06-01
 description: aws marketplace-entitlement (AWS Marketplace Entitlement Service) command/cmdlet list.
 ---
 

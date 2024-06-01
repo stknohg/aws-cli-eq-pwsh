@@ -1,6 +1,6 @@
 ---
 title: migrationhubstrategy
-date: 2024-05-30
+date: 2024-06-01
 description: aws migrationhubstrategy (AWS Migration Hub Strategy Recommendations) command/cmdlet list.
 ---
 

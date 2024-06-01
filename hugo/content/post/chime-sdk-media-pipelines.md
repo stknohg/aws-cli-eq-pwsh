@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-media-pipelines
-date: 2024-05-30
+date: 2024-06-01
 description: aws chime-sdk-media-pipelines (Amazon Chime) command/cmdlet list.
 ---
 

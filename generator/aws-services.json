@@ -23,12 +23,6 @@
     "Url": "https://aws.amazon.com/private-ca/",
     "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
   },
-  "alexaforbusiness": {
-    "Prefix": "ALXB",
-    "Name": "Alexa for Business",
-    "Url": "https://aws.amazon.com/alexaforbusiness/",
-    "Note": "Cmdlets was removed on 2024-05-17."
-  },
   "amp": {
     "Prefix": "PROM",
     "Name": "Amazon Managed Service for Prometheus",
@@ -196,12 +190,6 @@
     "Name": "AWS Backup",
     "Url": "https://aws.amazon.com/backup/",
     "Note": "Backup gateway"
-  },
-  "backupstorage": {
-    "Prefix": "BAKS",
-    "Name": "AWS Backup Storage",
-    "Url": "https://aws.amazon.com/backup/",
-    "Note": "API for external services"
   },
   "batch": {
     "Prefix": "BAT",
@@ -976,12 +964,6 @@
     "Name": "-",
     "Url": "",
     "Note": "Commands to interact with the history of AWS CLI commands ran over time."
-  },
-  "honeycode": {
-    "Prefix": "HC",
-    "Name": "Amazon Honeycode",
-    "Url": "https://www.honeycode.aws/",
-    "Note": "Cmdlets was removed on 2024-05-17."
   },
   "iam": {
     "Prefix": "IAM",

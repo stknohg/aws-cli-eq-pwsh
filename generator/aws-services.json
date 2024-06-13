@@ -107,6 +107,12 @@
     "Url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html",
     "Note": ""
   },
+  "application-signals": {
+    "Prefix": "CWAS",
+    "Name": "Amazon CloudWatch Application Signals",
+    "Url": "https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Application-Monitoring-Sections.html",
+    "Note": ""
+  },
   "applicationcostprofiler": {
     "Prefix": "ACP ",
     "Name": "AWS Application Cost Profiler",
@@ -135,6 +141,12 @@
     "Prefix": "ASYN",
     "Name": "AWS AppSync",
     "Url": "https://aws.amazon.com/appsync/",
+    "Note": ""
+  },
+  "apptest": {
+    "Prefix": "AT",
+    "Name": "AWS Mainframe Modernization Application Testing",
+    "Url": "https://aws.amazon.com/mainframe-modernization/capabilities/testing/",
     "Note": ""
   },
   "arc-zonal-shift": {
@@ -1625,6 +1637,12 @@
     "Url": "https://aws.amazon.com/private-ca/",
     "Note": ""
   },
+  "pca-connector-scep": {
+    "Prefix": "PCASCEP",
+    "Name": "AWS Private CA Connector for SCEP",
+    "Url": "https://aws.amazon.com/private-ca/",
+    "Note": ""
+  },
   "personalize": {
     "Prefix": "PERS",
     "Name": "Amazon Personalize",
@@ -2157,6 +2175,12 @@
     "Prefix": "CWSYN",
     "Name": "Amazon CloudWatch Synthetics",
     "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "taxsettings": {
+    "Prefix": "TSA",
+    "Name": "Tax Settings",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-billing/",
     "Note": ""
   },
   "textract": {

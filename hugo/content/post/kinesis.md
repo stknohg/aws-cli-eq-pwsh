@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2024-06-01
+date: 2024-06-13
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 

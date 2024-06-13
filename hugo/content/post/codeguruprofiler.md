@@ -1,6 +1,6 @@
 ---
 title: codeguruprofiler
-date: 2024-06-01
+date: 2024-06-13
 description: aws codeguruprofiler (Amazon CodeGuru Profiler) command/cmdlet list.
 ---
 

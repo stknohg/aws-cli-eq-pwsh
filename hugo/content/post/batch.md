@@ -1,6 +1,6 @@
 ---
 title: batch
-date: 2024-06-01
+date: 2024-06-13
 description: aws batch (AWS Batch) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |[aws batch describe-job-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-job-queues.html)|[Get-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobQueue.html)|
 |[aws batch describe-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-jobs.html)|[Get-BATJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobDetail.html)|
 |[aws batch describe-scheduling-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-scheduling-policies.html)|[Get-BATSchedulingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATSchedulingPolicy.html)|
+|[aws batch get-job-queue-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/get-job-queue-snapshot.html)|[Get-BATJobQueueSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobQueueSnapshot.html)|
 |[aws batch list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-jobs.html)|[Get-BATJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobList.html)|
 |[aws batch list-scheduling-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-scheduling-policies.html)|[Get-BATSchedulingPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATSchedulingPolicyList.html)|
 |[aws batch list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-tags-for-resource.html)|[Get-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATResourceTag.html)|

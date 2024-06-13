@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2024-06-01
+date: 2024-06-13
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -77,6 +77,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-resource-policy.html)|[Write-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLResourcePolicy.html)|
 |[aws logs put-retention-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-retention-policy.html)|[Write-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLRetentionPolicy.html)|
 |[aws logs put-subscription-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-subscription-filter.html)|[Write-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLSubscriptionFilter.html)|
+|[aws logs start-live-tail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/start-live-tail.html)|[Start-CWLLiveTail](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLLiveTail.html)|
 |[aws logs start-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/start-query.html)|[Start-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLQuery.html)|
 |[aws logs stop-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/stop-query.html)|[Stop-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLQuery.html)|
 |[aws logs tag-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/tag-log-group.html)|[Add-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWLLogGroupTag.html)|

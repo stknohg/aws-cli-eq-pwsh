@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-06-01
+date: 2024-06-13
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -346,6 +346,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-store-image-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-store-image-tasks.html)|[Get-EC2StoreImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2StoreImageTask.html)|
 |[aws ec2 describe-subnets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-subnets.html)|[Get-EC2Subnet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Subnet.html)|
 |[aws ec2 describe-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-tags.html)|[Get-EC2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Tag.html)|
+|[aws ec2 describe-traffic-mirror-filter-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-traffic-mirror-filter-rules.html)|[Get-EC2TrafficMirrorFilterRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorFilterRule.html)|
 |[aws ec2 describe-traffic-mirror-filters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-traffic-mirror-filters.html)|[Get-EC2TrafficMirrorFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorFilter.html)|
 |[aws ec2 describe-traffic-mirror-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-traffic-mirror-sessions.html)|[Get-EC2TrafficMirrorSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorSession.html)|
 |[aws ec2 describe-traffic-mirror-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-traffic-mirror-targets.html)|[Get-EC2TrafficMirrorTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2TrafficMirrorTarget.html)|

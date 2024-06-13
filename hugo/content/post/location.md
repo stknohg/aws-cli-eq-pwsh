@@ -1,6 +1,6 @@
 ---
 title: location
-date: 2024-06-01
+date: 2024-06-13
 description: aws location (Amazon Location) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location describe-route-calculator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/describe-route-calculator.html)|[Get-LOCRouteCalculator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCRouteCalculator.html)|
 |[aws location describe-tracker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/describe-tracker.html)|[Get-LOCTracker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCTracker.html)|
 |[aws location disassociate-tracker-consumer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/disassociate-tracker-consumer.html)|[Unregister-LOCTrackerConsumer](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-LOCTrackerConsumer.html)|
+|[aws location forecast-geofence-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/forecast-geofence-events.html)|[Invoke-LOCForecastGeofenceEventsOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LOCForecastGeofenceEventsOperation.html)|
 |[aws location get-device-position](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/get-device-position.html)|[Get-LOCDevicePosition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCDevicePosition.html)|
 |[aws location get-device-position-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/get-device-position-history.html)|[Get-LOCDevicePositionHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCDevicePositionHistory.html)|
 |[aws location get-geofence](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/get-geofence.html)|[Get-LOCGeofence](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LOCGeofence.html)|
@@ -71,4 +72,5 @@ description: aws location (Amazon Location) command/cmdlet list.
 |[aws location update-place-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/update-place-index.html)|[Edit-LOCPlaceIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCPlaceIndex.html)|
 |[aws location update-route-calculator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/update-route-calculator.html)|[Edit-LOCRouteCalculator](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCRouteCalculator.html)|
 |[aws location update-tracker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/update-tracker.html)|[Edit-LOCTracker](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-LOCTracker.html)|
+|[aws location verify-device-position](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/location/verify-device-position.html)|[Invoke-LOCVerifyDevicePositionOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LOCVerifyDevicePositionOperation.html)|
 

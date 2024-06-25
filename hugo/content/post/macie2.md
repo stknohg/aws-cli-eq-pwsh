@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2024-06-13
+date: 2024-06-25
 description: aws macie2 (Amazon Macie) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |----|----|
 |[aws macie2 accept-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/accept-invitation.html)|[Approve-MAC2Invitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-MAC2Invitation.html)|
 |[aws macie2 batch-get-custom-data-identifiers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/batch-get-custom-data-identifiers.html)|[Get-MAC2GetCustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2GetCustomDataIdentifier.html)|
+|[aws macie2 batch-update-automated-discovery-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/batch-update-automated-discovery-accounts.html)|[Update-MAC2UpdateAutomatedDiscoveryAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MAC2UpdateAutomatedDiscoveryAccount.html)|
 |[aws macie2 create-allow-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/create-allow-list.html)|[New-MAC2AllowList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2AllowList.html)|
 |[aws macie2 create-classification-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/create-classification-job.html)|[New-MAC2ClassificationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2ClassificationJob.html)|
 |[aws macie2 create-custom-data-identifier](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/create-custom-data-identifier.html)|[New-MAC2CustomDataIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MAC2CustomDataIdentifier.html)|
@@ -61,6 +62,7 @@ description: aws macie2 (Amazon Macie) command/cmdlet list.
 |[aws macie2 get-usage-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/get-usage-statistics.html)|[Get-MAC2UsageStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2UsageStatistic.html)|
 |[aws macie2 get-usage-totals](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/get-usage-totals.html)|[Get-MAC2UsageTotal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2UsageTotal.html)|
 |[aws macie2 list-allow-lists](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/list-allow-lists.html)|[Get-MAC2AllowListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2AllowListList.html)|
+|[aws macie2 list-automated-discovery-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/list-automated-discovery-accounts.html)|[Get-MAC2AutomatedDiscoveryAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2AutomatedDiscoveryAccountList.html)|
 |[aws macie2 list-classification-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/list-classification-jobs.html)|[Get-MAC2ClassificationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ClassificationJobList.html)|
 |[aws macie2 list-classification-scopes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/list-classification-scopes.html)|[Get-MAC2ClassificationScopeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2ClassificationScopeList.html)|
 |[aws macie2 list-custom-data-identifiers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/macie2/list-custom-data-identifiers.html)|[Get-MAC2CustomDataIdentifierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MAC2CustomDataIdentifierList.html)|

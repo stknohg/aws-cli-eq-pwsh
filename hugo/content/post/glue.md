@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2024-06-13
+date: 2024-06-25
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -55,6 +55,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue create-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-table.html)|[New-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETable.html)|
 |[aws glue create-table-optimizer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-table-optimizer.html)|[New-GLUETableOptimizer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETableOptimizer.html)|
 |[aws glue create-trigger](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-trigger.html)|[New-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUETrigger.html)|
+|[aws glue create-usage-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-usage-profile.html)|[New-GLUEUsageProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEUsageProfile.html)|
 |[aws glue create-user-defined-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-user-defined-function.html)|[New-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEUserDefinedFunction.html)|
 |[aws glue create-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-workflow.html)|[New-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEWorkflow.html)|
 |[aws glue delete-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-blueprint.html)|[Remove-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEBlueprint.html)|
@@ -81,6 +82,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-table-optimizer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-table-optimizer.html)|[Remove-GLUETableOptimizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableOptimizer.html)|
 |[aws glue delete-table-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-table-version.html)|[Remove-GLUETableVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETableVersion.html)|
 |[aws glue delete-trigger](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-trigger.html)|[Remove-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUETrigger.html)|
+|[aws glue delete-usage-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-usage-profile.html)|[Remove-GLUEUsageProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEUsageProfile.html)|
 |[aws glue delete-user-defined-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-user-defined-function.html)|[Remove-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEUserDefinedFunction.html)|
 |[aws glue delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-workflow.html)|[Remove-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEWorkflow.html)|
 |[aws glue get-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-blueprint.html)|[Get-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEBlueprint.html)|
@@ -145,6 +147,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-unfiltered-partition-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-unfiltered-partition-metadata.html)|[Get-GLUEUnfilteredPartitionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUnfilteredPartitionMetadata.html)|
 |[aws glue get-unfiltered-partitions-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-unfiltered-partitions-metadata.html)|[Get-GLUEUnfilteredPartitionsMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUnfilteredPartitionsMetadata.html)|
 |[aws glue get-unfiltered-table-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-unfiltered-table-metadata.html)|[Get-GLUEUnfilteredTableMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUnfilteredTableMetadata.html)|
+|[aws glue get-usage-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-usage-profile.html)|[Get-GLUEUsageProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUsageProfile.html)|
 |[aws glue get-user-defined-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-user-defined-function.html)|[Get-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUserDefinedFunction.html)|
 |[aws glue get-user-defined-functions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-user-defined-functions.html)|[Get-GLUEUserDefinedFunctionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUserDefinedFunctionList.html)|
 |[aws glue get-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-workflow.html)|[Get-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflow.html)|
@@ -171,6 +174,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue list-statements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-statements.html)|[Get-GLUEStatementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEStatementList.html)|
 |[aws glue list-table-optimizer-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-table-optimizer-runs.html)|[Get-GLUETableOptimizerRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETableOptimizerRunList.html)|
 |[aws glue list-triggers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-triggers.html)|[Get-GLUETriggerNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETriggerNameList.html)|
+|[aws glue list-usage-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-usage-profiles.html)|[Get-GLUEUsageProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEUsageProfileList.html)|
 |[aws glue list-workflows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-workflows.html)|[Get-GLUEWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEWorkflowList.html)|
 |[aws glue put-data-catalog-encryption-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-data-catalog-encryption-settings.html)|[Set-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEDataCatalogEncryptionSetting.html)|
 |[aws glue put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-resource-policy.html)|[Set-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEResourcePolicy.html)|
@@ -224,6 +228,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue update-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-table.html)|[Update-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETable.html)|
 |[aws glue update-table-optimizer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-table-optimizer.html)|[Update-GLUETableOptimizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETableOptimizer.html)|
 |[aws glue update-trigger](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-trigger.html)|[Update-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUETrigger.html)|
+|[aws glue update-usage-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-usage-profile.html)|[Update-GLUEUsageProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEUsageProfile.html)|
 |[aws glue update-user-defined-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-user-defined-function.html)|[Update-GLUEUserDefinedFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEUserDefinedFunction.html)|
 |[aws glue update-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-workflow.html)|[Update-GLUEWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEWorkflow.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: repostspace
-date: 2024-06-13
+date: 2024-06-25
 description: aws repostspace (AWS re:Post Private) command/cmdlet list.
 ---
 

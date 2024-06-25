@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2024-06-13
+date: 2024-06-25
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms delete-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/delete-alias.html)|[Remove-KMSAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KMSAlias.html)|
 |[aws kms delete-custom-key-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/delete-custom-key-store.html)|[Remove-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KMSCustomKeyStore.html)|
 |[aws kms delete-imported-key-material](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/delete-imported-key-material.html)|[Remove-KMSImportedKeyMaterial](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KMSImportedKeyMaterial.html)|
+|[aws kms derive-shared-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/derive-shared-secret.html)|[Get-KMSSharedSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSSharedSecret.html)|
 |[aws kms describe-custom-key-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/describe-custom-key-stores.html)|[Get-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSCustomKeyStore.html)|
 |[aws kms describe-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/describe-key.html)|[Get-KMSKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKey.html)|
 |[aws kms disable-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/disable-key.html)|[Disable-KMSKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-KMSKey.html)|

@@ -1,6 +1,6 @@
 ---
 title: drs
-date: 2024-06-13
+date: 2024-06-25
 description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 ---
 

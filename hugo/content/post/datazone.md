@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2024-06-25
+date: 2024-07-09
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -71,6 +71,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-glossary-term](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-glossary-term.html)|[Get-DZGlossaryTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZGlossaryTerm.html)|
 |[aws datazone get-group-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-group-profile.html)|[Get-DZGroupProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZGroupProfile.html)|
 |[aws datazone get-iam-portal-login-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-iam-portal-login-url.html)|[Get-DZIamPortalLoginUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZIamPortalLoginUrl.html)|
+|[aws datazone get-lineage-node](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-lineage-node.html)|[Get-DZLineageNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZLineageNode.html)|
 |[aws datazone get-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-listing.html)|[Get-DZListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZListing.html)|
 |[aws datazone get-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-metadata-generation-run.html)|[Get-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZMetadataGenerationRun.html)|
 |[aws datazone get-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-project.html)|[Get-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProject.html)|
@@ -90,6 +91,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone list-environment-blueprints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-environment-blueprints.html)|[Get-DZEnvironmentBlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZEnvironmentBlueprintList.html)|
 |[aws datazone list-environment-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-environment-profiles.html)|[Get-DZEnvironmentProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZEnvironmentProfileList.html)|
 |[aws datazone list-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-environments.html)|[Get-DZEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZEnvironmentList.html)|
+|[aws datazone list-lineage-node-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-lineage-node-history.html)|[Get-DZLineageNodeHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZLineageNodeHistoryList.html)|
 |[aws datazone list-metadata-generation-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-metadata-generation-runs.html)|[Get-DZMetadataGenerationRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZMetadataGenerationRunList.html)|
 |[aws datazone list-notifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-notifications.html)|[Get-DZNotificationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZNotificationList.html)|
 |[aws datazone list-project-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-project-memberships.html)|[Get-DZProjectMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProjectMembershipList.html)|
@@ -100,6 +102,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone list-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-subscriptions.html)|[Get-DZSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionList.html)|
 |[aws datazone list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-tags-for-resource.html)|[Get-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZResourceTag.html)|
 |[aws datazone list-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-time-series-data-points.html)|[Get-DZTimeSeriesDataPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZTimeSeriesDataPointList.html)|
+|[aws datazone post-lineage-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/post-lineage-event.html)|[Submit-DZLineageEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-DZLineageEvent.html)|
 |[aws datazone post-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/post-time-series-data-points.html)|[New-DZTimeSeriesDataPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZTimeSeriesDataPoint.html)|
 |[aws datazone put-environment-blueprint-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/put-environment-blueprint-configuration.html)|[Write-DZEnvironmentBlueprintConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DZEnvironmentBlueprintConfiguration.html)|
 |[aws datazone reject-predictions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/reject-predictions.html)|[Deny-DZPrediction](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DZPrediction.html)|

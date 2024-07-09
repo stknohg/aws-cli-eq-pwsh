@@ -1,6 +1,6 @@
 ---
 title: compute-optimizer
-date: 2024-06-25
+date: 2024-07-09
 description: aws compute-optimizer (AWS Compute Optimizer) command/cmdlet list.
 ---
 

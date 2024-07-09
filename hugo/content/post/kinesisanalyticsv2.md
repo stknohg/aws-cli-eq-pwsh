@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2024-06-25
+date: 2024-07-09
 description: aws kinesisanalyticsv2 (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -30,9 +30,11 @@ description: aws kinesisanalyticsv2 (Amazon Kinesis) command/cmdlet list.
 |[aws kinesisanalyticsv2 delete-application-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/delete-application-snapshot.html)|[Remove-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationSnapshot.html)|
 |[aws kinesisanalyticsv2 delete-application-vpc-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/delete-application-vpc-configuration.html)|[Remove-KINA2ApplicationVpcConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINA2ApplicationVpcConfiguration.html)|
 |[aws kinesisanalyticsv2 describe-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/describe-application.html)|[Get-KINA2Application](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2Application.html)|
+|[aws kinesisanalyticsv2 describe-application-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/describe-application-operation.html)|[Get-KINA2ApplicationOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationOperation.html)|
 |[aws kinesisanalyticsv2 describe-application-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/describe-application-snapshot.html)|[Get-KINA2ApplicationSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationSnapshot.html)|
 |[aws kinesisanalyticsv2 describe-application-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/describe-application-version.html)|[Get-KINA2ApplicationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationVersion.html)|
 |[aws kinesisanalyticsv2 discover-input-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/discover-input-schema.html)|[Find-KINA2InputSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-KINA2InputSchema.html)|
+|[aws kinesisanalyticsv2 list-application-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/list-application-operations.html)|[Get-KINA2ApplicationOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationOperationList.html)|
 |[aws kinesisanalyticsv2 list-application-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/list-application-snapshots.html)|[Get-KINA2ApplicationSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationSnapshotList.html)|
 |[aws kinesisanalyticsv2 list-application-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/list-application-versions.html)|[Get-KINA2ApplicationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationVersionList.html)|
 |[aws kinesisanalyticsv2 list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisanalyticsv2/list-applications.html)|[Get-KINA2ApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINA2ApplicationList.html)|

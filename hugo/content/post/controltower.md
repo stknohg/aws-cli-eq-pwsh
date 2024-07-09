@@ -1,6 +1,6 @@
 ---
 title: controltower
-date: 2024-06-25
+date: 2024-07-09
 description: aws controltower (AWS Control Tower) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws controltower (AWS Control Tower) command/cmdlet list.
 |[aws controltower list-control-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-control-operations.html)|[Get-ACTControlOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTControlOperationList.html)|
 |[aws controltower list-enabled-baselines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-enabled-baselines.html)|[Get-ACTEnabledBaselineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTEnabledBaselineList.html)|
 |[aws controltower list-enabled-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-enabled-controls.html)|[Get-ACTEnabledControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTEnabledControlList.html)|
+|[aws controltower list-landing-zone-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-landing-zone-operations.html)|[Get-ACTLandingZoneOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTLandingZoneOperationList.html)|
 |[aws controltower list-landing-zones](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-landing-zones.html)|[Get-ACTLandingZoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTLandingZoneList.html)|
 |[aws controltower list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-tags-for-resource.html)|[Get-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTResourceTag.html)|
 |[aws controltower reset-enabled-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/reset-enabled-baseline.html)|[Reset-ACTEnabledBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-ACTEnabledBaseline.html)|

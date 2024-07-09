@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2024-06-25
+date: 2024-07-09
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -84,6 +84,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-view-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-view-version.html)|[Remove-CONNViewVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNViewVersion.html)|
 |[aws connect delete-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-vocabulary.html)|[Remove-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNVocabulary.html)|
 |[aws connect describe-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-agent-status.html)|[Get-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatus.html)|
+|[aws connect describe-authentication-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-authentication-profile.html)|[Get-CONNAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAuthenticationProfile.html)|
 |[aws connect describe-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-contact.html)|[Get-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContact.html)|
 |[aws connect describe-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-contact-evaluation.html)|[Get-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactEvaluation.html)|
 |[aws connect describe-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-contact-flow.html)|[Get-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlow.html)|
@@ -136,6 +137,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-agent-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-agent-statuses.html)|[Get-CONNAgentStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatusList.html)|
 |[aws connect list-analytics-data-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-analytics-data-associations.html)|[Get-CONNAnalyticsDataAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAnalyticsDataAssociationList.html)|
 |[aws connect list-approved-origins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
+|[aws connect list-authentication-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-authentication-profiles.html)|[Get-CONNAuthenticationProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAuthenticationProfileList.html)|
 |[aws connect list-bots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
 |[aws connect list-contact-evaluations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-evaluations.html)|[Get-CONNContactEvaluationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactEvaluationList.html)|
 |[aws connect list-contact-flow-modules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-flow-modules.html)|[Get-CONNContactFlowModuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowModuleList.html)|
@@ -218,6 +220,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect untag-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/untag-contact.html)|[Remove-CONNContactTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactTag.html)|
 |[aws connect untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/untag-resource.html)|[Remove-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNResourceTag.html)|
 |[aws connect update-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-agent-status.html)|[Update-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAgentStatus.html)|
+|[aws connect update-authentication-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-authentication-profile.html)|[Update-CONNAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAuthenticationProfile.html)|
 |[aws connect update-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact.html)|[Update-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContact.html)|
 |[aws connect update-contact-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact-attributes.html)|[Update-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactAttribute.html)|
 |[aws connect update-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact-evaluation.html)|[Update-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactEvaluation.html)|

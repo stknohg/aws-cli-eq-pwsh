@@ -1721,6 +1721,12 @@
     "Url": "https://aws.amazon.com/proton/",
     "Note": ""
   },
+  "qapps": {
+    "Prefix": "QAPPS",
+    "Name": "Amazon Q Apps",
+    "Url": "https://aws.amazon.com/q/business/",
+    "Note": ""
+  },
   "qbusiness": {
     "Prefix": "QBUS",
     "Name": "Amazon Q for Your Business",

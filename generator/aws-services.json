@@ -1493,12 +1493,6 @@
     "Url": "https://aws.amazon.com/migration-hub/",
     "Note": ""
   },
-  "mobile": {
-    "Prefix": "MOBL",
-    "Name": "AWS Mobile",
-    "Url": "https://aws.amazon.com/amplify/",
-    "Note": ""
-  },
   "mq": {
     "Prefix": "MQ",
     "Name": "Amazon MQ",

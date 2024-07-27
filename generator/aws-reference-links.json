@@ -247,7 +247,6 @@
   "migrationhub-config": "https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubConfig_cmdlets.html",
   "migrationhuborchestrator": "https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubOrchestrator_cmdlets.html",
   "migrationhubstrategy": "https://docs.aws.amazon.com/powershell/latest/reference/items/MigrationHubStrategyRecommendations_cmdlets.html",
-  "mobile": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Mobile_cmdlets.html",
   "mq": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MQ_cmdlets.html",
   "mturk": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_MTurk_Service_cmdlets.html",
   "mwaa": "https://docs.aws.amazon.com/powershell/latest/reference/items/MWAA_cmdlets.html",

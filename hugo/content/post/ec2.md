@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-07-09
+date: 2024-07-27
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -89,6 +89,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-instance-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-instance-export-task.html)|[New-EC2InstanceExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceExportTask.html)|
 |[aws ec2 create-internet-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-internet-gateway.html)|[New-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InternetGateway.html)|
 |[aws ec2 create-ipam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-ipam.html)|[New-EC2Ipam](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Ipam.html)|
+|[aws ec2 create-ipam-external-resource-verification-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-ipam-external-resource-verification-token.html)|[New-EC2IpamExternalResourceVerificationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IpamExternalResourceVerificationToken.html)|
 |[aws ec2 create-ipam-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-ipam-pool.html)|[New-EC2IpamPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IpamPool.html)|
 |[aws ec2 create-ipam-resource-discovery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-ipam-resource-discovery.html)|[New-EC2IpamResourceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IpamResourceDiscovery.html)|
 |[aws ec2 create-ipam-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-ipam-scope.html)|[New-EC2IpamScope](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2IpamScope.html)|
@@ -165,6 +166,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-instance-event-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-instance-event-window.html)|[Remove-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InstanceEventWindow.html)|
 |[aws ec2 delete-internet-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-internet-gateway.html)|[Remove-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InternetGateway.html)|
 |[aws ec2 delete-ipam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-ipam.html)|[Remove-EC2Ipam](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Ipam.html)|
+|[aws ec2 delete-ipam-external-resource-verification-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-ipam-external-resource-verification-token.html)|[Remove-EC2IpamExternalResourceVerificationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IpamExternalResourceVerificationToken.html)|
 |[aws ec2 delete-ipam-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-ipam-pool.html)|[Remove-EC2IpamPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IpamPool.html)|
 |[aws ec2 delete-ipam-resource-discovery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-ipam-resource-discovery.html)|[Remove-EC2IpamResourceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IpamResourceDiscovery.html)|
 |[aws ec2 delete-ipam-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-ipam-scope.html)|[Remove-EC2IpamScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IpamScope.html)|
@@ -289,6 +291,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instances.html)|[Get-EC2Instance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Instance.html)|
 |[aws ec2 describe-internet-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-internet-gateways.html)|[Get-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InternetGateway.html)|
 |[aws ec2 describe-ipam-byoasn](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-byoasn.html)|[Get-EC2IpamByoasn](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamByoasn.html)|
+|[aws ec2 describe-ipam-external-resource-verification-tokens](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-external-resource-verification-tokens.html)|[Get-EC2IpamExternalResourceVerificationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamExternalResourceVerificationToken.html)|
 |[aws ec2 describe-ipam-pools](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-pools.html)|[Get-EC2IpamPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPool.html)|
 |[aws ec2 describe-ipam-resource-discoveries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-resource-discoveries.html)|[Get-EC2IpamResourceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamResourceDiscovery.html)|
 |[aws ec2 describe-ipam-resource-discovery-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-resource-discovery-associations.html)|[Get-EC2IpamResourceDiscoveryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamResourceDiscoveryAssociation.html)|

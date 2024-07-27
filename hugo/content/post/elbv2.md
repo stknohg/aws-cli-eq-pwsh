@@ -1,6 +1,6 @@
 ---
 title: elbv2
-date: 2024-07-09
+date: 2024-07-27
 description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 |[aws elbv2 delete-listener](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-listener.html)|[Remove-ELB2Listener](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2Listener.html)|
 |[aws elbv2 delete-load-balancer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-load-balancer.html)|[Remove-ELB2LoadBalancer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2LoadBalancer.html)|
 |[aws elbv2 delete-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-rule.html)|[Remove-ELB2Rule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2Rule.html)|
+|[aws elbv2 delete-shared-trust-store-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-shared-trust-store-association.html)|[Remove-ELB2SharedTrustStoreAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2SharedTrustStoreAssociation.html)|
 |[aws elbv2 delete-target-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-target-group.html)|[Remove-ELB2TargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2TargetGroup.html)|
 |[aws elbv2 delete-trust-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-trust-store.html)|[Remove-ELB2TrustStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2TrustStore.html)|
 |[aws elbv2 deregister-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/deregister-targets.html)|[Unregister-ELB2Target](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ELB2Target.html)|
@@ -41,6 +42,7 @@ description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 |[aws elbv2 describe-trust-store-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-trust-store-associations.html)|[Get-ELB2TrustStoreAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreAssociation.html)|
 |[aws elbv2 describe-trust-store-revocations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-trust-store-revocations.html)|[Get-ELB2TrustStoreRevocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreRevocation.html)|
 |[aws elbv2 describe-trust-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-trust-stores.html)|[Get-ELB2TrustStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStore.html)|
+|[aws elbv2 get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-resource-policy.html)|[Get-ELB2ResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2ResourcePolicy.html)|
 |[aws elbv2 get-trust-store-ca-certificates-bundle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-trust-store-ca-certificates-bundle.html)|[Get-ELB2TrustStoreCaCertificatesBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreCaCertificatesBundle.html)|
 |[aws elbv2 get-trust-store-revocation-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-trust-store-revocation-content.html)|[Get-ELB2TrustStoreRevocationContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreRevocationContent.html)|
 |[aws elbv2 modify-listener](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-listener.html)|[Edit-ELB2Listener](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2Listener.html)|

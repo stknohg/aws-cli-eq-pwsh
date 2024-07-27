@@ -1,6 +1,6 @@
 ---
 title: bedrock-runtime
-date: 2024-07-09
+date: 2024-07-27
 description: aws bedrock-runtime (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws bedrock-runtime (Amazon Bedrock) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws bedrock-runtime apply-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-runtime/apply-guardrail.html)|[Invoke-BDRRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BDRRGuardrail.html)|
 |[aws bedrock-runtime converse](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-runtime/converse.html)|[Invoke-BDRRConverse](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BDRRConverse.html)|
 |[aws bedrock-runtime invoke-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-runtime/invoke-model.html)|[Invoke-BDRRModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BDRRModel.html)|
 

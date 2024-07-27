@@ -1,6 +1,6 @@
 ---
 title: account
-date: 2024-07-09
+date: 2024-07-27
 description: aws account (AWS Account Management) command/cmdlet list.
 ---
 

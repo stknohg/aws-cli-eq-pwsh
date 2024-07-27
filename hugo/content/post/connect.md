@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2024-07-09
+date: 2024-07-27
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -186,6 +186,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect replicate-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/replicate-instance.html)|[Copy-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-CONNInstance.html)|
 |[aws connect resume-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/resume-contact.html)|[Invoke-CONNResumeContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CONNResumeContact.html)|
 |[aws connect resume-contact-recording](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/resume-contact-recording.html)|[Resume-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CONNContactRecording.html)|
+|[aws connect search-agent-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-agent-statuses.html)|[Search-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNAgentStatus.html)|
 |[aws connect search-available-phone-numbers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-available-phone-numbers.html)|[Search-CONNAvailablePhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNAvailablePhoneNumber.html)|
 |[aws connect search-contact-flow-modules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-contact-flow-modules.html)|[Search-CONNContactFlowModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNContactFlowModule.html)|
 |[aws connect search-contact-flows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-contact-flows.html)|[Search-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNContactFlow.html)|
@@ -198,6 +199,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect search-resource-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-resource-tags.html)|[Search-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNResourceTag.html)|
 |[aws connect search-routing-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-routing-profiles.html)|[Search-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNRoutingProfile.html)|
 |[aws connect search-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-security-profiles.html)|[Search-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNSecurityProfile.html)|
+|[aws connect search-user-hierarchy-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-user-hierarchy-groups.html)|[Search-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNUserHierarchyGroup.html)|
 |[aws connect search-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-users.html)|[Search-CONNUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNUser.html)|
 |[aws connect search-vocabularies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-vocabularies.html)|[Search-CONNVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNVocabulary.html)|
 |[aws connect send-chat-integration-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/send-chat-integration-event.html)|[Send-CONNChatIntegrationEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-CONNChatIntegrationEvent.html)|

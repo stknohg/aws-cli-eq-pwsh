@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2024-07-09
+date: 2024-07-27
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -13,6 +13,8 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws quicksight batch-create-topic-reviewed-answer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/batch-create-topic-reviewed-answer.html)|[Set-QSBatchCreateTopicReviewedAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-QSBatchCreateTopicReviewedAnswer.html)|
+|[aws quicksight batch-delete-topic-reviewed-answer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/batch-delete-topic-reviewed-answer.html)|[Set-QSBatchDeleteTopicReviewedAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-QSBatchDeleteTopicReviewedAnswer.html)|
 |[aws quicksight cancel-ingestion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/cancel-ingestion.html)|[Stop-QSIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-QSIngestion.html)|
 |[aws quicksight create-account-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-account-customization.html)|[New-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSAccountCustomization.html)|
 |[aws quicksight create-account-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-account-subscription.html)|[New-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSAccountSubscription.html)|
@@ -135,6 +137,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight list-theme-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-theme-versions.html)|[Get-QSThemeVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeVersionList.html)|
 |[aws quicksight list-themes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-themes.html)|[Get-QSThemeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSThemeList.html)|
 |[aws quicksight list-topic-refresh-schedules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-topic-refresh-schedules.html)|[Get-QSTopicRefreshScheduleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicRefreshScheduleList.html)|
+|[aws quicksight list-topic-reviewed-answers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-topic-reviewed-answers.html)|[Get-QSTopicReviewedAnswerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicReviewedAnswerList.html)|
 |[aws quicksight list-topics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-topics.html)|[Get-QSTopicList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTopicList.html)|
 |[aws quicksight list-user-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-user-groups.html)|[Get-QSUserGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserGroupList.html)|
 |[aws quicksight list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-users.html)|[Get-QSUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSUserList.html)|

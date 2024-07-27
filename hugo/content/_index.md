@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-07-09
+date: 2024-07-27
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.615 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.17.18 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.623 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -268,7 +268,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Migration Hub Config](https://aws.amazon.com/migration-hub/)|[migrationhub-config]({{%relref "post/migrationhub-config.md" %}})|MHC||
 |[AWS Migration Hub Orchestrator](https://aws.amazon.com/migration-hub/)|[migrationhuborchestrator]({{%relref "post/migrationhuborchestrator.md" %}})|MHO||
 |[AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/migration-hub/)|[migrationhubstrategy]({{%relref "post/migrationhubstrategy.md" %}})|MHS||
-|[AWS Mobile](https://aws.amazon.com/amplify/)|[mobile]({{%relref "post/mobile.md" %}})|MOBL||
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||
 |[Amazon Mechanical Turk](https://www.mturk.com/)|[mturk]({{%relref "post/mturk.md" %}})|MTR||
 |[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/)|[mwaa]({{%relref "post/mwaa.md" %}})|MWAA||

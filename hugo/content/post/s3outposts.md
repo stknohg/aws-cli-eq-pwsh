@@ -1,6 +1,6 @@
 ---
 title: s3outposts
-date: 2024-07-09
+date: 2024-07-27
 description: aws s3outposts (Amazon S3 on Outposts) command/cmdlet list.
 ---
 

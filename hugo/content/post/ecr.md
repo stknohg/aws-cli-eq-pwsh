@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2024-07-09
+date: 2024-07-27
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 
@@ -20,10 +20,12 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr complete-layer-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/complete-layer-upload.html)|[Complete-ECRLayerUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-ECRLayerUpload.html)|
 |[aws ecr create-pull-through-cache-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/create-pull-through-cache-rule.html)|[New-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECRPullThroughCacheRule.html)|
 |[aws ecr create-repository](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/create-repository.html)|[New-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECRRepository.html)|
+|[aws ecr create-repository-creation-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/create-repository-creation-template.html)|[New-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECRRepositoryCreationTemplate.html)|
 |[aws ecr delete-lifecycle-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-lifecycle-policy.html)|[Remove-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRLifecyclePolicy.html)|
 |[aws ecr delete-pull-through-cache-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-pull-through-cache-rule.html)|[Remove-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRPullThroughCacheRule.html)|
 |[aws ecr delete-registry-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-registry-policy.html)|[Remove-ECRRegistryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRegistryPolicy.html)|
 |[aws ecr delete-repository](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository.html)|[Remove-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepository.html)|
+|[aws ecr delete-repository-creation-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository-creation-template.html)|[Remove-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepositoryCreationTemplate.html)|
 |[aws ecr delete-repository-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository-policy.html)|[Remove-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepositoryPolicy.html)|
 |[aws ecr describe-image-replication-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-replication-status.html)|[Get-ECRImageReplicationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageReplicationStatus.html)|
 |[aws ecr describe-image-scan-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-scan-findings.html)|[Get-ECRImageScanFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageScanFinding.html)|
@@ -31,6 +33,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr describe-pull-through-cache-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-pull-through-cache-rules.html)|[Get-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPullThroughCacheRule.html)|
 |[aws ecr describe-registry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-registry.html)|[Get-ECRRegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistry.html)|
 |[aws ecr describe-repositories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repositories.html)|[Get-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepository.html)|
+|[aws ecr describe-repository-creation-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repository-creation-templates.html)|[Get-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepositoryCreationTemplate.html)|
 |[aws ecr get-authorization-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-authorization-token.html)|[Get-ECRAuthorizationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRAuthorizationToken.html)|
 |[aws ecr get-download-url-for-layer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-download-url-for-layer.html)|[Get-ECRDownloadUrlForLayer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRDownloadUrlForLayer.html)|
 |[aws ecr get-lifecycle-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-lifecycle-policy.html)|[Get-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRLifecyclePolicy.html)|
@@ -55,6 +58,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/tag-resource.html)|[Add-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECRResourceTag.html)|
 |[aws ecr untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/untag-resource.html)|[Remove-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRResourceTag.html)|
 |[aws ecr update-pull-through-cache-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/update-pull-through-cache-rule.html)|[Update-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECRPullThroughCacheRule.html)|
+|[aws ecr update-repository-creation-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/update-repository-creation-template.html)|[Update-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECRRepositoryCreationTemplate.html)|
 |[aws ecr upload-layer-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/upload-layer-part.html)|[Send-ECRLayerPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ECRLayerPart.html)|
 |[aws ecr validate-pull-through-cache-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/validate-pull-through-cache-rule.html)|[Test-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECRPullThroughCacheRule.html)|
 

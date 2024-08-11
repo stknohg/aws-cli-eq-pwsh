@@ -2105,6 +2105,12 @@
     "Url": "https://aws.amazon.com/systems-manager/",
     "Note": ""
   },
+  "ssm-quicksetup": {
+    "Prefix": "SSMQS",
+    "Name": "AWS Systems Manager Quick Setup",
+    "Url": "https://aws.amazon.com/systems-manager/",
+    "Note": ""
+  },
   "ssm-sap": {
     "Prefix": "SMSAP",
     "Name": "AWS Systems Manager for SAP",

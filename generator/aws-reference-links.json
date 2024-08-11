@@ -348,6 +348,7 @@
   "ssm": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Systems_Manager_cmdlets.html",
   "ssm-contacts": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSMContacts_cmdlets.html",
   "ssm-incidents": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSMIncidents_cmdlets.html",
+  "ssm-quicksetup": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSMQuickSetup_cmdlets.html",
   "ssm-sap": "https://docs.aws.amazon.com/powershell/latest/reference/items/SsmSap_cmdlets.html",
   "sso-admin": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSOAdmin_cmdlets.html",
   "sso-oidc": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSOOIDC_cmdlets.html",

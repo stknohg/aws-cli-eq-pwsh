@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-07-27
+date: 2024-08-11
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.18 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.623 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.17.27 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.632 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -370,6 +370,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||
 |[AWS Systems Manager Contacts](https://aws.amazon.com/systems-manager/)|[ssm-contacts]({{%relref "post/ssm-contacts.md" %}})|SMC||
 |[AWS Systems Manager Incident Manager](https://aws.amazon.com/systems-manager/)|[ssm-incidents]({{%relref "post/ssm-incidents.md" %}})|SSMI||
+|[AWS Systems Manager Quick Setup](https://aws.amazon.com/systems-manager/)|[ssm-quicksetup]({{%relref "post/ssm-quicksetup.md" %}})|SSMQS||
 |[AWS Systems Manager for SAP](https://aws.amazon.com/systems-manager/)|[ssm-sap]({{%relref "post/ssm-sap.md" %}})|SMSAP||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso]({{%relref "post/sso.md" %}})|SSO||
 |[AWS Single Sign-On](https://aws.amazon.com/single-sign-on/)|[sso-admin]({{%relref "post/sso-admin.md" %}})|SSOADMN||

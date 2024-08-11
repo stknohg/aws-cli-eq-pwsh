@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2024-07-27
+date: 2024-08-11
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock create-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-evaluation-job.html)|[New-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDREvaluationJob.html)|
 |[aws bedrock create-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail.html)|[New-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrail.html)|
 |[aws bedrock create-guardrail-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail-version.html)|[New-BDRGuardrailVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrailVersion.html)|
+|[aws bedrock create-model-copy-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-copy-job.html)|[New-BDRModelCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelCopyJob.html)|
 |[aws bedrock create-model-customization-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-customization-job.html)|[New-BDRModelCustomizationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelCustomizationJob.html)|
 |[aws bedrock create-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-provisioned-model-throughput.html)|[New-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRProvisionedModelThroughput.html)|
 |[aws bedrock delete-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-custom-model.html)|[Remove-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRCustomModel.html)|
@@ -26,6 +27,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock get-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-evaluation-job.html)|[Get-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDREvaluationJob.html)|
 |[aws bedrock get-foundation-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-foundation-model.html)|[Get-BDRFoundationModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModel.html)|
 |[aws bedrock get-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-guardrail.html)|[Get-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRGuardrail.html)|
+|[aws bedrock get-model-copy-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-model-copy-job.html)|[Get-BDRModelCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCopyJob.html)|
 |[aws bedrock get-model-customization-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-model-customization-job.html)|[Get-BDRModelCustomizationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCustomizationJob.html)|
 |[aws bedrock get-model-invocation-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-model-invocation-logging-configuration.html)|[Get-BDRModelInvocationLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelInvocationLoggingConfiguration.html)|
 |[aws bedrock get-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-provisioned-model-throughput.html)|[Get-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRProvisionedModelThroughput.html)|
@@ -33,6 +35,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock list-evaluation-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-evaluation-jobs.html)|[Get-BDREvaluationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDREvaluationJobList.html)|
 |[aws bedrock list-foundation-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-foundation-models.html)|[Get-BDRFoundationModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModelList.html)|
 |[aws bedrock list-guardrails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-guardrails.html)|[Get-BDRGuardrailList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRGuardrailList.html)|
+|[aws bedrock list-model-copy-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-model-copy-jobs.html)|[Get-BDRModelCopyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCopyJobList.html)|
 |[aws bedrock list-model-customization-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-model-customization-jobs.html)|[Get-BDRModelCustomizationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCustomizationJobList.html)|
 |[aws bedrock list-provisioned-model-throughputs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-provisioned-model-throughputs.html)|[Get-BDRProvisionedModelThroughputList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRProvisionedModelThroughputList.html)|
 |[aws bedrock list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-tags-for-resource.html)|[Get-BDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRResourceTag.html)|

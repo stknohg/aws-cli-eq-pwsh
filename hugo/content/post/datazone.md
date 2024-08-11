@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2024-07-27
+date: 2024-08-11
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -22,6 +22,8 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone create-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-asset-filter.html)|[New-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAssetFilter.html)|
 |[aws datazone create-asset-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-asset-revision.html)|[New-DZAssetRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAssetRevision.html)|
 |[aws datazone create-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-asset-type.html)|[New-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAssetType.html)|
+|[aws datazone create-data-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-data-product.html)|[New-DZDataProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZDataProduct.html)|
+|[aws datazone create-data-product-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-data-product-revision.html)|[New-DZDataProductRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZDataProductRevision.html)|
 |[aws datazone create-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-data-source.html)|[New-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZDataSource.html)|
 |[aws datazone create-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-domain.html)|[New-DZDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZDomain.html)|
 |[aws datazone create-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-environment.html)|[New-DZEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZEnvironment.html)|
@@ -41,6 +43,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset.html)|[Remove-DZAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAsset.html)|
 |[aws datazone delete-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset-filter.html)|[Remove-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAssetFilter.html)|
 |[aws datazone delete-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset-type.html)|[Remove-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAssetType.html)|
+|[aws datazone delete-data-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-data-product.html)|[Remove-DZDataProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDataProduct.html)|
 |[aws datazone delete-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-data-source.html)|[Remove-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDataSource.html)|
 |[aws datazone delete-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-domain.html)|[Remove-DZDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDomain.html)|
 |[aws datazone delete-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-environment.html)|[Remove-DZEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEnvironment.html)|
@@ -61,6 +64,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset.html)|[Get-DZAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAsset.html)|
 |[aws datazone get-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-filter.html)|[Get-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetFilter.html)|
 |[aws datazone get-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-type.html)|[Get-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetType.html)|
+|[aws datazone get-data-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-product.html)|[Get-DZDataProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataProduct.html)|
 |[aws datazone get-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-source.html)|[Get-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSource.html)|
 |[aws datazone get-data-source-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-source-run.html)|[Get-DZDataSourceRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSourceRun.html)|
 |[aws datazone get-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-domain.html)|[Get-DZDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDomain.html)|
@@ -87,6 +91,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-user-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-user-profile.html)|[Get-DZUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZUserProfile.html)|
 |[aws datazone list-asset-filters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-asset-filters.html)|[Get-DZAssetFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetFilterList.html)|
 |[aws datazone list-asset-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-asset-revisions.html)|[Get-DZAssetRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetRevisionList.html)|
+|[aws datazone list-data-product-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-data-product-revisions.html)|[Get-DZDataProductRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataProductRevisionList.html)|
 |[aws datazone list-data-source-run-activities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-data-source-run-activities.html)|[Get-DZDataSourceRunActivityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSourceRunActivityList.html)|
 |[aws datazone list-data-source-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-data-source-runs.html)|[Get-DZDataSourceRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSourceRunList.html)|
 |[aws datazone list-data-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-data-sources.html)|[Get-DZDataSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSourceList.html)|

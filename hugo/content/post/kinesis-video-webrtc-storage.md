@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-webrtc-storage
-date: 2024-07-27
+date: 2024-08-11
 description: aws kinesis-video-webrtc-storage (Amazon Kinesis Video WebRTC Storage) command/cmdlet list.
 ---
 
@@ -14,4 +14,5 @@ description: aws kinesis-video-webrtc-storage (Amazon Kinesis Video WebRTC Stora
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws kinesis-video-webrtc-storage join-storage-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis-video-webrtc-storage/join-storage-session.html)|[Join-KVWSStorageSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-KVWSStorageSession.html)|
+|[aws kinesis-video-webrtc-storage join-storage-session-as-viewer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis-video-webrtc-storage/join-storage-session-as-viewer.html)|[Join-KVWSStorageSessionAsViewer](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-KVWSStorageSessionAsViewer.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2024-07-27
+date: 2024-08-11
 description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 ---
 
@@ -33,8 +33,11 @@ description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 |[aws codepipeline list-action-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-action-types.html)|[Get-CPActionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionType.html)|
 |[aws codepipeline list-pipeline-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-pipeline-executions.html)|[Get-CPPipelineExecutionSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineExecutionSummary.html)|
 |[aws codepipeline list-pipelines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-pipelines.html)|[Get-CPPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineList.html)|
+|[aws codepipeline list-rule-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-rule-executions.html)|[Get-CPRuleExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPRuleExecutionList.html)|
+|[aws codepipeline list-rule-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-rule-types.html)|[Get-CPRuleTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPRuleTypeList.html)|
 |[aws codepipeline list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-tags-for-resource.html)|[Get-CPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPResourceTag.html)|
 |[aws codepipeline list-webhooks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-webhooks.html)|[Get-CPWebhookList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPWebhookList.html)|
+|[aws codepipeline override-stage-condition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/override-stage-condition.html)|[Skip-CPStageCondition](https://docs.aws.amazon.com/powershell/latest/reference/items/Skip-CPStageCondition.html)|
 |[aws codepipeline poll-for-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/poll-for-jobs.html)|[Get-CPActionableJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionableJobList.html)|
 |[aws codepipeline poll-for-third-party-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/poll-for-third-party-jobs.html)|[Get-CPActionableThirdPartyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionableThirdPartyJobList.html)|
 |[aws codepipeline put-action-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/put-action-revision.html)|[Write-CPActionRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPActionRevision.html)|

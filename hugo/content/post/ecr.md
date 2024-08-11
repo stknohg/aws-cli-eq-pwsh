@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2024-07-27
+date: 2024-08-11
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr describe-registry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-registry.html)|[Get-ECRRegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistry.html)|
 |[aws ecr describe-repositories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repositories.html)|[Get-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepository.html)|
 |[aws ecr describe-repository-creation-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repository-creation-templates.html)|[Get-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepositoryCreationTemplate.html)|
+|[aws ecr get-account-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-account-setting.html)|[Get-ECRAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRAccountSetting.html)|
 |[aws ecr get-authorization-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-authorization-token.html)|[Get-ECRAuthorizationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRAuthorizationToken.html)|
 |[aws ecr get-download-url-for-layer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-download-url-for-layer.html)|[Get-ECRDownloadUrlForLayer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRDownloadUrlForLayer.html)|
 |[aws ecr get-lifecycle-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-lifecycle-policy.html)|[Get-ECRLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRLifecyclePolicy.html)|
@@ -45,6 +46,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr initiate-layer-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/initiate-layer-upload.html)|[Start-ECRLayerUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLayerUpload.html)|
 |[aws ecr list-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|
 |[aws ecr list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-tags-for-resource.html)|[Get-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRResourceTag.html)|
+|[aws ecr put-account-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-account-setting.html)|[Write-ECRAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRAccountSetting.html)|
 |[aws ecr put-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image.html)|[Write-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImage.html)|
 |[aws ecr put-image-scanning-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image-scanning-configuration.html)|[Write-ECRImageScanningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImageScanningConfiguration.html)|
 |[aws ecr put-image-tag-mutability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image-tag-mutability.html)|[Write-ECRImageTagMutability](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImageTagMutability.html)|

@@ -1,6 +1,6 @@
 ---
 title: mturk
-date: 2024-07-27
+date: 2024-08-11
 description: aws mturk (Amazon Mechanical Turk) command/cmdlet list.
 ---
 

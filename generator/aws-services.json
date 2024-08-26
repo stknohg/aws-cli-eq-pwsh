@@ -449,12 +449,6 @@
     "Url": "https://aws.amazon.com/codepipeline/",
     "Note": ""
   },
-  "codestar": {
-    "Prefix": "CST",
-    "Name": "AWS CodeStar",
-    "Url": "https://aws.amazon.com/codestar/",
-    "Note": ""
-  },
   "codestar-connections": {
     "Prefix": "CSTC",
     "Name": "AWS CodeStar Connections ",

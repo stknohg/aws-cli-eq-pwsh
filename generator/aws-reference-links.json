@@ -74,7 +74,6 @@
   "codeguru-security": "https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruSecurity_cmdlets.html",
   "codeguruprofiler": "https://docs.aws.amazon.com/powershell/latest/reference/items/CodeGuruProfiler_cmdlets.html",
   "codepipeline": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodePipeline_cmdlets.html",
-  "codestar": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_CodeStar_cmdlets.html",
   "codestar-connections": "https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarconnections_cmdlets.html",
   "codestar-notifications": "https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarNotifications_cmdlets.html",
   "cognito-identity": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Cognito_Identity_cmdlets.html",

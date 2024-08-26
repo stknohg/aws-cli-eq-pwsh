@@ -1,6 +1,6 @@
 ---
 title: bedrock-runtime
-date: 2024-08-11
+date: 2024-08-26
 description: aws bedrock-runtime (Amazon Bedrock) command/cmdlet list.
 ---
 

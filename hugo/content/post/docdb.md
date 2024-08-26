@@ -1,6 +1,6 @@
 ---
 title: docdb
-date: 2024-08-11
+date: 2024-08-26
 description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 ---
 
@@ -49,6 +49,7 @@ description: aws docdb (Amazon DocumentDB) command/cmdlet list.
 |[aws docdb describe-orderable-db-instance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/describe-orderable-db-instance-options.html)|[Get-DOCOrderableDBInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCOrderableDBInstanceOption.html)|
 |[aws docdb describe-pending-maintenance-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/describe-pending-maintenance-actions.html)|[Get-DOCPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCPendingMaintenanceAction.html)|
 |[aws docdb failover-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/failover-db-cluster.html)|[Start-DOCDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DOCDBClusterFailover.html)|
+|[aws docdb failover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/failover-global-cluster.html)|[Start-DOCFailoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DOCFailoverGlobalCluster.html)|
 |[aws docdb list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/list-tags-for-resource.html)|[Get-DOCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCResourceTag.html)|
 |[aws docdb modify-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/modify-db-cluster.html)|[Edit-DOCDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DOCDBCluster.html)|
 |[aws docdb modify-db-cluster-parameter-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb/modify-db-cluster-parameter-group.html)|[Edit-DOCDBClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-DOCDBClusterParameterGroup.html)|

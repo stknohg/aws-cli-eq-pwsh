@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2024-08-11
+date: 2024-08-26
 description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream create-image-builder-streaming-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-image-builder-streaming-url.html)|[New-APSImageBuilderStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImageBuilderStreamingURL.html)|
 |[aws appstream create-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-stack.html)|[New-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStack.html)|
 |[aws appstream create-streaming-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-streaming-url.html)|[New-APSStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStreamingURL.html)|
+|[aws appstream create-theme-for-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-theme-for-stack.html)|[New-APSThemeForStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSThemeForStack.html)|
 |[aws appstream create-updated-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-updated-image.html)|[New-APSUpdatedImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUpdatedImage.html)|
 |[aws appstream create-usage-report-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-usage-report-subscription.html)|[New-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUsageReportSubscription.html)|
 |[aws appstream create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-user.html)|[New-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSUser.html)|
@@ -44,6 +45,7 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream delete-image-builder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/delete-image-builder.html)|[Remove-APSImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSImageBuilder.html)|
 |[aws appstream delete-image-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/delete-image-permissions.html)|[Remove-APSImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSImagePermission.html)|
 |[aws appstream delete-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/delete-stack.html)|[Remove-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSStack.html)|
+|[aws appstream delete-theme-for-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/delete-theme-for-stack.html)|[Remove-APSThemeForStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSThemeForStack.html)|
 |[aws appstream delete-usage-report-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/delete-usage-report-subscription.html)|[Remove-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSUsageReportSubscription.html)|
 |[aws appstream delete-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/delete-user.html)|[Remove-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSUser.html)|
 |[aws appstream describe-app-block-builder-app-block-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-app-block-builder-app-block-associations.html)|[Get-APSAppBlockBuilderAppBlockAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSAppBlockBuilderAppBlockAssociation.html)|
@@ -59,6 +61,7 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream describe-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-images.html)|[Get-APSImageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSImageList.html)|
 |[aws appstream describe-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-sessions.html)|[Get-APSSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSSessionList.html)|
 |[aws appstream describe-stacks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-stacks.html)|[Get-APSStackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSStackList.html)|
+|[aws appstream describe-theme-for-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-theme-for-stack.html)|[Get-APSThemeForStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSThemeForStack.html)|
 |[aws appstream describe-usage-report-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-usage-report-subscriptions.html)|[Get-APSUsageReportSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUsageReportSubscription.html)|
 |[aws appstream describe-user-stack-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-user-stack-associations.html)|[Get-APSUserStackAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUserStackAssociation.html)|
 |[aws appstream describe-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/describe-users.html)|[Get-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSUser.html)|
@@ -88,4 +91,5 @@ description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
 |[aws appstream update-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-fleet.html)|[Update-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSFleet.html)|
 |[aws appstream update-image-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-image-permissions.html)|[Update-APSImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSImagePermission.html)|
 |[aws appstream update-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-stack.html)|[Update-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSStack.html)|
+|[aws appstream update-theme-for-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-theme-for-stack.html)|[Update-APSThemeForStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSThemeForStack.html)|
 

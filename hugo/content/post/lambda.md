@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2024-08-11
+date: 2024-08-26
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda get-function-concurrency](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-function-concurrency.html)|[Get-LMFunctionConcurrency](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunctionConcurrency.html)|
 |[aws lambda get-function-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-function-configuration.html)|[Get-LMFunctionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunctionConfiguration.html)|
 |[aws lambda get-function-event-invoke-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-function-event-invoke-config.html)|[Get-LMFunctionEventInvokeConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunctionEventInvokeConfig.html)|
+|[aws lambda get-function-recursion-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-function-recursion-config.html)|[Get-LMFunctionRecursionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunctionRecursionConfig.html)|
 |[aws lambda get-function-url-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-function-url-config.html)|[Get-LMFunctionUrlConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMFunctionUrlConfig.html)|
 |[aws lambda get-layer-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-layer-version.html)|[Get-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersion.html)|
 |[aws lambda get-layer-version-by-arn](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-layer-version-by-arn.html)|[Get-LMLayerVersionByArn](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersionByArn.html)|
@@ -65,6 +66,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda put-function-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-code-signing-config.html)|[Write-LMFunctionCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionCodeSigningConfig.html)|
 |[aws lambda put-function-concurrency](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-concurrency.html)|[Write-LMFunctionConcurrency](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionConcurrency.html)|
 |[aws lambda put-function-event-invoke-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-event-invoke-config.html)|[Write-LMFunctionEventInvokeConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionEventInvokeConfig.html)|
+|[aws lambda put-function-recursion-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-recursion-config.html)|[Write-LMFunctionRecursionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionRecursionConfig.html)|
 |[aws lambda put-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-provisioned-concurrency-config.html)|[Write-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMProvisionedConcurrencyConfig.html)|
 |[aws lambda put-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-runtime-management-config.html)|[Write-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMRuntimeManagementConfig.html)|
 |[aws lambda remove-layer-version-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-layer-version-permission.html)|[Remove-LMLayerVersionPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersionPermission.html)|

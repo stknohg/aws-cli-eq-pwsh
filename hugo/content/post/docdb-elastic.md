@@ -1,6 +1,6 @@
 ---
 title: docdb-elastic
-date: 2024-08-11
+date: 2024-08-26
 description: aws docdb-elastic (Amazon DocumentDB Elastic Clusters) command/cmdlet list.
 ---
 

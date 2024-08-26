@@ -1,6 +1,6 @@
 ---
 title: wellarchitected
-date: 2024-08-11
+date: 2024-08-26
 description: aws wellarchitected (AWS Well-Architected Tool) command/cmdlet list.
 ---
 

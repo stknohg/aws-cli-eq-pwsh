@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-08-11
+date: 2024-08-26
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -69,6 +69,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 copy-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/copy-image.html)|[Copy-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-EC2Image.html)|
 |[aws ec2 copy-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/copy-snapshot.html)|[Copy-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-EC2Snapshot.html)|
 |[aws ec2 create-capacity-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation.html)|[Add-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2CapacityReservation.html)|
+|[aws ec2 create-capacity-reservation-by-splitting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation-by-splitting.html)|[New-EC2CapacityReservationBySplitting](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityReservationBySplitting.html)|
 |[aws ec2 create-capacity-reservation-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation-fleet.html)|[New-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityReservationFleet.html)|
 |[aws ec2 create-carrier-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-carrier-gateway.html)|[New-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CarrierGateway.html)|
 |[aws ec2 create-client-vpn-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-client-vpn-endpoint.html)|[New-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ClientVpnEndpoint.html)|
@@ -569,6 +570,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 monitor-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/monitor-instances.html)|[Start-EC2InstanceMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2InstanceMonitoring.html)|
 |[aws ec2 move-address-to-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/move-address-to-vpc.html)|[Move-EC2AddressToVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EC2AddressToVpc.html)|
 |[aws ec2 move-byoip-cidr-to-ipam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/move-byoip-cidr-to-ipam.html)|[Move-EC2ByoipCidrToIpam](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EC2ByoipCidrToIpam.html)|
+|[aws ec2 move-capacity-reservation-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/move-capacity-reservation-instances.html)|[Move-EC2CapacityReservationInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-EC2CapacityReservationInstance.html)|
 |[aws ec2 provision-byoip-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/provision-byoip-cidr.html)|[Register-EC2ByoipCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2ByoipCidr.html)|
 |[aws ec2 provision-ipam-byoasn](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/provision-ipam-byoasn.html)|[Add-EC2IpamByoasn](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2IpamByoasn.html)|
 |[aws ec2 provision-ipam-pool-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/provision-ipam-pool-cidr.html)|[Register-EC2IpamPoolCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2IpamPoolCidr.html)|

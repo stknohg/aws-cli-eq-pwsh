@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-08-11
+date: 2024-08-26
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.27 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.632 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.17.37 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.642 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -95,7 +95,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CodeGuru Security](https://aws.amazon.com/codeguru/)|[codeguru-security]({{%relref "post/codeguru-security.md" %}})|CGS||
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||
 |[AWS CodePipeline](https://aws.amazon.com/codepipeline/)|[codepipeline]({{%relref "post/codepipeline.md" %}})|CP||
-|[AWS CodeStar](https://aws.amazon.com/codestar/)|[codestar]({{%relref "post/codestar.md" %}})|CST||
 |[AWS CodeStar Connections ](https://aws.amazon.com/codestar/)|[codestar-connections]({{%relref "post/codestar-connections.md" %}})|CSTC||
 |[AWS CodeStar Notifications](https://aws.amazon.com/codestar/)|[codestar-notifications]({{%relref "post/codestar-notifications.md" %}})|CSTN||
 |[Amazon Cognito uniquely identifies](https://aws.amazon.com/cognito/)|[cognito-identity]({{%relref "post/cognito-identity.md" %}})|CGI||

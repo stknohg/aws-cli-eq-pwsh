@@ -270,6 +270,7 @@
   "payment-cryptography-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/PaymentCryptographyData_cmdlets.html",
   "pca-connector-ad": "https://docs.aws.amazon.com/powershell/latest/reference/items/PcaConnectorAd_cmdlets.html",
   "pca-connector-scep": "https://docs.aws.amazon.com/powershell/latest/reference/items/PcaConnectorScep_cmdlets.html",
+  "pcs": "https://docs.aws.amazon.com/powershell/latest/reference/items/PCS_cmdlets.html",
   "personalize": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_cmdlets.html",
   "personalize-events": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Personalize_Events_cmdlets.html",
   "personalize-runtime": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Personalize_Runtime_cmdlets.html",

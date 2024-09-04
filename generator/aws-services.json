@@ -1631,6 +1631,12 @@
     "Url": "https://aws.amazon.com/private-ca/",
     "Note": ""
   },
+  "pcs": {
+    "Prefix": "PCS",
+    "Name": "AWS Parallel Computing Service",
+    "Url": "https://aws.amazon.com/pcs/",
+    "Note": ""
+  },
   "personalize": {
     "Prefix": "PERS",
     "Name": "Amazon Personalize",

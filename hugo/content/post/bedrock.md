@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2024-08-26
+date: 2024-09-04
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock get-foundation-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-foundation-model.html)|[Get-BDRFoundationModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModel.html)|
 |[aws bedrock get-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-guardrail.html)|[Get-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRGuardrail.html)|
 |[aws bedrock get-imported-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-imported-model.html)|[Get-BDRImportedModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRImportedModel.html)|
+|[aws bedrock get-inference-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-inference-profile.html)|[Get-BDRInferenceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRInferenceProfile.html)|
 |[aws bedrock get-model-copy-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-model-copy-job.html)|[Get-BDRModelCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCopyJob.html)|
 |[aws bedrock get-model-customization-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-model-customization-job.html)|[Get-BDRModelCustomizationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCustomizationJob.html)|
 |[aws bedrock get-model-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-model-import-job.html)|[Get-BDRModelImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelImportJob.html)|
@@ -43,6 +44,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock list-foundation-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-foundation-models.html)|[Get-BDRFoundationModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModelList.html)|
 |[aws bedrock list-guardrails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-guardrails.html)|[Get-BDRGuardrailList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRGuardrailList.html)|
 |[aws bedrock list-imported-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-imported-models.html)|[Get-BDRImportedModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRImportedModelList.html)|
+|[aws bedrock list-inference-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-inference-profiles.html)|[Get-BDRInferenceProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRInferenceProfileList.html)|
 |[aws bedrock list-model-copy-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-model-copy-jobs.html)|[Get-BDRModelCopyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCopyJobList.html)|
 |[aws bedrock list-model-customization-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-model-customization-jobs.html)|[Get-BDRModelCustomizationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelCustomizationJobList.html)|
 |[aws bedrock list-model-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-model-import-jobs.html)|[Get-BDRModelImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRModelImportJobList.html)|

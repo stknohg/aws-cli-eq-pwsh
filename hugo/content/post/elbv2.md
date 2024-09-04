@@ -1,6 +1,6 @@
 ---
 title: elbv2
-date: 2024-08-26
+date: 2024-09-04
 description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 ---
 
@@ -29,6 +29,7 @@ description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 |[aws elbv2 delete-trust-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/delete-trust-store.html)|[Remove-ELB2TrustStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ELB2TrustStore.html)|
 |[aws elbv2 deregister-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/deregister-targets.html)|[Unregister-ELB2Target](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ELB2Target.html)|
 |[aws elbv2 describe-account-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-account-limits.html)|[Get-ELB2AccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2AccountLimit.html)|
+|[aws elbv2 describe-listener-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-listener-attributes.html)|[Get-ELB2ListenerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2ListenerAttribute.html)|
 |[aws elbv2 describe-listener-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-listener-certificates.html)|[Get-ELB2ListenerCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2ListenerCertificate.html)|
 |[aws elbv2 describe-listeners](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-listeners.html)|[Get-ELB2Listener](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2Listener.html)|
 |[aws elbv2 describe-load-balancer-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/describe-load-balancer-attributes.html)|[Get-ELB2LoadBalancerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2LoadBalancerAttribute.html)|
@@ -46,6 +47,7 @@ description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 |[aws elbv2 get-trust-store-ca-certificates-bundle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-trust-store-ca-certificates-bundle.html)|[Get-ELB2TrustStoreCaCertificatesBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreCaCertificatesBundle.html)|
 |[aws elbv2 get-trust-store-revocation-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-trust-store-revocation-content.html)|[Get-ELB2TrustStoreRevocationContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreRevocationContent.html)|
 |[aws elbv2 modify-listener](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-listener.html)|[Edit-ELB2Listener](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2Listener.html)|
+|[aws elbv2 modify-listener-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-listener-attributes.html)|[Edit-ELB2ListenerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2ListenerAttribute.html)|
 |[aws elbv2 modify-load-balancer-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-load-balancer-attributes.html)|[Edit-ELB2LoadBalancerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2LoadBalancerAttribute.html)|
 |[aws elbv2 modify-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-rule.html)|[Edit-ELB2Rule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2Rule.html)|
 |[aws elbv2 modify-target-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-target-group.html)|[Edit-ELB2TargetGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2TargetGroup.html)|

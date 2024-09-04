@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-08-26
+date: 2024-09-04
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.37 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.642 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.17.43 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.648 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -291,6 +291,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
 |[AWS Private CA Connector for Active Directory](https://aws.amazon.com/private-ca/)|[pca-connector-ad]({{%relref "post/pca-connector-ad.md" %}})|PCAAD||
 |[AWS Private CA Connector for SCEP](https://aws.amazon.com/private-ca/)|[pca-connector-scep]({{%relref "post/pca-connector-scep.md" %}})|PCASCEP||
+|[AWS Parallel Computing Service](https://aws.amazon.com/pcs/)|[pcs]({{%relref "post/pcs.md" %}})|PCS||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize]({{%relref "post/personalize.md" %}})|PERS||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-events]({{%relref "post/personalize-events.md" %}})|PERSE||
 |[Amazon Personalize](https://aws.amazon.com/personalize/)|[personalize-runtime]({{%relref "post/personalize-runtime.md" %}})|PERSR||

@@ -1,6 +1,6 @@
 ---
 title: appconfig
-date: 2024-08-26
+date: 2024-09-04
 description: aws appconfig (AWS AppConfig) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws appconfig (AWS AppConfig) command/cmdlet list.
 |[aws appconfig delete-extension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/delete-extension.html)|[Remove-APPCExtension](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCExtension.html)|
 |[aws appconfig delete-extension-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/delete-extension-association.html)|[Remove-APPCExtensionAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCExtensionAssociation.html)|
 |[aws appconfig delete-hosted-configuration-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/delete-hosted-configuration-version.html)|[Remove-APPCHostedConfigurationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCHostedConfigurationVersion.html)|
+|[aws appconfig get-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-account-settings.html)|[Get-APPCAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCAccountSetting.html)|
 |[aws appconfig get-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-application.html)|[Get-APPCApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCApplication.html)|
 |[aws appconfig get-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-configuration.html)|[Get-APPCConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfiguration.html)|
 |[aws appconfig get-configuration-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-configuration-profile.html)|[Get-APPCConfigurationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfigurationProfile.html)|
@@ -49,6 +50,7 @@ description: aws appconfig (AWS AppConfig) command/cmdlet list.
 |[aws appconfig stop-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/stop-deployment.html)|[Stop-APPCDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-APPCDeployment.html)|
 |[aws appconfig tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/tag-resource.html)|[Add-APPCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-APPCResourceTag.html)|
 |[aws appconfig untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/untag-resource.html)|[Remove-APPCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCResourceTag.html)|
+|[aws appconfig update-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/update-account-settings.html)|[Update-APPCAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APPCAccountSetting.html)|
 |[aws appconfig update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/update-application.html)|[Update-APPCApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APPCApplication.html)|
 |[aws appconfig update-configuration-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/update-configuration-profile.html)|[Update-APPCConfigurationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APPCConfigurationProfile.html)|
 |[aws appconfig update-deployment-strategy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/update-deployment-strategy.html)|[Update-APPCDeploymentStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APPCDeploymentStrategy.html)|

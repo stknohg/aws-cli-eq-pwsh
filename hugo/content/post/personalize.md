@@ -1,6 +1,6 @@
 ---
 title: personalize
-date: 2024-08-26
+date: 2024-09-04
 description: aws personalize (Amazon Personalize) command/cmdlet list.
 ---
 
@@ -83,4 +83,5 @@ description: aws personalize (Amazon Personalize) command/cmdlet list.
 |[aws personalize update-dataset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-dataset.html)|[Update-PERSDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSDataset.html)|
 |[aws personalize update-metric-attribution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-metric-attribution.html)|[Update-PERSMetricAttribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSMetricAttribution.html)|
 |[aws personalize update-recommender](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-recommender.html)|[Update-PERSRecommender](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSRecommender.html)|
+|[aws personalize update-solution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/personalize/update-solution.html)|[Update-PERSSolution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PERSSolution.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: deadline
-date: 2024-08-26
+date: 2024-09-04
 description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 ---
 

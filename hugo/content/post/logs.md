@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2024-09-04
+date: 2024-09-11
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs delete-retention-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-retention-policy.html)|[Remove-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLRetentionPolicy.html)|
 |[aws logs delete-subscription-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-subscription-filter.html)|[Remove-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLSubscriptionFilter.html)|
 |[aws logs describe-account-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-account-policies.html)|[Get-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAccountPolicy.html)|
+|[aws logs describe-configuration-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-configuration-templates.html)|[Find-CWLConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CWLConfigurationTemplate.html)|
 |[aws logs describe-deliveries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-deliveries.html)|[Find-CWLDelivery](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CWLDelivery.html)|
 |[aws logs describe-delivery-destinations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-delivery-destinations.html)|[Find-CWLDeliveryDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CWLDeliveryDestination.html)|
 |[aws logs describe-delivery-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-delivery-sources.html)|[Find-CWLDeliverySource](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CWLDeliverySource.html)|
@@ -87,5 +88,6 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs untag-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/untag-log-group.html)|[Remove-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroupTag.html)|
 |[aws logs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/untag-resource.html)|[Remove-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLResourceTag.html)|
 |[aws logs update-anomaly](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-anomaly.html)|[Update-CWLAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLAnomaly.html)|
+|[aws logs update-delivery-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-delivery-configuration.html)|[Update-CWLDeliveryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLDeliveryConfiguration.html)|
 |[aws logs update-log-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-log-anomaly-detector.html)|[Update-CWLLogAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLLogAnomalyDetector.html)|
 

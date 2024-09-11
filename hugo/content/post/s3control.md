@@ -1,6 +1,6 @@
 ---
 title: s3control
-date: 2024-09-04
+date: 2024-09-11
 description: aws s3control (Amazon S3) command/cmdlet list.
 ---
 
@@ -78,6 +78,7 @@ description: aws s3control (Amazon S3) command/cmdlet list.
 |[aws s3control list-access-grants-locations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-grants-locations.html)|[Get-S3CAccessGrantsLocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessGrantsLocationList.html)|
 |[aws s3control list-access-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-points.html)|[Get-S3CAccessPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPointList.html)|
 |[aws s3control list-access-points-for-object-lambda](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-access-points-for-object-lambda.html)|[Get-S3CAccessPointsForObjectLambdaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CAccessPointsForObjectLambdaList.html)|
+|[aws s3control list-caller-access-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-caller-access-grants.html)|[Get-S3CCallerAccessGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CCallerAccessGrantList.html)|
 |[aws s3control list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-jobs.html)|[Get-S3CJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CJobList.html)|
 |[aws s3control list-multi-region-access-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-multi-region-access-points.html)|[Get-S3CMultiRegionAccessPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CMultiRegionAccessPointList.html)|
 |[aws s3control list-regional-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3control/list-regional-buckets.html)|[Get-S3CRegionalBucketList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CRegionalBucketList.html)|

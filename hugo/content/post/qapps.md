@@ -1,6 +1,6 @@
 ---
 title: qapps
-date: 2024-09-04
+date: 2024-09-11
 description: aws qapps (Amazon Q Apps) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws qapps (Amazon Q Apps) command/cmdlet list.
 |[aws qapps tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/tag-resource.html)|[Add-qappsResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-qappsResourceTag.html)|
 |[aws qapps untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/untag-resource.html)|[Remove-qappsResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-qappsResourceTag.html)|
 |[aws qapps update-library-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/update-library-item.html)|[Update-qappsLibraryItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-qappsLibraryItem.html)|
+|[aws qapps update-library-item-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/update-library-item-metadata.html)|[Update-qappsLibraryItemMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-qappsLibraryItemMetadata.html)|
 |[aws qapps update-q-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/update-q-app.html)|[Update-qappsQApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-qappsQApp.html)|
 |[aws qapps update-q-app-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/update-q-app-session.html)|[Update-qappsQAppSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-qappsQAppSession.html)|
 

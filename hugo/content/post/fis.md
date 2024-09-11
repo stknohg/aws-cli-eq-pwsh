@@ -1,6 +1,6 @@
 ---
 title: fis
-date: 2024-09-04
+date: 2024-09-11
 description: aws fis (Amazon Fault Injection Simulator) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws fis (Amazon Fault Injection Simulator) command/cmdlet list.
 |[aws fis get-experiment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/get-experiment.html)|[Get-FISExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperiment.html)|
 |[aws fis get-experiment-target-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/get-experiment-target-account-configuration.html)|[Get-FISExperimentTargetAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperimentTargetAccountConfiguration.html)|
 |[aws fis get-experiment-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/get-experiment-template.html)|[Get-FISExperimentTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISExperimentTemplate.html)|
+|[aws fis get-safety-lever](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/get-safety-lever.html)|[Get-FISSafetyLever](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISSafetyLever.html)|
 |[aws fis get-target-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/get-target-account-configuration.html)|[Get-FISTargetAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISTargetAccountConfiguration.html)|
 |[aws fis get-target-resource-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/get-target-resource-type.html)|[Get-FISTargetResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISTargetResourceType.html)|
 |[aws fis list-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/list-actions.html)|[Get-FISActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FISActionList.html)|
@@ -36,5 +37,6 @@ description: aws fis (Amazon Fault Injection Simulator) command/cmdlet list.
 |[aws fis tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/tag-resource.html)|[Add-FISResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-FISResourceTag.html)|
 |[aws fis untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/untag-resource.html)|[Remove-FISResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-FISResourceTag.html)|
 |[aws fis update-experiment-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/update-experiment-template.html)|[Update-FISExperimentTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FISExperimentTemplate.html)|
+|[aws fis update-safety-lever-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/update-safety-lever-state.html)|[Update-FISSafetyLeverState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FISSafetyLeverState.html)|
 |[aws fis update-target-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fis/update-target-account-configuration.html)|[Update-FISTargetAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-FISTargetAccountConfiguration.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: route53resolver
-date: 2024-09-04
+date: 2024-09-11
 description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 ---
 

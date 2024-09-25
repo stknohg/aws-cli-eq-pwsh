@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2024-09-11
+date: 2024-09-25
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds describe-client-authentication-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-client-authentication-settings.html)|[Get-DSClientAuthenticationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSClientAuthenticationSetting.html)|
 |[aws ds describe-conditional-forwarders](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-conditional-forwarders.html)|[Get-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSConditionalForwarder.html)|
 |[aws ds describe-directories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-directories.html)|[Get-DSDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectory.html)|
+|[aws ds describe-directory-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-directory-data-access.html)|[Get-DSDirectoryDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectoryDataAccess.html)|
 |[aws ds describe-domain-controllers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-domain-controllers.html)|[Get-DSDomainControllerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDomainControllerList.html)|
 |[aws ds describe-event-topics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-event-topics.html)|[Get-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSEventTopic.html)|
 |[aws ds describe-ldaps-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-ldaps-settings.html)|[Get-DSLDAPSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLDAPSSetting.html)|
@@ -48,10 +49,12 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds describe-trusts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-trusts.html)|[Get-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSTrust.html)|
 |[aws ds describe-update-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-update-directory.html)|[Get-DSUpdateDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSUpdateDirectory.html)|
 |[aws ds disable-client-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-client-authentication.html)|[Disable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSClientAuthentication.html)|
+|[aws ds disable-directory-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-directory-data-access.html)|[Disable-DSDirectoryDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSDirectoryDataAccess.html)|
 |[aws ds disable-ldaps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-ldaps.html)|[Disable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSLDAPS.html)|
 |[aws ds disable-radius](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-radius.html)|[Disable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSRadius.html)|
 |[aws ds disable-sso](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-sso.html)|[Disable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSSso.html)|
 |[aws ds enable-client-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-client-authentication.html)|[Enable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSClientAuthentication.html)|
+|[aws ds enable-directory-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-directory-data-access.html)|[Enable-DSDirectoryDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSDirectoryDataAccess.html)|
 |[aws ds enable-ldaps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-ldaps.html)|[Enable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSLDAPS.html)|
 |[aws ds enable-radius](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-radius.html)|[Enable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSRadius.html)|
 |[aws ds enable-sso](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-sso.html)|[Enable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSSso.html)|

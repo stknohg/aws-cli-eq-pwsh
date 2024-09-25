@@ -1,6 +1,6 @@
 ---
 title: mediaconvert
-date: 2024-09-11
+date: 2024-09-25
 description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 |[aws mediaconvert list-presets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/list-presets.html)|[Get-EMCPresetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCPresetList.html)|
 |[aws mediaconvert list-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/list-queues.html)|[Get-EMCQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCQueueList.html)|
 |[aws mediaconvert list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/list-tags-for-resource.html)|[Get-EMCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCResourceTag.html)|
+|[aws mediaconvert list-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/list-versions.html)|[Get-EMCVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCVersionList.html)|
 |[aws mediaconvert put-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/put-policy.html)|[Write-EMCPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMCPolicy.html)|
 |[aws mediaconvert search-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/search-jobs.html)|[Search-EMCJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-EMCJob.html)|
 |[aws mediaconvert tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/tag-resource.html)|[Add-EMCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMCResourceTag.html)|

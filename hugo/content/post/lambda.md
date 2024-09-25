@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2024-09-11
+date: 2024-09-25
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda delete-function-url-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-function-url-config.html)|[Remove-LMFunctionUrlConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMFunctionUrlConfig.html)|
 |[aws lambda delete-layer-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-layer-version.html)|[Remove-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersion.html)|
 |[aws lambda delete-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-provisioned-concurrency-config.html)|[Remove-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMProvisionedConcurrencyConfig.html)|
+|[aws lambda delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-resource-policy.html)|[Remove-LMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMResourcePolicy.html)|
 |[aws lambda get-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-account-settings.html)|[Get-LMAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAccountSetting.html)|
 |[aws lambda get-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-alias.html)|[Get-LMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAlias.html)|
 |[aws lambda get-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-code-signing-config.html)|[Get-LMCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMCodeSigningConfig.html)|
@@ -46,6 +47,8 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda get-layer-version-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-layer-version-policy.html)|[Get-LMLayerVersionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerVersionPolicy.html)|
 |[aws lambda get-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-policy.html)|[Get-LMPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMPolicy.html)|
 |[aws lambda get-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-provisioned-concurrency-config.html)|[Get-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMProvisionedConcurrencyConfig.html)|
+|[aws lambda get-public-access-block-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-public-access-block-config.html)|[Get-LMPublicAccessBlockConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMPublicAccessBlockConfig.html)|
+|[aws lambda get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-resource-policy.html)|[Get-LMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMResourcePolicy.html)|
 |[aws lambda get-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-runtime-management-config.html)|[Get-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMRuntimeManagementConfig.html)|
 |[aws lambda invoke](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/invoke.html)|[Invoke-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunction.html)|
 |[aws lambda invoke-async](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/invoke-async.html)|[Invoke-LMFunctionAsync](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunctionAsync.html)|
@@ -68,6 +71,8 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda put-function-event-invoke-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-event-invoke-config.html)|[Write-LMFunctionEventInvokeConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionEventInvokeConfig.html)|
 |[aws lambda put-function-recursion-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-recursion-config.html)|[Write-LMFunctionRecursionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionRecursionConfig.html)|
 |[aws lambda put-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-provisioned-concurrency-config.html)|[Write-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMProvisionedConcurrencyConfig.html)|
+|[aws lambda put-public-access-block-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-public-access-block-config.html)|[Write-LMPublicAccessBlockConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMPublicAccessBlockConfig.html)|
+|[aws lambda put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-resource-policy.html)|[Write-LMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMResourcePolicy.html)|
 |[aws lambda put-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-runtime-management-config.html)|[Write-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMRuntimeManagementConfig.html)|
 |[aws lambda remove-layer-version-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-layer-version-permission.html)|[Remove-LMLayerVersionPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersionPermission.html)|
 |[aws lambda remove-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-permission.html)|[Remove-LMPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMPermission.html)|

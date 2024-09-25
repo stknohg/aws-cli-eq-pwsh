@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2024-09-11
+date: 2024-09-25
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -213,6 +213,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue stop-trigger](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-trigger.html)|[Stop-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUETrigger.html)|
 |[aws glue stop-workflow-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-workflow-run.html)|[Stop-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEWorkflowRun.html)|
 |[aws glue tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/tag-resource.html)|[Add-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GLUEResourceTag.html)|
+|[aws glue test-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/test-connection.html)|[Test-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-GLUEConnection.html)|
 |[aws glue untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/untag-resource.html)|[Remove-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourceTag.html)|
 |[aws glue update-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-blueprint.html)|[Update-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEBlueprint.html)|
 |[aws glue update-classifier](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-classifier.html)|[Update-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEClassifier.html)|

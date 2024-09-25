@@ -1,6 +1,6 @@
 ---
 title: workspaces-web
-date: 2024-09-11
+date: 2024-09-25
 description: aws workspaces-web (Amazon WorkSpaces Secure Browser) command/cmdlet list.
 ---
 
@@ -41,12 +41,14 @@ description: aws workspaces-web (Amazon WorkSpaces Secure Browser) command/cmdle
 |[aws workspaces-web disassociate-trust-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/disassociate-trust-store.html)|[Unregister-WSWTrustStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WSWTrustStore.html)|
 |[aws workspaces-web disassociate-user-access-logging-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/disassociate-user-access-logging-settings.html)|[Unregister-WSWUserAccessLoggingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WSWUserAccessLoggingSetting.html)|
 |[aws workspaces-web disassociate-user-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/disassociate-user-settings.html)|[Unregister-WSWUserSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WSWUserSetting.html)|
+|[aws workspaces-web expire-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/expire-session.html)|[Revoke-WSWSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-WSWSession.html)|
 |[aws workspaces-web get-browser-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-browser-settings.html)|[Get-WSWBrowserSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWBrowserSetting.html)|
 |[aws workspaces-web get-identity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-identity-provider.html)|[Get-WSWIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWIdentityProvider.html)|
 |[aws workspaces-web get-ip-access-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-ip-access-settings.html)|[Get-WSWIpAccessSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWIpAccessSetting.html)|
 |[aws workspaces-web get-network-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-network-settings.html)|[Get-WSWNetworkSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWNetworkSetting.html)|
 |[aws workspaces-web get-portal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-portal.html)|[Get-WSWPortal](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWPortal.html)|
 |[aws workspaces-web get-portal-service-provider-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-portal-service-provider-metadata.html)|[Get-WSWPortalServiceProviderMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWPortalServiceProviderMetadata.html)|
+|[aws workspaces-web get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-session.html)|[Get-WSWSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWSession.html)|
 |[aws workspaces-web get-trust-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-trust-store.html)|[Get-WSWTrustStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWTrustStore.html)|
 |[aws workspaces-web get-trust-store-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-trust-store-certificate.html)|[Get-WSWTrustStoreCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWTrustStoreCertificate.html)|
 |[aws workspaces-web get-user-access-logging-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/get-user-access-logging-settings.html)|[Get-WSWUserAccessLoggingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWUserAccessLoggingSetting.html)|
@@ -56,6 +58,7 @@ description: aws workspaces-web (Amazon WorkSpaces Secure Browser) command/cmdle
 |[aws workspaces-web list-ip-access-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-ip-access-settings.html)|[Get-WSWIpAccessSettingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWIpAccessSettingList.html)|
 |[aws workspaces-web list-network-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-network-settings.html)|[Get-WSWNetworkSettingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWNetworkSettingList.html)|
 |[aws workspaces-web list-portals](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-portals.html)|[Get-WSWPortalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWPortalList.html)|
+|[aws workspaces-web list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-sessions.html)|[Get-WSWSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWSessionList.html)|
 |[aws workspaces-web list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-tags-for-resource.html)|[Get-WSWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWResourceTag.html)|
 |[aws workspaces-web list-trust-store-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-trust-store-certificates.html)|[Get-WSWTrustStoreCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWTrustStoreCertificateList.html)|
 |[aws workspaces-web list-trust-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-web/list-trust-stores.html)|[Get-WSWTrustStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSWTrustStoreList.html)|

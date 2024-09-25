@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2024-09-11
+date: 2024-09-25
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 

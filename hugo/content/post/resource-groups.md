@@ -1,6 +1,6 @@
 ---
 title: resource-groups
-date: 2024-09-11
+date: 2024-09-25
 description: aws resource-groups (AWS Resource Groups) command/cmdlet list.
 ---
 

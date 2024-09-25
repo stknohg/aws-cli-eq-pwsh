@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-09-11
+date: 2024-09-25
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.48 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.653 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.17.58 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.663 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -135,6 +135,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon DocumentDB Elastic Clusters](https://aws.amazon.com/documentdb/)|[docdb-elastic]({{%relref "post/docdb-elastic.md" %}})|DOCE||
 |[AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)|[drs]({{%relref "post/drs.md" %}})|EDRS||
 |[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds]({{%relref "post/ds.md" %}})|DS||
+|[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds-data]({{%relref "post/ds-data.md" %}})|DSD|Data API|
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[dynamodb]({{%relref "post/dynamodb.md" %}})|DDB||
 |[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|DDB||
 |[Amazon Elastic Block Store](https://aws.amazon.com/ebs/)|[ebs]({{%relref "post/ebs.md" %}})|EBS||

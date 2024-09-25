@@ -1,6 +1,6 @@
 ---
 title: resource-explorer-2
-date: 2024-09-11
+date: 2024-09-25
 description: aws resource-explorer-2 (AWS Resource Explorer) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws resource-explorer-2 (AWS Resource Explorer) command/cmdlet list
 |[aws resource-explorer-2 get-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/get-view.html)|[Get-AREXView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXView.html)|
 |[aws resource-explorer-2 list-indexes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-indexes.html)|[Get-AREXIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXIndexList.html)|
 |[aws resource-explorer-2 list-indexes-for-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-indexes-for-members.html)|[Get-AREXIndexesForMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXIndexesForMemberList.html)|
+|[aws resource-explorer-2 list-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-resources.html)|[Get-AREXResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXResourceList.html)|
 |[aws resource-explorer-2 list-supported-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-supported-resource-types.html)|[Get-AREXSupportedResourceTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXSupportedResourceTypeList.html)|
 |[aws resource-explorer-2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-tags-for-resource.html)|[Get-AREXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXResourceTag.html)|
 |[aws resource-explorer-2 list-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-views.html)|[Get-AREXViewArnList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXViewArnList.html)|

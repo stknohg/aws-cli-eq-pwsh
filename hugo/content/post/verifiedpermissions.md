@@ -1,6 +1,6 @@
 ---
 title: verifiedpermissions
-date: 2024-09-11
+date: 2024-09-25
 description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdlet list.
 ---
 

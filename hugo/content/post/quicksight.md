@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2024-09-11
+date: 2024-09-25
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -120,6 +120,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight list-data-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-data-sources.html)|[Get-QSDataSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSourceList.html)|
 |[aws quicksight list-folder-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-folder-members.html)|[Get-QSFolderMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFolderMemberList.html)|
 |[aws quicksight list-folders](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-folders.html)|[Get-QSFolderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFolderList.html)|
+|[aws quicksight list-folders-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-folders-for-resource.html)|[Get-QSFoldersForResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFoldersForResourceList.html)|
 |[aws quicksight list-group-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-group-memberships.html)|[Get-QSGroupMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroupMembershipList.html)|
 |[aws quicksight list-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-groups.html)|[Get-QSGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSGroupList.html)|
 |[aws quicksight list-iam-policy-assignments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-iam-policy-assignments.html)|[Get-QSIAMPolicyAssignmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIAMPolicyAssignmentList.html)|

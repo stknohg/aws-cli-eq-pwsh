@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2024-09-11
+date: 2024-09-25
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot accept-certificate-transfer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/accept-certificate-transfer.html)|[Confirm-IOTCertificateTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-IOTCertificateTransfer.html)|
 |[aws iot add-thing-to-billing-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/add-thing-to-billing-group.html)|[Add-IOTThingToBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTThingToBillingGroup.html)|
 |[aws iot add-thing-to-thing-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/add-thing-to-thing-group.html)|[Add-IOTThingToThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTThingToThingGroup.html)|
+|[aws iot associate-sbom-with-package-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/associate-sbom-with-package-version.html)|[Add-IOTSbomWithPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTSbomWithPackageVersion.html)|
 |[aws iot associate-targets-with-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/associate-targets-with-job.html)|[Add-IOTTargetsWithJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTTargetsWithJob.html)|
 |[aws iot attach-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/attach-policy.html)|[Add-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTPolicy.html)|
 |[aws iot attach-principal-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/attach-principal-policy.html)|[Add-IOTPrincipalPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTPrincipalPolicy.html)|
@@ -134,6 +135,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot detach-security-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/detach-security-profile.html)|[Dismount-IOTSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-IOTSecurityProfile.html)|
 |[aws iot detach-thing-principal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/detach-thing-principal.html)|[Remove-IOTThingPrincipal](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTThingPrincipal.html)|
 |[aws iot disable-topic-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/disable-topic-rule.html)|[Disable-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-IOTTopicRule.html)|
+|[aws iot disassociate-sbom-from-package-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/disassociate-sbom-from-package-version.html)|[Remove-IOTSbomFromPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTSbomFromPackageVersion.html)|
 |[aws iot enable-topic-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/enable-topic-rule.html)|[Enable-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-IOTTopicRule.html)|
 |[aws iot get-behavior-model-training-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-behavior-model-training-summaries.html)|[Get-IOTBehaviorModelTrainingSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBehaviorModelTrainingSummary.html)|
 |[aws iot get-buckets-aggregation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-buckets-aggregation.html)|[Get-IOTBucketsAggregation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBucketsAggregation.html)|
@@ -194,6 +196,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-provisioning-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-provisioning-templates.html)|[Get-IOTProvisioningTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateList.html)|
 |[aws iot list-related-resources-for-audit-finding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-related-resources-for-audit-finding.html)|[Get-IOTRelatedResourcesForAuditFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRelatedResourcesForAuditFindingList.html)|
 |[aws iot list-role-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-role-aliases.html)|[Get-IOTRoleAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRoleAliasList.html)|
+|[aws iot list-sbom-validation-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-sbom-validation-results.html)|[Get-IOTSbomValidationResultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSbomValidationResultList.html)|
 |[aws iot list-scheduled-audits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-scheduled-audits.html)|[Get-IOTScheduledAuditList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTScheduledAuditList.html)|
 |[aws iot list-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-security-profiles.html)|[Get-IOTSecurityProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSecurityProfileList.html)|
 |[aws iot list-security-profiles-for-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-security-profiles-for-target.html)|[Get-IOTSecurityProfilesForTargetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTSecurityProfilesForTargetList.html)|

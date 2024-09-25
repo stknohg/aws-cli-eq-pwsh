@@ -1,6 +1,6 @@
 ---
 title: sagemaker-metrics
-date: 2024-09-11
+date: 2024-09-25
 description: aws sagemaker-metrics (Amazon SageMaker Metrics Service) command/cmdlet list.
 ---
 
@@ -13,5 +13,6 @@ description: aws sagemaker-metrics (Amazon SageMaker Metrics Service) command/cm
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws sagemaker-metrics batch-get-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-metrics/batch-get-metrics.html)|[Get-SMMMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMMMetric.html)|
 |[aws sagemaker-metrics batch-put-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-metrics/batch-put-metrics.html)|[Add-SMMMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMMMetric.html)|
 

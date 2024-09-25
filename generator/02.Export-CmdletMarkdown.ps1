@@ -39,6 +39,7 @@ $g_SubCommandAlias = @{
     'devicefarm'                   = 'df';
     'directconnect'                = 'dc';
     'docdb'                        = 'doc';
+    'ds-data'                      = 'dsd'; 
     'dynamodb'                     = 'ddb';
     'dynamodbstreams'              = 'ddb';
     'elastic-inference'            = 'ei';

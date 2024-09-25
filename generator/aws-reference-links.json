@@ -113,6 +113,7 @@
   "docdb-elastic": "https://docs.aws.amazon.com/powershell/latest/reference/items/DocDBElastic_cmdlets.html",
   "drs": "https://docs.aws.amazon.com/powershell/latest/reference/items/Drs_cmdlets.html",
   "ds": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Directory_Service_cmdlets.html",
+  "ds-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/DirectoryServiceData_cmdlets.html",
   "dynamodb": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html",
   "dynamodbstreams": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_DynamoDB_cmdlets.html",
   "ebs": "https://docs.aws.amazon.com/powershell/latest/reference/items/EBS_cmdlets.html",

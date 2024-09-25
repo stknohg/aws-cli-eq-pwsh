@@ -683,6 +683,12 @@
     "Url": "https://aws.amazon.com/directoryservice/",
     "Note": ""
   },
+  "ds-data": {
+    "Prefix": "DSD",
+    "Name": "AWS Directory Service",
+    "Url": "https://aws.amazon.com/directoryservice/",
+    "Note": "Data API"
+  },
   "dynamodb": {
     "Prefix": "DDB",
     "Name": "Amazon DynamoDB",

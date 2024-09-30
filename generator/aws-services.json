@@ -1447,7 +1447,7 @@
   },
   "memorydb": {
     "Prefix": "MDB",
-    "Name": "Amazon MemoryDB for Redis",
+    "Name": "Amazon MemoryDB",
     "Url": "https://aws.amazon.com/memorydb/",
     "Note": ""
   },

@@ -1,6 +1,6 @@
 ---
 title: apprunner
-date: 2024-09-25
+date: 2024-09-30
 description: aws apprunner (AWS App Runner) command/cmdlet list.
 ---
 

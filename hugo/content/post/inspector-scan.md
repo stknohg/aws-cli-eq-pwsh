@@ -1,6 +1,6 @@
 ---
 title: inspector-scan
-date: 2024-09-25
+date: 2024-09-30
 description: aws inspector-scan (Amazon Inspector Scan) command/cmdlet list.
 ---
 

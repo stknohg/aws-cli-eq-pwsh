@@ -1,6 +1,6 @@
 ---
 title: workmail
-date: 2024-09-25
+date: 2024-09-30
 description: aws workmail (Amazon WorkMail) command/cmdlet list.
 ---
 

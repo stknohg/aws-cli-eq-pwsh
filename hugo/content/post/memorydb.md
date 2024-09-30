@@ -1,12 +1,12 @@
 ---
 title: memorydb
-date: 2024-09-25
-description: aws memorydb (Amazon MemoryDB for Redis) command/cmdlet list.
+date: 2024-09-30
+description: aws memorydb (Amazon MemoryDB) command/cmdlet list.
 ---
 
 ## memorydb
 
-### [Amazon MemoryDB for Redis](https://aws.amazon.com/memorydb/)
+### [Amazon MemoryDB](https://aws.amazon.com/memorydb/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/MemoryDB_cmdlets.html)

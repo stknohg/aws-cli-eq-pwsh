@@ -1,6 +1,6 @@
 ---
 title: codeconnections
-date: 2024-09-25
+date: 2024-09-30
 description: aws codeconnections (AWS CodeConnection) command/cmdlet list.
 ---
 

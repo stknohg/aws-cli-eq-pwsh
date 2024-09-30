@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-09-25
+date: 2024-09-30
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.58 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.663 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.17.61 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.666 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -260,7 +260,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elemental MediaStore Data Plane](https://aws.amazon.com/mediastore/)|[mediastore-data]({{%relref "post/mediastore-data.md" %}})|EMSD||
 |[AWS Elemental MediaTailor](https://aws.amazon.com/mediatailor/)|[mediatailor]({{%relref "post/mediatailor.md" %}})|EMT||
 |[AWS HealthImaging](https://aws.amazon.com/healthimaging/)|[medical-imaging]({{%relref "post/medical-imaging.md" %}})|MIS||
-|[Amazon MemoryDB for Redis](https://aws.amazon.com/memorydb/)|[memorydb]({{%relref "post/memorydb.md" %}})|MDB||
+|[Amazon MemoryDB](https://aws.amazon.com/memorydb/)|[memorydb]({{%relref "post/memorydb.md" %}})|MDB||
 |[AWS Marketplace Metering Service](https://aws.amazon.com/marketplace/)|[meteringmarketplace]({{%relref "post/meteringmarketplace.md" %}})|MM||
 |[AWS Migration Hub](https://aws.amazon.com/migration-hub/)|[mgh]({{%relref "post/mgh.md" %}})|MH||
 |[AWS Application Migration Service](https://aws.amazon.com/application-migration-service/)|[mgn]({{%relref "post/mgn.md" %}})|MGN||
@@ -403,7 +403,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)|[wellarchitected]({{%relref "post/wellarchitected.md" %}})|WAT||
 |[Amazon Connect Wisdom](https://aws.amazon.com/connect/wisdom/)|[wisdom]({{%relref "post/wisdom.md" %}})|WSDM||
 |[Amazon WorkDocs](https://aws.amazon.com/workdocs/)|[workdocs]({{%relref "post/workdocs.md" %}})|WD||
-|[Amazon WorkLink](https://aws.amazon.com/worklink/)|[worklink]({{%relref "post/worklink.md" %}})|WL||
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||
 |[Amazon WorkMail Message Flow](https://aws.amazon.com/workmail/)|[workmailmessageflow]({{%relref "post/workmailmessageflow.md" %}})|WMMF||
 |[Amazon WorkSpaces](https://aws.amazon.com/workspaces/)|[workspaces]({{%relref "post/workspaces.md" %}})|WKS||

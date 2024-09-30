@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2024-09-25
+date: 2024-09-30
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -92,6 +92,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-ip-restriction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-ip-restriction.html)|[Get-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIpRestriction.html)|
 |[aws quicksight describe-key-registration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-key-registration.html)|[Get-QSKeyRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSKeyRegistration.html)|
 |[aws quicksight describe-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-namespace.html)|[Get-QSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSNamespace.html)|
+|[aws quicksight describe-q-personalization-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-q-personalization-configuration.html)|[Get-QSQPersonalizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSQPersonalizationConfiguration.html)|
 |[aws quicksight describe-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-refresh-schedule.html)|[Get-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRefreshSchedule.html)|
 |[aws quicksight describe-role-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-role-custom-permission.html)|[Get-QSRoleCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRoleCustomPermission.html)|
 |[aws quicksight describe-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-template.html)|[Get-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplate.html)|
@@ -177,6 +178,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-ip-restriction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-ip-restriction.html)|[Update-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIpRestriction.html)|
 |[aws quicksight update-key-registration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-key-registration.html)|[Update-QSKeyRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSKeyRegistration.html)|
 |[aws quicksight update-public-sharing-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-public-sharing-settings.html)|[Update-QSPublicSharingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSPublicSharingSetting.html)|
+|[aws quicksight update-q-personalization-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-q-personalization-configuration.html)|[Update-QSQPersonalizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSQPersonalizationConfiguration.html)|
 |[aws quicksight update-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-refresh-schedule.html)|[Update-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRefreshSchedule.html)|
 |[aws quicksight update-role-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-role-custom-permission.html)|[Update-QSRoleCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRoleCustomPermission.html)|
 |[aws quicksight update-spice-capacity-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-spice-capacity-configuration.html)|[Update-QSSPICECapacityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSSPICECapacityConfiguration.html)|

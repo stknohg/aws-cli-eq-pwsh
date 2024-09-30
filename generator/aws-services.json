@@ -2303,12 +2303,6 @@
     "Url": "https://aws.amazon.com/workdocs/",
     "Note": ""
   },
-  "worklink": {
-    "Prefix": "WL",
-    "Name": "Amazon WorkLink",
-    "Url": "https://aws.amazon.com/worklink/",
-    "Note": ""
-  },
   "workmail": {
     "Prefix": "WM",
     "Name": "Amazon WorkMail",

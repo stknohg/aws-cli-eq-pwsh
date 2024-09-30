@@ -381,7 +381,6 @@
   "wellarchitected": "https://docs.aws.amazon.com/powershell/latest/reference/items/WellArchitected_cmdlets.html",
   "wisdom": "https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectWisdomService_cmdlets.html",
   "workdocs": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkDocs_cmdlets.html",
-  "worklink": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkLink_cmdlets.html",
   "workmail": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMail_cmdlets.html",
   "workmailmessageflow": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMailMessageFlow_cmdlets.html",
   "workspaces": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkSpaces_cmdlets.html",

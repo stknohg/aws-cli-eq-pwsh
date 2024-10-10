@@ -228,6 +228,7 @@
   "marketplace-catalog": "https://docs.aws.amazon.com/powershell/latest/reference/items/MarketplaceCatalog_cmdlets.html",
   "marketplace-deployment": "https://docs.aws.amazon.com/powershell/latest/reference/items/MarketplaceDeployment_cmdlets.html",
   "marketplace-entitlement": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Entitlement_Service_cmdlets.html",
+  "marketplace-reporting": "https://docs.aws.amazon.com/powershell/latest/reference/items/MarketplaceReporting_cmdlets.html",
   "marketplacecommerceanalytics": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Marketplace_Commerce_Analytics_cmdlets.html",
   "mediaconnect": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaConnect_cmdlets.html",
   "mediaconvert": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elemental_MediaConvert_cmdlets.html",

@@ -1379,6 +1379,12 @@
     "Url": "https://aws.amazon.com/marketplace/",
     "Note": ""
   },
+  "marketplace-reporting": {
+    "Prefix": "MR",
+    "Name": "AWS Marketplace Reporting",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
   "marketplacecommerceanalytics": {
     "Prefix": "MCA",
     "Name": "AWS Marketplace Commerce Analytics",

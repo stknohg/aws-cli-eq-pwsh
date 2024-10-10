@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2024-09-30
+date: 2024-10-10
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 
@@ -13,6 +13,10 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws qconnect create-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-ai-agent.html)|[New-QCAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCAIAgent.html)|
+|[aws qconnect create-ai-agent-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-ai-agent-version.html)|[New-QCAIAgentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCAIAgentVersion.html)|
+|[aws qconnect create-ai-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-ai-prompt.html)|[New-QCAIPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCAIPrompt.html)|
+|[aws qconnect create-ai-prompt-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-ai-prompt-version.html)|[New-QCAIPromptVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCAIPromptVersion.html)|
 |[aws qconnect create-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-assistant.html)|[New-QCAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCAssistant.html)|
 |[aws qconnect create-assistant-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-assistant-association.html)|[New-QCAssistantAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCAssistantAssociation.html)|
 |[aws qconnect create-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-content.html)|[New-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCContent.html)|
@@ -20,6 +24,10 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect create-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-knowledge-base.html)|[New-QCKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCKnowledgeBase.html)|
 |[aws qconnect create-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-quick-response.html)|[New-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCQuickResponse.html)|
 |[aws qconnect create-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/create-session.html)|[New-QCSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QCSession.html)|
+|[aws qconnect delete-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-ai-agent.html)|[Remove-QCAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAIAgent.html)|
+|[aws qconnect delete-ai-agent-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-ai-agent-version.html)|[Remove-QCAIAgentVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAIAgentVersion.html)|
+|[aws qconnect delete-ai-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-ai-prompt.html)|[Remove-QCAIPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAIPrompt.html)|
+|[aws qconnect delete-ai-prompt-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-ai-prompt-version.html)|[Remove-QCAIPromptVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAIPromptVersion.html)|
 |[aws qconnect delete-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-assistant.html)|[Remove-QCAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAssistant.html)|
 |[aws qconnect delete-assistant-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-assistant-association.html)|[Remove-QCAssistantAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAssistantAssociation.html)|
 |[aws qconnect delete-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-content.html)|[Remove-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCContent.html)|
@@ -27,6 +35,8 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect delete-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-import-job.html)|[Remove-QCImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCImportJob.html)|
 |[aws qconnect delete-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-knowledge-base.html)|[Remove-QCKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCKnowledgeBase.html)|
 |[aws qconnect delete-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/delete-quick-response.html)|[Remove-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCQuickResponse.html)|
+|[aws qconnect get-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-ai-agent.html)|[Get-QCAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIAgent.html)|
+|[aws qconnect get-ai-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-ai-prompt.html)|[Get-QCAIPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIPrompt.html)|
 |[aws qconnect get-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-assistant.html)|[Get-QCAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAssistant.html)|
 |[aws qconnect get-assistant-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-assistant-association.html)|[Get-QCAssistantAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAssistantAssociation.html)|
 |[aws qconnect get-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-content.html)|[Get-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCContent.html)|
@@ -37,6 +47,10 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect get-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-quick-response.html)|[Get-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCQuickResponse.html)|
 |[aws qconnect get-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-recommendations.html)|[Get-QCRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCRecommendation.html)|
 |[aws qconnect get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-session.html)|[Get-QCSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCSession.html)|
+|[aws qconnect list-ai-agent-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-ai-agent-versions.html)|[Get-QCAIAgentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIAgentVersionList.html)|
+|[aws qconnect list-ai-agents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-ai-agents.html)|[Get-QCAIAgentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIAgentList.html)|
+|[aws qconnect list-ai-prompt-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-ai-prompt-versions.html)|[Get-QCAIPromptVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIPromptVersionList.html)|
+|[aws qconnect list-ai-prompts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-ai-prompts.html)|[Get-QCAIPromptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIPromptList.html)|
 |[aws qconnect list-assistant-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-assistant-associations.html)|[Get-QCAssistantAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAssistantAssociationList.html)|
 |[aws qconnect list-assistants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-assistants.html)|[Get-QCAssistantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAssistantList.html)|
 |[aws qconnect list-content-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-content-associations.html)|[Get-QCContentAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCContentAssociationList.html)|
@@ -48,6 +62,7 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect notify-recommendations-received](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/notify-recommendations-received.html)|[Remove-QCRecommendationsReceived](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCRecommendationsReceived.html)|
 |[aws qconnect put-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/put-feedback.html)|[Write-QCFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-QCFeedback.html)|
 |[aws qconnect query-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/query-assistant.html)|[Search-QCAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QCAssistant.html)|
+|[aws qconnect remove-assistant-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-assistant-ai-agent.html)|[Remove-QCAssistantAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAssistantAIAgent.html)|
 |[aws qconnect remove-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-knowledge-base-template-uri.html)|[Remove-QCKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCKnowledgeBaseTemplateUri.html)|
 |[aws qconnect search-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/search-content.html)|[Search-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QCContent.html)|
 |[aws qconnect search-quick-responses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/search-quick-responses.html)|[Search-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QCQuickResponse.html)|
@@ -56,8 +71,12 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect start-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/start-import-job.html)|[Start-QCImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QCImportJob.html)|
 |[aws qconnect tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/tag-resource.html)|[Add-QCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QCResourceTag.html)|
 |[aws qconnect untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/untag-resource.html)|[Remove-QCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCResourceTag.html)|
+|[aws qconnect update-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-ai-agent.html)|[Update-QCAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCAIAgent.html)|
+|[aws qconnect update-ai-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-ai-prompt.html)|[Update-QCAIPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCAIPrompt.html)|
+|[aws qconnect update-assistant-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-assistant-ai-agent.html)|[Update-QCAssistantAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCAssistantAIAgent.html)|
 |[aws qconnect update-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-content.html)|[Update-QCContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCContent.html)|
 |[aws qconnect update-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-knowledge-base-template-uri.html)|[Update-QCKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCKnowledgeBaseTemplateUri.html)|
 |[aws qconnect update-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-quick-response.html)|[Update-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCQuickResponse.html)|
 |[aws qconnect update-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-session.html)|[Update-QCSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCSession.html)|
+|[aws qconnect update-session-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/update-session-data.html)|[Update-QCSessionData](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QCSessionData.html)|
 

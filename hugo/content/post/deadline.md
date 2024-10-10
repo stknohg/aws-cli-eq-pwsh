@@ -1,6 +1,6 @@
 ---
 title: deadline
-date: 2024-09-30
+date: 2024-10-10
 description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 ---
 
@@ -74,6 +74,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline list-fleet-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-fleet-members.html)|[Get-ADCFleetMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCFleetMemberList.html)|
 |[aws deadline list-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-fleets.html)|[Get-ADCFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCFleetList.html)|
 |[aws deadline list-job-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-job-members.html)|[Get-ADCJobMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCJobMemberList.html)|
+|[aws deadline list-job-parameter-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-job-parameter-definitions.html)|[Get-ADCJobParameterDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCJobParameterDefinitionList.html)|
 |[aws deadline list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-jobs.html)|[Get-ADCJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCJobList.html)|
 |[aws deadline list-license-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-license-endpoints.html)|[Get-ADCLicenseEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCLicenseEndpointList.html)|
 |[aws deadline list-metered-products](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-metered-products.html)|[Get-ADCMeteredProductList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCMeteredProductList.html)|

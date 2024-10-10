@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2024-09-30
+date: 2024-10-10
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -208,6 +208,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect start-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-contact-evaluation.html)|[Start-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactEvaluation.html)|
 |[aws connect start-contact-recording](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-contact-recording.html)|[Start-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactRecording.html)|
 |[aws connect start-contact-streaming](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-contact-streaming.html)|[Start-CONNContactStreaming](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactStreaming.html)|
+|[aws connect start-outbound-chat-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-outbound-chat-contact.html)|[Start-CONNOutboundChatContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNOutboundChatContact.html)|
 |[aws connect start-outbound-voice-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-outbound-voice-contact.html)|[Start-CONNOutboundVoiceContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNOutboundVoiceContact.html)|
 |[aws connect start-task-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-task-contact.html)|[Start-CONNTaskContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNTaskContact.html)|
 |[aws connect start-web-rtc-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-web-rtc-contact.html)|[Start-CONNWebRTCContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNWebRTCContact.html)|

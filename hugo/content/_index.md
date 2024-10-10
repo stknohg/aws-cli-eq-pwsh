@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-09-30
+date: 2024-10-10
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.17.61 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.666 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.18.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.674 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -249,6 +249,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
 |[AWS Marketplace Deployment Service](https://aws.amazon.com/marketplace/)|[marketplace-deployment]({{%relref "post/marketplace-deployment.md" %}})|MD||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
+|[AWS Marketplace Reporting](https://aws.amazon.com/marketplace/)|[marketplace-reporting]({{%relref "post/marketplace-reporting.md" %}})|MR||
 |[AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)|[marketplacecommerceanalytics]({{%relref "post/marketplacecommerceanalytics.md" %}})|MCA||
 |[AWS Elemental MediaConnect](https://aws.amazon.com/mediaconnect/)|[mediaconnect]({{%relref "post/mediaconnect.md" %}})|EMCN||
 |[AWS Elemental MediaConvert](https://aws.amazon.com/mediaconvert/)|[mediaconvert]({{%relref "post/mediaconvert.md" %}})|EMC||

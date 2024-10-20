@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2024-10-10
+date: 2024-10-20
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
@@ -49,6 +49,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer list-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-certificates.html)|[Get-TFRCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRCertificateList.html)|
 |[aws transfer list-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-connectors.html)|[Get-TFRConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRConnectorList.html)|
 |[aws transfer list-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-executions.html)|[Get-TFRExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRExecutionList.html)|
+|[aws transfer list-file-transfer-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-file-transfer-results.html)|[Get-TFRFileTransferResultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRFileTransferResultList.html)|
 |[aws transfer list-host-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-host-keys.html)|[Get-TFRHostKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRHostKeyList.html)|
 |[aws transfer list-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-profiles.html)|[Get-TFRProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRProfileList.html)|
 |[aws transfer list-security-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-security-policies.html)|[Get-TFRSecurityPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRSecurityPolicyList.html)|

@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2024-10-10
+date: 2024-10-20
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -156,6 +156,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight start-asset-bundle-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-export-job.html)|[Start-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleExportJob.html)|
 |[aws quicksight start-asset-bundle-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-import-job.html)|[Start-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleImportJob.html)|
 |[aws quicksight start-dashboard-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job.html)|[Start-QSDashboardSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJob.html)|
+|[aws quicksight start-dashboard-snapshot-job-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job-schedule.html)|[Start-QSDashboardSnapshotJobSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJobSchedule.html)|
 |[aws quicksight tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|
 |[aws quicksight untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/untag-resource.html)|[Remove-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSResourceTag.html)|
 |[aws quicksight update-account-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-account-customization.html)|[Update-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountCustomization.html)|

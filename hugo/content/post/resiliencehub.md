@@ -1,6 +1,6 @@
 ---
 title: resiliencehub
-date: 2024-10-10
+date: 2024-10-20
 description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 ---
 

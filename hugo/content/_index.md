@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-10-10
+date: 2024-10-20
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.18.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.674 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.18.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.681 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -368,6 +368,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||
+|[AWS End User Messaging Social](https://aws.amazon.com/end-user-messaging/)|[socialmessaging]({{%relref "post/socialmessaging.md" %}})|SOCIAL||
 |[Amazon Simple Queue Service](https://aws.amazon.com/sqs/)|[sqs]({{%relref "post/sqs.md" %}})|SQS||
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||
 |[AWS Systems Manager Contacts](https://aws.amazon.com/systems-manager/)|[ssm-contacts]({{%relref "post/ssm-contacts.md" %}})|SMC||

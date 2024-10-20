@@ -1,6 +1,6 @@
 ---
 title: mediatailor
-date: 2024-10-10
+date: 2024-10-20
 description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 ---
 

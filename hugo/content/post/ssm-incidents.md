@@ -1,6 +1,6 @@
 ---
 title: ssm-incidents
-date: 2024-10-10
+date: 2024-10-20
 description: aws ssm-incidents (AWS Systems Manager Incident Manager) command/cmdlet list.
 ---
 

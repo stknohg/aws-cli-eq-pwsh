@@ -1,6 +1,6 @@
 ---
 title: iot-jobs-data
-date: 2024-10-10
+date: 2024-10-20
 description: aws iot-jobs-data (AWS IoT Jobs) command/cmdlet list.
 ---
 

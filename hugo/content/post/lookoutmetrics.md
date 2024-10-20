@@ -1,6 +1,6 @@
 ---
 title: lookoutmetrics
-date: 2024-10-10
+date: 2024-10-20
 description: aws lookoutmetrics (Amazon Lookout for Metrics) command/cmdlet list.
 ---
 

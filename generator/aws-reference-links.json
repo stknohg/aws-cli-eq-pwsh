@@ -347,6 +347,7 @@
   "snowball": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_Snowball_cmdlets.html",
   "sns": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Notification_Service_cmdlets.html",
   "sqs": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Queue_Service_cmdlets.html",
+  "socialmessaging": "https://docs.aws.amazon.com/powershell/latest/reference/items/SocialMessaging_cmdlets.html",
   "ssm": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Systems_Manager_cmdlets.html",
   "ssm-contacts": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSMContacts_cmdlets.html",
   "ssm-incidents": "https://docs.aws.amazon.com/powershell/latest/reference/items/SSMIncidents_cmdlets.html",

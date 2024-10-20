@@ -2093,6 +2093,12 @@
     "Url": "https://aws.amazon.com/sns/",
     "Note": ""
   },
+  "socialmessaging": {
+    "Prefix": "SOCIAL",
+    "Name": "AWS End User Messaging Social",
+    "Url": "https://aws.amazon.com/end-user-messaging/",
+    "Note": ""
+  },
   "sqs": {
     "Prefix": "SQS",
     "Name": "Amazon Simple Queue Service",

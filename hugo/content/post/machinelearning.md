@@ -1,6 +1,6 @@
 ---
 title: machinelearning
-date: 2024-10-20
+date: 2024-10-27
 description: aws machinelearning (Amazon Machine Learning) command/cmdlet list.
 ---
 

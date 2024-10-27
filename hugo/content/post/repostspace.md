@@ -1,6 +1,6 @@
 ---
 title: repostspace
-date: 2024-10-20
+date: 2024-10-27
 description: aws repostspace (AWS re:Post Private) command/cmdlet list.
 ---
 
@@ -13,6 +13,8 @@ description: aws repostspace (AWS re:Post Private) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws repostspace batch-add-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/repostspace/batch-add-role.html)|[Add-RESPBatchRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RESPBatchRole.html)|
+|[aws repostspace batch-remove-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/repostspace/batch-remove-role.html)|[Remove-RESPBatchRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RESPBatchRole.html)|
 |[aws repostspace create-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/repostspace/create-space.html)|[New-RESPSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-RESPSpace.html)|
 |[aws repostspace delete-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/repostspace/delete-space.html)|[Remove-RESPSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RESPSpace.html)|
 |[aws repostspace deregister-admin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/repostspace/deregister-admin.html)|[Unregister-RESPAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-RESPAdmin.html)|

@@ -1,6 +1,6 @@
 ---
 title: mwaa
-date: 2024-10-20
+date: 2024-10-27
 description: aws mwaa (Amazon Managed Workflows for Apache Airflow) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws mwaa (Amazon Managed Workflows for Apache Airflow) command/cmdl
 |[aws mwaa create-web-login-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/create-web-login-token.html)|[New-MWAAWebLoginToken](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MWAAWebLoginToken.html)|
 |[aws mwaa delete-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/delete-environment.html)|[Remove-MWAAEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MWAAEnvironment.html)|
 |[aws mwaa get-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/get-environment.html)|[Get-MWAAEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MWAAEnvironment.html)|
+|[aws mwaa invoke-rest-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/invoke-rest-api.html)|[Invoke-MWAARestApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-MWAARestApi.html)|
 |[aws mwaa list-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/list-environments.html)|[Get-MWAAEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MWAAEnvironmentList.html)|
 |[aws mwaa list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/list-tags-for-resource.html)|[Get-MWAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MWAAResourceTag.html)|
 |[aws mwaa publish-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/publish-metrics.html)|[Publish-MWAAMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-MWAAMetric.html)|

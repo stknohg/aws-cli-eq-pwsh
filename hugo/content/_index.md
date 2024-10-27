@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-10-20
+date: 2024-10-27
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.18.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.681 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.18.15 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.686 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -278,7 +278,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon CloudWatch Network Monitor](https://aws.amazon.com/cloudwatch/)|[networkmonitor]({{%relref "post/networkmonitor.md" %}})|CWNM||
-|[Amazon Nimble Studio](https://aws.amazon.com/nimble-studio/)|[nimble]({{%relref "post/nimble.md" %}})|NS||
 |[Amazon CloudWatch Observability Access Manager](https://aws.amazon.com/cloudwatch/)|[oam]({{%relref "post/oam.md" %}})|CWOAM||
 |[AWS HealthOmics](https://aws.amazon.com/healthomics/)|[omics]({{%relref "post/omics.md" %}})|OMICS|Formerly Amazon Omics.|
 |[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|Formerly Amazon Elasticsearch Service.|

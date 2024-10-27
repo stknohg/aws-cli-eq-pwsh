@@ -1,6 +1,6 @@
 ---
 title: pca-connector-ad
-date: 2024-10-20
+date: 2024-10-27
 description: aws pca-connector-ad (AWS Private CA Connector for Active Directory) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-10-20
+date: 2024-10-27
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -288,6 +288,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-instance-credit-specifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-credit-specifications.html)|[Get-EC2CreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CreditSpecification.html)|
 |[aws ec2 describe-instance-event-notification-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-event-notification-attributes.html)|[Get-EC2InstanceEventNotificationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceEventNotificationAttribute.html)|
 |[aws ec2 describe-instance-event-windows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-event-windows.html)|[Get-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceEventWindow.html)|
+|[aws ec2 describe-instance-image-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-image-metadata.html)|[Get-EC2InstanceImageMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceImageMetadata.html)|
 |[aws ec2 describe-instance-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-status.html)|[Get-EC2InstanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceStatus.html)|
 |[aws ec2 describe-instance-topology](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-topology.html)|[Get-EC2InstanceTopology](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTopology.html)|
 |[aws ec2 describe-instance-type-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-instance-type-offerings.html)|[Get-EC2InstanceTypeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2InstanceTypeOffering.html)|

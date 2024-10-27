@@ -1553,12 +1553,6 @@
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": ""
   },
-  "nimble": {
-    "Prefix": "NS",
-    "Name": "Amazon Nimble Studio",
-    "Url": "https://aws.amazon.com/nimble-studio/",
-    "Note": ""
-  },
   "oam": {
     "Prefix": "CWOAM",
     "Name": "Amazon CloudWatch Observability Access Manager",

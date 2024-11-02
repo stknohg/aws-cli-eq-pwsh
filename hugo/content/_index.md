@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-10-27
+date: 2024-11-02
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.18.15 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.686 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.19.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.691 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -171,6 +171,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Free Tier GetFreeTierUsage API](https://aws.amazon.com/aws-cost-management/)|[freetier]({{%relref "post/freetier.md" %}})|FT||
 |[Amazon FSx](https://aws.amazon.com/fsx/)|[fsx]({{%relref "post/fsx.md" %}})|FSX||
 |[Amazon GameLift](https://aws.amazon.com/gamelift/)|[gamelift]({{%relref "post/gamelift.md" %}})|GML||
+|[Amazon Location Service Maps V2](https://aws.amazon.com/location/)|[geo-maps]({{%relref "post/geo-maps.md" %}})|GEOM||
+|[Amazon Location Service Places V2](https://aws.amazon.com/location/)|[geo-places]({{%relref "post/geo-places.md" %}})|GEOP||
+|[Amazon Location Service Routes V2](https://aws.amazon.com/location/)|[geo-routes]({{%relref "post/geo-routes.md" %}})|GEOR||
 |[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||

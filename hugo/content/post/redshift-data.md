@@ -1,6 +1,6 @@
 ---
 title: redshift-data
-date: 2024-10-27
+date: 2024-11-02
 description: aws redshift-data (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws redshift-data (Amazon Redshift) command/cmdlet list.
 |[aws redshift-data describe-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/describe-table.html)|[Get-RSDTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDTable.html)|
 |[aws redshift-data execute-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/execute-statement.html)|[Send-RSDStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-RSDStatement.html)|
 |[aws redshift-data get-statement-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/get-statement-result.html)|[Get-RSDStatementResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDStatementResult.html)|
+|[aws redshift-data get-statement-result-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/get-statement-result-v2.html)|[Get-RSDStatementResultV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDStatementResultV2.html)|
 |[aws redshift-data list-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/list-databases.html)|[Get-RSDDatabasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDDatabasisList.html)|
 |[aws redshift-data list-schemas](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/list-schemas.html)|[Get-RSDSchemaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDSchemaList.html)|
 |[aws redshift-data list-statements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-data/list-statements.html)|[Get-RSDStatementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSDStatementList.html)|

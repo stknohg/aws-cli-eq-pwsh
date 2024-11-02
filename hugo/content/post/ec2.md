@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-10-27
+date: 2024-11-02
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 associate-ipam-resource-discovery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-ipam-resource-discovery.html)|[Register-EC2IpamResourceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2IpamResourceDiscovery.html)|
 |[aws ec2 associate-nat-gateway-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-nat-gateway-address.html)|[Register-EC2NatGatewayAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2NatGatewayAddress.html)|
 |[aws ec2 associate-route-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-route-table.html)|[Register-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2RouteTable.html)|
+|[aws ec2 associate-security-group-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-security-group-vpc.html)|[Register-EC2SecurityGroupVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2SecurityGroupVpc.html)|
 |[aws ec2 associate-subnet-cidr-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-subnet-cidr-block.html)|[Register-EC2SubnetCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2SubnetCidrBlock.html)|
 |[aws ec2 associate-transit-gateway-multicast-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-transit-gateway-multicast-domain.html)|[Register-EC2TransitGatewayMulticastDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2TransitGatewayMulticastDomain.html)|
 |[aws ec2 associate-transit-gateway-policy-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-transit-gateway-policy-table.html)|[Register-EC2TransitGatewayPolicyTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2TransitGatewayPolicyTable.html)|
@@ -340,6 +341,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-scheduled-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-scheduled-instances.html)|[Get-EC2ScheduledInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ScheduledInstance.html)|
 |[aws ec2 describe-security-group-references](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-group-references.html)|[Get-EC2SecurityGroupReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupReference.html)|
 |[aws ec2 describe-security-group-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-group-rules.html)|[Get-EC2SecurityGroupRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupRule.html)|
+|[aws ec2 describe-security-group-vpc-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-group-vpc-associations.html)|[Get-EC2SecurityGroupVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupVpcAssociation.html)|
 |[aws ec2 describe-security-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-groups.html)|[Get-EC2SecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroup.html)|
 |[aws ec2 describe-snapshot-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-snapshot-attribute.html)|[Get-EC2SnapshotAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SnapshotAttribute.html)|
 |[aws ec2 describe-snapshot-tier-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-snapshot-tier-status.html)|[Get-EC2SnapshotTierStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SnapshotTierStatus.html)|
@@ -423,6 +425,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 disassociate-ipam-resource-discovery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-ipam-resource-discovery.html)|[Unregister-EC2IpamResourceDiscovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2IpamResourceDiscovery.html)|
 |[aws ec2 disassociate-nat-gateway-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-nat-gateway-address.html)|[Unregister-EC2NatGatewayAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2NatGatewayAddress.html)|
 |[aws ec2 disassociate-route-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-route-table.html)|[Unregister-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2RouteTable.html)|
+|[aws ec2 disassociate-security-group-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-security-group-vpc.html)|[Unregister-EC2SecurityGroupVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2SecurityGroupVpc.html)|
 |[aws ec2 disassociate-subnet-cidr-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-subnet-cidr-block.html)|[Unregister-EC2SubnetCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2SubnetCidrBlock.html)|
 |[aws ec2 disassociate-transit-gateway-multicast-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-transit-gateway-multicast-domain.html)|[Unregister-EC2TransitGatewayMulticastDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayMulticastDomain.html)|
 |[aws ec2 disassociate-transit-gateway-policy-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/disassociate-transit-gateway-policy-table.html)|[Unregister-EC2TransitGatewayPolicyTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2TransitGatewayPolicyTable.html)|

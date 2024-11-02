@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2024-10-27
+date: 2024-11-02
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 

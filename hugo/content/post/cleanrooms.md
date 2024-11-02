@@ -1,6 +1,6 @@
 ---
 title: cleanrooms
-date: 2024-10-27
+date: 2024-11-02
 description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 ---
 

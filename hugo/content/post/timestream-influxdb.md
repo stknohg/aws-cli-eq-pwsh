@@ -1,6 +1,6 @@
 ---
 title: timestream-influxdb
-date: 2024-10-27
+date: 2024-11-02
 description: aws timestream-influxdb (Amazon Timestream for InfluxDB) command/cmdlet list.
 ---
 

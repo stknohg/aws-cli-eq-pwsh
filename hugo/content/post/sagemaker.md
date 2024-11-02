@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2024-10-27
+date: 2024-11-02
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker add-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/add-association.html)|[Add-SMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMAssociation.html)|
 |[aws sagemaker add-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/add-tags.html)|[Add-SMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMResourceTag.html)|
 |[aws sagemaker associate-trial-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/associate-trial-component.html)|[Register-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMTrialComponent.html)|
+|[aws sagemaker batch-delete-cluster-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/batch-delete-cluster-nodes.html)|[Set-SMDeleteClusterNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SMDeleteClusterNode.html)|
 |[aws sagemaker batch-describe-model-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/batch-describe-model-package.html)|[Get-SMDescribeModelPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMDescribeModelPackage.html)|
 |[aws sagemaker create-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-action.html)|[New-SMAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAction.html)|
 |[aws sagemaker create-algorithm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-algorithm.html)|[New-SMAlgorithm](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMAlgorithm.html)|

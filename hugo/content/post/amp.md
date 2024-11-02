@@ -1,6 +1,6 @@
 ---
 title: amp
-date: 2024-10-27
+date: 2024-11-02
 description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list.
 ---
 
@@ -38,5 +38,6 @@ description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list
 |[aws amp tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/tag-resource.html)|[Add-PROMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PROMResourceTag.html)|
 |[aws amp untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/untag-resource.html)|[Remove-PROMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMResourceTag.html)|
 |[aws amp update-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-logging-configuration.html)|[Update-PROMLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMLoggingConfiguration.html)|
+|[aws amp update-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-scraper.html)|[Update-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMScraper.html)|
 |[aws amp update-workspace-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-workspace-alias.html)|[Update-PROMWorkspaceAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMWorkspaceAlias.html)|
 

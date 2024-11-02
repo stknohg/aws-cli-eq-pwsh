@@ -1,6 +1,6 @@
 ---
 title: docdb-elastic
-date: 2024-10-27
+date: 2024-11-02
 description: aws docdb-elastic (Amazon DocumentDB Elastic Clusters) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws docdb-elastic (Amazon DocumentDB Elastic Clusters) command/cmdl
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws docdb-elastic apply-pending-maintenance-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/apply-pending-maintenance-action.html)|[Set-DOCEPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DOCEPendingMaintenanceAction.html)|
 |[aws docdb-elastic copy-cluster-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/copy-cluster-snapshot.html)|[Copy-DOCEClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-DOCEClusterSnapshot.html)|
 |[aws docdb-elastic create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/create-cluster.html)|[New-DOCECluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOCECluster.html)|
 |[aws docdb-elastic create-cluster-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/create-cluster-snapshot.html)|[New-DOCEClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOCEClusterSnapshot.html)|
@@ -20,8 +21,10 @@ description: aws docdb-elastic (Amazon DocumentDB Elastic Clusters) command/cmdl
 |[aws docdb-elastic delete-cluster-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/delete-cluster-snapshot.html)|[Remove-DOCEClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOCEClusterSnapshot.html)|
 |[aws docdb-elastic get-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/get-cluster.html)|[Get-DOCECluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCECluster.html)|
 |[aws docdb-elastic get-cluster-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/get-cluster-snapshot.html)|[Get-DOCEClusterSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEClusterSnapshot.html)|
+|[aws docdb-elastic get-pending-maintenance-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/get-pending-maintenance-action.html)|[Get-DOCEPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEPendingMaintenanceAction.html)|
 |[aws docdb-elastic list-cluster-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/list-cluster-snapshots.html)|[Get-DOCEClusterSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEClusterSnapshotList.html)|
 |[aws docdb-elastic list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/list-clusters.html)|[Get-DOCEClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEClusterList.html)|
+|[aws docdb-elastic list-pending-maintenance-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/list-pending-maintenance-actions.html)|[Get-DOCEPendingMaintenanceActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEPendingMaintenanceActionList.html)|
 |[aws docdb-elastic list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/list-tags-for-resource.html)|[Get-DOCEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOCEResourceTag.html)|
 |[aws docdb-elastic restore-cluster-from-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/restore-cluster-from-snapshot.html)|[Restore-DOCEClusterFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DOCEClusterFromSnapshot.html)|
 |[aws docdb-elastic start-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/docdb-elastic/start-cluster.html)|[Start-DOCECluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DOCECluster.html)|

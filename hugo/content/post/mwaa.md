@@ -1,6 +1,6 @@
 ---
 title: mwaa
-date: 2024-10-27
+date: 2024-11-02
 description: aws mwaa (Amazon Managed Workflows for Apache Airflow) command/cmdlet list.
 ---
 

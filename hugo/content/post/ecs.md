@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2024-10-27
+date: 2024-11-02
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -30,6 +30,8 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs describe-capacity-providers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-capacity-providers.html)|[Get-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSCapacityProvider.html)|
 |[aws ecs describe-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-clusters.html)|[Get-ECSClusterDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterDetail.html)|
 |[aws ecs describe-container-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-container-instances.html)|[Get-ECSContainerInstanceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSContainerInstanceDetail.html)|
+|[aws ecs describe-service-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-service-deployments.html)|[Get-ECSServiceDeploymentDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServiceDeploymentDetail.html)|
+|[aws ecs describe-service-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-service-revisions.html)|[Get-ECSServiceRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServiceRevision.html)|
 |[aws ecs describe-services](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-services.html)|[Get-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSService.html)|
 |[aws ecs describe-task-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-task-definition.html)|[Get-ECSTaskDefinitionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDefinitionDetail.html)|
 |[aws ecs describe-task-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-task-sets.html)|[Get-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskSet.html)|
@@ -41,6 +43,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs list-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-attributes.html)|[Get-ECSAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSAttributeList.html)|
 |[aws ecs list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-clusters.html)|[Get-ECSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterList.html)|
 |[aws ecs list-container-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-container-instances.html)|[Get-ECSContainerInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSContainerInstanceList.html)|
+|[aws ecs list-service-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-service-deployments.html)|[Get-ECSServiceDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServiceDeploymentList.html)|
 |[aws ecs list-services](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-services.html)|[Get-ECSClusterService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterService.html)|
 |[aws ecs list-services-by-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-services-by-namespace.html)|[Get-ECSServicesByNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServicesByNamespace.html)|
 |[aws ecs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-tags-for-resource.html)|[Get-ECSTagsForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTagsForResource.html)|

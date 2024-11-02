@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2024-10-27
+date: 2024-11-02
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock create-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-evaluation-job.html)|[New-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDREvaluationJob.html)|
 |[aws bedrock create-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail.html)|[New-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrail.html)|
 |[aws bedrock create-guardrail-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail-version.html)|[New-BDRGuardrailVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrailVersion.html)|
+|[aws bedrock create-inference-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-inference-profile.html)|[New-BDRInferenceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRInferenceProfile.html)|
 |[aws bedrock create-model-copy-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-copy-job.html)|[New-BDRModelCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelCopyJob.html)|
 |[aws bedrock create-model-customization-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-customization-job.html)|[New-BDRModelCustomizationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelCustomizationJob.html)|
 |[aws bedrock create-model-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-import-job.html)|[New-BDRModelImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelImportJob.html)|
@@ -25,6 +26,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock delete-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-custom-model.html)|[Remove-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRCustomModel.html)|
 |[aws bedrock delete-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-guardrail.html)|[Remove-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRGuardrail.html)|
 |[aws bedrock delete-imported-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-imported-model.html)|[Remove-BDRImportedModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRImportedModel.html)|
+|[aws bedrock delete-inference-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-inference-profile.html)|[Remove-BDRInferenceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRInferenceProfile.html)|
 |[aws bedrock delete-model-invocation-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-model-invocation-logging-configuration.html)|[Remove-BDRModelInvocationLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRModelInvocationLoggingConfiguration.html)|
 |[aws bedrock delete-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-provisioned-model-throughput.html)|[Remove-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRProvisionedModelThroughput.html)|
 |[aws bedrock get-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-custom-model.html)|[Get-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRCustomModel.html)|

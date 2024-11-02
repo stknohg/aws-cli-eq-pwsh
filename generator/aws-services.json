@@ -905,6 +905,24 @@
     "Url": "https://aws.amazon.com/gamelift/",
     "Note": ""
   },
+  "geo-maps": {
+    "Prefix": "GEOM",
+    "Name": "Amazon Location Service Maps V2",
+    "Url": "https://aws.amazon.com/location/",
+    "Note": ""
+  },
+  "geo-places": {
+    "Prefix": "GEOP",
+    "Name": "Amazon Location Service Places V2",
+    "Url": "https://aws.amazon.com/location/",
+    "Note": ""
+  },
+  "geo-routes": {
+    "Prefix": "GEOR",
+    "Name": "Amazon Location Service Routes V2",
+    "Url": "https://aws.amazon.com/location/",
+    "Note": ""
+  },
   "gamesparks": {
     "Prefix": "GMESP",
     "Name": "(Deprecated) Amazon GameSparks",

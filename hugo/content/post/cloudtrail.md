@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2024-11-02
+date: 2024-11-16
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail describe-trails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/describe-trails.html)|[Get-CTTrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrail.html)|
 |[aws cloudtrail disable-federation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/disable-federation.html)|[Disable-CTFederation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CTFederation.html)|
 |[aws cloudtrail enable-federation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/enable-federation.html)|[Enable-CTFederation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CTFederation.html)|
+|[aws cloudtrail generate-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/generate-query.html)|[Invoke-CTGenerateQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CTGenerateQuery.html)|
 |[aws cloudtrail get-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-channel.html)|[Get-CTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTChannel.html)|
 |[aws cloudtrail get-event-data-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-data-store.html)|[Get-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventDataStore.html)|
 |[aws cloudtrail get-event-selectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-selectors.html)|[Get-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventSelector.html)|

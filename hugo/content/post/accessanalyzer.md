@@ -1,6 +1,6 @@
 ---
 title: accessanalyzer
-date: 2024-11-02
+date: 2024-11-16
 description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 |[aws accessanalyzer start-resource-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/start-resource-scan.html)|[Start-IAMAAResourceScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IAMAAResourceScan.html)|
 |[aws accessanalyzer tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/tag-resource.html)|[Add-IAMAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMAAResourceTag.html)|
 |[aws accessanalyzer untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/untag-resource.html)|[Remove-IAMAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMAAResourceTag.html)|
+|[aws accessanalyzer update-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/update-analyzer.html)|[Update-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMAAAnalyzer.html)|
 |[aws accessanalyzer update-archive-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/update-archive-rule.html)|[Update-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMAAArchiveRule.html)|
 |[aws accessanalyzer update-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/update-findings.html)|[Update-IAMAAFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMAAFinding.html)|
 |[aws accessanalyzer validate-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/validate-policy.html)|[Use-IAMAAPolicyValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Use-IAMAAPolicyValidation.html)|

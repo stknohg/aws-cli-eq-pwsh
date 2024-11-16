@@ -1,6 +1,6 @@
 ---
 title: resource-explorer-2
-date: 2024-11-02
+date: 2024-11-16
 description: aws resource-explorer-2 (AWS Resource Explorer) command/cmdlet list.
 ---
 
@@ -23,9 +23,11 @@ description: aws resource-explorer-2 (AWS Resource Explorer) command/cmdlet list
 |[aws resource-explorer-2 get-account-level-service-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/get-account-level-service-configuration.html)|[Get-AREXAccountLevelServiceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXAccountLevelServiceConfiguration.html)|
 |[aws resource-explorer-2 get-default-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/get-default-view.html)|[Get-AREXDefaultView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXDefaultView.html)|
 |[aws resource-explorer-2 get-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/get-index.html)|[Get-AREXIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXIndex.html)|
+|[aws resource-explorer-2 get-managed-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/get-managed-view.html)|[Get-AREXManagedView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXManagedView.html)|
 |[aws resource-explorer-2 get-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/get-view.html)|[Get-AREXView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXView.html)|
 |[aws resource-explorer-2 list-indexes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-indexes.html)|[Get-AREXIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXIndexList.html)|
 |[aws resource-explorer-2 list-indexes-for-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-indexes-for-members.html)|[Get-AREXIndexesForMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXIndexesForMemberList.html)|
+|[aws resource-explorer-2 list-managed-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-managed-views.html)|[Get-AREXManagedViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXManagedViewList.html)|
 |[aws resource-explorer-2 list-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-resources.html)|[Get-AREXResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXResourceList.html)|
 |[aws resource-explorer-2 list-supported-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-supported-resource-types.html)|[Get-AREXSupportedResourceTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXSupportedResourceTypeList.html)|
 |[aws resource-explorer-2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resource-explorer-2/list-tags-for-resource.html)|[Get-AREXResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AREXResourceTag.html)|

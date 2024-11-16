@@ -1,6 +1,6 @@
 ---
 title: verifiedpermissions
-date: 2024-11-02
+date: 2024-11-16
 description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdle
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws verifiedpermissions batch-get-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/batch-get-policy.html)|[Get-AVPBatchGetPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AVPBatchGetPolicy.html)|
 |[aws verifiedpermissions batch-is-authorized](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/batch-is-authorized.html)|[Test-AVPBatchAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-AVPBatchAuthorization.html)|
 |[aws verifiedpermissions batch-is-authorized-with-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/batch-is-authorized-with-token.html)|[Get-AVPBatchIsAuthorizedWithToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AVPBatchIsAuthorizedWithToken.html)|
 |[aws verifiedpermissions create-identity-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/create-identity-source.html)|[New-AVPIdentitySource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AVPIdentitySource.html)|

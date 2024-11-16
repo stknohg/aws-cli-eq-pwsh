@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2024-11-02
+date: 2024-11-16
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch add-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/add-data-source.html)|[Add-OSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OSDataSource.html)|
 |[aws opensearch add-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/add-tags.html)|[Add-OSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OSResourceTag.html)|
 |[aws opensearch associate-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/associate-package.html)|[Start-OSAssociatePackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSAssociatePackage.html)|
+|[aws opensearch associate-packages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/associate-packages.html)|[Start-OSOSAssociatePackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSOSAssociatePackageList.html)|
 |[aws opensearch authorize-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/authorize-vpc-endpoint-access.html)|[Approve-OSVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-OSVpcEndpointAccess.html)|
 |[aws opensearch cancel-domain-config-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/cancel-domain-config-change.html)|[Stop-OSDomainConfigChange](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OSDomainConfigChange.html)|
 |[aws opensearch cancel-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/cancel-service-software-update.html)|[Stop-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OSServiceSoftwareUpdate.html)|
@@ -50,6 +51,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch describe-reserved-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/describe-reserved-instances.html)|[Get-OSReservedInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSReservedInstanceList.html)|
 |[aws opensearch describe-vpc-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/describe-vpc-endpoints.html)|[Get-OSVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSVpcEndpoint.html)|
 |[aws opensearch dissociate-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/dissociate-package.html)|[Start-OSDissociatePackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSDissociatePackage.html)|
+|[aws opensearch dissociate-packages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/dissociate-packages.html)|[Start-OSOSDissociatePackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSOSDissociatePackageList.html)|
 |[aws opensearch get-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-application.html)|[Get-OSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSApplication.html)|
 |[aws opensearch get-compatible-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-compatible-versions.html)|[Get-OSCompatibleVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSCompatibleVersion.html)|
 |[aws opensearch get-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-data-source.html)|[Get-OSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDataSource.html)|
@@ -81,6 +83,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch update-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-data-source.html)|[Update-OSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDataSource.html)|
 |[aws opensearch update-domain-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-domain-config.html)|[Update-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDomainConfig.html)|
 |[aws opensearch update-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-package.html)|[Update-OSPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSPackage.html)|
+|[aws opensearch update-package-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-package-scope.html)|[Update-OSOSPackageScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSOSPackageScope.html)|
 |[aws opensearch update-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-scheduled-action.html)|[Update-OSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSScheduledAction.html)|
 |[aws opensearch update-vpc-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-vpc-endpoint.html)|[Update-OSSVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSSVpcEndpoint.html)|
 |[aws opensearch update-vpc-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-vpc-endpoint.html)|[Update-OSVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSVpcEndpoint.html)|

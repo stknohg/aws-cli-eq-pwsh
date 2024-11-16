@@ -1,6 +1,6 @@
 ---
 title: qapps
-date: 2024-11-02
+date: 2024-11-16
 description: aws qapps (Amazon Q Apps) command/cmdlet list.
 ---
 
@@ -15,6 +15,9 @@ description: aws qapps (Amazon Q Apps) command/cmdlet list.
 |----|----|
 |[aws qapps associate-library-item-review](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/associate-library-item-review.html)|[Register-qappsLibraryItemReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-qappsLibraryItemReview.html)|
 |[aws qapps associate-q-app-with-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/associate-q-app-with-user.html)|[Register-qappsQAppWithUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-qappsQAppWithUser.html)|
+|[aws qapps batch-create-category](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/batch-create-category.html)|[New-qappsCreateCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/New-qappsCreateCategory.html)|
+|[aws qapps batch-delete-category](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/batch-delete-category.html)|[Remove-qappsDeleteCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-qappsDeleteCategory.html)|
+|[aws qapps batch-update-category](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/batch-update-category.html)|[Set-qappsUpdateCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-qappsUpdateCategory.html)|
 |[aws qapps create-library-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/create-library-item.html)|[New-qappsLibraryItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-qappsLibraryItem.html)|
 |[aws qapps create-q-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/create-q-app.html)|[New-qappsQApp](https://docs.aws.amazon.com/powershell/latest/reference/items/New-qappsQApp.html)|
 |[aws qapps delete-library-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/delete-library-item.html)|[Remove-qappsLibraryItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-qappsLibraryItem.html)|
@@ -25,6 +28,7 @@ description: aws qapps (Amazon Q Apps) command/cmdlet list.
 |[aws qapps get-q-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/get-q-app.html)|[Get-qappsQApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-qappsQApp.html)|
 |[aws qapps get-q-app-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/get-q-app-session.html)|[Get-qappsQAppSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-qappsQAppSession.html)|
 |[aws qapps import-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/import-document.html)|[Import-qappsDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-qappsDocument.html)|
+|[aws qapps list-categories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/list-categories.html)|[Get-qappsCategoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-qappsCategoryList.html)|
 |[aws qapps list-library-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/list-library-items.html)|[Get-qappsLibraryItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-qappsLibraryItemList.html)|
 |[aws qapps list-q-apps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/list-q-apps.html)|[Get-qappsQAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-qappsQAppList.html)|
 |[aws qapps list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qapps/list-tags-for-resource.html)|[Get-qappsResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-qappsResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2024-11-02
+date: 2024-11-16
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -192,6 +192,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-policy-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-policy-versions.html)|[Get-IOTPolicyVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyVersionList.html)|
 |[aws iot list-principal-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-principal-policies.html)|[Get-IOTPrincipalPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalPolicyList.html)|
 |[aws iot list-principal-things](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-principal-things.html)|[Get-IOTPrincipalThingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalThingList.html)|
+|[aws iot list-principal-things-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-principal-things-v2.html)|[Get-IOTPrincipalThingsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalThingsV2List.html)|
 |[aws iot list-provisioning-template-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-provisioning-template-versions.html)|[Get-IOTProvisioningTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateVersionList.html)|
 |[aws iot list-provisioning-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-provisioning-templates.html)|[Get-IOTProvisioningTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateList.html)|
 |[aws iot list-related-resources-for-audit-finding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-related-resources-for-audit-finding.html)|[Get-IOTRelatedResourcesForAuditFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRelatedResourcesForAuditFindingList.html)|
@@ -207,6 +208,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-thing-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-groups.html)|[Get-IOTThingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingGroupList.html)|
 |[aws iot list-thing-groups-for-thing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-groups-for-thing.html)|[Get-IOTThingGroupsForThingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingGroupsForThingList.html)|
 |[aws iot list-thing-principals](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-principals.html)|[Get-IOTThingPrincipalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingPrincipalList.html)|
+|[aws iot list-thing-principals-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-principals-v2.html)|[Get-IOTThingPrincipalsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingPrincipalsV2List.html)|
 |[aws iot list-thing-registration-task-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-registration-task-reports.html)|[Get-IOTThingRegistrationTaskReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingRegistrationTaskReportList.html)|
 |[aws iot list-thing-registration-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-registration-tasks.html)|[Get-IOTThingRegistrationTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingRegistrationTaskList.html)|
 |[aws iot list-thing-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-thing-types.html)|[Get-IOTThingTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingTypeList.html)|
@@ -269,6 +271,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot update-thing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-thing.html)|[Update-IOTThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTThing.html)|
 |[aws iot update-thing-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-thing-group.html)|[Update-IOTThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTThingGroup.html)|
 |[aws iot update-thing-groups-for-thing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-thing-groups-for-thing.html)|[Update-IOTThingGroupsForThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTThingGroupsForThing.html)|
+|[aws iot update-thing-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-thing-type.html)|[Update-IOTThingType](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTThingType.html)|
 |[aws iot update-topic-rule-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-topic-rule-destination.html)|[Update-IOTTopicRuleDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTTopicRuleDestination.html)|
 |[aws iot validate-security-profile-behaviors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/validate-security-profile-behaviors.html)|[Test-IOTValidSecurityProfileBehavior](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-IOTValidSecurityProfileBehavior.html)|
 

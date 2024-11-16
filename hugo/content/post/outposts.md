@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2024-11-02
+date: 2024-11-16
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -29,7 +29,9 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts get-outpost-supported-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-supported-instance-types.html)|[Get-OUTPOutpostSupportedInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostSupportedInstanceType.html)|
 |[aws outposts get-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-site.html)|[Get-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSite.html)|
 |[aws outposts get-site-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-site-address.html)|[Get-OUTPSiteAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSiteAddress.html)|
+|[aws outposts list-asset-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-asset-instances.html)|[Get-OUTPAssetInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPAssetInstanceList.html)|
 |[aws outposts list-assets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-assets.html)|[Get-OUTPAssetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPAssetList.html)|
+|[aws outposts list-blocking-instances-for-capacity-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-blocking-instances-for-capacity-task.html)|[Get-OUTPBlockingInstancesForCapacityTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPBlockingInstancesForCapacityTaskList.html)|
 |[aws outposts list-capacity-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-capacity-tasks.html)|[Get-OUTPCapacityTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPCapacityTaskList.html)|
 |[aws outposts list-catalog-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-catalog-items.html)|[Get-OUTPCatalogItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPCatalogItemList.html)|
 |[aws outposts list-orders](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-orders.html)|[Get-OUTPOrderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOrderList.html)|

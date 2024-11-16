@@ -1,6 +1,6 @@
 ---
 title: controltower
-date: 2024-11-02
+date: 2024-11-16
 description: aws controltower (AWS Control Tower) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws controltower (AWS Control Tower) command/cmdlet list.
 |[aws controltower list-landing-zones](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-landing-zones.html)|[Get-ACTLandingZoneList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTLandingZoneList.html)|
 |[aws controltower list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/list-tags-for-resource.html)|[Get-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACTResourceTag.html)|
 |[aws controltower reset-enabled-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/reset-enabled-baseline.html)|[Reset-ACTEnabledBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-ACTEnabledBaseline.html)|
+|[aws controltower reset-enabled-control](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/reset-enabled-control.html)|[Reset-ACTEnabledControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-ACTEnabledControl.html)|
 |[aws controltower reset-landing-zone](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/reset-landing-zone.html)|[Reset-ACTLandingZone](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-ACTLandingZone.html)|
 |[aws controltower tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/tag-resource.html)|[Add-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ACTResourceTag.html)|
 |[aws controltower untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controltower/untag-resource.html)|[Remove-ACTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ACTResourceTag.html)|

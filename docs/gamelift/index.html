@@ -71,7 +71,7 @@
         
 
 
-<p class="text-right"><strong>Last update: </strong>2024-11-02</p>
+<p class="text-right"><strong>Last update: </strong>2024-11-16</p>
 
 <h2 id="gamelift">gamelift</h2>
 <h3 id="amazon-gamelifthttpsawsamazoncomgamelift"><a href="https://aws.amazon.com/gamelift/">Amazon GameLift</a></h3>
@@ -102,6 +102,10 @@
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-build.html">aws gamelift create-build</a></td>
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLBuild.html">New-GMLBuild</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-container-fleet.html">aws gamelift create-container-fleet</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLContainerFleet.html">New-GMLContainerFleet</a></td>
       </tr>
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/create-container-group-definition.html">aws gamelift create-container-group-definition</a></td>
@@ -166,6 +170,10 @@
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-build.html">aws gamelift delete-build</a></td>
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLBuild.html">Remove-GMLBuild</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-container-fleet.html">aws gamelift delete-container-fleet</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLContainerFleet.html">Remove-GMLContainerFleet</a></td>
       </tr>
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/delete-container-group-definition.html">aws gamelift delete-container-group-definition</a></td>
@@ -236,6 +244,10 @@
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLCompute.html">Get-GMLCompute</a></td>
       </tr>
       <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-container-fleet.html">aws gamelift describe-container-fleet</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerFleet.html">Get-GMLContainerFleet</a></td>
+      </tr>
+      <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-container-group-definition.html">aws gamelift describe-container-group-definition</a></td>
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupDefinition.html">Get-GMLContainerGroupDefinition</a></td>
       </tr>
@@ -250,6 +262,10 @@
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-capacity.html">aws gamelift describe-fleet-capacity</a></td>
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetCapacity.html">Get-GMLFleetCapacity</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-deployment.html">aws gamelift describe-fleet-deployment</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetDeployment.html">Get-GMLFleetDeployment</a></td>
       </tr>
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-events.html">aws gamelift describe-fleet-events</a></td>
@@ -376,8 +392,20 @@
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLComputeList.html">Get-GMLComputeList</a></td>
       </tr>
       <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-container-fleets.html">aws gamelift list-container-fleets</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerFleetList.html">Get-GMLContainerFleetList</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-container-group-definition-versions.html">aws gamelift list-container-group-definition-versions</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupDefinitionVersionList.html">Get-GMLContainerGroupDefinitionVersionList</a></td>
+      </tr>
+      <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-container-group-definitions.html">aws gamelift list-container-group-definitions</a></td>
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupDefinitionList.html">Get-GMLContainerGroupDefinitionList</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-fleet-deployments.html">aws gamelift list-fleet-deployments</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetDeploymentList.html">Get-GMLFleetDeploymentList</a></td>
       </tr>
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-fleets.html">aws gamelift list-fleets</a></td>
@@ -478,6 +506,14 @@
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-build.html">aws gamelift update-build</a></td>
           <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLBuild.html">Update-GMLBuild</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-container-fleet.html">aws gamelift update-container-fleet</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLContainerFleet.html">Update-GMLContainerFleet</a></td>
+      </tr>
+      <tr>
+          <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-container-group-definition.html">aws gamelift update-container-group-definition</a></td>
+          <td><a href="https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLContainerGroupDefinition.html">Update-GMLContainerGroupDefinition</a></td>
       </tr>
       <tr>
           <td><a href="https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-fleet-attributes.html">aws gamelift update-fleet-attributes</a></td>

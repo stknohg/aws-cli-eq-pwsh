@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent
-date: 2024-11-02
+date: 2024-11-16
 description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -75,4 +75,5 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent update-flow-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/update-flow-alias.html)|[Update-AABFlowAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AABFlowAlias.html)|
 |[aws bedrock-agent update-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/update-knowledge-base.html)|[Update-AABKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AABKnowledgeBase.html)|
 |[aws bedrock-agent update-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/update-prompt.html)|[Update-AABPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AABPrompt.html)|
+|[aws bedrock-agent validate-flow-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/validate-flow-definition.html)|[Confirm-AABFlowDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-AABFlowDefinition.html)|
 

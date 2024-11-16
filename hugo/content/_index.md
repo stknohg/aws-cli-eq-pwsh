@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-11-02
+date: 2024-11-16
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.19.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.691 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.21.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.700 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -60,6 +60,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|AAB||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|BAR||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock-runtime]({{%relref "post/bedrock-runtime.md" %}})|BDRR||
+|[AWS Billing](https://aws.amazon.com/aws-cost-management/aws-billing/)|[billing]({{%relref "post/billing.md" %}})|AWSB||
 |[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||
 |[Amazon Braket](https://aws.amazon.com/braket/)|[braket]({{%relref "post/braket.md" %}})|BRKT||
 |[AWS Budgets](https://aws.amazon.com/aws-cost-management/aws-budgets/)|[budgets]({{%relref "post/budgets.md" %}})|BGT||
@@ -108,6 +109,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Connect](https://aws.amazon.com/connect/)|[connect]({{%relref "post/connect.md" %}})|CONN||
 |[Contact Lens for Amazon Connect](https://aws.amazon.com/connect/)|[connect-contact-lens]({{%relref "post/connect-contact-lens.md" %}})|CCL||
 |[Amazon Connect Outbound Campaigns](https://aws.amazon.com/connect/outbound/)|[connectcampaigns]({{%relref "post/connectcampaigns.md" %}})|CCS||
+|[Amazon Connect Outbound Campaigns V2](https://aws.amazon.com/connect/outbound/)|[connectcampaignsv2]({{%relref "post/connectcampaignsv2.md" %}})|CCS2||
 |[Amazon Connect Cases](https://aws.amazon.com/connect/cases/)|[connectcases]({{%relref "post/connectcases.md" %}})|CCAS||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
 |[AWS Control Catalog](https://aws.amazon.com/controltower/)|[controlcatalog]({{%relref "post/controlcatalog.md" %}})|CLCAT||
@@ -291,6 +293,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon OpenSearch Ingestion](https://aws.amazon.com/opensearch-service/features/integration/)|[osis]({{%relref "post/osis.md" %}})|OSIS||
 |[AWS Outposts](https://aws.amazon.com/outposts/)|[outposts]({{%relref "post/outposts.md" %}})|OUTP||
 |[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|PAN||
+|[AWS Partner Central API for Selling](https://partnercentral.awspartner.com/)|[partnercentral-selling]({{%relref "post/partnercentral-selling.md" %}})|PC||
 |[AWS Payment Cryptography Control Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography]({{%relref "post/payment-cryptography.md" %}})|PAYCC||
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
 |[AWS Private CA Connector for Active Directory](https://aws.amazon.com/private-ca/)|[pca-connector-ad]({{%relref "post/pca-connector-ad.md" %}})|PCAAD||

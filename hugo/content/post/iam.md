@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2024-11-02
+date: 2024-11-16
 description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 ---
 
@@ -61,7 +61,11 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam detach-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/detach-group-policy.html)|[Unregister-IAMGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-IAMGroupPolicy.html)|
 |[aws iam detach-role-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/detach-role-policy.html)|[Unregister-IAMRolePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-IAMRolePolicy.html)|
 |[aws iam detach-user-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/detach-user-policy.html)|[Unregister-IAMUserPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-IAMUserPolicy.html)|
+|[aws iam disable-organizations-root-credentials-management](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/disable-organizations-root-credentials-management.html)|[Disable-IAMOrganizationsRootCredentialsManagement](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-IAMOrganizationsRootCredentialsManagement.html)|
+|[aws iam disable-organizations-root-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/disable-organizations-root-sessions.html)|[Disable-IAMOrganizationsRootSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-IAMOrganizationsRootSession.html)|
 |[aws iam enable-mfa-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/enable-mfa-device.html)|[Enable-IAMMFADevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-IAMMFADevice.html)|
+|[aws iam enable-organizations-root-credentials-management](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/enable-organizations-root-credentials-management.html)|[Enable-IAMOrganizationsRootCredentialsManagement](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-IAMOrganizationsRootCredentialsManagement.html)|
+|[aws iam enable-organizations-root-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/enable-organizations-root-sessions.html)|[Enable-IAMOrganizationsRootSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-IAMOrganizationsRootSession.html)|
 |[aws iam generate-credential-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/generate-credential-report.html)|[Request-IAMCredentialReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-IAMCredentialReport.html)|
 |[aws iam generate-organizations-access-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/generate-organizations-access-report.html)|[New-IAMOrganizationsAccessReport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMOrganizationsAccessReport.html)|
 |[aws iam generate-service-last-accessed-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/generate-service-last-accessed-details.html)|[Request-IAMServiceLastAccessedDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-IAMServiceLastAccessedDetail.html)|
@@ -107,6 +111,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam list-mfa-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-mfa-devices.html)|[Get-IAMMFADevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMMFADevice.html)|
 |[aws iam list-open-id-connect-provider-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-open-id-connect-provider-tags.html)|[Get-IAMOpenIDConnectProviderTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOpenIDConnectProviderTagList.html)|
 |[aws iam list-open-id-connect-providers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-open-id-connect-providers.html)|[Get-IAMOpenIDConnectProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOpenIDConnectProviderList.html)|
+|[aws iam list-organizations-features](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-organizations-features.html)|[Get-IAMOrganizationsFeature](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMOrganizationsFeature.html)|
 |[aws iam list-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-policies.html)|[Get-IAMPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyList.html)|
 |[aws iam list-policies-granting-service-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-policies-granting-service-access.html)|[Get-IAMPolicyGrantingServiceAccessList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyGrantingServiceAccessList.html)|
 |[aws iam list-policy-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-policy-tags.html)|[Get-IAMPolicyTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyTagList.html)|

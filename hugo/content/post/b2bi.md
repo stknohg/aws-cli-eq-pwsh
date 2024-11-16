@@ -1,6 +1,6 @@
 ---
 title: b2bi
-date: 2024-11-02
+date: 2024-11-16
 description: aws b2bi (AWS B2B Data Interchange) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws b2bi (AWS B2B Data Interchange) command/cmdlet list.
 |[aws b2bi delete-partnership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/delete-partnership.html)|[Remove-B2BIPartnership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-B2BIPartnership.html)|
 |[aws b2bi delete-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/delete-profile.html)|[Remove-B2BIProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-B2BIProfile.html)|
 |[aws b2bi delete-transformer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/delete-transformer.html)|[Remove-B2BITransformer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-B2BITransformer.html)|
+|[aws b2bi generate-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/generate-mapping.html)|[Get-B2BIGeneratedMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-B2BIGeneratedMapping.html)|
 |[aws b2bi get-capability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/get-capability.html)|[Get-B2BICapability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-B2BICapability.html)|
 |[aws b2bi get-partnership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/get-partnership.html)|[Get-B2BIPartnership](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-B2BIPartnership.html)|
 |[aws b2bi get-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/b2bi/get-profile.html)|[Get-B2BIProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-B2BIProfile.html)|

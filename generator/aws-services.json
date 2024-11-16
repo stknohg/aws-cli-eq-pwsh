@@ -239,6 +239,12 @@
     "Url": "https://aws.amazon.com/bedrock/",
     "Note": ""
   },
+  "billing": {
+    "Prefix": "AWSB",
+    "Name": "AWS Billing",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-billing/",
+    "Note": ""
+  },
   "billingconductor": {
     "Prefix": "ABC",
     "Name": "AWS Billing Conductor",
@@ -518,6 +524,12 @@
   "connectcampaigns": {
     "Prefix": "CCS",
     "Name": "Amazon Connect Outbound Campaigns",
+    "Url": "https://aws.amazon.com/connect/outbound/",
+    "Note": ""
+  },
+  "connectcampaignsv2": {
+    "Prefix": "CCS2",
+    "Name": "Amazon Connect Outbound Campaigns V2",
     "Url": "https://aws.amazon.com/connect/outbound/",
     "Note": ""
   },
@@ -1629,6 +1641,12 @@
     "Prefix": "PAN",
     "Name": "AWS Panorama",
     "Url": "https://aws.amazon.com/panorama/",
+    "Note": ""
+  },
+  "partnercentral-selling": {
+    "Prefix": "PC",
+    "Name": "AWS Partner Central API for Selling",
+    "Url": "https://partnercentral.awspartner.com/",
     "Note": ""
   },
   "payment-cryptography": {

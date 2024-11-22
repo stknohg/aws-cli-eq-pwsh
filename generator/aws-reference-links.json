@@ -262,6 +262,8 @@
   "network-firewall": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFirewall_cmdlets.html",
   "networkmanager": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkManager_cmdlets.html",
   "networkmonitor": "https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkMonitor_cmdlets.html",
+  "notifications": "",
+  "notificationscontacts": "",
   "oam": "https://docs.aws.amazon.com/powershell/latest/reference/items/OAM_cmdlets.html",
   "omics": "https://docs.aws.amazon.com/powershell/latest/reference/items/Omics_cmdlets.html",
   "opensearch": "https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchService_cmdlets.html",

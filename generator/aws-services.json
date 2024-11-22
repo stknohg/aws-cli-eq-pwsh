@@ -1583,6 +1583,18 @@
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": ""
   },
+  "notifications": {
+    "Prefix": "UNO",
+    "Name": "AWS User Notifications",
+    "Url": "https://aws.amazon.com/notifications/",
+    "Note": ""
+  },
+  "notificationscontacts": {
+    "Prefix": "UNC",
+    "Name": "AWS User Notifications Contacts",
+    "Url": "https://aws.amazon.com/notifications/",
+    "Note": ""
+  },
   "oam": {
     "Prefix": "CWOAM",
     "Name": "Amazon CloudWatch Observability Access Manager",

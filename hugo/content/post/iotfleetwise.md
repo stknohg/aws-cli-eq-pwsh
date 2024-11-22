@@ -1,6 +1,6 @@
 ---
 title: iotfleetwise
-date: 2024-11-16
+date: 2024-11-22
 description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 ---
 
@@ -21,12 +21,14 @@ description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 |[aws iotfleetwise create-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/create-fleet.html)|[New-IFWFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IFWFleet.html)|
 |[aws iotfleetwise create-model-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/create-model-manifest.html)|[New-IFWModelManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IFWModelManifest.html)|
 |[aws iotfleetwise create-signal-catalog](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/create-signal-catalog.html)|[New-IFWSignalCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IFWSignalCatalog.html)|
+|[aws iotfleetwise create-state-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/create-state-template.html)|[New-IFWStateTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IFWStateTemplate.html)|
 |[aws iotfleetwise create-vehicle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/create-vehicle.html)|[New-IFWVehicle](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IFWVehicle.html)|
 |[aws iotfleetwise delete-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-campaign.html)|[Remove-IFWCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWCampaign.html)|
 |[aws iotfleetwise delete-decoder-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-decoder-manifest.html)|[Remove-IFWDecoderManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWDecoderManifest.html)|
 |[aws iotfleetwise delete-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-fleet.html)|[Remove-IFWFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWFleet.html)|
 |[aws iotfleetwise delete-model-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-model-manifest.html)|[Remove-IFWModelManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWModelManifest.html)|
 |[aws iotfleetwise delete-signal-catalog](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-signal-catalog.html)|[Remove-IFWSignalCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWSignalCatalog.html)|
+|[aws iotfleetwise delete-state-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-state-template.html)|[Remove-IFWStateTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWStateTemplate.html)|
 |[aws iotfleetwise delete-vehicle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/delete-vehicle.html)|[Remove-IFWVehicle](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWVehicle.html)|
 |[aws iotfleetwise disassociate-vehicle-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/disassociate-vehicle-fleet.html)|[Remove-IFWVehicleFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IFWVehicleFleet.html)|
 |[aws iotfleetwise get-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-campaign.html)|[Get-IFWCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWCampaign.html)|
@@ -37,6 +39,7 @@ description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 |[aws iotfleetwise get-model-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-model-manifest.html)|[Get-IFWModelManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWModelManifest.html)|
 |[aws iotfleetwise get-register-account-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-register-account-status.html)|[Get-IFWRegisterAccountStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWRegisterAccountStatus.html)|
 |[aws iotfleetwise get-signal-catalog](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-signal-catalog.html)|[Get-IFWSignalCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWSignalCatalog.html)|
+|[aws iotfleetwise get-state-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-state-template.html)|[Get-IFWStateTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWStateTemplate.html)|
 |[aws iotfleetwise get-vehicle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-vehicle.html)|[Get-IFWVehicle](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWVehicle.html)|
 |[aws iotfleetwise get-vehicle-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/get-vehicle-status.html)|[Get-IFWVehicleStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWVehicleStatus.html)|
 |[aws iotfleetwise import-decoder-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/import-decoder-manifest.html)|[Import-IFWDecoderManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-IFWDecoderManifest.html)|
@@ -51,6 +54,7 @@ description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 |[aws iotfleetwise list-model-manifests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-model-manifests.html)|[Get-IFWModelManifestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWModelManifestList.html)|
 |[aws iotfleetwise list-signal-catalog-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-signal-catalog-nodes.html)|[Get-IFWSignalCatalogNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWSignalCatalogNodeList.html)|
 |[aws iotfleetwise list-signal-catalogs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-signal-catalogs.html)|[Get-IFWSignalCatalogList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWSignalCatalogList.html)|
+|[aws iotfleetwise list-state-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-state-templates.html)|[Get-IFWStateTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWStateTemplateList.html)|
 |[aws iotfleetwise list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-tags-for-resource.html)|[Get-IFWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWResourceTag.html)|
 |[aws iotfleetwise list-vehicles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-vehicles.html)|[Get-IFWVehicleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWVehicleList.html)|
 |[aws iotfleetwise list-vehicles-in-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/list-vehicles-in-fleet.html)|[Get-IFWVehiclesInFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IFWVehiclesInFleetList.html)|
@@ -64,5 +68,6 @@ description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 |[aws iotfleetwise update-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/update-fleet.html)|[Update-IFWFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IFWFleet.html)|
 |[aws iotfleetwise update-model-manifest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/update-model-manifest.html)|[Update-IFWModelManifest](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IFWModelManifest.html)|
 |[aws iotfleetwise update-signal-catalog](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/update-signal-catalog.html)|[Update-IFWSignalCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IFWSignalCatalog.html)|
+|[aws iotfleetwise update-state-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/update-state-template.html)|[Update-IFWStateTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IFWStateTemplate.html)|
 |[aws iotfleetwise update-vehicle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iotfleetwise/update-vehicle.html)|[Update-IFWVehicle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IFWVehicle.html)|
 

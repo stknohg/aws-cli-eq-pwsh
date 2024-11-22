@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2024-11-16
+date: 2024-11-22
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -83,6 +83,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm get-default-patch-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-default-patch-baseline.html)|[Get-SSMDefaultPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDefaultPatchBaseline.html)|
 |[aws ssm get-deployable-patch-snapshot-for-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-deployable-patch-snapshot-for-instance.html)|[Get-SSMDeployablePatchSnapshotForInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDeployablePatchSnapshotForInstance.html)|
 |[aws ssm get-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-document.html)|[Get-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDocument.html)|
+|[aws ssm get-execution-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-execution-preview.html)|[Get-SSMExecutionPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMExecutionPreview.html)|
 |[aws ssm get-inventory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-inventory.html)|[Get-SSMInventory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInventory.html)|
 |[aws ssm get-inventory-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-inventory-schema.html)|[Get-SSMInventorySchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInventorySchema.html)|
 |[aws ssm get-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-maintenance-window.html)|[Get-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMMaintenanceWindow.html)|
@@ -112,6 +113,8 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm list-document-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-document-versions.html)|[Get-SSMDocumentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDocumentVersionList.html)|
 |[aws ssm list-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-documents.html)|[Get-SSMDocumentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDocumentList.html)|
 |[aws ssm list-inventory-entries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-inventory-entries.html)|[Get-SSMInventoryEntryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMInventoryEntryList.html)|
+|[aws ssm list-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-nodes.html)|[Get-SSMNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMNode.html)|
+|[aws ssm list-nodes-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-nodes-summary.html)|[Get-SSMNodesSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMNodesSummary.html)|
 |[aws ssm list-ops-item-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-ops-item-events.html)|[Get-SSMOpsItemEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsItemEvent.html)|
 |[aws ssm list-ops-item-related-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-ops-item-related-items.html)|[Get-SSMOpsItemRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsItemRelatedItem.html)|
 |[aws ssm list-ops-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-ops-metadata.html)|[Get-SSMOpsMetadataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMOpsMetadataList.html)|
@@ -135,6 +138,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm start-associations-once](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-associations-once.html)|[Start-SSMAssociationsOnce](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAssociationsOnce.html)|
 |[aws ssm start-automation-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-automation-execution.html)|[Start-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAutomationExecution.html)|
 |[aws ssm start-change-request-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-change-request-execution.html)|[Start-SSMChangeRequestExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMChangeRequestExecution.html)|
+|[aws ssm start-execution-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-execution-preview.html)|[Start-SSMExecutionPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMExecutionPreview.html)|
 |[aws ssm start-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-session.html)|[Start-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMSession.html)|
 |[aws ssm stop-automation-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/stop-automation-execution.html)|[Stop-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SSMAutomationExecution.html)|
 |[aws ssm terminate-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/terminate-session.html)|[Stop-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SSMSession.html)|

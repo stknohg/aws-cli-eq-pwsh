@@ -1,6 +1,6 @@
 ---
 title: apigateway
-date: 2024-11-16
+date: 2024-11-22
 description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 |[aws apigateway create-documentation-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-documentation-part.html)|[New-AGDocumentationPart](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDocumentationPart.html)|
 |[aws apigateway create-documentation-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-documentation-version.html)|[New-AGDocumentationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDocumentationVersion.html)|
 |[aws apigateway create-domain-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-domain-name.html)|[New-AGDomainName](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDomainName.html)|
+|[aws apigateway create-domain-name-access-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-domain-name-access-association.html)|[New-AGDomainNameAccessAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGDomainNameAccessAssociation.html)|
 |[aws apigateway create-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-model.html)|[New-AGModel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGModel.html)|
 |[aws apigateway create-request-validator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-request-validator.html)|[New-AGRequestValidator](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGRequestValidator.html)|
 |[aws apigateway create-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/create-resource.html)|[New-AGResource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AGResource.html)|
@@ -36,6 +37,7 @@ description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 |[aws apigateway delete-documentation-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-documentation-part.html)|[Remove-AGDocumentationPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDocumentationPart.html)|
 |[aws apigateway delete-documentation-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-documentation-version.html)|[Remove-AGDocumentationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDocumentationVersion.html)|
 |[aws apigateway delete-domain-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-domain-name.html)|[Remove-AGDomainName](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDomainName.html)|
+|[aws apigateway delete-domain-name-access-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-domain-name-access-association.html)|[Remove-AGDomainNameAccessAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGDomainNameAccessAssociation.html)|
 |[aws apigateway delete-gateway-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-gateway-response.html)|[Remove-AGGatewayResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGGatewayResponse.html)|
 |[aws apigateway delete-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-integration.html)|[Remove-AGIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGIntegration.html)|
 |[aws apigateway delete-integration-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/delete-integration-response.html)|[Remove-AGIntegrationResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AGIntegrationResponse.html)|
@@ -68,6 +70,7 @@ description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 |[aws apigateway get-documentation-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-documentation-version.html)|[Get-AGDocumentationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDocumentationVersion.html)|
 |[aws apigateway get-documentation-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-documentation-versions.html)|[Get-AGDocumentationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDocumentationVersionList.html)|
 |[aws apigateway get-domain-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-domain-name.html)|[Get-AGDomainName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDomainName.html)|
+|[aws apigateway get-domain-name-access-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-domain-name-access-associations.html)|[Get-AGDomainNameAccessAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDomainNameAccessAssociation.html)|
 |[aws apigateway get-domain-names](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-domain-names.html)|[Get-AGDomainNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGDomainNameList.html)|
 |[aws apigateway get-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-export.html)|[Get-AGExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGExport.html)|
 |[aws apigateway get-gateway-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/get-gateway-response.html)|[Get-AGGatewayResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGGatewayResponse.html)|
@@ -107,6 +110,7 @@ description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 |[aws apigateway put-method](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/put-method.html)|[Write-AGMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGMethod.html)|
 |[aws apigateway put-method-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/put-method-response.html)|[Write-AGMethodResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGMethodResponse.html)|
 |[aws apigateway put-rest-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/put-rest-api.html)|[Write-AGRestApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AGRestApi.html)|
+|[aws apigateway reject-domain-name-access-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/reject-domain-name-access-association.html)|[Disable-AGDomainNameAccessAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-AGDomainNameAccessAssociation.html)|
 |[aws apigateway tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/tag-resource.html)|[Add-AGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AGResourceTag.html)|
 |[aws apigateway test-invoke-authorizer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/test-invoke-authorizer.html)|[Test-AGInvokeAuthorizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-AGInvokeAuthorizer.html)|
 |[aws apigateway test-invoke-method](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigateway/test-invoke-method.html)|[Test-AGInvokeMethod](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-AGInvokeMethod.html)|

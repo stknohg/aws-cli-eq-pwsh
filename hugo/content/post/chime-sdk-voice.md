@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-voice
-date: 2024-11-16
+date: 2024-11-22
 description: aws chime-sdk-voice (Amazon Chime) command/cmdlet list.
 ---
 

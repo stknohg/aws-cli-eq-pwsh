@@ -1,6 +1,6 @@
 ---
 title: macie2
-date: 2024-11-16
+date: 2024-11-22
 description: aws macie2 (Amazon Macie) command/cmdlet list.
 ---
 

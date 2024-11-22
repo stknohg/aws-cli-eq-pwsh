@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2024-11-16
+date: 2024-11-22
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone create-listing-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-listing-change-set.html)|[New-DZListingChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZListingChangeSet.html)|
 |[aws datazone create-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-project.html)|[New-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZProject.html)|
 |[aws datazone create-project-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-project-membership.html)|[New-DZProjectMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZProjectMembership.html)|
+|[aws datazone create-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-rule.html)|[New-DZRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZRule.html)|
 |[aws datazone create-subscription-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-subscription-grant.html)|[New-DZSubscriptionGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZSubscriptionGrant.html)|
 |[aws datazone create-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-subscription-request.html)|[New-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZSubscriptionRequest.html)|
 |[aws datazone create-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-subscription-target.html)|[New-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZSubscriptionTarget.html)|
@@ -60,6 +61,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-listing.html)|[Remove-DZListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZListing.html)|
 |[aws datazone delete-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-project.html)|[Remove-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZProject.html)|
 |[aws datazone delete-project-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-project-membership.html)|[Remove-DZProjectMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZProjectMembership.html)|
+|[aws datazone delete-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-rule.html)|[Remove-DZRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZRule.html)|
 |[aws datazone delete-subscription-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-subscription-grant.html)|[Remove-DZSubscriptionGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZSubscriptionGrant.html)|
 |[aws datazone delete-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-subscription-request.html)|[Remove-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZSubscriptionRequest.html)|
 |[aws datazone delete-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-subscription-target.html)|[Remove-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZSubscriptionTarget.html)|
@@ -88,6 +90,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-listing.html)|[Get-DZListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZListing.html)|
 |[aws datazone get-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-metadata-generation-run.html)|[Get-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZMetadataGenerationRun.html)|
 |[aws datazone get-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-project.html)|[Get-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProject.html)|
+|[aws datazone get-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-rule.html)|[Get-DZRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZRule.html)|
 |[aws datazone get-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-subscription.html)|[Get-DZSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscription.html)|
 |[aws datazone get-subscription-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-subscription-grant.html)|[Get-DZSubscriptionGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionGrant.html)|
 |[aws datazone get-subscription-request-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-subscription-request-details.html)|[Get-DZSubscriptionRequestDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionRequestDetail.html)|
@@ -114,6 +117,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone list-policy-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-policy-grants.html)|[Get-DZPolicyGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZPolicyGrantList.html)|
 |[aws datazone list-project-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-project-memberships.html)|[Get-DZProjectMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProjectMembershipList.html)|
 |[aws datazone list-projects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-projects.html)|[Get-DZProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProjectList.html)|
+|[aws datazone list-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-rules.html)|[Get-DZRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZRuleList.html)|
 |[aws datazone list-subscription-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-subscription-grants.html)|[Get-DZSubscriptionGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionGrantList.html)|
 |[aws datazone list-subscription-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-subscription-requests.html)|[Get-DZSubscriptionRequestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionRequestList.html)|
 |[aws datazone list-subscription-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-subscription-targets.html)|[Get-DZSubscriptionTargetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionTargetList.html)|
@@ -148,6 +152,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone update-glossary-term](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-glossary-term.html)|[Update-DZGlossaryTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZGlossaryTerm.html)|
 |[aws datazone update-group-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-group-profile.html)|[Update-DZGroupProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZGroupProfile.html)|
 |[aws datazone update-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-project.html)|[Update-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZProject.html)|
+|[aws datazone update-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-rule.html)|[Update-DZRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZRule.html)|
 |[aws datazone update-subscription-grant-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-subscription-grant-status.html)|[Update-DZSubscriptionGrantStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZSubscriptionGrantStatus.html)|
 |[aws datazone update-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-subscription-request.html)|[Update-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZSubscriptionRequest.html)|
 |[aws datazone update-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-subscription-target.html)|[Update-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZSubscriptionTarget.html)|

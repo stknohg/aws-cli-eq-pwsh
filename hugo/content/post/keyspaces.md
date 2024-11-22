@@ -1,6 +1,6 @@
 ---
 title: keyspaces
-date: 2024-11-16
+date: 2024-11-22
 description: aws keyspaces (Amazon Keyspaces) command/cmdlet list.
 ---
 
@@ -30,5 +30,6 @@ description: aws keyspaces (Amazon Keyspaces) command/cmdlet list.
 |[aws keyspaces restore-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/restore-table.html)|[Restore-KSTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-KSTable.html)|
 |[aws keyspaces tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/tag-resource.html)|[Add-KSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KSResourceTag.html)|
 |[aws keyspaces untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/untag-resource.html)|[Remove-KSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KSResourceTag.html)|
+|[aws keyspaces update-keyspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/update-keyspace.html)|[Update-KSKeyspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KSKeyspace.html)|
 |[aws keyspaces update-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/keyspaces/update-table.html)|[Update-KSTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KSTable.html)|
 

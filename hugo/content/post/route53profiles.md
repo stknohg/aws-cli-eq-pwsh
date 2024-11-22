@@ -1,6 +1,6 @@
 ---
 title: route53profiles
-date: 2024-11-16
+date: 2024-11-22
 description: aws route53profiles (Amazon Route 53 Profiles) command/cmdlet list.
 ---
 

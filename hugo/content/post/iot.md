@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2024-11-16
+date: 2024-11-22
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot create-billing-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-billing-group.html)|[New-IOTBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTBillingGroup.html)|
 |[aws iot create-certificate-from-csr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-certificate-from-csr.html)|[New-IOTCertificateFromCsr](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTCertificateFromCsr.html)|
 |[aws iot create-certificate-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-certificate-provider.html)|[New-IOTCertificateProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTCertificateProvider.html)|
+|[aws iot create-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-command.html)|[New-IOTCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTCommand.html)|
 |[aws iot create-custom-metric](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-custom-metric.html)|[New-IOTCustomMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTCustomMetric.html)|
 |[aws iot create-dimension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-dimension.html)|[New-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDimension.html)|
 |[aws iot create-domain-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/create-domain-configuration.html)|[New-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IOTDomainConfiguration.html)|
@@ -68,6 +69,8 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot delete-ca-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-ca-certificate.html)|[Remove-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCACertificate.html)|
 |[aws iot delete-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-certificate.html)|[Remove-IOTCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCertificate.html)|
 |[aws iot delete-certificate-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-certificate-provider.html)|[Remove-IOTCertificateProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCertificateProvider.html)|
+|[aws iot delete-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-command.html)|[Remove-IOTCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCommand.html)|
+|[aws iot delete-command-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-command-execution.html)|[Remove-IOTCommandExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCommandExecution.html)|
 |[aws iot delete-custom-metric](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-custom-metric.html)|[Remove-IOTCustomMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTCustomMetric.html)|
 |[aws iot delete-dimension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-dimension.html)|[Remove-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDimension.html)|
 |[aws iot delete-domain-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/delete-domain-configuration.html)|[Remove-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTDomainConfiguration.html)|
@@ -140,6 +143,8 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot get-behavior-model-training-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-behavior-model-training-summaries.html)|[Get-IOTBehaviorModelTrainingSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBehaviorModelTrainingSummary.html)|
 |[aws iot get-buckets-aggregation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-buckets-aggregation.html)|[Get-IOTBucketsAggregation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTBucketsAggregation.html)|
 |[aws iot get-cardinality](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-cardinality.html)|[Get-IOTCardinality](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCardinality.html)|
+|[aws iot get-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-command.html)|[Get-IOTCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCommand.html)|
+|[aws iot get-command-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-command-execution.html)|[Get-IOTCommandExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCommandExecution.html)|
 |[aws iot get-effective-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-effective-policies.html)|[Get-IOTEffectivePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEffectivePolicy.html)|
 |[aws iot get-indexing-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-indexing-configuration.html)|[Get-IOTIndexingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTIndexingConfiguration.html)|
 |[aws iot get-job-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-job-document.html)|[Get-IOTJobDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTJobDocument.html)|
@@ -169,6 +174,8 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-certificate-providers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-certificate-providers.html)|[Get-IOTCertificateProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCertificateProviderList.html)|
 |[aws iot list-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-certificates.html)|[Get-IOTCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCertificateList.html)|
 |[aws iot list-certificates-by-ca](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-certificates-by-ca.html)|[Get-IOTCertificateListByCA](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCertificateListByCA.html)|
+|[aws iot list-command-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-command-executions.html)|[Get-IOTCommandExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCommandExecutionList.html)|
+|[aws iot list-commands](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-commands.html)|[Get-IOTCommandList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCommandList.html)|
 |[aws iot list-custom-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-custom-metrics.html)|[Get-IOTCustomMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTCustomMetricList.html)|
 |[aws iot list-detect-mitigation-actions-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-detect-mitigation-actions-executions.html)|[Get-IOTDetectMitigationActionsExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDetectMitigationActionsExecutionList.html)|
 |[aws iot list-detect-mitigation-actions-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-detect-mitigation-actions-tasks.html)|[Get-IOTDetectMitigationActionsTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDetectMitigationActionsTaskList.html)|
@@ -251,6 +258,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot update-ca-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-ca-certificate.html)|[Update-IOTCACertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCACertificate.html)|
 |[aws iot update-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-certificate.html)|[Update-IOTCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCertificate.html)|
 |[aws iot update-certificate-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-certificate-provider.html)|[Update-IOTCertificateProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCertificateProvider.html)|
+|[aws iot update-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-command.html)|[Update-IOTCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCommand.html)|
 |[aws iot update-custom-metric](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-custom-metric.html)|[Update-IOTCustomMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTCustomMetric.html)|
 |[aws iot update-dimension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-dimension.html)|[Update-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDimension.html)|
 |[aws iot update-domain-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-domain-configuration.html)|[Update-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDomainConfiguration.html)|

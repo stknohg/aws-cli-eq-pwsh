@@ -1,6 +1,6 @@
 ---
 title: license-manager
-date: 2024-11-16
+date: 2024-11-22
 description: aws license-manager (AWS License Manager) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2024-11-16
+date: 2024-11-22
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
@@ -65,6 +65,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation list-change-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-change-sets.html)|[Get-CFNChangeSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetList.html)|
 |[aws cloudformation list-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-exports.html)|[Get-CFNExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNExport.html)|
 |[aws cloudformation list-generated-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-generated-templates.html)|[Get-CFNGeneratedTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNGeneratedTemplateList.html)|
+|[aws cloudformation list-hook-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-hook-results.html)|[Get-CFNHookResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNHookResult.html)|
 |[aws cloudformation list-imports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-imports.html)|[Get-CFNImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNImportList.html)|
 |[aws cloudformation list-resource-scan-related-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-resource-scan-related-resources.html)|[Get-CFNResourceScanRelatedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNResourceScanRelatedResource.html)|
 |[aws cloudformation list-resource-scan-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/list-resource-scan-resources.html)|[Get-CFNResourceScanResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNResourceScanResource.html)|

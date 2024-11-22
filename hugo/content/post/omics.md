@@ -1,6 +1,6 @@
 ---
 title: omics
-date: 2024-11-16
+date: 2024-11-22
 description: aws omics (AWS HealthOmics) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics create-annotation-store-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-annotation-store-version.html)|[New-OMICSAnnotationStoreVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSAnnotationStoreVersion.html)|
 |[aws omics create-multipart-read-set-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-multipart-read-set-upload.html)|[New-OMICSMultipartReadSetUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSMultipartReadSetUpload.html)|
 |[aws omics create-reference-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-reference-store.html)|[New-OMICSReferenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSReferenceStore.html)|
+|[aws omics create-run-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-run-cache.html)|[New-OMICSRunCache](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSRunCache.html)|
 |[aws omics create-run-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-run-group.html)|[New-OMICSRunGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSRunGroup.html)|
 |[aws omics create-sequence-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-sequence-store.html)|[New-OMICSSequenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSSequenceStore.html)|
 |[aws omics create-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-share.html)|[New-OMICSShare](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSShare.html)|
@@ -34,6 +35,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics delete-reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-reference.html)|[Remove-OMICSReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSReference.html)|
 |[aws omics delete-reference-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-reference-store.html)|[Remove-OMICSReferenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSReferenceStore.html)|
 |[aws omics delete-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-run.html)|[Remove-OMICSRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSRun.html)|
+|[aws omics delete-run-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-run-cache.html)|[Remove-OMICSRunCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSRunCache.html)|
 |[aws omics delete-run-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-run-group.html)|[Remove-OMICSRunGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSRunGroup.html)|
 |[aws omics delete-sequence-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-sequence-store.html)|[Remove-OMICSSequenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSSequenceStore.html)|
 |[aws omics delete-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-share.html)|[Remove-OMICSShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSShare.html)|
@@ -52,6 +54,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics get-reference-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-reference-metadata.html)|[Get-OMICSReferenceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceMetadata.html)|
 |[aws omics get-reference-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-reference-store.html)|[Get-OMICSReferenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceStore.html)|
 |[aws omics get-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-run.html)|[Get-OMICSRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRun.html)|
+|[aws omics get-run-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-run-cache.html)|[Get-OMICSRunCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunCache.html)|
 |[aws omics get-run-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-run-group.html)|[Get-OMICSRunGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunGroup.html)|
 |[aws omics get-run-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-run-task.html)|[Get-OMICSRunTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunTask.html)|
 |[aws omics get-sequence-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-sequence-store.html)|[Get-OMICSSequenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSSequenceStore.html)|
@@ -71,6 +74,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics list-reference-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-reference-import-jobs.html)|[Get-OMICSReferenceImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceImportJobList.html)|
 |[aws omics list-reference-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-reference-stores.html)|[Get-OMICSReferenceStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceStoreList.html)|
 |[aws omics list-references](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-references.html)|[Get-OMICSReferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSReferenceList.html)|
+|[aws omics list-run-caches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-run-caches.html)|[Get-OMICSRunCachList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunCachList.html)|
 |[aws omics list-run-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-run-groups.html)|[Get-OMICSRunGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunGroupList.html)|
 |[aws omics list-run-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-run-tasks.html)|[Get-OMICSRunTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunTaskList.html)|
 |[aws omics list-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-runs.html)|[Get-OMICSRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSRunList.html)|
@@ -91,6 +95,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/untag-resource.html)|[Remove-OMICSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSResourceTag.html)|
 |[aws omics update-annotation-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-annotation-store.html)|[Update-OMICSAnnotationStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSAnnotationStore.html)|
 |[aws omics update-annotation-store-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-annotation-store-version.html)|[Update-OMICSAnnotationStoreVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSAnnotationStoreVersion.html)|
+|[aws omics update-run-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-run-cache.html)|[Update-OMICSRunCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSRunCache.html)|
 |[aws omics update-run-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-run-group.html)|[Update-OMICSRunGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSRunGroup.html)|
 |[aws omics update-variant-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-variant-store.html)|[Update-OMICSVariantStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSVariantStore.html)|
 |[aws omics update-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-workflow.html)|[Update-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSWorkflow.html)|

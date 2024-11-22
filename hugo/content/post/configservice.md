@@ -1,6 +1,6 @@
 ---
 title: configservice
-date: 2024-11-16
+date: 2024-11-22
 description: aws configservice (AWS Config) command/cmdlet list.
 ---
 

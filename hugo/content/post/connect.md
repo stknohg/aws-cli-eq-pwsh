@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2024-11-16
+date: 2024-11-22
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-agent-status.html)|[New-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNAgentStatus.html)|
 |[aws connect create-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-contact-flow.html)|[New-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlow.html)|
 |[aws connect create-contact-flow-module](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-contact-flow-module.html)|[New-CONNContactFlowModule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlowModule.html)|
+|[aws connect create-contact-flow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-contact-flow-version.html)|[New-CONNContactFlowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNContactFlowVersion.html)|
 |[aws connect create-evaluation-form](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-evaluation-form.html)|[New-CONNEvaluationForm](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNEvaluationForm.html)|
 |[aws connect create-hours-of-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-hours-of-operation.html)|[New-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNHoursOfOperation.html)|
 |[aws connect create-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-instance.html)|[New-CONNInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNInstance.html)|
@@ -141,6 +142,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-bots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
 |[aws connect list-contact-evaluations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-evaluations.html)|[Get-CONNContactEvaluationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactEvaluationList.html)|
 |[aws connect list-contact-flow-modules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-flow-modules.html)|[Get-CONNContactFlowModuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowModuleList.html)|
+|[aws connect list-contact-flow-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-flow-versions.html)|[Get-CONNContactFlowVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowVersionList.html)|
 |[aws connect list-contact-flows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-flows.html)|[Get-CONNContactFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowList.html)|
 |[aws connect list-contact-references](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-references.html)|[Get-CONNContactReferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactReferenceList.html)|
 |[aws connect list-default-vocabularies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-default-vocabularies.html)|[Get-CONNDefaultVocabularyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNDefaultVocabularyList.html)|

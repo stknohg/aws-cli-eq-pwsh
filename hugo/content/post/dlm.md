@@ -1,6 +1,6 @@
 ---
 title: dlm
-date: 2024-11-16
+date: 2024-11-22
 description: aws dlm (Amazon Data Lifecycle Manager) command/cmdlet list.
 ---
 

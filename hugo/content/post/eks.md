@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2024-11-16
+date: 2024-11-22
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 

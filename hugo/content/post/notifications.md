@@ -1,6 +1,6 @@
 ---
 title: notifications
-date: 2024-11-22
+date: 2024-11-26
 description: aws notifications (AWS User Notifications) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws notifications (AWS User Notifications) command/cmdlet list.
 ### [AWS User Notifications](https://aws.amazon.com/notifications/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notifications/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Notifications_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

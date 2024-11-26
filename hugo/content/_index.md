@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-11-22
+date: 2024-11-26
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.704 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.22.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.706 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -56,6 +56,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
 |[Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/aws-cost-management/)|[bcm-data-exports]({{%relref "post/bcm-data-exports.md" %}})|BCMDE||
+|[AWS Billing and Cost Management Pricing Calculator](https://aws.amazon.com/aws-cost-management/)|[bcm-pricing-calculator]({{%relref "post/bcm-pricing-calculator.md" %}})|BCMPC||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|AAB||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|BAR||

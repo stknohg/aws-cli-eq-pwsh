@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2024-11-22
+date: 2024-11-26
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -87,6 +87,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight describe-dashboard-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-permissions.html)|[Get-QSDashboardPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardPermission.html)|
 |[aws quicksight describe-dashboard-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-snapshot-job.html)|[Get-QSDashboardSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardSnapshotJob.html)|
 |[aws quicksight describe-dashboard-snapshot-job-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboard-snapshot-job-result.html)|[Get-QSDashboardSnapshotJobResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardSnapshotJobResult.html)|
+|[aws quicksight describe-dashboards-qa-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-dashboards-qa-configuration.html)|[Get-QSDashboardsQAConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardsQAConfiguration.html)|
 |[aws quicksight describe-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-data-set.html)|[Get-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSet.html)|
 |[aws quicksight describe-data-set-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-data-set-permissions.html)|[Get-QSDataSetPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSetPermission.html)|
 |[aws quicksight describe-data-set-refresh-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-data-set-refresh-properties.html)|[Get-QSDataSetRefreshProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDataSetRefreshProperty.html)|
@@ -165,6 +166,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight search-data-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/search-data-sources.html)|[Search-QSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSDataSource.html)|
 |[aws quicksight search-folders](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/search-folders.html)|[Search-QSFolder](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSFolder.html)|
 |[aws quicksight search-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/search-groups.html)|[Find-QSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-QSGroup.html)|
+|[aws quicksight search-topics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/search-topics.html)|[Search-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSTopic.html)|
 |[aws quicksight start-asset-bundle-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-export-job.html)|[Start-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleExportJob.html)|
 |[aws quicksight start-asset-bundle-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-import-job.html)|[Start-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleImportJob.html)|
 |[aws quicksight start-dashboard-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job.html)|[Start-QSDashboardSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJob.html)|
@@ -183,6 +185,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight update-dashboard-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard-links.html)|[Update-QSDashboardLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardLink.html)|
 |[aws quicksight update-dashboard-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard-permissions.html)|[Update-QSDashboardPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardPermission.html)|
 |[aws quicksight update-dashboard-published-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboard-published-version.html)|[Update-QSDashboardPublishedVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardPublishedVersion.html)|
+|[aws quicksight update-dashboards-qa-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-dashboards-qa-configuration.html)|[Update-QSDashboardsQAConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDashboardsQAConfiguration.html)|
 |[aws quicksight update-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-data-set.html)|[Update-QSDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDataSet.html)|
 |[aws quicksight update-data-set-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-data-set-permissions.html)|[Update-QSDataSetPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDataSetPermission.html)|
 |[aws quicksight update-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-data-source.html)|[Update-QSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSDataSource.html)|

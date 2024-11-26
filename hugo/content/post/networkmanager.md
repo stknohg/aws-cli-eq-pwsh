@@ -1,6 +1,6 @@
 ---
 title: networkmanager
-date: 2024-11-22
+date: 2024-11-26
 description: aws networkmanager (AWS Transit Gateway network manager) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager create-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-connection.html)|[New-NMGRConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRConnection.html)|
 |[aws networkmanager create-core-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-core-network.html)|[New-NMGRCoreNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRCoreNetwork.html)|
 |[aws networkmanager create-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-device.html)|[New-NMGRDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRDevice.html)|
+|[aws networkmanager create-direct-connect-gateway-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-direct-connect-gateway-attachment.html)|[New-NMGRDirectConnectGatewayAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRDirectConnectGatewayAttachment.html)|
 |[aws networkmanager create-global-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-global-network.html)|[New-NMGRGlobalNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRGlobalNetwork.html)|
 |[aws networkmanager create-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-link.html)|[New-NMGRLink](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRLink.html)|
 |[aws networkmanager create-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/create-site.html)|[New-NMGRSite](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NMGRSite.html)|
@@ -58,6 +59,7 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager get-core-network-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-core-network-policy.html)|[Get-NMGRCoreNetworkPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRCoreNetworkPolicy.html)|
 |[aws networkmanager get-customer-gateway-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-customer-gateway-associations.html)|[Get-NMGRCustomerGatewayAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRCustomerGatewayAssociation.html)|
 |[aws networkmanager get-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-devices.html)|[Get-NMGRDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRDevice.html)|
+|[aws networkmanager get-direct-connect-gateway-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-direct-connect-gateway-attachment.html)|[Get-NMGRDirectConnectGatewayAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRDirectConnectGatewayAttachment.html)|
 |[aws networkmanager get-link-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-link-associations.html)|[Get-NMGRLinkAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRLinkAssociation.html)|
 |[aws networkmanager get-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-links.html)|[Get-NMGRLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRLink.html)|
 |[aws networkmanager get-network-resource-counts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-network-resource-counts.html)|[Get-NMGRNetworkResourceCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRNetworkResourceCount.html)|
@@ -93,6 +95,7 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager update-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-connection.html)|[Update-NMGRConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRConnection.html)|
 |[aws networkmanager update-core-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-core-network.html)|[Update-NMGRCoreNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRCoreNetwork.html)|
 |[aws networkmanager update-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-device.html)|[Update-NMGRDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRDevice.html)|
+|[aws networkmanager update-direct-connect-gateway-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-direct-connect-gateway-attachment.html)|[Update-NMGRDirectConnectGatewayAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRDirectConnectGatewayAttachment.html)|
 |[aws networkmanager update-global-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-global-network.html)|[Update-NMGRGlobalNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRGlobalNetwork.html)|
 |[aws networkmanager update-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-link.html)|[Update-NMGRLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRLink.html)|
 |[aws networkmanager update-network-resource-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-network-resource-metadata.html)|[Update-NMGRNetworkResourceMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRNetworkResourceMetadata.html)|

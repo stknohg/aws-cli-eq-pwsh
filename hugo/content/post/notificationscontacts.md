@@ -1,6 +1,6 @@
 ---
 title: notificationscontacts
-date: 2024-11-22
+date: 2024-11-26
 description: aws notificationscontacts (AWS User Notifications Contacts) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws notificationscontacts (AWS User Notifications Contacts) command
 ### [AWS User Notifications Contacts](https://aws.amazon.com/notifications/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notificationscontacts/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/NotificationsContacts_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

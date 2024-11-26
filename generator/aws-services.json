@@ -215,6 +215,12 @@
     "Url": "https://aws.amazon.com/aws-cost-management/",
     "Note": ""
   },
+  "bcm-pricing-calculator": {
+    "Prefix": "BCMPC",
+    "Name": "AWS Billing and Cost Management Pricing Calculator",
+    "Url": "https://aws.amazon.com/aws-cost-management/",
+    "Note": ""
+  },
   "bedrock": {
     "Prefix": "BDR",
     "Name": "Amazon Bedrock",

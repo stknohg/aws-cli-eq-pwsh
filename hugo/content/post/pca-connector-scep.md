@@ -1,6 +1,6 @@
 ---
 title: pca-connector-scep
-date: 2024-11-26
+date: 2024-12-01
 description: aws pca-connector-scep (AWS Private CA Connector for SCEP) command/cmdlet list.
 ---
 

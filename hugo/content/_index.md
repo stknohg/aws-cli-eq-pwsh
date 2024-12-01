@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-11-26
+date: 2024-12-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.706 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.22.7 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.708 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -287,6 +287,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS User Notifications](https://aws.amazon.com/notifications/)|[notifications]({{%relref "post/notifications.md" %}})|UNO||
 |[AWS User Notifications Contacts](https://aws.amazon.com/notifications/)|[notificationscontacts]({{%relref "post/notificationscontacts.md" %}})|UNC||
 |[Amazon CloudWatch Observability Access Manager](https://aws.amazon.com/cloudwatch/)|[oam]({{%relref "post/oam.md" %}})|CWOAM||
+|[Amazon CloudWatch Observability Admin Service](https://aws.amazon.com/cloudwatch/)|[observabilityadmin]({{%relref "post/observabilityadmin.md" %}})|CWOADMN||
 |[AWS HealthOmics](https://aws.amazon.com/healthomics/)|[omics]({{%relref "post/omics.md" %}})|OMICS|Formerly Amazon Omics.|
 |[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|Formerly Amazon Elasticsearch Service.|
 |[Amazon OpenSearch Serverless](https://aws.amazon.com/opensearch-service/features/serverless/)|[opensearchserverless]({{%relref "post/opensearchserverless.md" %}})|OSS||

@@ -1,6 +1,6 @@
 ---
 title: efs
-date: 2024-11-26
+date: 2024-12-01
 description: aws efs (Amazon Elastic File System) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: supplychain
-date: 2024-11-26
+date: 2024-12-01
 description: aws supplychain (AWS Supply Chain) command/cmdlet list.
 ---
 

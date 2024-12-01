@@ -1607,6 +1607,12 @@
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": ""
   },
+  "observabilityadmin": {
+    "Prefix": "CWOADMN",
+    "Name": "Amazon CloudWatch Observability Admin Service",
+    "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
   "omics": {
     "Prefix": "OMICS",
     "Name": "AWS HealthOmics",

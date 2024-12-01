@@ -266,6 +266,7 @@
   "notifications": "https://docs.aws.amazon.com/powershell/latest/reference/items/Notifications_cmdlets.html",
   "notificationscontacts": "https://docs.aws.amazon.com/powershell/latest/reference/items/NotificationsContacts_cmdlets.html",
   "oam": "https://docs.aws.amazon.com/powershell/latest/reference/items/OAM_cmdlets.html",
+  "observabilityadmin": "",
   "omics": "https://docs.aws.amazon.com/powershell/latest/reference/items/Omics_cmdlets.html",
   "opensearch": "https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchService_cmdlets.html",
   "opensearchserverless": "https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchServerless_cmdlets.html",

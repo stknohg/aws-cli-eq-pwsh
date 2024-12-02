@@ -1,6 +1,6 @@
 ---
 title: connectcampaignsv2
-date: 2024-12-01
+date: 2024-12-02
 description: aws connectcampaignsv2 (Amazon Connect Outbound Campaigns V2) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws connectcampaignsv2 (Amazon Connect Outbound Campaigns V2) comma
 |[aws connectcampaignsv2 pause-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/pause-campaign.html)|[Suspend-CCS2Campaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-CCS2Campaign.html)|
 |[aws connectcampaignsv2 put-connect-instance-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-connect-instance-integration.html)|[Write-CCS2ConnectInstanceIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2ConnectInstanceIntegration.html)|
 |[aws connectcampaignsv2 put-outbound-request-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-outbound-request-batch.html)|[Write-CCS2OutboundRequestBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2OutboundRequestBatch.html)|
+|[aws connectcampaignsv2 put-profile-outbound-request-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-profile-outbound-request-batch.html)|[Write-CCS2ProfileOutboundRequestBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2ProfileOutboundRequestBatch.html)|
 |[aws connectcampaignsv2 resume-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/resume-campaign.html)|[Resume-CCS2Campaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CCS2Campaign.html)|
 |[aws connectcampaignsv2 start-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/start-campaign.html)|[Start-CCS2Campaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CCS2Campaign.html)|
 |[aws connectcampaignsv2 start-instance-onboarding-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/start-instance-onboarding-job.html)|[Start-CCS2InstanceOnboardingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CCS2InstanceOnboardingJob.html)|

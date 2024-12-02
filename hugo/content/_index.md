@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-12-01
+date: 2024-12-02
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.7 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.708 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.22.8 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.709 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -196,6 +196,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Inspector Scan](https://aws.amazon.com/inspector/)|[inspector-scan]({{%relref "post/inspector-scan.md" %}})|ISCAN||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector2]({{%relref "post/inspector2.md" %}})|INS2||
 |[Amazon CloudWatch Internet Monitor](https://aws.amazon.com/cloudwatch/)|[internetmonitor]({{%relref "post/internetmonitor.md" %}})|CWIM||
+|[AWS Invoice Configuration](https://aws.amazon.com/aws-cost-management/aws-billing/)|[invoicing]({{%relref "post/invoicing.md" %}})|INV||
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
@@ -282,6 +283,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Neptune Analytics](https://aws.amazon.com/neptune/)|[neptune-graph]({{%relref "post/neptune-graph.md" %}})|NEPTG||
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptunedata]({{%relref "post/neptunedata.md" %}})|NEPT|Data API|
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
+|[Amazon CloudWatch Network Flow Monitor](https://aws.amazon.com/cloudwatch/features/network-monitoring/)|[networkflowmonitor]({{%relref "post/networkflowmonitor.md" %}})|NFM||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon CloudWatch Network Monitor](https://aws.amazon.com/cloudwatch/)|[networkmonitor]({{%relref "post/networkmonitor.md" %}})|CWNM||
 |[AWS User Notifications](https://aws.amazon.com/notifications/)|[notifications]({{%relref "post/notifications.md" %}})|UNO||
@@ -361,6 +363,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|SCHM||
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[sdb]({{%relref "post/sdb.md" %}})|||
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
+|[AWS Security Incident Response](https://aws.amazon.com/solutions/cloud-foundations/capabilities/security-incident-response/)|[security-ir]({{%relref "post/security-ir.md" %}})|SecurityIR||
 |[AWS Security Hub](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
 |[Amazon Security Lake](https://aws.amazon.com/security-lake/)|[securitylake]({{%relref "post/securitylake.md" %}})|SLK||
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||

@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2024-12-01
+date: 2024-12-02
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer create-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/create-profile.html)|[New-TFRProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRProfile.html)|
 |[aws transfer create-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/create-server.html)|[New-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRServer.html)|
 |[aws transfer create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/create-user.html)|[New-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRUser.html)|
+|[aws transfer create-web-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/create-web-app.html)|[New-TFRWebApp](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRWebApp.html)|
 |[aws transfer create-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/create-workflow.html)|[New-TFRWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-TFRWorkflow.html)|
 |[aws transfer delete-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-access.html)|[Remove-TFRAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRAccess.html)|
 |[aws transfer delete-agreement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-agreement.html)|[Remove-TFRAgreement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRAgreement.html)|
@@ -29,6 +30,8 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer delete-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-server.html)|[Remove-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRServer.html)|
 |[aws transfer delete-ssh-public-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-ssh-public-key.html)|[Remove-TFRSshPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRSshPublicKey.html)|
 |[aws transfer delete-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-user.html)|[Remove-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRUser.html)|
+|[aws transfer delete-web-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-web-app.html)|[Remove-TFRWebApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRWebApp.html)|
+|[aws transfer delete-web-app-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-web-app-customization.html)|[Remove-TFRWebAppCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRWebAppCustomization.html)|
 |[aws transfer delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/delete-workflow.html)|[Remove-TFRWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TFRWorkflow.html)|
 |[aws transfer describe-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-access.html)|[Get-TFRAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRAccess.html)|
 |[aws transfer describe-agreement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-agreement.html)|[Get-TFRAgreement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRAgreement.html)|
@@ -40,6 +43,8 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer describe-security-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-security-policy.html)|[Get-TFRSecurityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRSecurityPolicy.html)|
 |[aws transfer describe-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-server.html)|[Get-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServer.html)|
 |[aws transfer describe-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-user.html)|[Get-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUser.html)|
+|[aws transfer describe-web-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-web-app.html)|[Get-TFRWebApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWebApp.html)|
+|[aws transfer describe-web-app-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-web-app-customization.html)|[Get-TFRWebAppCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWebAppCustomization.html)|
 |[aws transfer describe-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/describe-workflow.html)|[Get-TFRWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWorkflow.html)|
 |[aws transfer import-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/import-certificate.html)|[Import-TFRCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRCertificate.html)|
 |[aws transfer import-host-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/import-host-key.html)|[Import-TFRHostKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-TFRHostKey.html)|
@@ -56,6 +61,7 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer list-servers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-servers.html)|[Get-TFRServerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRServerList.html)|
 |[aws transfer list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-tags-for-resource.html)|[Get-TFRResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRResourceTagList.html)|
 |[aws transfer list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-users.html)|[Get-TFRUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRUserList.html)|
+|[aws transfer list-web-apps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-web-apps.html)|[Get-TFRWebAppList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWebAppList.html)|
 |[aws transfer list-workflows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/list-workflows.html)|[Get-TFRWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TFRWorkflowList.html)|
 |[aws transfer send-workflow-step-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/send-workflow-step-state.html)|[Send-TFRWorkflowStepState](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-TFRWorkflowStepState.html)|
 |[aws transfer start-directory-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-directory-listing.html)|[Start-TFRDirectoryListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRDirectoryListing.html)|
@@ -74,4 +80,6 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer update-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/update-profile.html)|[Update-TFRProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRProfile.html)|
 |[aws transfer update-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/update-server.html)|[Update-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRServer.html)|
 |[aws transfer update-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/update-user.html)|[Update-TFRUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRUser.html)|
+|[aws transfer update-web-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/update-web-app.html)|[Update-TFRWebApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRWebApp.html)|
+|[aws transfer update-web-app-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/update-web-app-customization.html)|[Update-TFRWebAppCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TFRWebAppCustomization.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: qbusiness
-date: 2024-12-01
+date: 2024-12-02
 description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 
@@ -38,11 +38,13 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness get-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-data-source.html)|[Get-QBUSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDataSource.html)|
 |[aws qbusiness get-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-group.html)|[Get-QBUSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSGroup.html)|
 |[aws qbusiness get-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-index.html)|[Get-QBUSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSIndex.html)|
+|[aws qbusiness get-media](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-media.html)|[Get-QBUSMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSMedia.html)|
 |[aws qbusiness get-plugin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-plugin.html)|[Get-QBUSPlugin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSPlugin.html)|
 |[aws qbusiness get-retriever](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-retriever.html)|[Get-QBUSRetriever](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSRetriever.html)|
 |[aws qbusiness get-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-user.html)|[Get-QBUSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSUser.html)|
 |[aws qbusiness get-web-experience](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-web-experience.html)|[Get-QBUSWebExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSWebExperience.html)|
 |[aws qbusiness list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-applications.html)|[Get-QBUSApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSApplicationList.html)|
+|[aws qbusiness list-attachments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-attachments.html)|[Get-QBUSAttachmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSAttachmentList.html)|
 |[aws qbusiness list-conversations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-conversations.html)|[Get-QBUSConversationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSConversationList.html)|
 |[aws qbusiness list-data-source-sync-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-data-source-sync-jobs.html)|[Get-QBUSDataSourceSyncJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDataSourceSyncJobList.html)|
 |[aws qbusiness list-data-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-data-sources.html)|[Get-QBUSDataSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDataSourceList.html)|

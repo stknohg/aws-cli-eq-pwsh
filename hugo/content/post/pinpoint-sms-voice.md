@@ -1,6 +1,6 @@
 ---
 title: pinpoint-sms-voice
-date: 2024-12-01
+date: 2024-12-02
 description: aws pinpoint-sms-voice (Amazon Pinpoint SMS and Voice Messaging) command/cmdlet list.
 ---
 

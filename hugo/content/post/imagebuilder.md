@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2024-12-01
+date: 2024-12-02
 description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder get-infrastructure-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-infrastructure-configuration.html)|[Get-EC2IBInfrastructureConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBInfrastructureConfiguration.html)|
 |[aws imagebuilder get-lifecycle-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-lifecycle-execution.html)|[Get-EC2IBLifecycleExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecycleExecution.html)|
 |[aws imagebuilder get-lifecycle-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-lifecycle-policy.html)|[Get-EC2IBLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBLifecyclePolicy.html)|
+|[aws imagebuilder get-marketplace-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-marketplace-resource.html)|[Get-EC2IBMarketplaceResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBMarketplaceResource.html)|
 |[aws imagebuilder get-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-workflow.html)|[Get-EC2IBWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflow.html)|
 |[aws imagebuilder get-workflow-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-workflow-execution.html)|[Get-EC2IBWorkflowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowExecution.html)|
 |[aws imagebuilder get-workflow-step-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-workflow-step-execution.html)|[Get-EC2IBWorkflowStepExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowStepExecution.html)|

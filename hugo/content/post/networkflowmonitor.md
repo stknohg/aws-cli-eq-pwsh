@@ -1,0 +1,41 @@
+---
+title: networkflowmonitor
+date: 2024-12-02
+description: aws networkflowmonitor (Amazon CloudWatch Network Flow Monitor) command/cmdlet list.
+---
+
+## networkflowmonitor
+
+### [Amazon CloudWatch Network Flow Monitor](https://aws.amazon.com/cloudwatch/features/network-monitoring/)
+
+* [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/index.html)
+* Cmdlet Reference
+
+|AWS CLI|PowerShell Cmdlet|
+|----|----|
+|[aws networkflowmonitor create-monitor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/create-monitor.html)|[New-NFMMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NFMMonitor.html)|
+|[aws networkflowmonitor create-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/create-scope.html)|[New-NFMScope](https://docs.aws.amazon.com/powershell/latest/reference/items/New-NFMScope.html)|
+|[aws networkflowmonitor delete-monitor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/delete-monitor.html)|[Remove-NFMMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NFMMonitor.html)|
+|[aws networkflowmonitor delete-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/delete-scope.html)|[Remove-NFMScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NFMScope.html)|
+|[aws networkflowmonitor get-monitor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-monitor.html)|[Get-NFMMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMMonitor.html)|
+|[aws networkflowmonitor get-query-results-monitor-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-query-results-monitor-top-contributors.html)|[Get-NFMQueryResultsMonitorTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMQueryResultsMonitorTopContributor.html)|
+|[aws networkflowmonitor get-query-results-workload-insights-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-query-results-workload-insights-top-contributors.html)|[Get-NFMQueryResultsWorkloadInsightsTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMQueryResultsWorkloadInsightsTopContributor.html)|
+|[aws networkflowmonitor get-query-results-workload-insights-top-contributors-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-query-results-workload-insights-top-contributors-data.html)|[Get-NFMQueryResultsWorkloadInsightsTopContributorsData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMQueryResultsWorkloadInsightsTopContributorsData.html)|
+|[aws networkflowmonitor get-query-status-monitor-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-query-status-monitor-top-contributors.html)|[Get-NFMQueryStatusMonitorTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMQueryStatusMonitorTopContributor.html)|
+|[aws networkflowmonitor get-query-status-workload-insights-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-query-status-workload-insights-top-contributors.html)|[Get-NFMQueryStatusWorkloadInsightsTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMQueryStatusWorkloadInsightsTopContributor.html)|
+|[aws networkflowmonitor get-query-status-workload-insights-top-contributors-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-query-status-workload-insights-top-contributors-data.html)|[Get-NFMQueryStatusWorkloadInsightsTopContributorsData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMQueryStatusWorkloadInsightsTopContributorsData.html)|
+|[aws networkflowmonitor get-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/get-scope.html)|[Get-NFMScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMScope.html)|
+|[aws networkflowmonitor list-monitors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/list-monitors.html)|[Get-NFMMonitorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMMonitorList.html)|
+|[aws networkflowmonitor list-scopes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/list-scopes.html)|[Get-NFMScopeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMScopeList.html)|
+|[aws networkflowmonitor list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/list-tags-for-resource.html)|[Get-NFMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NFMResourceTag.html)|
+|[aws networkflowmonitor start-query-monitor-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/start-query-monitor-top-contributors.html)|[Start-NFMQueryMonitorTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NFMQueryMonitorTopContributor.html)|
+|[aws networkflowmonitor start-query-workload-insights-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/start-query-workload-insights-top-contributors.html)|[Start-NFMQueryWorkloadInsightsTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NFMQueryWorkloadInsightsTopContributor.html)|
+|[aws networkflowmonitor start-query-workload-insights-top-contributors-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/start-query-workload-insights-top-contributors-data.html)|[Start-NFMQueryWorkloadInsightsTopContributorsData](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NFMQueryWorkloadInsightsTopContributorsData.html)|
+|[aws networkflowmonitor stop-query-monitor-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/stop-query-monitor-top-contributors.html)|[Stop-NFMQueryMonitorTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NFMQueryMonitorTopContributor.html)|
+|[aws networkflowmonitor stop-query-workload-insights-top-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/stop-query-workload-insights-top-contributors.html)|[Stop-NFMQueryWorkloadInsightsTopContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NFMQueryWorkloadInsightsTopContributor.html)|
+|[aws networkflowmonitor stop-query-workload-insights-top-contributors-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/stop-query-workload-insights-top-contributors-data.html)|[Stop-NFMQueryWorkloadInsightsTopContributorsData](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NFMQueryWorkloadInsightsTopContributorsData.html)|
+|[aws networkflowmonitor tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/tag-resource.html)|[Add-NFMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-NFMResourceTag.html)|
+|[aws networkflowmonitor untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/untag-resource.html)|[Remove-NFMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NFMResourceTag.html)|
+|[aws networkflowmonitor update-monitor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/update-monitor.html)|[Update-NFMMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NFMMonitor.html)|
+|[aws networkflowmonitor update-scope](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/update-scope.html)|[Update-NFMScope](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NFMScope.html)|
+

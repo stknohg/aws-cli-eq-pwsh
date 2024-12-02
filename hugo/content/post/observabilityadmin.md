@@ -1,6 +1,6 @@
 ---
 title: observabilityadmin
-date: 2024-12-01
+date: 2024-12-02
 description: aws observabilityadmin (Amazon CloudWatch Observability Admin Service) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws observabilityadmin (Amazon CloudWatch Observability Admin Servi
 ### [Amazon CloudWatch Observability Admin Service](https://aws.amazon.com/cloudwatch/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/observabilityadmin/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/ObservabilityAdmin_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

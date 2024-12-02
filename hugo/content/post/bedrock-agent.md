@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent
-date: 2024-12-01
+date: 2024-12-02
 description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent delete-flow-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-flow-alias.html)|[Remove-AABFlowAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABFlowAlias.html)|
 |[aws bedrock-agent delete-flow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-flow-version.html)|[Remove-AABFlowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABFlowVersion.html)|
 |[aws bedrock-agent delete-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-knowledge-base.html)|[Remove-AABKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABKnowledgeBase.html)|
+|[aws bedrock-agent delete-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-knowledge-base-documents.html)|[Remove-AABKnowledgeBaseDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABKnowledgeBaseDocument.html)|
 |[aws bedrock-agent delete-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-prompt.html)|[Remove-AABPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABPrompt.html)|
 |[aws bedrock-agent disassociate-agent-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/disassociate-agent-knowledge-base.html)|[Unregister-AABAgentKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-AABAgentKnowledgeBase.html)|
 |[aws bedrock-agent get-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-agent.html)|[Get-AABAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgent.html)|
@@ -46,7 +47,9 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent get-flow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-flow-version.html)|[Get-AABFlowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABFlowVersion.html)|
 |[aws bedrock-agent get-ingestion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-ingestion-job.html)|[Get-AABIngestionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABIngestionJob.html)|
 |[aws bedrock-agent get-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-knowledge-base.html)|[Get-AABKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBase.html)|
+|[aws bedrock-agent get-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-knowledge-base-documents.html)|[Get-AABKnowledgeBaseDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBaseDocument.html)|
 |[aws bedrock-agent get-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-prompt.html)|[Get-AABPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABPrompt.html)|
+|[aws bedrock-agent ingest-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/ingest-knowledge-base-documents.html)|[Add-AABKnowledgeBaseDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AABKnowledgeBaseDocument.html)|
 |[aws bedrock-agent list-agent-action-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-agent-action-groups.html)|[Get-AABAgentActionGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgentActionGroupList.html)|
 |[aws bedrock-agent list-agent-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-agent-aliases.html)|[Get-AABAgentAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgentAliasList.html)|
 |[aws bedrock-agent list-agent-knowledge-bases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-agent-knowledge-bases.html)|[Get-AABAgentKnowledgeBasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgentKnowledgeBasisList.html)|
@@ -57,6 +60,7 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent list-flow-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-flow-versions.html)|[Get-AABFlowVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABFlowVersionList.html)|
 |[aws bedrock-agent list-flows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-flows.html)|[Get-AABFlowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABFlowList.html)|
 |[aws bedrock-agent list-ingestion-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-ingestion-jobs.html)|[Get-AABIngestionJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABIngestionJobList.html)|
+|[aws bedrock-agent list-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-knowledge-base-documents.html)|[Get-AABKnowledgeBaseDocumentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBaseDocumentList.html)|
 |[aws bedrock-agent list-knowledge-bases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-knowledge-bases.html)|[Get-AABKnowledgeBasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBasisList.html)|
 |[aws bedrock-agent list-prompts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-prompts.html)|[Get-AABPromptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABPromptList.html)|
 |[aws bedrock-agent list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-tags-for-resource.html)|[Get-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABResourceTag.html)|

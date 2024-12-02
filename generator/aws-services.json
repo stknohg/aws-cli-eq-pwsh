@@ -1061,6 +1061,12 @@
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": ""
   },
+  "invoicing": {
+    "Prefix": "INV",
+    "Name": "AWS Invoice Configuration",
+    "Url": "https://aws.amazon.com/aws-cost-management/aws-billing/",
+    "Note": ""
+  },
   "iot": {
     "Prefix": "IOT",
     "Name": "AWS IoT",
@@ -1577,6 +1583,12 @@
     "Url": "https://aws.amazon.com/network-firewall/",
     "Note": ""
   },
+  "networkflowmonitor": {
+    "Prefix": "NFM",
+    "Name": "Amazon CloudWatch Network Flow Monitor",
+    "Url": "https://aws.amazon.com/cloudwatch/features/network-monitoring/",
+    "Note": ""
+  },
   "networkmanager": {
     "Prefix": "NMGR",
     "Name": "AWS Transit Gateway network manager",
@@ -2049,6 +2061,12 @@
     "Prefix": "SEC",
     "Name": "AWS Secrets Manager",
     "Url": "https://aws.amazon.com/secrets-manager/",
+    "Note": ""
+  },
+  "security-ir": {
+    "Prefix": "SecurityIR",
+    "Name": "AWS Security Incident Response",
+    "Url": "https://aws.amazon.com/solutions/cloud-foundations/capabilities/security-incident-response/",
     "Note": ""
   },
   "securityhub": {

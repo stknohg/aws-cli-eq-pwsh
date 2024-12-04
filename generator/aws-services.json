@@ -707,6 +707,12 @@
     "Url": "https://aws.amazon.com/directoryservice/",
     "Note": "Data API"
   },
+  "dsql": {
+    "Prefix": "DSQL",
+    "Name": "Amazon Aurora DSQL",
+    "Url": "https://aws.amazon.com/rds/aurora/dsql/",
+    "Note": ""
+  },
   "dynamodb": {
     "Prefix": "DDB",
     "Name": "Amazon DynamoDB",
@@ -1989,6 +1995,12 @@
     "Prefix": "S3O",
     "Name": "Amazon S3 on Outposts",
     "Url": "https://aws.amazon.com/outposts/",
+    "Note": ""
+  },
+  "s3tables": {
+    "Prefix": "S3T",
+    "Name": "Amazon S3 Tables",
+    "Url": "https://aws.amazon.com/s3/features/tables/",
     "Note": ""
   },
   "sagemaker": {

@@ -1,6 +1,6 @@
 ---
 title: redshift-serverless
-date: 2024-12-02
+date: 2024-12-04
 description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet list.
 ---
 
@@ -44,6 +44,7 @@ description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet
 |[aws redshift-serverless get-workgroup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-workgroup.html)|[Get-RSSWorkgroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSWorkgroup.html)|
 |[aws redshift-serverless list-custom-domain-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-custom-domain-associations.html)|[Get-RSSCustomDomainAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSCustomDomainAssociationList.html)|
 |[aws redshift-serverless list-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-endpoint-access.html)|[Get-RSSEndpointAccessList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSEndpointAccessList.html)|
+|[aws redshift-serverless list-managed-workgroups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-managed-workgroups.html)|[Get-RSSManagedWorkgroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSManagedWorkgroupList.html)|
 |[aws redshift-serverless list-namespaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-namespaces.html)|[Get-RSSNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSNamespaceList.html)|
 |[aws redshift-serverless list-recovery-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-recovery-points.html)|[Get-RSSRecoveryPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSRecoveryPointList.html)|
 |[aws redshift-serverless list-scheduled-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-scheduled-actions.html)|[Get-RSSScheduledActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSScheduledActionList.html)|

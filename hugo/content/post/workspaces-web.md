@@ -1,6 +1,6 @@
 ---
 title: workspaces-web
-date: 2024-12-02
+date: 2024-12-04
 description: aws workspaces-web (Amazon WorkSpaces Secure Browser) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: invoicing
-date: 2024-12-02
+date: 2024-12-04
 description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ### [AWS Invoice Configuration](https://aws.amazon.com/aws-cost-management/aws-billing/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoicing_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

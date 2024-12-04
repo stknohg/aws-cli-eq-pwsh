@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2024-12-02
+date: 2024-12-04
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api complete-multipart-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/complete-multipart-upload.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|
 |[aws s3api copy-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/copy-object.html)|[Copy-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-S3Object.html)|
 |[aws s3api create-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-bucket.html)|[New-S3Bucket](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3Bucket.html)|
+|[aws s3api create-bucket-metadata-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-bucket-metadata-table-configuration.html)|[New-S3BucketMetadataTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3BucketMetadataTableConfiguration.html)|
 |[aws s3api create-multipart-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-multipart-upload.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|
 |[aws s3api create-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/create-session.html)|[New-S3Session](https://docs.aws.amazon.com/powershell/latest/reference/items/New-S3Session.html)|
 |[aws s3api delete-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html)|[Remove-S3Bucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3Bucket.html)|
@@ -26,6 +27,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api delete-bucket-intelligent-tiering-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-intelligent-tiering-configuration.html)|[Remove-S3BucketIntelligentTieringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketIntelligentTieringConfiguration.html)|
 |[aws s3api delete-bucket-inventory-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-inventory-configuration.html)|[Remove-S3BucketInventoryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketInventoryConfiguration.html)|
 |[aws s3api delete-bucket-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-lifecycle.html)|[Remove-S3LifecycleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3LifecycleConfiguration.html)|
+|[aws s3api delete-bucket-metadata-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-metadata-table-configuration.html)|[Remove-S3BucketMetadataTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketMetadataTableConfiguration.html)|
 |[aws s3api delete-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-metrics-configuration.html)|[Remove-S3BucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketMetricsConfiguration.html)|
 |[aws s3api delete-bucket-ownership-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-ownership-controls.html)|[Remove-S3BucketOwnershipControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketOwnershipControl.html)|
 |[aws s3api delete-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-policy.html)|[Remove-S3BucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketPolicy.html)|
@@ -47,6 +49,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api get-bucket-lifecycle-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-lifecycle-configuration.html)|[Get-S3LifecycleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3LifecycleConfiguration.html)|
 |[aws s3api get-bucket-location](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-location.html)|[Get-S3BucketLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketLocation.html)|
 |[aws s3api get-bucket-logging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-logging.html)|[Get-S3BucketLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketLogging.html)|
+|[aws s3api get-bucket-metadata-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-metadata-table-configuration.html)|[Get-S3BucketMetadataTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketMetadataTableConfiguration.html)|
 |[aws s3api get-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-metrics-configuration.html)|[Get-S3BucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketMetricsConfiguration.html)|
 |[aws s3api get-bucket-notification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-notification.html)||
 |[aws s3api get-bucket-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-notification-configuration.html)|[Get-S3BucketNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketNotification.html)|

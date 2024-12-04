@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2024-12-02
+date: 2024-12-04
 description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: networkflowmonitor
-date: 2024-12-02
+date: 2024-12-04
 description: aws networkflowmonitor (Amazon CloudWatch Network Flow Monitor) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws networkflowmonitor (Amazon CloudWatch Network Flow Monitor) com
 ### [Amazon CloudWatch Network Flow Monitor](https://aws.amazon.com/cloudwatch/features/network-monitoring/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkflowmonitor/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/NetworkFlowMonitor_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

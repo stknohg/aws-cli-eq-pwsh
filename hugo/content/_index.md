@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-12-02
+date: 2024-12-04
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.8 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.709 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.22.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.711 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -139,6 +139,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elastic Disaster Recovery](https://aws.amazon.com/disaster-recovery/)|[drs]({{%relref "post/drs.md" %}})|EDRS||
 |[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds]({{%relref "post/ds.md" %}})|DS||
 |[AWS Directory Service](https://aws.amazon.com/directoryservice/)|[ds-data]({{%relref "post/ds-data.md" %}})|DSD|Data API|
+|[Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)|[dsql]({{%relref "post/dsql.md" %}})|DSQL||
 |[Amazon DynamoDB](https://aws.amazon.com/dynamodb/)|[dynamodb]({{%relref "post/dynamodb.md" %}})|DDB||
 |[Amazon DynamoDB Streams](https://aws.amazon.com/dynamodb/)|[dynamodbstreams]({{%relref "post/dynamodbstreams.md" %}})|DDB||
 |[Amazon Elastic Block Store](https://aws.amazon.com/ebs/)|[ebs]({{%relref "post/ebs.md" %}})|EBS||
@@ -351,6 +352,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|PowerShell cmdlets are paired with s3api commands.|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3control]({{%relref "post/s3control.md" %}})|S3C||
 |[Amazon S3 on Outposts](https://aws.amazon.com/outposts/)|[s3outposts]({{%relref "post/s3outposts.md" %}})|S3O||
+|[Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)|[s3tables]({{%relref "post/s3tables.md" %}})|S3T||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker]({{%relref "post/sagemaker.md" %}})|SM||
 |[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/)|[sagemaker-a2i-runtime]({{%relref "post/sagemaker-a2i-runtime.md" %}})|A2IR||
 |[Amazon SageMaker Edge Manager](https://aws.amazon.com/sagemaker/edge-manager/)|[sagemaker-edge]({{%relref "post/sagemaker-edge.md" %}})|SME||

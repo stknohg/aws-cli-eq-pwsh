@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2024-12-02
+date: 2024-12-04
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -72,6 +72,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-tags.html)|[Remove-RSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSResourceTag.html)|
 |[aws redshift delete-usage-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-usage-limit.html)|[Remove-RSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSUsageLimit.html)|
 |[aws redshift delete-usage-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/delete-usage-limit.html)|[Remove-RSSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSUsageLimit.html)|
+|[aws redshift deregister-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/deregister-namespace.html)|[Unregister-RSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-RSNamespace.html)|
 |[aws redshift describe-account-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/describe-account-attributes.html)|[Get-RSAccountAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSAccountAttribute.html)|
 |[aws redshift describe-authentication-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/describe-authentication-profiles.html)|[Get-RSAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSAuthenticationProfile.html)|
 |[aws redshift describe-cluster-db-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/describe-cluster-db-revisions.html)|[Get-RSClusterDbRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterDbRevision.html)|
@@ -150,6 +151,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/put-resource-policy.html)|[Write-RSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-RSResourcePolicy.html)|
 |[aws redshift put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/put-resource-policy.html)|[Write-RSSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-RSSResourcePolicy.html)|
 |[aws redshift reboot-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/reboot-cluster.html)|[Restart-RSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-RSCluster.html)|
+|[aws redshift register-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/register-namespace.html)|[Register-RSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-RSNamespace.html)|
 |[aws redshift reject-data-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/reject-data-share.html)|[Deny-RSDataShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-RSDataShare.html)|
 |[aws redshift reset-cluster-parameter-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/reset-cluster-parameter-group.html)|[Reset-RSClusterParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-RSClusterParameterGroup.html)|
 |[aws redshift resize-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/resize-cluster.html)|[Set-RSClusterSize](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-RSClusterSize.html)|

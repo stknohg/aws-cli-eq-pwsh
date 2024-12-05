@@ -1,6 +1,6 @@
 ---
 title: dsql
-date: 2024-12-04
+date: 2024-12-05
 description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 ### [Amazon Aurora DSQL](https://aws.amazon.com/rds/aurora/dsql/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/DSQL_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

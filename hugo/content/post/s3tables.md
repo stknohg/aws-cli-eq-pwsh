@@ -1,6 +1,6 @@
 ---
 title: s3tables
-date: 2024-12-04
+date: 2024-12-05
 description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 ### [Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/S3Tables_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

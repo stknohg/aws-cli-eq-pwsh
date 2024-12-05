@@ -1,6 +1,6 @@
 ---
 title: stepfunctions
-date: 2024-12-04
+date: 2024-12-05
 description: aws stepfunctions (AWS Step Functions) command/cmdlet list.
 ---
 

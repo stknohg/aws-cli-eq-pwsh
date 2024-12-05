@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent-runtime
-date: 2024-12-04
+date: 2024-12-05
 description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdle
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws bedrock-agent-runtime delete-agent-memory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/delete-agent-memory.html)|[Remove-BARAgentMemory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BARAgentMemory.html)|
+|[aws bedrock-agent-runtime generate-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/generate-query.html)|[Invoke-BARGenerateQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BARGenerateQuery.html)|
 |[aws bedrock-agent-runtime get-agent-memory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-agent-memory.html)|[Get-BARAgentMemory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARAgentMemory.html)|
 |[aws bedrock-agent-runtime rerank](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/rerank.html)|[Invoke-BARRerank](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BARRerank.html)|
 |[aws bedrock-agent-runtime retrieve](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/retrieve.html)|[Invoke-BARRetrieve](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BARRetrieve.html)|

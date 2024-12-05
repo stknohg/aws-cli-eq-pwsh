@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-12-04
+date: 2024-12-05
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.711 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.22.12 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.713 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -60,6 +60,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|AAB||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|BAR||
+|[Amazon Bedrock Data Automation](https://aws.amazon.com/bedrock/bda/)|[bedrock-data-automation]({{%relref "post/bedrock-data-automation.md" %}})|BDA||
+|[Amazon Bedrock Data Automation](https://aws.amazon.com/bedrock/bda/)|[bedrock-data-automation-runtime]({{%relref "post/bedrock-data-automation-runtime.md" %}})|BDAR||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock-runtime]({{%relref "post/bedrock-runtime.md" %}})|BDRR||
 |[AWS Billing](https://aws.amazon.com/aws-cost-management/aws-billing/)|[billing]({{%relref "post/billing.md" %}})|AWSB||
 |[AWS Billing Conductor](https://aws.amazon.com/aws-cost-management/aws-billing-conductor/)|[billingconductor]({{%relref "post/billingconductor.md" %}})|ABC||

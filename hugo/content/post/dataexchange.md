@@ -1,6 +1,6 @@
 ---
 title: dataexchange
-date: 2024-12-04
+date: 2024-12-05
 description: aws dataexchange (AWS Data Exchange) command/cmdlet list.
 ---
 

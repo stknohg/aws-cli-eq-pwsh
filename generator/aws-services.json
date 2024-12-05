@@ -239,6 +239,18 @@
     "Url": "https://aws.amazon.com/bedrock/agents/",
     "Note": ""
   },
+  "bedrock-data-automation": {
+    "Prefix": "BDA",
+    "Name": "Amazon Bedrock Data Automation",
+    "Url": "https://aws.amazon.com/bedrock/bda/",
+    "Note": ""
+  },
+  "bedrock-data-automation-runtime": {
+    "Prefix": "BDAR",
+    "Name": "Amazon Bedrock Data Automation",
+    "Url": "https://aws.amazon.com/bedrock/bda/",
+    "Note": ""
+  },
   "bedrock-runtime": {
     "Prefix": "BDRR",
     "Name": "Amazon Bedrock",

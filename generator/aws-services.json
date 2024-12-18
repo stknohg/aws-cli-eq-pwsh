@@ -203,6 +203,12 @@
     "Url": "https://aws.amazon.com/backup/",
     "Note": "Backup gateway"
   },
+  "backupsearch": {
+    "Prefix": "BAKS",
+    "Name": "AWS Backup",
+    "Url": "https://aws.amazon.com/backup/",
+    "Note": "Backup Search"
+  },
   "batch": {
     "Prefix": "BAT",
     "Name": "AWS Batch",

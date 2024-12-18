@@ -33,6 +33,7 @@
   "b2bi": "https://docs.aws.amazon.com/powershell/latest/reference/items/B2bi_cmdlets.html",
   "backup": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Backup_cmdlets.html",
   "backup-gateway": "https://docs.aws.amazon.com/powershell/latest/reference/items/BackupGateway_cmdlets.html",
+  "backupsearch": "https://docs.aws.amazon.com/powershell/latest/reference/items/BackupSearch_cmdlets.html",
   "batch": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Batch_cmdlets.html",
   "bcm-data-exports": "https://docs.aws.amazon.com/powershell/latest/reference/items/BCMDataExports_cmdlets.html",
   "bcm-pricing-calculator": "https://docs.aws.amazon.com/powershell/latest/reference/items/BCMPricingCalculator_cmdlets.html",

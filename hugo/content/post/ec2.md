@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2024-12-05
+date: 2024-12-18
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -547,6 +547,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-instance-maintenance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-maintenance-options.html)|[Edit-EC2InstanceMaintenanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMaintenanceOption.html)|
 |[aws ec2 modify-instance-metadata-defaults](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-metadata-defaults.html)|[Edit-EC2InstanceMetadataDefault](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataDefault.html)|
 |[aws ec2 modify-instance-metadata-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-metadata-options.html)|[Edit-EC2InstanceMetadataOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceMetadataOption.html)|
+|[aws ec2 modify-instance-network-performance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-network-performance-options.html)|[Edit-EC2InstanceNetworkPerformanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceNetworkPerformanceOption.html)|
 |[aws ec2 modify-instance-placement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-placement.html)|[Edit-EC2InstancePlacement](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstancePlacement.html)|
 |[aws ec2 modify-ipam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam.html)|[Edit-EC2Ipam](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Ipam.html)|
 |[aws ec2 modify-ipam-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-pool.html)|[Edit-EC2IpamPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamPool.html)|

@@ -1,6 +1,6 @@
 ---
 title: networkmonitor
-date: 2024-12-05
+date: 2024-12-18
 description: aws networkmonitor (Amazon CloudWatch Network Monitor) command/cmdlet list.
 ---
 

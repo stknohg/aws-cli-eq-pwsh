@@ -1,6 +1,6 @@
 ---
 title: snow-device-management
-date: 2024-12-05
+date: 2024-12-18
 description: aws snow-device-management (Amazon Web Services Snow Device Management) command/cmdlet list.
 ---
 

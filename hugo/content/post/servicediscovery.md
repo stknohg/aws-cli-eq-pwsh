@@ -1,6 +1,6 @@
 ---
 title: servicediscovery
-date: 2024-12-05
+date: 2024-12-18
 description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet l
 |[aws servicediscovery create-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/create-service.html)|[New-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SDService.html)|
 |[aws servicediscovery delete-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/delete-namespace.html)|[Remove-SDNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDNamespace.html)|
 |[aws servicediscovery delete-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/delete-service.html)|[Remove-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDService.html)|
+|[aws servicediscovery delete-service-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/delete-service-attributes.html)|[Remove-SDServiceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDServiceAttribute.html)|
 |[aws servicediscovery deregister-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/deregister-instance.html)|[Remove-SDInstanceRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SDInstanceRegistration.html)|
 |[aws servicediscovery discover-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/discover-instances.html)|[Find-SDInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-SDInstance.html)|
 |[aws servicediscovery discover-instances-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/discover-instances-revision.html)|[Get-SDInstancesRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDInstancesRevision.html)|
@@ -27,6 +28,7 @@ description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet l
 |[aws servicediscovery get-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-namespace.html)|[Get-SDNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDNamespace.html)|
 |[aws servicediscovery get-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-operation.html)|[Get-SDOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDOperation.html)|
 |[aws servicediscovery get-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-service.html)|[Get-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDService.html)|
+|[aws servicediscovery get-service-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/get-service-attributes.html)|[Get-SDServiceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDServiceAttribute.html)|
 |[aws servicediscovery list-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/list-instances.html)|[Get-SDInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDInstanceList.html)|
 |[aws servicediscovery list-namespaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/list-namespaces.html)|[Get-SDNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDNamespaceList.html)|
 |[aws servicediscovery list-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/list-operations.html)|[Get-SDOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SDOperationList.html)|
@@ -40,4 +42,5 @@ description: aws servicediscovery (Amazon Route 53 Auto Naming) command/cmdlet l
 |[aws servicediscovery update-private-dns-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/update-private-dns-namespace.html)|[Update-SDPrivateDnsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDPrivateDnsNamespace.html)|
 |[aws servicediscovery update-public-dns-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/update-public-dns-namespace.html)|[Update-SDPublicDnsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDPublicDnsNamespace.html)|
 |[aws servicediscovery update-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/update-service.html)|[Update-SDService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDService.html)|
+|[aws servicediscovery update-service-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/servicediscovery/update-service-attributes.html)|[Update-SDServiceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SDServiceAttribute.html)|
 

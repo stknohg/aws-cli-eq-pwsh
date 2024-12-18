@@ -3,1231 +3,1234 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/accessanalyzer/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/account/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/acm/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/acm-pca/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/amp/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/amplify/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/amplifybackend/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/amplifyuibuilder/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/apigateway/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/apigatewaymanagementapi/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/apigatewayv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appconfig/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appconfigdata/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appfabric/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appflow/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appintegrations/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/application-autoscaling/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/application-insights/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/application-signals/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/applicationcostprofiler/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appmesh/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/apprunner/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appstream/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/appsync/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/apptest/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/arc-zonal-shift/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/artifact/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/athena/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/auditmanager/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/autoscaling/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/autoscaling-plans/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/b2bi/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/backup/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/backup-gateway/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aws-cli-eq-pwsh.shibata.tech/backupsearch/</loc>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/batch/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bcm-data-exports/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bcm-pricing-calculator/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bedrock/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bedrock-agent/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bedrock-agent-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bedrock-data-automation/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bedrock-data-automation-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/bedrock-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/billing/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/billingconductor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/braket/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/budgets/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ce/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chatbot/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chime-sdk-identity/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chime-sdk-media-pipelines/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chime-sdk-meetings/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chime-sdk-messaging/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/chime-sdk-voice/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cleanrooms/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cleanroomsml/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloud9/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudcontrol/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/clouddirectory/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudformation/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudfront/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudfront-keyvaluestore/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudhsm/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudhsmv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudsearch/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudsearchdomain/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudtrail/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudtrail-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cloudwatch/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codeartifact/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codebuild/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codecatalyst/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codecommit/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codeconnections/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codeguru-reviewer/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codeguru-security/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codeguruprofiler/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codepipeline/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codestar-connections/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/codestar-notifications/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cognito-identity/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cognito-idp/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cognito-sync/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/comprehend/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/comprehendmedical/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/compute-optimizer/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/configservice/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/configure/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/connect/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/connect-contact-lens/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/connectcampaigns/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/connectcampaignsv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/connectcases/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/connectparticipant/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/controlcatalog/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/controltower/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cost-optimization-hub/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/cur/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/customer-profiles/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/databrew/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dataexchange/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/datapipeline/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/datasync/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/datazone/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dax/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ddb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/deadline/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/deploy/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/detective/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/devicefarm/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/devops-guru/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/directconnect/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/discovery/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dlm/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dms/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/docdb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/docdb-elastic/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/drs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ds/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ds-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dsql/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dynamodb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/dynamodbstreams/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ebs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ec2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ec2-instance-connect/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ecr/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ecr-public/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ecs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/efs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/eks/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/eks-auth/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/elastic-inference/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/elasticache/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/elasticbeanstalk/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/elastictranscoder/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/elb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/elbv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/emr/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/emr-containers/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/emr-serverless/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/entityresolution/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/es/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/events/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/evidently/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/finspace/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/finspace-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/firehose/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/fis/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/fms/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/forecast/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/forecastquery/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/frauddetector/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/freetier/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/fsx/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/gamelift/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/geo-maps/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/geo-places/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/geo-routes/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/glacier/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/globalaccelerator/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/glue/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/grafana/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/greengrass/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/greengrassv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/groundstation/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/guardduty/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/health/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/healthlake/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/history/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iam/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/identitystore/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/imagebuilder/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/importexport/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/inspector/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/inspector-scan/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/inspector2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/internetmonitor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/invoicing/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iot/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iot-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iot-jobs-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iot1click-devices/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iot1click-projects/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotanalytics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotdeviceadvisor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotevents/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotevents-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotfleethub/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotfleetwise/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotsecuretunneling/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotsitewise/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotthingsgraph/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iottwinmaker/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/iotwireless/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ivs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ivs-realtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ivschat/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kafka/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kafkaconnect/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kendra/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kendra-ranking/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/keyspaces/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesis/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesis-video-archived-media/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesis-video-media/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesis-video-signaling/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesis-video-webrtc-storage/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesisanalytics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesisanalyticsv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kinesisvideo/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/kms/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lakeformation/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lambda/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/launch-wizard/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lex-models/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lex-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lexv2-models/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lexv2-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/license-manager/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/license-manager-linux-subscriptions/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/license-manager-user-subscriptions/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lightsail/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/location/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/logs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lookoutequipment/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lookoutmetrics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/lookoutvision/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/m2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/machinelearning/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/macie2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mailmanager/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/managedblockchain/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/managedblockchain-query/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/marketplace-agreement/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/marketplace-catalog/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/marketplace-deployment/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/marketplace-entitlement/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/marketplace-reporting/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/marketplacecommerceanalytics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediaconnect/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediaconvert/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/medialive/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediapackage/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediapackage-vod/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediapackagev2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediastore/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediastore-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mediatailor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/medical-imaging/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/memorydb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/meteringmarketplace/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mgh/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mgn/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/migration-hub-refactor-spaces/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/migrationhub-config/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/migrationhuborchestrator/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/migrationhubstrategy/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mq/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mturk/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/mwaa/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/neptune/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/neptune-graph/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/neptunedata/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/network-firewall/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/networkflowmonitor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/networkmanager/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/networkmonitor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/notifications/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/notificationscontacts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/oam/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/observabilityadmin/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/omics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/opensearch/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/opensearchserverless/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/opsworks/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/opsworks-cm/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/organizations/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/osis/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/outposts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/panorama/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/partnercentral-selling/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/payment-cryptography/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/payment-cryptography-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pca-connector-ad/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pca-connector-scep/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pcs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/personalize/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/personalize-events/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/personalize-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pi/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pinpoint/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pinpoint-email/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pinpoint-sms-voice/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pinpoint-sms-voice-v2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pipes/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/polly/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/post/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/pricing/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/privatenetworks/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/proton/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/qapps/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/qbusiness/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/qconnect/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/qldb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/qldb-session/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/quicksight/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ram/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/rbin/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/rds/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/rds-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/redshift/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/redshift-data/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/redshift-serverless/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/rekognition/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/repostspace/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/resiliencehub/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/resource-explorer-2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/resource-groups/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/resourcegroupstaggingapi/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/robomaker/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/rolesanywhere/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53-recovery-cluster/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53-recovery-control-config/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53-recovery-readiness/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53domains/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53profiles/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/route53resolver/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/rum/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/s3/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/s3api/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/s3control/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/s3outposts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/s3tables/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker-a2i-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker-edge/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker-featurestore-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker-geospatial/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker-metrics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sagemaker-runtime/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/savingsplans/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/scheduler/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/schemas/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sdb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/secretsmanager/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/security-ir/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/securityhub/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/securitylake/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/serverlessrepo/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/service-quotas/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/servicecatalog/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/servicecatalog-appregistry/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/servicediscovery/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ses/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sesv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/shield/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/signer/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/simspaceweaver/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sms/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/snow-device-management/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/snowball/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sns/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/socialmessaging/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sqs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ssm/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ssm-contacts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ssm-incidents/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ssm-quicksetup/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/ssm-sap/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sso/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sso-admin/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sso-oidc/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/stepfunctions/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/storagegateway/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/sts/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/supplychain/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/support/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/support-app/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/swf/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/synthetics/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/taxsettings/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/textract/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/timestream-influxdb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/timestream-query/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/timestream-write/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/tnb/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/transcribe/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/transfer/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/translate/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/trustedadvisor/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/verifiedpermissions/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/voice-id/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/vpc-lattice/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/waf/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/waf-regional/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/wafv2/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/wellarchitected/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/wisdom/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/workdocs/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/workmail/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/workmailmessageflow/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/workspaces/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/workspaces-thin-client/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/workspaces-web/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/xray/</loc>
-    <lastmod>2024-12-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aws-cli-eq-pwsh.shibata.tech/tags/</loc>
   </url>

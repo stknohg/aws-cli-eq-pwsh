@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2024-12-05
+date: 2024-12-18
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.12 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.713 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.22.19 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.720 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -54,6 +54,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS B2B Data Interchange](https://aws.amazon.com/b2b-data-interchange/)|[b2bi]({{%relref "post/b2bi.md" %}})|B2BI||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup]({{%relref "post/backup.md" %}})|BAK||
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
+|[AWS Backup](https://aws.amazon.com/backup/)|[backupsearch]({{%relref "post/backupsearch.md" %}})|BAKS|Backup Search|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
 |[Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/aws-cost-management/)|[bcm-data-exports]({{%relref "post/bcm-data-exports.md" %}})|BCMDE||
 |[AWS Billing and Cost Management Pricing Calculator](https://aws.amazon.com/aws-cost-management/)|[bcm-pricing-calculator]({{%relref "post/bcm-pricing-calculator.md" %}})|BCMPC||

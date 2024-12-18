@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2024-12-05
+date: 2024-12-18
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -55,6 +55,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup get-backup-vault-access-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-backup-vault-access-policy.html)|[Get-BAKBackupVaultAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultAccessPolicy.html)|
 |[aws backup get-backup-vault-notifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-backup-vault-notifications.html)|[Get-BAKBackupVaultNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultNotification.html)|
 |[aws backup get-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-legal-hold.html)|[Get-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKLegalHold.html)|
+|[aws backup get-recovery-point-index-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-recovery-point-index-details.html)|[Get-BAKRecoveryPointIndexDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointIndexDetail.html)|
 |[aws backup get-recovery-point-restore-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-recovery-point-restore-metadata.html)|[Get-BAKRecoveryPointRestoreMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointRestoreMetadata.html)|
 |[aws backup get-restore-job-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-restore-job-metadata.html)|[Get-BAKRestoreJobMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobMetadata.html)|
 |[aws backup get-restore-testing-inferred-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-restore-testing-inferred-metadata.html)|[Get-BAKRestoreTestingInferredMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreTestingInferredMetadata.html)|
@@ -71,6 +72,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup list-copy-job-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-copy-job-summaries.html)|[Get-BAKCopyJobSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJobSummaryList.html)|
 |[aws backup list-copy-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-copy-jobs.html)|[Get-BAKCopyJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJobList.html)|
 |[aws backup list-frameworks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-frameworks.html)|[Get-BAKFrameworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKFrameworkList.html)|
+|[aws backup list-indexed-recovery-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-indexed-recovery-points.html)|[Get-BAKIndexedRecoveryPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKIndexedRecoveryPointList.html)|
 |[aws backup list-legal-holds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-legal-holds.html)|[Get-BAKLegalHoldList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKLegalHoldList.html)|
 |[aws backup list-protected-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-protected-resources.html)|[Get-BAKProtectedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResourceList.html)|
 |[aws backup list-protected-resources-by-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-protected-resources-by-backup-vault.html)|[Get-BAKProtectedResourcesByBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKProtectedResourcesByBackupVaultList.html)|
@@ -96,11 +98,14 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup stop-backup-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/stop-backup-job.html)|[Stop-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BAKBackupJob.html)|
 |[aws backup tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/tag-resource.html)|[Add-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKResourceTag.html)|
 |[aws backup tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/tag-resource.html)|[Add-BUGWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BUGWResourceTag.html)|
+|[aws backup tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/tag-resource.html)|[Add-BAKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKSResourceTag.html)|
 |[aws backup untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/untag-resource.html)|[Remove-BAKResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKResourceTag.html)|
 |[aws backup untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/untag-resource.html)|[Remove-BUGWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BUGWResourceTag.html)|
+|[aws backup untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/untag-resource.html)|[Remove-BAKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKSResourceTag.html)|
 |[aws backup update-backup-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-backup-plan.html)|[Update-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKBackupPlan.html)|
 |[aws backup update-framework](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-framework.html)|[Update-BAKFramework](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKFramework.html)|
 |[aws backup update-global-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-global-settings.html)|[Update-BAKGlobalSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKGlobalSetting.html)|
+|[aws backup update-recovery-point-index-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-recovery-point-index-settings.html)|[Update-BAKRecoveryPointIndexSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRecoveryPointIndexSetting.html)|
 |[aws backup update-recovery-point-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-recovery-point-lifecycle.html)|[Update-BAKRecoveryPointLifecycle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRecoveryPointLifecycle.html)|
 |[aws backup update-region-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-region-settings.html)|[Update-BAKRegionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKRegionSetting.html)|
 |[aws backup update-report-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/update-report-plan.html)|[Update-BAKReportPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BAKReportPlan.html)|

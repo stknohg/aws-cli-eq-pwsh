@@ -1,6 +1,6 @@
 ---
 title: lexv2-runtime
-date: 2024-12-05
+date: 2024-12-18
 description: aws lexv2-runtime (Amazon Lex) command/cmdlet list.
 ---
 

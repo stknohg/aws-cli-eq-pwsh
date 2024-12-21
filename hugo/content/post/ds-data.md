@@ -1,6 +1,6 @@
 ---
 title: ds-data
-date: 2024-12-18
+date: 2024-12-21
 description: aws ds-data (AWS Directory Service) command/cmdlet list.
 ---
 

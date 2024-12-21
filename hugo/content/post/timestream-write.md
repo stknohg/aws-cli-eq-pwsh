@@ -1,6 +1,6 @@
 ---
 title: timestream-write
-date: 2024-12-18
+date: 2024-12-21
 description: aws timestream-write (Amazon Timestream for LiveAnalytics) command/cmdlet list.
 ---
 

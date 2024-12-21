@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2024-12-18
+date: 2024-12-21
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -94,6 +94,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive list-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-reservations.html)|[Get-EMLReservationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLReservationList.html)|
 |[aws medialive list-signal-maps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-signal-maps.html)|[Get-EMLSignalMapList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSignalMapList.html)|
 |[aws medialive list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-tags-for-resource.html)|[Get-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLResourceTag.html)|
+|[aws medialive list-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-versions.html)|[Get-EMLVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLVersionList.html)|
 |[aws medialive purchase-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/purchase-offering.html)|[New-EMLOfferingPurchase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLOfferingPurchase.html)|
 |[aws medialive reboot-input-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/reboot-input-device.html)|[Restart-EMLInputDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EMLInputDevice.html)|
 |[aws medialive reject-input-device-transfer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/reject-input-device-transfer.html)|[Deny-EMLInputDeviceTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-EMLInputDeviceTransfer.html)|

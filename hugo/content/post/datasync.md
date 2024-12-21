@@ -1,6 +1,6 @@
 ---
 title: datasync
-date: 2024-12-18
+date: 2024-12-21
 description: aws datasync (AWS DataSync) command/cmdlet list.
 ---
 
@@ -66,9 +66,15 @@ description: aws datasync (AWS DataSync) command/cmdlet list.
 |[aws datasync update-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-agent.html)|[Update-DSYNAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNAgent.html)|
 |[aws datasync update-discovery-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-discovery-job.html)|[Update-DSYNDiscoveryJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNDiscoveryJob.html)|
 |[aws datasync update-location-azure-blob](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-azure-blob.html)|[Update-DSYNLocationAzureBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationAzureBlob.html)|
+|[aws datasync update-location-efs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-efs.html)|[Update-DSYNLocationEfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationEfs.html)|
+|[aws datasync update-location-fsx-lustre](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-fsx-lustre.html)|[Update-DSYNLocationFsxLustre](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationFsxLustre.html)|
+|[aws datasync update-location-fsx-ontap](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-fsx-ontap.html)|[Update-DSYNLocationFsxOntap](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationFsxOntap.html)|
+|[aws datasync update-location-fsx-open-zfs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-fsx-open-zfs.html)|[Update-DSYNLocationFsxOpenZf](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationFsxOpenZf.html)|
+|[aws datasync update-location-fsx-windows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-fsx-windows.html)|[Update-DSYNLocationFsxWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationFsxWindow.html)|
 |[aws datasync update-location-hdfs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-hdfs.html)|[Update-DSYNLocationHdf](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationHdf.html)|
 |[aws datasync update-location-nfs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-nfs.html)|[Update-DSYNLocationNfs](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationNfs.html)|
 |[aws datasync update-location-object-storage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-object-storage.html)|[Update-DSYNLocationObjectStorage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationObjectStorage.html)|
+|[aws datasync update-location-s3](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-s3.html)|[Update-DSYNLocationS3](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationS3.html)|
 |[aws datasync update-location-smb](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-location-smb.html)|[Update-DSYNLocationSmb](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNLocationSmb.html)|
 |[aws datasync update-storage-system](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-storage-system.html)|[Update-DSYNStorageSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNStorageSystem.html)|
 |[aws datasync update-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datasync/update-task.html)|[Update-DSYNTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSYNTask.html)|

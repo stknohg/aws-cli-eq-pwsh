@@ -1,6 +1,6 @@
 ---
 title: omics
-date: 2024-12-18
+date: 2024-12-21
 description: aws omics (AWS HealthOmics) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ivschat
-date: 2024-12-18
+date: 2024-12-21
 description: aws ivschat (Amazon Interactive Video Service) command/cmdlet list.
 ---
 

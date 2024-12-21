@@ -1,6 +1,6 @@
 ---
 title: application-signals
-date: 2024-12-18
+date: 2024-12-21
 description: aws application-signals (Amazon CloudWatch Application Signals) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2024-12-18
+date: 2024-12-21
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -260,6 +260,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-hours-of-operation-override](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-hours-of-operation-override.html)|[Update-CONNHoursOfOperationOverride](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNHoursOfOperationOverride.html)|
 |[aws connect update-instance-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-instance-attribute.html)|[Update-CONNInstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceAttribute.html)|
 |[aws connect update-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-instance-storage-config.html)|[Update-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNInstanceStorageConfig.html)|
+|[aws connect update-participant-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-participant-authentication.html)|[Update-CONNParticipantAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNParticipantAuthentication.html)|
 |[aws connect update-participant-role-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-participant-role-config.html)|[Update-CONNParticipantRoleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNParticipantRoleConfig.html)|
 |[aws connect update-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-phone-number.html)|[Update-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPhoneNumber.html)|
 |[aws connect update-phone-number-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-phone-number-metadata.html)|[Update-CONNPhoneNumberMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPhoneNumberMetadata.html)|

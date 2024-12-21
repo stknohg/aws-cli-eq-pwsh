@@ -1,6 +1,6 @@
 ---
 title: signer
-date: 2024-12-18
+date: 2024-12-21
 description: aws signer (AWS Signer) command/cmdlet list.
 ---
 

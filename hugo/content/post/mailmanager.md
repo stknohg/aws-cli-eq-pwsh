@@ -1,6 +1,6 @@
 ---
 title: mailmanager
-date: 2024-12-18
+date: 2024-12-21
 description: aws mailmanager (Amazon SES Mail Manager) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2024-12-18
+date: 2024-12-21
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -158,6 +158,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot get-policy-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-policy-version.html)|[Get-IOTPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyVersion.html)|
 |[aws iot get-registration-code](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-registration-code.html)|[Get-IOTRegistrationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTRegistrationCode.html)|
 |[aws iot get-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-statistics.html)|[Get-IOTStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTStatistic.html)|
+|[aws iot get-thing-connectivity-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-thing-connectivity-data.html)|[Get-IOTThingConnectivityData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingConnectivityData.html)|
 |[aws iot get-topic-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-topic-rule.html)|[Get-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTopicRule.html)|
 |[aws iot get-topic-rule-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-topic-rule-destination.html)|[Get-IOTTopicRuleDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTTopicRuleDestination.html)|
 |[aws iot get-v2-logging-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/get-v2-logging-options.html)|[Get-IOTV2LoggingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTV2LoggingOption.html)|

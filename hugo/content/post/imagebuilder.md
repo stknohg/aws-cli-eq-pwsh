@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2024-12-21
+date: 2025-01-03
 description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 ---
 

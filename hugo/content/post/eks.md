@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2024-12-21
+date: 2025-01-03
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks describe-addon-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-addon-configuration.html)|[Get-EKSAddonConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonConfiguration.html)|
 |[aws eks describe-addon-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-addon-versions.html)|[Get-EKSAddonVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonVersion.html)|
 |[aws eks describe-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-cluster.html)|[Get-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCluster.html)|
+|[aws eks describe-cluster-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-cluster-versions.html)|[Get-EKSClusterVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSClusterVersion.html)|
 |[aws eks describe-eks-anywhere-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-eks-anywhere-subscription.html)|[Get-EKSEksAnywhereSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSEksAnywhereSubscription.html)|
 |[aws eks describe-fargate-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-fargate-profile.html)|[Get-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfile.html)|
 |[aws eks describe-identity-provider-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-identity-provider-config.html)|[Get-EKSIdentityProviderConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSIdentityProviderConfig.html)|

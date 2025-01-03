@@ -1,6 +1,6 @@
 ---
 title: lookoutvision
-date: 2024-12-21
+date: 2025-01-03
 description: aws lookoutvision (Amazon Lookout for Vision) command/cmdlet list.
 ---
 

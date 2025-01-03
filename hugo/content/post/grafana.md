@@ -1,6 +1,6 @@
 ---
 title: grafana
-date: 2024-12-21
+date: 2025-01-03
 description: aws grafana (Amazon Managed Grafana) command/cmdlet list.
 ---
 

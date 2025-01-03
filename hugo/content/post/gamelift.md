@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2024-12-21
+date: 2025-01-03
 description: aws gamelift (Amazon GameLift) command/cmdlet list.
 ---
 
@@ -115,6 +115,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift stop-matchmaking](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/stop-matchmaking.html)|[Stop-GMLMatchmaking](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLMatchmaking.html)|
 |[aws gamelift suspend-game-server-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/suspend-game-server-group.html)|[Suspend-GMLGameServerGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-GMLGameServerGroup.html)|
 |[aws gamelift tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/tag-resource.html)|[Add-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GMLResourceTag.html)|
+|[aws gamelift terminate-game-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/terminate-game-session.html)|[Stop-GMLGameSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLGameSession.html)|
 |[aws gamelift untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/untag-resource.html)|[Remove-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLResourceTag.html)|
 |[aws gamelift update-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-alias.html)|[Update-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLAlias.html)|
 |[aws gamelift update-build](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-build.html)|[Update-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLBuild.html)|

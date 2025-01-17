@@ -1109,18 +1109,6 @@
     "Url": "https://aws.amazon.com/iot/",
     "Note": ""
   },
-  "iot1click-devices": {
-    "Prefix": "",
-    "Name": "AWS IoT 1-Click Devices",
-    "Url": "https://aws.amazon.com/iot/",
-    "Note": ""
-  },
-  "iot1click-projects": {
-    "Prefix": "",
-    "Name": "AWS IoT 1-Click Project",
-    "Url": "https://aws.amazon.com/iot/",
-    "Note": ""
-  },
   "iotanalytics": {
     "Prefix": "",
     "Name": "AWS IoT Analytics",

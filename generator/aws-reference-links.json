@@ -182,8 +182,6 @@
   "iot": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html",
   "iot-data": "",
   "iot-jobs-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Jobs_Data_Plane_cmdlets.html",
-  "iot1click-devices": "",
-  "iot1click-projects": "",
   "iotanalytics": "",
   "iotdeviceadvisor": "https://docs.aws.amazon.com/powershell/latest/reference/items/IoTDeviceAdvisor_cmdlets.html",
   "iotevents": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_Events_cmdlets.html",

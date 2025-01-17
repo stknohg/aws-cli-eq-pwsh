@@ -1,6 +1,6 @@
 ---
 title: eks-auth
-date: 2025-01-03
+date: 2025-01-17
 description: aws eks-auth (EKS Pod Identity) command/cmdlet list.
 ---
 

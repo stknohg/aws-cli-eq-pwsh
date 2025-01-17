@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2025-01-03
+date: 2025-01-17
 description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder get-workflow-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-workflow-execution.html)|[Get-EC2IBWorkflowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowExecution.html)|
 |[aws imagebuilder get-workflow-step-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-workflow-step-execution.html)|[Get-EC2IBWorkflowStepExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBWorkflowStepExecution.html)|
 |[aws imagebuilder import-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/import-component.html)|[Import-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBComponent.html)|
+|[aws imagebuilder import-disk-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/import-disk-image.html)|[Import-EC2IBDiskImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBDiskImage.html)|
 |[aws imagebuilder import-vm-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/import-vm-image.html)|[Import-EC2IBVmImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-EC2IBVmImage.html)|
 |[aws imagebuilder list-component-build-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/list-component-build-versions.html)|[Get-EC2IBComponentBuildVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentBuildVersionList.html)|
 |[aws imagebuilder list-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/list-components.html)|[Get-EC2IBComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentList.html)|

@@ -1,6 +1,6 @@
 ---
 title: events
-date: 2025-01-03
+date: 2025-01-17
 description: aws events (Amazon CloudWatch Events) command/cmdlet list.
 ---
 

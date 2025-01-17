@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-01-03
+date: 2025-01-17
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.22.27 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.728 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.23.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.738 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -204,8 +204,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
-|[AWS IoT 1-Click Devices](https://aws.amazon.com/iot/)|[iot1click-devices]({{%relref "post/iot1click-devices.md" %}})|||
-|[AWS IoT 1-Click Project](https://aws.amazon.com/iot/)|[iot1click-projects]({{%relref "post/iot1click-projects.md" %}})|||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
 |[AWS IoT Core Device Advisor](https://aws.amazon.com/iot/)|[iotdeviceadvisor]({{%relref "post/iotdeviceadvisor.md" %}})|IOTDA||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||

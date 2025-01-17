@@ -1,6 +1,6 @@
 ---
 title: partnercentral-selling
-date: 2025-01-03
+date: 2025-01-17
 description: aws partnercentral-selling (AWS Partner Central API for Selling) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws partnercentral-selling (AWS Partner Central API for Selling) co
 |[aws partnercentral-selling list-resource-snapshot-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/list-resource-snapshot-jobs.html)|[Get-PCResourceSnapshotJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCResourceSnapshotJobList.html)|
 |[aws partnercentral-selling list-resource-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/list-resource-snapshots.html)|[Get-PCResourceSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCResourceSnapshotList.html)|
 |[aws partnercentral-selling list-solutions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/list-solutions.html)|[Get-PCSolutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCSolutionList.html)|
+|[aws partnercentral-selling list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/list-tags-for-resource.html)|[Get-PCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCResourceTag.html)|
 |[aws partnercentral-selling put-selling-system-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/put-selling-system-settings.html)|[Write-PCSellingSystemSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-PCSellingSystemSetting.html)|
 |[aws partnercentral-selling reject-engagement-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/reject-engagement-invitation.html)|[Invoke-PCRejectEngagementInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-PCRejectEngagementInvitation.html)|
 |[aws partnercentral-selling start-engagement-by-accepting-invitation-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/start-engagement-by-accepting-invitation-task.html)|[Invoke-PCStartEngagementByAcceptingInvitationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-PCStartEngagementByAcceptingInvitationTask.html)|
@@ -47,5 +48,7 @@ description: aws partnercentral-selling (AWS Partner Central API for Selling) co
 |[aws partnercentral-selling start-resource-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/start-resource-snapshot-job.html)|[Start-PCResourceSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-PCResourceSnapshotJob.html)|
 |[aws partnercentral-selling stop-resource-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/stop-resource-snapshot-job.html)|[Stop-PCResourceSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-PCResourceSnapshotJob.html)|
 |[aws partnercentral-selling submit-opportunity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/submit-opportunity.html)|[Submit-PCOpportunity](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-PCOpportunity.html)|
+|[aws partnercentral-selling tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/tag-resource.html)|[Add-PCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PCResourceTag.html)|
+|[aws partnercentral-selling untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/untag-resource.html)|[Remove-PCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PCResourceTag.html)|
 |[aws partnercentral-selling update-opportunity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-selling/update-opportunity.html)|[Update-PCOpportunity](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCOpportunity.html)|
 

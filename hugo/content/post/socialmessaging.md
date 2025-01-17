@@ -1,6 +1,6 @@
 ---
 title: socialmessaging
-date: 2025-01-03
+date: 2025-01-17
 description: aws socialmessaging (AWS End User Messaging Social) command/cmdlet list.
 ---
 

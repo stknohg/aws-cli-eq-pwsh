@@ -1,6 +1,6 @@
 ---
 title: kafkaconnect
-date: 2025-01-03
+date: 2025-01-17
 description: aws kafkaconnect (Amazon Managed Streaming for Kafka Connect) command/cmdlet list.
 ---
 
@@ -20,8 +20,10 @@ description: aws kafkaconnect (Amazon Managed Streaming for Kafka Connect) comma
 |[aws kafkaconnect delete-custom-plugin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/delete-custom-plugin.html)|[Remove-MSKCCustomPlugin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCCustomPlugin.html)|
 |[aws kafkaconnect delete-worker-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/delete-worker-configuration.html)|[Remove-MSKCWorkerConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCWorkerConfiguration.html)|
 |[aws kafkaconnect describe-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/describe-connector.html)|[Get-MSKCConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCConnector.html)|
+|[aws kafkaconnect describe-connector-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/describe-connector-operation.html)|[Get-MSKCConnectorOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCConnectorOperation.html)|
 |[aws kafkaconnect describe-custom-plugin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/describe-custom-plugin.html)|[Get-MSKCCustomPlugin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCCustomPlugin.html)|
 |[aws kafkaconnect describe-worker-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/describe-worker-configuration.html)|[Get-MSKCWorkerConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCWorkerConfiguration.html)|
+|[aws kafkaconnect list-connector-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-connector-operations.html)|[Get-MSKCConnectorOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCConnectorOperationList.html)|
 |[aws kafkaconnect list-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-connectors.html)|[Get-MSKCConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCConnectorList.html)|
 |[aws kafkaconnect list-custom-plugins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-custom-plugins.html)|[Get-MSKCCustomPluginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCCustomPluginList.html)|
 |[aws kafkaconnect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-tags-for-resource.html)|[Get-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCResourceTag.html)|

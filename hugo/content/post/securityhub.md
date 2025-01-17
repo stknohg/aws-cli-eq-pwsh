@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2025-01-03
+date: 2025-01-17
 description: aws securityhub (AWS Security Hub) command/cmdlet list.
 ---
 

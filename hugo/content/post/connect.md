@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-01-17
+date: 2025-01-26
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -69,6 +69,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-evaluation.html)|[Remove-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactEvaluation.html)|
 |[aws connect delete-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-flow.html)|[Remove-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactFlow.html)|
 |[aws connect delete-contact-flow-module](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-flow-module.html)|[Remove-CONNContactFlowModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactFlowModule.html)|
+|[aws connect delete-contact-flow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-flow-version.html)|[Remove-CONNContactFlowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactFlowVersion.html)|
 |[aws connect delete-email-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-email-address.html)|[Remove-CONNEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNEmailAddress.html)|
 |[aws connect delete-evaluation-form](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-evaluation-form.html)|[Remove-CONNEvaluationForm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNEvaluationForm.html)|
 |[aws connect delete-hours-of-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-hours-of-operation.html)|[Remove-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNHoursOfOperation.html)|

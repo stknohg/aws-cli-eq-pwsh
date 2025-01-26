@@ -1,6 +1,6 @@
 ---
 title: timestream-query
-date: 2025-01-17
+date: 2025-01-26
 description: aws timestream-query (Amazon Timestream for LiveAnalytics) command/cmdlet list.
 ---
 

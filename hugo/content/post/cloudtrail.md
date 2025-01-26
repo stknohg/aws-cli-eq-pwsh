@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2025-01-17
+date: 2025-01-26
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail register-organization-delegated-admin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/register-organization-delegated-admin.html)|[Register-CTOrganizationDelegatedAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CTOrganizationDelegatedAdmin.html)|
 |[aws cloudtrail remove-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/remove-tags.html)|[Remove-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CTResourceTag.html)|
 |[aws cloudtrail restore-event-data-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/restore-event-data-store.html)|[Restore-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-CTEventDataStore.html)|
+|[aws cloudtrail search-sample-queries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/search-sample-queries.html)|[Search-CTSampleQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CTSampleQuery.html)|
 |[aws cloudtrail start-dashboard-refresh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/start-dashboard-refresh.html)|[Start-CTDashboardRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTDashboardRefresh.html)|
 |[aws cloudtrail start-event-data-store-ingestion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/start-event-data-store-ingestion.html)|[Start-CTEventDataStoreIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTEventDataStoreIngestion.html)|
 |[aws cloudtrail start-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/start-import.html)|[Start-CTImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CTImport.html)|

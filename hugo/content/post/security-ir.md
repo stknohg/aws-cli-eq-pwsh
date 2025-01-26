@@ -1,6 +1,6 @@
 ---
 title: security-ir
-date: 2025-01-17
+date: 2025-01-26
 description: aws security-ir (AWS Security Incident Response) command/cmdlet list.
 ---
 

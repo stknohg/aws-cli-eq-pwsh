@@ -1,6 +1,6 @@
 ---
 title: ssm-quicksetup
-date: 2025-01-26
+date: 2025-02-03
 description: aws ssm-quicksetup (AWS Systems Manager Quick Setup) command/cmdlet list.
 ---
 

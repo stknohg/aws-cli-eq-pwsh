@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2025-01-26
+date: 2025-02-03
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 

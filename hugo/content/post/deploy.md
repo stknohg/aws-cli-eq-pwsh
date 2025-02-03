@@ -1,6 +1,6 @@
 ---
 title: deploy
-date: 2025-01-26
+date: 2025-02-03
 description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 ---
 

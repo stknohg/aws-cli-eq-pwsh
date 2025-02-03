@@ -1,6 +1,6 @@
 ---
 title: qbusiness
-date: 2025-01-26
+date: 2025-02-03
 description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness associate-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/associate-permission.html)|[Add-QBUSPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QBUSPermission.html)|
 |[aws qbusiness batch-delete-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/batch-delete-document.html)|[Remove-QBUSBatchDeleteDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSBatchDeleteDocument.html)|
 |[aws qbusiness batch-put-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/batch-put-document.html)|[Set-QBUSBatchPutDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-QBUSBatchPutDocument.html)|
+|[aws qbusiness cancel-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/cancel-subscription.html)|[Stop-QBUSSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-QBUSSubscription.html)|
 |[aws qbusiness chat-sync](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/chat-sync.html)|[Set-QBUSChatSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-QBUSChatSync.html)|
 |[aws qbusiness create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-application.html)|[New-QBUSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSApplication.html)|
 |[aws qbusiness create-data-accessor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-data-accessor.html)|[New-QBUSDataAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSDataAccessor.html)|
@@ -23,6 +24,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness create-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-index.html)|[New-QBUSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSIndex.html)|
 |[aws qbusiness create-plugin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-plugin.html)|[New-QBUSPlugin](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSPlugin.html)|
 |[aws qbusiness create-retriever](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-retriever.html)|[New-QBUSRetriever](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSRetriever.html)|
+|[aws qbusiness create-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-subscription.html)|[New-QBUSSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSSubscription.html)|
 |[aws qbusiness create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-user.html)|[New-QBUSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSUser.html)|
 |[aws qbusiness create-web-experience](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-web-experience.html)|[New-QBUSWebExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSWebExperience.html)|
 |[aws qbusiness delete-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/delete-application.html)|[Remove-QBUSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSApplication.html)|
@@ -64,6 +66,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness list-plugin-type-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-plugin-type-metadata.html)|[Get-QBUSPluginTypeMetadataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSPluginTypeMetadataList.html)|
 |[aws qbusiness list-plugins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-plugins.html)|[Get-QBUSPluginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSPluginList.html)|
 |[aws qbusiness list-retrievers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-retrievers.html)|[Get-QBUSRetrieverList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSRetrieverList.html)|
+|[aws qbusiness list-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-subscriptions.html)|[Get-QBUSSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSSubscriptionList.html)|
 |[aws qbusiness list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-tags-for-resource.html)|[Get-QBUSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSResourceTag.html)|
 |[aws qbusiness list-web-experiences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/list-web-experiences.html)|[Get-QBUSWebExperienceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSWebExperienceList.html)|
 |[aws qbusiness put-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/put-feedback.html)|[Write-QBUSFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-QBUSFeedback.html)|
@@ -80,6 +83,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness update-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/update-index.html)|[Update-QBUSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QBUSIndex.html)|
 |[aws qbusiness update-plugin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/update-plugin.html)|[Update-QBUSPlugin](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QBUSPlugin.html)|
 |[aws qbusiness update-retriever](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/update-retriever.html)|[Update-QBUSRetriever](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QBUSRetriever.html)|
+|[aws qbusiness update-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/update-subscription.html)|[Update-QBUSSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QBUSSubscription.html)|
 |[aws qbusiness update-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/update-user.html)|[Update-QBUSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QBUSUser.html)|
 |[aws qbusiness update-web-experience](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/update-web-experience.html)|[Update-QBUSWebExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QBUSWebExperience.html)|
 

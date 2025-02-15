@@ -1,6 +1,6 @@
 ---
 title: neptune-graph
-date: 2025-02-03
+date: 2025-02-15
 description: aws neptune-graph (Amazon Neptune Analytics) command/cmdlet list.
 ---
 

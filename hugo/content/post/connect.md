@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-02-03
+date: 2025-02-15
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -148,6 +148,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect import-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/import-phone-number.html)|[Import-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-CONNPhoneNumber.html)|
 |[aws connect list-agent-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-agent-statuses.html)|[Get-CONNAgentStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatusList.html)|
 |[aws connect list-analytics-data-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-analytics-data-associations.html)|[Get-CONNAnalyticsDataAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAnalyticsDataAssociationList.html)|
+|[aws connect list-analytics-data-lake-data-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-analytics-data-lake-data-sets.html)|[Get-CONNAnalyticsDataLakeDataSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAnalyticsDataLakeDataSetList.html)|
 |[aws connect list-approved-origins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
 |[aws connect list-associated-contacts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-associated-contacts.html)|[Get-CONNAssociatedContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAssociatedContactList.html)|
 |[aws connect list-authentication-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-authentication-profiles.html)|[Get-CONNAuthenticationProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAuthenticationProfileList.html)|

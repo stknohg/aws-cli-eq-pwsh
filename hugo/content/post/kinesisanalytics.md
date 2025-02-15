@@ -1,6 +1,6 @@
 ---
 title: kinesisanalytics
-date: 2025-02-03
+date: 2025-02-15
 description: aws kinesisanalytics (Amazon Kinesis) command/cmdlet list.
 ---
 

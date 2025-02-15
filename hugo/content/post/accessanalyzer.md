@@ -1,6 +1,6 @@
 ---
 title: accessanalyzer
-date: 2025-02-03
+date: 2025-02-15
 description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 |[aws accessanalyzer get-finding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-finding.html)|[Get-IAMAAFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFinding.html)|
 |[aws accessanalyzer get-finding-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-finding-recommendation.html)|[Get-IAMAAFindingRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFindingRecommendation.html)|
 |[aws accessanalyzer get-finding-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-finding-v2.html)|[Get-IAMAAFindingV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFindingV2.html)|
+|[aws accessanalyzer get-findings-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-findings-statistics.html)|[Get-IAMAAFindingsStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAFindingsStatistic.html)|
 |[aws accessanalyzer get-generated-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-generated-policy.html)|[Get-IAMAAGeneratedPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAGeneratedPolicy.html)|
 |[aws accessanalyzer list-access-preview-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-access-preview-findings.html)|[Get-IAMAAAccessPreviewFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAccessPreviewFindingList.html)|
 |[aws accessanalyzer list-access-previews](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/list-access-previews.html)|[Get-IAMAAAccessPreviewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAccessPreviewList.html)|

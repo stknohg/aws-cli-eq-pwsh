@@ -803,12 +803,6 @@
     "Url": "https://aws.amazon.com/eks/",
     "Note": ""
   },
-  "elastic-inference": {
-    "Prefix": "EI",
-    "Name": "Amazon Elastic Inference",
-    "Url": "https://aws.amazon.com/machine-learning/elastic-inference/",
-    "Note": ""
-  },
   "elasticache": {
     "Prefix": "EC",
     "Name": "Amazon ElastiCache",

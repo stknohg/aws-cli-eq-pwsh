@@ -131,7 +131,6 @@
   "efs": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_File_System_cmdlets.html",
   "eks": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Container_Service_for_Kubernetes_cmdlets.html",
   "eks-auth": "https://docs.aws.amazon.com/powershell/latest/reference/items/EKSAuth_cmdlets.html",
-  "elastic-inference": "https://docs.aws.amazon.com/powershell/latest/reference/items/ElasticInference_cmdlets.html",
   "elasticache": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_ElastiCache_cmdlets.html",
   "elasticbeanstalk": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elastic_Beanstalk_cmdlets.html",
   "elastictranscoder": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Transcoder_cmdlets.html",

@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2025-02-15
+date: 2025-03-01
 description: aws storagegateway (AWS Storage Gateway) command/cmdlet list.
 ---
 
@@ -68,6 +68,7 @@ description: aws storagegateway (AWS Storage Gateway) command/cmdlet list.
 |[aws storagegateway detach-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/detach-volume.html)|[Dismount-SGVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-SGVolume.html)|
 |[aws storagegateway disable-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/disable-gateway.html)|[Disable-SGGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SGGateway.html)|
 |[aws storagegateway disassociate-file-system](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/disassociate-file-system.html)|[Remove-SGSGFileSystemAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SGSGFileSystemAssociation.html)|
+|[aws storagegateway evict-files-failing-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/evict-files-failing-upload.html)|[Invoke-SGEvictFilesFailingUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-SGEvictFilesFailingUpload.html)|
 |[aws storagegateway join-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/join-domain.html)|[Join-SGDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-SGDomain.html)|
 |[aws storagegateway list-automatic-tape-creation-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/list-automatic-tape-creation-policies.html)|[Get-SGAutomaticTapeCreationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGAutomaticTapeCreationPolicy.html)|
 |[aws storagegateway list-cache-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/storagegateway/list-cache-reports.html)|[Get-SGCacheReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGCacheReportList.html)|

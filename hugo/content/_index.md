@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-02-15
+date: 2025-03-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.24.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.758 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.24.15 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.768 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -154,7 +154,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Elastic File System](https://aws.amazon.com/efs/)|[efs]({{%relref "post/efs.md" %}})|EFS||
 |[Amazon Elastic Container Service for Kubernetes](https://aws.amazon.com/eks/)|[eks]({{%relref "post/eks.md" %}})|EKS||
 |[EKS Pod Identity](https://aws.amazon.com/eks/)|[eks-auth]({{%relref "post/eks-auth.md" %}})|EKSAU||
-|[Amazon Elastic Inference](https://aws.amazon.com/machine-learning/elastic-inference/)|[elastic-inference]({{%relref "post/elastic-inference.md" %}})|EI||
 |[Amazon ElastiCache](https://aws.amazon.com/elasticache/)|[elasticache]({{%relref "post/elasticache.md" %}})|EC||
 |[AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)|[elasticbeanstalk]({{%relref "post/elasticbeanstalk.md" %}})|EB||
 |[Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/)|[elastictranscoder]({{%relref "post/elastictranscoder.md" %}})|ETS||

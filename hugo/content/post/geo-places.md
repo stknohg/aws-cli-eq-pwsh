@@ -1,6 +1,6 @@
 ---
 title: geo-places
-date: 2025-02-15
+date: 2025-03-01
 description: aws geo-places (Amazon Location Service Places V2) command/cmdlet list.
 ---
 

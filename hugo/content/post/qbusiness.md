@@ -1,6 +1,6 @@
 ---
 title: qbusiness
-date: 2025-02-15
+date: 2025-03-01
 description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-user.html)|[New-QBUSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSUser.html)|
 |[aws qbusiness create-web-experience](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-web-experience.html)|[New-QBUSWebExperience](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSWebExperience.html)|
 |[aws qbusiness delete-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/delete-application.html)|[Remove-QBUSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSApplication.html)|
+|[aws qbusiness delete-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/delete-attachment.html)|[Remove-QBUSAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSAttachment.html)|
 |[aws qbusiness delete-chat-controls-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/delete-chat-controls-configuration.html)|[Remove-QBUSChatControlsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSChatControlsConfiguration.html)|
 |[aws qbusiness delete-conversation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/delete-conversation.html)|[Remove-QBUSConversation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSConversation.html)|
 |[aws qbusiness delete-data-accessor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/delete-data-accessor.html)|[Remove-QBUSDataAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QBUSDataAccessor.html)|

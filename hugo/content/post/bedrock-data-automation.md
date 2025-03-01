@@ -1,6 +1,6 @@
 ---
 title: bedrock-data-automation
-date: 2025-02-15
+date: 2025-03-01
 description: aws bedrock-data-automation (Amazon Bedrock Data Automation) command/cmdlet list.
 ---
 
@@ -22,6 +22,12 @@ description: aws bedrock-data-automation (Amazon Bedrock Data Automation) comman
 |[aws bedrock-data-automation get-data-automation-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/get-data-automation-project.html)|[Get-BDADataAutomationProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDADataAutomationProject.html)|
 |[aws bedrock-data-automation list-blueprints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/list-blueprints.html)|[Get-BDABlueprintList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDABlueprintList.html)|
 |[aws bedrock-data-automation list-data-automation-projects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/list-data-automation-projects.html)|[Get-BDADataAutomationProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDADataAutomationProjectList.html)|
+|[aws bedrock-data-automation list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/list-tags-for-resource.html)|[Get-BDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDAResourceTag.html)|
+|[aws bedrock-data-automation list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/list-tags-for-resource.html)|[Get-BDARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDARResourceTag.html)|
+|[aws bedrock-data-automation tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/tag-resource.html)|[Add-BDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BDAResourceTag.html)|
+|[aws bedrock-data-automation tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/tag-resource.html)|[Add-BDARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BDARResourceTag.html)|
+|[aws bedrock-data-automation untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/untag-resource.html)|[Remove-BDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDAResourceTag.html)|
+|[aws bedrock-data-automation untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/untag-resource.html)|[Remove-BDARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDARResourceTag.html)|
 |[aws bedrock-data-automation update-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/update-blueprint.html)|[Update-BDABlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BDABlueprint.html)|
 |[aws bedrock-data-automation update-data-automation-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-data-automation/update-data-automation-project.html)|[Update-BDADataAutomationProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BDADataAutomationProject.html)|
 

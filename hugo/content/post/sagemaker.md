@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2025-02-15
+date: 2025-03-01
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -346,6 +346,8 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker update-feature-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-feature-group.html)|[Update-SMFeatureGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMFeatureGroup.html)|
 |[aws sagemaker update-feature-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-feature-metadata.html)|[Update-SMFeatureMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMFeatureMetadata.html)|
 |[aws sagemaker update-hub](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-hub.html)|[Update-SMHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMHub.html)|
+|[aws sagemaker update-hub-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-hub-content.html)|[Update-SMHubContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMHubContent.html)|
+|[aws sagemaker update-hub-content-reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-hub-content-reference.html)|[Update-SMHubContentReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMHubContentReference.html)|
 |[aws sagemaker update-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-image.html)|[Update-SMImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMImage.html)|
 |[aws sagemaker update-image-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-image-version.html)|[Update-SMImageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMImageVersion.html)|
 |[aws sagemaker update-inference-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-inference-component.html)|[Update-SMInferenceComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMInferenceComponent.html)|

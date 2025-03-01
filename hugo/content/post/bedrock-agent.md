@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent
-date: 2025-02-15
+date: 2025-03-01
 description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -68,12 +68,15 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent list-knowledge-bases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-knowledge-bases.html)|[Get-AABKnowledgeBasisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBasisList.html)|
 |[aws bedrock-agent list-prompts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-prompts.html)|[Get-AABPromptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABPromptList.html)|
 |[aws bedrock-agent list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-tags-for-resource.html)|[Get-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABResourceTag.html)|
+|[aws bedrock-agent list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-tags-for-resource.html)|[Get-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARResourceTag.html)|
 |[aws bedrock-agent prepare-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/prepare-agent.html)|[Initialize-AABAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-AABAgent.html)|
 |[aws bedrock-agent prepare-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/prepare-flow.html)|[Initialize-AABFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-AABFlow.html)|
 |[aws bedrock-agent start-ingestion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/start-ingestion-job.html)|[Start-AABIngestionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AABIngestionJob.html)|
 |[aws bedrock-agent stop-ingestion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/stop-ingestion-job.html)|[Stop-AABIngestionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-AABIngestionJob.html)|
 |[aws bedrock-agent tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/tag-resource.html)|[Add-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AABResourceTag.html)|
+|[aws bedrock-agent tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/tag-resource.html)|[Add-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BARResourceTag.html)|
 |[aws bedrock-agent untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/untag-resource.html)|[Remove-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABResourceTag.html)|
+|[aws bedrock-agent untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/untag-resource.html)|[Remove-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BARResourceTag.html)|
 |[aws bedrock-agent update-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/update-agent.html)|[Update-AABAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AABAgent.html)|
 |[aws bedrock-agent update-agent-action-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/update-agent-action-group.html)|[Update-AABAgentActionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AABAgentActionGroup.html)|
 |[aws bedrock-agent update-agent-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/update-agent-alias.html)|[Update-AABAgentAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AABAgentAlias.html)|

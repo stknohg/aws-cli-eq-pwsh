@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2025-02-15
+date: 2025-03-01
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -81,6 +81,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 put-account-sending-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-sending-attributes.html)|[Write-SES2AccountSendingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountSendingAttribute.html)|
 |[aws sesv2 put-account-suppression-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-suppression-attributes.html)|[Write-SES2AccountSuppressionAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountSuppressionAttribute.html)|
 |[aws sesv2 put-account-vdm-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-vdm-attributes.html)|[Write-SES2AccountVdmAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountVdmAttribute.html)|
+|[aws sesv2 put-configuration-set-archiving-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-configuration-set-archiving-options.html)|[Write-SES2ConfigurationSetArchivingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetArchivingOption.html)|
 |[aws sesv2 put-configuration-set-delivery-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-configuration-set-delivery-options.html)|[Write-SES2ConfigurationSetDeliveryOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetDeliveryOption.html)|
 |[aws sesv2 put-configuration-set-reputation-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-configuration-set-reputation-options.html)|[Write-SES2ConfigurationSetReputationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetReputationOption.html)|
 |[aws sesv2 put-configuration-set-sending-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-configuration-set-sending-options.html)|[Write-SES2ConfigurationSetSendingOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2ConfigurationSetSendingOption.html)|

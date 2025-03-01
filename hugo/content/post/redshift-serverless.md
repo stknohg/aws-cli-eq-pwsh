@@ -1,6 +1,6 @@
 ---
 title: redshift-serverless
-date: 2025-02-15
+date: 2025-03-01
 description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet
 |[aws redshift-serverless get-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-scheduled-action.html)|[Get-RSSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSScheduledAction.html)|
 |[aws redshift-serverless get-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-snapshot.html)|[Get-RSSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSSnapshot.html)|
 |[aws redshift-serverless get-table-restore-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-table-restore-status.html)|[Get-RSSTableRestoreStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSTableRestoreStatus.html)|
+|[aws redshift-serverless get-track](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-track.html)|[Get-RSSTrack](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSTrack.html)|
 |[aws redshift-serverless get-usage-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-usage-limit.html)|[Get-RSSUsageLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSUsageLimit.html)|
 |[aws redshift-serverless get-workgroup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-workgroup.html)|[Get-RSSWorkgroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSWorkgroup.html)|
 |[aws redshift-serverless list-custom-domain-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-custom-domain-associations.html)|[Get-RSSCustomDomainAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSCustomDomainAssociationList.html)|
@@ -52,6 +53,7 @@ description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet
 |[aws redshift-serverless list-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-snapshots.html)|[Get-RSSSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSSnapshotList.html)|
 |[aws redshift-serverless list-table-restore-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-table-restore-status.html)|[Get-RSSTableRestoreStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSTableRestoreStatusList.html)|
 |[aws redshift-serverless list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-tags-for-resource.html)|[Get-RSSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSResourceTag.html)|
+|[aws redshift-serverless list-tracks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-tracks.html)|[Get-RSSTrackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSTrackList.html)|
 |[aws redshift-serverless list-usage-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-usage-limits.html)|[Get-RSSUsageLimitList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSUsageLimitList.html)|
 |[aws redshift-serverless list-workgroups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/list-workgroups.html)|[Get-RSSWorkgroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSWorkgroupList.html)|
 |[aws redshift-serverless put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/put-resource-policy.html)|[Write-RSSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-RSSResourcePolicy.html)|

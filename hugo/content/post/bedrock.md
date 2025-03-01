@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2025-02-15
+date: 2025-03-01
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -61,6 +61,9 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock list-provisioned-model-throughputs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-provisioned-model-throughputs.html)|[Get-BDRProvisionedModelThroughputList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRProvisionedModelThroughputList.html)|
 |[aws bedrock list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-tags-for-resource.html)|[Get-BDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRResourceTag.html)|
 |[aws bedrock list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-tags-for-resource.html)|[Get-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABResourceTag.html)|
+|[aws bedrock list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-tags-for-resource.html)|[Get-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARResourceTag.html)|
+|[aws bedrock list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-tags-for-resource.html)|[Get-BDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDAResourceTag.html)|
+|[aws bedrock list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-tags-for-resource.html)|[Get-BDARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDARResourceTag.html)|
 |[aws bedrock put-model-invocation-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/put-model-invocation-logging-configuration.html)|[Write-BDRModelInvocationLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BDRModelInvocationLoggingConfiguration.html)|
 |[aws bedrock register-marketplace-model-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/register-marketplace-model-endpoint.html)|[Register-BDRMarketplaceModelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-BDRMarketplaceModelEndpoint.html)|
 |[aws bedrock stop-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/stop-evaluation-job.html)|[Stop-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BDREvaluationJob.html)|
@@ -68,8 +71,14 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock stop-model-invocation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/stop-model-invocation-job.html)|[Stop-BDRModelInvocationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BDRModelInvocationJob.html)|
 |[aws bedrock tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/tag-resource.html)|[Add-BDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BDRResourceTag.html)|
 |[aws bedrock tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/tag-resource.html)|[Add-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AABResourceTag.html)|
+|[aws bedrock tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/tag-resource.html)|[Add-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BARResourceTag.html)|
+|[aws bedrock tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/tag-resource.html)|[Add-BDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BDAResourceTag.html)|
+|[aws bedrock tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/tag-resource.html)|[Add-BDARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BDARResourceTag.html)|
 |[aws bedrock untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/untag-resource.html)|[Remove-BDRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRResourceTag.html)|
 |[aws bedrock untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/untag-resource.html)|[Remove-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABResourceTag.html)|
+|[aws bedrock untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/untag-resource.html)|[Remove-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BARResourceTag.html)|
+|[aws bedrock untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/untag-resource.html)|[Remove-BDAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDAResourceTag.html)|
+|[aws bedrock untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/untag-resource.html)|[Remove-BDARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDARResourceTag.html)|
 |[aws bedrock update-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/update-guardrail.html)|[Update-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BDRGuardrail.html)|
 |[aws bedrock update-marketplace-model-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/update-marketplace-model-endpoint.html)|[Update-BDRMarketplaceModelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BDRMarketplaceModelEndpoint.html)|
 |[aws bedrock update-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/update-provisioned-model-throughput.html)|[Update-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BDRProvisionedModelThroughput.html)|

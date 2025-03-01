@@ -42,7 +42,6 @@ $g_SubCommandAlias = @{
     'ds-data'                      = 'dsd'; 
     'dynamodb'                     = 'ddb';
     'dynamodbstreams'              = 'ddb';
-    'elastic-inference'            = 'ei';
     'elasticbeanstalk'             = 'eb';
     'elastictranscoder'            = 'ets';
     'elbv2'                        = 'elb2';

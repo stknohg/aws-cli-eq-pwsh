@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2025-03-01
+date: 2025-03-08
 description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 

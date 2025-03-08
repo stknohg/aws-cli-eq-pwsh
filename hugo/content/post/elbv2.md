@@ -1,6 +1,6 @@
 ---
 title: elbv2
-date: 2025-03-01
+date: 2025-03-08
 description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 ---
 
@@ -48,6 +48,7 @@ description: aws elbv2 (Elastic Load Balancing) command/cmdlet list.
 |[aws elbv2 get-trust-store-ca-certificates-bundle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-trust-store-ca-certificates-bundle.html)|[Get-ELB2TrustStoreCaCertificatesBundle](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreCaCertificatesBundle.html)|
 |[aws elbv2 get-trust-store-revocation-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/get-trust-store-revocation-content.html)|[Get-ELB2TrustStoreRevocationContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ELB2TrustStoreRevocationContent.html)|
 |[aws elbv2 modify-capacity-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-capacity-reservation.html)|[Edit-ELB2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2CapacityReservation.html)|
+|[aws elbv2 modify-ip-pools](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-ip-pools.html)|[Edit-ELB2IpPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2IpPool.html)|
 |[aws elbv2 modify-listener](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-listener.html)|[Edit-ELB2Listener](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2Listener.html)|
 |[aws elbv2 modify-listener-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-listener-attributes.html)|[Edit-ELB2ListenerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2ListenerAttribute.html)|
 |[aws elbv2 modify-load-balancer-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elbv2/modify-load-balancer-attributes.html)|[Edit-ELB2LoadBalancerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ELB2LoadBalancerAttribute.html)|

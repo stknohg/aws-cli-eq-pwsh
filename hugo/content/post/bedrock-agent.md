@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent
-date: 2025-03-01
+date: 2025-03-08
 description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 

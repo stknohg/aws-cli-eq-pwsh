@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2025-03-01
+date: 2025-03-08
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock create-model-customization-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-customization-job.html)|[New-BDRModelCustomizationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelCustomizationJob.html)|
 |[aws bedrock create-model-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-import-job.html)|[New-BDRModelImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelImportJob.html)|
 |[aws bedrock create-model-invocation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-model-invocation-job.html)|[New-BDRModelInvocationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRModelInvocationJob.html)|
+|[aws bedrock create-prompt-router](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-prompt-router.html)|[New-BDRPromptRouter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRPromptRouter.html)|
 |[aws bedrock create-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-provisioned-model-throughput.html)|[New-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRProvisionedModelThroughput.html)|
 |[aws bedrock delete-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-custom-model.html)|[Remove-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRCustomModel.html)|
 |[aws bedrock delete-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-guardrail.html)|[Remove-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRGuardrail.html)|
@@ -30,6 +31,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock delete-inference-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-inference-profile.html)|[Remove-BDRInferenceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRInferenceProfile.html)|
 |[aws bedrock delete-marketplace-model-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-marketplace-model-endpoint.html)|[Remove-BDRMarketplaceModelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRMarketplaceModelEndpoint.html)|
 |[aws bedrock delete-model-invocation-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-model-invocation-logging-configuration.html)|[Remove-BDRModelInvocationLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRModelInvocationLoggingConfiguration.html)|
+|[aws bedrock delete-prompt-router](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-prompt-router.html)|[Remove-BDRPromptRouter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRPromptRouter.html)|
 |[aws bedrock delete-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-provisioned-model-throughput.html)|[Remove-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRProvisionedModelThroughput.html)|
 |[aws bedrock deregister-marketplace-model-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/deregister-marketplace-model-endpoint.html)|[Unregister-BDRMarketplaceModelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-BDRMarketplaceModelEndpoint.html)|
 |[aws bedrock get-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-custom-model.html)|[Get-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRCustomModel.html)|

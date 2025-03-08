@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2025-03-01
+date: 2025-03-08
 description: aws gamelift (Amazon GameLift) command/cmdlet list.
 ---
 
@@ -99,6 +99,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift list-locations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-locations.html)|[Get-GMLLocationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLLocationList.html)|
 |[aws gamelift list-scripts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-scripts.html)|[Get-GMLScriptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLScriptList.html)|
 |[aws gamelift list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-tags-for-resource.html)|[Get-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLResourceTag.html)|
+|[aws gamelift list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-tags-for-resource.html)|[Get-GMLSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLSResourceTag.html)|
 |[aws gamelift put-scaling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/put-scaling-policy.html)|[Write-GMLScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GMLScalingPolicy.html)|
 |[aws gamelift register-compute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/register-compute.html)|[Register-GMLCompute](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-GMLCompute.html)|
 |[aws gamelift register-game-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/register-game-server.html)|[Register-GMLGameServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-GMLGameServer.html)|
@@ -115,8 +116,10 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift stop-matchmaking](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/stop-matchmaking.html)|[Stop-GMLMatchmaking](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLMatchmaking.html)|
 |[aws gamelift suspend-game-server-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/suspend-game-server-group.html)|[Suspend-GMLGameServerGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-GMLGameServerGroup.html)|
 |[aws gamelift tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/tag-resource.html)|[Add-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GMLResourceTag.html)|
+|[aws gamelift tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/tag-resource.html)|[Add-GMLSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GMLSResourceTag.html)|
 |[aws gamelift terminate-game-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/terminate-game-session.html)|[Stop-GMLGameSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GMLGameSession.html)|
 |[aws gamelift untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/untag-resource.html)|[Remove-GMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLResourceTag.html)|
+|[aws gamelift untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/untag-resource.html)|[Remove-GMLSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLSResourceTag.html)|
 |[aws gamelift update-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-alias.html)|[Update-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLAlias.html)|
 |[aws gamelift update-build](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-build.html)|[Update-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLBuild.html)|
 |[aws gamelift update-container-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/update-container-fleet.html)|[Update-GMLContainerFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GMLContainerFleet.html)|

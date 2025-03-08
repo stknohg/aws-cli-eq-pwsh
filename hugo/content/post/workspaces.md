@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2025-03-01
+date: 2025-03-08
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -75,6 +75,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces modify-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-account.html)|[Edit-WKSAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSAccount.html)|
 |[aws workspaces modify-certificate-based-auth-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-certificate-based-auth-properties.html)|[Edit-WKSCertificateBasedAuthProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSCertificateBasedAuthProperty.html)|
 |[aws workspaces modify-client-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-client-properties.html)|[Edit-WKSClientProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSClientProperty.html)|
+|[aws workspaces modify-endpoint-encryption-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-endpoint-encryption-mode.html)|[Edit-WKSEndpointEncryptionMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSEndpointEncryptionMode.html)|
 |[aws workspaces modify-saml-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-saml-properties.html)|[Edit-WKSSamlProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSamlProperty.html)|
 |[aws workspaces modify-selfservice-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-selfservice-permissions.html)|[Edit-WKSSelfservicePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSSelfservicePermission.html)|
 |[aws workspaces modify-streaming-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/modify-streaming-properties.html)|[Edit-WKSStreamingProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSStreamingProperty.html)|

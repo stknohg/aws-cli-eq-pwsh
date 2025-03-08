@@ -1,6 +1,6 @@
 ---
 title: mediapackage-vod
-date: 2025-03-01
+date: 2025-03-08
 description: aws mediapackage-vod (AWS Elemental MediaPackage VOD) command/cmdlet list.
 ---
 

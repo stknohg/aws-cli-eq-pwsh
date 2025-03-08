@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-03-01
+date: 2025-03-08
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.24.15 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.768 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.24.20 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.773 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -177,6 +177,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Free Tier GetFreeTierUsage API](https://aws.amazon.com/aws-cost-management/)|[freetier]({{%relref "post/freetier.md" %}})|FT||
 |[Amazon FSx](https://aws.amazon.com/fsx/)|[fsx]({{%relref "post/fsx.md" %}})|FSX||
 |[Amazon GameLift](https://aws.amazon.com/gamelift/)|[gamelift]({{%relref "post/gamelift.md" %}})|GML||
+|[Amazon GameLift Streams](https://aws.amazon.com/gamelift/streams/)|[gameliftstreams]({{%relref "post/gameliftstreams.md" %}})|GMLS||
 |[Amazon Location Service Maps V2](https://aws.amazon.com/location/)|[geo-maps]({{%relref "post/geo-maps.md" %}})|GEOM||
 |[Amazon Location Service Places V2](https://aws.amazon.com/location/)|[geo-places]({{%relref "post/geo-places.md" %}})|GEOP||
 |[Amazon Location Service Routes V2](https://aws.amazon.com/location/)|[geo-routes]({{%relref "post/geo-routes.md" %}})|GEOR||
@@ -203,6 +204,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
+|[Managed integrations for AWS IoT Device Management](https://aws.amazon.com/iot-device-management/)|[iot-managed-integrations]({{%relref "post/iot-managed-integrations.md" %}})|IOTMI||
 |[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
 |[AWS IoT Core Device Advisor](https://aws.amazon.com/iot/)|[iotdeviceadvisor]({{%relref "post/iotdeviceadvisor.md" %}})|IOTDA||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||

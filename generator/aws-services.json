@@ -941,6 +941,12 @@
     "Url": "https://aws.amazon.com/gamelift/",
     "Note": ""
   },
+  "gameliftstreams": {
+    "Prefix": "GMLS",
+    "Name": "Amazon GameLift Streams",
+    "Url": "https://aws.amazon.com/gamelift/streams/",
+    "Note": ""
+  },
   "geo-maps": {
     "Prefix": "GEOM",
     "Name": "Amazon Location Service Maps V2",
@@ -1101,6 +1107,12 @@
     "Prefix": "IOTJ",
     "Name": "AWS IoT Jobs",
     "Url": "https://aws.amazon.com/iot/",
+    "Note": ""
+  },
+  "iot-managed-integrations": {
+    "Prefix": "IOTMI",
+    "Name": "Managed integrations for AWS IoT Device Management",
+    "Url": "https://aws.amazon.com/iot-device-management/",
     "Note": ""
   },
   "iotanalytics": {

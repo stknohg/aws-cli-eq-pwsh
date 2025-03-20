@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2025-03-08
+date: 2025-03-20
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 

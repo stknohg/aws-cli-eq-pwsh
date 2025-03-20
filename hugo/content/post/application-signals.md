@@ -1,6 +1,6 @@
 ---
 title: application-signals
-date: 2025-03-08
+date: 2025-03-20
 description: aws application-signals (Amazon CloudWatch Application Signals) command/cmdlet list.
 ---
 
@@ -14,12 +14,14 @@ description: aws application-signals (Amazon CloudWatch Application Signals) com
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws application-signals batch-get-service-level-objective-budget-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/batch-get-service-level-objective-budget-report.html)|[Get-CWASBatchServiceLevelObjectiveBudgetReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASBatchServiceLevelObjectiveBudgetReport.html)|
+|[aws application-signals batch-update-exclusion-windows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/batch-update-exclusion-windows.html)|[Update-CWASUpdateExclusionWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWASUpdateExclusionWindow.html)|
 |[aws application-signals create-service-level-objective](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/create-service-level-objective.html)|[New-CWASServiceLevelObjective](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWASServiceLevelObjective.html)|
 |[aws application-signals delete-service-level-objective](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/delete-service-level-objective.html)|[Remove-CWASServiceLevelObjective](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWASServiceLevelObjective.html)|
 |[aws application-signals get-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/get-service.html)|[Get-CWASService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASService.html)|
 |[aws application-signals get-service-level-objective](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/get-service-level-objective.html)|[Get-CWASServiceLevelObjective](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceLevelObjective.html)|
 |[aws application-signals list-service-dependencies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-dependencies.html)|[Get-CWASServiceDependencyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceDependencyList.html)|
 |[aws application-signals list-service-dependents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-dependents.html)|[Get-CWASServiceDependentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceDependentList.html)|
+|[aws application-signals list-service-level-objective-exclusion-windows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-level-objective-exclusion-windows.html)|[Get-CWASServiceLevelObjectiveExclusionWindowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceLevelObjectiveExclusionWindowList.html)|
 |[aws application-signals list-service-level-objectives](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-level-objectives.html)|[Get-CWASServiceLevelObjectiveList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceLevelObjectiveList.html)|
 |[aws application-signals list-service-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-operations.html)|[Get-CWASServiceOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceOperationList.html)|
 |[aws application-signals list-services](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-services.html)|[Get-CWASServiceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceList.html)|

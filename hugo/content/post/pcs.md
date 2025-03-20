@@ -1,6 +1,6 @@
 ---
 title: pcs
-date: 2025-03-08
+date: 2025-03-20
 description: aws pcs (AWS Parallel Computing Service) command/cmdlet list.
 ---
 

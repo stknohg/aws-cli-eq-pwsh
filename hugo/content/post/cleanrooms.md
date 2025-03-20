@@ -1,6 +1,6 @@
 ---
 title: cleanrooms
-date: 2025-03-08
+date: 2025-03-20
 description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 ---
 
@@ -54,6 +54,7 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms get-id-namespace-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-id-namespace-association.html)|[Get-CRSIdNamespaceAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSIdNamespaceAssociation.html)|
 |[aws cleanrooms get-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-membership.html)|[Get-CRSMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSMembership.html)|
 |[aws cleanrooms get-privacy-budget-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-privacy-budget-template.html)|[Get-CRSPrivacyBudgetTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSPrivacyBudgetTemplate.html)|
+|[aws cleanrooms get-protected-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-protected-job.html)|[Get-CRSProtectedJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSProtectedJob.html)|
 |[aws cleanrooms get-protected-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-protected-query.html)|[Get-CRSProtectedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSProtectedQuery.html)|
 |[aws cleanrooms get-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-schema.html)|[Get-CRSSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSSchema.html)|
 |[aws cleanrooms get-schema-analysis-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-schema-analysis-rule.html)|[Get-CRSSchemaAnalysisRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSSchemaAnalysisRule.html)|
@@ -73,12 +74,14 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms list-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-memberships.html)|[Get-CRSMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSMembershipList.html)|
 |[aws cleanrooms list-privacy-budget-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-privacy-budget-templates.html)|[Get-CRSPrivacyBudgetTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSPrivacyBudgetTemplateList.html)|
 |[aws cleanrooms list-privacy-budgets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-privacy-budgets.html)|[Get-CRSPrivacyBudgetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSPrivacyBudgetList.html)|
+|[aws cleanrooms list-protected-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-protected-jobs.html)|[Get-CRSProtectedJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSProtectedJobList.html)|
 |[aws cleanrooms list-protected-queries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-protected-queries.html)|[Get-CRSProtectedQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSProtectedQueryList.html)|
 |[aws cleanrooms list-schemas](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-schemas.html)|[Get-CRSSchemaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSSchemaList.html)|
 |[aws cleanrooms list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-tags-for-resource.html)|[Get-CRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSResourceTag.html)|
 |[aws cleanrooms list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-tags-for-resource.html)|[Get-CRMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLResourceTag.html)|
 |[aws cleanrooms populate-id-mapping-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/populate-id-mapping-table.html)|[Invoke-CRSIdMappingTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CRSIdMappingTable.html)|
 |[aws cleanrooms preview-privacy-impact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/preview-privacy-impact.html)|[Test-CRSPrivacyImpact](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CRSPrivacyImpact.html)|
+|[aws cleanrooms start-protected-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/start-protected-job.html)|[Start-CRSProtectedJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CRSProtectedJob.html)|
 |[aws cleanrooms start-protected-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/start-protected-query.html)|[Start-CRSProtectedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CRSProtectedQuery.html)|
 |[aws cleanrooms tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/tag-resource.html)|[Add-CRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CRSResourceTag.html)|
 |[aws cleanrooms tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/tag-resource.html)|[Add-CRMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CRMLResourceTag.html)|
@@ -95,5 +98,6 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms update-id-namespace-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-id-namespace-association.html)|[Update-CRSIdNamespaceAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSIdNamespaceAssociation.html)|
 |[aws cleanrooms update-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-membership.html)|[Update-CRSMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSMembership.html)|
 |[aws cleanrooms update-privacy-budget-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-privacy-budget-template.html)|[Update-CRSPrivacyBudgetTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSPrivacyBudgetTemplate.html)|
+|[aws cleanrooms update-protected-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-protected-job.html)|[Update-CRSProtectedJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSProtectedJob.html)|
 |[aws cleanrooms update-protected-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-protected-query.html)|[Update-CRSProtectedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSProtectedQuery.html)|
 

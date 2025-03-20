@@ -1,6 +1,6 @@
 ---
 title: comprehendmedical
-date: 2025-03-08
+date: 2025-03-20
 description: aws comprehendmedical (Amazon Comprehend) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: mediapackagev2
-date: 2025-03-08
+date: 2025-03-20
 description: aws mediapackagev2 (AWS Elemental MediaPackage) command/cmdlet list.
 ---
 
@@ -36,6 +36,8 @@ description: aws mediapackagev2 (AWS Elemental MediaPackage) command/cmdlet list
 |[aws mediapackagev2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/list-tags-for-resource.html)|[Get-MPV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MPV2ResourceTag.html)|
 |[aws mediapackagev2 put-channel-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/put-channel-policy.html)|[Write-MPV2ChannelPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MPV2ChannelPolicy.html)|
 |[aws mediapackagev2 put-origin-endpoint-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/put-origin-endpoint-policy.html)|[Write-MPV2OriginEndpointPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MPV2OriginEndpointPolicy.html)|
+|[aws mediapackagev2 reset-channel-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/reset-channel-state.html)|[Reset-MPV2ChannelState](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-MPV2ChannelState.html)|
+|[aws mediapackagev2 reset-origin-endpoint-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/reset-origin-endpoint-state.html)|[Reset-MPV2OriginEndpointState](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-MPV2OriginEndpointState.html)|
 |[aws mediapackagev2 tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/tag-resource.html)|[Add-MPV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MPV2ResourceTag.html)|
 |[aws mediapackagev2 untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/untag-resource.html)|[Remove-MPV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MPV2ResourceTag.html)|
 |[aws mediapackagev2 update-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackagev2/update-channel.html)|[Update-MPV2Channel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MPV2Channel.html)|

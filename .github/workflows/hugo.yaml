@@ -1,6 +1,11 @@
 # ref: https://gohugo.io/host-and-deploy/host-on-github-pages/
 name: Deploy Hugo site to Pages
 on:
+  push:
+    branches:
+      - 'main'
+    paths:
+      - 'hugo/content/**'
   workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages

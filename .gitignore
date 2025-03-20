@@ -2,4 +2,5 @@ generator/temp/*
 generator/markdown/*.md
 generator/markdown/post/*.md
 .hugo_build.lock
+docs/*
 !.gitkeep

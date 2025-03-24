@@ -1,6 +1,6 @@
 ---
 title: b2bi
-date: 2025-03-20
+date: 2025-03-24
 description: aws b2bi (AWS B2B Data Interchange) command/cmdlet list.
 ---
 

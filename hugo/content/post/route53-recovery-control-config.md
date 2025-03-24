@@ -1,6 +1,6 @@
 ---
 title: route53-recovery-control-config
-date: 2025-03-20
+date: 2025-03-24
 description: aws route53-recovery-control-config (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws route53-recovery-control-config (Amazon Route 53 Application Re
 |[aws route53-recovery-control-config list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/list-tags-for-resource.html)|[Get-R53RCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RCResourceTag.html)|
 |[aws route53-recovery-control-config tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/tag-resource.html)|[Add-R53RCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53RCResourceTag.html)|
 |[aws route53-recovery-control-config untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/untag-resource.html)|[Remove-R53RCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53RCResourceTag.html)|
+|[aws route53-recovery-control-config update-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/update-cluster.html)|[Update-R53RCCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCCluster.html)|
 |[aws route53-recovery-control-config update-control-panel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/update-control-panel.html)|[Update-R53RCControlPanel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCControlPanel.html)|
 |[aws route53-recovery-control-config update-routing-control](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/update-routing-control.html)|[Update-R53RCRoutingControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCRoutingControl.html)|
 |[aws route53-recovery-control-config update-safety-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53-recovery-control-config/update-safety-rule.html)|[Update-R53RCSafetyRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RCSafetyRule.html)|

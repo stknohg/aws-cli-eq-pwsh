@@ -1,6 +1,6 @@
 ---
 title: identitystore
-date: 2025-03-20
+date: 2025-03-24
 description: aws identitystore (AWS SSO Identity Store) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: notificationscontacts
-date: 2025-03-20
+date: 2025-03-24
 description: aws notificationscontacts (AWS User Notifications Contacts) command/cmdlet list.
 ---
 

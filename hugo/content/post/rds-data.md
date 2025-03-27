@@ -1,6 +1,6 @@
 ---
 title: rds-data
-date: 2025-03-24
+date: 2025-03-27
 description: aws rds-data (Amazon Relational Database Service) command/cmdlet list.
 ---
 

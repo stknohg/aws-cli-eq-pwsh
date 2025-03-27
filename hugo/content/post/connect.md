@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-03-24
+date: 2025-03-27
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 

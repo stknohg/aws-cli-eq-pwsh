@@ -1,6 +1,6 @@
 ---
 title: iotfleetwise
-date: 2025-03-24
+date: 2025-03-27
 description: aws iotfleetwise (AWS IoT FleetWise) command/cmdlet list.
 ---
 

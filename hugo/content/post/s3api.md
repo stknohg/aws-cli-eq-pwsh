@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2025-03-24
+date: 2025-03-27
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 

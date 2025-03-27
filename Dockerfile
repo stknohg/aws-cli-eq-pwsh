@@ -1,13 +1,25 @@
 #
 # Docker image for AWS CLI -eq PowerShell development
 # 
-FROM mcr.microsoft.com/powershell:7.4-ubuntu-22.04
+FROM ubuntu:24.04
 
 # Define args
+ARG PWSH_VERSION=7.5.0
 ARG HUGO_VERSION=0.145.0
 # Download packages
+ADD http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu74_74.2-1ubuntu4_amd64.deb /tmp/libicu74.deb
+ADD https://github.com/PowerShell/PowerShell/releases/download/v${PWSH_VERSION}/powershell_${PWSH_VERSION}-1.deb_amd64.deb /tmp/powershell.deb
 ADD https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip /tmp/awscliv2.zip
 ADD https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-amd64.deb /tmp/hugo_linux.deb
+
+# Install PowerShell
+RUN apt-get update \
+    && apt-get install curl -y \
+    && dpkg -i /tmp/libicu74.deb \
+    && rm /tmp/libicu74.deb \
+    && dpkg -i /tmp/powershell.deb \
+    && rm /tmp/powershell.deb \
+    && apt-get autoclean && apt-get clean
 
 RUN apt-get update \
     # Install AWS CLI

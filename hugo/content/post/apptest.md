@@ -1,6 +1,6 @@
 ---
 title: apptest
-date: 2025-03-27
+date: 2025-04-03
 description: aws apptest (AWS Mainframe Modernization Application Testing) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: dsql
-date: 2025-04-03
+date: 2025-04-19
 description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 |[aws dsql generate-db-connect-admin-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/generate-db-connect-admin-auth-token.html)||
 |[aws dsql generate-db-connect-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/generate-db-connect-auth-token.html)||
 |[aws dsql get-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/get-cluster.html)|[Get-DSQLCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSQLCluster.html)|
+|[aws dsql get-vpc-endpoint-service-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/get-vpc-endpoint-service-name.html)|[Get-DSQLVpcEndpointServiceName](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSQLVpcEndpointServiceName.html)|
 |[aws dsql list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/list-clusters.html)|[Get-DSQLClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSQLClusterList.html)|
 |[aws dsql list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/list-tags-for-resource.html)|[Get-DSQLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSQLResourceTag.html)|
 |[aws dsql tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/tag-resource.html)|[Add-DSQLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DSQLResourceTag.html)|

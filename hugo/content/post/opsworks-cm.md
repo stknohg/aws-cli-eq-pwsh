@@ -1,6 +1,6 @@
 ---
 title: opsworks-cm
-date: 2025-04-03
+date: 2025-04-19
 description: aws opsworks-cm (AWS OpsWorks for configuration management) command/cmdlet list.
 ---
 

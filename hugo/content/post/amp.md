@@ -1,6 +1,6 @@
 ---
 title: amp
-date: 2025-04-03
+date: 2025-04-19
 description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list
 |[aws amp describe-rule-groups-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-rule-groups-namespace.html)|[Get-PROMRuleGroupsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMRuleGroupsNamespace.html)|
 |[aws amp describe-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-scraper.html)|[Get-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMScraper.html)|
 |[aws amp describe-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-workspace.html)|[Get-PROMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMWorkspace.html)|
+|[aws amp describe-workspace-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-workspace-configuration.html)|[Get-PROMWorkspaceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMWorkspaceConfiguration.html)|
 |[aws amp get-default-scraper-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/get-default-scraper-configuration.html)|[Get-PROMDefaultScraperConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMDefaultScraperConfiguration.html)|
 |[aws amp list-rule-groups-namespaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/list-rule-groups-namespaces.html)|[Get-PROMRuleGroupsNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMRuleGroupsNamespaceList.html)|
 |[aws amp list-scrapers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/list-scrapers.html)|[Get-PROMScraperList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMScraperList.html)|
@@ -40,4 +41,5 @@ description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list
 |[aws amp update-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-logging-configuration.html)|[Update-PROMLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMLoggingConfiguration.html)|
 |[aws amp update-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-scraper.html)|[Update-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMScraper.html)|
 |[aws amp update-workspace-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-workspace-alias.html)|[Update-PROMWorkspaceAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMWorkspaceAlias.html)|
+|[aws amp update-workspace-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-workspace-configuration.html)|[Update-PROMWorkspaceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMWorkspaceConfiguration.html)|
 

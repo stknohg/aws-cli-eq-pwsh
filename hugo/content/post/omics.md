@@ -1,6 +1,6 @@
 ---
 title: omics
-date: 2025-04-03
+date: 2025-04-19
 description: aws omics (AWS HealthOmics) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics create-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-share.html)|[New-OMICSShare](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSShare.html)|
 |[aws omics create-variant-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-variant-store.html)|[New-OMICSVariantStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSVariantStore.html)|
 |[aws omics create-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-workflow.html)|[New-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSWorkflow.html)|
+|[aws omics create-workflow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/create-workflow-version.html)|[New-OMICSWorkflowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OMICSWorkflowVersion.html)|
 |[aws omics delete-annotation-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-annotation-store.html)|[Remove-OMICSAnnotationStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSAnnotationStore.html)|
 |[aws omics delete-annotation-store-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-annotation-store-versions.html)|[Remove-OMICSAnnotationStoreVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSAnnotationStoreVersion.html)|
 |[aws omics delete-reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-reference.html)|[Remove-OMICSReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSReference.html)|
@@ -42,6 +43,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics delete-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-share.html)|[Remove-OMICSShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSShare.html)|
 |[aws omics delete-variant-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-variant-store.html)|[Remove-OMICSVariantStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSVariantStore.html)|
 |[aws omics delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-workflow.html)|[Remove-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSWorkflow.html)|
+|[aws omics delete-workflow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/delete-workflow-version.html)|[Remove-OMICSWorkflowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OMICSWorkflowVersion.html)|
 |[aws omics get-annotation-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-annotation-import-job.html)|[Get-OMICSAnnotationImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationImportJob.html)|
 |[aws omics get-annotation-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-annotation-store.html)|[Get-OMICSAnnotationStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationStore.html)|
 |[aws omics get-annotation-store-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-annotation-store-version.html)|[Get-OMICSAnnotationStoreVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationStoreVersion.html)|
@@ -64,6 +66,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics get-variant-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-variant-import-job.html)|[Get-OMICSVariantImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSVariantImportJob.html)|
 |[aws omics get-variant-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-variant-store.html)|[Get-OMICSVariantStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSVariantStore.html)|
 |[aws omics get-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-workflow.html)|[Get-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSWorkflow.html)|
+|[aws omics get-workflow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/get-workflow-version.html)|[Get-OMICSWorkflowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSWorkflowVersion.html)|
 |[aws omics list-annotation-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-annotation-import-jobs.html)|[Get-OMICSAnnotationImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationImportJobList.html)|
 |[aws omics list-annotation-store-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-annotation-store-versions.html)|[Get-OMICSAnnotationStoreVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationStoreVersionList.html)|
 |[aws omics list-annotation-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-annotation-stores.html)|[Get-OMICSAnnotationStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSAnnotationStoreList.html)|
@@ -85,6 +88,7 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-tags-for-resource.html)|[Get-OMICSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSResourceTag.html)|
 |[aws omics list-variant-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-variant-import-jobs.html)|[Get-OMICSVariantImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSVariantImportJobList.html)|
 |[aws omics list-variant-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-variant-stores.html)|[Get-OMICSVariantStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSVariantStoreList.html)|
+|[aws omics list-workflow-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-workflow-versions.html)|[Get-OMICSWorkflowVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSWorkflowVersionList.html)|
 |[aws omics list-workflows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/list-workflows.html)|[Get-OMICSWorkflowList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OMICSWorkflowList.html)|
 |[aws omics put-s3-access-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/put-s3-access-policy.html)|[Write-OMICSS3AccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-OMICSS3AccessPolicy.html)|
 |[aws omics start-annotation-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/start-annotation-import-job.html)|[Start-OMICSAnnotationImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OMICSAnnotationImportJob.html)|
@@ -103,5 +107,6 @@ description: aws omics (AWS HealthOmics) command/cmdlet list.
 |[aws omics update-sequence-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-sequence-store.html)|[Update-OMICSSequenceStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSSequenceStore.html)|
 |[aws omics update-variant-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-variant-store.html)|[Update-OMICSVariantStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSVariantStore.html)|
 |[aws omics update-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-workflow.html)|[Update-OMICSWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSWorkflow.html)|
+|[aws omics update-workflow-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/update-workflow-version.html)|[Update-OMICSWorkflowVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OMICSWorkflowVersion.html)|
 |[aws omics upload-read-set-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/omics/upload-read-set-part.html)|[Set-OMICSReadSetPart](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-OMICSReadSetPart.html)|
 

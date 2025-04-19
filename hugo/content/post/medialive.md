@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2025-04-03
+date: 2025-04-19
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive create-node](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/create-node.html)|[New-EMLNode](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLNode.html)|
 |[aws medialive create-node-registration-script](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/create-node-registration-script.html)|[New-EMLNodeRegistrationScript](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLNodeRegistrationScript.html)|
 |[aws medialive create-partner-input](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/create-partner-input.html)|[New-EMLPartnerInput](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLPartnerInput.html)|
+|[aws medialive create-sdi-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/create-sdi-source.html)|[New-EMLSdiSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLSdiSource.html)|
 |[aws medialive create-signal-map](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/create-signal-map.html)|[New-EMLSignalMap](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMLSignalMap.html)|
 |[aws medialive create-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/create-tags.html)|[Add-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMLResourceTag.html)|
 |[aws medialive delete-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-channel.html)|[Remove-EMLChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLChannel.html)|
@@ -52,6 +53,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive delete-node](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-node.html)|[Remove-EMLNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLNode.html)|
 |[aws medialive delete-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-reservation.html)|[Remove-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLReservation.html)|
 |[aws medialive delete-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-schedule.html)|[Remove-EMLSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLSchedule.html)|
+|[aws medialive delete-sdi-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-sdi-source.html)|[Remove-EMLSdiSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLSdiSource.html)|
 |[aws medialive delete-signal-map](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-signal-map.html)|[Remove-EMLSignalMap](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLSignalMap.html)|
 |[aws medialive delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/delete-tags.html)|[Remove-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMLResourceTag.html)|
 |[aws medialive describe-account-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-account-configuration.html)|[Get-EMLAccountConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLAccountConfiguration.html)|
@@ -69,6 +71,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive describe-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-offering.html)|[Get-EMLOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLOffering.html)|
 |[aws medialive describe-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-reservation.html)|[Get-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLReservation.html)|
 |[aws medialive describe-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-schedule.html)|[Get-EMLSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSchedule.html)|
+|[aws medialive describe-sdi-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-sdi-source.html)|[Get-EMLSdiSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSdiSource.html)|
 |[aws medialive describe-thumbnails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/describe-thumbnails.html)|[Get-EMLThumbnail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLThumbnail.html)|
 |[aws medialive get-cloud-watch-alarm-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/get-cloud-watch-alarm-template.html)|[Get-EMLCloudWatchAlarmTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLCloudWatchAlarmTemplate.html)|
 |[aws medialive get-cloud-watch-alarm-template-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/get-cloud-watch-alarm-template-group.html)|[Get-EMLCloudWatchAlarmTemplateGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLCloudWatchAlarmTemplateGroup.html)|
@@ -92,6 +95,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive list-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-nodes.html)|[Get-EMLNodeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLNodeList.html)|
 |[aws medialive list-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-offerings.html)|[Get-EMLOfferingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLOfferingList.html)|
 |[aws medialive list-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-reservations.html)|[Get-EMLReservationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLReservationList.html)|
+|[aws medialive list-sdi-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-sdi-sources.html)|[Get-EMLSdiSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSdiSourceList.html)|
 |[aws medialive list-signal-maps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-signal-maps.html)|[Get-EMLSignalMapList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSignalMapList.html)|
 |[aws medialive list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-tags-for-resource.html)|[Get-EMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLResourceTag.html)|
 |[aws medialive list-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-versions.html)|[Get-EMLVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLVersionList.html)|
@@ -128,4 +132,5 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive update-node](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-node.html)|[Update-EMLNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLNode.html)|
 |[aws medialive update-node-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-node-state.html)|[Update-EMLNodeState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLNodeState.html)|
 |[aws medialive update-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-reservation.html)|[Update-EMLReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLReservation.html)|
+|[aws medialive update-sdi-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/update-sdi-source.html)|[Update-EMLSdiSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMLSdiSource.html)|
 

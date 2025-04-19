@@ -1,6 +1,6 @@
 ---
 title: globalaccelerator
-date: 2025-04-03
+date: 2025-04-19
 description: aws globalaccelerator (AWS Global Accelerator) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: networkflowmonitor
-date: 2025-04-03
+date: 2025-04-19
 description: aws networkflowmonitor (Amazon CloudWatch Network Flow Monitor) command/cmdlet list.
 ---
 

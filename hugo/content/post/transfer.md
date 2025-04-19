@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2025-04-03
+date: 2025-04-19
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 
@@ -66,6 +66,8 @@ description: aws transfer (AWS Transfer Family) command/cmdlet list.
 |[aws transfer send-workflow-step-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/send-workflow-step-state.html)|[Send-TFRWorkflowStepState](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-TFRWorkflowStepState.html)|
 |[aws transfer start-directory-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-directory-listing.html)|[Start-TFRDirectoryListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRDirectoryListing.html)|
 |[aws transfer start-file-transfer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-file-transfer.html)|[Start-TFRFileTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRFileTransfer.html)|
+|[aws transfer start-remote-delete](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-remote-delete.html)|[Start-TFRRemoteDelete](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRRemoteDelete.html)|
+|[aws transfer start-remote-move](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-remote-move.html)|[Start-TFRRemoteMove](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRRemoteMove.html)|
 |[aws transfer start-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/start-server.html)|[Start-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TFRServer.html)|
 |[aws transfer stop-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/stop-server.html)|[Stop-TFRServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-TFRServer.html)|
 |[aws transfer tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transfer/tag-resource.html)|[Add-TFRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TFRResourceTag.html)|

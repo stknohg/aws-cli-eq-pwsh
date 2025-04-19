@@ -1,6 +1,6 @@
 ---
 title: network-firewall
-date: 2025-04-03
+date: 2025-04-19
 description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 ---
 

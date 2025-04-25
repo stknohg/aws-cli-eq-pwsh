@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2025-04-19
+date: 2025-04-25
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -58,6 +58,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs register-task-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/register-task-definition.html)|[Register-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-ECSTaskDefinition.html)|
 |[aws ecs run-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/run-task.html)|[New-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTask.html)|
 |[aws ecs start-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/start-task.html)|[Start-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECSTask.html)|
+|[aws ecs stop-service-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/stop-service-deployment.html)|[Stop-ECSServiceDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ECSServiceDeployment.html)|
 |[aws ecs stop-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/stop-task.html)|[Stop-ECSTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ECSTask.html)|
 |[aws ecs submit-attachment-state-changes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/submit-attachment-state-changes.html)|[Submit-ECSAttachmentStateChange](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-ECSAttachmentStateChange.html)|
 |[aws ecs submit-container-state-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/submit-container-state-change.html)||

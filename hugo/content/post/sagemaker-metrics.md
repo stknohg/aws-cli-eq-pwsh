@@ -1,6 +1,6 @@
 ---
 title: sagemaker-metrics
-date: 2025-04-19
+date: 2025-04-25
 description: aws sagemaker-metrics (Amazon SageMaker Metrics Service) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: savingsplans
-date: 2025-04-19
+date: 2025-04-25
 description: aws savingsplans (AWS Savings Plans) command/cmdlet list.
 ---
 

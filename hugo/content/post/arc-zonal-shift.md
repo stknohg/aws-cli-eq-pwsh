@@ -1,6 +1,6 @@
 ---
 title: arc-zonal-shift
-date: 2025-04-19
+date: 2025-04-25
 description: aws arc-zonal-shift (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 

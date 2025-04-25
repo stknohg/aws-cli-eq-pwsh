@@ -1,6 +1,6 @@
 ---
 title: chatbot
-date: 2025-04-19
+date: 2025-04-25
 description: aws chatbot (AWS Chatbot) command/cmdlet list.
 ---
 

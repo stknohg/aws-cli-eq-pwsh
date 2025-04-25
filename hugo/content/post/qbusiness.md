@@ -1,6 +1,6 @@
 ---
 title: qbusiness
-date: 2025-04-19
+date: 2025-04-25
 description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness batch-put-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/batch-put-document.html)|[Set-QBUSBatchPutDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-QBUSBatchPutDocument.html)|
 |[aws qbusiness cancel-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/cancel-subscription.html)|[Stop-QBUSSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-QBUSSubscription.html)|
 |[aws qbusiness chat-sync](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/chat-sync.html)|[Set-QBUSChatSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-QBUSChatSync.html)|
+|[aws qbusiness check-document-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/check-document-access.html)|[Get-QBUSDocumentAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDocumentAccess.html)|
 |[aws qbusiness create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-application.html)|[New-QBUSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSApplication.html)|
 |[aws qbusiness create-data-accessor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-data-accessor.html)|[New-QBUSDataAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSDataAccessor.html)|
 |[aws qbusiness create-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/create-data-source.html)|[New-QBUSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QBUSDataSource.html)|

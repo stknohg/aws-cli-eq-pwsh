@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2025-04-19
+date: 2025-04-25
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -81,6 +81,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp get-identity-provider-by-identifier](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-identity-provider-by-identifier.html)|[Get-CGIPIdentityProviderByIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPIdentityProviderByIdentifier.html)|
 |[aws cognito-idp get-log-delivery-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-log-delivery-configuration.html)|[Get-CGIPLogDeliveryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPLogDeliveryConfiguration.html)|
 |[aws cognito-idp get-signing-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-signing-certificate.html)|[Get-CGIPSigningCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPSigningCertificate.html)|
+|[aws cognito-idp get-tokens-from-refresh-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-tokens-from-refresh-token.html)|[Get-CGIPTokensFromRefreshToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPTokensFromRefreshToken.html)|
 |[aws cognito-idp get-ui-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-ui-customization.html)|[Get-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUICustomization.html)|
 |[aws cognito-idp get-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-user.html)|[Get-CGIPUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUser.html)|
 |[aws cognito-idp get-user-attribute-verification-code](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-user-attribute-verification-code.html)|[Get-CGIPUserAttributeVerificationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserAttributeVerificationCode.html)|

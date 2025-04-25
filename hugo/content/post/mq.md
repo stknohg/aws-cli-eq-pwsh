@@ -1,6 +1,6 @@
 ---
 title: mq
-date: 2025-04-19
+date: 2025-04-25
 description: aws mq (Amazon MQ) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws mq (Amazon MQ) command/cmdlet list.
 |[aws mq create-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/create-tags.html)|[New-MQTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MQTag.html)|
 |[aws mq create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/create-user.html)|[New-MQUser](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MQUser.html)|
 |[aws mq delete-broker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/delete-broker.html)|[Remove-MQBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MQBroker.html)|
+|[aws mq delete-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/delete-configuration.html)|[Remove-MQConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MQConfiguration.html)|
 |[aws mq delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/delete-tags.html)|[Remove-MQTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MQTag.html)|
 |[aws mq delete-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/delete-user.html)|[Remove-MQUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MQUser.html)|
 |[aws mq describe-broker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/describe-broker.html)|[Get-MQBroker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQBroker.html)|

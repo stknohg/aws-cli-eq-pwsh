@@ -1,6 +1,6 @@
 ---
 title: verifiedpermissions
-date: 2025-04-25
+date: 2025-05-08
 description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdlet list.
 ---
 
@@ -35,7 +35,10 @@ description: aws verifiedpermissions (Amazon Verified Permissions) command/cmdle
 |[aws verifiedpermissions list-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/list-policies.html)|[Get-AVPPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AVPPolicyList.html)|
 |[aws verifiedpermissions list-policy-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/list-policy-stores.html)|[Get-AVPPolicyStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AVPPolicyStoreList.html)|
 |[aws verifiedpermissions list-policy-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/list-policy-templates.html)|[Get-AVPPolicyTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AVPPolicyTemplateList.html)|
+|[aws verifiedpermissions list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/list-tags-for-resource.html)|[Get-AVPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AVPResourceTag.html)|
 |[aws verifiedpermissions put-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/put-schema.html)|[Write-AVPSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AVPSchema.html)|
+|[aws verifiedpermissions tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/tag-resource.html)|[Add-AVPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AVPResourceTag.html)|
+|[aws verifiedpermissions untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/untag-resource.html)|[Remove-AVPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AVPResourceTag.html)|
 |[aws verifiedpermissions update-identity-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/update-identity-source.html)|[Update-AVPIdentitySource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AVPIdentitySource.html)|
 |[aws verifiedpermissions update-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/update-policy.html)|[Update-AVPPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AVPPolicy.html)|
 |[aws verifiedpermissions update-policy-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/verifiedpermissions/update-policy-store.html)|[Update-AVPPolicyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AVPPolicyStore.html)|

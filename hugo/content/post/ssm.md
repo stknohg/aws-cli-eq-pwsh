@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2025-04-25
+date: 2025-05-08
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -76,6 +76,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm describe-patch-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-patch-properties.html)|[Get-SSMPatchProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMPatchProperty.html)|
 |[aws ssm describe-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/describe-sessions.html)|[Get-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMSession.html)|
 |[aws ssm disassociate-ops-item-related-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/disassociate-ops-item-related-item.html)|[Unregister-SSMOpsItemRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMOpsItemRelatedItem.html)|
+|[aws ssm get-access-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-access-token.html)|[Get-SSMAccessToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAccessToken.html)|
 |[aws ssm get-automation-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-automation-execution.html)|[Get-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAutomationExecution.html)|
 |[aws ssm get-calendar-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-calendar-state.html)|[Get-SSMCalendarState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCalendarState.html)|
 |[aws ssm get-command-invocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-command-invocation.html)|[Get-SSMCommandInvocationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommandInvocationDetail.html)|
@@ -135,6 +136,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm resume-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/resume-session.html)|[Resume-SSMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-SSMSession.html)|
 |[aws ssm send-automation-signal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/send-automation-signal.html)|[Send-SSMAutomationSignal](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SSMAutomationSignal.html)|
 |[aws ssm send-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/send-command.html)|[Send-SSMCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SSMCommand.html)|
+|[aws ssm start-access-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-access-request.html)|[Start-SSMAccessRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAccessRequest.html)|
 |[aws ssm start-associations-once](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-associations-once.html)|[Start-SSMAssociationsOnce](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAssociationsOnce.html)|
 |[aws ssm start-automation-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-automation-execution.html)|[Start-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMAutomationExecution.html)|
 |[aws ssm start-change-request-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/start-change-request-execution.html)|[Start-SSMChangeRequestExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SSMChangeRequestExecution.html)|

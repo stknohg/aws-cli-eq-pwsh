@@ -1,6 +1,6 @@
 ---
 title: synthetics
-date: 2025-04-25
+date: 2025-05-08
 description: aws synthetics (Amazon CloudWatch Synthetics) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws synthetics (Amazon CloudWatch Synthetics) command/cmdlet list.
 |[aws synthetics list-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/list-groups.html)|[Get-CWSYNGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWSYNGroupList.html)|
 |[aws synthetics list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/list-tags-for-resource.html)|[Get-CWSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWSYNResourceTag.html)|
 |[aws synthetics start-canary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/start-canary.html)|[Start-CWSYNCanary](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWSYNCanary.html)|
+|[aws synthetics start-canary-dry-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/start-canary-dry-run.html)|[Start-CWSYNCanaryDryRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWSYNCanaryDryRun.html)|
 |[aws synthetics stop-canary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/stop-canary.html)|[Stop-CWSYNCanary](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWSYNCanary.html)|
 |[aws synthetics tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/tag-resource.html)|[Add-CWSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWSYNResourceTag.html)|
 |[aws synthetics untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/synthetics/untag-resource.html)|[Remove-CWSYNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWSYNResourceTag.html)|

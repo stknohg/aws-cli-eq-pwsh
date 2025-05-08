@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2025-04-25
+date: 2025-05-08
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis list-shards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-shards.html)|[Get-KINShardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINShardList.html)|
 |[aws kinesis list-stream-consumers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-stream-consumers.html)|[Get-KINStreamConsumerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStreamConsumerList.html)|
 |[aws kinesis list-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-streams.html)|[Get-KINStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStreamList.html)|
+|[aws kinesis list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-tags-for-resource.html)|[Get-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINResourceTag.html)|
 |[aws kinesis list-tags-for-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-tags-for-stream.html)|[Get-KINTagsForStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINTagsForStream.html)|
 |[aws kinesis merge-shards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/merge-shards.html)|[Merge-KINShard](https://docs.aws.amazon.com/powershell/latest/reference/items/Merge-KINShard.html)|
 |[aws kinesis put-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/put-record.html)|[Write-KINRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-KINRecord.html)|
@@ -42,6 +43,8 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis split-shard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/split-shard.html)|[Split-KINShard](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-KINShard.html)|
 |[aws kinesis start-stream-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/start-stream-encryption.html)|[Start-KINStreamEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-KINStreamEncryption.html)|
 |[aws kinesis stop-stream-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/stop-stream-encryption.html)|[Stop-KINStreamEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINStreamEncryption.html)|
+|[aws kinesis tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/tag-resource.html)|[Add-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINResourceTag.html)|
+|[aws kinesis untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/untag-resource.html)|[Remove-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINResourceTag.html)|
 |[aws kinesis update-shard-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-shard-count.html)|[Update-KINShardCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINShardCount.html)|
 |[aws kinesis update-stream-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-mode.html)|[Update-KINStreamMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamMode.html)|
 

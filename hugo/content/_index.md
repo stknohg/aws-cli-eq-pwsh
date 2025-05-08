@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-04-25
+date: 2025-05-08
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.27.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.806 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.27.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.815 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -388,6 +388,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Simple Queue Service](https://aws.amazon.com/sqs/)|[sqs]({{%relref "post/sqs.md" %}})|SQS||
 |[AWS Systems Manager](https://aws.amazon.com/systems-manager/)|[ssm]({{%relref "post/ssm.md" %}})|SSM||
 |[AWS Systems Manager Contacts](https://aws.amazon.com/systems-manager/)|[ssm-contacts]({{%relref "post/ssm-contacts.md" %}})|SMC||
+|[AWS Systems Manager GUI Connect](https://aws.amazon.com/systems-manager/)|[ssm-guiconnect]({{%relref "post/ssm-guiconnect.md" %}})|SSMG||
 |[AWS Systems Manager Incident Manager](https://aws.amazon.com/systems-manager/)|[ssm-incidents]({{%relref "post/ssm-incidents.md" %}})|SSMI||
 |[AWS Systems Manager Quick Setup](https://aws.amazon.com/systems-manager/)|[ssm-quicksetup]({{%relref "post/ssm-quicksetup.md" %}})|SSMQS||
 |[AWS Systems Manager for SAP](https://aws.amazon.com/systems-manager/)|[ssm-sap]({{%relref "post/ssm-sap.md" %}})|SMSAP||

@@ -1,6 +1,6 @@
 ---
 title: socialmessaging
-date: 2025-04-25
+date: 2025-05-08
 description: aws socialmessaging (AWS End User Messaging Social) command/cmdlet list.
 ---
 
@@ -14,7 +14,7 @@ description: aws socialmessaging (AWS End User Messaging Social) command/cmdlet 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws socialmessaging associate-whatsapp-business-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/associate-whatsapp-business-account.html)|[Connect-SOCIALWhatsAppBusinessAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-SOCIALWhatsAppBusinessAccount.html)|
-|[aws socialmessaging delete-whatsapp-media-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/delete-whatsapp-media-message.html)||
+|[aws socialmessaging delete-whatsapp-message-media](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/delete-whatsapp-message-media.html)|[Remove-SOCIALWhatsAppMessageMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SOCIALWhatsAppMessageMedia.html)|
 |[aws socialmessaging disassociate-whatsapp-business-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/disassociate-whatsapp-business-account.html)|[Disconnect-SOCIALWhatsAppBusinessAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-SOCIALWhatsAppBusinessAccount.html)|
 |[aws socialmessaging get-linked-whatsapp-business-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/get-linked-whatsapp-business-account.html)|[Get-SOCIALLinkedWhatsAppBusinessAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SOCIALLinkedWhatsAppBusinessAccount.html)|
 |[aws socialmessaging get-linked-whatsapp-business-account-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/get-linked-whatsapp-business-account-phone-number.html)|[Get-SOCIALLinkedWhatsAppBusinessAccountPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SOCIALLinkedWhatsAppBusinessAccountPhoneNumber.html)|

@@ -2213,6 +2213,12 @@
     "Url": "https://aws.amazon.com/systems-manager/",
     "Note": ""
   },
+  "ssm-guiconnect": {
+    "Prefix": "SSMG",
+    "Name": "AWS Systems Manager GUI Connect",
+    "Url": "https://aws.amazon.com/systems-manager/",
+    "Note": ""
+  },
   "ssm-incidents": {
     "Prefix": "SSMI",
     "Name": "AWS Systems Manager Incident Manager",

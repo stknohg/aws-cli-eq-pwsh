@@ -4,7 +4,7 @@
 FROM ubuntu:24.04
 
 # Define args
-ARG PWSH_VERSION=7.5.0
+ARG PWSH_VERSION=7.5.1
 ARG HUGO_VERSION=0.146.7
 # Download packages
 ADD http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu74_74.2-1ubuntu4_amd64.deb /tmp/libicu74.deb

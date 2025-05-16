@@ -5,7 +5,7 @@ FROM ubuntu:24.04
 
 # Define args
 ARG PWSH_VERSION=7.5.1
-ARG HUGO_VERSION=0.146.7
+ARG HUGO_VERSION=0.147.3
 # Download packages
 ADD http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu74_74.2-1ubuntu4_amd64.deb /tmp/libicu74.deb
 ADD https://github.com/PowerShell/PowerShell/releases/download/v${PWSH_VERSION}/powershell_${PWSH_VERSION}-1.deb_amd64.deb /tmp/powershell.deb

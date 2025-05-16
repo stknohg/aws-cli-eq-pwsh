@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2025-05-08
+date: 2025-05-16
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -71,6 +71,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs list-anomalies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-anomalies.html)|[Get-CWLAnomalyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAnomalyList.html)|
 |[aws logs list-integrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-integrations.html)|[Get-CWLIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLIntegrationList.html)|
 |[aws logs list-log-anomaly-detectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-anomaly-detectors.html)|[Get-CWLLogAnomalyDetectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogAnomalyDetectorList.html)|
+|[aws logs list-log-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-groups.html)|[Get-CWLLogGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupList.html)|
 |[aws logs list-log-groups-for-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-groups-for-query.html)|[Get-CWLLogGroupsForQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupsForQueryList.html)|
 |[aws logs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs list-tags-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-log-group.html)|[Get-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupTag.html)|

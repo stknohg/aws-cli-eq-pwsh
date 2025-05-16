@@ -1,6 +1,6 @@
 ---
 title: meteringmarketplace
-date: 2025-05-08
+date: 2025-05-16
 description: aws meteringmarketplace (AWS Marketplace Metering Service) command/cmdlet list.
 ---
 

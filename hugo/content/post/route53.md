@@ -1,6 +1,6 @@
 ---
 title: route53
-date: 2025-05-08
+date: 2025-05-16
 description: aws route53 (Amazon Route 53) command/cmdlet list.
 ---
 

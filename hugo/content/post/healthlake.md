@@ -1,6 +1,6 @@
 ---
 title: healthlake
-date: 2025-05-08
+date: 2025-05-16
 description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: service-quotas
-date: 2025-05-16
+date: 2025-05-21
 description: aws service-quotas (AWS Service Quotas) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws service-quotas (AWS Service Quotas) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws service-quotas associate-service-quota-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/associate-service-quota-template.html)|[Register-SQServiceQuotaTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SQServiceQuotaTemplate.html)|
+|[aws service-quotas create-support-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/create-support-case.html)|[New-SQSupportCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SQSupportCase.html)|
 |[aws service-quotas delete-service-quota-increase-request-from-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/delete-service-quota-increase-request-from-template.html)|[Remove-SQServiceQuotaIncreaseRequestFromTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SQServiceQuotaIncreaseRequestFromTemplate.html)|
 |[aws service-quotas disassociate-service-quota-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/disassociate-service-quota-template.html)|[Unregister-SQServiceQuotaTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SQServiceQuotaTemplate.html)|
 |[aws service-quotas get-association-for-service-quota-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-association-for-service-quota-template.html)|[Get-SQAssociationForServiceQuotaTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQAssociationForServiceQuotaTemplate.html)|

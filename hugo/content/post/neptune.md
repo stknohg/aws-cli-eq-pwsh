@@ -1,6 +1,6 @@
 ---
 title: neptune
-date: 2025-05-16
+date: 2025-05-21
 description: aws neptune (Amazon Neptune) command/cmdlet list.
 ---
 
@@ -83,4 +83,5 @@ description: aws neptune (Amazon Neptune) command/cmdlet list.
 |[aws neptune restore-db-cluster-to-point-in-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/restore-db-cluster-to-point-in-time.html)|[Restore-NPTDBClusterToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-NPTDBClusterToPointInTime.html)|
 |[aws neptune start-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/start-db-cluster.html)|[Start-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NPTDBCluster.html)|
 |[aws neptune stop-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/stop-db-cluster.html)|[Stop-NPTDBCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NPTDBCluster.html)|
+|[aws neptune switchover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/switchover-global-cluster.html)|[Request-NPTSwitchoverGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-NPTSwitchoverGlobalCluster.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: dsql
-date: 2025-05-16
+date: 2025-05-21
 description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 ---
 
@@ -14,9 +14,7 @@ description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws dsql create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/create-cluster.html)|[New-DSQLCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSQLCluster.html)|
-|[aws dsql create-multi-region-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/create-multi-region-clusters.html)|[New-DSQLMultiRegionCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSQLMultiRegionCluster.html)|
 |[aws dsql delete-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/delete-cluster.html)|[Remove-DSQLCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSQLCluster.html)|
-|[aws dsql delete-multi-region-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/delete-multi-region-clusters.html)|[Remove-DSQLMultiRegionCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSQLMultiRegionCluster.html)|
 |[aws dsql generate-db-connect-admin-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/generate-db-connect-admin-auth-token.html)||
 |[aws dsql generate-db-connect-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/generate-db-connect-auth-token.html)||
 |[aws dsql get-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dsql/get-cluster.html)|[Get-DSQLCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSQLCluster.html)|

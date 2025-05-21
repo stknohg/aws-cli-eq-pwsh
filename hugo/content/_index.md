@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-05-16
+date: 2025-05-21
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.27.16 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.821 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.27.19 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.824 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -319,7 +319,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EventBridge Pipes](https://aws.amazon.com/eventbridge/pipes/)|[pipes]({{%relref "post/pipes.md" %}})|PIPES||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
-|[AWS Private 5G](https://aws.amazon.com/private5g/)|[privatenetworks]({{%relref "post/privatenetworks.md" %}})|PV5G||
 |[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO||
 |[Amazon Q Apps](https://aws.amazon.com/q/business/)|[qapps]({{%relref "post/qapps.md" %}})|QAPPS||
 |[Amazon Q for Your Business](https://aws.amazon.com/q/business-expert/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|QBUS||

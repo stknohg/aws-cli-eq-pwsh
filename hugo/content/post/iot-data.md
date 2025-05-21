@@ -1,6 +1,6 @@
 ---
 title: iot-data
-date: 2025-05-16
+date: 2025-05-21
 description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 ---
 

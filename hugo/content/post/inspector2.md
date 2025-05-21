@@ -1,6 +1,6 @@
 ---
 title: inspector2
-date: 2025-05-16
+date: 2025-05-21
 description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 enable-delegated-admin-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/enable-delegated-admin-account.html)|[Enable-INS2DelegatedAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-INS2DelegatedAdminAccount.html)|
 |[aws inspector2 get-cis-scan-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-cis-scan-report.html)|[Get-INS2CisScanReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanReport.html)|
 |[aws inspector2 get-cis-scan-result-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-cis-scan-result-details.html)|[Get-INS2CisScanResultDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanResultDetail.html)|
+|[aws inspector2 get-clusters-for-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-clusters-for-image.html)|[Get-INS2ClustersForImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2ClustersForImage.html)|
 |[aws inspector2 get-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-configuration.html)|[Get-INS2Configuration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2Configuration.html)|
 |[aws inspector2 get-delegated-admin-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-delegated-admin-account.html)|[Get-INS2DelegatedAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2DelegatedAdminAccount.html)|
 |[aws inspector2 get-ec2-deep-inspection-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-ec2-deep-inspection-configuration.html)|[Get-INS2Ec2DeepInspectionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2Ec2DeepInspectionConfiguration.html)|

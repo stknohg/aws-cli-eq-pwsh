@@ -1,6 +1,6 @@
 ---
 title: connectcampaigns
-date: 2025-05-16
+date: 2025-05-21
 description: aws connectcampaigns (Amazon Connect Outbound Campaigns) command/cmdlet list.
 ---
 

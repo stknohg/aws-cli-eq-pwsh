@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2025-05-16
+date: 2025-05-21
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-cluster.html)||
 |[aws emr create-default-roles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-default-roles.html)||
 |[aws emr create-hbase-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-hbase-backup.html)||
+|[aws emr create-persistent-app-ui](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-persistent-app-ui.html)|[New-EMRPersistentAppUI](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMRPersistentAppUI.html)|
 |[aws emr create-security-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-security-configuration.html)|[New-EMRSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMRSecurityConfiguration.html)|
 |[aws emr create-studio](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-studio.html)|[New-EMRStudio](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMRStudio.html)|
 |[aws emr create-studio-session-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/create-studio-session-mapping.html)|[New-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMRStudioSessionMapping.html)|
@@ -29,6 +30,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr delete-studio-session-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/delete-studio-session-mapping.html)|[Remove-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRStudioSessionMapping.html)|
 |[aws emr describe-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/describe-cluster.html)|[Get-EMRCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCluster.html)|
 |[aws emr describe-notebook-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/describe-notebook-execution.html)|[Get-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRNotebookExecution.html)|
+|[aws emr describe-persistent-app-ui](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/describe-persistent-app-ui.html)|[Get-EMRPersistentAppUI](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRPersistentAppUI.html)|
 |[aws emr describe-release-label](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/describe-release-label.html)|[Get-EMRReleaseLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRReleaseLabel.html)|
 |[aws emr describe-security-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/describe-security-configuration.html)|[Get-EMRSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSecurityConfiguration.html)|
 |[aws emr describe-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/describe-step.html)|[Get-EMRStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStep.html)|
@@ -39,6 +41,8 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr get-block-public-access-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-block-public-access-configuration.html)|[Get-EMRBlockPublicAccessConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRBlockPublicAccessConfiguration.html)|
 |[aws emr get-cluster-session-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-cluster-session-credentials.html)|[Get-EMRClusterSessionCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRClusterSessionCredential.html)|
 |[aws emr get-managed-scaling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-managed-scaling-policy.html)|[Get-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRManagedScalingPolicy.html)|
+|[aws emr get-on-cluster-app-ui-presigned-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-on-cluster-app-ui-presigned-url.html)|[Get-EMROnClusterAppUIPresignedURL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMROnClusterAppUIPresignedURL.html)|
+|[aws emr get-persistent-app-ui-presigned-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-persistent-app-ui-presigned-url.html)|[Get-EMRPersistentAppUIPresignedURL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRPersistentAppUIPresignedURL.html)|
 |[aws emr get-studio-session-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-studio-session-mapping.html)|[Get-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMapping.html)|
 |[aws emr install-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/install-applications.html)||
 |[aws emr list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-clusters.html)|[Get-EMRClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRClusterList.html)|

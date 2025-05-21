@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2025-05-16
+date: 2025-05-21
 description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 ---
 

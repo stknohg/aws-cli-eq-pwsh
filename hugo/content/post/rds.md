@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2025-05-16
+date: 2025-05-21
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -84,6 +84,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-db-instance-automated-backups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-instance-automated-backups.html)|[Get-RDSDBInstanceAutomatedBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBInstanceAutomatedBackup.html)|
 |[aws rds describe-db-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-instances.html)|[Get-RDSDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBInstance.html)|
 |[aws rds describe-db-log-files](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-log-files.html)|[Get-RDSDBLogFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBLogFile.html)|
+|[aws rds describe-db-major-engine-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-major-engine-versions.html)|[Get-RDSDBMajorEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBMajorEngineVersion.html)|
 |[aws rds describe-db-parameter-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-parameter-groups.html)|[Get-RDSDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBParameterGroup.html)|
 |[aws rds describe-db-parameters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-parameters.html)|[Get-RDSDBParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBParameter.html)|
 |[aws rds describe-db-proxies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-db-proxies.html)|[Get-RDSDBProxy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSDBProxy.html)|

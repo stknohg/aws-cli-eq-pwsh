@@ -1,6 +1,6 @@
 ---
 title: entityresolution
-date: 2025-05-16
+date: 2025-05-21
 description: aws entityresolution (AWS Entity Resolution) command/cmdlet list.
 ---
 

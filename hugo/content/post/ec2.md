@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2025-05-16
+date: 2025-05-21
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -84,6 +84,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-customer-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-customer-gateway.html)|[New-EC2CustomerGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CustomerGateway.html)|
 |[aws ec2 create-default-subnet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-default-subnet.html)|[New-EC2DefaultSubnet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2DefaultSubnet.html)|
 |[aws ec2 create-default-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-default-vpc.html)|[New-EC2DefaultVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2DefaultVpc.html)|
+|[aws ec2 create-delegate-mac-volume-ownership-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-delegate-mac-volume-ownership-task.html)|[New-EC2DelegateMacVolumeOwnershipTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2DelegateMacVolumeOwnershipTask.html)|
 |[aws ec2 create-dhcp-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-dhcp-options.html)|[New-EC2DhcpOption](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2DhcpOption.html)|
 |[aws ec2 create-egress-only-internet-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-egress-only-internet-gateway.html)|[New-EC2EgressOnlyInternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2EgressOnlyInternetGateway.html)|
 |[aws ec2 create-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-fleet.html)|[New-EC2Fleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Fleet.html)|
@@ -108,6 +109,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-local-gateway-route-table-vpc-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-local-gateway-route-table-vpc-association.html)|[New-EC2LocalGatewayRouteTableVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayRouteTableVpcAssociation.html)|
 |[aws ec2 create-local-gateway-virtual-interface](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-local-gateway-virtual-interface.html)|[New-EC2LocalGatewayVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayVirtualInterface.html)|
 |[aws ec2 create-local-gateway-virtual-interface-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-local-gateway-virtual-interface-group.html)|[New-EC2LocalGatewayVirtualInterfaceGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2LocalGatewayVirtualInterfaceGroup.html)|
+|[aws ec2 create-mac-system-integrity-protection-modification-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-mac-system-integrity-protection-modification-task.html)|[New-EC2MacSystemIntegrityProtectionModificationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2MacSystemIntegrityProtectionModificationTask.html)|
 |[aws ec2 create-managed-prefix-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-managed-prefix-list.html)|[New-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ManagedPrefixList.html)|
 |[aws ec2 create-nat-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-nat-gateway.html)|[New-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NatGateway.html)|
 |[aws ec2 create-network-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-network-acl.html)|[New-EC2NetworkAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2NetworkAcl.html)|
@@ -332,6 +334,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-local-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-local-gateways.html)|[Get-EC2LocalGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LocalGateway.html)|
 |[aws ec2 describe-locked-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-locked-snapshots.html)|[Get-EC2LockedSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LockedSnapshot.html)|
 |[aws ec2 describe-mac-hosts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-mac-hosts.html)|[Get-EC2MacHost](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MacHost.html)|
+|[aws ec2 describe-mac-modification-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-mac-modification-tasks.html)|[Get-EC2MacModificationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MacModificationTask.html)|
 |[aws ec2 describe-managed-prefix-lists](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-managed-prefix-lists.html)|[Get-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixList.html)|
 |[aws ec2 describe-moving-addresses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-moving-addresses.html)|[Get-EC2MovingAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2MovingAddress.html)|
 |[aws ec2 describe-nat-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-nat-gateways.html)|[Get-EC2NatGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NatGateway.html)|

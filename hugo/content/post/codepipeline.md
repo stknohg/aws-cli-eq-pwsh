@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2025-05-16
+date: 2025-05-21
 description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 |[aws codepipeline get-third-party-job-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/get-third-party-job-details.html)|[Get-CPThirdPartyJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPThirdPartyJobDetail.html)|
 |[aws codepipeline list-action-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-action-executions.html)|[Get-CPActionExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionExecutionList.html)|
 |[aws codepipeline list-action-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-action-types.html)|[Get-CPActionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPActionType.html)|
+|[aws codepipeline list-deploy-action-execution-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-deploy-action-execution-targets.html)|[Get-CPDeployActionExecutionTargetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPDeployActionExecutionTargetList.html)|
 |[aws codepipeline list-pipeline-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-pipeline-executions.html)|[Get-CPPipelineExecutionSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineExecutionSummary.html)|
 |[aws codepipeline list-pipelines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-pipelines.html)|[Get-CPPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPPipelineList.html)|
 |[aws codepipeline list-rule-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codepipeline/list-rule-executions.html)|[Get-CPRuleExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPRuleExecutionList.html)|

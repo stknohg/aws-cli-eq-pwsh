@@ -1799,12 +1799,6 @@
     "Url": "https://aws.amazon.com/pricing/",
     "Note": ""
   },
-  "privatenetworks": {
-    "Prefix": "PV5G",
-    "Name": "AWS Private 5G",
-    "Url": "https://aws.amazon.com/private5g/",
-    "Note": ""
-  },
   "proton": {
     "Prefix": "PRO",
     "Name": "AWS Proton",

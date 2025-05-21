@@ -297,7 +297,6 @@
   "pipes": "https://docs.aws.amazon.com/powershell/latest/reference/items/Pipes_cmdlets.html",
   "polly": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Polly_cmdlets.html",
   "pricing": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Price_List_Service_cmdlets.html",
-  "privatenetworks": "https://docs.aws.amazon.com/powershell/latest/reference/items/Private5G_cmdlets.html",
   "proton": "https://docs.aws.amazon.com/powershell/latest/reference/items/Proton_cmdlets.html",
   "qapps": "https://docs.aws.amazon.com/powershell/latest/reference/items/QApps_cmdlets.html",
   "qbusiness": "https://docs.aws.amazon.com/powershell/latest/reference/items/QBusiness_cmdlets.html",

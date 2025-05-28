@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2025-05-21
+date: 2025-05-28
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 
@@ -26,8 +26,10 @@ description: aws ce (Cost Explorer) command/cmdlet list.
 |[aws ce get-approximate-usage-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-approximate-usage-records.html)|[Get-CEApproximateUsageRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEApproximateUsageRecord.html)|
 |[aws ce get-commitment-purchase-analysis](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-commitment-purchase-analysis.html)|[Get-CECommitmentPurchaseAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECommitmentPurchaseAnalysis.html)|
 |[aws ce get-cost-and-usage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-and-usage.html)|[Get-CECostAndUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAndUsage.html)|
+|[aws ce get-cost-and-usage-comparisons](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-and-usage-comparisons.html)|[Get-CECostAndUsageComparison](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAndUsageComparison.html)|
 |[aws ce get-cost-and-usage-with-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-and-usage-with-resources.html)|[Get-CECostAndUsageWithResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAndUsageWithResource.html)|
 |[aws ce get-cost-categories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-categories.html)|[Get-CECostCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostCategory.html)|
+|[aws ce get-cost-comparison-drivers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-comparison-drivers.html)|[Get-CECostComparisonDriver](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostComparisonDriver.html)|
 |[aws ce get-cost-forecast](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-cost-forecast.html)|[Get-CECostForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostForecast.html)|
 |[aws ce get-dimension-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-dimension-values.html)|[Get-CEDimensionValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEDimensionValue.html)|
 |[aws ce get-reservation-coverage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/get-reservation-coverage.html)|[Get-CEReservationCoverage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEReservationCoverage.html)|

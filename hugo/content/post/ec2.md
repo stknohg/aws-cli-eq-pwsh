@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2025-05-21
+date: 2025-05-28
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -488,6 +488,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 export-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/export-image.html)|[Export-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2Image.html)|
 |[aws ec2 export-transit-gateway-routes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/export-transit-gateway-routes.html)|[Export-EC2TransitGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2TransitGatewayRoute.html)|
 |[aws ec2 export-verified-access-instance-client-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/export-verified-access-instance-client-configuration.html)|[Export-EC2VerifiedAccessInstanceClientConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EC2VerifiedAccessInstanceClientConfiguration.html)|
+|[aws ec2 get-active-vpn-tunnel-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-active-vpn-tunnel-status.html)|[Get-EC2ActiveVpnTunnelStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ActiveVpnTunnelStatus.html)|
 |[aws ec2 get-allowed-images-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-allowed-images-settings.html)|[Get-EC2AllowedImagesSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AllowedImagesSetting.html)|
 |[aws ec2 get-associated-enclave-certificate-iam-roles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-associated-enclave-certificate-iam-roles.html)|[Get-EC2AssociatedEnclaveCertificateIamRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AssociatedEnclaveCertificateIamRole.html)|
 |[aws ec2 get-associated-ipv6-pool-cidrs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-associated-ipv6-pool-cidrs.html)|[Get-EC2AssociatedIpv6PoolCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2AssociatedIpv6PoolCidr.html)|
@@ -584,6 +585,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-managed-prefix-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-managed-prefix-list.html)|[Edit-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedPrefixList.html)|
 |[aws ec2 modify-network-interface-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 modify-private-dns-name-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-private-dns-name-options.html)|[Edit-EC2PrivateDnsNameOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2PrivateDnsNameOption.html)|
+|[aws ec2 modify-public-ip-dns-name-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-public-ip-dns-name-options.html)|[Edit-EC2PublicIpDnsNameOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2PublicIpDnsNameOption.html)|
 |[aws ec2 modify-reserved-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-reserved-instances.html)|[Edit-EC2ReservedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ReservedInstance.html)|
 |[aws ec2 modify-route-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-route-server.html)|[Edit-EC2RouteServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2RouteServer.html)|
 |[aws ec2 modify-security-group-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-security-group-rules.html)|[Edit-EC2SecurityGroupRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2SecurityGroupRule.html)|

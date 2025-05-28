@@ -1,6 +1,6 @@
 ---
 title: marketplace-deployment
-date: 2025-05-21
+date: 2025-05-28
 description: aws marketplace-deployment (AWS Marketplace Deployment Service) command/cmdlet list.
 ---
 

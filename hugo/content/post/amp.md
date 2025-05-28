@@ -1,6 +1,6 @@
 ---
 title: amp
-date: 2025-05-21
+date: 2025-05-28
 description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list.
 ---
 
@@ -15,16 +15,19 @@ description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list
 |----|----|
 |[aws amp create-alert-manager-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/create-alert-manager-definition.html)|[New-PROMAlertManagerDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROMAlertManagerDefinition.html)|
 |[aws amp create-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/create-logging-configuration.html)|[New-PROMLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROMLoggingConfiguration.html)|
+|[aws amp create-query-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/create-query-logging-configuration.html)|[New-PROMQueryLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROMQueryLoggingConfiguration.html)|
 |[aws amp create-rule-groups-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/create-rule-groups-namespace.html)|[New-PROMRuleGroupsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROMRuleGroupsNamespace.html)|
 |[aws amp create-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/create-scraper.html)|[New-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROMScraper.html)|
 |[aws amp create-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/create-workspace.html)|[New-PROMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PROMWorkspace.html)|
 |[aws amp delete-alert-manager-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/delete-alert-manager-definition.html)|[Remove-PROMAlertManagerDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMAlertManagerDefinition.html)|
 |[aws amp delete-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/delete-logging-configuration.html)|[Remove-PROMLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMLoggingConfiguration.html)|
+|[aws amp delete-query-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/delete-query-logging-configuration.html)|[Remove-PROMQueryLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMQueryLoggingConfiguration.html)|
 |[aws amp delete-rule-groups-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/delete-rule-groups-namespace.html)|[Remove-PROMRuleGroupsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMRuleGroupsNamespace.html)|
 |[aws amp delete-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/delete-scraper.html)|[Remove-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMScraper.html)|
 |[aws amp delete-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/delete-workspace.html)|[Remove-PROMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMWorkspace.html)|
 |[aws amp describe-alert-manager-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-alert-manager-definition.html)|[Get-PROMAlertManagerDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMAlertManagerDefinition.html)|
 |[aws amp describe-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-logging-configuration.html)|[Get-PROMLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMLoggingConfiguration.html)|
+|[aws amp describe-query-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-query-logging-configuration.html)|[Get-PROMQueryLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMQueryLoggingConfiguration.html)|
 |[aws amp describe-rule-groups-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-rule-groups-namespace.html)|[Get-PROMRuleGroupsNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMRuleGroupsNamespace.html)|
 |[aws amp describe-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-scraper.html)|[Get-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMScraper.html)|
 |[aws amp describe-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/describe-workspace.html)|[Get-PROMWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PROMWorkspace.html)|
@@ -39,6 +42,7 @@ description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list
 |[aws amp tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/tag-resource.html)|[Add-PROMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PROMResourceTag.html)|
 |[aws amp untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/untag-resource.html)|[Remove-PROMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PROMResourceTag.html)|
 |[aws amp update-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-logging-configuration.html)|[Update-PROMLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMLoggingConfiguration.html)|
+|[aws amp update-query-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-query-logging-configuration.html)|[Update-PROMQueryLoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMQueryLoggingConfiguration.html)|
 |[aws amp update-scraper](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-scraper.html)|[Update-PROMScraper](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMScraper.html)|
 |[aws amp update-workspace-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-workspace-alias.html)|[Update-PROMWorkspaceAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMWorkspaceAlias.html)|
 |[aws amp update-workspace-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/amp/update-workspace-configuration.html)|[Update-PROMWorkspaceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PROMWorkspaceConfiguration.html)|

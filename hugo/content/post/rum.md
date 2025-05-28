@@ -1,6 +1,6 @@
 ---
 title: rum
-date: 2025-05-21
+date: 2025-05-28
 description: aws rum (Real-User Monitoring for Amazon CloudWatch) command/cmdlet list.
 ---
 

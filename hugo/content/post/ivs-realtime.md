@@ -1,6 +1,6 @@
 ---
 title: ivs-realtime
-date: 2025-05-28
+date: 2025-06-05
 description: aws ivs-realtime (Amazon Interactive Video Service RealTime) command/cmdlet list.
 ---
 
@@ -37,6 +37,7 @@ description: aws ivs-realtime (Amazon Interactive Video Service RealTime) comman
 |[aws ivs-realtime list-encoder-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-encoder-configurations.html)|[Get-IVSRTEncoderConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTEncoderConfigurationList.html)|
 |[aws ivs-realtime list-ingest-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-ingest-configurations.html)|[Get-IVSRTIngestConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTIngestConfigurationList.html)|
 |[aws ivs-realtime list-participant-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-participant-events.html)|[Get-IVSRTParticipantEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTParticipantEventList.html)|
+|[aws ivs-realtime list-participant-replicas](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-participant-replicas.html)|[Get-IVSRTParticipantReplicaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTParticipantReplicaList.html)|
 |[aws ivs-realtime list-participants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-participants.html)|[Get-IVSRTParticipantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTParticipantList.html)|
 |[aws ivs-realtime list-public-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-public-keys.html)|[Get-IVSRTPublicKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTPublicKeyList.html)|
 |[aws ivs-realtime list-stage-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-stage-sessions.html)|[Get-IVSRTStageSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTStageSessionList.html)|
@@ -44,7 +45,9 @@ description: aws ivs-realtime (Amazon Interactive Video Service RealTime) comman
 |[aws ivs-realtime list-storage-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-storage-configurations.html)|[Get-IVSRTStorageConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTStorageConfigurationList.html)|
 |[aws ivs-realtime list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-tags-for-resource.html)|[Get-IVSRTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTResourceTag.html)|
 |[aws ivs-realtime start-composition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/start-composition.html)|[Start-IVSRTComposition](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IVSRTComposition.html)|
+|[aws ivs-realtime start-participant-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/start-participant-replication.html)|[Start-IVSRTParticipantReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IVSRTParticipantReplication.html)|
 |[aws ivs-realtime stop-composition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/stop-composition.html)|[Stop-IVSRTComposition](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IVSRTComposition.html)|
+|[aws ivs-realtime stop-participant-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/stop-participant-replication.html)|[Stop-IVSRTParticipantReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IVSRTParticipantReplication.html)|
 |[aws ivs-realtime tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/tag-resource.html)|[Add-IVSRTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IVSRTResourceTag.html)|
 |[aws ivs-realtime untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/untag-resource.html)|[Remove-IVSRTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IVSRTResourceTag.html)|
 |[aws ivs-realtime update-ingest-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/update-ingest-configuration.html)|[Update-IVSRTIngestConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IVSRTIngestConfiguration.html)|

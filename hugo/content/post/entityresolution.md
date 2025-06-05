@@ -1,6 +1,6 @@
 ---
 title: entityresolution
-date: 2025-05-28
+date: 2025-06-05
 description: aws entityresolution (AWS Entity Resolution) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws entityresolution (AWS Entity Resolution) command/cmdlet list.
 |[aws entityresolution delete-matching-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/delete-matching-workflow.html)|[Remove-ERESMatchingWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ERESMatchingWorkflow.html)|
 |[aws entityresolution delete-policy-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/delete-policy-statement.html)|[Remove-ERESPolicyStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ERESPolicyStatement.html)|
 |[aws entityresolution delete-schema-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/delete-schema-mapping.html)|[Remove-ERESSchemaMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ERESSchemaMapping.html)|
+|[aws entityresolution generate-match-id](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/generate-match-id.html)|[Set-ERESMatchId](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ERESMatchId.html)|
 |[aws entityresolution get-id-mapping-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/get-id-mapping-job.html)|[Get-ERESIdMappingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ERESIdMappingJob.html)|
 |[aws entityresolution get-id-mapping-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/get-id-mapping-workflow.html)|[Get-ERESIdMappingWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ERESIdMappingWorkflow.html)|
 |[aws entityresolution get-id-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/entityresolution/get-id-namespace.html)|[Get-ERESIdNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ERESIdNamespace.html)|

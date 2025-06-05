@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2025-05-28
+date: 2025-06-05
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -32,6 +32,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail generate-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/generate-query.html)|[Invoke-CTGenerateQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CTGenerateQuery.html)|
 |[aws cloudtrail get-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-channel.html)|[Get-CTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTChannel.html)|
 |[aws cloudtrail get-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-dashboard.html)|[Get-CTDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTDashboard.html)|
+|[aws cloudtrail get-event-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-configuration.html)|[Get-CTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventConfiguration.html)|
 |[aws cloudtrail get-event-data-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-data-store.html)|[Get-CTEventDataStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventDataStore.html)|
 |[aws cloudtrail get-event-selectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-event-selectors.html)|[Get-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventSelector.html)|
 |[aws cloudtrail get-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/get-import.html)|[Get-CTImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTImport.html)|
@@ -51,6 +52,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-tags.html)|[Get-CTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTResourceTag.html)|
 |[aws cloudtrail list-trails](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-trails.html)|[Get-CTTrailSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTTrailSummary.html)|
 |[aws cloudtrail lookup-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/lookup-events.html)|[Find-CTEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CTEvent.html)|
+|[aws cloudtrail put-event-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/put-event-configuration.html)|[Write-CTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTEventConfiguration.html)|
 |[aws cloudtrail put-event-selectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/put-event-selectors.html)|[Write-CTEventSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTEventSelector.html)|
 |[aws cloudtrail put-insight-selectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/put-insight-selectors.html)|[Write-CTInsightSelector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTInsightSelector.html)|
 |[aws cloudtrail put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/put-resource-policy.html)|[Write-CTResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CTResourcePolicy.html)|

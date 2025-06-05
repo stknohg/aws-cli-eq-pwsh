@@ -1,6 +1,6 @@
 ---
 title: payment-cryptography-data
-date: 2025-05-28
+date: 2025-06-05
 description: aws payment-cryptography-data (AWS Payment Cryptography Data Plane) command/cmdlet list.
 ---
 

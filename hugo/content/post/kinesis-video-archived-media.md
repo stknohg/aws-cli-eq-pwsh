@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-archived-media
-date: 2025-05-28
+date: 2025-06-05
 description: aws kinesis-video-archived-media (Amazon Kinesis) command/cmdlet list.
 ---
 

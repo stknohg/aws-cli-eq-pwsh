@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-05-28
+date: 2025-06-05
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.27.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.828 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.27.29 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.834 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -165,7 +165,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/)|[entityresolution]({{%relref "post/entityresolution.md" %}})|ERES||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
-|[ Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
+|[Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
+|[Amazon Elastic VMware Service](https://aws.amazon.com/evs/)|[evs]({{%relref "post/evs.md" %}})|EVS||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
 |[Amazon Data Firehose](https://aws.amazon.com/firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF|Formerly Amazon Kinesis Data Firehose.|

@@ -1,6 +1,6 @@
 ---
 title: apigatewayv2
-date: 2025-05-28
+date: 2025-06-05
 description: aws apigatewayv2 (Amazon API Gateway) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws apigatewayv2 (Amazon API Gateway) command/cmdlet list.
 |[aws apigatewayv2 create-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/create-model.html)|[New-AG2Model](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2Model.html)|
 |[aws apigatewayv2 create-route](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/create-route.html)|[New-AG2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2Route.html)|
 |[aws apigatewayv2 create-route-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/create-route-response.html)|[New-AG2RouteResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2RouteResponse.html)|
+|[aws apigatewayv2 create-routing-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/create-routing-rule.html)|[New-AG2RoutingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2RoutingRule.html)|
 |[aws apigatewayv2 create-stage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/create-stage.html)|[New-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2Stage.html)|
 |[aws apigatewayv2 create-vpc-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/create-vpc-link.html)|[New-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AG2VpcLink.html)|
 |[aws apigatewayv2 delete-access-log-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-access-log-settings.html)|[Remove-AG2AccessLogSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2AccessLogSetting.html)|
@@ -39,6 +40,7 @@ description: aws apigatewayv2 (Amazon API Gateway) command/cmdlet list.
 |[aws apigatewayv2 delete-route-request-parameter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-route-request-parameter.html)|[Remove-AG2RouteRequestParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteRequestParameter.html)|
 |[aws apigatewayv2 delete-route-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-route-response.html)|[Remove-AG2RouteResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteResponse.html)|
 |[aws apigatewayv2 delete-route-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-route-settings.html)|[Remove-AG2RouteSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RouteSetting.html)|
+|[aws apigatewayv2 delete-routing-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-routing-rule.html)|[Remove-AG2RoutingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2RoutingRule.html)|
 |[aws apigatewayv2 delete-stage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-stage.html)|[Remove-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2Stage.html)|
 |[aws apigatewayv2 delete-vpc-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/delete-vpc-link.html)|[Remove-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AG2VpcLink.html)|
 |[aws apigatewayv2 export-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/export-api.html)|[Export-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-AG2Api.html)|
@@ -63,12 +65,15 @@ description: aws apigatewayv2 (Amazon API Gateway) command/cmdlet list.
 |[aws apigatewayv2 get-route-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-route-response.html)|[Get-AG2RouteResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2RouteResponse.html)|
 |[aws apigatewayv2 get-route-responses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-route-responses.html)|[Get-AG2RouteResponseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2RouteResponseList.html)|
 |[aws apigatewayv2 get-routes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-routes.html)|[Get-AG2RouteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2RouteList.html)|
+|[aws apigatewayv2 get-routing-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-routing-rule.html)|[Get-AG2RoutingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2RoutingRule.html)|
 |[aws apigatewayv2 get-stage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-stage.html)|[Get-AG2Stage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Stage.html)|
 |[aws apigatewayv2 get-stages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-stages.html)|[Get-AG2StageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2StageList.html)|
 |[aws apigatewayv2 get-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-tags.html)|[Get-AG2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2Tag.html)|
 |[aws apigatewayv2 get-vpc-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-vpc-link.html)|[Get-AG2VpcLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2VpcLink.html)|
 |[aws apigatewayv2 get-vpc-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/get-vpc-links.html)|[Get-AG2VpcLinkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2VpcLinkList.html)|
 |[aws apigatewayv2 import-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/import-api.html)|[Import-AG2Api](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-AG2Api.html)|
+|[aws apigatewayv2 list-routing-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/list-routing-rules.html)|[Get-AG2RoutingRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AG2RoutingRuleList.html)|
+|[aws apigatewayv2 put-routing-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/put-routing-rule.html)|[Write-AG2RoutingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AG2RoutingRule.html)|
 |[aws apigatewayv2 reimport-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/reimport-api.html)|[Update-AG2ApiImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AG2ApiImport.html)|
 |[aws apigatewayv2 reset-authorizers-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/reset-authorizers-cache.html)|[Reset-AG2AuthorizersCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-AG2AuthorizersCache.html)|
 |[aws apigatewayv2 tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/apigatewayv2/tag-resource.html)|[Add-AG2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AG2ResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: marketplace-reporting
-date: 2025-05-28
+date: 2025-06-05
 description: aws marketplace-reporting (AWS Marketplace Reporting) command/cmdlet list.
 ---
 

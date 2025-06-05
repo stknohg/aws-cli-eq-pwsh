@@ -871,8 +871,14 @@
   },
   "evidently": {
     "Prefix": "CWEVD",
-    "Name": " Amazon CloudWatch Evidently",
+    "Name": "Amazon CloudWatch Evidently",
     "Url": "https://aws.amazon.com/cloudwatch/",
+    "Note": ""
+  },
+  "evs": {
+    "Prefix": "EVS",
+    "Name": "Amazon Elastic VMware Service",
+    "Url": "https://aws.amazon.com/evs/",
     "Note": ""
   },
   "finspace": {

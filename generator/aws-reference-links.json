@@ -143,6 +143,7 @@
   "es": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elasticsearch_cmdlets.html",
   "events": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_CloudWatch_Events_cmdlets.html",
   "evidently": "https://docs.aws.amazon.com/powershell/latest/reference/items/CloudWatchEvidently_cmdlets.html",
+  "evs": "https://docs.aws.amazon.com/powershell/v4/reference/items/Evs_cmdlets.html",
   "finspace": "https://docs.aws.amazon.com/powershell/latest/reference/items/Finspace_cmdlets.html",
   "finspace-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/FinSpaceData_cmdlets.html",
   "firehose": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Kinesis_Firehose_cmdlets.html",

@@ -1,6 +1,6 @@
 ---
 title: backupsearch
-date: 2025-06-05
+date: 2025-06-12
 description: aws backupsearch (AWS Backup) command/cmdlet list.
 ---
 

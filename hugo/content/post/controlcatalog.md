@@ -1,6 +1,6 @@
 ---
 title: controlcatalog
-date: 2025-06-05
+date: 2025-06-12
 description: aws controlcatalog (AWS Control Catalog) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws controlcatalog (AWS Control Catalog) command/cmdlet list.
 |----|----|
 |[aws controlcatalog get-control](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controlcatalog/get-control.html)|[Get-CLCATControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CLCATControl.html)|
 |[aws controlcatalog list-common-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controlcatalog/list-common-controls.html)|[Get-CLCATCommonControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CLCATCommonControlList.html)|
+|[aws controlcatalog list-control-mappings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controlcatalog/list-control-mappings.html)|[Get-CLCATControlMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CLCATControlMappingList.html)|
 |[aws controlcatalog list-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controlcatalog/list-controls.html)|[Get-CLCATControlList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CLCATControlList.html)|
 |[aws controlcatalog list-domains](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controlcatalog/list-domains.html)|[Get-CLCATDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CLCATDomainList.html)|
 |[aws controlcatalog list-objectives](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/controlcatalog/list-objectives.html)|[Get-CLCATObjectiveList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CLCATObjectiveList.html)|

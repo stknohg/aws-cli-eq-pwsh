@@ -1,6 +1,6 @@
 ---
 title: application-autoscaling
-date: 2025-06-05
+date: 2025-06-12
 description: aws application-autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 

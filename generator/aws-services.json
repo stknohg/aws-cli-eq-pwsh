@@ -23,6 +23,12 @@
     "Url": "https://aws.amazon.com/private-ca/",
     "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
   },
+  "aiops": {
+    "Prefix": "AIOps",
+    "Name": "Amazon AI Operations",
+    "Url": "https://aws.amazon.com/what-is/aiops/",
+    "Note": ""
+  },
   "amp": {
     "Prefix": "PROM",
     "Name": "Amazon Managed Service for Prometheus",
@@ -1563,6 +1569,12 @@
     "Prefix": "MHS",
     "Name": "AWS Migration Hub Strategy Recommendations",
     "Url": "https://aws.amazon.com/migration-hub/",
+    "Note": ""
+  },
+  "mpa": {
+    "Prefix": "MPA",
+    "Name": "Multi-party approval for AWS Organizations",
+    "Url": "https://aws.amazon.com/organizations/",
     "Note": ""
   },
   "mq": {

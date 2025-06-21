@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-06-12
+date: 2025-06-21
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.27.34 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.839 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.27.40 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 4.1.845 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -24,6 +24,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority.|
+|[Amazon AI Operations](https://aws.amazon.com/what-is/aiops/)|[aiops]({{%relref "post/aiops.md" %}})|AIOps||
 |[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||
 |[AWS Amplify](https://aws.amazon.com/amplify/)|[amplify]({{%relref "post/amplify.md" %}})|AMP||
 |[AWS Amplify Backend](https://aws.amazon.com/amplify/)|[amplifybackend]({{%relref "post/amplifybackend.md" %}})|AMPB||
@@ -280,6 +281,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Migration Hub Config](https://aws.amazon.com/migration-hub/)|[migrationhub-config]({{%relref "post/migrationhub-config.md" %}})|MHC||
 |[AWS Migration Hub Orchestrator](https://aws.amazon.com/migration-hub/)|[migrationhuborchestrator]({{%relref "post/migrationhuborchestrator.md" %}})|MHO||
 |[AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/migration-hub/)|[migrationhubstrategy]({{%relref "post/migrationhubstrategy.md" %}})|MHS||
+|[Multi-party approval for AWS Organizations](https://aws.amazon.com/organizations/)|[mpa]({{%relref "post/mpa.md" %}})|MPA||
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||
 |[Amazon Mechanical Turk](https://www.mturk.com/)|[mturk]({{%relref "post/mturk.md" %}})|MTR||
 |[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/)|[mwaa]({{%relref "post/mwaa.md" %}})|MWAA||

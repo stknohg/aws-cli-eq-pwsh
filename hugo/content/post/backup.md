@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2025-06-12
+date: 2025-06-21
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws backup associate-backup-vault-mpa-approval-team](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/associate-backup-vault-mpa-approval-team.html)|[Add-BAKBackupVaultMpaApprovalTeam](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKBackupVaultMpaApprovalTeam.html)|
 |[aws backup cancel-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/cancel-legal-hold.html)|[Stop-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BAKLegalHold.html)|
 |[aws backup create-backup-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-plan.html)|[New-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupPlan.html)|
 |[aws backup create-backup-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-selection.html)|[New-BAKBackupSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupSelection.html)|
@@ -21,6 +22,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup create-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-legal-hold.html)|[New-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKLegalHold.html)|
 |[aws backup create-logically-air-gapped-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-logically-air-gapped-backup-vault.html)|[New-BAKLogicallyAirGappedBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKLogicallyAirGappedBackupVault.html)|
 |[aws backup create-report-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-report-plan.html)|[New-BAKReportPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKReportPlan.html)|
+|[aws backup create-restore-access-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-restore-access-backup-vault.html)|[New-BAKRestoreAccessBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKRestoreAccessBackupVault.html)|
 |[aws backup create-restore-testing-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-restore-testing-plan.html)|[New-BAKRestoreTestingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKRestoreTestingPlan.html)|
 |[aws backup create-restore-testing-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-restore-testing-selection.html)|[New-BAKRestoreTestingSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKRestoreTestingSelection.html)|
 |[aws backup delete-backup-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-plan.html)|[Remove-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupPlan.html)|
@@ -45,6 +47,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup describe-report-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-report-job.html)|[Get-BAKReportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKReportJob.html)|
 |[aws backup describe-report-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-report-plan.html)|[Get-BAKReportPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKReportPlan.html)|
 |[aws backup describe-restore-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-restore-job.html)|[Get-BAKRestoreJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJob.html)|
+|[aws backup disassociate-backup-vault-mpa-approval-team](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/disassociate-backup-vault-mpa-approval-team.html)|[Remove-BAKBackupVaultMpaApprovalTeam](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVaultMpaApprovalTeam.html)|
 |[aws backup disassociate-recovery-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/disassociate-recovery-point.html)|[Unlock-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Unlock-BAKRecoveryPoint.html)|
 |[aws backup disassociate-recovery-point-from-parent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/disassociate-recovery-point-from-parent.html)|[Move-BAKRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-BAKRecoveryPoint.html)|
 |[aws backup export-backup-plan-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/export-backup-plan-template.html)|[Export-BAKBackupPlanTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-BAKBackupPlanTemplate.html)|
@@ -81,6 +84,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup list-recovery-points-by-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-recovery-points-by-resource.html)|[Get-BAKRecoveryPointsByResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointsByResourceList.html)|
 |[aws backup list-report-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-report-jobs.html)|[Get-BAKReportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKReportJobList.html)|
 |[aws backup list-report-plans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-report-plans.html)|[Get-BAKReportPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKReportPlanList.html)|
+|[aws backup list-restore-access-backup-vaults](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-restore-access-backup-vaults.html)|[Get-BAKRestoreAccessBackupVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreAccessBackupVaultList.html)|
 |[aws backup list-restore-job-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-restore-job-summaries.html)|[Get-BAKRestoreJobSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobSummaryList.html)|
 |[aws backup list-restore-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-restore-jobs.html)|[Get-BAKRestoreJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobList.html)|
 |[aws backup list-restore-jobs-by-protected-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-restore-jobs-by-protected-resource.html)|[Get-BAKRestoreJobsByProtectedResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobsByProtectedResourceList.html)|
@@ -91,6 +95,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup put-backup-vault-lock-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/put-backup-vault-lock-configuration.html)|[Write-BAKBackupVaultLockConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultLockConfiguration.html)|
 |[aws backup put-backup-vault-notifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/put-backup-vault-notifications.html)|[Write-BAKBackupVaultNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKBackupVaultNotification.html)|
 |[aws backup put-restore-validation-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/put-restore-validation-result.html)|[Write-BAKRestoreValidationResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BAKRestoreValidationResult.html)|
+|[aws backup revoke-restore-access-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/revoke-restore-access-backup-vault.html)|[Revoke-BAKRestoreAccessBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-BAKRestoreAccessBackupVault.html)|
 |[aws backup start-backup-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/start-backup-job.html)|[Start-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKBackupJob.html)|
 |[aws backup start-copy-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/start-copy-job.html)|[Start-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKCopyJob.html)|
 |[aws backup start-report-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/start-report-job.html)|[Start-BAKReportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BAKReportJob.html)|

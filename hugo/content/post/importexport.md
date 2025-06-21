@@ -1,6 +1,6 @@
 ---
 title: importexport
-date: 2025-06-12
+date: 2025-06-21
 description: aws importexport (AWS Import/Export) command/cmdlet list.
 ---
 

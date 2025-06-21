@@ -1,6 +1,6 @@
 ---
 title: service-quotas
-date: 2025-06-12
+date: 2025-06-21
 description: aws service-quotas (AWS Service Quotas) command/cmdlet list.
 ---
 

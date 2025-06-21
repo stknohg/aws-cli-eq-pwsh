@@ -1,6 +1,6 @@
 ---
 title: lakeformation
-date: 2025-06-12
+date: 2025-06-21
 description: aws lakeformation (AWS Lake Formation) command/cmdlet list.
 ---
 

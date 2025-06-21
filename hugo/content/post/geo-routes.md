@@ -1,6 +1,6 @@
 ---
 title: geo-routes
-date: 2025-06-12
+date: 2025-06-21
 description: aws geo-routes (Amazon Location Service Routes V2) command/cmdlet list.
 ---
 

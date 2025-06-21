@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2025-06-12
+date: 2025-06-21
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -110,6 +110,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api put-object-retention](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-retention.html)|[Write-S3ObjectRetention](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectRetention.html)|
 |[aws s3api put-object-tagging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-tagging.html)|[Write-S3ObjectTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectTagSet.html)|
 |[aws s3api put-public-access-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-public-access-block.html)|[Add-S3PublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3PublicAccessBlock.html)|
+|[aws s3api rename-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/rename-object.html)|[Rename-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Rename-S3Object.html)|
 |[aws s3api restore-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/restore-object.html)|[Restore-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-S3Object.html)|
 |[aws s3api select-object-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/select-object-content.html)|[Select-S3ObjectContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Select-S3ObjectContent.html)|
 |[aws s3api upload-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/upload-part.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|

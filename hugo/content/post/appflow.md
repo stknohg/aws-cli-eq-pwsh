@@ -1,6 +1,6 @@
 ---
 title: appflow
-date: 2025-06-12
+date: 2025-06-21
 description: aws appflow (Amazon AppFlow) command/cmdlet list.
 ---
 

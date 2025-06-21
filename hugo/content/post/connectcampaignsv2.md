@@ -1,6 +1,6 @@
 ---
 title: connectcampaignsv2
-date: 2025-06-12
+date: 2025-06-21
 description: aws connectcampaignsv2 (Amazon Connect Outbound Campaigns V2) command/cmdlet list.
 ---
 
@@ -25,12 +25,14 @@ description: aws connectcampaignsv2 (Amazon Connect Outbound Campaigns V2) comma
 |[aws connectcampaignsv2 get-campaign-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/get-campaign-state.html)|[Get-CCS2CampaignState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2CampaignState.html)|
 |[aws connectcampaignsv2 get-campaign-state-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/get-campaign-state-batch.html)|[Get-CCS2CampaignStateBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2CampaignStateBatch.html)|
 |[aws connectcampaignsv2 get-connect-instance-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/get-connect-instance-config.html)|[Get-CCS2ConnectInstanceConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2ConnectInstanceConfig.html)|
+|[aws connectcampaignsv2 get-instance-communication-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/get-instance-communication-limits.html)|[Get-CCS2InstanceCommunicationLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2InstanceCommunicationLimit.html)|
 |[aws connectcampaignsv2 get-instance-onboarding-job-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/get-instance-onboarding-job-status.html)|[Get-CCS2InstanceOnboardingJobStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2InstanceOnboardingJobStatus.html)|
 |[aws connectcampaignsv2 list-campaigns](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/list-campaigns.html)|[Get-CCS2CampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2CampaignList.html)|
 |[aws connectcampaignsv2 list-connect-instance-integrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/list-connect-instance-integrations.html)|[Get-CCS2ConnectInstanceIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2ConnectInstanceIntegrationList.html)|
 |[aws connectcampaignsv2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/list-tags-for-resource.html)|[Get-CCS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCS2ResourceTag.html)|
 |[aws connectcampaignsv2 pause-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/pause-campaign.html)|[Suspend-CCS2Campaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-CCS2Campaign.html)|
 |[aws connectcampaignsv2 put-connect-instance-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-connect-instance-integration.html)|[Write-CCS2ConnectInstanceIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2ConnectInstanceIntegration.html)|
+|[aws connectcampaignsv2 put-instance-communication-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-instance-communication-limits.html)|[Write-CCS2InstanceCommunicationLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2InstanceCommunicationLimit.html)|
 |[aws connectcampaignsv2 put-outbound-request-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-outbound-request-batch.html)|[Write-CCS2OutboundRequestBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2OutboundRequestBatch.html)|
 |[aws connectcampaignsv2 put-profile-outbound-request-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/put-profile-outbound-request-batch.html)|[Write-CCS2ProfileOutboundRequestBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCS2ProfileOutboundRequestBatch.html)|
 |[aws connectcampaignsv2 resume-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcampaignsv2/resume-campaign.html)|[Resume-CCS2Campaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CCS2Campaign.html)|

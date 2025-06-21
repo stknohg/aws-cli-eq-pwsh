@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2025-06-12
+date: 2025-06-21
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws bedrock batch-delete-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/batch-delete-evaluation-job.html)|[Set-BDRBatchDeleteEvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-BDRBatchDeleteEvaluationJob.html)|
+|[aws bedrock create-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-custom-model.html)|[New-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRCustomModel.html)|
 |[aws bedrock create-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-evaluation-job.html)|[New-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDREvaluationJob.html)|
 |[aws bedrock create-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail.html)|[New-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrail.html)|
 |[aws bedrock create-guardrail-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail-version.html)|[New-BDRGuardrailVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrailVersion.html)|

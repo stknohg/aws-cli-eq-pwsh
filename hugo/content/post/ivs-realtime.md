@@ -1,6 +1,6 @@
 ---
 title: ivs-realtime
-date: 2025-06-21
+date: 2025-06-24
 description: aws ivs-realtime (Amazon Interactive Video Service RealTime) command/cmdlet list.
 ---
 

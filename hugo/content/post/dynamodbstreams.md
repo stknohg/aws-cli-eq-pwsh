@@ -1,6 +1,6 @@
 ---
 title: dynamodbstreams
-date: 2025-06-21
+date: 2025-06-24
 description: aws dynamodbstreams (Amazon DynamoDB Streams) command/cmdlet list.
 ---
 
@@ -13,8 +13,8 @@ description: aws dynamodbstreams (Amazon DynamoDB Streams) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws dynamodbstreams describe-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodbstreams/describe-stream.html)|[Get-DDBStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBStream.html)|
+|[aws dynamodbstreams describe-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodbstreams/describe-stream.html)||
 |[aws dynamodbstreams get-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodbstreams/get-records.html)||
 |[aws dynamodbstreams get-shard-iterator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodbstreams/get-shard-iterator.html)||
-|[aws dynamodbstreams list-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodbstreams/list-streams.html)|[Get-DDBStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBStreamList.html)|
+|[aws dynamodbstreams list-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodbstreams/list-streams.html)||
 

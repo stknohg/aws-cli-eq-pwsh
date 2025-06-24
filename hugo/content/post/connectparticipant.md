@@ -1,6 +1,6 @@
 ---
 title: connectparticipant
-date: 2025-06-21
+date: 2025-06-24
 description: aws connectparticipant (Amazon Connect Participant Service) command/cmdlet list.
 ---
 

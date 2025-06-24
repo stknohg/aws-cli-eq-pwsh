@@ -1,6 +1,6 @@
 ---
 title: cloudcontrol
-date: 2025-06-21
+date: 2025-06-24
 description: aws cloudcontrol (AWS Cloud Control API) command/cmdlet list.
 ---
 

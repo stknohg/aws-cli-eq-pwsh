@@ -1,6 +1,6 @@
 ---
 title: voice-id
-date: 2025-06-21
+date: 2025-06-24
 description: aws voice-id (Amazon Connect Voice ID) command/cmdlet list.
 ---
 

@@ -405,6 +405,7 @@
   "workmail": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMail_cmdlets.html",
   "workmailmessageflow": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMailMessageFlow_cmdlets.html",
   "workspaces": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkSpaces_cmdlets.html",
+  "workspaces-instances": "https://docs.aws.amazon.com/powershell/v5/reference/items/WorkspacesInstances_cmdlets.html",
   "workspaces-thin-client": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkSpacesThinClient_cmdlets.html",
   "workspaces-web": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkSpacesWeb_cmdlets.html",
   "xray": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_X-Ray_cmdlets.html"

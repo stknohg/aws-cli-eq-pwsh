@@ -2447,6 +2447,12 @@
     "Url": "https://aws.amazon.com/workspaces/",
     "Note": ""
   },
+  "workspaces-instances": {
+    "Prefix": "WKSI",
+    "Name": "Amazon WorkSpaces Instances",
+    "Url": "https://aws.amazon.com/workspaces/",
+    "Note": ""
+  },
   "workspaces-thin-client": {
     "Prefix": "WSTC",
     "Name": "Amazon WorkSpaces Thin Client",

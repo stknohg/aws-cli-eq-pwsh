@@ -1,6 +1,6 @@
 ---
 title: batch
-date: 2025-06-24
+date: 2025-06-27
 description: aws batch (AWS Batch) command/cmdlet list.
 ---
 

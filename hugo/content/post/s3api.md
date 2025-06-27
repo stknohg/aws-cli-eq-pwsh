@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2025-06-24
+date: 2025-06-27
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -39,7 +39,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api delete-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-objects.html)|[Remove-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3Object.html)|
 |[aws s3api delete-public-access-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-public-access-block.html)|[Remove-S3PublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3PublicAccessBlock.html)|
 |[aws s3api get-bucket-accelerate-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-accelerate-configuration.html)|[Get-S3BucketAccelerateConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketAccelerateConfiguration.html)|
-|[aws s3api get-bucket-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-acl.html)|[Get-S3ACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ACL.html)|
+|[aws s3api get-bucket-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-acl.html)|[Get-S3BucketACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketACL.html)|
 |[aws s3api get-bucket-analytics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-analytics-configuration.html)|[Get-S3BucketAnalyticsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketAnalyticsConfiguration.html)|
 |[aws s3api get-bucket-cors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-cors.html)|[Get-S3CORSConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3CORSConfiguration.html)|
 |[aws s3api get-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-encryption.html)|[Get-S3BucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketEncryption.html)|
@@ -62,7 +62,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api get-bucket-versioning](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-versioning.html)|[Get-S3BucketVersioning](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketVersioning.html)|
 |[aws s3api get-bucket-website](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-website.html)|[Get-S3BucketWebsite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketWebsite.html)|
 |[aws s3api get-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object.html)|[Read-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-S3Object.html)|
-|[aws s3api get-object-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-acl.html)|[Get-S3ACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ACL.html)|
+|[aws s3api get-object-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-acl.html)|[Get-S3ObjectACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectACL.html)|
 |[aws s3api get-object-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-attributes.html)|[Get-S3ObjectAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectAttribute.html)|
 |[aws s3api get-object-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-legal-hold.html)|[Get-S3ObjectLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectLegalHold.html)|
 |[aws s3api get-object-lock-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-lock-configuration.html)|[Get-S3ObjectLockConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectLockConfiguration.html)|
@@ -84,7 +84,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api list-objects-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects-v2.html)|[Get-S3ObjectV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectV2.html)|
 |[aws s3api list-parts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-parts.html)||
 |[aws s3api put-bucket-accelerate-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-accelerate-configuration.html)|[Write-S3BucketAccelerateConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketAccelerateConfiguration.html)|
-|[aws s3api put-bucket-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-acl.html)|[Set-S3ACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3ACL.html)|
+|[aws s3api put-bucket-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-acl.html)|[Set-S3BucketACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3BucketACL.html)|
 |[aws s3api put-bucket-analytics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-analytics-configuration.html)|[Write-S3BucketAnalyticsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketAnalyticsConfiguration.html)|
 |[aws s3api put-bucket-cors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-cors.html)|[Write-S3CORSConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3CORSConfiguration.html)|
 |[aws s3api put-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-encryption.html)|[Set-S3BucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3BucketEncryption.html)|
@@ -104,7 +104,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api put-bucket-versioning](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-versioning.html)|[Write-S3BucketVersioning](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketVersioning.html)|
 |[aws s3api put-bucket-website](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-website.html)|[Write-S3BucketWebsite](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketWebsite.html)|
 |[aws s3api put-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|
-|[aws s3api put-object-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-acl.html)|[Set-S3ACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3ACL.html)|
+|[aws s3api put-object-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-acl.html)|[Set-S3ObjectACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3ObjectACL.html)|
 |[aws s3api put-object-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-legal-hold.html)|[Write-S3ObjectLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectLegalHold.html)|
 |[aws s3api put-object-lock-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-lock-configuration.html)|[Write-S3ObjectLockConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectLockConfiguration.html)|
 |[aws s3api put-object-retention](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-retention.html)|[Write-S3ObjectRetention](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectRetention.html)|

@@ -1,6 +1,6 @@
 ---
 title: devicefarm
-date: 2025-06-24
+date: 2025-06-27
 description: aws devicefarm (AWS Device Farm) command/cmdlet list.
 ---
 

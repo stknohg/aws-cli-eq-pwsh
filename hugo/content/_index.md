@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-06-24
+date: 2025-06-27
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.27.41 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.27.44 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -226,6 +226,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Kendra](https://aws.amazon.com/kendra/)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
 |[Amazon Kendra Intelligent Ranking](https://aws.amazon.com/kendra/)|[kendra-ranking]({{%relref "post/kendra-ranking.md" %}})|KNRK||
 |[Amazon Keyspaces](https://aws.amazon.com/keyspaces/)|[keyspaces]({{%relref "post/keyspaces.md" %}})|KS||
+|[Amazon Keyspaces Streams API](https://aws.amazon.com/keyspaces/)|[keyspacesstreams]({{%relref "post/keyspacesstreams.md" %}})|KST||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis]({{%relref "post/kinesis.md" %}})|KIN||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesis-video-archived-media]({{%relref "post/kinesis-video-archived-media.md" %}})|||
 |[Amazon Kinesis Video Streams Media](https://aws.amazon.com/kinesis/)|[kinesis-video-media]({{%relref "post/kinesis-video-media.md" %}})|KVM||

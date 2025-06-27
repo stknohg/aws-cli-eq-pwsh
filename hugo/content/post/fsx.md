@@ -1,6 +1,6 @@
 ---
 title: fsx
-date: 2025-06-24
+date: 2025-06-27
 description: aws fsx (Amazon FSx) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx cancel-data-repository-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/cancel-data-repository-task.html)|[Stop-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-FSXDataRepositoryTask.html)|
 |[aws fsx copy-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/copy-backup.html)|[Copy-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-FSXBackup.html)|
 |[aws fsx copy-snapshot-and-update-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/copy-snapshot-and-update-volume.html)|[Copy-FSXSnapshotAndUpdateVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-FSXSnapshotAndUpdateVolume.html)|
+|[aws fsx create-and-attach-s3-access-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/create-and-attach-s3-access-point.html)|[New-FSXAndAttachS3AccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXAndAttachS3AccessPoint.html)|
 |[aws fsx create-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/create-backup.html)|[New-FSXBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXBackup.html)|
 |[aws fsx create-data-repository-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/create-data-repository-association.html)|[New-FSXDataRepositoryAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryAssociation.html)|
 |[aws fsx create-data-repository-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/create-data-repository-task.html)|[New-FSXDataRepositoryTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-FSXDataRepositoryTask.html)|
@@ -40,10 +41,12 @@ description: aws fsx (Amazon FSx) command/cmdlet list.
 |[aws fsx describe-file-caches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-file-caches.html)|[Get-FSXFileCach](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileCach.html)|
 |[aws fsx describe-file-system-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-file-system-aliases.html)|[Get-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystemAlias.html)|
 |[aws fsx describe-file-systems](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-file-systems.html)|[Get-FSXFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXFileSystem.html)|
+|[aws fsx describe-s3-access-point-attachments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-s3-access-point-attachments.html)|[Get-FSXS3AccessPointAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXS3AccessPointAttachment.html)|
 |[aws fsx describe-shared-vpc-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-shared-vpc-configuration.html)|[Get-FSXSharedVpcConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXSharedVpcConfiguration.html)|
 |[aws fsx describe-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-snapshots.html)|[Get-FSXSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXSnapshot.html)|
 |[aws fsx describe-storage-virtual-machines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-storage-virtual-machines.html)|[Get-FSXStorageVirtualMachine](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXStorageVirtualMachine.html)|
 |[aws fsx describe-volumes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/describe-volumes.html)|[Get-FSXVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXVolume.html)|
+|[aws fsx detach-and-delete-s3-access-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/detach-and-delete-s3-access-point.html)|[Dismount-FSXAndDeleteS3AccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-FSXAndDeleteS3AccessPoint.html)|
 |[aws fsx disassociate-file-system-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/disassociate-file-system-aliases.html)|[Unregister-FSXFileSystemAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-FSXFileSystemAlias.html)|
 |[aws fsx list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/list-tags-for-resource.html)|[Get-FSXResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-FSXResourceTagList.html)|
 |[aws fsx release-file-system-nfs-v3-locks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/fsx/release-file-system-nfs-v3-locks.html)|[Clear-FSXFileSystemNfsV3Lock](https://docs.aws.amazon.com/powershell/latest/reference/items/Clear-FSXFileSystemNfsV3Lock.html)|

@@ -1241,6 +1241,12 @@
     "Url": "https://aws.amazon.com/keyspaces/",
     "Note": ""
   },
+  "keyspacesstreams": {
+    "Prefix": "",
+    "Name": "Amazon Keyspaces Streams API",
+    "Url": "https://aws.amazon.com/keyspaces/",
+    "Note": ""
+  },
   "kinesis": {
     "Prefix": "KIN",
     "Name": "Amazon Kinesis",

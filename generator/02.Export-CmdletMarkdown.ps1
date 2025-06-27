@@ -41,7 +41,6 @@ $g_SubCommandAlias = @{
     'docdb'                        = 'doc';
     'ds-data'                      = 'dsd'; 
     'dynamodb'                     = 'ddb';
-    'dynamodbstreams'              = 'ddb';
     'elasticbeanstalk'             = 'eb';
     'elastictranscoder'            = 'ets';
     'elbv2'                        = 'elb2';
@@ -118,11 +117,6 @@ $g_CmdletReferenceLinks = Get-Content -LiteralPath "./aws-reference-links.json" 
 
 # Special operation mapping for S3API
 $g_S3APIOperationsMapping = @{
-    # PowerShell cmdlets treat bucket ACL and object ACL the same.
-    'get-bucket-acl'                        = 'GetACL'
-    'get-object-acl'                        = 'GetACL'
-    'put-bucket-acl'                        = 'PutACL'
-    'put-object-acl'                        = 'PutACL'
     # S3 lifecycle API is special
     'delete-bucket-lifecycle'               = 'DeleteLifecycleConfiguration' # "DeleteBucketLifecycle" is correct, but PowerShell cmdlet returns incorrect name. 
     'get-bucket-lifecycle'                  = '----'                         # GetBucketLifecycle is old API.

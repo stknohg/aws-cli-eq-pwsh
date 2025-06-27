@@ -1242,7 +1242,7 @@
     "Note": ""
   },
   "keyspacesstreams": {
-    "Prefix": "",
+    "Prefix": "KST",
     "Name": "Amazon Keyspaces Streams API",
     "Url": "https://aws.amazon.com/keyspaces/",
     "Note": ""

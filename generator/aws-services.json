@@ -1667,6 +1667,12 @@
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": ""
   },
+  "odb": {
+    "Prefix": "ODB",
+    "Name": "Oracle Database@AWS",
+    "Url": "https://aws.amazon.com/marketplace/featured-seller/oracle/",
+    "Note": ""
+  },
   "omics": {
     "Prefix": "OMICS",
     "Name": "AWS HealthOmics",

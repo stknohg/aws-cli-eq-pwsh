@@ -1,6 +1,6 @@
 ---
 title: acm
-date: 2025-06-27
+date: 2025-07-07
 description: aws acm (AWS Certificate Manager) command/cmdlet list.
 ---
 

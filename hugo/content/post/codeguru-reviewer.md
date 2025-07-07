@@ -1,6 +1,6 @@
 ---
 title: codeguru-reviewer
-date: 2025-06-27
+date: 2025-07-07
 description: aws codeguru-reviewer (Amazon CodeGuru Reviewer) command/cmdlet list.
 ---
 

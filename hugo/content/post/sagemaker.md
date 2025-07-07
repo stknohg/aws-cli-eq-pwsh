@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2025-06-27
+date: 2025-07-07
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -43,6 +43,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker create-feature-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-feature-group.html)|[New-SMFeatureGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMFeatureGroup.html)|
 |[aws sagemaker create-flow-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-flow-definition.html)|[New-SMFlowDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMFlowDefinition.html)|
 |[aws sagemaker create-hub](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-hub.html)|[New-SMHub](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMHub.html)|
+|[aws sagemaker create-hub-content-presigned-urls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-hub-content-presigned-urls.html)|[New-SMHubContentPresignedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMHubContentPresignedUrl.html)|
 |[aws sagemaker create-hub-content-reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-hub-content-reference.html)|[New-SMHubContentReference](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMHubContentReference.html)|
 |[aws sagemaker create-human-task-ui](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-human-task-ui.html)|[New-SMHumanTaskUi](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMHumanTaskUi.html)|
 |[aws sagemaker create-hyper-parameter-tuning-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/create-hyper-parameter-tuning-job.html)|[New-SMHyperParameterTuningJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMHyperParameterTuningJob.html)|
@@ -312,6 +313,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker start-monitoring-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-monitoring-schedule.html)|[Start-SMMonitoringSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMMonitoringSchedule.html)|
 |[aws sagemaker start-notebook-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-notebook-instance.html)|[Start-SMNotebookInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMNotebookInstance.html)|
 |[aws sagemaker start-pipeline-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-pipeline-execution.html)|[Start-SMPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMPipelineExecution.html)|
+|[aws sagemaker start-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-session.html)|[Start-SMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMSession.html)|
 |[aws sagemaker stop-auto-ml-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/stop-auto-ml-job.html)|[Stop-SMAutoMLJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMAutoMLJob.html)|
 |[aws sagemaker stop-compilation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/stop-compilation-job.html)|[Stop-SMCompilationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMCompilationJob.html)|
 |[aws sagemaker stop-edge-deployment-stage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/stop-edge-deployment-stage.html)|[Stop-SMEdgeDeploymentStage](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SMEdgeDeploymentStage.html)|

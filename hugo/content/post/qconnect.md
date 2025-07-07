@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2025-06-27
+date: 2025-07-07
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: cleanroomsml
-date: 2025-06-27
+date: 2025-07-07
 description: aws cleanroomsml (AWS Clean Rooms ML) command/cmdlet list.
 ---
 
@@ -60,6 +60,7 @@ description: aws cleanroomsml (AWS Clean Rooms ML) command/cmdlet list.
 |[aws cleanroomsml list-ml-input-channels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/list-ml-input-channels.html)|[Get-CRMLMLInputChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLMLInputChannelList.html)|
 |[aws cleanroomsml list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/list-tags-for-resource.html)|[Get-CRMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLResourceTag.html)|
 |[aws cleanroomsml list-trained-model-inference-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/list-trained-model-inference-jobs.html)|[Get-CRMLTrainedModelInferenceJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLTrainedModelInferenceJobList.html)|
+|[aws cleanroomsml list-trained-model-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/list-trained-model-versions.html)|[Get-CRMLTrainedModelVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLTrainedModelVersionList.html)|
 |[aws cleanroomsml list-trained-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/list-trained-models.html)|[Get-CRMLTrainedModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLTrainedModelList.html)|
 |[aws cleanroomsml list-training-datasets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/list-training-datasets.html)|[Get-CRMLTrainingDatasetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRMLTrainingDatasetList.html)|
 |[aws cleanroomsml put-configured-audience-model-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanroomsml/put-configured-audience-model-policy.html)|[Write-CRMLConfiguredAudienceModelPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CRMLConfiguredAudienceModelPolicy.html)|

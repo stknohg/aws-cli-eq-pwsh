@@ -1,6 +1,6 @@
 ---
 title: connectcases
-date: 2025-06-27
+date: 2025-07-07
 description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 ---
 
@@ -23,10 +23,12 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 |[aws connectcases create-layout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/create-layout.html)|[New-CCASLayout](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASLayout.html)|
 |[aws connectcases create-related-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/create-related-item.html)|[New-CCASRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASRelatedItem.html)|
 |[aws connectcases create-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/create-template.html)|[New-CCASTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASTemplate.html)|
+|[aws connectcases delete-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-case.html)|[Remove-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASCase.html)|
 |[aws connectcases delete-case-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-case-rule.html)|[Remove-CCASCaseRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASCaseRule.html)|
 |[aws connectcases delete-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-domain.html)|[Remove-CCASDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASDomain.html)|
 |[aws connectcases delete-field](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-field.html)|[Remove-CCASField](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASField.html)|
 |[aws connectcases delete-layout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-layout.html)|[Remove-CCASLayout](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASLayout.html)|
+|[aws connectcases delete-related-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-related-item.html)|[Remove-CCASRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASRelatedItem.html)|
 |[aws connectcases delete-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/delete-template.html)|[Remove-CCASTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASTemplate.html)|
 |[aws connectcases get-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-case.html)|[Get-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCase.html)|
 |[aws connectcases get-case-audit-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-case-audit-events.html)|[Get-CCASCaseAuditEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCaseAuditEvent.html)|

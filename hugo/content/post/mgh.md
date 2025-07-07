@@ -1,6 +1,6 @@
 ---
 title: mgh
-date: 2025-06-27
+date: 2025-07-07
 description: aws mgh (AWS Migration Hub) command/cmdlet list.
 ---
 

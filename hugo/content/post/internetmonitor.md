@@ -1,6 +1,6 @@
 ---
 title: internetmonitor
-date: 2025-07-07
+date: 2025-07-10
 description: aws internetmonitor (Amazon CloudWatch Internet Monitor) command/cmdlet list.
 ---
 

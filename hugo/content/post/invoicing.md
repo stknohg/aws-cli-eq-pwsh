@@ -1,6 +1,6 @@
 ---
 title: invoicing
-date: 2025-07-07
+date: 2025-07-10
 description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ---
 

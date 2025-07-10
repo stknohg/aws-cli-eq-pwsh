@@ -1,6 +1,6 @@
 ---
 title: groundstation
-date: 2025-07-07
+date: 2025-07-10
 description: aws groundstation (AWS Ground Station) command/cmdlet list.
 ---
 

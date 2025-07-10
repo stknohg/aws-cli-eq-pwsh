@@ -1,6 +1,6 @@
 ---
 title: controltower
-date: 2025-07-07
+date: 2025-07-10
 description: aws controltower (AWS Control Tower) command/cmdlet list.
 ---
 

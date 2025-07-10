@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2025-07-07
+date: 2025-07-10
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -266,6 +266,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-capacity-block-extension-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-block-extension-history.html)|[Get-EC2CapacityBlockExtensionHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlockExtensionHistory.html)|
 |[aws ec2 describe-capacity-block-extension-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-block-extension-offerings.html)|[Get-EC2CapacityBlockExtensionOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlockExtensionOffering.html)|
 |[aws ec2 describe-capacity-block-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-block-offerings.html)|[Get-EC2CapacityBlockOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlockOffering.html)|
+|[aws ec2 describe-capacity-block-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-block-status.html)|[Get-EC2CapacityBlockStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlockStatus.html)|
+|[aws ec2 describe-capacity-blocks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-blocks.html)|[Get-EC2CapacityBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlock.html)|
 |[aws ec2 describe-capacity-reservation-billing-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-billing-requests.html)|[Get-EC2CapacityReservationBillingRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationBillingRequest.html)|
 |[aws ec2 describe-capacity-reservation-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-fleets.html)|[Get-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationFleet.html)|
 |[aws ec2 describe-capacity-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservations.html)|[Get-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservation.html)|

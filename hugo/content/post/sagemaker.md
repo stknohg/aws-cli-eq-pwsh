@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2025-07-10
+date: 2025-07-26
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -280,6 +280,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker list-pipeline-execution-steps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-pipeline-execution-steps.html)|[Get-SMPipelineExecutionStepList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineExecutionStepList.html)|
 |[aws sagemaker list-pipeline-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-pipeline-executions.html)|[Get-SMPipelineExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineExecutionList.html)|
 |[aws sagemaker list-pipeline-parameters-for-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-pipeline-parameters-for-execution.html)|[Get-SMPipelineParametersForExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineParametersForExecutionList.html)|
+|[aws sagemaker list-pipeline-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-pipeline-versions.html)|[Get-SMPipelineVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineVersionList.html)|
 |[aws sagemaker list-pipelines](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-pipelines.html)|[Get-SMPipelineList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMPipelineList.html)|
 |[aws sagemaker list-processing-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-processing-jobs.html)|[Get-SMProcessingJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProcessingJobList.html)|
 |[aws sagemaker list-projects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/list-projects.html)|[Get-SMProjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMProjectList.html)|
@@ -365,6 +366,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker update-partner-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-partner-app.html)|[Update-SMPartnerApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMPartnerApp.html)|
 |[aws sagemaker update-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-pipeline.html)|[Update-SMPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMPipeline.html)|
 |[aws sagemaker update-pipeline-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-pipeline-execution.html)|[Update-SMPipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMPipelineExecution.html)|
+|[aws sagemaker update-pipeline-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-pipeline-version.html)|[Update-SMPipelineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMPipelineVersion.html)|
 |[aws sagemaker update-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-project.html)|[Update-SMProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMProject.html)|
 |[aws sagemaker update-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-space.html)|[Update-SMSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMSpace.html)|
 |[aws sagemaker update-training-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/update-training-job.html)|[Update-SMTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMTrainingJob.html)|

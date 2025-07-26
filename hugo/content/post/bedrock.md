@@ -1,6 +1,6 @@
 ---
 title: bedrock
-date: 2025-07-10
+date: 2025-07-26
 description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |----|----|
 |[aws bedrock batch-delete-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/batch-delete-evaluation-job.html)|[Set-BDRBatchDeleteEvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-BDRBatchDeleteEvaluationJob.html)|
 |[aws bedrock create-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-custom-model.html)|[New-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRCustomModel.html)|
+|[aws bedrock create-custom-model-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-custom-model-deployment.html)|[New-BDRCustomModelDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRCustomModelDeployment.html)|
 |[aws bedrock create-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-evaluation-job.html)|[New-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDREvaluationJob.html)|
 |[aws bedrock create-foundation-model-agreement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-foundation-model-agreement.html)|[New-BDRFoundationModelAgreement](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRFoundationModelAgreement.html)|
 |[aws bedrock create-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-guardrail.html)|[New-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRGuardrail.html)|
@@ -28,6 +29,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock create-prompt-router](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-prompt-router.html)|[New-BDRPromptRouter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRPromptRouter.html)|
 |[aws bedrock create-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/create-provisioned-model-throughput.html)|[New-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BDRProvisionedModelThroughput.html)|
 |[aws bedrock delete-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-custom-model.html)|[Remove-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRCustomModel.html)|
+|[aws bedrock delete-custom-model-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-custom-model-deployment.html)|[Remove-BDRCustomModelDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRCustomModelDeployment.html)|
 |[aws bedrock delete-foundation-model-agreement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-foundation-model-agreement.html)|[Remove-BDRFoundationModelAgreement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRFoundationModelAgreement.html)|
 |[aws bedrock delete-guardrail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-guardrail.html)|[Remove-BDRGuardrail](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRGuardrail.html)|
 |[aws bedrock delete-imported-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-imported-model.html)|[Remove-BDRImportedModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRImportedModel.html)|
@@ -38,6 +40,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock delete-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/delete-provisioned-model-throughput.html)|[Remove-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BDRProvisionedModelThroughput.html)|
 |[aws bedrock deregister-marketplace-model-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/deregister-marketplace-model-endpoint.html)|[Unregister-BDRMarketplaceModelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-BDRMarketplaceModelEndpoint.html)|
 |[aws bedrock get-custom-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-custom-model.html)|[Get-BDRCustomModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRCustomModel.html)|
+|[aws bedrock get-custom-model-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-custom-model-deployment.html)|[Get-BDRCustomModelDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRCustomModelDeployment.html)|
 |[aws bedrock get-evaluation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-evaluation-job.html)|[Get-BDREvaluationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDREvaluationJob.html)|
 |[aws bedrock get-foundation-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-foundation-model.html)|[Get-BDRFoundationModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModel.html)|
 |[aws bedrock get-foundation-model-availability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-foundation-model-availability.html)|[Get-BDRFoundationModelAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModelAvailability.html)|
@@ -53,6 +56,7 @@ description: aws bedrock (Amazon Bedrock) command/cmdlet list.
 |[aws bedrock get-prompt-router](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-prompt-router.html)|[Get-BDRPromptRouter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRPromptRouter.html)|
 |[aws bedrock get-provisioned-model-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-provisioned-model-throughput.html)|[Get-BDRProvisionedModelThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRProvisionedModelThroughput.html)|
 |[aws bedrock get-use-case-for-model-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/get-use-case-for-model-access.html)|[Get-BDRUseCaseForModelAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRUseCaseForModelAccess.html)|
+|[aws bedrock list-custom-model-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-custom-model-deployments.html)|[Get-BDRCustomModelDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRCustomModelDeploymentList.html)|
 |[aws bedrock list-custom-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-custom-models.html)|[Get-BDRCustomModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRCustomModelList.html)|
 |[aws bedrock list-evaluation-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-evaluation-jobs.html)|[Get-BDREvaluationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDREvaluationJobList.html)|
 |[aws bedrock list-foundation-model-agreement-offers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock/list-foundation-model-agreement-offers.html)|[Get-BDRFoundationModelAgreementOfferList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BDRFoundationModelAgreementOfferList.html)|

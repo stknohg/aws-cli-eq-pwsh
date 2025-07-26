@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2025-07-10
+date: 2025-07-26
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts get-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-connection.html)|[Get-OUTPConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPConnection.html)|
 |[aws outposts get-order](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-order.html)|[Get-OUTPOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOrder.html)|
 |[aws outposts get-outpost](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost.html)|[Get-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpost.html)|
+|[aws outposts get-outpost-billing-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-billing-information.html)|[Get-OUTPOutpostBillingInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostBillingInformation.html)|
 |[aws outposts get-outpost-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
 |[aws outposts get-outpost-supported-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-supported-instance-types.html)|[Get-OUTPOutpostSupportedInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostSupportedInstanceType.html)|
 |[aws outposts get-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-site.html)|[Get-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSite.html)|

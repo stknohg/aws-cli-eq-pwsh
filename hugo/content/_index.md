@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-07-10
+date: 2025-07-26
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.27.50 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.9 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.27.60 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.19 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -62,6 +62,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|AAB||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|BAR||
+|[Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)|[bedrock-agentcore]({{%relref "post/bedrock-agentcore.md" %}})|BAC||
+|[Amazon Bedrock AgentCore](https://aws.amazon.com/bedrock/agentcore/)|[bedrock-agentcore-control]({{%relref "post/bedrock-agentcore-control.md" %}})|BACC||
 |[Amazon Bedrock Data Automation](https://aws.amazon.com/bedrock/bda/)|[bedrock-data-automation]({{%relref "post/bedrock-data-automation.md" %}})|BDA||
 |[Amazon Bedrock Data Automation](https://aws.amazon.com/bedrock/bda/)|[bedrock-data-automation-runtime]({{%relref "post/bedrock-data-automation-runtime.md" %}})|BDAR||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock-runtime]({{%relref "post/bedrock-runtime.md" %}})|BDRR||
@@ -359,6 +361,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3control]({{%relref "post/s3control.md" %}})|S3C||
 |[Amazon S3 on Outposts](https://aws.amazon.com/outposts/)|[s3outposts]({{%relref "post/s3outposts.md" %}})|S3O||
 |[Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)|[s3tables]({{%relref "post/s3tables.md" %}})|S3T||
+|[Amazon S3 Vectors](https://aws.amazon.com/s3/features/vectors/)|[s3vectors]({{%relref "post/s3vectors.md" %}})|S3V||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker]({{%relref "post/sagemaker.md" %}})|SM||
 |[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/)|[sagemaker-a2i-runtime]({{%relref "post/sagemaker-a2i-runtime.md" %}})|A2IR||
 |[Amazon SageMaker Edge Manager](https://aws.amazon.com/sagemaker/edge-manager/)|[sagemaker-edge]({{%relref "post/sagemaker-edge.md" %}})|SME||

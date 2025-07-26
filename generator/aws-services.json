@@ -251,6 +251,18 @@
     "Url": "https://aws.amazon.com/bedrock/agents/",
     "Note": ""
   },
+  "bedrock-agentcore": {
+    "Prefix": "BAC",
+    "Name": "Amazon Bedrock AgentCore",
+    "Url": "https://aws.amazon.com/bedrock/agentcore/",
+    "Note": ""
+  },
+  "bedrock-agentcore-control": {
+    "Prefix": "BACC",
+    "Name": "Amazon Bedrock AgentCore",
+    "Url": "https://aws.amazon.com/bedrock/agentcore/",
+    "Note": ""
+  },
   "bedrock-data-automation": {
     "Prefix": "BDA",
     "Name": "Amazon Bedrock Data Automation",
@@ -2037,6 +2049,12 @@
     "Prefix": "S3T",
     "Name": "Amazon S3 Tables",
     "Url": "https://aws.amazon.com/s3/features/tables/",
+    "Note": ""
+  },
+  "s3vectors": {
+    "Prefix": "S3V",
+    "Name": "Amazon S3 Vectors",
+    "Url": "https://aws.amazon.com/s3/features/vectors/",
     "Note": ""
   },
   "sagemaker": {

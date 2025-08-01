@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore
-date: 2025-07-26
+date: 2025-08-01
 description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 

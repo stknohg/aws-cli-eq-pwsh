@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2025-07-26
+date: 2025-08-01
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 
@@ -23,10 +23,12 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds create-computer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-computer.html)|[New-DSComputer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSComputer.html)|
 |[aws ds create-conditional-forwarder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-conditional-forwarder.html)|[New-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSConditionalForwarder.html)|
 |[aws ds create-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-directory.html)|[New-DSDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSDirectory.html)|
+|[aws ds create-hybrid-ad](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-hybrid-ad.html)|[New-DSHybridAD](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSHybridAD.html)|
 |[aws ds create-log-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-log-subscription.html)|[New-DSLogSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSLogSubscription.html)|
 |[aws ds create-microsoft-ad](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-microsoft-ad.html)|[New-DSMicrosoftAD](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSMicrosoftAD.html)|
 |[aws ds create-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-snapshot.html)|[New-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSSnapshot.html)|
 |[aws ds create-trust](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/create-trust.html)|[New-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DSTrust.html)|
+|[aws ds delete-ad-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/delete-ad-assessment.html)|[Remove-DSADAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSADAssessment.html)|
 |[aws ds delete-conditional-forwarder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/delete-conditional-forwarder.html)|[Remove-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSConditionalForwarder.html)|
 |[aws ds delete-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/delete-directory.html)|[Remove-DSDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSDirectory.html)|
 |[aws ds delete-log-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/delete-log-subscription.html)|[Remove-DSLogSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSLogSubscription.html)|
@@ -34,6 +36,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds delete-trust](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/delete-trust.html)|[Remove-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DSTrust.html)|
 |[aws ds deregister-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/deregister-certificate.html)|[Unregister-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSCertificate.html)|
 |[aws ds deregister-event-topic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/deregister-event-topic.html)|[Unregister-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSEventTopic.html)|
+|[aws ds describe-ad-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-ad-assessment.html)|[Get-DSADAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSADAssessment.html)|
 |[aws ds describe-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-certificate.html)|[Get-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCertificate.html)|
 |[aws ds describe-client-authentication-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-client-authentication-settings.html)|[Get-DSClientAuthenticationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSClientAuthenticationSetting.html)|
 |[aws ds describe-conditional-forwarders](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-conditional-forwarders.html)|[Get-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSConditionalForwarder.html)|
@@ -41,6 +44,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds describe-directory-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-directory-data-access.html)|[Get-DSDirectoryDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectoryDataAccess.html)|
 |[aws ds describe-domain-controllers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-domain-controllers.html)|[Get-DSDomainControllerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDomainControllerList.html)|
 |[aws ds describe-event-topics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-event-topics.html)|[Get-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSEventTopic.html)|
+|[aws ds describe-hybrid-ad-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-hybrid-ad-update.html)|[Get-DSHybridADUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSHybridADUpdate.html)|
 |[aws ds describe-ldaps-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-ldaps-settings.html)|[Get-DSLDAPSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLDAPSSetting.html)|
 |[aws ds describe-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-regions.html)|[Get-DSRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSRegion.html)|
 |[aws ds describe-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-settings.html)|[Get-DSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSetting.html)|
@@ -60,6 +64,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds enable-sso](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-sso.html)|[Enable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSSso.html)|
 |[aws ds get-directory-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/get-directory-limits.html)|[Get-DSDirectoryLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSDirectoryLimit.html)|
 |[aws ds get-snapshot-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/get-snapshot-limits.html)|[Get-DSSnapshotLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshotLimit.html)|
+|[aws ds list-ad-assessments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/list-ad-assessments.html)|[Get-DSADAssessmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSADAssessmentList.html)|
 |[aws ds list-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/list-certificates.html)|[Get-DSCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCertificateList.html)|
 |[aws ds list-ip-routes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/list-ip-routes.html)|[Get-DSIpRouteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSIpRouteList.html)|
 |[aws ds list-log-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/list-log-subscriptions.html)|[Get-DSLogSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSLogSubscriptionList.html)|
@@ -74,10 +79,12 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds reset-user-password](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/reset-user-password.html)|[Reset-DSUserPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-DSUserPassword.html)|
 |[aws ds restore-from-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/restore-from-snapshot.html)|[Restore-DSFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DSFromSnapshot.html)|
 |[aws ds share-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/share-directory.html)|[Enable-DSDirectoryShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSDirectoryShare.html)|
+|[aws ds start-ad-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/start-ad-assessment.html)|[Start-DSADAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DSADAssessment.html)|
 |[aws ds start-schema-extension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/start-schema-extension.html)|[Start-DSSchemaExtension](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DSSchemaExtension.html)|
 |[aws ds unshare-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/unshare-directory.html)|[Disable-DSDirectoryShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSDirectoryShare.html)|
 |[aws ds update-conditional-forwarder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/update-conditional-forwarder.html)|[Update-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSConditionalForwarder.html)|
 |[aws ds update-directory-setup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/update-directory-setup.html)|[Update-DSDirectorySetup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSDirectorySetup.html)|
+|[aws ds update-hybrid-ad](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/update-hybrid-ad.html)|[Update-DSHybridAD](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSHybridAD.html)|
 |[aws ds update-number-of-domain-controllers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/update-number-of-domain-controllers.html)|[Set-DSDomainControllerCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DSDomainControllerCount.html)|
 |[aws ds update-radius](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/update-radius.html)|[Update-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSRadius.html)|
 |[aws ds update-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/update-settings.html)|[Update-DSSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DSSetting.html)|

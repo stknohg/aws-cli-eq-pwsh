@@ -1,6 +1,6 @@
 ---
 title: oam
-date: 2025-07-26
+date: 2025-08-01
 description: aws oam (Amazon CloudWatch Observability Access Manager) command/cmdlet list.
 ---
 

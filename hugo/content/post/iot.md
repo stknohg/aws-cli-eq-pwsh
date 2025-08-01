@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2025-07-26
+date: 2025-08-01
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -114,6 +114,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot describe-detect-mitigation-actions-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-detect-mitigation-actions-task.html)|[Get-IOTDetectMitigationActionsTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDetectMitigationActionsTask.html)|
 |[aws iot describe-dimension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-dimension.html)|[Get-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDimension.html)|
 |[aws iot describe-domain-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-domain-configuration.html)|[Get-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTDomainConfiguration.html)|
+|[aws iot describe-encryption-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-encryption-configuration.html)|[Get-IOTEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEncryptionConfiguration.html)|
 |[aws iot describe-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-endpoint.html)|[Get-IOTEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEndpoint.html)|
 |[aws iot describe-event-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-event-configurations.html)|[Get-IOTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTEventConfiguration.html)|
 |[aws iot describe-fleet-metric](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-fleet-metric.html)|[Get-IOTFleetMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTFleetMetric.html)|
@@ -264,6 +265,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot update-dimension](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-dimension.html)|[Update-IOTDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDimension.html)|
 |[aws iot update-domain-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-domain-configuration.html)|[Update-IOTDomainConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDomainConfiguration.html)|
 |[aws iot update-dynamic-thing-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-dynamic-thing-group.html)|[Update-IOTDynamicThingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTDynamicThingGroup.html)|
+|[aws iot update-encryption-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-encryption-configuration.html)|[Update-IOTEncryptionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTEncryptionConfiguration.html)|
 |[aws iot update-event-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-event-configurations.html)|[Update-IOTEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTEventConfiguration.html)|
 |[aws iot update-fleet-metric](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-fleet-metric.html)|[Update-IOTFleetMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTFleetMetric.html)|
 |[aws iot update-indexing-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/update-indexing-configuration.html)|[Update-IOTIndexingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IOTIndexingConfiguration.html)|

@@ -1,6 +1,6 @@
 ---
 title: kendra
-date: 2025-07-26
+date: 2025-08-01
 description: aws kendra (Amazon Kendra) command/cmdlet list.
 ---
 

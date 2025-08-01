@@ -1,6 +1,6 @@
 ---
 title: iot-managed-integrations
-date: 2025-07-26
+date: 2025-08-01
 description: aws iot-managed-integrations (Managed integrations for AWS IoT Device Management) command/cmdlet list.
 ---
 

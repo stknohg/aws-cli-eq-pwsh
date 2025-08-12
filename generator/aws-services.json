@@ -155,6 +155,12 @@
     "Url": "https://aws.amazon.com/mainframe-modernization/capabilities/testing/",
     "Note": ""
   },
+  "arc-region-switch": {
+    "Prefix": "ARC",
+    "Name": "Amazon Route 53 Application Recovery Controller",
+    "Url": "https://aws.amazon.com/route53/application-recovery-controller/",
+    "Note": "Region switch"
+  },
   "arc-zonal-shift": {
     "Prefix": "AZS",
     "Name": "Amazon Route 53 Application Recovery Controller",

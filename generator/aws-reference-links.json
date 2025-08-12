@@ -25,6 +25,7 @@
   "appstream": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppStream_cmdlets.html",
   "appsync": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppSync_cmdlets.html",
   "apptest": "https://docs.aws.amazon.com/powershell/latest/reference/items/AppTest_cmdlets.html",
+  "arc-region-switch": "https://docs.aws.amazon.com/powershell/latest/reference/items/ARCRegionswitch_cmdlets.html",
   "arc-zonal-shift": "https://docs.aws.amazon.com/powershell/latest/reference/items/ARCZonalShift_cmdlets.html",
   "artifact": "https://docs.aws.amazon.com/powershell/latest/reference/items/Artifact_cmdlets.html",
   "athena": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Athena_cmdlets.html",

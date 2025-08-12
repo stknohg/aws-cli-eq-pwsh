@@ -1,6 +1,6 @@
 ---
 title: iot-data
-date: 2025-08-01
+date: 2025-08-12
 description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws iot-data delete-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/delete-connection.html)||
 |[aws iot-data delete-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/delete-thing-shadow.html)||
 |[aws iot-data get-retained-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-retained-message.html)||
 |[aws iot-data get-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-thing-shadow.html)||

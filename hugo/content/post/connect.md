@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-08-01
+date: 2025-08-12
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -135,6 +135,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect dismiss-user-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/dismiss-user-contact.html)|[Write-CONNUserContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CONNUserContact.html)|
 |[aws connect get-attached-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-attached-file.html)|[Get-CONNAttachedFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAttachedFile.html)|
 |[aws connect get-contact-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-contact-attributes.html)|[Get-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactAttribute.html)|
+|[aws connect get-contact-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-contact-metrics.html)|[Get-CONNContactMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactMetric.html)|
 |[aws connect get-current-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-current-metric-data.html)|[Get-CONNCurrentMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentMetricData.html)|
 |[aws connect get-current-user-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-current-user-data.html)|[Get-CONNCurrentUserData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentUserData.html)|
 |[aws connect get-effective-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-effective-hours-of-operations.html)|[Get-CONNEffectiveHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEffectiveHoursOfOperation.html)|

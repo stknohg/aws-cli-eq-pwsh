@@ -1,6 +1,6 @@
 ---
 title: qbusiness
-date: 2025-08-01
+date: 2025-08-12
 description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 
@@ -49,6 +49,7 @@ description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 |[aws qbusiness get-chat-response-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-chat-response-configuration.html)|[Get-QBUSChatResponseConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSChatResponseConfiguration.html)|
 |[aws qbusiness get-data-accessor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-data-accessor.html)|[Get-QBUSDataAccessor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDataAccessor.html)|
 |[aws qbusiness get-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-data-source.html)|[Get-QBUSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDataSource.html)|
+|[aws qbusiness get-document-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-document-content.html)|[Get-QBUSDocumentContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSDocumentContent.html)|
 |[aws qbusiness get-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-group.html)|[Get-QBUSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSGroup.html)|
 |[aws qbusiness get-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-index.html)|[Get-QBUSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSIndex.html)|
 |[aws qbusiness get-media](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qbusiness/get-media.html)|[Get-QBUSMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QBUSMedia.html)|

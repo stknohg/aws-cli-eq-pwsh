@@ -227,6 +227,12 @@
     "Url": "https://aws.amazon.com/batch/",
     "Note": ""
   },
+  "bcm-dashboards": {
+    "Prefix": "BCMD",
+    "Name": "AWS Billing and Cost Management Dashboards",
+    "Url": "https://aws.amazon.com/aws-cost-management/",
+    "Note": ""
+  },
   "bcm-data-exports": {
     "Prefix": "BCMDE",
     "Name": "Data Exports for AWS Billing and Cost Management",
@@ -236,6 +242,12 @@
   "bcm-pricing-calculator": {
     "Prefix": "BCMPC",
     "Name": "AWS Billing and Cost Management Pricing Calculator",
+    "Url": "https://aws.amazon.com/aws-cost-management/",
+    "Note": ""
+  },
+  "bcm-recommended-actions": {
+    "Prefix": "BCMRA",
+    "Name": "AWS Billing And Cost Management Recommended Actions",
     "Url": "https://aws.amazon.com/aws-cost-management/",
     "Note": ""
   },

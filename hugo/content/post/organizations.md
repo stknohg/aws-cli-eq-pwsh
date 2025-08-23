@@ -1,6 +1,6 @@
 ---
 title: organizations
-date: 2025-08-12
+date: 2025-08-23
 description: aws organizations (AWS Organizations) command/cmdlet list.
 ---
 
@@ -46,11 +46,13 @@ description: aws organizations (AWS Organizations) command/cmdlet list.
 |[aws organizations leave-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/leave-organization.html)|[Remove-ORGOrganizationAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ORGOrganizationAssociation.html)|
 |[aws organizations list-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-accounts.html)|[Get-ORGAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountList.html)|
 |[aws organizations list-accounts-for-parent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-accounts-for-parent.html)|[Get-ORGAccountForParent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountForParent.html)|
+|[aws organizations list-accounts-with-invalid-effective-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-accounts-with-invalid-effective-policy.html)|[Get-ORGAccountsWithInvalidEffectivePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountsWithInvalidEffectivePolicyList.html)|
 |[aws organizations list-aws-service-access-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-aws-service-access-for-organization.html)|[Get-ORGAWSServiceAccessForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAWSServiceAccessForOrganization.html)|
 |[aws organizations list-children](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-children.html)|[Get-ORGChild](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGChild.html)|
 |[aws organizations list-create-account-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-create-account-status.html)|[Get-ORGAccountCreationStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountCreationStatusList.html)|
 |[aws organizations list-delegated-administrators](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-delegated-administrators.html)|[Get-ORGDelegatedAdministratorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGDelegatedAdministratorList.html)|
 |[aws organizations list-delegated-services-for-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-delegated-services-for-account.html)|[Get-ORGDelegatedServicesForAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGDelegatedServicesForAccountList.html)|
+|[aws organizations list-effective-policy-validation-errors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-effective-policy-validation-errors.html)|[Get-ORGEffectivePolicyValidationErrorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGEffectivePolicyValidationErrorList.html)|
 |[aws organizations list-handshakes-for-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-handshakes-for-account.html)|[Get-ORGAccountHandshakeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGAccountHandshakeList.html)|
 |[aws organizations list-handshakes-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-handshakes-for-organization.html)|[Get-ORGOrganizationHandshakeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGOrganizationHandshakeList.html)|
 |[aws organizations list-organizational-units-for-parent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/organizations/list-organizational-units-for-parent.html)|[Get-ORGOrganizationalUnitList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ORGOrganizationalUnitList.html)|

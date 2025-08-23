@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2025-08-12
+date: 2025-08-23
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone associate-environment-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/associate-environment-role.html)|[Set-DZEnvironmentRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DZEnvironmentRole.html)|
 |[aws datazone cancel-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/cancel-metadata-generation-run.html)|[Stop-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZMetadataGenerationRun.html)|
 |[aws datazone cancel-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/cancel-subscription.html)|[Stop-DZSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZSubscription.html)|
+|[aws datazone create-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-account-pool.html)|[New-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAccountPool.html)|
 |[aws datazone create-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-asset.html)|[New-DZAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAsset.html)|
 |[aws datazone create-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-asset-filter.html)|[New-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAssetFilter.html)|
 |[aws datazone create-asset-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-asset-revision.html)|[New-DZAssetRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAssetRevision.html)|
@@ -46,6 +47,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone create-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-subscription-request.html)|[New-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZSubscriptionRequest.html)|
 |[aws datazone create-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-subscription-target.html)|[New-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZSubscriptionTarget.html)|
 |[aws datazone create-user-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-user-profile.html)|[New-DZUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZUserProfile.html)|
+|[aws datazone delete-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-account-pool.html)|[Remove-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAccountPool.html)|
 |[aws datazone delete-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset.html)|[Remove-DZAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAsset.html)|
 |[aws datazone delete-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset-filter.html)|[Remove-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAssetFilter.html)|
 |[aws datazone delete-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset-type.html)|[Remove-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAssetType.html)|
@@ -71,6 +73,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-subscription-target.html)|[Remove-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZSubscriptionTarget.html)|
 |[aws datazone delete-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-time-series-data-points.html)|[Remove-DZTimeSeriesDataPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZTimeSeriesDataPoint.html)|
 |[aws datazone disassociate-environment-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/disassociate-environment-role.html)|[Reset-DZEnvironmentRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-DZEnvironmentRole.html)|
+|[aws datazone get-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-account-pool.html)|[Get-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAccountPool.html)|
 |[aws datazone get-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset.html)|[Get-DZAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAsset.html)|
 |[aws datazone get-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-filter.html)|[Get-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetFilter.html)|
 |[aws datazone get-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-type.html)|[Get-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetType.html)|
@@ -105,6 +108,8 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-subscription-target.html)|[Get-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZSubscriptionTarget.html)|
 |[aws datazone get-time-series-data-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-time-series-data-point.html)|[Get-DZTimeSeriesDataPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZTimeSeriesDataPoint.html)|
 |[aws datazone get-user-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-user-profile.html)|[Get-DZUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZUserProfile.html)|
+|[aws datazone list-account-pools](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-account-pools.html)|[Get-DZAccountPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAccountPoolList.html)|
+|[aws datazone list-accounts-in-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-accounts-in-account-pool.html)|[Get-DZAccountsInAccountPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAccountsInAccountPoolList.html)|
 |[aws datazone list-asset-filters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-asset-filters.html)|[Get-DZAssetFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetFilterList.html)|
 |[aws datazone list-asset-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-asset-revisions.html)|[Get-DZAssetRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetRevisionList.html)|
 |[aws datazone list-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-connections.html)|[Get-DZConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZConnectionList.html)|
@@ -153,6 +158,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone start-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-metadata-generation-run.html)|[Start-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZMetadataGenerationRun.html)|
 |[aws datazone tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/tag-resource.html)|[Add-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZResourceTag.html)|
 |[aws datazone untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/untag-resource.html)|[Remove-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZResourceTag.html)|
+|[aws datazone update-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-account-pool.html)|[Update-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZAccountPool.html)|
 |[aws datazone update-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-asset-filter.html)|[Update-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZAssetFilter.html)|
 |[aws datazone update-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-connection.html)|[Update-DZConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZConnection.html)|
 |[aws datazone update-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-data-source.html)|[Update-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZDataSource.html)|

@@ -1,6 +1,6 @@
 ---
 title: workspaces
-date: 2025-08-12
+date: 2025-08-23
 description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 ---
 
@@ -50,6 +50,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces describe-connect-client-add-ins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-connect-client-add-ins.html)|[Get-WKSConnectClientAddIn](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSConnectClientAddIn.html)|
 |[aws workspaces describe-connection-alias-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-connection-alias-permissions.html)|[Get-WKSConnectionAliasPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSConnectionAliasPermission.html)|
 |[aws workspaces describe-connection-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-connection-aliases.html)|[Get-WKSConnectionAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSConnectionAlias.html)|
+|[aws workspaces describe-custom-workspace-image-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-custom-workspace-image-import.html)|[Get-WKSCustomWorkspaceImageImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSCustomWorkspaceImageImport.html)|
 |[aws workspaces describe-image-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-image-associations.html)|[Get-WKSImageAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSImageAssociation.html)|
 |[aws workspaces describe-ip-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-ip-groups.html)|[Get-WKSIpGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSIpGroup.html)|
 |[aws workspaces describe-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/describe-tags.html)|[Get-WKSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSTag.html)|
@@ -68,6 +69,7 @@ description: aws workspaces (Amazon WorkSpaces) command/cmdlet list.
 |[aws workspaces disassociate-workspace-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/disassociate-workspace-application.html)|[Unregister-WKSWorkspaceApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-WKSWorkspaceApplication.html)|
 |[aws workspaces get-account-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/get-account-link.html)|[Get-WKSAccountLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccountLink.html)|
 |[aws workspaces import-client-branding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/import-client-branding.html)|[Import-WKSClientBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSClientBranding.html)|
+|[aws workspaces import-custom-workspace-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/import-custom-workspace-image.html)|[Import-WKSCustomWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSCustomWorkspaceImage.html)|
 |[aws workspaces import-workspace-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/import-workspace-image.html)|[Import-WKSWorkspaceImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-WKSWorkspaceImage.html)|
 |[aws workspaces list-account-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/list-account-links.html)|[Get-WKSAccountLinkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAccountLinkList.html)|
 |[aws workspaces list-available-management-cidr-ranges](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces/list-available-management-cidr-ranges.html)|[Get-WKSAvailableManagementCidrRangeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSAvailableManagementCidrRangeList.html)|

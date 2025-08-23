@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2025-08-12
+date: 2025-08-23
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -568,6 +568,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-image-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-image-attribute.html)|[Edit-EC2ImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ImageAttribute.html)|
 |[aws ec2 modify-instance-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-attribute.html)|[Edit-EC2InstanceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceAttribute.html)|
 |[aws ec2 modify-instance-capacity-reservation-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-capacity-reservation-attributes.html)|[Edit-EC2InstanceCapacityReservationAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceCapacityReservationAttribute.html)|
+|[aws ec2 modify-instance-connect-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-connect-endpoint.html)|[Edit-EC2InstanceConnectEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceConnectEndpoint.html)|
 |[aws ec2 modify-instance-cpu-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-cpu-options.html)|[Edit-EC2InstanceCpuOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceCpuOption.html)|
 |[aws ec2 modify-instance-credit-specification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-credit-specification.html)|[Edit-EC2InstanceCreditSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceCreditSpecification.html)|
 |[aws ec2 modify-instance-event-start-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-instance-event-start-time.html)|[Edit-EC2InstanceEventStartTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2InstanceEventStartTime.html)|

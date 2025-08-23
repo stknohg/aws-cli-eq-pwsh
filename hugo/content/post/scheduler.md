@@ -1,6 +1,6 @@
 ---
 title: scheduler
-date: 2025-08-12
+date: 2025-08-23
 description: aws scheduler (Amazon EventBridge Scheduler) command/cmdlet list.
 ---
 

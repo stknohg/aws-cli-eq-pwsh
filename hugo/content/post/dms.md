@@ -1,6 +1,6 @@
 ---
 title: dms
-date: 2025-08-12
+date: 2025-08-23
 description: aws dms (AWS Database Migration Service) command/cmdlet list.
 ---
 

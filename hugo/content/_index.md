@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-08-12
+date: 2025-08-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.28.7 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.30 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.28.16 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.39 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -58,8 +58,10 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Backup](https://aws.amazon.com/backup/)|[backup-gateway]({{%relref "post/backup-gateway.md" %}})|BUGW|Backup gateway|
 |[AWS Backup](https://aws.amazon.com/backup/)|[backupsearch]({{%relref "post/backupsearch.md" %}})|BAKS|Backup Search|
 |[AWS Batch](https://aws.amazon.com/batch/)|[batch]({{%relref "post/batch.md" %}})|BAT||
+|[AWS Billing and Cost Management Dashboards](https://aws.amazon.com/aws-cost-management/)|[bcm-dashboards]({{%relref "post/bcm-dashboards.md" %}})|BCMD||
 |[Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/aws-cost-management/)|[bcm-data-exports]({{%relref "post/bcm-data-exports.md" %}})|BCMDE||
 |[AWS Billing and Cost Management Pricing Calculator](https://aws.amazon.com/aws-cost-management/)|[bcm-pricing-calculator]({{%relref "post/bcm-pricing-calculator.md" %}})|BCMPC||
+|[AWS Billing And Cost Management Recommended Actions](https://aws.amazon.com/aws-cost-management/)|[bcm-recommended-actions]({{%relref "post/bcm-recommended-actions.md" %}})|BCMRA||
 |[Amazon Bedrock](https://aws.amazon.com/bedrock/)|[bedrock]({{%relref "post/bedrock.md" %}})|BDR||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent]({{%relref "post/bedrock-agent.md" %}})|AAB||
 |[Agents for Amazon Bedrock](https://aws.amazon.com/bedrock/agents/)|[bedrock-agent-runtime]({{%relref "post/bedrock-agent-runtime.md" %}})|BAR||

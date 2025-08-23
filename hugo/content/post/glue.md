@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2025-08-12
+date: 2025-08-23
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue create-data-quality-ruleset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-data-quality-ruleset.html)|[New-GLUEDataQualityRuleset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDataQualityRuleset.html)|
 |[aws glue create-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-database.html)|[New-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDatabase.html)|
 |[aws glue create-dev-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-dev-endpoint.html)|[New-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEDevEndpoint.html)|
+|[aws glue create-glue-identity-center-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-glue-identity-center-configuration.html)|[New-GLUEGlueIdentityCenterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEGlueIdentityCenterConfiguration.html)|
 |[aws glue create-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-integration.html)|[New-GLUEIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEIntegration.html)|
 |[aws glue create-integration-resource-property](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-integration-resource-property.html)|[New-GLUEIntegrationResourceProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEIntegrationResourceProperty.html)|
 |[aws glue create-integration-table-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/create-integration-table-properties.html)|[New-GLUEIntegrationTableProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GLUEIntegrationTableProperty.html)|
@@ -76,6 +77,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-data-quality-ruleset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-data-quality-ruleset.html)|[Remove-GLUEDataQualityRuleset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDataQualityRuleset.html)|
 |[aws glue delete-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-database.html)|[Remove-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDatabase.html)|
 |[aws glue delete-dev-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-dev-endpoint.html)|[Remove-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDevEndpoint.html)|
+|[aws glue delete-glue-identity-center-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-glue-identity-center-configuration.html)|[Remove-GLUEGlueIdentityCenterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEGlueIdentityCenterConfiguration.html)|
 |[aws glue delete-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-integration.html)|[Remove-GLUEIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEIntegration.html)|
 |[aws glue delete-integration-table-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-integration-table-properties.html)|[Remove-GLUEIntegrationTableProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEIntegrationTableProperty.html)|
 |[aws glue delete-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-job.html)|[Remove-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEJob.html)|
@@ -131,6 +133,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-dev-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-dev-endpoint.html)|[Get-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpoint.html)|
 |[aws glue get-dev-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-dev-endpoints.html)|[Get-GLUEDevEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointList.html)|
 |[aws glue get-entity-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-entity-records.html)|[Get-GLUEEntityRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEEntityRecord.html)|
+|[aws glue get-glue-identity-center-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-glue-identity-center-configuration.html)|[Get-GLUEGlueIdentityCenterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGlueIdentityCenterConfiguration.html)|
 |[aws glue get-integration-resource-property](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-integration-resource-property.html)|[Get-GLUEIntegrationResourceProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIntegrationResourceProperty.html)|
 |[aws glue get-integration-table-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-integration-table-properties.html)|[Get-GLUEIntegrationTableProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIntegrationTableProperty.html)|
 |[aws glue get-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-job.html)|[Get-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJob.html)|
@@ -251,6 +254,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue update-data-quality-ruleset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-data-quality-ruleset.html)|[Update-GLUEDataQualityRuleset](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDataQualityRuleset.html)|
 |[aws glue update-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-database.html)|[Update-GLUEDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDatabase.html)|
 |[aws glue update-dev-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-dev-endpoint.html)|[Update-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEDevEndpoint.html)|
+|[aws glue update-glue-identity-center-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-glue-identity-center-configuration.html)|[Update-GLUEGlueIdentityCenterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEGlueIdentityCenterConfiguration.html)|
 |[aws glue update-integration-resource-property](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-integration-resource-property.html)|[Update-GLUEIntegrationResourceProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEIntegrationResourceProperty.html)|
 |[aws glue update-integration-table-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-integration-table-properties.html)|[Update-GLUEIntegrationTableProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEIntegrationTableProperty.html)|
 |[aws glue update-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-job.html)|[Update-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEJob.html)|

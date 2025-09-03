@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2025-08-23
+date: 2025-09-03
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks describe-fargate-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-fargate-profile.html)|[Get-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfile.html)|
 |[aws eks describe-identity-provider-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-identity-provider-config.html)|[Get-EKSIdentityProviderConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSIdentityProviderConfig.html)|
 |[aws eks describe-insight](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-insight.html)|[Get-EKSInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSInsight.html)|
+|[aws eks describe-insights-refresh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-insights-refresh.html)|[Get-EKSInsightsRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSInsightsRefresh.html)|
 |[aws eks describe-nodegroup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-nodegroup.html)|[Get-EKSNodegroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSNodegroup.html)|
 |[aws eks describe-pod-identity-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-pod-identity-association.html)|[Get-EKSPodIdentityAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSPodIdentityAssociation.html)|
 |[aws eks describe-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-update.html)|[Get-EKSUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdate.html)|
@@ -61,6 +62,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-tags-for-resource.html)|[Get-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSResourceTag.html)|
 |[aws eks list-updates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-updates.html)|[Get-EKSUpdateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSUpdateList.html)|
 |[aws eks register-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/register-cluster.html)|[Register-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EKSCluster.html)|
+|[aws eks start-insights-refresh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/start-insights-refresh.html)|[Start-EKSInsightsRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EKSInsightsRefresh.html)|
 |[aws eks tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/tag-resource.html)|[Add-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSResourceTag.html)|
 |[aws eks untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/untag-resource.html)|[Remove-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSResourceTag.html)|
 |[aws eks update-access-entry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-access-entry.html)|[Update-EKSAccessEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSAccessEntry.html)|

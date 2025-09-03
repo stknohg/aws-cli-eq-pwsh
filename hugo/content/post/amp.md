@@ -1,6 +1,6 @@
 ---
 title: amp
-date: 2025-08-23
+date: 2025-09-03
 description: aws amp (Amazon Managed Service for Prometheus) command/cmdlet list.
 ---
 

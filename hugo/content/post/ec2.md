@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2025-08-23
+date: 2025-09-03
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -91,6 +91,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-flow-logs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-flow-logs.html)|[New-EC2FlowLog](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2FlowLog.html)|
 |[aws ec2 create-fpga-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-fpga-image.html)|[New-EC2FpgaImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2FpgaImage.html)|
 |[aws ec2 create-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-image.html)|[New-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Image.html)|
+|[aws ec2 create-image-usage-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-image-usage-report.html)|[New-EC2ImageUsageReport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ImageUsageReport.html)|
 |[aws ec2 create-instance-connect-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-instance-connect-endpoint.html)|[New-EC2InstanceConnectEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceConnectEndpoint.html)|
 |[aws ec2 create-instance-event-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-instance-event-window.html)|[New-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceEventWindow.html)|
 |[aws ec2 create-instance-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-instance-export-task.html)|[New-EC2InstanceExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2InstanceExportTask.html)|
@@ -176,6 +177,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-fleets.html)|[Remove-EC2Fleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Fleet.html)|
 |[aws ec2 delete-flow-logs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-flow-logs.html)|[Remove-EC2FlowLog](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2FlowLog.html)|
 |[aws ec2 delete-fpga-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-fpga-image.html)|[Remove-EC2FpgaImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2FpgaImage.html)|
+|[aws ec2 delete-image-usage-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-image-usage-report.html)|[Remove-EC2ImageUsageReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2ImageUsageReport.html)|
 |[aws ec2 delete-instance-connect-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-instance-connect-endpoint.html)|[Remove-EC2InstanceConnectEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InstanceConnectEndpoint.html)|
 |[aws ec2 delete-instance-event-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-instance-event-window.html)|[Remove-EC2InstanceEventWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InstanceEventWindow.html)|
 |[aws ec2 delete-internet-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-internet-gateway.html)|[Remove-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2InternetGateway.html)|
@@ -302,6 +304,9 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-id-format](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-id-format.html)|[Get-EC2IdFormat](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IdFormat.html)|
 |[aws ec2 describe-identity-id-format](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-identity-id-format.html)|[Get-EC2IdentityIdFormat](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IdentityIdFormat.html)|
 |[aws ec2 describe-image-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-image-attribute.html)|[Get-EC2ImageAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImageAttribute.html)|
+|[aws ec2 describe-image-references](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-image-references.html)|[Get-EC2ImageReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImageReference.html)|
+|[aws ec2 describe-image-usage-report-entries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-image-usage-report-entries.html)|[Get-EC2ImageUsageReportEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImageUsageReportEntry.html)|
+|[aws ec2 describe-image-usage-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-image-usage-reports.html)|[Get-EC2ImageUsageReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImageUsageReport.html)|
 |[aws ec2 describe-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-images.html)|[Get-EC2Image](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2Image.html)|
 |[aws ec2 describe-import-image-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-import-image-tasks.html)|[Get-EC2ImportImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImportImageTask.html)|
 |[aws ec2 describe-import-snapshot-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-import-snapshot-tasks.html)|[Get-EC2ImportSnapshotTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ImportSnapshotTask.html)|

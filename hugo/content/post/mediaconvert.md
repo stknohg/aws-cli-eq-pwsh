@@ -1,6 +1,6 @@
 ---
 title: mediaconvert
-date: 2025-08-23
+date: 2025-09-03
 description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 |[aws mediaconvert create-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/create-job-template.html)|[New-EMCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCJobTemplate.html)|
 |[aws mediaconvert create-preset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/create-preset.html)|[New-EMCPreset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCPreset.html)|
 |[aws mediaconvert create-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/create-queue.html)|[New-EMCQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCQueue.html)|
+|[aws mediaconvert create-resource-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/create-resource-share.html)|[New-EMCResourceShare](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMCResourceShare.html)|
 |[aws mediaconvert delete-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/delete-job-template.html)|[Remove-EMCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCJobTemplate.html)|
 |[aws mediaconvert delete-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/delete-policy.html)|[Remove-EMCPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCPolicy.html)|
 |[aws mediaconvert delete-preset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/delete-preset.html)|[Remove-EMCPreset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCPreset.html)|

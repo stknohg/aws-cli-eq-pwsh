@@ -1,6 +1,6 @@
 ---
 title: neptune-graph
-date: 2025-08-23
+date: 2025-09-03
 description: aws neptune-graph (Amazon Neptune Analytics) command/cmdlet list.
 ---
 
@@ -41,7 +41,9 @@ description: aws neptune-graph (Amazon Neptune Analytics) command/cmdlet list.
 |[aws neptune-graph reset-graph](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/reset-graph.html)|[Reset-NEPTGGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-NEPTGGraph.html)|
 |[aws neptune-graph restore-graph-from-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/restore-graph-from-snapshot.html)|[Restore-NEPTGGraphFromSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-NEPTGGraphFromSnapshot.html)|
 |[aws neptune-graph start-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/start-export-task.html)|[Start-NEPTGExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTGExportTask.html)|
+|[aws neptune-graph start-graph](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/start-graph.html)|[Start-NEPTGGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTGGraph.html)|
 |[aws neptune-graph start-import-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/start-import-task.html)|[Start-NEPTGImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTGImportTask.html)|
+|[aws neptune-graph stop-graph](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/stop-graph.html)|[Stop-NEPTGGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NEPTGGraph.html)|
 |[aws neptune-graph tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/tag-resource.html)|[Add-NEPTGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-NEPTGResourceTag.html)|
 |[aws neptune-graph untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/untag-resource.html)|[Remove-NEPTGResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NEPTGResourceTag.html)|
 |[aws neptune-graph update-graph](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune-graph/update-graph.html)|[Update-NEPTGGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NEPTGGraph.html)|

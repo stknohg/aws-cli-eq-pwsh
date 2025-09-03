@@ -1,6 +1,6 @@
 ---
 title: datapipeline
-date: 2025-08-23
+date: 2025-09-03
 description: aws datapipeline (AWS Data Pipeline) command/cmdlet list.
 ---
 

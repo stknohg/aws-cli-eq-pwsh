@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2025-08-23
+date: 2025-09-03
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone add-entity-owner](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/add-entity-owner.html)|[Add-DZEntityOwner](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZEntityOwner.html)|
 |[aws datazone add-policy-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/add-policy-grant.html)|[Add-DZPolicyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZPolicyGrant.html)|
 |[aws datazone associate-environment-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/associate-environment-role.html)|[Set-DZEnvironmentRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DZEnvironmentRole.html)|
+|[aws datazone associate-governed-terms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/associate-governed-terms.html)|[Add-DZGovernedTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZGovernedTerm.html)|
 |[aws datazone cancel-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/cancel-metadata-generation-run.html)|[Stop-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZMetadataGenerationRun.html)|
 |[aws datazone cancel-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/cancel-subscription.html)|[Stop-DZSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZSubscription.html)|
 |[aws datazone create-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-account-pool.html)|[New-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAccountPool.html)|
@@ -73,6 +74,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-subscription-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-subscription-target.html)|[Remove-DZSubscriptionTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZSubscriptionTarget.html)|
 |[aws datazone delete-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-time-series-data-points.html)|[Remove-DZTimeSeriesDataPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZTimeSeriesDataPoint.html)|
 |[aws datazone disassociate-environment-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/disassociate-environment-role.html)|[Reset-DZEnvironmentRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-DZEnvironmentRole.html)|
+|[aws datazone disassociate-governed-terms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/disassociate-governed-terms.html)|[Remove-DZGovernedTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZGovernedTerm.html)|
 |[aws datazone get-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-account-pool.html)|[Get-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAccountPool.html)|
 |[aws datazone get-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset.html)|[Get-DZAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAsset.html)|
 |[aws datazone get-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-filter.html)|[Get-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetFilter.html)|

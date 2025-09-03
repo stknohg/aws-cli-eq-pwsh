@@ -1,6 +1,6 @@
 ---
 title: ds
-date: 2025-08-23
+date: 2025-09-03
 description: aws ds (AWS Directory Service) command/cmdlet list.
 ---
 
@@ -37,6 +37,7 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds deregister-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/deregister-certificate.html)|[Unregister-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSCertificate.html)|
 |[aws ds deregister-event-topic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/deregister-event-topic.html)|[Unregister-DSEventTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DSEventTopic.html)|
 |[aws ds describe-ad-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-ad-assessment.html)|[Get-DSADAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSADAssessment.html)|
+|[aws ds describe-ca-enrollment-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-ca-enrollment-policy.html)|[Get-DSCAEnrollmentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCAEnrollmentPolicy.html)|
 |[aws ds describe-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-certificate.html)|[Get-DSCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSCertificate.html)|
 |[aws ds describe-client-authentication-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-client-authentication-settings.html)|[Get-DSClientAuthenticationSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSClientAuthenticationSetting.html)|
 |[aws ds describe-conditional-forwarders](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-conditional-forwarders.html)|[Get-DSConditionalForwarder](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSConditionalForwarder.html)|
@@ -52,11 +53,13 @@ description: aws ds (AWS Directory Service) command/cmdlet list.
 |[aws ds describe-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-snapshots.html)|[Get-DSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSSnapshot.html)|
 |[aws ds describe-trusts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-trusts.html)|[Get-DSTrust](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSTrust.html)|
 |[aws ds describe-update-directory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/describe-update-directory.html)|[Get-DSUpdateDirectory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DSUpdateDirectory.html)|
+|[aws ds disable-ca-enrollment-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-ca-enrollment-policy.html)|[Disable-DSCAEnrollmentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSCAEnrollmentPolicy.html)|
 |[aws ds disable-client-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-client-authentication.html)|[Disable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSClientAuthentication.html)|
 |[aws ds disable-directory-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-directory-data-access.html)|[Disable-DSDirectoryDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSDirectoryDataAccess.html)|
 |[aws ds disable-ldaps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-ldaps.html)|[Disable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSLDAPS.html)|
 |[aws ds disable-radius](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-radius.html)|[Disable-DSRadius](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSRadius.html)|
 |[aws ds disable-sso](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/disable-sso.html)|[Disable-DSSso](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DSSso.html)|
+|[aws ds enable-ca-enrollment-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-ca-enrollment-policy.html)|[Enable-DSCAEnrollmentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSCAEnrollmentPolicy.html)|
 |[aws ds enable-client-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-client-authentication.html)|[Enable-DSClientAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSClientAuthentication.html)|
 |[aws ds enable-directory-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-directory-data-access.html)|[Enable-DSDirectoryDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSDirectoryDataAccess.html)|
 |[aws ds enable-ldaps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ds/enable-ldaps.html)|[Enable-DSLDAPS](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DSLDAPS.html)|

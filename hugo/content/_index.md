@@ -90,7 +90,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS CloudFormation](https://aws.amazon.com/cloudformation/)|[cloudformation]({{%relref "post/cloudformation.md" %}})|CFN||
 |[CloudFront KeyValueStore](https://aws.amazon.com/cloudfront/)|[cloudfront]({{%relref "post/cloudfront.md" %}})|CFKV||
 |[Amazon CloudFront](https://aws.amazon.com/cloudfront/)|[cloudfront-keyvaluestore]({{%relref "post/cloudfront-keyvaluestore.md" %}})|CF||
-|[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsm]({{%relref "post/cloudhsm.md" %}})|HSM||
+|[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsm]({{%relref "post/cloudhsm.md" %}})|HSM|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
 |[AWS CloudHSM](https://aws.amazon.com/cloudhsm/)|[cloudhsmv2]({{%relref "post/cloudhsmv2.md" %}})|HSM2||
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearch]({{%relref "post/cloudsearch.md" %}})|CS||
 |[Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)|[cloudsearchdomain]({{%relref "post/cloudsearchdomain.md" %}})|CSD||
@@ -170,7 +170,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EMR Serverless](https://aws.amazon.com/emr/serverless/)|[emr-serverless]({{%relref "post/emr-serverless.md" %}})|EMRServerless||
 |[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/)|[entityresolution]({{%relref "post/entityresolution.md" %}})|ERES||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
-|[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE||
+|[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
 |[Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
 |[Amazon Elastic VMware Service](https://aws.amazon.com/evs/)|[evs]({{%relref "post/evs.md" %}})|EVS||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
@@ -237,7 +237,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Kinesis Video Streams Media](https://aws.amazon.com/kinesis/)|[kinesis-video-media]({{%relref "post/kinesis-video-media.md" %}})|KVM||
 |[Amazon Kinesis Video Signaling Channels](https://aws.amazon.com/kinesis/)|[kinesis-video-signaling]({{%relref "post/kinesis-video-signaling.md" %}})|KVSC||
 |[Amazon Kinesis Video WebRTC Storage](https://aws.amazon.com/kinesis/)|[kinesis-video-webrtc-storage]({{%relref "post/kinesis-video-webrtc-storage.md" %}})|KVWS||
-|[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalytics]({{%relref "post/kinesisanalytics.md" %}})|KINA||
+|[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalytics]({{%relref "post/kinesisanalytics.md" %}})|KINA|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisanalyticsv2]({{%relref "post/kinesisanalyticsv2.md" %}})|KINA2||
 |[Amazon Kinesis](https://aws.amazon.com/kinesis/)|[kinesisvideo]({{%relref "post/kinesisvideo.md" %}})|KV||
 |[AWS Key Management Service](https://aws.amazon.com/kms/)|[kms]({{%relref "post/kms.md" %}})|KMS||

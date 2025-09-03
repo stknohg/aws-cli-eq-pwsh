@@ -1721,18 +1721,6 @@
     "Url": "https://aws.amazon.com/opensearch-service/features/serverless/",
     "Note": ""
   },
-  "opsworks": {
-    "Prefix": "OPS",
-    "Name": "AWS OpsWorks",
-    "Url": "https://aws.amazon.com/opsworks/",
-    "Note": ""
-  },
-  "opsworks-cm": {
-    "Prefix": "OWCM",
-    "Name": "AWS OpsWorks for configuration management",
-    "Url": "https://aws.amazon.com/opsworks/",
-    "Note": ""
-  },
   "organizations": {
     "Prefix": "ORG",
     "Name": "AWS Organizations",

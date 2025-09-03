@@ -284,8 +284,6 @@
   "omics": "https://docs.aws.amazon.com/powershell/latest/reference/items/Omics_cmdlets.html",
   "opensearch": "https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchService_cmdlets.html",
   "opensearchserverless": "https://docs.aws.amazon.com/powershell/latest/reference/items/OpenSearchServerless_cmdlets.html",
-  "opsworks": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorks_cmdlets.html",
-  "opsworks-cm": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_OpsWorksCM_cmdlets.html",
   "organizations": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Organizations_cmdlets.html",
   "osis": "https://docs.aws.amazon.com/powershell/latest/reference/items/OSIS_cmdlets.html",
   "outposts": "https://docs.aws.amazon.com/powershell/latest/reference/items/Outposts_cmdlets.html",

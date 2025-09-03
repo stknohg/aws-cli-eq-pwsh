@@ -423,7 +423,7 @@
     "Prefix": "HSM",
     "Name": "AWS CloudHSM",
     "Url": "https://aws.amazon.com/cloudhsm/",
-    "Note": ""
+    "Note": "Only available in AWSPowerShell, AWSPowerShell.NetCore modules."
   },
   "cloudhsmv2": {
     "Prefix": "HSM2",
@@ -903,7 +903,7 @@
     "Prefix": "CWE",
     "Name": "Amazon CloudWatch Events",
     "Url": "https://aws.amazon.com/cloudwatch/",
-    "Note": ""
+    "Note": "Only available in AWSPowerShell, AWSPowerShell.NetCore modules."
   },
   "evidently": {
     "Prefix": "CWEVD",
@@ -1311,7 +1311,7 @@
     "Prefix": "KINA",
     "Name": "Amazon Kinesis",
     "Url": "https://aws.amazon.com/kinesis/",
-    "Note": ""
+    "Note": "Only available in AWSPowerShell, AWSPowerShell.NetCore modules."
   },
   "kinesisanalyticsv2": {
     "Prefix": "KINA2",

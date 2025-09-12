@@ -1,6 +1,6 @@
 ---
 title: iotsecuretunneling
-date: 2025-09-03
+date: 2025-09-12
 description: aws iotsecuretunneling (AWS IoT Secure Tunneling) command/cmdlet list.
 ---
 

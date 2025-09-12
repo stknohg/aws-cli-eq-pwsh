@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2025-09-03
+date: 2025-09-12
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch delete-dashboards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-dashboards.html)|[Remove-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWDashboard.html)|
 |[aws cloudwatch delete-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-insight-rules.html)|[Remove-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWInsightRule.html)|
 |[aws cloudwatch delete-metric-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-metric-stream.html)|[Remove-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWMetricStream.html)|
+|[aws cloudwatch describe-alarm-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarm-contributors.html)|[Get-CWAlarmContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmContributor.html)|
 |[aws cloudwatch describe-alarm-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarm-history.html)|[Get-CWAlarmHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmHistory.html)|
 |[aws cloudwatch describe-alarms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarms.html)|[Get-CWAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarm.html)|
 |[aws cloudwatch describe-alarms-for-metric](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarms-for-metric.html)|[Get-CWAlarmForMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmForMetric.html)|

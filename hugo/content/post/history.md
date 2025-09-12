@@ -1,6 +1,6 @@
 ---
 title: history
-date: 2025-09-03
+date: 2025-09-12
 description: aws history (-) command/cmdlet list.
 ---
 

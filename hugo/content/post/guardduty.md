@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2025-09-03
+date: 2025-09-12
 description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 ---
 

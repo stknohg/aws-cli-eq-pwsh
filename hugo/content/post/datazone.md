@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2025-09-03
+date: 2025-09-12
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone create-domain-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-domain-unit.html)|[New-DZDomainUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZDomainUnit.html)|
 |[aws datazone create-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-environment.html)|[New-DZEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZEnvironment.html)|
 |[aws datazone create-environment-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-environment-action.html)|[New-DZEnvironmentAction](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZEnvironmentAction.html)|
+|[aws datazone create-environment-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-environment-blueprint.html)|[New-DZEnvironmentBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZEnvironmentBlueprint.html)|
 |[aws datazone create-environment-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-environment-profile.html)|[New-DZEnvironmentProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZEnvironmentProfile.html)|
 |[aws datazone create-form-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-form-type.html)|[New-DZFormType](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZFormType.html)|
 |[aws datazone create-glossary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-glossary.html)|[New-DZGlossary](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZGlossary.html)|
@@ -59,6 +60,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-domain-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-domain-unit.html)|[Remove-DZDomainUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDomainUnit.html)|
 |[aws datazone delete-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-environment.html)|[Remove-DZEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEnvironment.html)|
 |[aws datazone delete-environment-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-environment-action.html)|[Remove-DZEnvironmentAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEnvironmentAction.html)|
+|[aws datazone delete-environment-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-environment-blueprint.html)|[Remove-DZEnvironmentBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEnvironmentBlueprint.html)|
 |[aws datazone delete-environment-blueprint-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-environment-blueprint-configuration.html)|[Remove-DZEnvironmentBlueprintConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEnvironmentBlueprintConfiguration.html)|
 |[aws datazone delete-environment-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-environment-profile.html)|[Remove-DZEnvironmentProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEnvironmentProfile.html)|
 |[aws datazone delete-form-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-form-type.html)|[Remove-DZFormType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZFormType.html)|
@@ -168,6 +170,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone update-domain-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-domain-unit.html)|[Update-DZDomainUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZDomainUnit.html)|
 |[aws datazone update-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-environment.html)|[Update-DZEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZEnvironment.html)|
 |[aws datazone update-environment-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-environment-action.html)|[Update-DZEnvironmentAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZEnvironmentAction.html)|
+|[aws datazone update-environment-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-environment-blueprint.html)|[Update-DZEnvironmentBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZEnvironmentBlueprint.html)|
 |[aws datazone update-environment-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-environment-profile.html)|[Update-DZEnvironmentProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZEnvironmentProfile.html)|
 |[aws datazone update-glossary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-glossary.html)|[Update-DZGlossary](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZGlossary.html)|
 |[aws datazone update-glossary-term](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-glossary-term.html)|[Update-DZGlossaryTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZGlossaryTerm.html)|

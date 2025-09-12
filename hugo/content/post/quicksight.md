@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2025-09-03
+date: 2025-09-12
 description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight create-topic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-topic.html)|[New-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTopic.html)|
 |[aws quicksight create-topic-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-topic-refresh-schedule.html)|[New-QSTopicRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSTopicRefreshSchedule.html)|
 |[aws quicksight create-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-vpc-connection.html)|[New-QSVPCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSVPCConnection.html)|
+|[aws quicksight delete-account-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-account-custom-permission.html)|[Remove-QSAccountCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountCustomPermission.html)|
 |[aws quicksight delete-account-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-account-customization.html)|[Remove-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountCustomization.html)|
 |[aws quicksight delete-account-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-account-subscription.html)|[Remove-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAccountSubscription.html)|
 |[aws quicksight delete-analysis](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-analysis.html)|[Remove-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSAnalysis.html)|
@@ -71,6 +72,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight delete-user-by-principal-id](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-user-by-principal-id.html)|[Remove-QSUserByPrincipalId](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUserByPrincipalId.html)|
 |[aws quicksight delete-user-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-user-custom-permission.html)|[Remove-QSUserCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSUserCustomPermission.html)|
 |[aws quicksight delete-vpc-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/delete-vpc-connection.html)|[Remove-QSVPCConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSVPCConnection.html)|
+|[aws quicksight describe-account-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-account-custom-permission.html)|[Get-QSAccountCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountCustomPermission.html)|
 |[aws quicksight describe-account-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-account-customization.html)|[Get-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountCustomization.html)|
 |[aws quicksight describe-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-account-settings.html)|[Get-QSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSetting.html)|
 |[aws quicksight describe-account-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-account-subscription.html)|[Get-QSAccountSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAccountSubscription.html)|
@@ -178,6 +180,7 @@ description: aws quicksight (Amazon QuickSight) command/cmdlet list.
 |[aws quicksight start-dashboard-snapshot-job-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job-schedule.html)|[Start-QSDashboardSnapshotJobSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJobSchedule.html)|
 |[aws quicksight tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|
 |[aws quicksight untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/untag-resource.html)|[Remove-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QSResourceTag.html)|
+|[aws quicksight update-account-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-account-custom-permission.html)|[Update-QSAccountCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountCustomPermission.html)|
 |[aws quicksight update-account-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-account-customization.html)|[Update-QSAccountCustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountCustomization.html)|
 |[aws quicksight update-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-account-settings.html)|[Update-QSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAccountSetting.html)|
 |[aws quicksight update-analysis](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-analysis.html)|[Update-QSAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSAnalysis.html)|

@@ -1,6 +1,6 @@
 ---
 title: ssm-guiconnect
-date: 2025-09-03
+date: 2025-09-12
 description: aws ssm-guiconnect (AWS Systems Manager GUI Connect) command/cmdlet list.
 ---
 

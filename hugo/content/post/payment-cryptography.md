@@ -1,6 +1,6 @@
 ---
 title: payment-cryptography
-date: 2025-09-12
+date: 2025-09-16
 description: aws payment-cryptography (AWS Payment Cryptography Control Plane) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws payment-cryptography (AWS Payment Cryptography Control Plane) c
 |[aws payment-cryptography enable-default-key-replication-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/enable-default-key-replication-regions.html)|[Enable-PAYCCDefaultKeyReplicationRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-PAYCCDefaultKeyReplicationRegion.html)|
 |[aws payment-cryptography export-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/export-key.html)|[Export-PAYCCKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-PAYCCKey.html)|
 |[aws payment-cryptography get-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/get-alias.html)|[Get-PAYCCAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PAYCCAlias.html)|
+|[aws payment-cryptography get-certificate-signing-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/get-certificate-signing-request.html)|[Get-PAYCCCertificateSigningRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PAYCCCertificateSigningRequest.html)|
 |[aws payment-cryptography get-default-key-replication-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/get-default-key-replication-regions.html)|[Get-PAYCCDefaultKeyReplicationRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PAYCCDefaultKeyReplicationRegion.html)|
 |[aws payment-cryptography get-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/get-key.html)|[Get-PAYCCKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PAYCCKey.html)|
 |[aws payment-cryptography get-parameters-for-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography/get-parameters-for-export.html)|[Get-PAYCCParametersForExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PAYCCParametersForExport.html)|

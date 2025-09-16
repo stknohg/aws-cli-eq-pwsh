@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-09-12
+date: 2025-09-16
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.30.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.53 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.30.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.55 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -388,7 +388,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
 |[AWS SimSpace Weaver](https://aws.amazon.com/simspaceweaver/)|[simspaceweaver]({{%relref "post/simspaceweaver.md" %}})|SSW||
-|[AWS Sever Migration Service](https://aws.amazon.com/server-migration-service/)|[sms]({{%relref "post/sms.md" %}})|SMS||
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||

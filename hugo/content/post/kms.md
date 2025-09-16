@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2025-09-12
+date: 2025-09-16
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 

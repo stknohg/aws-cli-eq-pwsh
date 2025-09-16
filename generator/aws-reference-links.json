@@ -366,7 +366,6 @@
   "sesv2": "https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmailV2_cmdlets.html",
   "signer": "",
   "simspaceweaver": "https://docs.aws.amazon.com/powershell/latest/reference/items/SimSpaceWeaver_cmdlets.html",
-  "sms": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Server_Migration_Service_cmdlets.html",
   "snow-device-management": "https://docs.aws.amazon.com/powershell/latest/reference/items/SnowDeviceManagement_cmdlets.html",
   "snowball": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_Snowball_cmdlets.html",
   "sns": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Simple_Notification_Service_cmdlets.html",

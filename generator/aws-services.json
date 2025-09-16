@@ -2213,12 +2213,6 @@
     "Url": "https://aws.amazon.com/simspaceweaver/",
     "Note": ""
   },
-  "sms": {
-    "Prefix": "SMS",
-    "Name": "AWS Sever Migration Service",
-    "Url": "https://aws.amazon.com/server-migration-service/",
-    "Note": ""
-  },
   "snow-device-management": {
     "Prefix": "SDMS",
     "Name": "Amazon Web Services Snow Device Management",

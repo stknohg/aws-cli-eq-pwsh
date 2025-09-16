@@ -4,10 +4,10 @@
 FROM ubuntu:24.04
 
 # Define args
-ARG PWSH_VERSION=7.5.2
+ARG PWSH_VERSION=7.5.3
 ARG HUGO_VERSION=0.149.0
 # Download packages
-ADD http://mirrors.kernel.org/ubuntu/pool/main/i/icu/libicu74_74.2-1ubuntu4_amd64.deb /tmp/libicu74.deb
+ADD https://mirrors.edge.kernel.org/ubuntu/pool/main/i/icu/libicu74_74.2-1ubuntu3.1_amd64.deb /tmp/libicu74.deb
 ADD https://github.com/PowerShell/PowerShell/releases/download/v${PWSH_VERSION}/powershell_${PWSH_VERSION}-1.deb_amd64.deb /tmp/powershell.deb
 ADD https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip /tmp/awscliv2.zip
 ADD https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-amd64.deb /tmp/hugo_linux.deb

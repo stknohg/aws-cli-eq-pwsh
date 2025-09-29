@@ -170,11 +170,6 @@ function Export-TopPageMarkdown {
         "description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
         "---"
         ""
-        "{{< alert ""danger"" >}}"
-        "\* Important *  "
-        "Since AWS CLI v2.31.0, it has become difficult to obtain a list of commands, so updates have been suspended."
-        "{{< /alert >}}"
-        ""
         "This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
         ""
         "### Version"
@@ -212,7 +207,7 @@ function Export-PostPageMarkdown {
     param (
         [Parameter(Mandatory = $true)]
         [string]$ServiceName,
-        [Parameter(Mandatory = $true)]
+        [Parameter(Mandatory = $false)]
         [Object[]]$Commands
     )
 
@@ -239,7 +234,11 @@ function Export-PostPageMarkdown {
             ""
             "### $displayUrllink"
             ""
-            "* No CLI commands"
+            "* $cliUrlLink"
+            "* $cmdletUrlLink"
+            ""
+            "No supported CLI commands.  "
+            "This service may have been deprecated or replaced with a newer version.  "
             ""
         } | Out-String
     } else {

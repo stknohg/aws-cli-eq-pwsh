@@ -1,0 +1,9 @@
+#!/bin/bash
+
+#
+# Customized groff command for AWS CLI -eq PowerShell
+#
+cat | sed -n '/.SH AVAILABLE [SERVICES|COMMANDS]/,$p' | sed -e '/.UNINDENT/,$d' | \
+    sed -e '/.SH/d' -e '/.INDENT/d' -e '/.IP/d' | \
+    sed -e 's/\\-/-/g' | \
+    sed -e '/wait/d' -e '/help/d'

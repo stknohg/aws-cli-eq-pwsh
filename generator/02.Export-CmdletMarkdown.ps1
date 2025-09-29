@@ -212,7 +212,7 @@ function Export-PostPageMarkdown {
     param (
         [Parameter(Mandatory = $true)]
         [string]$ServiceName,
-        [Parameter(Mandatory = $true)]
+        [Parameter(Mandatory = $false)]
         [Object[]]$Commands
     )
 
@@ -239,7 +239,11 @@ function Export-PostPageMarkdown {
             ""
             "### $displayUrllink"
             ""
-            "* No CLI commands"
+            "* $cliUrlLink"
+            "* $cmdletUrlLink"
+            ""
+            "No supported CLI commands.  "
+            "This service may have been deprecated or replaced with a newer version.  "
             ""
         } | Out-String
     } else {

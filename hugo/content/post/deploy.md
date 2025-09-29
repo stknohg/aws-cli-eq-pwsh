@@ -1,6 +1,6 @@
 ---
 title: deploy
-date: 2025-09-16
+date: 2025-09-29
 description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 ---
 
@@ -17,7 +17,6 @@ description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 |[aws deploy batch-get-application-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-application-revisions.html)|[Get-CDApplicationRevisionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDApplicationRevisionBatch.html)|
 |[aws deploy batch-get-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-applications.html)|[Get-CDApplicationBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDApplicationBatch.html)|
 |[aws deploy batch-get-deployment-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-deployment-groups.html)|[Get-CDDeploymentGroupBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentGroupBatch.html)|
-|[aws deploy batch-get-deployment-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-deployment-instances.html)|[Get-CDDeploymentInstanceBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentInstanceBatch.html)|
 |[aws deploy batch-get-deployment-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-deployment-targets.html)|[Get-CDDeploymentTargetBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentTargetBatch.html)|
 |[aws deploy batch-get-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-deployments.html)|[Get-CDDeploymentBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentBatch.html)|
 |[aws deploy batch-get-on-premises-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/batch-get-on-premises-instances.html)|[Get-CDOnPremiseInstanceBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDOnPremiseInstanceBatch.html)|
@@ -38,7 +37,6 @@ description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 |[aws deploy get-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/get-deployment.html)|[Get-CDDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeployment.html)|
 |[aws deploy get-deployment-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/get-deployment-config.html)|[Get-CDDeploymentConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentConfig.html)|
 |[aws deploy get-deployment-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/get-deployment-group.html)|[Get-CDDeploymentGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentGroup.html)|
-|[aws deploy get-deployment-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/get-deployment-instance.html)|[Get-CDDeploymentInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentInstance.html)|
 |[aws deploy get-deployment-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/get-deployment-target.html)|[Get-CDDeploymentTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentTarget.html)|
 |[aws deploy get-on-premises-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/get-on-premises-instance.html)|[Get-CDOnPremiseInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDOnPremiseInstance.html)|
 |[aws deploy install](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/install.html)||
@@ -46,7 +44,6 @@ description: aws deploy (AWS CodeDeploy) command/cmdlet list.
 |[aws deploy list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-applications.html)|[Get-CDApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDApplicationList.html)|
 |[aws deploy list-deployment-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-deployment-configs.html)|[Get-CDDeploymentConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentConfigList.html)|
 |[aws deploy list-deployment-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-deployment-groups.html)|[Get-CDDeploymentGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentGroupList.html)|
-|[aws deploy list-deployment-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-deployment-instances.html)|[Get-CDDeploymentInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentInstanceList.html)|
 |[aws deploy list-deployment-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-deployment-targets.html)|[Get-CDDeploymentTargetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentTargetList.html)|
 |[aws deploy list-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-deployments.html)|[Get-CDDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDDeploymentList.html)|
 |[aws deploy list-git-hub-account-token-names](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deploy/list-git-hub-account-token-names.html)|[Get-CDGitHubAccountTokenNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CDGitHubAccountTokenNameList.html)|

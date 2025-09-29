@@ -1,6 +1,6 @@
 ---
 title: mwaa
-date: 2025-09-16
+date: 2025-09-29
 description: aws mwaa (Amazon Managed Workflows for Apache Airflow) command/cmdlet list.
 ---
 
@@ -21,7 +21,6 @@ description: aws mwaa (Amazon Managed Workflows for Apache Airflow) command/cmdl
 |[aws mwaa invoke-rest-api](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/invoke-rest-api.html)|[Invoke-MWAARestApi](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-MWAARestApi.html)|
 |[aws mwaa list-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/list-environments.html)|[Get-MWAAEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MWAAEnvironmentList.html)|
 |[aws mwaa list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/list-tags-for-resource.html)|[Get-MWAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MWAAResourceTag.html)|
-|[aws mwaa publish-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/publish-metrics.html)|[Publish-MWAAMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-MWAAMetric.html)|
 |[aws mwaa tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/tag-resource.html)|[Add-MWAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MWAAResourceTag.html)|
 |[aws mwaa untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/untag-resource.html)|[Remove-MWAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MWAAResourceTag.html)|
 |[aws mwaa update-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa/update-environment.html)|[Update-MWAAEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MWAAEnvironment.html)|

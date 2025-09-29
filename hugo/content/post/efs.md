@@ -1,6 +1,6 @@
 ---
 title: efs
-date: 2025-09-16
+date: 2025-09-29
 description: aws efs (Amazon Elastic File System) command/cmdlet list.
 ---
 
@@ -17,13 +17,11 @@ description: aws efs (Amazon Elastic File System) command/cmdlet list.
 |[aws efs create-file-system](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/create-file-system.html)|[New-EFSFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EFSFileSystem.html)|
 |[aws efs create-mount-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/create-mount-target.html)|[New-EFSMountTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EFSMountTarget.html)|
 |[aws efs create-replication-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/create-replication-configuration.html)|[New-EFSReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EFSReplicationConfiguration.html)|
-|[aws efs create-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/create-tags.html)|[New-EFSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EFSTag.html)|
 |[aws efs delete-access-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/delete-access-point.html)|[Remove-EFSAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSAccessPoint.html)|
 |[aws efs delete-file-system](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/delete-file-system.html)|[Remove-EFSFileSystem](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSFileSystem.html)|
 |[aws efs delete-file-system-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/delete-file-system-policy.html)|[Remove-EFSFileSystemPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSFileSystemPolicy.html)|
 |[aws efs delete-mount-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/delete-mount-target.html)|[Remove-EFSMountTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSMountTarget.html)|
 |[aws efs delete-replication-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/delete-replication-configuration.html)|[Remove-EFSReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSReplicationConfiguration.html)|
-|[aws efs delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/delete-tags.html)|[Remove-EFSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EFSTag.html)|
 |[aws efs describe-access-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-access-points.html)|[Get-EFSAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSAccessPoint.html)|
 |[aws efs describe-account-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-account-preferences.html)|[Get-EFSAccountPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSAccountPreference.html)|
 |[aws efs describe-backup-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-backup-policy.html)|[Get-EFSBackupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSBackupPolicy.html)|
@@ -33,7 +31,6 @@ description: aws efs (Amazon Elastic File System) command/cmdlet list.
 |[aws efs describe-mount-target-security-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-mount-target-security-groups.html)|[Get-EFSMountTargetSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSMountTargetSecurityGroup.html)|
 |[aws efs describe-mount-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-mount-targets.html)|[Get-EFSMountTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSMountTarget.html)|
 |[aws efs describe-replication-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-replication-configurations.html)|[Get-EFSReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSReplicationConfiguration.html)|
-|[aws efs describe-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/describe-tags.html)|[Get-EFSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSTag.html)|
 |[aws efs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/list-tags-for-resource.html)|[Get-EFSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EFSResourceTag.html)|
 |[aws efs modify-mount-target-security-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/modify-mount-target-security-groups.html)|[Edit-EFSMountTargetSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EFSMountTargetSecurityGroup.html)|
 |[aws efs put-account-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/efs/put-account-preferences.html)|[Write-EFSAccountPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EFSAccountPreference.html)|

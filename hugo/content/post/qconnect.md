@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2025-09-16
+date: 2025-09-29
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 
@@ -59,7 +59,6 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect get-message-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-message-template.html)|[Get-QCMessageTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCMessageTemplate.html)|
 |[aws qconnect get-next-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-next-message.html)|[Get-QCNextMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCNextMessage.html)|
 |[aws qconnect get-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-quick-response.html)|[Get-QCQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCQuickResponse.html)|
-|[aws qconnect get-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-recommendations.html)|[Get-QCRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCRecommendation.html)|
 |[aws qconnect get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/get-session.html)|[Get-QCSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCSession.html)|
 |[aws qconnect list-ai-agent-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-ai-agent-versions.html)|[Get-QCAIAgentVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIAgentVersionList.html)|
 |[aws qconnect list-ai-agents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-ai-agents.html)|[Get-QCAIAgentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCAIAgentList.html)|
@@ -80,7 +79,6 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-tags-for-resource.html)|[Get-QCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCResourceTag.html)|
 |[aws qconnect notify-recommendations-received](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/notify-recommendations-received.html)|[Remove-QCRecommendationsReceived](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCRecommendationsReceived.html)|
 |[aws qconnect put-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/put-feedback.html)|[Write-QCFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-QCFeedback.html)|
-|[aws qconnect query-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/query-assistant.html)|[Search-QCAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QCAssistant.html)|
 |[aws qconnect remove-assistant-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-assistant-ai-agent.html)|[Remove-QCAssistantAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAssistantAIAgent.html)|
 |[aws qconnect remove-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-knowledge-base-template-uri.html)|[Remove-QCKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCKnowledgeBaseTemplateUri.html)|
 |[aws qconnect render-message-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/render-message-template.html)|[Invoke-QCMessageTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-QCMessageTemplate.html)|

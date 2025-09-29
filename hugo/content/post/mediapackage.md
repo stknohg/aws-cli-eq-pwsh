@@ -1,6 +1,6 @@
 ---
 title: mediapackage
-date: 2025-09-16
+date: 2025-09-29
 description: aws mediapackage (AWS Elemental MediaPackage) command/cmdlet list.
 ---
 
@@ -26,7 +26,6 @@ description: aws mediapackage (AWS Elemental MediaPackage) command/cmdlet list.
 |[aws mediapackage list-harvest-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/list-harvest-jobs.html)|[Get-EMPHarvestJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPHarvestJobList.html)|
 |[aws mediapackage list-origin-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/list-origin-endpoints.html)|[Get-EMPOriginEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPOriginEndpointList.html)|
 |[aws mediapackage list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/list-tags-for-resource.html)|[Get-EMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMPResourceTag.html)|
-|[aws mediapackage rotate-channel-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/rotate-channel-credentials.html)|[Invoke-EMPChannelCredentialRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-EMPChannelCredentialRotation.html)|
 |[aws mediapackage rotate-ingest-endpoint-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/rotate-ingest-endpoint-credentials.html)|[Invoke-EMPIngestEndpointCredentialRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-EMPIngestEndpointCredentialRotation.html)|
 |[aws mediapackage tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/tag-resource.html)|[Add-EMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMPResourceTag.html)|
 |[aws mediapackage untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediapackage/untag-resource.html)|[Remove-EMPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMPResourceTag.html)|

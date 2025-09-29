@@ -1,6 +1,6 @@
 ---
 title: mpa
-date: 2025-09-16
+date: 2025-09-29
 description: aws mpa (Multi-party approval for AWS Organizations) command/cmdlet list.
 ---
 

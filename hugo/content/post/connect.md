@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-09-16
+date: 2025-09-29
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-analytics-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-analytics-data-set.html)|[Register-CONNAnalyticsDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CONNAnalyticsDataSet.html)|
 |[aws connect associate-approved-origin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-approved-origin.html)|[Add-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNApprovedOrigin.html)|
 |[aws connect associate-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-bot.html)|[Add-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNBot.html)|
+|[aws connect associate-contact-with-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-contact-with-user.html)|[Join-CONNContactWithUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-CONNContactWithUser.html)|
 |[aws connect associate-default-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-default-vocabulary.html)|[Add-CONNDefaultVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNDefaultVocabulary.html)|
 |[aws connect associate-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-flow.html)|[Add-CONNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNFlow.html)|
 |[aws connect associate-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-instance-storage-config.html)|[Add-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNInstanceStorageConfig.html)|
@@ -179,6 +180,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-queues.html)|[Get-CONNQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQueueList.html)|
 |[aws connect list-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-quick-connects.html)|[Get-CONNQuickConnectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQuickConnectList.html)|
 |[aws connect list-realtime-contact-analysis-segments-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-realtime-contact-analysis-segments-v2.html)|[Get-CONNRealtimeContactAnalysisSegmentsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRealtimeContactAnalysisSegmentsV2List.html)|
+|[aws connect list-routing-profile-manual-assignment-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profile-manual-assignment-queues.html)|[Get-CONNRoutingProfileManualAssignmentQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileManualAssignmentQueueList.html)|
 |[aws connect list-routing-profile-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profile-queues.html)|[Get-CONNRoutingProfileQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileQueueList.html)|
 |[aws connect list-routing-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profiles.html)|[Get-CONNRoutingProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileList.html)|
 |[aws connect list-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-rules.html)|[Get-CONNRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRuleList.html)|

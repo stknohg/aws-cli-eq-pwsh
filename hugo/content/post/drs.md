@@ -1,6 +1,6 @@
 ---
 title: drs
-date: 2025-09-16
+date: 2025-09-29
 description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 ---
 
@@ -45,7 +45,6 @@ description: aws drs (AWS Elastic Disaster Recovery) command/cmdlet list.
 |[aws drs list-staging-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/list-staging-accounts.html)|[Get-EDRSStagingAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSStagingAccountList.html)|
 |[aws drs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/list-tags-for-resource.html)|[Get-EDRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EDRSResourceTag.html)|
 |[aws drs put-launch-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/put-launch-action.html)|[Write-EDRSLaunchAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EDRSLaunchAction.html)|
-|[aws drs retry-data-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/retry-data-replication.html)|[Restart-EDRSDataReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-EDRSDataReplication.html)|
 |[aws drs reverse-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/reverse-replication.html)|[Start-EDRSReversedReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSReversedReplication.html)|
 |[aws drs start-failback-launch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/start-failback-launch.html)|[Start-EDRSFailbackLaunch](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSFailbackLaunch.html)|
 |[aws drs start-recovery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/drs/start-recovery.html)|[Start-EDRSRecovery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EDRSRecovery.html)|

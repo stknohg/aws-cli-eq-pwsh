@@ -1,6 +1,6 @@
 ---
 title: discovery
-date: 2025-09-16
+date: 2025-09-29
 description: aws discovery (AWS Application Discovery Service) command/cmdlet list.
 ---
 
@@ -24,12 +24,10 @@ description: aws discovery (AWS Application Discovery Service) command/cmdlet li
 |[aws discovery describe-batch-delete-configuration-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-batch-delete-configuration-task.html)|[Get-ADSBatchDeleteConfigurationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSBatchDeleteConfigurationTask.html)|
 |[aws discovery describe-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-configurations.html)|[Get-ADSConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSConfiguration.html)|
 |[aws discovery describe-continuous-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-continuous-exports.html)|[Get-ADSContinuousExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSContinuousExport.html)|
-|[aws discovery describe-export-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-export-configurations.html)|[Get-ADSExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSExportConfiguration.html)|
 |[aws discovery describe-export-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-export-tasks.html)|[Get-ADSExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSExportTask.html)|
 |[aws discovery describe-import-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-import-tasks.html)|[Get-ADSImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSImportTask.html)|
 |[aws discovery describe-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/describe-tags.html)|[Get-ADSTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSTag.html)|
 |[aws discovery disassociate-configuration-items-from-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/disassociate-configuration-items-from-application.html)|[Remove-ADSConfigurationItemsFromApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADSConfigurationItemsFromApplication.html)|
-|[aws discovery export-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/export-configurations.html)|[Get-ADSExportConfigurationsId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSExportConfigurationsId.html)|
 |[aws discovery get-discovery-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/get-discovery-summary.html)|[Get-ADSDiscoverySummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSDiscoverySummary.html)|
 |[aws discovery list-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/list-configurations.html)|[Get-ADSConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSConfigurationList.html)|
 |[aws discovery list-server-neighbors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/discovery/list-server-neighbors.html)|[Get-ADSServerNeighborList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADSServerNeighborList.html)|

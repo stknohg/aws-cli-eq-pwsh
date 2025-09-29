@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2025-09-16
+date: 2025-09-29
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -74,7 +74,6 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs list-log-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-groups.html)|[Get-CWLLogGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupList.html)|
 |[aws logs list-log-groups-for-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-groups-for-query.html)|[Get-CWLLogGroupsForQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupsForQueryList.html)|
 |[aws logs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
-|[aws logs list-tags-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-log-group.html)|[Get-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupTag.html)|
 |[aws logs put-account-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-account-policy.html)|[Write-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLAccountPolicy.html)|
 |[aws logs put-data-protection-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-data-protection-policy.html)|[Write-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDataProtectionPolicy.html)|
 |[aws logs put-delivery-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-delivery-destination.html)|[Write-CWLDeliveryDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDeliveryDestination.html)|
@@ -94,12 +93,10 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs start-live-tail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/start-live-tail.html)|[Start-CWLLiveTail](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLLiveTail.html)|
 |[aws logs start-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/start-query.html)|[Start-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLQuery.html)|
 |[aws logs stop-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/stop-query.html)|[Stop-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLQuery.html)|
-|[aws logs tag-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/tag-log-group.html)|[Add-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWLLogGroupTag.html)|
 |[aws logs tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/tag-resource.html)|[Add-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWLResourceTag.html)|
 |[aws logs tail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/tail.html)||
 |[aws logs test-metric-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/test-metric-filter.html)|[Test-CWLMetricFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CWLMetricFilter.html)|
 |[aws logs test-transformer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/test-transformer.html)|[Test-CWLTransformer](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CWLTransformer.html)|
-|[aws logs untag-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/untag-log-group.html)|[Remove-CWLLogGroupTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLLogGroupTag.html)|
 |[aws logs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/untag-resource.html)|[Remove-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLResourceTag.html)|
 |[aws logs update-anomaly](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-anomaly.html)|[Update-CWLAnomaly](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLAnomaly.html)|
 |[aws logs update-delivery-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/update-delivery-configuration.html)|[Update-CWLDeliveryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWLDeliveryConfiguration.html)|

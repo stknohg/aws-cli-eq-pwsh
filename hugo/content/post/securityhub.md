@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2025-09-16
+date: 2025-09-29
 description: aws securityhub (AWS Security Hub) command/cmdlet list.
 ---
 
@@ -14,7 +14,6 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws securityhub accept-administrator-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/accept-administrator-invitation.html)|[Confirm-SHUBAdministratorInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-SHUBAdministratorInvitation.html)|
-|[aws securityhub accept-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/accept-invitation.html)|[Confirm-SHUBInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-SHUBInvitation.html)|
 |[aws securityhub batch-delete-automation-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/batch-delete-automation-rules.html)|[Remove-SHUBDeleteAutomationRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBDeleteAutomationRule.html)|
 |[aws securityhub batch-disable-standards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/batch-disable-standards.html)|[Disable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBStandardsBatch.html)|
 |[aws securityhub batch-enable-standards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/batch-enable-standards.html)|[Enable-SHUBStandardsBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBStandardsBatch.html)|
@@ -61,7 +60,6 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub disable-security-hub](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/disable-security-hub.html)|[Disable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBSecurityHub.html)|
 |[aws securityhub disable-security-hub-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/disable-security-hub-v2.html)|[Disable-SHUBSecurityHubV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SHUBSecurityHubV2.html)|
 |[aws securityhub disassociate-from-administrator-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/disassociate-from-administrator-account.html)|[Remove-SHUBFromAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBFromAdministratorAccount.html)|
-|[aws securityhub disassociate-from-master-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/disassociate-from-master-account.html)|[Remove-SHUBMasterAccountAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMasterAccountAssociation.html)|
 |[aws securityhub disassociate-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/disassociate-members.html)|[Remove-SHUBMemberAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHUBMemberAssociation.html)|
 |[aws securityhub enable-import-findings-for-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/enable-import-findings-for-product.html)|[Enable-SHUBImportFindingsForProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBImportFindingsForProduct.html)|
 |[aws securityhub enable-organization-admin-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/enable-organization-admin-account.html)|[Enable-SHUBOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBOrganizationAdminAccount.html)|
@@ -82,7 +80,6 @@ description: aws securityhub (AWS Security Hub) command/cmdlet list.
 |[aws securityhub get-insight-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-insight-results.html)|[Get-SHUBInsightResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsightResult.html)|
 |[aws securityhub get-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-insights.html)|[Get-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsight.html)|
 |[aws securityhub get-invitations-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-invitations-count.html)|[Get-SHUBInvitationsCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationsCount.html)|
-|[aws securityhub get-master-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-master-account.html)|[Get-SHUBMasterAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMasterAccount.html)|
 |[aws securityhub get-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-members.html)|[Get-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMember.html)|
 |[aws securityhub get-resources-statistics-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-statistics-v2.html)|[Get-SHUBResourcesStatisticsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesStatisticsV2.html)|
 |[aws securityhub get-resources-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-v2.html)|[Get-SHUBResourcesV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesV2.html)|

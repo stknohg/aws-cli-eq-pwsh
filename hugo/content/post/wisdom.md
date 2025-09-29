@@ -1,6 +1,6 @@
 ---
 title: wisdom
-date: 2025-09-16
+date: 2025-09-29
 description: aws wisdom (Amazon Connect Wisdom) command/cmdlet list.
 ---
 
@@ -32,7 +32,6 @@ description: aws wisdom (Amazon Connect Wisdom) command/cmdlet list.
 |[aws wisdom get-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/get-import-job.html)|[Get-WSDMImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMImportJob.html)|
 |[aws wisdom get-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/get-knowledge-base.html)|[Get-WSDMKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMKnowledgeBase.html)|
 |[aws wisdom get-quick-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/get-quick-response.html)|[Get-WSDMQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMQuickResponse.html)|
-|[aws wisdom get-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/get-recommendations.html)|[Get-WSDMRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMRecommendation.html)|
 |[aws wisdom get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/get-session.html)|[Get-WSDMSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMSession.html)|
 |[aws wisdom list-assistant-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/list-assistant-associations.html)|[Get-WSDMAssistantAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMAssistantAssociationList.html)|
 |[aws wisdom list-assistants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/list-assistants.html)|[Get-WSDMAssistantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMAssistantList.html)|
@@ -42,7 +41,6 @@ description: aws wisdom (Amazon Connect Wisdom) command/cmdlet list.
 |[aws wisdom list-quick-responses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/list-quick-responses.html)|[Get-WSDMQuickResponseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMQuickResponseList.html)|
 |[aws wisdom list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/list-tags-for-resource.html)|[Get-WSDMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WSDMResourceTag.html)|
 |[aws wisdom notify-recommendations-received](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/notify-recommendations-received.html)|[Remove-WSDMRecommendationsReceived](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WSDMRecommendationsReceived.html)|
-|[aws wisdom query-assistant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/query-assistant.html)|[Search-WSDMAssistant](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-WSDMAssistant.html)|
 |[aws wisdom remove-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/remove-knowledge-base-template-uri.html)|[Remove-WSDMKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WSDMKnowledgeBaseTemplateUri.html)|
 |[aws wisdom search-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/search-content.html)|[Search-WSDMContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-WSDMContent.html)|
 |[aws wisdom search-quick-responses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wisdom/search-quick-responses.html)|[Search-WSDMQuickResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-WSDMQuickResponse.html)|

@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2025-09-16
+date: 2025-09-29
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -47,14 +47,12 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api get-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-encryption.html)|[Get-S3BucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketEncryption.html)|
 |[aws s3api get-bucket-intelligent-tiering-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-intelligent-tiering-configuration.html)|[Get-S3BucketIntelligentTieringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketIntelligentTieringConfiguration.html)|
 |[aws s3api get-bucket-inventory-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-inventory-configuration.html)|[Get-S3BucketInventoryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketInventoryConfiguration.html)|
-|[aws s3api get-bucket-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-lifecycle.html)||
 |[aws s3api get-bucket-lifecycle-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-lifecycle-configuration.html)|[Get-S3LifecycleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3LifecycleConfiguration.html)|
 |[aws s3api get-bucket-location](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-location.html)|[Get-S3BucketLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketLocation.html)|
 |[aws s3api get-bucket-logging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-logging.html)|[Get-S3BucketLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketLogging.html)|
 |[aws s3api get-bucket-metadata-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-metadata-configuration.html)|[Get-S3BucketMetadataConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketMetadataConfiguration.html)|
 |[aws s3api get-bucket-metadata-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-metadata-table-configuration.html)|[Get-S3BucketMetadataTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketMetadataTableConfiguration.html)|
 |[aws s3api get-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-metrics-configuration.html)|[Get-S3BucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketMetricsConfiguration.html)|
-|[aws s3api get-bucket-notification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-notification.html)||
 |[aws s3api get-bucket-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-notification-configuration.html)|[Get-S3BucketNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketNotification.html)|
 |[aws s3api get-bucket-ownership-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-ownership-controls.html)|[Get-S3BucketOwnershipControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketOwnershipControl.html)|
 |[aws s3api get-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-policy.html)|[Get-S3BucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketPolicy.html)|
@@ -93,11 +91,9 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api put-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-encryption.html)|[Set-S3BucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3BucketEncryption.html)|
 |[aws s3api put-bucket-intelligent-tiering-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-intelligent-tiering-configuration.html)|[Write-S3BucketIntelligentTieringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketIntelligentTieringConfiguration.html)|
 |[aws s3api put-bucket-inventory-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-inventory-configuration.html)|[Write-S3BucketInventoryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketInventoryConfiguration.html)|
-|[aws s3api put-bucket-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-lifecycle.html)||
 |[aws s3api put-bucket-lifecycle-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-lifecycle-configuration.html)|[Write-S3LifecycleConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3LifecycleConfiguration.html)|
 |[aws s3api put-bucket-logging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-logging.html)|[Write-S3BucketLogging](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketLogging.html)|
 |[aws s3api put-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-metrics-configuration.html)|[Write-S3BucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketMetricsConfiguration.html)|
-|[aws s3api put-bucket-notification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-notification.html)||
 |[aws s3api put-bucket-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-notification-configuration.html)|[Write-S3BucketNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketNotification.html)|
 |[aws s3api put-bucket-ownership-controls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-ownership-controls.html)|[Write-S3BucketOwnershipControl](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketOwnershipControl.html)|
 |[aws s3api put-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-policy.html)|[Write-S3BucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketPolicy.html)|

@@ -1,6 +1,6 @@
 ---
 title: billing
-date: 2025-09-16
+date: 2025-09-29
 description: aws billing (AWS Billing) command/cmdlet list.
 ---
 
@@ -13,8 +13,10 @@ description: aws billing (AWS Billing) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws billing associate-source-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/associate-source-views.html)|[Add-AWSBSourceView](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AWSBSourceView.html)|
 |[aws billing create-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/create-billing-view.html)|[New-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AWSBBillingView.html)|
 |[aws billing delete-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/delete-billing-view.html)|[Remove-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBBillingView.html)|
+|[aws billing disassociate-source-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/disassociate-source-views.html)|[Remove-AWSBSourceView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBSourceView.html)|
 |[aws billing get-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-billing-view.html)|[Get-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingView.html)|
 |[aws billing get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-resource-policy.html)|[Get-BCMDResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDResourcePolicy.html)|
 |[aws billing get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-resource-policy.html)|[Get-AWSBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBResourcePolicy.html)|

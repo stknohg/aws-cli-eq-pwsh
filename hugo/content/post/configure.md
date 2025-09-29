@@ -1,6 +1,6 @@
 ---
 title: configure
-date: 2025-09-16
+date: 2025-09-29
 description: aws configure (-) command/cmdlet list.
 ---
 
@@ -19,8 +19,8 @@ description: aws configure (-) command/cmdlet list.
 |[aws configure import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/import.html)||
 |[aws configure list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/list.html)||
 |[aws configure list-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/list-profiles.html)||
+|[aws configure mfa-login](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/mfa-login.html)||
 |[aws configure set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/set.html)||
 |[aws configure sso](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/sso.html)||
 |[aws configure sso-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/sso-session.html)||
-|[aws configure wizard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/wizard.html)||
 

@@ -1,6 +1,6 @@
 ---
 title: elastictranscoder
-date: 2025-09-16
+date: 2025-09-29
 description: aws elastictranscoder (Amazon Elastic Transcoder) command/cmdlet list.
 ---
 
@@ -26,7 +26,6 @@ description: aws elastictranscoder (Amazon Elastic Transcoder) command/cmdlet li
 |[aws elastictranscoder read-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/read-job.html)|[Read-ETSJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-ETSJob.html)|
 |[aws elastictranscoder read-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/read-pipeline.html)|[Read-ETSPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-ETSPipeline.html)|
 |[aws elastictranscoder read-preset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/read-preset.html)|[Read-ETSPreset](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-ETSPreset.html)|
-|[aws elastictranscoder test-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/test-role.html)|[Test-ETSRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ETSRole.html)|
 |[aws elastictranscoder update-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/update-pipeline.html)|[Update-ETSPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ETSPipeline.html)|
 |[aws elastictranscoder update-pipeline-notifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/update-pipeline-notifications.html)|[Update-ETSPipelineNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ETSPipelineNotification.html)|
 |[aws elastictranscoder update-pipeline-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elastictranscoder/update-pipeline-status.html)|[Update-ETSPipelineStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ETSPipelineStatus.html)|

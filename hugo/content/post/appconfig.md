@@ -1,6 +1,6 @@
 ---
 title: appconfig
-date: 2025-09-16
+date: 2025-09-29
 description: aws appconfig (AWS AppConfig) command/cmdlet list.
 ---
 
@@ -29,7 +29,6 @@ description: aws appconfig (AWS AppConfig) command/cmdlet list.
 |[aws appconfig delete-hosted-configuration-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/delete-hosted-configuration-version.html)|[Remove-APPCHostedConfigurationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APPCHostedConfigurationVersion.html)|
 |[aws appconfig get-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-account-settings.html)|[Get-APPCAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCAccountSetting.html)|
 |[aws appconfig get-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-application.html)|[Get-APPCApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCApplication.html)|
-|[aws appconfig get-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-configuration.html)|[Get-APPCConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfiguration.html)|
 |[aws appconfig get-configuration-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-configuration-profile.html)|[Get-APPCConfigurationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCConfigurationProfile.html)|
 |[aws appconfig get-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-deployment.html)|[Get-APPCDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCDeployment.html)|
 |[aws appconfig get-deployment-strategy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appconfig/get-deployment-strategy.html)|[Get-APPCDeploymentStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APPCDeploymentStrategy.html)|

@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2025-09-16
+date: 2025-09-29
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 
@@ -19,7 +19,6 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot associate-sbom-with-package-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/associate-sbom-with-package-version.html)|[Add-IOTSbomWithPackageVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTSbomWithPackageVersion.html)|
 |[aws iot associate-targets-with-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/associate-targets-with-job.html)|[Add-IOTTargetsWithJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTTargetsWithJob.html)|
 |[aws iot attach-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/attach-policy.html)|[Add-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTPolicy.html)|
-|[aws iot attach-principal-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/attach-principal-policy.html)|[Add-IOTPrincipalPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTPrincipalPolicy.html)|
 |[aws iot attach-security-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/attach-security-profile.html)|[Mount-IOTSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-IOTSecurityProfile.html)|
 |[aws iot attach-thing-principal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/attach-thing-principal.html)|[Add-IOTThingPrincipal](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IOTThingPrincipal.html)|
 |[aws iot cancel-audit-mitigation-actions-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/cancel-audit-mitigation-actions-task.html)|[Stop-IOTAuditMitigationActionsTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IOTAuditMitigationActionsTask.html)|
@@ -135,7 +134,6 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot describe-thing-registration-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-thing-registration-task.html)|[Get-IOTThingRegistrationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingRegistrationTask.html)|
 |[aws iot describe-thing-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/describe-thing-type.html)|[Get-IOTThingType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTThingType.html)|
 |[aws iot detach-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/detach-policy.html)|[Dismount-IOTPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-IOTPolicy.html)|
-|[aws iot detach-principal-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/detach-principal-policy.html)|[Remove-IOTPrincipalPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTPrincipalPolicy.html)|
 |[aws iot detach-security-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/detach-security-profile.html)|[Dismount-IOTSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-IOTSecurityProfile.html)|
 |[aws iot detach-thing-principal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/detach-thing-principal.html)|[Remove-IOTThingPrincipal](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IOTThingPrincipal.html)|
 |[aws iot disable-topic-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/disable-topic-rule.html)|[Disable-IOTTopicRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-IOTTopicRule.html)|
@@ -197,9 +195,7 @@ description: aws iot (AWS IoT) command/cmdlet list.
 |[aws iot list-package-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-package-versions.html)|[Get-IOTPackageVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackageVersionList.html)|
 |[aws iot list-packages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-packages.html)|[Get-IOTPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPackageList.html)|
 |[aws iot list-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-policies.html)|[Get-IOTPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyList.html)|
-|[aws iot list-policy-principals](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-policy-principals.html)|[Get-IOTPolicyPrincipalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyPrincipalList.html)|
 |[aws iot list-policy-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-policy-versions.html)|[Get-IOTPolicyVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPolicyVersionList.html)|
-|[aws iot list-principal-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-principal-policies.html)|[Get-IOTPrincipalPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalPolicyList.html)|
 |[aws iot list-principal-things](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-principal-things.html)|[Get-IOTPrincipalThingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalThingList.html)|
 |[aws iot list-principal-things-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-principal-things-v2.html)|[Get-IOTPrincipalThingsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTPrincipalThingsV2List.html)|
 |[aws iot list-provisioning-template-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot/list-provisioning-template-versions.html)|[Get-IOTProvisioningTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTProvisioningTemplateVersionList.html)|

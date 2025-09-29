@@ -1,6 +1,6 @@
 ---
 title: amplifyuibuilder
-date: 2025-09-16
+date: 2025-09-29
 description: aws amplifyuibuilder (AWS Amplify UI Builder) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: marketplacecommerceanalytics
-date: 2025-09-16
+date: 2025-09-29
 description: aws marketplacecommerceanalytics (AWS Marketplace Commerce Analytics) command/cmdlet list.
 ---
 
@@ -14,5 +14,4 @@ description: aws marketplacecommerceanalytics (AWS Marketplace Commerce Analytic
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws marketplacecommerceanalytics generate-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplacecommerceanalytics/generate-data-set.html)|[New-MCADataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MCADataSet.html)|
-|[aws marketplacecommerceanalytics start-support-data-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplacecommerceanalytics/start-support-data-export.html)|[Start-MCASupportDataExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MCASupportDataExport.html)|
 

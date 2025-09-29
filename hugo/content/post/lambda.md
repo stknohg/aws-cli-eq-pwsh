@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2025-09-16
+date: 2025-09-29
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -48,7 +48,6 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda get-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-provisioned-concurrency-config.html)|[Get-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMProvisionedConcurrencyConfig.html)|
 |[aws lambda get-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-runtime-management-config.html)|[Get-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMRuntimeManagementConfig.html)|
 |[aws lambda invoke](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/invoke.html)|[Invoke-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunction.html)|
-|[aws lambda invoke-async](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/invoke-async.html)||
 |[aws lambda list-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-aliases.html)|[Get-LMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAliasList.html)|
 |[aws lambda list-code-signing-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-code-signing-configs.html)|[Get-LMCodeSigningConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMCodeSigningConfigList.html)|
 |[aws lambda list-event-source-mappings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-event-source-mappings.html)|[Get-LMEventSourceMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMEventSourceMappingList.html)|

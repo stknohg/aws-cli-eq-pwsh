@@ -1,6 +1,6 @@
 ---
 title: mediaconvert
-date: 2025-09-16
+date: 2025-09-29
 description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 ---
 
@@ -24,7 +24,6 @@ description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 |[aws mediaconvert delete-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/delete-policy.html)|[Remove-EMCPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCPolicy.html)|
 |[aws mediaconvert delete-preset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/delete-preset.html)|[Remove-EMCPreset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCPreset.html)|
 |[aws mediaconvert delete-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/delete-queue.html)|[Remove-EMCQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCQueue.html)|
-|[aws mediaconvert describe-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/describe-endpoints.html)|[Get-EMCEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCEndpoint.html)|
 |[aws mediaconvert disassociate-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/disassociate-certificate.html)|[Unregister-EMCCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EMCCertificate.html)|
 |[aws mediaconvert get-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-job.html)|[Get-EMCJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCJob.html)|
 |[aws mediaconvert get-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-job-template.html)|[Get-EMCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCJobTemplate.html)|

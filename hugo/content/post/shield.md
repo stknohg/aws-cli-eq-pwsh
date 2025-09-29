@@ -1,6 +1,6 @@
 ---
 title: shield
-date: 2025-09-16
+date: 2025-09-29
 description: aws shield (AWS Shield) command/cmdlet list.
 ---
 
@@ -22,7 +22,6 @@ description: aws shield (AWS Shield) command/cmdlet list.
 |[aws shield create-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/create-subscription.html)|[New-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHLDSubscription.html)|
 |[aws shield delete-protection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/delete-protection.html)|[Remove-SHLDProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDProtection.html)|
 |[aws shield delete-protection-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/delete-protection-group.html)|[Remove-SHLDProtectionGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDProtectionGroup.html)|
-|[aws shield delete-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/delete-subscription.html)|[Remove-SHLDSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SHLDSubscription.html)|
 |[aws shield describe-attack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/describe-attack.html)|[Get-SHLDAttack](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDAttack.html)|
 |[aws shield describe-attack-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/describe-attack-statistics.html)|[Get-SHLDAttackStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDAttackStatistic.html)|
 |[aws shield describe-drt-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/shield/describe-drt-access.html)|[Get-SHLDDRTAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHLDDRTAccess.html)|

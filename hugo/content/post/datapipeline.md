@@ -1,6 +1,6 @@
 ---
 title: datapipeline
-date: 2025-09-16
+date: 2025-09-29
 description: aws datapipeline (AWS Data Pipeline) command/cmdlet list.
 ---
 
@@ -15,7 +15,6 @@ description: aws datapipeline (AWS Data Pipeline) command/cmdlet list.
 |----|----|
 |[aws datapipeline activate-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datapipeline/activate-pipeline.html)|[Enable-DPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DPPipeline.html)|
 |[aws datapipeline add-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datapipeline/add-tags.html)|[Add-DPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DPResourceTag.html)|
-|[aws datapipeline create-default-roles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datapipeline/create-default-roles.html)||
 |[aws datapipeline create-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datapipeline/create-pipeline.html)|[New-DPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DPPipeline.html)|
 |[aws datapipeline deactivate-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datapipeline/deactivate-pipeline.html)|[Disable-DPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-DPPipeline.html)|
 |[aws datapipeline delete-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datapipeline/delete-pipeline.html)|[Remove-DPPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DPPipeline.html)|

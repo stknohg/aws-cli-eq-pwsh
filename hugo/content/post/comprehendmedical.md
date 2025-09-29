@@ -1,6 +1,6 @@
 ---
 title: comprehendmedical
-date: 2025-09-16
+date: 2025-09-29
 description: aws comprehendmedical (Amazon Comprehend) command/cmdlet list.
 ---
 
@@ -18,7 +18,6 @@ description: aws comprehendmedical (Amazon Comprehend) command/cmdlet list.
 |[aws comprehendmedical describe-phi-detection-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/describe-phi-detection-job.html)|[Get-CMPMPersonalHealthInformationDetectionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CMPMPersonalHealthInformationDetectionJob.html)|
 |[aws comprehendmedical describe-rx-norm-inference-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/describe-rx-norm-inference-job.html)|[Get-CMPMRxNormInferenceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CMPMRxNormInferenceJob.html)|
 |[aws comprehendmedical describe-snomedct-inference-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/describe-snomedct-inference-job.html)|[Get-CMPMSNOMEDCTInferenceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CMPMSNOMEDCTInferenceJob.html)|
-|[aws comprehendmedical detect-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/detect-entities.html)|[Find-CMPMMedicalEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CMPMMedicalEntity.html)|
 |[aws comprehendmedical detect-entities-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/detect-entities-v2.html)|[Find-CMPMMedicalEntityV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CMPMMedicalEntityV2.html)|
 |[aws comprehendmedical detect-phi](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/detect-phi.html)|[Find-CMPMPersonalHealthInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CMPMPersonalHealthInformation.html)|
 |[aws comprehendmedical infer-icd10-cm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/comprehendmedical/infer-icd10-cm.html)|[Find-CMPMICD10CM](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CMPMICD10CM.html)|

@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore-control
-date: 2025-09-16
+date: 2025-09-29
 description: aws bedrock-agentcore-control (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -54,8 +54,11 @@ description: aws bedrock-agentcore-control (Amazon Bedrock AgentCore) command/cm
 |[aws bedrock-agentcore-control list-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-gateways.html)|[Get-BACCGatewayList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCGatewayList.html)|
 |[aws bedrock-agentcore-control list-memories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-memories.html)|[Get-BACCMemoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCMemoryList.html)|
 |[aws bedrock-agentcore-control list-oauth2-credential-providers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-oauth2-credential-providers.html)|[Get-BACCOauth2CredentialProviderList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCOauth2CredentialProviderList.html)|
+|[aws bedrock-agentcore-control list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-tags-for-resource.html)|[Get-BACCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCResourceTag.html)|
 |[aws bedrock-agentcore-control list-workload-identities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-workload-identities.html)|[Get-BACCWorkloadIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCWorkloadIdentityList.html)|
 |[aws bedrock-agentcore-control set-token-vault-cmk](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/set-token-vault-cmk.html)|[Set-BACCTokenVaultCMK](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-BACCTokenVaultCMK.html)|
+|[aws bedrock-agentcore-control tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/tag-resource.html)|[Add-BACCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BACCResourceTag.html)|
+|[aws bedrock-agentcore-control untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/untag-resource.html)|[Remove-BACCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACCResourceTag.html)|
 |[aws bedrock-agentcore-control update-agent-runtime](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/update-agent-runtime.html)|[Update-BACCAgentRuntime](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BACCAgentRuntime.html)|
 |[aws bedrock-agentcore-control update-agent-runtime-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/update-agent-runtime-endpoint.html)|[Update-BACCAgentRuntimeEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BACCAgentRuntimeEndpoint.html)|
 |[aws bedrock-agentcore-control update-api-key-credential-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/update-api-key-credential-provider.html)|[Update-BACCApiKeyCredentialProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BACCApiKeyCredentialProvider.html)|

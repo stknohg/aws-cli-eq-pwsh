@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2025-09-29
+date: 2025-10-02
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 

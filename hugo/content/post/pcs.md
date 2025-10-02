@@ -1,6 +1,6 @@
 ---
 title: pcs
-date: 2025-09-29
+date: 2025-10-02
 description: aws pcs (AWS Parallel Computing Service) command/cmdlet list.
 ---
 
@@ -29,6 +29,7 @@ description: aws pcs (AWS Parallel Computing Service) command/cmdlet list.
 |[aws pcs register-compute-node-group-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pcs/register-compute-node-group-instance.html)|[Register-PCSComputeNodeGroupInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-PCSComputeNodeGroupInstance.html)|
 |[aws pcs tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pcs/tag-resource.html)|[Add-PCSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PCSResourceTag.html)|
 |[aws pcs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pcs/untag-resource.html)|[Remove-PCSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PCSResourceTag.html)|
+|[aws pcs update-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pcs/update-cluster.html)|[Update-PCSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCSCluster.html)|
 |[aws pcs update-compute-node-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pcs/update-compute-node-group.html)|[Update-PCSComputeNodeGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCSComputeNodeGroup.html)|
 |[aws pcs update-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pcs/update-queue.html)|[Update-PCSQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCSQueue.html)|
 

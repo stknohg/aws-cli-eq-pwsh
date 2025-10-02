@@ -1,6 +1,6 @@
 ---
 title: tnb
-date: 2025-09-29
+date: 2025-10-02
 description: aws tnb (AWS Telco Network Builder) command/cmdlet list.
 ---
 

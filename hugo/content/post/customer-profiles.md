@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2025-09-29
+date: 2025-10-02
 description: aws customer-profiles (Amazon Connect Customer Profiles) command/cmdlet list.
 ---
 
@@ -50,6 +50,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles get-identity-resolution-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-identity-resolution-job.html)|[Get-CPFIdentityResolutionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFIdentityResolutionJob.html)|
 |[aws customer-profiles get-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-integration.html)|[Get-CPFIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFIntegration.html)|
 |[aws customer-profiles get-matches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-matches.html)|[Get-CPFMatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFMatch.html)|
+|[aws customer-profiles get-profile-history-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-profile-history-record.html)|[Get-CPFProfileHistoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileHistoryRecord.html)|
 |[aws customer-profiles get-profile-object-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-profile-object-type.html)|[Get-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectType.html)|
 |[aws customer-profiles get-profile-object-type-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-profile-object-type-template.html)|[Get-CPFProfileObjectTypeTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeTemplate.html)|
 |[aws customer-profiles get-segment-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/get-segment-definition.html)|[Get-CPFSegmentDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFSegmentDefinition.html)|
@@ -72,6 +73,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles list-integrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-integrations.html)|[Get-CPFIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFIntegrationList.html)|
 |[aws customer-profiles list-object-type-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-object-type-attributes.html)|[Get-CPFObjectTypeAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFObjectTypeAttributeList.html)|
 |[aws customer-profiles list-profile-attribute-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-attribute-values.html)|[Get-CPFProfileAttributeValueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileAttributeValueList.html)|
+|[aws customer-profiles list-profile-history-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-history-records.html)|[Get-CPFProfileHistoryRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileHistoryRecordList.html)|
 |[aws customer-profiles list-profile-object-type-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-object-type-templates.html)|[Get-CPFProfileObjectTypeTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeTemplateList.html)|
 |[aws customer-profiles list-profile-object-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-object-types.html)|[Get-CPFProfileObjectTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectTypeList.html)|
 |[aws customer-profiles list-profile-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/list-profile-objects.html)|[Get-CPFProfileObjectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFProfileObjectList.html)|

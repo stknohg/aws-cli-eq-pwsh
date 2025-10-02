@@ -1,6 +1,6 @@
 ---
 title: artifact
-date: 2025-09-29
+date: 2025-10-02
 description: aws artifact (AWS Artifact) command/cmdlet list.
 ---
 

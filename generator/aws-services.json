@@ -1851,7 +1851,7 @@
     "Prefix": "PRO",
     "Name": "AWS Proton",
     "Url": "https://aws.amazon.com/proton/",
-    "Note": ""
+    "Note": "CLI deprecated in Ver.2.31.10"
   },
   "qapps": {
     "Prefix": "QAPPS",

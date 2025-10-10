@@ -120,7 +120,7 @@
     "Note": ""
   },
   "applicationcostprofiler": {
-    "Prefix": "ACP ",
+    "Prefix": "ACP",
     "Name": "AWS Application Cost Profiler",
     "Url": "https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/",
     "Note": ""
@@ -132,7 +132,7 @@
     "Note": ""
   },
   "apprunner": {
-    "Prefix": "AAR ",
+    "Prefix": "AAR",
     "Name": "AWS App Runner",
     "Url": "https://aws.amazon.com/apprunner/",
     "Note": ""
@@ -517,7 +517,7 @@
   },
   "codestar-connections": {
     "Prefix": "CSTC",
-    "Name": "AWS CodeStar Connections ",
+    "Name": "AWS CodeStar Connections",
     "Url": "https://aws.amazon.com/codestar/",
     "Note": ""
   },
@@ -1016,7 +1016,7 @@
   "glacier": {
     "Prefix": "GLC",
     "Name": "Amazon S3 Glacier",
-    "Url": "https://aws.amazon.com/glacier/",
+    "Url": "https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html",
     "Note": ""
   },
   "globalaccelerator": {
@@ -1248,7 +1248,7 @@
     "Note": ""
   },
   "kafkaconnect": {
-    "Prefix": "MSKC ",
+    "Prefix": "MSKC",
     "Name": "Amazon Managed Streaming for Kafka Connect",
     "Url": "https://aws.amazon.com/msk/",
     "Note": ""
@@ -1885,7 +1885,7 @@
   },
   "quicksight": {
     "Prefix": "QS",
-    "Name": "Amazon QuickSight",
+    "Name": "Amazon Quick Sight",
     "Url": "https://aws.amazon.com/quicksight/",
     "Note": ""
   },
@@ -2143,7 +2143,7 @@
   },
   "securityhub": {
     "Prefix": "SHUB",
-    "Name": "AWS Security Hub",
+    "Name": "AWS Security Hub CSPM",
     "Url": "https://aws.amazon.com/securityhub/",
     "Note": ""
   },
@@ -2425,13 +2425,13 @@
   },
   "waf-regional": {
     "Prefix": "WAFR",
-    "Name": "AWS WAF Regional ",
+    "Name": "AWS WAF Classic Regional",
     "Url": "https://aws.amazon.com/waf/",
     "Note": ""
   },
   "waf": {
     "Prefix": "WAF",
-    "Name": "AWS WAF",
+    "Name": "AWS WAF Classic",
     "Url": "https://aws.amazon.com/waf/",
     "Note": ""
   },

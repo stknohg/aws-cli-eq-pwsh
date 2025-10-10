@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2025-10-02
+date: 2025-10-10
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -41,6 +41,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-tags-for-resource.html)|[Get-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPResourceTag.html)|
 |[aws outposts start-capacity-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/start-capacity-task.html)|[Start-OUTPCapacityTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OUTPCapacityTask.html)|
 |[aws outposts start-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/start-connection.html)|[Start-OUTPConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OUTPConnection.html)|
+|[aws outposts start-outpost-decommission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/start-outpost-decommission.html)|[Start-OUTPOutpostDecommission](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OUTPOutpostDecommission.html)|
 |[aws outposts tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/tag-resource.html)|[Add-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-OUTPResourceTag.html)|
 |[aws outposts untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/untag-resource.html)|[Remove-OUTPResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPResourceTag.html)|
 |[aws outposts update-outpost](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/update-outpost.html)|[Update-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OUTPOutpost.html)|

@@ -1,6 +1,6 @@
 ---
 title: payment-cryptography-data
-date: 2025-10-02
+date: 2025-10-10
 description: aws payment-cryptography-data (AWS Payment Cryptography Data Plane) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws payment-cryptography-data (AWS Payment Cryptography Data Plane)
 |[aws payment-cryptography-data generate-mac-emv-pin-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-mac-emv-pin-change.html)|[New-PAYCDMacEmvPinChange](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDMacEmvPinChange.html)|
 |[aws payment-cryptography-data generate-pin-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-pin-data.html)|[New-PAYCDPinData](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDPinData.html)|
 |[aws payment-cryptography-data re-encrypt-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/re-encrypt-data.html)|[Update-PAYCDEncryptData](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PAYCDEncryptData.html)|
+|[aws payment-cryptography-data translate-key-material](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/translate-key-material.html)|[Convert-PAYCDKeyMaterial](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-PAYCDKeyMaterial.html)|
 |[aws payment-cryptography-data translate-pin-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/translate-pin-data.html)|[Convert-PAYCDPinData](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-PAYCDPinData.html)|
 |[aws payment-cryptography-data verify-auth-request-cryptogram](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/verify-auth-request-cryptogram.html)|[Test-PAYCDAuthRequestCryptogram](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-PAYCDAuthRequestCryptogram.html)|
 |[aws payment-cryptography-data verify-card-validation-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/verify-card-validation-data.html)|[Test-PAYCDCardValidationData](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-PAYCDCardValidationData.html)|

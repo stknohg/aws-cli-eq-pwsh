@@ -1,12 +1,12 @@
 ---
 title: securityhub
-date: 2025-10-02
-description: aws securityhub (AWS Security Hub) command/cmdlet list.
+date: 2025-10-10
+description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 ---
 
 ## securityhub
 
-### [AWS Security Hub](https://aws.amazon.com/securityhub/)
+### [AWS Security Hub CSPM](https://aws.amazon.com/securityhub/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Security_Hub_cmdlets.html)

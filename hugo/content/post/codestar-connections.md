@@ -1,12 +1,12 @@
 ---
 title: codestar-connections
-date: 2025-10-02
-description: aws codestar-connections (AWS CodeStar Connections ) command/cmdlet list.
+date: 2025-10-10
+description: aws codestar-connections (AWS CodeStar Connections) command/cmdlet list.
 ---
 
 ## codestar-connections
 
-### [AWS CodeStar Connections ](https://aws.amazon.com/codestar/)
+### [AWS CodeStar Connections](https://aws.amazon.com/codestar/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codestar-connections/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/CodeStarconnections_cmdlets.html)

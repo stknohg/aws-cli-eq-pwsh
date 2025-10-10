@@ -1,6 +1,6 @@
 ---
 title: connectcases
-date: 2025-10-02
+date: 2025-10-10
 description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 |[aws connectcases list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/list-tags-for-resource.html)|[Get-CCASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASResourceTag.html)|
 |[aws connectcases list-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/list-templates.html)|[Get-CCASTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASTemplateList.html)|
 |[aws connectcases put-case-event-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/put-case-event-configuration.html)|[Write-CCASCaseEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CCASCaseEventConfiguration.html)|
+|[aws connectcases search-all-related-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/search-all-related-items.html)|[Search-CCASAllRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CCASAllRelatedItem.html)|
 |[aws connectcases search-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/search-cases.html)|[Search-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CCASCase.html)|
 |[aws connectcases search-related-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/search-related-items.html)|[Search-CCASRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CCASRelatedItem.html)|
 |[aws connectcases tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/tag-resource.html)|[Add-CCASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CCASResourceTag.html)|

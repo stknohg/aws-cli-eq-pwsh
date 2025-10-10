@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore
-date: 2025-10-02
+date: 2025-10-10
 description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -13,9 +13,13 @@ description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet lis
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws bedrock-agentcore batch-create-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/batch-create-memory-records.html)|[New-BACBatchMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BACBatchMemoryRecord.html)|
+|[aws bedrock-agentcore batch-delete-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/batch-delete-memory-records.html)|[Remove-BACBatchMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACBatchMemoryRecord.html)|
+|[aws bedrock-agentcore batch-update-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/batch-update-memory-records.html)|[Update-BACBatchMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BACBatchMemoryRecord.html)|
 |[aws bedrock-agentcore create-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/create-event.html)|[New-BACEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BACEvent.html)|
 |[aws bedrock-agentcore delete-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-event.html)|[Remove-BACEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACEvent.html)|
 |[aws bedrock-agentcore delete-memory-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-memory-record.html)|[Remove-BACMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACMemoryRecord.html)|
+|[aws bedrock-agentcore get-agent-card](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-agent-card.html)|[Get-BACAgentCard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACAgentCard.html)|
 |[aws bedrock-agentcore get-browser-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-browser-session.html)|[Get-BACBrowserSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACBrowserSession.html)|
 |[aws bedrock-agentcore get-code-interpreter-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-code-interpreter-session.html)|[Get-BACCodeInterpreterSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCodeInterpreterSession.html)|
 |[aws bedrock-agentcore get-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-event.html)|[Get-BACEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACEvent.html)|
@@ -37,5 +41,6 @@ description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet lis
 |[aws bedrock-agentcore start-code-interpreter-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/start-code-interpreter-session.html)|[Start-BACCodeInterpreterSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BACCodeInterpreterSession.html)|
 |[aws bedrock-agentcore stop-browser-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/stop-browser-session.html)|[Stop-BACBrowserSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BACBrowserSession.html)|
 |[aws bedrock-agentcore stop-code-interpreter-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/stop-code-interpreter-session.html)|[Stop-BACCodeInterpreterSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BACCodeInterpreterSession.html)|
+|[aws bedrock-agentcore stop-runtime-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/stop-runtime-session.html)|[Stop-BACRuntimeSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BACRuntimeSession.html)|
 |[aws bedrock-agentcore update-browser-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/update-browser-stream.html)|[Update-BACBrowserStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BACBrowserStream.html)|
 

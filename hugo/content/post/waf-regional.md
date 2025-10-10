@@ -1,12 +1,12 @@
 ---
 title: waf-regional
-date: 2025-10-02
-description: aws waf-regional (AWS WAF Regional ) command/cmdlet list.
+date: 2025-10-10
+description: aws waf-regional (AWS WAF Classic Regional) command/cmdlet list.
 ---
 
 ## waf-regional
 
-### [AWS WAF Regional ](https://aws.amazon.com/waf/)
+### [AWS WAF Classic Regional](https://aws.amazon.com/waf/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/waf-regional/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_WAF_Regional_cmdlets.html)

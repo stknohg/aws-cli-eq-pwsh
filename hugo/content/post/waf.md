@@ -1,12 +1,12 @@
 ---
 title: waf
-date: 2025-10-02
-description: aws waf (AWS WAF) command/cmdlet list.
+date: 2025-10-10
+description: aws waf (AWS WAF Classic) command/cmdlet list.
 ---
 
 ## waf
 
-### [AWS WAF](https://aws.amazon.com/waf/)
+### [AWS WAF Classic](https://aws.amazon.com/waf/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/waf/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_WAF_cmdlets.html)

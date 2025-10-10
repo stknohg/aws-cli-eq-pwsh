@@ -1,6 +1,6 @@
 ---
 title: memorydb
-date: 2025-10-02
+date: 2025-10-10
 description: aws memorydb (Amazon MemoryDB) command/cmdlet list.
 ---
 
@@ -34,6 +34,8 @@ description: aws memorydb (Amazon MemoryDB) command/cmdlet list.
 |[aws memorydb describe-engine-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-engine-versions.html)|[Get-MDBEngineVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBEngineVersion.html)|
 |[aws memorydb describe-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-events.html)|[Get-MDBEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBEvent.html)|
 |[aws memorydb describe-multi-region-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-multi-region-clusters.html)|[Get-MDBMultiRegionCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBMultiRegionCluster.html)|
+|[aws memorydb describe-multi-region-parameter-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-multi-region-parameter-groups.html)|[Get-MDBMultiRegionParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBMultiRegionParameterGroup.html)|
+|[aws memorydb describe-multi-region-parameters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-multi-region-parameters.html)|[Get-MDBMultiRegionParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBMultiRegionParameter.html)|
 |[aws memorydb describe-parameter-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-parameter-groups.html)|[Get-MDBParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBParameterGroup.html)|
 |[aws memorydb describe-parameters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-parameters.html)|[Get-MDBParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBParameter.html)|
 |[aws memorydb describe-reserved-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/memorydb/describe-reserved-nodes.html)|[Get-MDBReservedNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDBReservedNode.html)|

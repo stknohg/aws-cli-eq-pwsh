@@ -1,12 +1,12 @@
 ---
 title: glacier
-date: 2025-10-02
+date: 2025-10-10
 description: aws glacier (Amazon S3 Glacier) command/cmdlet list.
 ---
 
 ## glacier
 
-### [Amazon S3 Glacier](https://aws.amazon.com/glacier/)
+### [Amazon S3 Glacier](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glacier/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Glacier_cmdlets.html)

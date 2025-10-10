@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-10-02
+date: 2025-10-10
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.31.6 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.67 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.31.12 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.73 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -40,9 +40,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)|[application-autoscaling]({{%relref "post/application-autoscaling.md" %}})|AAS||
 |[Amazon CloudWatch Application Insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/cloudwatch-application-insights.html)|[application-insights]({{%relref "post/application-insights.md" %}})|CWAI||
 |[Amazon CloudWatch Application Signals](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Application-Monitoring-Sections.html)|[application-signals]({{%relref "post/application-signals.md" %}})|CWAS||
-|[AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)|[applicationcostprofiler]({{%relref "post/applicationcostprofiler.md" %}})|ACP ||
+|[AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)|[applicationcostprofiler]({{%relref "post/applicationcostprofiler.md" %}})|ACP||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
-|[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR ||
+|[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
 |[AWS Mainframe Modernization Application Testing](https://aws.amazon.com/mainframe-modernization/capabilities/testing/)|[apptest]({{%relref "post/apptest.md" %}})|AT||
@@ -106,7 +106,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CodeGuru Security](https://aws.amazon.com/codeguru/)|[codeguru-security]({{%relref "post/codeguru-security.md" %}})|CGS||
 |[Amazon CodeGuru Profiler](https://aws.amazon.com/codeguru/)|[codeguruprofiler]({{%relref "post/codeguruprofiler.md" %}})|CGP||
 |[AWS CodePipeline](https://aws.amazon.com/codepipeline/)|[codepipeline]({{%relref "post/codepipeline.md" %}})|CP||
-|[AWS CodeStar Connections ](https://aws.amazon.com/codestar/)|[codestar-connections]({{%relref "post/codestar-connections.md" %}})|CSTC||
+|[AWS CodeStar Connections](https://aws.amazon.com/codestar/)|[codestar-connections]({{%relref "post/codestar-connections.md" %}})|CSTC||
 |[AWS CodeStar Notifications](https://aws.amazon.com/codestar/)|[codestar-notifications]({{%relref "post/codestar-notifications.md" %}})|CSTN||
 |[Amazon Cognito uniquely identifies](https://aws.amazon.com/cognito/)|[cognito-identity]({{%relref "post/cognito-identity.md" %}})|CGI||
 |[Amazon Cognito Identity Provider](https://aws.amazon.com/cognito/)|[cognito-idp]({{%relref "post/cognito-idp.md" %}})|CGIP||
@@ -188,7 +188,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Location Service Maps V2](https://aws.amazon.com/location/)|[geo-maps]({{%relref "post/geo-maps.md" %}})|GEOM||
 |[Amazon Location Service Places V2](https://aws.amazon.com/location/)|[geo-places]({{%relref "post/geo-places.md" %}})|GEOP||
 |[Amazon Location Service Routes V2](https://aws.amazon.com/location/)|[geo-routes]({{%relref "post/geo-routes.md" %}})|GEOR||
-|[Amazon S3 Glacier](https://aws.amazon.com/glacier/)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
+|[Amazon S3 Glacier](https://docs.aws.amazon.com/amazonglacier/latest/dev/introduction.html)|[glacier]({{%relref "post/glacier.md" %}})|GLC||
 |[AWS Global Accelerator](https://aws.amazon.com/global-accelerator/)|[globalaccelerator]({{%relref "post/globalaccelerator.md" %}})|GACL||
 |[AWS Glue](https://aws.amazon.com/glue/)|[glue]({{%relref "post/glue.md" %}})|GLUE||
 |[Amazon Managed Grafana](https://aws.amazon.com/grafana/)|[grafana]({{%relref "post/grafana.md" %}})|MGRF||
@@ -227,7 +227,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Interactive Video Service RealTime](https://aws.amazon.com/ivs/)|[ivs-realtime]({{%relref "post/ivs-realtime.md" %}})|IVSRT||
 |[Amazon Interactive Video Service](https://aws.amazon.com/ivs/)|[ivschat]({{%relref "post/ivschat.md" %}})|IVSC|Amazon IVS Chat control-plane API|
 |[Amazon Managed Streaming for Kafka](https://aws.amazon.com/msk/)|[kafka]({{%relref "post/kafka.md" %}})|MSK||
-|[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC ||
+|[Amazon Managed Streaming for Kafka Connect](https://aws.amazon.com/msk/)|[kafkaconnect]({{%relref "post/kafkaconnect.md" %}})|MSKC||
 |[Amazon Kendra](https://aws.amazon.com/kendra/)|[kendra]({{%relref "post/kendra.md" %}})|KNDR||
 |[Amazon Kendra Intelligent Ranking](https://aws.amazon.com/kendra/)|[kendra-ranking]({{%relref "post/kendra-ranking.md" %}})|KNRK||
 |[Amazon Keyspaces](https://aws.amazon.com/keyspaces/)|[keyspaces]({{%relref "post/keyspaces.md" %}})|KS||
@@ -327,13 +327,13 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EventBridge Pipes](https://aws.amazon.com/eventbridge/pipes/)|[pipes]({{%relref "post/pipes.md" %}})|PIPES||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
-|[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO||
+|[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO|CLI deprecated in Ver.2.31.10|
 |[Amazon Q Apps](https://aws.amazon.com/q/business/)|[qapps]({{%relref "post/qapps.md" %}})|QAPPS||
 |[Amazon Q for Your Business](https://aws.amazon.com/q/business-expert/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|QBUS||
 |[Amazon Q in Connect](https://aws.amazon.com/connect/q/)|[qconnect]({{%relref "post/qconnect.md" %}})|QC||
 |[Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)|[qldb]({{%relref "post/qldb.md" %}})|QLDB||
 |[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||
-|[Amazon QuickSight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||
+|[Amazon Quick Sight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||
 |[AWS Resource Access Manager](https://aws.amazon.com/ram/)|[ram]({{%relref "post/ram.md" %}})|RAM||
 |[Recycle Bin](https://aws.amazon.com/ebs/snapshots/)|[rbin]({{%relref "post/rbin.md" %}})|RBIN||
 |[Amazon Relational Database Service](https://aws.amazon.com/rds/)|[rds]({{%relref "post/rds.md" %}})|RDS||
@@ -376,7 +376,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[sdb]({{%relref "post/sdb.md" %}})|||
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
 |[AWS Security Incident Response](https://aws.amazon.com/solutions/cloud-foundations/capabilities/security-incident-response/)|[security-ir]({{%relref "post/security-ir.md" %}})|SecurityIR||
-|[AWS Security Hub](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
+|[AWS Security Hub CSPM](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
 |[Amazon Security Lake](https://aws.amazon.com/security-lake/)|[securitylake]({{%relref "post/securitylake.md" %}})|SLK||
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||
 |[AWS Service Quotas](https://console.aws.amazon.com/servicequotas/)|[service-quotas]({{%relref "post/service-quotas.md" %}})|SQ||
@@ -423,8 +423,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)|[verifiedpermissions]({{%relref "post/verifiedpermissions.md" %}})|AVP||
 |[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||
 |[Amazon VPC Lattice](https://aws.amazon.com/vpc/lattice/)|[vpc-lattice]({{%relref "post/vpc-lattice.md" %}})|VPCL||
-|[AWS WAF](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||
-|[AWS WAF Regional ](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||
+|[AWS WAF Classic](https://aws.amazon.com/waf/)|[waf]({{%relref "post/waf.md" %}})|WAF||
+|[AWS WAF Classic Regional](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||
 |[AWS WAF V2](https://aws.amazon.com/waf/)|[wafv2]({{%relref "post/wafv2.md" %}})|WAF2||
 |[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)|[wellarchitected]({{%relref "post/wellarchitected.md" %}})|WAT||
 |[Amazon Connect Wisdom](https://aws.amazon.com/connect/wisdom/)|[wisdom]({{%relref "post/wisdom.md" %}})|WSDM||

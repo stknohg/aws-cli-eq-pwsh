@@ -1,6 +1,6 @@
 ---
 title: iotthingsgraph
-date: 2025-10-02
+date: 2025-10-10
 description: aws iotthingsgraph (AWS IoT Things Graph) command/cmdlet list.
 ---
 

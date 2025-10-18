@@ -1,6 +1,6 @@
 ---
 title: codeguru-security
-date: 2025-10-10
+date: 2025-10-18
 description: aws codeguru-security (Amazon CodeGuru Security) command/cmdlet list.
 ---
 

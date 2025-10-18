@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore
-date: 2025-10-10
+date: 2025-10-18
 description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet lis
 |[aws bedrock-agentcore batch-create-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/batch-create-memory-records.html)|[New-BACBatchMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BACBatchMemoryRecord.html)|
 |[aws bedrock-agentcore batch-delete-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/batch-delete-memory-records.html)|[Remove-BACBatchMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACBatchMemoryRecord.html)|
 |[aws bedrock-agentcore batch-update-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/batch-update-memory-records.html)|[Update-BACBatchMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BACBatchMemoryRecord.html)|
+|[aws bedrock-agentcore complete-resource-token-auth](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/complete-resource-token-auth.html)|[Complete-BACResourceTokenAuth](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-BACResourceTokenAuth.html)|
 |[aws bedrock-agentcore create-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/create-event.html)|[New-BACEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BACEvent.html)|
 |[aws bedrock-agentcore delete-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-event.html)|[Remove-BACEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACEvent.html)|
 |[aws bedrock-agentcore delete-memory-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-memory-record.html)|[Remove-BACMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACMemoryRecord.html)|

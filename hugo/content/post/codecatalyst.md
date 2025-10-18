@@ -1,6 +1,6 @@
 ---
 title: codecatalyst
-date: 2025-10-10
+date: 2025-10-18
 description: aws codecatalyst (Amazon CodeCatalyst) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: chime-sdk-meetings
-date: 2025-10-10
+date: 2025-10-18
 description: aws chime-sdk-meetings (Amazon Chime) command/cmdlet list.
 ---
 

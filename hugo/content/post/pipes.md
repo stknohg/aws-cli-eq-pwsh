@@ -1,6 +1,6 @@
 ---
 title: pipes
-date: 2025-10-10
+date: 2025-10-18
 description: aws pipes (Amazon EventBridge Pipes) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: appconfig
-date: 2025-10-10
+date: 2025-10-18
 description: aws appconfig (AWS AppConfig) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: textract
-date: 2025-10-10
+date: 2025-10-18
 description: aws textract (Amazon Textract) command/cmdlet list.
 ---
 

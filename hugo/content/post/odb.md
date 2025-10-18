@@ -1,6 +1,6 @@
 ---
 title: odb
-date: 2025-10-10
+date: 2025-10-18
 description: aws odb (Oracle Database@AWS) command/cmdlet list.
 ---
 
@@ -53,4 +53,5 @@ description: aws odb (Oracle Database@AWS) command/cmdlet list.
 |[aws odb untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/untag-resource.html)|[Remove-ODBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ODBResourceTag.html)|
 |[aws odb update-cloud-exadata-infrastructure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-cloud-exadata-infrastructure.html)|[Update-ODBCloudExadataInfrastructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBCloudExadataInfrastructure.html)|
 |[aws odb update-odb-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-odb-network.html)|[Update-ODBOdbNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBOdbNetwork.html)|
+|[aws odb update-odb-peering-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-odb-peering-connection.html)|[Update-ODBOdbPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBOdbPeeringConnection.html)|
 

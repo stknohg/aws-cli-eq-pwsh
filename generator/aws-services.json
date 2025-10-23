@@ -2021,6 +2021,12 @@
     "Url": "https://aws.amazon.com/route53/",
     "Note": ""
   },
+  "rtbfabric": {
+    "Prefix": "RTB",
+    "Name": "AWS RTB Fabric",
+    "Url": "https://aws.amazon.com/rtb-fabric/",
+    "Note": ""
+  },
   "rum": {
     "Prefix": "CWRUM",
     "Name": "Real-User Monitoring for Amazon CloudWatch",

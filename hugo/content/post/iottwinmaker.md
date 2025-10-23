@@ -1,6 +1,6 @@
 ---
 title: iottwinmaker
-date: 2025-10-18
+date: 2025-10-23
 description: aws iottwinmaker (AWS IoT TwinMaker) command/cmdlet list.
 ---
 

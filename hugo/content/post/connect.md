@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-10-18
+date: 2025-10-23
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-bot.html)|[Add-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNBot.html)|
 |[aws connect associate-contact-with-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-contact-with-user.html)|[Join-CONNContactWithUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-CONNContactWithUser.html)|
 |[aws connect associate-default-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-default-vocabulary.html)|[Add-CONNDefaultVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNDefaultVocabulary.html)|
+|[aws connect associate-email-address-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-email-address-alias.html)|[Add-CONNEmailAddressAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNEmailAddressAlias.html)|
 |[aws connect associate-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-flow.html)|[Add-CONNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNFlow.html)|
 |[aws connect associate-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-instance-storage-config.html)|[Add-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNInstanceStorageConfig.html)|
 |[aws connect associate-lambda-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-lambda-function.html)|[Add-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLambdaFunction.html)|
@@ -123,6 +124,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect disassociate-analytics-data-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-analytics-data-set.html)|[Unregister-CONNAnalyticsDataSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CONNAnalyticsDataSet.html)|
 |[aws connect disassociate-approved-origin](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-approved-origin.html)|[Remove-CONNApprovedOrigin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNApprovedOrigin.html)|
 |[aws connect disassociate-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-bot.html)|[Remove-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNBot.html)|
+|[aws connect disassociate-email-address-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-email-address-alias.html)|[Remove-CONNEmailAddressAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNEmailAddressAlias.html)|
 |[aws connect disassociate-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-flow.html)|[Remove-CONNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNFlow.html)|
 |[aws connect disassociate-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-instance-storage-config.html)|[Remove-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstanceStorageConfig.html)|
 |[aws connect disassociate-lambda-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-lambda-function.html)|[Remove-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLambdaFunction.html)|

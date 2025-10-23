@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-10-18
+date: 2025-10-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.31.18 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.79 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.31.20 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.81 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -356,6 +356,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
 |[Amazon Route 53 Profiles](https://aws.amazon.com/route53/)|[route53profiles]({{%relref "post/route53profiles.md" %}})|R53P||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
+|[AWS RTB Fabric](https://aws.amazon.com/rtb-fabric/)|[rtbfabric]({{%relref "post/rtbfabric.md" %}})|RTB||
 |[Real-User Monitoring for Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[rum]({{%relref "post/rum.md" %}})|CWRUM||
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})||High-level S3 commands.|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|PowerShell cmdlets are paired with s3api commands.|

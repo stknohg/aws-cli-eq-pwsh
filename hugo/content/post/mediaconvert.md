@@ -1,6 +1,6 @@
 ---
 title: mediaconvert
-date: 2025-10-18
+date: 2025-10-23
 description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 |[aws mediaconvert disassociate-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/disassociate-certificate.html)|[Unregister-EMCCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EMCCertificate.html)|
 |[aws mediaconvert get-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-job.html)|[Get-EMCJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCJob.html)|
 |[aws mediaconvert get-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-job-template.html)|[Get-EMCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCJobTemplate.html)|
+|[aws mediaconvert get-jobs-query-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-jobs-query-results.html)|[Get-EMCJobsQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCJobsQueryResult.html)|
 |[aws mediaconvert get-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-policy.html)|[Get-EMCPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCPolicy.html)|
 |[aws mediaconvert get-preset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-preset.html)|[Get-EMCPreset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCPreset.html)|
 |[aws mediaconvert get-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/get-queue.html)|[Get-EMCQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMCQueue.html)|
@@ -39,6 +40,7 @@ description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 |[aws mediaconvert probe](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/probe.html)|[Invoke-EMCProbe](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-EMCProbe.html)|
 |[aws mediaconvert put-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/put-policy.html)|[Write-EMCPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMCPolicy.html)|
 |[aws mediaconvert search-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/search-jobs.html)|[Search-EMCJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-EMCJob.html)|
+|[aws mediaconvert start-jobs-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/start-jobs-query.html)|[Start-EMCJobsQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMCJobsQuery.html)|
 |[aws mediaconvert tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/tag-resource.html)|[Add-EMCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMCResourceTag.html)|
 |[aws mediaconvert untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/untag-resource.html)|[Remove-EMCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMCResourceTag.html)|
 |[aws mediaconvert update-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediaconvert/update-job-template.html)|[Update-EMCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMCJobTemplate.html)|

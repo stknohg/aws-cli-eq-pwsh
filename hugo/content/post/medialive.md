@@ -1,6 +1,6 @@
 ---
 title: medialive
-date: 2025-10-18
+date: 2025-10-23
 description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 ---
 
@@ -78,10 +78,12 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive get-event-bridge-rule-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/get-event-bridge-rule-template.html)|[Get-EMLEventBridgeRuleTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLEventBridgeRuleTemplate.html)|
 |[aws medialive get-event-bridge-rule-template-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/get-event-bridge-rule-template-group.html)|[Get-EMLEventBridgeRuleTemplateGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLEventBridgeRuleTemplateGroup.html)|
 |[aws medialive get-signal-map](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/get-signal-map.html)|[Get-EMLSignalMap](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLSignalMap.html)|
+|[aws medialive list-alerts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-alerts.html)|[Get-EMLAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLAlertList.html)|
 |[aws medialive list-channel-placement-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-channel-placement-groups.html)|[Get-EMLChannelPlacementGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLChannelPlacementGroupList.html)|
 |[aws medialive list-channels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-channels.html)|[Get-EMLChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLChannelList.html)|
 |[aws medialive list-cloud-watch-alarm-template-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-cloud-watch-alarm-template-groups.html)|[Get-EMLCloudWatchAlarmTemplateGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLCloudWatchAlarmTemplateGroupList.html)|
 |[aws medialive list-cloud-watch-alarm-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-cloud-watch-alarm-templates.html)|[Get-EMLCloudWatchAlarmTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLCloudWatchAlarmTemplateList.html)|
+|[aws medialive list-cluster-alerts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-cluster-alerts.html)|[Get-EMLClusterAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLClusterAlertList.html)|
 |[aws medialive list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-clusters.html)|[Get-EMLClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLClusterList.html)|
 |[aws medialive list-event-bridge-rule-template-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-event-bridge-rule-template-groups.html)|[Get-EMLEventBridgeRuleTemplateGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLEventBridgeRuleTemplateGroupList.html)|
 |[aws medialive list-event-bridge-rule-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-event-bridge-rule-templates.html)|[Get-EMLEventBridgeRuleTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLEventBridgeRuleTemplateList.html)|
@@ -89,6 +91,7 @@ description: aws medialive (AWS Elemental MediaLive) command/cmdlet list.
 |[aws medialive list-input-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-input-devices.html)|[Get-EMLInputDeviceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputDeviceList.html)|
 |[aws medialive list-input-security-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-input-security-groups.html)|[Get-EMLInputSecurityGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputSecurityGroupList.html)|
 |[aws medialive list-inputs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-inputs.html)|[Get-EMLInputList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLInputList.html)|
+|[aws medialive list-multiplex-alerts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-multiplex-alerts.html)|[Get-EMLMultiplexAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLMultiplexAlertList.html)|
 |[aws medialive list-multiplex-programs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-multiplex-programs.html)|[Get-EMLMultiplexProgramList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLMultiplexProgramList.html)|
 |[aws medialive list-multiplexes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-multiplexes.html)|[Get-EMLMultiplexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLMultiplexList.html)|
 |[aws medialive list-networks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/medialive/list-networks.html)|[Get-EMLNetworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMLNetworkList.html)|

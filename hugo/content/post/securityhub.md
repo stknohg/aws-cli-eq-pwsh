@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2025-10-23
+date: 2025-10-31
 description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 ---
 

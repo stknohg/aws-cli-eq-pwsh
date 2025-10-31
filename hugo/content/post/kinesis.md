@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2025-10-23
+date: 2025-10-31
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis stop-stream-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/stop-stream-encryption.html)|[Stop-KINStreamEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINStreamEncryption.html)|
 |[aws kinesis tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/tag-resource.html)|[Add-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINResourceTag.html)|
 |[aws kinesis untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/untag-resource.html)|[Remove-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINResourceTag.html)|
+|[aws kinesis update-max-record-size](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-max-record-size.html)|[Update-KINMaxRecordSize](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINMaxRecordSize.html)|
 |[aws kinesis update-shard-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-shard-count.html)|[Update-KINShardCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINShardCount.html)|
 |[aws kinesis update-stream-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-mode.html)|[Update-KINStreamMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamMode.html)|
 

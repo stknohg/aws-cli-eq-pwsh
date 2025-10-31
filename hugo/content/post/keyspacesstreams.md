@@ -1,6 +1,6 @@
 ---
 title: keyspacesstreams
-date: 2025-10-23
+date: 2025-10-31
 description: aws keyspacesstreams (Amazon Keyspaces Streams API) command/cmdlet list.
 ---
 

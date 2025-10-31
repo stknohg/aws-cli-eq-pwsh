@@ -1,6 +1,6 @@
 ---
 title: iot-managed-integrations
-date: 2025-10-23
+date: 2025-10-31
 description: aws iot-managed-integrations (Managed integrations for AWS IoT Device Management) command/cmdlet list.
 ---
 
@@ -48,6 +48,7 @@ description: aws iot-managed-integrations (Managed integrations for AWS IoT Devi
 |[aws iot-managed-integrations get-hub-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-hub-configuration.html)|[Get-IOTMIHubConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIHubConfiguration.html)|
 |[aws iot-managed-integrations get-managed-thing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-managed-thing.html)|[Get-IOTMIManagedThing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIManagedThing.html)|
 |[aws iot-managed-integrations get-managed-thing-capabilities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-managed-thing-capabilities.html)|[Get-IOTMIManagedThingCapability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIManagedThingCapability.html)|
+|[aws iot-managed-integrations get-managed-thing-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-managed-thing-certificate.html)|[Get-IOTMIManagedThingCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIManagedThingCertificate.html)|
 |[aws iot-managed-integrations get-managed-thing-connectivity-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-managed-thing-connectivity-data.html)|[Get-IOTMIManagedThingConnectivityData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIManagedThingConnectivityData.html)|
 |[aws iot-managed-integrations get-managed-thing-meta-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-managed-thing-meta-data.html)|[Get-IOTMIManagedThingMetaData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIManagedThingMetaData.html)|
 |[aws iot-managed-integrations get-managed-thing-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-managed-integrations/get-managed-thing-state.html)|[Get-IOTMIManagedThingState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IOTMIManagedThingState.html)|

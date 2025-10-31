@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2025-10-23
+date: 2025-10-31
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -132,10 +132,12 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker delete-optimization-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-optimization-job.html)|[Remove-SMOptimizationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMOptimizationJob.html)|
 |[aws sagemaker delete-partner-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-partner-app.html)|[Remove-SMPartnerApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMPartnerApp.html)|
 |[aws sagemaker delete-pipeline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-pipeline.html)|[Remove-SMPipeline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMPipeline.html)|
+|[aws sagemaker delete-processing-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-processing-job.html)|[Remove-SMProcessingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMProcessingJob.html)|
 |[aws sagemaker delete-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-project.html)|[Remove-SMProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMProject.html)|
 |[aws sagemaker delete-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-space.html)|[Remove-SMSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMSpace.html)|
 |[aws sagemaker delete-studio-lifecycle-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-studio-lifecycle-config.html)|[Remove-SMStudioLifecycleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMStudioLifecycleConfig.html)|
 |[aws sagemaker delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-tags.html)|[Remove-SMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMResourceTag.html)|
+|[aws sagemaker delete-training-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-training-job.html)|[Remove-SMTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrainingJob.html)|
 |[aws sagemaker delete-trial](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-trial.html)|[Remove-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrial.html)|
 |[aws sagemaker delete-trial-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-trial-component.html)|[Remove-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMTrialComponent.html)|
 |[aws sagemaker delete-user-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/delete-user-profile.html)|[Remove-SMUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SMUserProfile.html)|

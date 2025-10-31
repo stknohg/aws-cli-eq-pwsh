@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-10-23
+date: 2025-10-31
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.31.20 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.81 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.31.26 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.87 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -45,7 +45,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR||
 |[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
-|[AWS Mainframe Modernization Application Testing](https://aws.amazon.com/mainframe-modernization/capabilities/testing/)|[apptest]({{%relref "post/apptest.md" %}})|AT||
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-region-switch]({{%relref "post/arc-region-switch.md" %}})|ARC|Region switch|
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-zonal-shift]({{%relref "post/arc-zonal-shift.md" %}})|AZS|Zonal shift|
 |[AWS Artifact](https://aws.amazon.com/artifact/)|[artifact]({{%relref "post/artifact.md" %}})|ART||
@@ -216,7 +215,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT Core Device Advisor](https://aws.amazon.com/iot/)|[iotdeviceadvisor]({{%relref "post/iotdeviceadvisor.md" %}})|IOTDA||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
-|[Fleet Hub for AWS IoT Device Management](https://aws.amazon.com/iot/)|[iotfleethub]({{%relref "post/iotfleethub.md" %}})|IOTFH||
 |[AWS IoT FleetWise](https://aws.amazon.com/iot-fleetwise/)|[iotfleetwise]({{%relref "post/iotfleetwise.md" %}})|IFW||
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
 |[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
@@ -255,8 +253,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
 |[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)|[lookoutequipment]({{%relref "post/lookoutequipment.md" %}})|L4E||
-|[Amazon Lookout for Metrics](https://aws.amazon.com/lookout-for-metrics/)|[lookoutmetrics]({{%relref "post/lookoutmetrics.md" %}})|LOM||
-|[Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/)|[lookoutvision]({{%relref "post/lookoutvision.md" %}})|LFV||
 |[AWS Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/)|[m2]({{%relref "post/m2.md" %}})|AMM||
 |[Amazon Machine Learning](https://aws.amazon.com/machinelearning/)|[machinelearning]({{%relref "post/machinelearning.md" %}})|ML||
 |[Amazon Macie](https://aws.amazon.com/macie/)|[macie2]({{%relref "post/macie2.md" %}})|MAC2|Macie v1 API was removed.|
@@ -331,8 +327,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Q Apps](https://aws.amazon.com/q/business/)|[qapps]({{%relref "post/qapps.md" %}})|QAPPS||
 |[Amazon Q for Your Business](https://aws.amazon.com/q/business-expert/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|QBUS||
 |[Amazon Q in Connect](https://aws.amazon.com/connect/q/)|[qconnect]({{%relref "post/qconnect.md" %}})|QC||
-|[Amazon Quantum Ledger Database (QLDB)](https://aws.amazon.com/qldb/)|[qldb]({{%relref "post/qldb.md" %}})|QLDB||
-|[Amazon QLDB Session](https://aws.amazon.com/qldb/)|[qldb-session]({{%relref "post/qldb-session.md" %}})|QLDBS||
 |[Amazon Quick Sight](https://aws.amazon.com/quicksight/)|[quicksight]({{%relref "post/quicksight.md" %}})|QS||
 |[AWS Resource Access Manager](https://aws.amazon.com/ram/)|[ram]({{%relref "post/ram.md" %}})|RAM||
 |[Recycle Bin](https://aws.amazon.com/ebs/snapshots/)|[rbin]({{%relref "post/rbin.md" %}})|RBIN||
@@ -347,7 +341,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Resource Explorer](https://aws.amazon.com/resourceexplorer/)|[resource-explorer-2]({{%relref "post/resource-explorer-2.md" %}})|AREX||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
-|[AWS RoboMaker](https://aws.amazon.com/robomaker/)|[robomaker]({{%relref "post/robomaker.md" %}})|ROBO||
 |[IAM Roles Anywhere](https://docs.aws.amazon.com/rolesanywhere/latest/APIReference/Welcome.html)|[rolesanywhere]({{%relref "post/rolesanywhere.md" %}})|IAMRA||
 |[Amazon Route 53](https://aws.amazon.com/route53/)|[route53]({{%relref "post/route53.md" %}})|R53||
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-cluster]({{%relref "post/route53-recovery-cluster.md" %}})|RRC|Recovery Control Data Plane|

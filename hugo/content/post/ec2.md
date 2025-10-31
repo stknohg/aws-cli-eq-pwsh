@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2025-10-23
+date: 2025-10-31
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -276,6 +276,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-capacity-manager-data-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-manager-data-exports.html)|[Get-EC2CapacityManagerDataExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityManagerDataExport.html)|
 |[aws ec2 describe-capacity-reservation-billing-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-billing-requests.html)|[Get-EC2CapacityReservationBillingRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationBillingRequest.html)|
 |[aws ec2 describe-capacity-reservation-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-fleets.html)|[Get-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationFleet.html)|
+|[aws ec2 describe-capacity-reservation-topology](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-topology.html)|[Get-EC2CapacityReservationTopology](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationTopology.html)|
 |[aws ec2 describe-capacity-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservations.html)|[Get-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservation.html)|
 |[aws ec2 describe-carrier-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-carrier-gateways.html)|[Get-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CarrierGateway.html)|
 |[aws ec2 describe-classic-link-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-classic-link-instances.html)|[Get-EC2ClassicLinkInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ClassicLinkInstance.html)|

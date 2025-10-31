@@ -149,12 +149,6 @@
     "Url": "https://aws.amazon.com/appsync/",
     "Note": ""
   },
-  "apptest": {
-    "Prefix": "AT",
-    "Name": "AWS Mainframe Modernization Application Testing",
-    "Url": "https://aws.amazon.com/mainframe-modernization/capabilities/testing/",
-    "Note": ""
-  },
   "arc-region-switch": {
     "Prefix": "ARC",
     "Name": "Amazon Route 53 Application Recovery Controller",
@@ -1175,12 +1169,6 @@
     "Url": "https://aws.amazon.com/iot-events/",
     "Note": ""
   },
-  "iotfleethub": {
-    "Prefix": "IOTFH",
-    "Name": "Fleet Hub for AWS IoT Device Management",
-    "Url": "https://aws.amazon.com/iot/",
-    "Note": ""
-  },
   "iotfleetwise": {
     "Prefix": "IFW",
     "Name": "AWS IoT FleetWise",
@@ -1413,18 +1401,6 @@
     "Prefix": "L4E",
     "Name": "Amazon Lookout for Equipment",
     "Url": "https://aws.amazon.com/lookout-for-equipment/",
-    "Note": ""
-  },
-  "lookoutmetrics": {
-    "Prefix": "LOM",
-    "Name": "Amazon Lookout for Metrics",
-    "Url": "https://aws.amazon.com/lookout-for-metrics/",
-    "Note": ""
-  },
-  "lookoutvision": {
-    "Prefix": "LFV",
-    "Name": "Amazon Lookout for Vision",
-    "Url": "https://aws.amazon.com/lookout-for-vision/",
     "Note": ""
   },
   "m2": {
@@ -1871,18 +1847,6 @@
     "Url": "https://aws.amazon.com/connect/q/",
     "Note": ""
   },
-  "qldb": {
-    "Prefix": "QLDB",
-    "Name": "Amazon Quantum Ledger Database (QLDB)",
-    "Url": "https://aws.amazon.com/qldb/",
-    "Note": ""
-  },
-  "qldb-session": {
-    "Prefix": "QLDBS",
-    "Name": "Amazon QLDB Session",
-    "Url": "https://aws.amazon.com/qldb/",
-    "Note": ""
-  },
   "quicksight": {
     "Prefix": "QS",
     "Name": "Amazon Quick Sight",
@@ -1965,12 +1929,6 @@
     "Prefix": "RGT",
     "Name": "AWS Resource Groups Tagging",
     "Url": "https://aws.amazon.com/",
-    "Note": ""
-  },
-  "robomaker": {
-    "Prefix": "ROBO",
-    "Name": "AWS RoboMaker",
-    "Url": "https://aws.amazon.com/robomaker/",
     "Note": ""
   },
   "rolesanywhere": {

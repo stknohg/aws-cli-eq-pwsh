@@ -1,6 +1,6 @@
 ---
 title: vpc-lattice
-date: 2025-10-31
+date: 2025-11-06
 description: aws vpc-lattice (Amazon VPC Lattice) command/cmdlet list.
 ---
 

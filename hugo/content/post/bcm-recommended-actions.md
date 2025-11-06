@@ -1,6 +1,6 @@
 ---
 title: bcm-recommended-actions
-date: 2025-10-31
+date: 2025-11-06
 description: aws bcm-recommended-actions (AWS Billing And Cost Management Recommended Actions) command/cmdlet list.
 ---
 

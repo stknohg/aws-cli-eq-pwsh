@@ -1,6 +1,6 @@
 ---
 title: rtbfabric
-date: 2025-10-31
+date: 2025-11-06
 description: aws rtbfabric (AWS RTB Fabric) command/cmdlet list.
 ---
 

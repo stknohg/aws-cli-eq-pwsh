@@ -1,6 +1,6 @@
 ---
 title: workmailmessageflow
-date: 2025-10-31
+date: 2025-11-06
 description: aws workmailmessageflow (Amazon WorkMail Message Flow) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2025-10-31
+date: 2025-11-06
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/delete-resource-policy.html)|[Remove-KINResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINResourcePolicy.html)|
 |[aws kinesis delete-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/delete-stream.html)|[Remove-KINStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINStream.html)|
 |[aws kinesis deregister-stream-consumer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/deregister-stream-consumer.html)|[Unregister-KINStreamConsumer](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-KINStreamConsumer.html)|
+|[aws kinesis describe-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-account-settings.html)|[Get-KINAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINAccountSetting.html)|
 |[aws kinesis describe-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-limits.html)|[Get-KINLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINLimit.html)|
 |[aws kinesis describe-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-stream.html)|[Get-KINStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStream.html)|
 |[aws kinesis describe-stream-consumer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-stream-consumer.html)|[Get-KINStreamConsumer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStreamConsumer.html)|
@@ -45,7 +46,9 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis stop-stream-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/stop-stream-encryption.html)|[Stop-KINStreamEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-KINStreamEncryption.html)|
 |[aws kinesis tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/tag-resource.html)|[Add-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINResourceTag.html)|
 |[aws kinesis untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/untag-resource.html)|[Remove-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINResourceTag.html)|
+|[aws kinesis update-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-account-settings.html)|[Update-KINAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINAccountSetting.html)|
 |[aws kinesis update-max-record-size](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-max-record-size.html)|[Update-KINMaxRecordSize](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINMaxRecordSize.html)|
 |[aws kinesis update-shard-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-shard-count.html)|[Update-KINShardCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINShardCount.html)|
 |[aws kinesis update-stream-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-mode.html)|[Update-KINStreamMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamMode.html)|
+|[aws kinesis update-stream-warm-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-warm-throughput.html)|[Update-KINStreamWarmThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamWarmThroughput.html)|
 

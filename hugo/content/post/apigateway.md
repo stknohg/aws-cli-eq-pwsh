@@ -1,6 +1,6 @@
 ---
 title: apigateway
-date: 2025-10-31
+date: 2025-11-06
 description: aws apigateway (Amazon API Gateway) command/cmdlet list.
 ---
 

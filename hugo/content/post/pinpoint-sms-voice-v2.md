@@ -1,6 +1,6 @@
 ---
 title: pinpoint-sms-voice-v2
-date: 2025-10-31
+date: 2025-11-06
 description: aws pinpoint-sms-voice-v2 (Amazon Pinpoint SMS and Voice Messaging) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws pinpoint-sms-voice-v2 (Amazon Pinpoint SMS and Voice Messaging)
 |----|----|
 |[aws pinpoint-sms-voice-v2 associate-origination-identity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/associate-origination-identity.html)|[Register-SMSVOriginationIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMSVOriginationIdentity.html)|
 |[aws pinpoint-sms-voice-v2 associate-protect-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/associate-protect-configuration.html)|[Register-SMSVProtectConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMSVProtectConfiguration.html)|
+|[aws pinpoint-sms-voice-v2 carrier-lookup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/carrier-lookup.html)|[Use-SMSVCarrierLookup](https://docs.aws.amazon.com/powershell/latest/reference/items/Use-SMSVCarrierLookup.html)|
 |[aws pinpoint-sms-voice-v2 create-configuration-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/create-configuration-set.html)|[New-SMSVConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMSVConfigurationSet.html)|
 |[aws pinpoint-sms-voice-v2 create-event-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/create-event-destination.html)|[New-SMSVEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMSVEventDestination.html)|
 |[aws pinpoint-sms-voice-v2 create-opt-out-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/create-opt-out-list.html)|[New-SMSVOptOutList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SMSVOptOutList.html)|

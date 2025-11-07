@@ -1,6 +1,6 @@
 ---
 title: aiops
-date: 2025-11-06
+date: 2025-11-07
 description: aws aiops (Amazon AI Operations) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: sso
-date: 2025-11-06
+date: 2025-11-07
 description: aws sso (AWS Single Sign-On) command/cmdlet list.
 ---
 

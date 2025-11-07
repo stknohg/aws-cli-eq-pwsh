@@ -1,12 +1,12 @@
 ---
 title: appstream
-date: 2025-11-06
-description: aws appstream (Amazon AppStream 2.0) command/cmdlet list.
+date: 2025-11-07
+description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 ---
 
 ## appstream
 
-### [Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)
+### [Amazon WorkSpaces Applications](https://aws.amazon.com/workspaces/applications/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_AppStream_cmdlets.html)

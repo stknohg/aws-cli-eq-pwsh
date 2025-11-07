@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-11-06
+date: 2025-11-07
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.31.30 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.91 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.31.31 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.92 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -43,7 +43,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Application Cost Profiler](https://aws.amazon.com/aws-cost-management/aws-application-cost-profiler/)|[applicationcostprofiler]({{%relref "post/applicationcostprofiler.md" %}})|ACP||
 |[AWS App Mesh](https://aws.amazon.com/app-mesh/)|[appmesh]({{%relref "post/appmesh.md" %}})|AMSH||
 |[AWS App Runner](https://aws.amazon.com/apprunner/)|[apprunner]({{%relref "post/apprunner.md" %}})|AAR||
-|[Amazon AppStream 2.0](https://aws.amazon.com/appstream2/)|[appstream]({{%relref "post/appstream.md" %}})|APS||
+|[Amazon WorkSpaces Applications](https://aws.amazon.com/workspaces/applications/)|[appstream]({{%relref "post/appstream.md" %}})|APS|Formerly Amazon AppStream 2.0|
 |[AWS AppSync](https://aws.amazon.com/appsync/)|[appsync]({{%relref "post/appsync.md" %}})|ASYN||
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-region-switch]({{%relref "post/arc-region-switch.md" %}})|ARC|Region switch|
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[arc-zonal-shift]({{%relref "post/arc-zonal-shift.md" %}})|AZS|Zonal shift|

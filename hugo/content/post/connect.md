@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2025-11-06
+date: 2025-11-07
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -209,10 +209,12 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect resume-contact-recording](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/resume-contact-recording.html)|[Resume-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-CONNContactRecording.html)|
 |[aws connect search-agent-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-agent-statuses.html)|[Search-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNAgentStatus.html)|
 |[aws connect search-available-phone-numbers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-available-phone-numbers.html)|[Search-CONNAvailablePhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNAvailablePhoneNumber.html)|
+|[aws connect search-contact-evaluations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-contact-evaluations.html)|[Search-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNContactEvaluation.html)|
 |[aws connect search-contact-flow-modules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-contact-flow-modules.html)|[Search-CONNContactFlowModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNContactFlowModule.html)|
 |[aws connect search-contact-flows](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-contact-flows.html)|[Search-CONNContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNContactFlow.html)|
 |[aws connect search-contacts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-contacts.html)|[Search-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNContact.html)|
 |[aws connect search-email-addresses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-email-addresses.html)|[Search-CONNEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNEmailAddress.html)|
+|[aws connect search-evaluation-forms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-evaluation-forms.html)|[Search-CONNEvaluationForm](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNEvaluationForm.html)|
 |[aws connect search-hours-of-operation-overrides](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-hours-of-operation-overrides.html)|[Search-CONNHoursOfOperationOverride](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNHoursOfOperationOverride.html)|
 |[aws connect search-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-hours-of-operations.html)|[Search-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNHoursOfOperation.html)|
 |[aws connect search-predefined-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-predefined-attributes.html)|[Search-CONNPredefinedAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNPredefinedAttribute.html)|

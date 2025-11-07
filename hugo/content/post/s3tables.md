@@ -1,6 +1,6 @@
 ---
 title: s3tables
-date: 2025-11-06
+date: 2025-11-07
 description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 ---
 
@@ -36,11 +36,14 @@ description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 |[aws s3tables list-namespaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/list-namespaces.html)|[Get-S3TNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TNamespaceList.html)|
 |[aws s3tables list-table-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/list-table-buckets.html)|[Get-S3TTableBucketList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableBucketList.html)|
 |[aws s3tables list-tables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/list-tables.html)|[Get-S3TTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableList.html)|
+|[aws s3tables list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/list-tags-for-resource.html)|[Get-S3TResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TResourceTag.html)|
 |[aws s3tables put-table-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-encryption.html)|[Write-S3TTableBucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketEncryption.html)|
 |[aws s3tables put-table-bucket-maintenance-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-maintenance-configuration.html)|[Write-S3TTableBucketMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketMaintenanceConfiguration.html)|
 |[aws s3tables put-table-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-policy.html)|[Write-S3TTableBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketPolicy.html)|
 |[aws s3tables put-table-maintenance-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-maintenance-configuration.html)|[Write-S3TTableMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableMaintenanceConfiguration.html)|
 |[aws s3tables put-table-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-policy.html)|[Write-S3TTablePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTablePolicy.html)|
 |[aws s3tables rename-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/rename-table.html)|[Rename-S3TTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Rename-S3TTable.html)|
+|[aws s3tables tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/tag-resource.html)|[Add-S3TResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3TResourceTag.html)|
+|[aws s3tables untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/untag-resource.html)|[Remove-S3TResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TResourceTag.html)|
 |[aws s3tables update-table-metadata-location](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/update-table-metadata-location.html)|[Update-S3TTableMetadataLocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3TTableMetadataLocation.html)|
 

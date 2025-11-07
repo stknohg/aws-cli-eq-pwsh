@@ -139,9 +139,9 @@
   },
   "appstream": {
     "Prefix": "APS",
-    "Name": "Amazon AppStream 2.0",
-    "Url": "https://aws.amazon.com/appstream2/",
-    "Note": ""
+    "Name": "Amazon WorkSpaces Applications",
+    "Url": "https://aws.amazon.com/workspaces/applications/",
+    "Note": "Formerly Amazon AppStream 2.0"
   },
   "appsync": {
     "Prefix": "ASYN",

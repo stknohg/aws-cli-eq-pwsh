@@ -1,6 +1,6 @@
 ---
 title: resourcegroupstaggingapi
-date: 2025-11-07
+date: 2025-11-20
 description: aws resourcegroupstaggingapi (AWS Resource Groups Tagging) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws resourcegroupstaggingapi (AWS Resource Groups Tagging) command/
 |[aws resourcegroupstaggingapi get-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/get-resources.html)|[Get-RGTResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RGTResource.html)|
 |[aws resourcegroupstaggingapi get-tag-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/get-tag-keys.html)|[Get-RGTTagKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RGTTagKey.html)|
 |[aws resourcegroupstaggingapi get-tag-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/get-tag-values.html)|[Get-RGTTagValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RGTTagValue.html)|
+|[aws resourcegroupstaggingapi list-required-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/list-required-tags.html)|[Get-RGTRequiredTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RGTRequiredTagList.html)|
 |[aws resourcegroupstaggingapi start-report-creation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/start-report-creation.html)|[Start-RGTReportCreation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RGTReportCreation.html)|
 |[aws resourcegroupstaggingapi tag-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/tag-resources.html)|[Add-RGTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RGTResourceTag.html)|
 |[aws resourcegroupstaggingapi untag-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resourcegroupstaggingapi/untag-resources.html)|[Remove-RGTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RGTResourceTag.html)|

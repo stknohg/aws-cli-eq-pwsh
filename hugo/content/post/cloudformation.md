@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2025-11-07
+date: 2025-11-20
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation describe-account-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-account-limits.html)|[Get-CFNAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNAccountLimit.html)|
 |[aws cloudformation describe-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-change-set.html)|[Get-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSet.html)|
 |[aws cloudformation describe-change-set-hooks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-change-set-hooks.html)|[Get-CFNChangeSetHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNChangeSetHook.html)|
+|[aws cloudformation describe-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-events.html)|[Get-CFNCFNOperationEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNCFNOperationEvent.html)|
 |[aws cloudformation describe-generated-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-generated-template.html)|[Get-CFNGeneratedTemplateInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNGeneratedTemplateInformation.html)|
 |[aws cloudformation describe-organizations-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-organizations-access.html)|[Get-CFNOrganizationsAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNOrganizationsAccess.html)|
 |[aws cloudformation describe-publisher](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/describe-publisher.html)|[Get-CFNPublisher](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNPublisher.html)|
@@ -61,6 +62,7 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation execute-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/execute-change-set.html)|[Start-CFNChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNChangeSet.html)|
 |[aws cloudformation execute-stack-refactor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/execute-stack-refactor.html)|[Start-CFNCFNStackRefactor](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CFNCFNStackRefactor.html)|
 |[aws cloudformation get-generated-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-generated-template.html)|[Get-CFNGeneratedTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNGeneratedTemplate.html)|
+|[aws cloudformation get-hook-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-hook-result.html)|[Get-CFNHookResultDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNHookResultDetail.html)|
 |[aws cloudformation get-stack-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-stack-policy.html)|[Get-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNStackPolicy.html)|
 |[aws cloudformation get-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-template.html)|[Get-CFNTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTemplate.html)|
 |[aws cloudformation get-template-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/get-template-summary.html)|[Get-CFNTemplateSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CFNTemplateSummary.html)|

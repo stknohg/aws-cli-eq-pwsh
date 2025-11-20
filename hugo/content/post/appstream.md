@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2025-11-07
+date: 2025-11-20
 description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 ---
 
@@ -27,9 +27,11 @@ description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 |[aws appstream create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-application.html)|[New-APSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSApplication.html)|
 |[aws appstream create-directory-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-directory-config.html)|[New-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSDirectoryConfig.html)|
 |[aws appstream create-entitlement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-entitlement.html)|[New-APSEntitlement](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSEntitlement.html)|
+|[aws appstream create-export-image-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-export-image-task.html)|[New-APSExportImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSExportImageTask.html)|
 |[aws appstream create-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-fleet.html)|[New-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSFleet.html)|
 |[aws appstream create-image-builder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-image-builder.html)|[New-APSImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImageBuilder.html)|
 |[aws appstream create-image-builder-streaming-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-image-builder-streaming-url.html)|[New-APSImageBuilderStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImageBuilderStreamingURL.html)|
+|[aws appstream create-imported-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-imported-image.html)|[New-APSImportedImage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSImportedImage.html)|
 |[aws appstream create-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-stack.html)|[New-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStack.html)|
 |[aws appstream create-streaming-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-streaming-url.html)|[New-APSStreamingURL](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSStreamingURL.html)|
 |[aws appstream create-theme-for-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/create-theme-for-stack.html)|[New-APSThemeForStack](https://docs.aws.amazon.com/powershell/latest/reference/items/New-APSThemeForStack.html)|
@@ -76,9 +78,11 @@ description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 |[aws appstream disassociate-software-from-image-builder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/disassociate-software-from-image-builder.html)|[Remove-APSSoftwareFromImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSSoftwareFromImageBuilder.html)|
 |[aws appstream enable-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/enable-user.html)|[Enable-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-APSUser.html)|
 |[aws appstream expire-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/expire-session.html)|[Revoke-APSSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-APSSession.html)|
+|[aws appstream get-export-image-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/get-export-image-task.html)|[Get-APSExportImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSExportImageTask.html)|
 |[aws appstream list-associated-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/list-associated-fleets.html)|[Get-APSAssociatedFleetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSAssociatedFleetList.html)|
 |[aws appstream list-associated-stacks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/list-associated-stacks.html)|[Get-APSAssociatedStackList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSAssociatedStackList.html)|
 |[aws appstream list-entitled-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/list-entitled-applications.html)|[Get-APSEntitledApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSEntitledApplicationList.html)|
+|[aws appstream list-export-image-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/list-export-image-tasks.html)|[Get-APSExportImageTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSExportImageTaskList.html)|
 |[aws appstream list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/list-tags-for-resource.html)|[Get-APSTagsForResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSTagsForResourceList.html)|
 |[aws appstream start-app-block-builder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/start-app-block-builder.html)|[Start-APSAppBlockBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-APSAppBlockBuilder.html)|
 |[aws appstream start-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/start-fleet.html)|[Start-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-APSFleet.html)|

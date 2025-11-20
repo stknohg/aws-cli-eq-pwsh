@@ -1,6 +1,6 @@
 ---
 title: networkmanager
-date: 2025-11-07
+date: 2025-11-20
 description: aws networkmanager (AWS Transit Gateway network manager) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: cloudtrail
-date: 2025-11-07
+date: 2025-11-20
 description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws cloudtrail (AWS CloudTrail) command/cmdlet list.
 |[aws cloudtrail list-event-data-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-event-data-stores.html)|[Get-CTEventDataStoreSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTEventDataStoreSummary.html)|
 |[aws cloudtrail list-import-failures](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-import-failures.html)|[Get-CTImportFailure](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTImportFailure.html)|
 |[aws cloudtrail list-imports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-imports.html)|[Get-CTImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTImportList.html)|
+|[aws cloudtrail list-insights-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-insights-data.html)|[Get-CTInsightsData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTInsightsData.html)|
 |[aws cloudtrail list-insights-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-insights-metric-data.html)|[Get-CTInsightsMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTInsightsMetricData.html)|
 |[aws cloudtrail list-public-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-public-keys.html)|[Get-CTPublicKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTPublicKey.html)|
 |[aws cloudtrail list-queries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudtrail/list-queries.html)|[Get-CTQuerySummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CTQuerySummary.html)|

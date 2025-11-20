@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-11-07
+date: 2025-11-20
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.31.31 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.92 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.32.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.101 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -251,6 +251,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS License Manager](https://aws.amazon.com/license-manager/)|[license-manager-user-subscriptions]({{%relref "post/license-manager-user-subscriptions.md" %}})|LMUS|User Subscription|
 |[Amazon Lightsail](https://aws.amazon.com/lightsail/)|[lightsail]({{%relref "post/lightsail.md" %}})|LS||
 |[Amazon Location](https://aws.amazon.com/location/)|[location]({{%relref "post/location.md" %}})|LOC||
+|-|[login]({{%relref "post/login.md" %}})||AWS Login|
+|-|[logout]({{%relref "post/logout.md" %}})||AWS Logout|
 |[Amazon CloudWatch Logs](https://aws.amazon.com/cloudwatch/)|[logs]({{%relref "post/logs.md" %}})|CWL||
 |[Amazon Lookout for Equipment](https://aws.amazon.com/lookout-for-equipment/)|[lookoutequipment]({{%relref "post/lookoutequipment.md" %}})|L4E||
 |[AWS Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/)|[m2]({{%relref "post/m2.md" %}})|AMM||
@@ -287,6 +289,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon MQ](https://aws.amazon.com/amazon-mq/)|[mq]({{%relref "post/mq.md" %}})|MQ||
 |[Amazon Mechanical Turk](https://www.mturk.com/)|[mturk]({{%relref "post/mturk.md" %}})|MTR||
 |[Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/managed-workflows-for-apache-airflow/)|[mwaa]({{%relref "post/mwaa.md" %}})|MWAA||
+|[Amazon Managed Workflows for Apache Airflow Serverless](https://aws.amazon.com/managed-workflows-for-apache-airflow/)|[mwaa-serverless]({{%relref "post/mwaa-serverless.md" %}})|MWAAS||
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptune]({{%relref "post/neptune.md" %}})|NPT||
 |[Amazon Neptune Analytics](https://aws.amazon.com/neptune/)|[neptune-graph]({{%relref "post/neptune-graph.md" %}})|NEPTG||
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptunedata]({{%relref "post/neptunedata.md" %}})|NEPT|Data API|
@@ -306,6 +309,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon OpenSearch Ingestion](https://aws.amazon.com/opensearch-service/features/integration/)|[osis]({{%relref "post/osis.md" %}})|OSIS||
 |[AWS Outposts](https://aws.amazon.com/outposts/)|[outposts]({{%relref "post/outposts.md" %}})|OUTP||
 |[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|PAN||
+|[AWS Partner Central Channel service](https://partnercentral.awspartner.com/)|[partnercentral-channel]({{%relref "post/partnercentral-channel.md" %}})|PCC||
 |[AWS Partner Central API for Selling](https://partnercentral.awspartner.com/)|[partnercentral-selling]({{%relref "post/partnercentral-selling.md" %}})|PC||
 |[AWS Payment Cryptography Control Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography]({{%relref "post/payment-cryptography.md" %}})|PAYCC||
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
@@ -381,6 +385,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Simple Email Service V2](https://aws.amazon.com/ses/)|[sesv2]({{%relref "post/sesv2.md" %}})|SES2||
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
+|[AWS Sign-In](https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html)|[signin]({{%relref "post/signin.md" %}})|AMSP||
 |[AWS SimSpace Weaver](https://aws.amazon.com/simspaceweaver/)|[simspaceweaver]({{%relref "post/simspaceweaver.md" %}})|SSW||
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||

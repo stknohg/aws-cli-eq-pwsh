@@ -1,6 +1,6 @@
 ---
 title: evidently
-date: 2025-11-07
+date: 2025-11-20
 description: aws evidently (Amazon CloudWatch Evidently) command/cmdlet list.
 ---
 

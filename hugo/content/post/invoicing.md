@@ -1,6 +1,6 @@
 ---
 title: invoicing
-date: 2025-11-07
+date: 2025-11-20
 description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 |[aws invoicing batch-get-invoice-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/batch-get-invoice-profile.html)|[Get-INVBatchInvoiceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVBatchInvoiceProfile.html)|
 |[aws invoicing create-invoice-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/create-invoice-unit.html)|[New-INVInvoiceUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/New-INVInvoiceUnit.html)|
 |[aws invoicing delete-invoice-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/delete-invoice-unit.html)|[Remove-INVInvoiceUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INVInvoiceUnit.html)|
+|[aws invoicing get-invoice-pdf](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/get-invoice-pdf.html)|[Get-INVInvoicePDF](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVInvoicePDF.html)|
 |[aws invoicing get-invoice-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/get-invoice-unit.html)|[Get-INVInvoiceUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVInvoiceUnit.html)|
 |[aws invoicing list-invoice-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-invoice-summaries.html)|[Get-INVInvoiceSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVInvoiceSummaryList.html)|
 |[aws invoicing list-invoice-units](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-invoice-units.html)|[Get-INVInvoiceUnitList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVInvoiceUnitList.html)|

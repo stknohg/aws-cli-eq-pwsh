@@ -1,6 +1,6 @@
 ---
 title: sts
-date: 2025-11-07
+date: 2025-11-20
 description: aws sts (AWS Security Token Service) command/cmdlet list.
 ---
 
@@ -20,6 +20,8 @@ description: aws sts (AWS Security Token Service) command/cmdlet list.
 |[aws sts decode-authorization-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/decode-authorization-message.html)|[Convert-STSAuthorizationMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-STSAuthorizationMessage.html)|
 |[aws sts get-access-key-info](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-access-key-info.html)|[Get-STSAccessKeyInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSAccessKeyInfo.html)|
 |[aws sts get-caller-identity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-caller-identity.html)|[Get-STSCallerIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSCallerIdentity.html)|
+|[aws sts get-delegated-access-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-delegated-access-token.html)|[Get-STSDelegatedAccessToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSDelegatedAccessToken.html)|
 |[aws sts get-federation-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-federation-token.html)|[Get-STSFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSFederationToken.html)|
 |[aws sts get-session-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-session-token.html)|[Get-STSSessionToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSSessionToken.html)|
+|[aws sts get-web-identity-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-web-identity-token.html)|[Get-STSWebIdentityToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSWebIdentityToken.html)|
 

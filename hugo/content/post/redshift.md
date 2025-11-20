@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2025-11-07
+date: 2025-11-20
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -122,6 +122,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift failover-primary-compute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/failover-primary-compute.html)|[Start-RSFailoverPrimaryCompute](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RSFailoverPrimaryCompute.html)|
 |[aws redshift get-cluster-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-cluster-credentials.html)|[Get-RSClusterCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterCredential.html)|
 |[aws redshift get-cluster-credentials-with-iam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-cluster-credentials-with-iam.html)|[Get-RSClusterCredentialsWithIAM](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSClusterCredentialsWithIAM.html)|
+|[aws redshift get-identity-center-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-identity-center-auth-token.html)|[Get-RSIdentityCenterAuthToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSIdentityCenterAuthToken.html)|
 |[aws redshift get-reserved-node-exchange-configuration-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-reserved-node-exchange-configuration-options.html)|[Get-RSReservedNodeExchangeConfigurationOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeConfigurationOption.html)|
 |[aws redshift get-reserved-node-exchange-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-reserved-node-exchange-offerings.html)|[Get-RSReservedNodeExchangeOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSReservedNodeExchangeOffering.html)|
 |[aws redshift get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/get-resource-policy.html)|[Get-RSResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSResourcePolicy.html)|

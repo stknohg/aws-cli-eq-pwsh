@@ -1,6 +1,6 @@
 ---
 title: cost-optimization-hub
-date: 2025-11-07
+date: 2025-11-20
 description: aws cost-optimization-hub (AWS Cost Optimization Hub) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws cost-optimization-hub (AWS Cost Optimization Hub) command/cmdle
 |----|----|
 |[aws cost-optimization-hub get-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cost-optimization-hub/get-preferences.html)|[Get-COHPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COHPreference.html)|
 |[aws cost-optimization-hub get-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cost-optimization-hub/get-recommendation.html)|[Get-COHRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COHRecommendation.html)|
+|[aws cost-optimization-hub list-efficiency-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cost-optimization-hub/list-efficiency-metrics.html)|[Get-COHEfficiencyMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COHEfficiencyMetricList.html)|
 |[aws cost-optimization-hub list-enrollment-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cost-optimization-hub/list-enrollment-statuses.html)|[Get-COHEnrollmentStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COHEnrollmentStatusList.html)|
 |[aws cost-optimization-hub list-recommendation-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cost-optimization-hub/list-recommendation-summaries.html)|[Get-COHRecommendationSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COHRecommendationSummaryList.html)|
 |[aws cost-optimization-hub list-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cost-optimization-hub/list-recommendations.html)|[Get-COHRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-COHRecommendationList.html)|

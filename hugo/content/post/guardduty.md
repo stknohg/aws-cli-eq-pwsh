@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2025-11-07
+date: 2025-11-20
 description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 ---
 
@@ -52,6 +52,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty get-invitations-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-invitations-count.html)|[Get-GDInvitationCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationCount.html)|
 |[aws guardduty get-ip-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-ip-set.html)|[Get-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSet.html)|
 |[aws guardduty get-malware-protection-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-malware-protection-plan.html)|[Get-GDMalwareProtectionPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareProtectionPlan.html)|
+|[aws guardduty get-malware-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-malware-scan.html)|[Get-GDMalwareScanDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareScanDetail.html)|
 |[aws guardduty get-malware-scan-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-malware-scan-settings.html)|[Get-GDMalwareScanSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareScanSetting.html)|
 |[aws guardduty get-member-detectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-member-detectors.html)|[Get-GDMemberDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberDetector.html)|
 |[aws guardduty get-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-members.html)|[Get-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMember.html)|
@@ -69,6 +70,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty list-invitations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-invitations.html)|[Get-GDInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html)|
 |[aws guardduty list-ip-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-ip-sets.html)|[Get-GDIPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html)|
 |[aws guardduty list-malware-protection-plans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-malware-protection-plans.html)|[Get-GDMalwareProtectionPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareProtectionPlanList.html)|
+|[aws guardduty list-malware-scans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-malware-scans.html)|[Get-GDMalwareScanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareScanList.html)|
 |[aws guardduty list-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-members.html)|[Get-GDMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMemberList.html)|
 |[aws guardduty list-organization-admin-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-organization-admin-accounts.html)|[Get-GDOrganizationAdminAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDOrganizationAdminAccountList.html)|
 |[aws guardduty list-publishing-destinations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-publishing-destinations.html)|[Get-GDPublishingDestinationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDPublishingDestinationList.html)|
@@ -76,6 +78,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty list-threat-entity-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-threat-entity-sets.html)|[Get-GDThreatEntitySetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatEntitySetList.html)|
 |[aws guardduty list-threat-intel-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-threat-intel-sets.html)|[Get-GDThreatIntelSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDThreatIntelSetList.html)|
 |[aws guardduty list-trusted-entity-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-trusted-entity-sets.html)|[Get-GDTrustedEntitySetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDTrustedEntitySetList.html)|
+|[aws guardduty send-object-malware-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/send-object-malware-scan.html)|[Send-GDObjectMalwareScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-GDObjectMalwareScan.html)|
 |[aws guardduty start-malware-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/start-malware-scan.html)|[Start-GDMalwareScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMalwareScan.html)|
 |[aws guardduty start-monitoring-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/start-monitoring-members.html)|[Start-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GDMonitoringMember.html)|
 |[aws guardduty stop-monitoring-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/stop-monitoring-members.html)|[Stop-GDMonitoringMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GDMonitoringMember.html)|

@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2025-11-07
+date: 2025-11-20
 description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 
@@ -63,6 +63,7 @@ description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws autoscaling execute-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/execute-policy.html)|[Start-ASPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ASPolicy.html)|
 |[aws autoscaling exit-standby](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/exit-standby.html)|[Exit-ASStandby](https://docs.aws.amazon.com/powershell/latest/reference/items/Exit-ASStandby.html)|
 |[aws autoscaling get-predictive-scaling-forecast](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/get-predictive-scaling-forecast.html)|[Get-ASPredictiveScalingForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASPredictiveScalingForecast.html)|
+|[aws autoscaling launch-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/launch-instances.html)|[Add-ASInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASInstance.html)|
 |[aws autoscaling put-lifecycle-hook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-lifecycle-hook.html)|[Write-ASLifecycleHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleHook.html)|
 |[aws autoscaling put-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-notification-configuration.html)|[Write-ASNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASNotificationConfiguration.html)|
 |[aws autoscaling put-scaling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-scaling-policy.html)|[Write-ASScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScalingPolicy.html)|

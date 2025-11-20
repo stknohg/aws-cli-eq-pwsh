@@ -1,6 +1,6 @@
 ---
 title: codepipeline
-date: 2025-11-07
+date: 2025-11-20
 description: aws codepipeline (AWS CodePipeline) command/cmdlet list.
 ---
 

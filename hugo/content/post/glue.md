@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2025-11-07
+date: 2025-11-20
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -79,6 +79,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-dev-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-dev-endpoint.html)|[Remove-GLUEDevEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDevEndpoint.html)|
 |[aws glue delete-glue-identity-center-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-glue-identity-center-configuration.html)|[Remove-GLUEGlueIdentityCenterConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEGlueIdentityCenterConfiguration.html)|
 |[aws glue delete-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-integration.html)|[Remove-GLUEIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEIntegration.html)|
+|[aws glue delete-integration-resource-property](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-integration-resource-property.html)|[Remove-GLUEIntegrationResourceProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEIntegrationResourceProperty.html)|
 |[aws glue delete-integration-table-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-integration-table-properties.html)|[Remove-GLUEIntegrationTableProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEIntegrationTableProperty.html)|
 |[aws glue delete-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-job.html)|[Remove-GLUEJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEJob.html)|
 |[aws glue delete-ml-transform](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-ml-transform.html)|[Remove-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEMLTransform.html)|
@@ -194,6 +195,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue list-data-quality-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-data-quality-statistics.html)|[Get-GLUEDataQualityStatisticList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityStatisticList.html)|
 |[aws glue list-dev-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-dev-endpoints.html)|[Get-GLUEDevEndpointNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointNameList.html)|
 |[aws glue list-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-entities.html)|[Get-GLUEEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEEntityList.html)|
+|[aws glue list-integration-resource-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-integration-resource-properties.html)|[Get-GLUEIntegrationResourcePropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIntegrationResourcePropertyList.html)|
 |[aws glue list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
 |[aws glue list-ml-transforms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-ml-transforms.html)|[Get-GLUEMLTransformIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransformIdentifier.html)|
 |[aws glue list-registries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-registries.html)|[Get-GLUERegistryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUERegistryList.html)|

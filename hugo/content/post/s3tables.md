@@ -1,6 +1,6 @@
 ---
 title: s3tables
-date: 2025-11-07
+date: 2025-11-20
 description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 |[aws s3tables delete-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/delete-table.html)|[Remove-S3TTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TTable.html)|
 |[aws s3tables delete-table-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/delete-table-bucket.html)|[Remove-S3TTableBucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TTableBucket.html)|
 |[aws s3tables delete-table-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/delete-table-bucket-encryption.html)|[Remove-S3TTableBucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TTableBucketEncryption.html)|
+|[aws s3tables delete-table-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/delete-table-bucket-metrics-configuration.html)|[Remove-S3TTableBucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TTableBucketMetricsConfiguration.html)|
 |[aws s3tables delete-table-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/delete-table-bucket-policy.html)|[Remove-S3TTableBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TTableBucketPolicy.html)|
 |[aws s3tables delete-table-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/delete-table-policy.html)|[Remove-S3TTablePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3TTablePolicy.html)|
 |[aws s3tables get-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-namespace.html)|[Get-S3TNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TNamespace.html)|
@@ -27,6 +28,7 @@ description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 |[aws s3tables get-table-bucket](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-bucket.html)|[Get-S3TTableBucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableBucket.html)|
 |[aws s3tables get-table-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-bucket-encryption.html)|[Get-S3TTableBucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableBucketEncryption.html)|
 |[aws s3tables get-table-bucket-maintenance-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-bucket-maintenance-configuration.html)|[Get-S3TTableBucketMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableBucketMaintenanceConfiguration.html)|
+|[aws s3tables get-table-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-bucket-metrics-configuration.html)|[Get-S3TTableBucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableBucketMetricsConfiguration.html)|
 |[aws s3tables get-table-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-bucket-policy.html)|[Get-S3TTableBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableBucketPolicy.html)|
 |[aws s3tables get-table-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-encryption.html)|[Get-S3TTableEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableEncryption.html)|
 |[aws s3tables get-table-maintenance-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/get-table-maintenance-configuration.html)|[Get-S3TTableMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TTableMaintenanceConfiguration.html)|
@@ -39,6 +41,7 @@ description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 |[aws s3tables list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/list-tags-for-resource.html)|[Get-S3TResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3TResourceTag.html)|
 |[aws s3tables put-table-bucket-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-encryption.html)|[Write-S3TTableBucketEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketEncryption.html)|
 |[aws s3tables put-table-bucket-maintenance-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-maintenance-configuration.html)|[Write-S3TTableBucketMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketMaintenanceConfiguration.html)|
+|[aws s3tables put-table-bucket-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-metrics-configuration.html)|[Write-S3TTableBucketMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketMetricsConfiguration.html)|
 |[aws s3tables put-table-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-bucket-policy.html)|[Write-S3TTableBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableBucketPolicy.html)|
 |[aws s3tables put-table-maintenance-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-maintenance-configuration.html)|[Write-S3TTableMaintenanceConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTableMaintenanceConfiguration.html)|
 |[aws s3tables put-table-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3tables/put-table-policy.html)|[Write-S3TTablePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3TTablePolicy.html)|

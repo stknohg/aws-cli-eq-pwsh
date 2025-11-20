@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2025-11-07
+date: 2025-11-20
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -19,6 +19,8 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone add-policy-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/add-policy-grant.html)|[Add-DZPolicyGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZPolicyGrant.html)|
 |[aws datazone associate-environment-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/associate-environment-role.html)|[Set-DZEnvironmentRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DZEnvironmentRole.html)|
 |[aws datazone associate-governed-terms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/associate-governed-terms.html)|[Add-DZGovernedTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZGovernedTerm.html)|
+|[aws datazone batch-get-attributes-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/batch-get-attributes-metadata.html)|[Get-DZBatchAttributesMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZBatchAttributesMetadata.html)|
+|[aws datazone batch-put-attributes-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/batch-put-attributes-metadata.html)|[Set-DZBatchAttributesMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-DZBatchAttributesMetadata.html)|
 |[aws datazone cancel-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/cancel-metadata-generation-run.html)|[Stop-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZMetadataGenerationRun.html)|
 |[aws datazone cancel-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/cancel-subscription.html)|[Stop-DZSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZSubscription.html)|
 |[aws datazone create-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/create-account-pool.html)|[New-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZAccountPool.html)|
@@ -177,6 +179,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone update-group-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-group-profile.html)|[Update-DZGroupProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZGroupProfile.html)|
 |[aws datazone update-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-project.html)|[Update-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZProject.html)|
 |[aws datazone update-project-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-project-profile.html)|[Update-DZProjectProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZProjectProfile.html)|
+|[aws datazone update-root-domain-unit-owner](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-root-domain-unit-owner.html)|[Update-DZRootDomainUnitOwner](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZRootDomainUnitOwner.html)|
 |[aws datazone update-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-rule.html)|[Update-DZRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZRule.html)|
 |[aws datazone update-subscription-grant-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-subscription-grant-status.html)|[Update-DZSubscriptionGrantStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZSubscriptionGrantStatus.html)|
 |[aws datazone update-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-subscription-request.html)|[Update-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZSubscriptionRequest.html)|

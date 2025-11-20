@@ -1,6 +1,6 @@
 ---
 title: health
-date: 2025-11-07
+date: 2025-11-20
 description: aws health (AWS Health) command/cmdlet list.
 ---
 

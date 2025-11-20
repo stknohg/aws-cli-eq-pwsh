@@ -1391,6 +1391,18 @@
     "Url": "https://aws.amazon.com/location/",
     "Note": ""
   },
+  "login": {
+    "Prefix": "",
+    "Name": "-",
+    "Url": "",
+    "Note": "AWS Login"
+  },
+  "logout": {
+    "Prefix": "",
+    "Name": "-",
+    "Url": "",
+    "Note": "AWS Logout"
+  },
   "logs": {
     "Prefix": "CWL",
     "Name": "Amazon CloudWatch Logs",
@@ -1607,6 +1619,12 @@
     "Url": "https://aws.amazon.com/managed-workflows-for-apache-airflow/",
     "Note": ""
   },
+  "mwaa-serverless": {
+    "Prefix": "MWAAS",
+    "Name": "Amazon Managed Workflows for Apache Airflow Serverless",
+    "Url": "https://aws.amazon.com/managed-workflows-for-apache-airflow/",
+    "Note": ""
+  },
   "neptune": {
     "Prefix": "NPT",
     "Name": "Amazon Neptune",
@@ -1719,6 +1737,12 @@
     "Prefix": "PAN",
     "Name": "AWS Panorama",
     "Url": "https://aws.amazon.com/panorama/",
+    "Note": ""
+  },
+  "partnercentral-channel": {
+    "Prefix": "PCC",
+    "Name": "AWS Partner Central Channel service",
+    "Url": "https://partnercentral.awspartner.com/",
     "Note": ""
   },
   "partnercentral-selling": {
@@ -2169,6 +2193,12 @@
     "Prefix": "",
     "Name": "AWS Signer",
     "Url": "https://docs.aws.amazon.com/signer/latest/api/Welcome.html",
+    "Note": ""
+  },
+  "signin": {
+    "Prefix": "AMSP",
+    "Name": "AWS Sign-In",
+    "Url": "https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html",
     "Note": ""
   },
   "simspaceweaver": {

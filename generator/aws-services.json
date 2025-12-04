@@ -557,6 +557,12 @@
     "Url": "https://aws.amazon.com/compute-optimizer/",
     "Note": ""
   },
+  "compute-optimizer-automation": {
+    "Prefix": "COA",
+    "Name": "AWS Compute Optimizer Automation",
+    "Url": "https://aws.amazon.com/compute-optimizer/",
+    "Note": ""
+  },
   "configservice": {
     "Prefix": "CFG",
     "Name": "AWS Config",
@@ -1679,6 +1685,12 @@
     "Url": "https://aws.amazon.com/notifications/",
     "Note": ""
   },
+  "nova-act": {
+    "Prefix": "NOVA",
+    "Name": "Amazon Nova Act",
+    "Url": "https://nova.amazon.com/act",
+    "Note": ""
+  },
   "oam": {
     "Prefix": "CWOAM",
     "Name": "Amazon CloudWatch Observability Access Manager",
@@ -1739,9 +1751,21 @@
     "Url": "https://aws.amazon.com/panorama/",
     "Note": ""
   },
+  "partnercentral-account": {
+    "Prefix": "PCAA",
+    "Name": "AWS Partner Central Account Service",
+    "Url": "https://partnercentral.awspartner.com/",
+    "Note": ""
+  },
+  "partnercentral-benefits": {
+    "Prefix": "PCB",
+    "Name": "AWS Partner Central Benefits Service",
+    "Url": "https://partnercentral.awspartner.com/",
+    "Note": ""
+  },
   "partnercentral-channel": {
     "Prefix": "PCC",
-    "Name": "AWS Partner Central Channel service",
+    "Name": "AWS Partner Central Channel Service",
     "Url": "https://partnercentral.awspartner.com/",
     "Note": ""
   },
@@ -1988,6 +2012,12 @@
   "route53domains": {
     "Prefix": "R53D",
     "Name": "Amazon Route 53 Domains",
+    "Url": "https://aws.amazon.com/route53/",
+    "Note": ""
+  },
+  "route53globalresolver": {
+    "Prefix": "R53GR",
+    "Name": "Amazon Route 53 Global Resolver",
     "Url": "https://aws.amazon.com/route53/",
     "Note": ""
   },

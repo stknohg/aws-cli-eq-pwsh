@@ -1,6 +1,6 @@
 ---
 title: redshift
-date: 2025-11-20
+date: 2025-12-04
 description: aws redshift (Amazon Redshift) command/cmdlet list.
 ---
 
@@ -142,6 +142,7 @@ description: aws redshift (Amazon Redshift) command/cmdlet list.
 |[aws redshift modify-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-endpoint-access.html)|[Edit-RSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSEndpointAccess.html)|
 |[aws redshift modify-event-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-event-subscription.html)|[Edit-RSEventSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSEventSubscription.html)|
 |[aws redshift modify-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-integration.html)|[Edit-RSIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSIntegration.html)|
+|[aws redshift modify-lakehouse-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-lakehouse-configuration.html)|[Edit-RSLakehouseConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSLakehouseConfiguration.html)|
 |[aws redshift modify-redshift-idc-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-redshift-idc-application.html)|[Edit-RSRedshiftIdcApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSRedshiftIdcApplication.html)|
 |[aws redshift modify-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-scheduled-action.html)|[Edit-RSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSScheduledAction.html)|
 |[aws redshift modify-snapshot-copy-retention-period](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift/modify-snapshot-copy-retention-period.html)|[Edit-RSSnapshotCopyRetentionPeriod](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-RSSnapshotCopyRetentionPeriod.html)|

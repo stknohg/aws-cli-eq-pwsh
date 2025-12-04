@@ -1,6 +1,6 @@
 ---
 title: odb
-date: 2025-11-20
+date: 2025-12-04
 description: aws odb (Oracle Database@AWS) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws odb (Oracle Database@AWS) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws odb accept-marketplace-registration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/accept-marketplace-registration.html)|[Approve-ODBMarketplaceRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-ODBMarketplaceRegistration.html)|
+|[aws odb associate-iam-role-to-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/associate-iam-role-to-resource.html)|[Add-ODBIamRoleToResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ODBIamRoleToResource.html)|
 |[aws odb create-cloud-autonomous-vm-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/create-cloud-autonomous-vm-cluster.html)|[New-ODBCloudAutonomousVmCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ODBCloudAutonomousVmCluster.html)|
 |[aws odb create-cloud-exadata-infrastructure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/create-cloud-exadata-infrastructure.html)|[New-ODBCloudExadataInfrastructure](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ODBCloudExadataInfrastructure.html)|
 |[aws odb create-cloud-vm-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/create-cloud-vm-cluster.html)|[New-ODBCloudVmCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ODBCloudVmCluster.html)|
@@ -24,6 +25,7 @@ description: aws odb (Oracle Database@AWS) command/cmdlet list.
 |[aws odb delete-cloud-vm-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/delete-cloud-vm-cluster.html)|[Remove-ODBCloudVmCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ODBCloudVmCluster.html)|
 |[aws odb delete-odb-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/delete-odb-network.html)|[Remove-ODBOdbNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ODBOdbNetwork.html)|
 |[aws odb delete-odb-peering-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/delete-odb-peering-connection.html)|[Remove-ODBOdbPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ODBOdbPeeringConnection.html)|
+|[aws odb disassociate-iam-role-from-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/disassociate-iam-role-from-resource.html)|[Remove-ODBIamRoleFromResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ODBIamRoleFromResource.html)|
 |[aws odb get-cloud-autonomous-vm-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/get-cloud-autonomous-vm-cluster.html)|[Get-ODBCloudAutonomousVmCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBCloudAutonomousVmCluster.html)|
 |[aws odb get-cloud-exadata-infrastructure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/get-cloud-exadata-infrastructure.html)|[Get-ODBCloudExadataInfrastructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBCloudExadataInfrastructure.html)|
 |[aws odb get-cloud-exadata-infrastructure-unallocated-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/get-cloud-exadata-infrastructure-unallocated-resources.html)|[Get-ODBCloudExadataInfrastructureUnallocatedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBCloudExadataInfrastructureUnallocatedResource.html)|

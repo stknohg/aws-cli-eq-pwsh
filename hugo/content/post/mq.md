@@ -1,6 +1,6 @@
 ---
 title: mq
-date: 2025-11-20
+date: 2025-12-04
 description: aws mq (Amazon MQ) command/cmdlet list.
 ---
 

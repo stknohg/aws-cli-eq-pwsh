@@ -1,6 +1,6 @@
 ---
 title: kinesisvideo
-date: 2025-11-20
+date: 2025-12-04
 description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 |[aws kinesisvideo describe-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/describe-notification-configuration.html)|[Get-KVNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVNotificationConfiguration.html)|
 |[aws kinesisvideo describe-signaling-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/describe-signaling-channel.html)|[Get-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVSignalingChannel.html)|
 |[aws kinesisvideo describe-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/describe-stream.html)|[Get-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVStream.html)|
+|[aws kinesisvideo describe-stream-storage-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/describe-stream-storage-configuration.html)|[Get-KVStreamStorageConfigurationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVStreamStorageConfigurationDetail.html)|
 |[aws kinesisvideo get-data-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/get-data-endpoint.html)|[Get-KVDataEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVDataEndpoint.html)|
 |[aws kinesisvideo get-signaling-channel-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/get-signaling-channel-endpoint.html)|[Get-KVSignalingChannelEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVSignalingChannelEndpoint.html)|
 |[aws kinesisvideo list-edge-agent-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/list-edge-agent-configurations.html)|[Get-KVEdgeAgentConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KVEdgeAgentConfigurationList.html)|
@@ -43,4 +44,5 @@ description: aws kinesisvideo (Amazon Kinesis) command/cmdlet list.
 |[aws kinesisvideo update-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/update-notification-configuration.html)|[Update-KVNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVNotificationConfiguration.html)|
 |[aws kinesisvideo update-signaling-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/update-signaling-channel.html)|[Update-KVSignalingChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVSignalingChannel.html)|
 |[aws kinesisvideo update-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/update-stream.html)|[Update-KVStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVStream.html)|
+|[aws kinesisvideo update-stream-storage-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesisvideo/update-stream-storage-configuration.html)|[Update-KVStreamStorageConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KVStreamStorageConfiguration.html)|
 

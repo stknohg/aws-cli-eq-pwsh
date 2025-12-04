@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2025-11-20
+date: 2025-12-04
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 
@@ -27,9 +27,11 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr delete-repository](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository.html)|[Remove-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepository.html)|
 |[aws ecr delete-repository-creation-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository-creation-template.html)|[Remove-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepositoryCreationTemplate.html)|
 |[aws ecr delete-repository-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-repository-policy.html)|[Remove-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRRepositoryPolicy.html)|
+|[aws ecr delete-signing-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/delete-signing-configuration.html)|[Remove-ECRSigningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRSigningConfiguration.html)|
 |[aws ecr deregister-pull-time-update-exclusion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/deregister-pull-time-update-exclusion.html)|[Unregister-ECRPullTimeUpdateExclusion](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ECRPullTimeUpdateExclusion.html)|
 |[aws ecr describe-image-replication-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-replication-status.html)|[Get-ECRImageReplicationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageReplicationStatus.html)|
 |[aws ecr describe-image-scan-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-scan-findings.html)|[Get-ECRImageScanFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageScanFinding.html)|
+|[aws ecr describe-image-signing-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-image-signing-status.html)|[Get-ECRImageSigningStatusDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageSigningStatusDetail.html)|
 |[aws ecr describe-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-images.html)|[Get-ECRImageMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageMetadata.html)|
 |[aws ecr describe-pull-through-cache-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-pull-through-cache-rules.html)|[Get-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPullThroughCacheRule.html)|
 |[aws ecr describe-registry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-registry.html)|[Get-ECRRegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistry.html)|
@@ -44,6 +46,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr get-registry-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-registry-policy.html)|[Get-ECRRegistryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistryPolicy.html)|
 |[aws ecr get-registry-scanning-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-registry-scanning-configuration.html)|[Get-ECRRegistryScanningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistryScanningConfiguration.html)|
 |[aws ecr get-repository-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-repository-policy.html)|[Get-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepositoryPolicy.html)|
+|[aws ecr get-signing-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-signing-configuration.html)|[Get-ECRSigningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRSigningConfiguration.html)|
 |[aws ecr initiate-layer-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/initiate-layer-upload.html)|[Start-ECRLayerUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLayerUpload.html)|
 |[aws ecr list-image-referrers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-image-referrers.html)|[Get-ECRImageReferrerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageReferrerList.html)|
 |[aws ecr list-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|
@@ -57,6 +60,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr put-registry-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-registry-policy.html)|[Write-ECRRegistryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRRegistryPolicy.html)|
 |[aws ecr put-registry-scanning-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-registry-scanning-configuration.html)|[Write-ECRRegistryScanningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRRegistryScanningConfiguration.html)|
 |[aws ecr put-replication-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-replication-configuration.html)|[Write-ECRReplicationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRReplicationConfiguration.html)|
+|[aws ecr put-signing-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-signing-configuration.html)|[Write-ECRSigningConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRSigningConfiguration.html)|
 |[aws ecr register-pull-time-update-exclusion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/register-pull-time-update-exclusion.html)|[Register-ECRPullTimeUpdateExclusion](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-ECRPullTimeUpdateExclusion.html)|
 |[aws ecr set-repository-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/set-repository-policy.html)|[Set-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ECRRepositoryPolicy.html)|
 |[aws ecr start-image-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-image-scan.html)|[Start-ECRImageScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRImageScan.html)|

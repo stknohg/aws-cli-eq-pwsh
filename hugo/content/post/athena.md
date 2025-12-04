@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2025-11-20
+date: 2025-12-04
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -44,7 +44,9 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena get-query-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-query-execution.html)|[Get-ATHQueryExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryExecution.html)|
 |[aws athena get-query-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-query-results.html)|[Get-ATHQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryResult.html)|
 |[aws athena get-query-runtime-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-query-runtime-statistics.html)|[Get-ATHQueryRuntimeStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryRuntimeStatistic.html)|
+|[aws athena get-resource-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-resource-dashboard.html)|[Get-ATHResourceDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHResourceDashboard.html)|
 |[aws athena get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-session.html)|[Get-ATHSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSession.html)|
+|[aws athena get-session-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-session-endpoint.html)|[Get-ATHSessionEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSessionEndpoint.html)|
 |[aws athena get-session-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-session-status.html)|[Get-ATHSessionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSessionStatus.html)|
 |[aws athena get-table-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-table-metadata.html)|[Get-ATHTableMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHTableMetadata.html)|
 |[aws athena get-work-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-work-group.html)|[Get-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHWorkGroup.html)|

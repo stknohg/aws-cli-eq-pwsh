@@ -1,6 +1,6 @@
 ---
 title: redshift-serverless
-date: 2025-11-20
+date: 2025-12-04
 description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet list.
 ---
 
@@ -70,6 +70,7 @@ description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet
 |[aws redshift-serverless untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/untag-resource.html)|[Remove-RSSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RSSResourceTag.html)|
 |[aws redshift-serverless update-custom-domain-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/update-custom-domain-association.html)|[Update-RSSCustomDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSCustomDomainAssociation.html)|
 |[aws redshift-serverless update-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/update-endpoint-access.html)|[Update-RSSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSEndpointAccess.html)|
+|[aws redshift-serverless update-lakehouse-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/update-lakehouse-configuration.html)|[Update-RSSLakehouseConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSLakehouseConfiguration.html)|
 |[aws redshift-serverless update-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/update-namespace.html)|[Update-RSSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSNamespace.html)|
 |[aws redshift-serverless update-scheduled-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/update-scheduled-action.html)|[Update-RSSScheduledAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSScheduledAction.html)|
 |[aws redshift-serverless update-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/update-snapshot.html)|[Update-RSSSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RSSSnapshot.html)|

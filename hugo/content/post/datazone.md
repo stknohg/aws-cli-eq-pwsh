@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2025-11-20
+date: 2025-12-04
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -84,6 +84,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-filter.html)|[Get-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetFilter.html)|
 |[aws datazone get-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-asset-type.html)|[Get-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZAssetType.html)|
 |[aws datazone get-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-connection.html)|[Get-DZConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZConnection.html)|
+|[aws datazone get-data-export-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-export-configuration.html)|[Get-DZDataExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataExportConfiguration.html)|
 |[aws datazone get-data-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-product.html)|[Get-DZDataProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataProduct.html)|
 |[aws datazone get-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-source.html)|[Get-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSource.html)|
 |[aws datazone get-data-source-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-data-source-run.html)|[Get-DZDataSourceRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZDataSourceRun.html)|
@@ -149,6 +150,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone list-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-time-series-data-points.html)|[Get-DZTimeSeriesDataPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZTimeSeriesDataPointList.html)|
 |[aws datazone post-lineage-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/post-lineage-event.html)|[Submit-DZLineageEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-DZLineageEvent.html)|
 |[aws datazone post-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/post-time-series-data-points.html)|[New-DZTimeSeriesDataPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZTimeSeriesDataPoint.html)|
+|[aws datazone put-data-export-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/put-data-export-configuration.html)|[Write-DZDataExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DZDataExportConfiguration.html)|
 |[aws datazone put-environment-blueprint-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/put-environment-blueprint-configuration.html)|[Write-DZEnvironmentBlueprintConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DZEnvironmentBlueprintConfiguration.html)|
 |[aws datazone reject-predictions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/reject-predictions.html)|[Deny-DZPrediction](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DZPrediction.html)|
 |[aws datazone reject-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/reject-subscription-request.html)|[Deny-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DZSubscriptionRequest.html)|

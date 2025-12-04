@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2025-11-20
+date: 2025-12-04
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks associate-identity-provider-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/associate-identity-provider-config.html)|[Add-EKSIdentityProviderConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSIdentityProviderConfig.html)|
 |[aws eks create-access-entry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-access-entry.html)|[New-EKSAccessEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSAccessEntry.html)|
 |[aws eks create-addon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-addon.html)|[New-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSAddon.html)|
+|[aws eks create-capability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-capability.html)|[New-EKSCapability](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSCapability.html)|
 |[aws eks create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-cluster.html)|[New-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSCluster.html)|
 |[aws eks create-eks-anywhere-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-eks-anywhere-subscription.html)|[New-EKSEksAnywhereSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSEksAnywhereSubscription.html)|
 |[aws eks create-fargate-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-fargate-profile.html)|[New-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSFargateProfile.html)|
@@ -25,6 +26,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks create-pod-identity-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-pod-identity-association.html)|[New-EKSPodIdentityAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSPodIdentityAssociation.html)|
 |[aws eks delete-access-entry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/delete-access-entry.html)|[Remove-EKSAccessEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSAccessEntry.html)|
 |[aws eks delete-addon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/delete-addon.html)|[Remove-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSAddon.html)|
+|[aws eks delete-capability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/delete-capability.html)|[Remove-EKSCapability](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSCapability.html)|
 |[aws eks delete-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/delete-cluster.html)|[Remove-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSCluster.html)|
 |[aws eks delete-eks-anywhere-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/delete-eks-anywhere-subscription.html)|[Remove-EKSEksAnywhereSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSEksAnywhereSubscription.html)|
 |[aws eks delete-fargate-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/delete-fargate-profile.html)|[Remove-EKSFargateProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSFargateProfile.html)|
@@ -35,6 +37,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks describe-addon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-addon.html)|[Get-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddon.html)|
 |[aws eks describe-addon-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-addon-configuration.html)|[Get-EKSAddonConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonConfiguration.html)|
 |[aws eks describe-addon-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-addon-versions.html)|[Get-EKSAddonVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonVersion.html)|
+|[aws eks describe-capability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-capability.html)|[Get-EKSCapabilityDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCapabilityDetail.html)|
 |[aws eks describe-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-cluster.html)|[Get-EKSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCluster.html)|
 |[aws eks describe-cluster-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-cluster-versions.html)|[Get-EKSClusterVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSClusterVersion.html)|
 |[aws eks describe-eks-anywhere-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/describe-eks-anywhere-subscription.html)|[Get-EKSEksAnywhereSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSEksAnywhereSubscription.html)|
@@ -52,6 +55,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks list-access-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-access-policies.html)|[Get-EKSAccessPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAccessPolicyList.html)|
 |[aws eks list-addons](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-addons.html)|[Get-EKSAddonList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAddonList.html)|
 |[aws eks list-associated-access-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-associated-access-policies.html)|[Get-EKSAssociatedAccessPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSAssociatedAccessPolicyList.html)|
+|[aws eks list-capabilities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-capabilities.html)|[Get-EKSCapabilityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSCapabilityList.html)|
 |[aws eks list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-clusters.html)|[Get-EKSClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSClusterList.html)|
 |[aws eks list-eks-anywhere-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-eks-anywhere-subscriptions.html)|[Get-EKSEksAnywhereSubscriptionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSEksAnywhereSubscriptionList.html)|
 |[aws eks list-fargate-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/list-fargate-profiles.html)|[Get-EKSFargateProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EKSFargateProfileList.html)|
@@ -67,6 +71,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/untag-resource.html)|[Remove-EKSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EKSResourceTag.html)|
 |[aws eks update-access-entry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-access-entry.html)|[Update-EKSAccessEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSAccessEntry.html)|
 |[aws eks update-addon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-addon.html)|[Update-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSAddon.html)|
+|[aws eks update-capability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-capability.html)|[Update-EKSCapability](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSCapability.html)|
 |[aws eks update-cluster-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-cluster-config.html)|[Update-EKSClusterConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSClusterConfig.html)|
 |[aws eks update-cluster-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-cluster-version.html)|[Update-EKSClusterVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSClusterVersion.html)|
 |[aws eks update-eks-anywhere-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/update-eks-anywhere-subscription.html)|[Update-EKSEksAnywhereSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EKSEksAnywhereSubscription.html)|

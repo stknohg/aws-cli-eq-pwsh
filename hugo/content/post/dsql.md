@@ -1,6 +1,6 @@
 ---
 title: dsql
-date: 2025-11-20
+date: 2025-12-04
 description: aws dsql (Amazon Aurora DSQL) command/cmdlet list.
 ---
 

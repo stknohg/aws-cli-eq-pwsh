@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-11-20
+date: 2025-12-04
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.32.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.101 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.32.9 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.109 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -113,6 +113,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Comprehend](https://aws.amazon.com/comprehend/)|[comprehend]({{%relref "post/comprehend.md" %}})|COMP||
 |[Amazon Comprehend](https://aws.amazon.com/comprehend/)|[comprehendmedical]({{%relref "post/comprehendmedical.md" %}})|CMPM||
 |[AWS Compute Optimizer](https://aws.amazon.com/compute-optimizer/)|[compute-optimizer]({{%relref "post/compute-optimizer.md" %}})|CO||
+|[AWS Compute Optimizer Automation](https://aws.amazon.com/compute-optimizer/)|[compute-optimizer-automation]({{%relref "post/compute-optimizer-automation.md" %}})|COA||
 |[AWS Config](https://aws.amazon.com/config/)|[configservice]({{%relref "post/configservice.md" %}})|CFG||
 |-|[configure]({{%relref "post/configure.md" %}})||Configure AWS CLI options.|
 |[Amazon Connect](https://aws.amazon.com/connect/)|[connect]({{%relref "post/connect.md" %}})|CONN||
@@ -299,6 +300,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CloudWatch Network Monitor](https://aws.amazon.com/cloudwatch/)|[networkmonitor]({{%relref "post/networkmonitor.md" %}})|CWNM||
 |[AWS User Notifications](https://aws.amazon.com/notifications/)|[notifications]({{%relref "post/notifications.md" %}})|UNO||
 |[AWS User Notifications Contacts](https://aws.amazon.com/notifications/)|[notificationscontacts]({{%relref "post/notificationscontacts.md" %}})|UNC||
+|[Amazon Nova Act](https://nova.amazon.com/act)|[nova-act]({{%relref "post/nova-act.md" %}})|NOVA||
 |[Amazon CloudWatch Observability Access Manager](https://aws.amazon.com/cloudwatch/)|[oam]({{%relref "post/oam.md" %}})|CWOAM||
 |[Amazon CloudWatch Observability Admin Service](https://aws.amazon.com/cloudwatch/)|[observabilityadmin]({{%relref "post/observabilityadmin.md" %}})|CWOADMN||
 |[Oracle Database@AWS](https://aws.amazon.com/marketplace/featured-seller/oracle/)|[odb]({{%relref "post/odb.md" %}})|ODB||
@@ -309,7 +311,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon OpenSearch Ingestion](https://aws.amazon.com/opensearch-service/features/integration/)|[osis]({{%relref "post/osis.md" %}})|OSIS||
 |[AWS Outposts](https://aws.amazon.com/outposts/)|[outposts]({{%relref "post/outposts.md" %}})|OUTP||
 |[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|PAN||
-|[AWS Partner Central Channel service](https://partnercentral.awspartner.com/)|[partnercentral-channel]({{%relref "post/partnercentral-channel.md" %}})|PCC||
+|[AWS Partner Central Account Service](https://partnercentral.awspartner.com/)|[partnercentral-account]({{%relref "post/partnercentral-account.md" %}})|PCAA||
+|[AWS Partner Central Benefits Service](https://partnercentral.awspartner.com/)|[partnercentral-benefits]({{%relref "post/partnercentral-benefits.md" %}})|PCB||
+|[AWS Partner Central Channel Service](https://partnercentral.awspartner.com/)|[partnercentral-channel]({{%relref "post/partnercentral-channel.md" %}})|PCC||
 |[AWS Partner Central API for Selling](https://partnercentral.awspartner.com/)|[partnercentral-selling]({{%relref "post/partnercentral-selling.md" %}})|PC||
 |[AWS Payment Cryptography Control Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography]({{%relref "post/payment-cryptography.md" %}})|PAYCC||
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
@@ -351,6 +355,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-control-config]({{%relref "post/route53-recovery-control-config.md" %}})|R53RC|Recovery Control Configuration|
 |[Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/route53/application-recovery-controller/)|[route53-recovery-readiness]({{%relref "post/route53-recovery-readiness.md" %}})|PD|Recovery Readiness|
 |[Amazon Route 53 Domains](https://aws.amazon.com/route53/)|[route53domains]({{%relref "post/route53domains.md" %}})|R53D||
+|[Amazon Route 53 Global Resolver](https://aws.amazon.com/route53/)|[route53globalresolver]({{%relref "post/route53globalresolver.md" %}})|R53GR||
 |[Amazon Route 53 Profiles](https://aws.amazon.com/route53/)|[route53profiles]({{%relref "post/route53profiles.md" %}})|R53P||
 |[Amazon Route 53 Resolver](https://aws.amazon.com/route53/)|[route53resolver]({{%relref "post/route53resolver.md" %}})|R53R||
 |[AWS RTB Fabric](https://aws.amazon.com/rtb-fabric/)|[rtbfabric]({{%relref "post/rtbfabric.md" %}})|RTB||

@@ -1,6 +1,6 @@
 ---
 title: route53
-date: 2025-11-20
+date: 2025-12-04
 description: aws route53 (Amazon Route 53) command/cmdlet list.
 ---
 
@@ -81,6 +81,7 @@ description: aws route53 (Amazon Route 53) command/cmdlet list.
 |[aws route53 test-dns-answer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53/test-dns-answer.html)|[Test-R53DNSAnswer](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-R53DNSAnswer.html)|
 |[aws route53 update-health-check](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53/update-health-check.html)|[Update-R53HealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53HealthCheck.html)|
 |[aws route53 update-hosted-zone-comment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53/update-hosted-zone-comment.html)|[Update-R53HostedZoneComment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53HostedZoneComment.html)|
+|[aws route53 update-hosted-zone-features](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53/update-hosted-zone-features.html)|[Update-R53HostedZoneFeature](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53HostedZoneFeature.html)|
 |[aws route53 update-traffic-policy-comment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53/update-traffic-policy-comment.html)|[Update-R53TrafficPolicyComment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53TrafficPolicyComment.html)|
 |[aws route53 update-traffic-policy-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53/update-traffic-policy-instance.html)|[Update-R53TrafficPolicyInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53TrafficPolicyInstance.html)|
 

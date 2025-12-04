@@ -1,6 +1,6 @@
 ---
 title: security-ir
-date: 2025-11-20
+date: 2025-12-04
 description: aws security-ir (AWS Security Incident Response) command/cmdlet list.
 ---
 
@@ -26,8 +26,10 @@ description: aws security-ir (AWS Security Incident Response) command/cmdlet lis
 |[aws security-ir list-case-edits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-case-edits.html)|[Get-SecurityIRCaseEditList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCaseEditList.html)|
 |[aws security-ir list-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-cases.html)|[Get-SecurityIRCaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCaseList.html)|
 |[aws security-ir list-comments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-comments.html)|[Get-SecurityIRCommentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCommentList.html)|
+|[aws security-ir list-investigations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-investigations.html)|[Get-SecurityIRInvestigationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRInvestigationList.html)|
 |[aws security-ir list-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-memberships.html)|[Get-SecurityIRMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRMembershipList.html)|
 |[aws security-ir list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-tags-for-resource.html)|[Get-SecurityIRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRResourceTag.html)|
+|[aws security-ir send-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/send-feedback.html)|[Send-SecurityIRFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SecurityIRFeedback.html)|
 |[aws security-ir tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/tag-resource.html)|[Add-SecurityIRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SecurityIRResourceTag.html)|
 |[aws security-ir untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/untag-resource.html)|[Remove-SecurityIRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SecurityIRResourceTag.html)|
 |[aws security-ir update-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/update-case.html)|[Update-SecurityIRCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SecurityIRCase.html)|

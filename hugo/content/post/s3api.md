@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2025-11-20
+date: 2025-12-04
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api delete-object-tagging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-object-tagging.html)|[Remove-S3ObjectTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3ObjectTagSet.html)|
 |[aws s3api delete-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-objects.html)|[Remove-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3Object.html)|
 |[aws s3api delete-public-access-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-public-access-block.html)|[Remove-S3PublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3PublicAccessBlock.html)|
+|[aws s3api get-bucket-abac](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-abac.html)|[Get-S3BucketAbac](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketAbac.html)|
 |[aws s3api get-bucket-accelerate-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-accelerate-configuration.html)|[Get-S3BucketAccelerateConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketAccelerateConfiguration.html)|
 |[aws s3api get-bucket-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-acl.html)|[Get-S3BucketACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketACL.html)|
 |[aws s3api get-bucket-analytics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-analytics-configuration.html)|[Get-S3BucketAnalyticsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketAnalyticsConfiguration.html)|
@@ -84,6 +85,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api list-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects.html)|[Get-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3Object.html)|
 |[aws s3api list-objects-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects-v2.html)|[Get-S3ObjectV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectV2.html)|
 |[aws s3api list-parts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-parts.html)||
+|[aws s3api put-bucket-abac](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-abac.html)|[Write-S3BucketAbac](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketAbac.html)|
 |[aws s3api put-bucket-accelerate-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-accelerate-configuration.html)|[Write-S3BucketAccelerateConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketAccelerateConfiguration.html)|
 |[aws s3api put-bucket-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-acl.html)|[Set-S3BucketACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3BucketACL.html)|
 |[aws s3api put-bucket-analytics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-analytics-configuration.html)|[Write-S3BucketAnalyticsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketAnalyticsConfiguration.html)|

@@ -1,6 +1,6 @@
 ---
 title: application-signals
-date: 2025-11-20
+date: 2025-12-04
 description: aws application-signals (Amazon CloudWatch Application Signals) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws application-signals (Amazon CloudWatch Application Signals) com
 |[aws application-signals get-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/get-service.html)|[Get-CWASService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASService.html)|
 |[aws application-signals get-service-level-objective](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/get-service-level-objective.html)|[Get-CWASServiceLevelObjective](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceLevelObjective.html)|
 |[aws application-signals list-audit-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-audit-findings.html)|[Get-CWASAuditFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASAuditFindingList.html)|
+|[aws application-signals list-entity-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-entity-events.html)|[Get-CWASEntityEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASEntityEventList.html)|
 |[aws application-signals list-grouping-attribute-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-grouping-attribute-definitions.html)|[Get-CWASGroupingAttributeDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASGroupingAttributeDefinitionList.html)|
 |[aws application-signals list-service-dependencies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-dependencies.html)|[Get-CWASServiceDependencyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceDependencyList.html)|
 |[aws application-signals list-service-dependents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/application-signals/list-service-dependents.html)|[Get-CWASServiceDependentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWASServiceDependentList.html)|

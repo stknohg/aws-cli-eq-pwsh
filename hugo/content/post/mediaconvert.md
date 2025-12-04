@@ -1,6 +1,6 @@
 ---
 title: mediaconvert
-date: 2025-11-20
+date: 2025-12-04
 description: aws mediaconvert (AWS Elemental MediaConvert) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: s3vectors
-date: 2025-11-20
+date: 2025-12-04
 description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 ---
 
@@ -24,9 +24,12 @@ description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 |[aws s3vectors get-vector-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/get-vector-bucket-policy.html)|[Get-S3VVectorBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3VVectorBucketPolicy.html)|
 |[aws s3vectors get-vectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/get-vectors.html)|[Get-S3VVector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3VVector.html)|
 |[aws s3vectors list-indexes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/list-indexes.html)|[Get-S3VIndexList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3VIndexList.html)|
+|[aws s3vectors list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/list-tags-for-resource.html)|[Get-S3VResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3VResourceTag.html)|
 |[aws s3vectors list-vector-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/list-vector-buckets.html)|[Get-S3VVectorBucketList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3VVectorBucketList.html)|
 |[aws s3vectors list-vectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/list-vectors.html)|[Get-S3VVectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3VVectorList.html)|
 |[aws s3vectors put-vector-bucket-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/put-vector-bucket-policy.html)|[Write-S3VVectorBucketPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3VVectorBucketPolicy.html)|
 |[aws s3vectors put-vectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/put-vectors.html)|[Write-S3VVector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3VVector.html)|
 |[aws s3vectors query-vectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/query-vectors.html)|[Search-S3VVector](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-S3VVector.html)|
+|[aws s3vectors tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/tag-resource.html)|[Add-S3VResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3VResourceTag.html)|
+|[aws s3vectors untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/untag-resource.html)|[Remove-S3VResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3VResourceTag.html)|
 

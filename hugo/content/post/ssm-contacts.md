@@ -1,6 +1,6 @@
 ---
 title: ssm-contacts
-date: 2025-11-20
+date: 2025-12-04
 description: aws ssm-contacts (AWS Systems Manager Contacts) command/cmdlet list.
 ---
 

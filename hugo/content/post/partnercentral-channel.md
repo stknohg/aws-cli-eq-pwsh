@@ -1,12 +1,12 @@
 ---
 title: partnercentral-channel
-date: 2025-11-20
-description: aws partnercentral-channel (AWS Partner Central Channel service) command/cmdlet list.
+date: 2025-12-04
+description: aws partnercentral-channel (AWS Partner Central Channel Service) command/cmdlet list.
 ---
 
 ## partnercentral-channel
 
-### [AWS Partner Central Channel service](https://partnercentral.awspartner.com/)
+### [AWS Partner Central Channel Service](https://partnercentral.awspartner.com/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-channel/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/PartnerCentralChannel_cmdlets.html)

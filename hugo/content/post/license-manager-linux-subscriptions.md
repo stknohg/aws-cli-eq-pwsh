@@ -1,6 +1,6 @@
 ---
 title: license-manager-linux-subscriptions
-date: 2025-11-20
+date: 2025-12-04
 description: aws license-manager-linux-subscriptions (AWS License Manager) command/cmdlet list.
 ---
 

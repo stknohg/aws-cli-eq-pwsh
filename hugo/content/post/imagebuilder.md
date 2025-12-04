@@ -1,6 +1,6 @@
 ---
 title: imagebuilder
-date: 2025-11-20
+date: 2025-12-04
 description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder delete-infrastructure-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/delete-infrastructure-configuration.html)|[Remove-EC2IBInfrastructureConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBInfrastructureConfiguration.html)|
 |[aws imagebuilder delete-lifecycle-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/delete-lifecycle-policy.html)|[Remove-EC2IBLifecyclePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBLifecyclePolicy.html)|
 |[aws imagebuilder delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/delete-workflow.html)|[Remove-EC2IBWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IBWorkflow.html)|
+|[aws imagebuilder distribute-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/distribute-image.html)|[Start-EC2IBImageDistribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBImageDistribution.html)|
 |[aws imagebuilder get-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-component.html)|[Get-EC2IBComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponent.html)|
 |[aws imagebuilder get-component-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-component-policy.html)|[Get-EC2IBComponentPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBComponentPolicy.html)|
 |[aws imagebuilder get-container-recipe](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/get-container-recipe.html)|[Get-EC2IBContainerRecipe](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IBContainerRecipe.html)|
@@ -78,6 +79,7 @@ description: aws imagebuilder (EC2 Image Builder) command/cmdlet list.
 |[aws imagebuilder put-container-recipe-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/put-container-recipe-policy.html)|[Write-EC2IBContainerRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBContainerRecipePolicy.html)|
 |[aws imagebuilder put-image-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/put-image-policy.html)|[Write-EC2IBImagePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBImagePolicy.html)|
 |[aws imagebuilder put-image-recipe-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/put-image-recipe-policy.html)|[Write-EC2IBImageRecipePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EC2IBImageRecipePolicy.html)|
+|[aws imagebuilder retry-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/retry-image.html)|[Start-EC2IBImageRetry](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBImageRetry.html)|
 |[aws imagebuilder send-workflow-step-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/send-workflow-step-action.html)|[Send-EC2IBWorkflowStepAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-EC2IBWorkflowStepAction.html)|
 |[aws imagebuilder start-image-pipeline-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/start-image-pipeline-execution.html)|[Start-EC2IBImagePipelineExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBImagePipelineExecution.html)|
 |[aws imagebuilder start-resource-state-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/imagebuilder/start-resource-state-update.html)|[Start-EC2IBResourceStateUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EC2IBResourceStateUpdate.html)|

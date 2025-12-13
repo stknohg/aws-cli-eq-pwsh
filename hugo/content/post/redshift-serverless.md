@@ -1,6 +1,6 @@
 ---
 title: redshift-serverless
-date: 2025-12-04
+date: 2025-12-13
 description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws redshift-serverless (Amazon Redshift Serverless) command/cmdlet
 |[aws redshift-serverless get-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-credentials.html)|[Get-RSSCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSCredential.html)|
 |[aws redshift-serverless get-custom-domain-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-custom-domain-association.html)|[Get-RSSCustomDomainAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSCustomDomainAssociation.html)|
 |[aws redshift-serverless get-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-endpoint-access.html)|[Get-RSSEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSEndpointAccess.html)|
+|[aws redshift-serverless get-identity-center-auth-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-identity-center-auth-token.html)|[Get-RSSIdentityCenterAuthToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSIdentityCenterAuthToken.html)|
 |[aws redshift-serverless get-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-namespace.html)|[Get-RSSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSNamespace.html)|
 |[aws redshift-serverless get-recovery-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-recovery-point.html)|[Get-RSSRecoveryPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSRecoveryPoint.html)|
 |[aws redshift-serverless get-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/redshift-serverless/get-reservation.html)|[Get-RSSReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RSSReservation.html)|

@@ -1,6 +1,6 @@
 ---
 title: ce
-date: 2025-12-04
+date: 2025-12-13
 description: aws ce (Cost Explorer) command/cmdlet list.
 ---
 
@@ -47,6 +47,7 @@ description: aws ce (Cost Explorer) command/cmdlet list.
 |[aws ce list-cost-allocation-tag-backfill-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-allocation-tag-backfill-history.html)|[Get-CECostAllocationTagBackfillHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAllocationTagBackfillHistoryList.html)|
 |[aws ce list-cost-allocation-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-allocation-tags.html)|[Get-CECostAllocationTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostAllocationTagList.html)|
 |[aws ce list-cost-category-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-category-definitions.html)|[Get-CECostCategoryDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostCategoryDefinitionList.html)|
+|[aws ce list-cost-category-resource-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-cost-category-resource-associations.html)|[Get-CECostCategoryResourceAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CECostCategoryResourceAssociationList.html)|
 |[aws ce list-savings-plans-purchase-recommendation-generation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-savings-plans-purchase-recommendation-generation.html)|[Get-CESavingsPlansPurchaseRecommendationGenerationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CESavingsPlansPurchaseRecommendationGenerationList.html)|
 |[aws ce list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/list-tags-for-resource.html)|[Get-CEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CEResourceTag.html)|
 |[aws ce provide-anomaly-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ce/provide-anomaly-feedback.html)|[Set-CEAnomalyFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CEAnomalyFeedback.html)|

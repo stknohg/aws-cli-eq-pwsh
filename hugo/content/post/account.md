@@ -1,6 +1,6 @@
 ---
 title: account
-date: 2025-12-04
+date: 2025-12-13
 description: aws account (AWS Account Management) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws account (AWS Account Management) command/cmdlet list.
 |[aws account get-account-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/get-account-information.html)|[Get-ACCTAccountInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTAccountInformation.html)|
 |[aws account get-alternate-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/get-alternate-contact.html)|[Get-ACCTAlternateContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTAlternateContact.html)|
 |[aws account get-contact-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/get-contact-information.html)|[Get-ACCTContactInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTContactInformation.html)|
+|[aws account get-gov-cloud-account-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/get-gov-cloud-account-information.html)|[Get-ACCTGovCloudAccountInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTGovCloudAccountInformation.html)|
 |[aws account get-primary-email](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/get-primary-email.html)|[Get-ACCTPrimaryEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTPrimaryEmail.html)|
 |[aws account get-region-opt-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/get-region-opt-status.html)|[Get-ACCTRegionOptStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTRegionOptStatus.html)|
 |[aws account list-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/list-regions.html)|[Get-ACCTRegionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACCTRegionList.html)|

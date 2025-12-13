@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2025-12-04
+date: 2025-12-13
 description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 ---
 
@@ -134,6 +134,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight get-dashboard-embed-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/get-dashboard-embed-url.html)|[Get-QSDashboardEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSDashboardEmbedUrl.html)|
 |[aws quicksight get-flow-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/get-flow-metadata.html)|[Get-QSFlowMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFlowMetadata.html)|
 |[aws quicksight get-flow-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/get-flow-permissions.html)|[Get-QSFlowPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSFlowPermission.html)|
+|[aws quicksight get-identity-context](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/get-identity-context.html)|[Get-QSIdentityContext](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSIdentityContext.html)|
 |[aws quicksight get-session-embed-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/get-session-embed-url.html)|[Get-QSSessionEmbedUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSSessionEmbedUrl.html)|
 |[aws quicksight list-action-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-action-connectors.html)|[Get-QSActionConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSActionConnectorList.html)|
 |[aws quicksight list-analyses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-analyses.html)|[Get-QSAnalysisList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisList.html)|

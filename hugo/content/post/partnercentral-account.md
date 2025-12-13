@@ -1,6 +1,6 @@
 ---
 title: partnercentral-account
-date: 2025-12-04
+date: 2025-12-13
 description: aws partnercentral-account (AWS Partner Central Account Service) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws partnercentral-account (AWS Partner Central Account Service) co
 |[aws partnercentral-account get-partner](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/get-partner.html)|[Get-PCAAPartner](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAPartner.html)|
 |[aws partnercentral-account get-profile-update-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/get-profile-update-task.html)|[Get-PCAAProfileUpdateTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAProfileUpdateTask.html)|
 |[aws partnercentral-account get-profile-visibility](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/get-profile-visibility.html)|[Get-PCAAProfileVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAProfileVisibility.html)|
+|[aws partnercentral-account get-verification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/get-verification.html)|[Get-PCAAVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAVerification.html)|
 |[aws partnercentral-account list-connection-invitations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/list-connection-invitations.html)|[Get-PCAAConnectionInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAConnectionInvitationList.html)|
 |[aws partnercentral-account list-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/list-connections.html)|[Get-PCAAConnectionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAConnectionList.html)|
 |[aws partnercentral-account list-partners](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/list-partners.html)|[Get-PCAAPartnerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PCAAPartnerList.html)|
@@ -37,6 +38,7 @@ description: aws partnercentral-account (AWS Partner Central Account Service) co
 |[aws partnercentral-account reject-connection-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/reject-connection-invitation.html)|[Deny-PCAAConnectionInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-PCAAConnectionInvitation.html)|
 |[aws partnercentral-account send-email-verification-code](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/send-email-verification-code.html)|[Send-PCAAEmailVerificationCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-PCAAEmailVerificationCode.html)|
 |[aws partnercentral-account start-profile-update-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/start-profile-update-task.html)|[Start-PCAAProfileUpdateTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-PCAAProfileUpdateTask.html)|
+|[aws partnercentral-account start-verification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/start-verification.html)|[Start-PCAAVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-PCAAVerification.html)|
 |[aws partnercentral-account tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/tag-resource.html)|[Add-PCAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PCAAResourceTag.html)|
 |[aws partnercentral-account untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/untag-resource.html)|[Remove-PCAAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PCAAResourceTag.html)|
 |[aws partnercentral-account update-connection-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-account/update-connection-preferences.html)|[Update-PCAAConnectionPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCAAConnectionPreference.html)|

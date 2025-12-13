@@ -1,6 +1,6 @@
 ---
 title: iotanalytics
-date: 2025-12-04
+date: 2025-12-13
 description: aws iotanalytics (AWS IoT Analytics) command/cmdlet list.
 ---
 

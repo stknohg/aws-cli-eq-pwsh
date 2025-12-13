@@ -1,6 +1,6 @@
 ---
 title: workspaces-instances
-date: 2025-12-04
+date: 2025-12-13
 description: aws workspaces-instances (Amazon WorkSpaces Instances) command/cmdlet list.
 ---
 

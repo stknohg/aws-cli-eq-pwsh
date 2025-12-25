@@ -1,6 +1,6 @@
 ---
 title: odb
-date: 2025-12-13
+date: 2025-12-25
 description: aws odb (Oracle Database@AWS) command/cmdlet list.
 ---
 

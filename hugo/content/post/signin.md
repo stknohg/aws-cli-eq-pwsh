@@ -1,6 +1,6 @@
 ---
 title: signin
-date: 2025-12-13
+date: 2025-12-25
 description: aws signin (AWS Sign-In) command/cmdlet list.
 ---
 

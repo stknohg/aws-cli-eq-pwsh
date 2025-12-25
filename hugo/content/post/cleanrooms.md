@@ -1,6 +1,6 @@
 ---
 title: cleanrooms
-date: 2025-12-13
+date: 2025-12-25
 description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 ---
 
@@ -92,6 +92,7 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/untag-resource.html)|[Remove-CRMLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CRMLResourceTag.html)|
 |[aws cleanrooms update-analysis-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-analysis-template.html)|[Update-CRSAnalysisTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSAnalysisTemplate.html)|
 |[aws cleanrooms update-collaboration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-collaboration.html)|[Update-CRSCollaboration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSCollaboration.html)|
+|[aws cleanrooms update-collaboration-change-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-collaboration-change-request.html)|[Update-CRSCollaborationChangeRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSCollaborationChangeRequest.html)|
 |[aws cleanrooms update-configured-audience-model-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-configured-audience-model-association.html)|[Update-CRSConfiguredAudienceModelAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSConfiguredAudienceModelAssociation.html)|
 |[aws cleanrooms update-configured-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-configured-table.html)|[Update-CRSConfiguredTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSConfiguredTable.html)|
 |[aws cleanrooms update-configured-table-analysis-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/update-configured-table-analysis-rule.html)|[Update-CRSConfiguredTableAnalysisRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CRSConfiguredTableAnalysisRule.html)|

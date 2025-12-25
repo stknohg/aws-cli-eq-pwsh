@@ -1,6 +1,6 @@
 ---
 title: service-quotas
-date: 2025-12-13
+date: 2025-12-25
 description: aws service-quotas (AWS Service Quotas) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws service-quotas (AWS Service Quotas) command/cmdlet list.
 |[aws service-quotas get-association-for-service-quota-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-association-for-service-quota-template.html)|[Get-SQAssociationForServiceQuotaTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQAssociationForServiceQuotaTemplate.html)|
 |[aws service-quotas get-auto-management-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-auto-management-configuration.html)|[Get-SQAutoManagementConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQAutoManagementConfiguration.html)|
 |[aws service-quotas get-aws-default-service-quota](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-aws-default-service-quota.html)|[Get-SQAWSDefaultServiceQuota](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQAWSDefaultServiceQuota.html)|
+|[aws service-quotas get-quota-utilization-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-quota-utilization-report.html)|[Get-SQQuotaUtilizationReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQQuotaUtilizationReport.html)|
 |[aws service-quotas get-requested-service-quota-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-requested-service-quota-change.html)|[Get-SQRequestedServiceQuotaChange](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQRequestedServiceQuotaChange.html)|
 |[aws service-quotas get-service-quota](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-service-quota.html)|[Get-SQServiceQuota](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQServiceQuota.html)|
 |[aws service-quotas get-service-quota-increase-request-from-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/get-service-quota-increase-request-from-template.html)|[Get-SQServiceQuotaIncreaseRequestFromTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SQServiceQuotaIncreaseRequestFromTemplate.html)|
@@ -33,6 +34,7 @@ description: aws service-quotas (AWS Service Quotas) command/cmdlet list.
 |[aws service-quotas put-service-quota-increase-request-into-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/put-service-quota-increase-request-into-template.html)|[Write-SQServiceQuotaIncreaseRequestIntoTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SQServiceQuotaIncreaseRequestIntoTemplate.html)|
 |[aws service-quotas request-service-quota-increase](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/request-service-quota-increase.html)|[Request-SQServiceQuotaIncrease](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-SQServiceQuotaIncrease.html)|
 |[aws service-quotas start-auto-management](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/start-auto-management.html)|[Start-SQAutoManagement](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SQAutoManagement.html)|
+|[aws service-quotas start-quota-utilization-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/start-quota-utilization-report.html)|[Start-SQQuotaUtilizationReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SQQuotaUtilizationReport.html)|
 |[aws service-quotas stop-auto-management](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/stop-auto-management.html)|[Stop-SQAutoManagement](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SQAutoManagement.html)|
 |[aws service-quotas tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/tag-resource.html)|[Add-SQResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SQResourceTag.html)|
 |[aws service-quotas untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/service-quotas/untag-resource.html)|[Remove-SQResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SQResourceTag.html)|

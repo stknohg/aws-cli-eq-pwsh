@@ -1,6 +1,6 @@
 ---
 title: arc-region-switch
-date: 2025-12-13
+date: 2025-12-25
 description: aws arc-region-switch (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws arc-region-switch (Amazon Route 53 Application Recovery Control
 |[aws arc-region-switch list-plans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/list-plans.html)|[Get-ARCPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ARCPlanList.html)|
 |[aws arc-region-switch list-plans-in-region](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/list-plans-in-region.html)|[Get-ARCPlansInRegionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ARCPlansInRegionList.html)|
 |[aws arc-region-switch list-route53-health-checks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/list-route53-health-checks.html)|[Get-ARCRoute53HealthCheckList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ARCRoute53HealthCheckList.html)|
+|[aws arc-region-switch list-route53-health-checks-in-region](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/list-route53-health-checks-in-region.html)|[Get-ARCRoute53HealthCheckInRegionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ARCRoute53HealthCheckInRegionList.html)|
 |[aws arc-region-switch list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/list-tags-for-resource.html)|[Get-ARCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ARCResourceTag.html)|
 |[aws arc-region-switch start-plan-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/start-plan-execution.html)|[Start-ARCPlanExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ARCPlanExecution.html)|
 |[aws arc-region-switch tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/arc-region-switch/tag-resource.html)|[Add-ARCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ARCResourceTag.html)|

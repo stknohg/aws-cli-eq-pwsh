@@ -1,6 +1,6 @@
 ---
 title: timestream-influxdb
-date: 2025-12-13
+date: 2025-12-25
 description: aws timestream-influxdb (Amazon Timestream for InfluxDB) command/cmdlet list.
 ---
 
@@ -26,6 +26,8 @@ description: aws timestream-influxdb (Amazon Timestream for InfluxDB) command/cm
 |[aws timestream-influxdb list-db-instances-for-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/list-db-instances-for-cluster.html)|[Get-TIDBDbInstancesForClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TIDBDbInstancesForClusterList.html)|
 |[aws timestream-influxdb list-db-parameter-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/list-db-parameter-groups.html)|[Get-TIDBDbParameterGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TIDBDbParameterGroupList.html)|
 |[aws timestream-influxdb list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/list-tags-for-resource.html)|[Get-TIDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TIDBResourceTag.html)|
+|[aws timestream-influxdb reboot-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/reboot-db-cluster.html)|[Restart-TIDBDbCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-TIDBDbCluster.html)|
+|[aws timestream-influxdb reboot-db-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/reboot-db-instance.html)|[Restart-TIDBDbInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-TIDBDbInstance.html)|
 |[aws timestream-influxdb tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/tag-resource.html)|[Add-TIDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TIDBResourceTag.html)|
 |[aws timestream-influxdb untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/untag-resource.html)|[Remove-TIDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TIDBResourceTag.html)|
 |[aws timestream-influxdb update-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/timestream-influxdb/update-db-cluster.html)|[Update-TIDBDbCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TIDBDbCluster.html)|

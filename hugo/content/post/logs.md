@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2025-12-13
+date: 2025-12-25
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -16,8 +16,10 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs associate-kms-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/associate-kms-key.html)|[Register-CWLKmsKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CWLKmsKey.html)|
 |[aws logs associate-source-to-s3-table-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/associate-source-to-s3-table-integration.html)|[Register-CWLSourceToS3TableIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CWLSourceToS3TableIntegration.html)|
 |[aws logs cancel-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/cancel-export-task.html)|[Stop-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLExportTask.html)|
+|[aws logs cancel-import-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/cancel-import-task.html)|[Stop-CWLCWLImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWLCWLImportTask.html)|
 |[aws logs create-delivery](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-delivery.html)|[New-CWLDelivery](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLDelivery.html)|
 |[aws logs create-export-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-export-task.html)|[New-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLExportTask.html)|
+|[aws logs create-import-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-import-task.html)|[New-CWLCWLImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLCWLImportTask.html)|
 |[aws logs create-log-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-log-anomaly-detector.html)|[New-CWLLogAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogAnomalyDetector.html)|
 |[aws logs create-log-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-log-group.html)|[New-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogGroup.html)|
 |[aws logs create-log-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/create-log-stream.html)|[New-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWLLogStream.html)|
@@ -49,6 +51,8 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs describe-destinations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-destinations.html)|[Get-CWLDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLDestination.html)|
 |[aws logs describe-export-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-export-tasks.html)|[Get-CWLExportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLExportTask.html)|
 |[aws logs describe-field-indexes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-field-indexes.html)|[Get-CWLFieldIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLFieldIndex.html)|
+|[aws logs describe-import-task-batches](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-import-task-batches.html)|[Get-CWLCWLImportTaskBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLCWLImportTaskBatch.html)|
+|[aws logs describe-import-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-import-tasks.html)|[Get-CWLCWLImportTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLCWLImportTask.html)|
 |[aws logs describe-index-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-index-policies.html)|[Get-CWLIndexPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLIndexPolicy.html)|
 |[aws logs describe-log-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-log-groups.html)|[Get-CWLLogGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroup.html)|
 |[aws logs describe-log-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-log-streams.html)|[Get-CWLLogStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogStream.html)|

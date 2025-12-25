@@ -1,6 +1,6 @@
 ---
 title: databrew
-date: 2025-12-13
+date: 2025-12-25
 description: aws databrew (AWS Glue DataBrew) command/cmdlet list.
 ---
 

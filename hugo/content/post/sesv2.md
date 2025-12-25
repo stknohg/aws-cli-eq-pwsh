@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2025-12-13
+date: 2025-12-25
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 get-deliverability-test-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-deliverability-test-report.html)|[Get-SES2DeliverabilityTestReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DeliverabilityTestReport.html)|
 |[aws sesv2 get-domain-deliverability-campaign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-domain-deliverability-campaign.html)|[Get-SES2DomainDeliverabilityCampaign](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DomainDeliverabilityCampaign.html)|
 |[aws sesv2 get-domain-statistics-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-domain-statistics-report.html)|[Get-SES2DomainStatisticsReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DomainStatisticsReport.html)|
+|[aws sesv2 get-email-address-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-address-insights.html)|[Get-SES2EmailAddressInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailAddressInsight.html)|
 |[aws sesv2 get-email-identity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-identity.html)|[Get-SES2EmailIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentity.html)|
 |[aws sesv2 get-email-identity-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-identity-policies.html)|[Get-SES2EmailIdentityPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentityPolicy.html)|
 |[aws sesv2 get-email-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-email-template.html)|[Get-SES2EmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailTemplate.html)|

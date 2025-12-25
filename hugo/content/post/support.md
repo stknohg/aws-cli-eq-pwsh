@@ -1,6 +1,6 @@
 ---
 title: support
-date: 2025-12-13
+date: 2025-12-25
 description: aws support (AWS Support) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-12-13
+date: 2025-12-25
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.32.16 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.116 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.32.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.123 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -431,6 +431,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS WAF Classic Regional](https://aws.amazon.com/waf/)|[waf-regional]({{%relref "post/waf-regional.md" %}})|WAFR||
 |[AWS WAF V2](https://aws.amazon.com/waf/)|[wafv2]({{%relref "post/wafv2.md" %}})|WAF2||
 |[AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)|[wellarchitected]({{%relref "post/wellarchitected.md" %}})|WAT||
+|[AWS Wickr](https://aws.amazon.com/wickr/)|[wickr]({{%relref "post/wickr.md" %}})|WIC||
 |[Amazon Connect Wisdom](https://aws.amazon.com/connect/wisdom/)|[wisdom]({{%relref "post/wisdom.md" %}})|WSDM||
 |[Amazon WorkDocs](https://aws.amazon.com/workdocs/)|[workdocs]({{%relref "post/workdocs.md" %}})|WD||
 |[Amazon WorkMail](https://aws.amazon.com/workmail/)|[workmail]({{%relref "post/workmail.md" %}})|WM||

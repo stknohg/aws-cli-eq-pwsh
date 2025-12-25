@@ -409,6 +409,7 @@
   "waf": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_WAF_cmdlets.html",
   "wafv2": "https://docs.aws.amazon.com/powershell/latest/reference/items/WAFV2_cmdlets.html",
   "wellarchitected": "https://docs.aws.amazon.com/powershell/latest/reference/items/WellArchitected_cmdlets.html",
+  "wickr": "https://docs.aws.amazon.com/powershell/latest/reference/items/Wickr_cmdlets.html",
   "wisdom": "https://docs.aws.amazon.com/powershell/latest/reference/items/ConnectWisdomService_cmdlets.html",
   "workdocs": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_WorkDocs_cmdlets.html",
   "workmail": "https://docs.aws.amazon.com/powershell/latest/reference/items/WorkMail_cmdlets.html",

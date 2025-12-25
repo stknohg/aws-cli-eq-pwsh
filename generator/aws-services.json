@@ -2471,6 +2471,12 @@
     "Url": "https://aws.amazon.com/well-architected-tool/",
     "Note": ""
   },
+  "wickr": {
+    "Prefix": "WIC",
+    "Name": "AWS Wickr",
+    "Url": "https://aws.amazon.com/wickr/",
+    "Note": ""
+  },
   "wisdom": {
     "Prefix": "WSDM",
     "Name": "Amazon Connect Wisdom",

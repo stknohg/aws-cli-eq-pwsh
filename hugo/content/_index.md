@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2025-12-25
+date: 2026-01-01
 description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.32.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.123 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.32.26 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.126 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -162,7 +162,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[EKS Pod Identity](https://aws.amazon.com/eks/)|[eks-auth]({{%relref "post/eks-auth.md" %}})|EKSAU||
 |[Amazon ElastiCache](https://aws.amazon.com/elasticache/)|[elasticache]({{%relref "post/elasticache.md" %}})|EC||
 |[AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)|[elasticbeanstalk]({{%relref "post/elasticbeanstalk.md" %}})|EB||
-|[Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/)|[elastictranscoder]({{%relref "post/elastictranscoder.md" %}})|ETS||
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elb]({{%relref "post/elb.md" %}})|ELB||
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elbv2]({{%relref "post/elbv2.md" %}})|ELB2||
 |[Amazon EMR](https://aws.amazon.com/emr/)|[emr]({{%relref "post/emr.md" %}})|EMR||

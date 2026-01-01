@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2025-12-25
+date: 2026-01-01
 description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 ---
 
@@ -115,6 +115,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight describe-quick-sight-q-search-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-quick-sight-q-search-configuration.html)|[Get-QSQuickSightQSearchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSQuickSightQSearchConfiguration.html)|
 |[aws quicksight describe-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-refresh-schedule.html)|[Get-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRefreshSchedule.html)|
 |[aws quicksight describe-role-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-role-custom-permission.html)|[Get-QSRoleCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRoleCustomPermission.html)|
+|[aws quicksight describe-self-upgrade-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-self-upgrade-configuration.html)|[Get-QSSelfUpgradeConfigurationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSSelfUpgradeConfigurationDetail.html)|
 |[aws quicksight describe-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-template.html)|[Get-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplate.html)|
 |[aws quicksight describe-template-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-template-alias.html)|[Get-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateAlias.html)|
 |[aws quicksight describe-template-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-template-definition.html)|[Get-QSTemplateDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateDefinition.html)|
@@ -159,6 +160,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight list-namespaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-namespaces.html)|[Get-QSNamespaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSNamespaceList.html)|
 |[aws quicksight list-refresh-schedules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-refresh-schedules.html)|[Get-QSRefreshScheduleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRefreshScheduleList.html)|
 |[aws quicksight list-role-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-role-memberships.html)|[Get-QSRoleMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSRoleMembershipList.html)|
+|[aws quicksight list-self-upgrades](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-self-upgrades.html)|[Get-QSSelfUpgradeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSSelfUpgradeList.html)|
 |[aws quicksight list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-tags-for-resource.html)|[Get-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSResourceTag.html)|
 |[aws quicksight list-template-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-template-aliases.html)|[Get-QSTemplateAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateAliasList.html)|
 |[aws quicksight list-template-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/list-template-versions.html)|[Get-QSTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSTemplateVersionList.html)|
@@ -226,6 +228,8 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight update-quick-sight-q-search-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-quick-sight-q-search-configuration.html)|[Update-QSQuickSightQSearchConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSQuickSightQSearchConfiguration.html)|
 |[aws quicksight update-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-refresh-schedule.html)|[Update-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRefreshSchedule.html)|
 |[aws quicksight update-role-custom-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-role-custom-permission.html)|[Update-QSRoleCustomPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSRoleCustomPermission.html)|
+|[aws quicksight update-self-upgrade](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-self-upgrade.html)|[Update-QSSelfUpgrade](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSSelfUpgrade.html)|
+|[aws quicksight update-self-upgrade-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-self-upgrade-configuration.html)|[Update-QSSelfUpgradeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSSelfUpgradeConfiguration.html)|
 |[aws quicksight update-spice-capacity-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-spice-capacity-configuration.html)|[Update-QSSPICECapacityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSSPICECapacityConfiguration.html)|
 |[aws quicksight update-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-template.html)|[Update-QSTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplate.html)|
 |[aws quicksight update-template-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-template-alias.html)|[Update-QSTemplateAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSTemplateAlias.html)|

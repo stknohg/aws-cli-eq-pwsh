@@ -1,6 +1,6 @@
 ---
 title: mediapackagev2
-date: 2025-12-25
+date: 2026-01-01
 description: aws mediapackagev2 (AWS Elemental MediaPackage) command/cmdlet list.
 ---
 

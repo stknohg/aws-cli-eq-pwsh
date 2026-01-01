@@ -851,12 +851,6 @@
     "Url": "https://aws.amazon.com/elasticbeanstalk/",
     "Note": ""
   },
-  "elastictranscoder": {
-    "Prefix": "ETS",
-    "Name": "Amazon Elastic Transcoder",
-    "Url": "https://aws.amazon.com/elastictranscoder/",
-    "Note": ""
-  },
   "elb": {
     "Prefix": "ELB",
     "Name": "Elastic Load Balancing",

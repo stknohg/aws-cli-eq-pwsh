@@ -139,7 +139,6 @@
   "eks-auth": "https://docs.aws.amazon.com/powershell/latest/reference/items/EKSAuth_cmdlets.html",
   "elasticache": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_ElastiCache_cmdlets.html",
   "elasticbeanstalk": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elastic_Beanstalk_cmdlets.html",
-  "elastictranscoder": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_Transcoder_cmdlets.html",
   "elb": "https://docs.aws.amazon.com/powershell/latest/reference/items/Elastic_Load_Balancing_cmdlets.html",
   "elbv2": "https://docs.aws.amazon.com/powershell/latest/reference/items/Elastic_Load_Balancing_V2_cmdlets.html",
   "emr": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html",

@@ -189,10 +189,10 @@ function Export-TopPageMarkdown {
         "---"
         "title: AWS CLI -eq PowerShell"
         "date: $((Get-Date).ToString('yyyy-MM-dd', [CultureInfo]::InvariantCulture))"
-        "description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
+        "description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands."
         "---"
         ""
-        "This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands."
+        "This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands."
         ""
         "### Version"
         ""
@@ -245,6 +245,18 @@ function Export-PostPageMarkdown {
     $cliUrlLink = "[CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/$ServiceName/index.html)"
     $cmdletUrlLink = if ($null -eq $g_CmdletReferenceLinks[$ServiceName] -or $g_CmdletReferenceLinks[$ServiceName] -eq '') { "Cmdlet Reference" } else { "[Cmdlet Reference]($($g_CmdletReferenceLinks[$ServiceName]))" }
     $markdown = if ($null -eq $Commands) {
+        $content = switch ($ServiceName) {
+            "login" {
+                "[Invoke-AWSLogin](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogin.html) is the equivalent cmdlet to ``aws login``."
+            }
+            "logout" {
+                "[Invoke-AWSLogout](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogout.html) is the equivalent cmdlet to ``aws logout``."
+            }
+            default {
+                "No supported CLI commands.  "
+                "This service may have been deprecated or replaced with a newer version.  "
+            }
+        }
         & {
             "---"
             "title: $ServiceName"
@@ -259,9 +271,7 @@ function Export-PostPageMarkdown {
             "* $cliUrlLink"
             "* $cmdletUrlLink"
             ""
-            "No supported CLI commands.  "
-            "This service may have been deprecated or replaced with a newer version.  "
-            ""
+            $content
         } | Out-String
     } else {
         & {

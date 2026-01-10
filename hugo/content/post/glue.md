@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-01-01
+date: 2026-01-10
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -143,6 +143,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-job-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-job-runs.html)|[Get-GLUEJobRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobRunList.html)|
 |[aws glue get-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-jobs.html)|[Get-GLUEJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobList.html)|
 |[aws glue get-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-mapping.html)|[Get-GLUEMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMapping.html)|
+|[aws glue get-materialized-view-refresh-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-materialized-view-refresh-task-run.html)|[Get-GLUEMaterializedViewRefreshTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMaterializedViewRefreshTaskRun.html)|
 |[aws glue get-ml-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-ml-task-run.html)|[Get-GLUEMLTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTaskRun.html)|
 |[aws glue get-ml-task-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-ml-task-runs.html)|[Get-GLUEMLTaskRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTaskRunList.html)|
 |[aws glue get-ml-transform](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-ml-transform.html)|[Get-GLUEMLTransform](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransform.html)|
@@ -197,6 +198,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue list-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-entities.html)|[Get-GLUEEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEEntityList.html)|
 |[aws glue list-integration-resource-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-integration-resource-properties.html)|[Get-GLUEIntegrationResourcePropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIntegrationResourcePropertyList.html)|
 |[aws glue list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
+|[aws glue list-materialized-view-refresh-task-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-materialized-view-refresh-task-runs.html)|[Get-GLUEMaterializedViewRefreshTaskRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMaterializedViewRefreshTaskRunList.html)|
 |[aws glue list-ml-transforms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-ml-transforms.html)|[Get-GLUEMLTransformIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMLTransformIdentifier.html)|
 |[aws glue list-registries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-registries.html)|[Get-GLUERegistryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUERegistryList.html)|
 |[aws glue list-schema-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-schema-versions.html)|[Get-GLUESchemaVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESchemaVersionList.html)|
@@ -230,6 +232,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue start-export-labels-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-export-labels-task-run.html)|[Start-GLUEExportLabelsTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEExportLabelsTaskRun.html)|
 |[aws glue start-import-labels-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-import-labels-task-run.html)|[Start-GLUEImportLabelsTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEImportLabelsTaskRun.html)|
 |[aws glue start-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-job-run.html)|[Start-GLUEJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEJobRun.html)|
+|[aws glue start-materialized-view-refresh-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-materialized-view-refresh-task-run.html)|[Start-GLUEMaterializedViewRefreshTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEMaterializedViewRefreshTaskRun.html)|
 |[aws glue start-ml-evaluation-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-ml-evaluation-task-run.html)|[Start-GLUEMLEvaluationTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEMLEvaluationTaskRun.html)|
 |[aws glue start-ml-labeling-set-generation-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-ml-labeling-set-generation-task-run.html)|[Start-GLUEMLLabelingSetGenerationTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUEMLLabelingSetGenerationTaskRun.html)|
 |[aws glue start-trigger](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/start-trigger.html)|[Start-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-GLUETrigger.html)|
@@ -238,6 +241,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue stop-column-statistics-task-run-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-column-statistics-task-run-schedule.html)|[Stop-GLUEColumnStatisticsTaskRunSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEColumnStatisticsTaskRunSchedule.html)|
 |[aws glue stop-crawler](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-crawler.html)|[Stop-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawler.html)|
 |[aws glue stop-crawler-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-crawler-schedule.html)|[Stop-GLUECrawlerSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUECrawlerSchedule.html)|
+|[aws glue stop-materialized-view-refresh-task-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-materialized-view-refresh-task-run.html)|[Stop-GLUEMaterializedViewRefreshTaskRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEMaterializedViewRefreshTaskRun.html)|
 |[aws glue stop-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-session.html)|[Stop-GLUESession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUESession.html)|
 |[aws glue stop-trigger](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-trigger.html)|[Stop-GLUETrigger](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUETrigger.html)|
 |[aws glue stop-workflow-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/stop-workflow-run.html)|[Stop-GLUEWorkflowRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-GLUEWorkflowRun.html)|

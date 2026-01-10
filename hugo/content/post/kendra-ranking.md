@@ -1,6 +1,6 @@
 ---
 title: kendra-ranking
-date: 2026-01-01
+date: 2026-01-10
 description: aws kendra-ranking (Amazon Kendra Intelligent Ranking) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: ssm-sap
-date: 2026-01-01
+date: 2026-01-10
 description: aws ssm-sap (AWS Systems Manager for SAP) command/cmdlet list.
 ---
 

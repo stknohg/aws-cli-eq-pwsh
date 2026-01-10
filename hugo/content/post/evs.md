@@ -1,6 +1,6 @@
 ---
 title: evs
-date: 2026-01-01
+date: 2026-01-10
 description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 ---
 

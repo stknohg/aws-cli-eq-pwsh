@@ -1,6 +1,6 @@
 ---
 title: bedrock-data-automation
-date: 2026-01-01
+date: 2026-01-10
 description: aws bedrock-data-automation (Amazon Bedrock Data Automation) command/cmdlet list.
 ---
 

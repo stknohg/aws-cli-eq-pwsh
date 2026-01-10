@@ -1,6 +1,6 @@
 ---
 title: partnercentral-account
-date: 2026-01-01
+date: 2026-01-10
 description: aws partnercentral-account (AWS Partner Central Account Service) command/cmdlet list.
 ---
 

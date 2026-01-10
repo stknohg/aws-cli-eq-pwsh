@@ -1,6 +1,6 @@
 ---
 title: kinesis-video-webrtc-storage
-date: 2026-01-01
+date: 2026-01-10
 description: aws kinesis-video-webrtc-storage (Amazon Kinesis Video WebRTC Storage) command/cmdlet list.
 ---
 

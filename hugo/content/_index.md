@@ -1,10 +1,10 @@
 ---
 title: AWS CLI -eq PowerShell
 date: 2026-01-10
-description: This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
+description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
-This is the lists of AWS PowerShell Cmdlets equivalent with AWS CLI commands.
+This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 

@@ -16,6 +16,6 @@ description: aws sso (AWS Single Sign-On) command/cmdlet list.
 |[aws sso get-role-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/get-role-credentials.html)|[Get-SSORoleCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSORoleCredential.html)|
 |[aws sso list-account-roles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/list-account-roles.html)|[Get-SSOAccountRoleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSOAccountRoleList.html)|
 |[aws sso list-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/list-accounts.html)|[Get-SSOAccountList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSOAccountList.html)|
-|[aws sso login](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/login.html)||
-|[aws sso logout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/logout.html)|[Close-SSOSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Close-SSOSession.html)|
+|[aws sso login](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/login.html)|[Invoke-AWSSSOLogin](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSSSOLogin.html)|
+|[aws sso logout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sso/logout.html)|[Invoke-AWSSSOLogout](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSSSOLogout.html)|
 

@@ -14,4 +14,3 @@ description: aws finspace-data (Amazon FinSpace) command/cmdlet list.
 No supported CLI commands.  
 This service may have been deprecated or replaced with a newer version.  
 
-

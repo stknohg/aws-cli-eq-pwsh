@@ -11,7 +11,5 @@ description: aws login (-) command/cmdlet list.
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/login/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogin.html)
 
-No supported CLI commands.  
-This service may have been deprecated or replaced with a newer version.  
-
+[Invoke-AWSLogin](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogin.html) is the equivalent cmdlet to `aws login`.
 

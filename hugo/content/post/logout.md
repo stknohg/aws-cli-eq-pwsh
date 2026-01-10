@@ -11,7 +11,5 @@ description: aws logout (-) command/cmdlet list.
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logout/index.html)
 * [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogout.html)
 
-No supported CLI commands.  
-This service may have been deprecated or replaced with a newer version.  
-
+[Invoke-AWSLogout](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogout.html) is the equivalent cmdlet to `aws logout`.
 

@@ -14,4 +14,3 @@ description: aws iotthingsgraph (AWS IoT Things Graph) command/cmdlet list.
 No supported CLI commands.  
 This service may have been deprecated or replaced with a newer version.  
 
-

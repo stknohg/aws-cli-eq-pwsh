@@ -5,9 +5,13 @@ param ([string]$CliServiceName = '')
 Import-Module AWSPowerShell.NetCore
 
 # get the version of AWS Tools for PowerShell
-$cmdletVersion = Get-Module AWSPowerShell.NetCore | ForEach-Object { $_.Version.ToString() }
+$g_CmdletVersion = Get-Module AWSPowerShell.NetCore | ForEach-Object { $_.Version.ToString() }
 
 # import service metadata
+$g_AWSServices = Get-Content -LiteralPath "./aws-services.json" -Raw | ConvertFrom-Json -AsHashtable
+$g_CmdletReferenceLinks = Get-Content -LiteralPath "./aws-reference-links.json" -Raw | ConvertFrom-Json -AsHashtable
+
+# service name mappings for Get-AWSCmdletName
 $g_SubCommandAlias = @{
     'amp'                          = 'prom';
     'apigateway'                   = 'ag'; # API Gateway v1
@@ -78,8 +82,6 @@ $g_SubCommandAlias = @{
     'servicecatalog'               = 'sc';
     'sesv2'                        = 'ses2';
 }
-$g_AWSServices = Get-Content -LiteralPath "./aws-services.json" -Raw | ConvertFrom-Json -AsHashtable
-$g_CmdletReferenceLinks = Get-Content -LiteralPath "./aws-reference-links.json" -Raw | ConvertFrom-Json -AsHashtable
 
 # Special operation mapping for S3API
 $g_S3APIOperationsMapping = @{
@@ -105,14 +107,6 @@ $g_S3APIOperationsMapping = @{
     'uploadpartcopy'                     = 'UploadPart'              # "UploadPartCopy" is correct.
     'headbucket'                         = 'GetObjectMetadata'       # "HeadBucket" is correct.
     'headobject'                         = 'GetObjectMetadata'       # "HeadObject" is correct.
-}
-
-# clear markdown directory
-if ('' -eq $CliServiceName) {
-    Write-Host 'Remove ./markdown/*.md...'
-    Remove-Item -Path "./markdown/*.md" -Force
-    Write-Host 'Remove ./markdown/post/*.md...'
-    Remove-Item -Path "./markdown/post/*.md" -Force
 }
 
 # functions
@@ -197,7 +191,7 @@ function Export-TopPageMarkdown {
         "### Version"
         ""
         "* [AWS CLI](https://aws.amazon.com/cli/): {0} ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))" -f (Get-Content -LiteralPath $CLIVersionMetadataPath -Encoding ascii)
-        "* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): {0} ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))" -f $cmdletVersion
+        "* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): {0} ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))" -f $g_CmdletVersion
         ""
         "### Contents"
         ""
@@ -373,13 +367,21 @@ function Get-CLISubCommands {
     return $commands
 }
 
+# clear markdown directory
+if ([string]::IsNullOrEmpty($CliServiceName)) {
+    Write-Host 'Remove ./markdown/*.md...'
+    Remove-Item -Path "./markdown/*.md" -Force
+    Write-Host 'Remove ./markdown/post/*.md...'
+    Remove-Item -Path "./markdown/post/*.md" -Force
+}
+
 # export top page
 'Exporting top page...' | Write-HostInfo
 Export-TopPageMarkdown -CLIVersionMetadataPath './temp/_cli.version.cfg' -CLIMetadataPath './temp/_cli.metadata.cfg' | Out-File -FilePath "./markdown/_index.md"
 
 # export each subcommands pages
 $query = '*.txt'
-if ($CliServiceName -ne '') {
+if (-not [string]::IsNullOrEmpty($CliServiceName)) {
     $query = "${CliServiceName}.txt"
 }
 Get-ChildItem "./temp/$query" | ForEach-Object {

@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-01-10
+date: 2026-01-21
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-default-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-default-vocabulary.html)|[Add-CONNDefaultVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNDefaultVocabulary.html)|
 |[aws connect associate-email-address-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-email-address-alias.html)|[Add-CONNEmailAddressAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNEmailAddressAlias.html)|
 |[aws connect associate-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-flow.html)|[Add-CONNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNFlow.html)|
+|[aws connect associate-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-hours-of-operations.html)|[Add-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNHoursOfOperation.html)|
 |[aws connect associate-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-instance-storage-config.html)|[Add-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNInstanceStorageConfig.html)|
 |[aws connect associate-lambda-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-lambda-function.html)|[Add-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLambdaFunction.html)|
 |[aws connect associate-lex-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-lex-bot.html)|[Add-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLexBot.html)|
@@ -149,6 +150,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect disassociate-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-bot.html)|[Remove-CONNBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNBot.html)|
 |[aws connect disassociate-email-address-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-email-address-alias.html)|[Remove-CONNEmailAddressAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNEmailAddressAlias.html)|
 |[aws connect disassociate-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-flow.html)|[Remove-CONNFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNFlow.html)|
+|[aws connect disassociate-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-hours-of-operations.html)|[Unregister-CONNHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-CONNHoursOfOperation.html)|
 |[aws connect disassociate-instance-storage-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-instance-storage-config.html)|[Remove-CONNInstanceStorageConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNInstanceStorageConfig.html)|
 |[aws connect disassociate-lambda-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-lambda-function.html)|[Remove-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLambdaFunction.html)|
 |[aws connect disassociate-lex-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-lex-bot.html)|[Remove-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLexBot.html)|
@@ -184,6 +186,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-associated-contacts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-associated-contacts.html)|[Get-CONNAssociatedContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAssociatedContactList.html)|
 |[aws connect list-authentication-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-authentication-profiles.html)|[Get-CONNAuthenticationProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAuthenticationProfileList.html)|
 |[aws connect list-bots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
+|[aws connect list-child-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-child-hours-of-operations.html)|[Get-CONNChildHoursOfOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNChildHoursOfOperationList.html)|
 |[aws connect list-contact-evaluations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-evaluations.html)|[Get-CONNContactEvaluationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactEvaluationList.html)|
 |[aws connect list-contact-flow-module-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-flow-module-aliases.html)|[Get-CONNContactFlowModuleAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowModuleAliasList.html)|
 |[aws connect list-contact-flow-module-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-contact-flow-module-versions.html)|[Get-CONNContactFlowModuleVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactFlowModuleVersionList.html)|

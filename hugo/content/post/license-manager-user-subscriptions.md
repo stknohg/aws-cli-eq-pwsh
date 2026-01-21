@@ -1,6 +1,6 @@
 ---
 title: license-manager-user-subscriptions
-date: 2026-01-10
+date: 2026-01-21
 description: aws license-manager-user-subscriptions (AWS License Manager) command/cmdlet list.
 ---
 

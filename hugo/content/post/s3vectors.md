@@ -1,6 +1,6 @@
 ---
 title: s3vectors
-date: 2026-01-10
+date: 2026-01-21
 description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 ---
 

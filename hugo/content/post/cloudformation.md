@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2026-01-10
+date: 2026-01-21
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 

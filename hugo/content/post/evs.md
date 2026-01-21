@@ -1,6 +1,6 @@
 ---
 title: evs
-date: 2026-01-10
+date: 2026-01-21
 description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 |[aws evs delete-environment-host](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/delete-environment-host.html)|[Remove-EVSEnvironmentHost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVSEnvironmentHost.html)|
 |[aws evs disassociate-eip-from-vlan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/disassociate-eip-from-vlan.html)|[Unregister-EVSEipFromVlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EVSEipFromVlan.html)|
 |[aws evs get-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-environment.html)|[Get-EVSEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironment.html)|
+|[aws evs get-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-versions.html)|[Get-EVSVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSVersion.html)|
 |[aws evs list-environment-hosts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-environment-hosts.html)|[Get-EVSEnvironmentHostList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironmentHostList.html)|
 |[aws evs list-environment-vlans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-environment-vlans.html)|[Get-EVSEnvironmentVlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironmentVlanList.html)|
 |[aws evs list-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-environments.html)|[Get-EVSEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironmentList.html)|

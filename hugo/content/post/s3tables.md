@@ -1,6 +1,6 @@
 ---
 title: s3tables
-date: 2026-01-10
+date: 2026-01-21
 description: aws s3tables (Amazon S3 Tables) command/cmdlet list.
 ---
 

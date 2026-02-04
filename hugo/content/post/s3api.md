@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2026-01-21
+date: 2026-02-04
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -116,6 +116,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api select-object-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/select-object-content.html)|[Select-S3ObjectContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Select-S3ObjectContent.html)|
 |[aws s3api update-bucket-metadata-inventory-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-bucket-metadata-inventory-table-configuration.html)|[Update-S3BucketMetadataInventoryTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3BucketMetadataInventoryTableConfiguration.html)|
 |[aws s3api update-bucket-metadata-journal-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-bucket-metadata-journal-table-configuration.html)|[Update-S3BucketMetadataJournalTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3BucketMetadataJournalTableConfiguration.html)|
+|[aws s3api update-object-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-object-encryption.html)|[Update-S3ObjectEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3ObjectEncryption.html)|
 |[aws s3api upload-part](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/upload-part.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|
 |[aws s3api upload-part-copy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/upload-part-copy.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|
 |[aws s3api write-get-object-response](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/write-get-object-response.html)|[Write-S3GetObjectResponse](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3GetObjectResponse.html)|

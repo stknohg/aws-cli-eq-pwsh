@@ -1,6 +1,6 @@
 ---
 title: braket
-date: 2026-01-21
+date: 2026-02-04
 description: aws braket (Amazon Braket) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: cloudfront-keyvaluestore
-date: 2026-01-21
+date: 2026-02-04
 description: aws cloudfront-keyvaluestore (Amazon CloudFront) command/cmdlet list.
 ---
 

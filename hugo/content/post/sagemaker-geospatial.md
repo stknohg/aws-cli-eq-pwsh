@@ -1,6 +1,6 @@
 ---
 title: sagemaker-geospatial
-date: 2026-01-21
+date: 2026-02-04
 description: aws sagemaker-geospatial (Geospatial ML with Amazon SageMaker) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2026-01-21
+date: 2026-02-04
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -56,6 +56,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset-filter.html)|[Remove-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAssetFilter.html)|
 |[aws datazone delete-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-asset-type.html)|[Remove-DZAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZAssetType.html)|
 |[aws datazone delete-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-connection.html)|[Remove-DZConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZConnection.html)|
+|[aws datazone delete-data-export-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-data-export-configuration.html)|[Remove-DZDataExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDataExportConfiguration.html)|
 |[aws datazone delete-data-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-data-product.html)|[Remove-DZDataProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDataProduct.html)|
 |[aws datazone delete-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-data-source.html)|[Remove-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDataSource.html)|
 |[aws datazone delete-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-domain.html)|[Remove-DZDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZDomain.html)|

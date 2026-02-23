@@ -365,6 +365,7 @@
   "ses": "https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmail_cmdlets.html",
   "sesv2": "https://docs.aws.amazon.com/powershell/latest/reference/items/SimpleEmailV2_cmdlets.html",
   "signer": "",
+  "signer-data": "https://docs.aws.amazon.com/powershell/latest/reference/items/SignerData_cmdlets.html",
   "signin": "https://docs.aws.amazon.com/powershell/latest/reference/items/Signin_cmdlets.html",
   "simspaceweaver": "https://docs.aws.amazon.com/powershell/latest/reference/items/SimSpaceWeaver_cmdlets.html",
   "snow-device-management": "https://docs.aws.amazon.com/powershell/latest/reference/items/SnowDeviceManagement_cmdlets.html",

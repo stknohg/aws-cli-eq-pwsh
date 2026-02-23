@@ -2207,6 +2207,12 @@
     "Url": "https://docs.aws.amazon.com/signer/latest/api/Welcome.html",
     "Note": ""
   },
+  "signer-data": {
+    "Prefix": "SGND",
+    "Name": "AWS Signer Data Plane",
+    "Url": "https://docs.aws.amazon.com/signer/latest/api/Welcome.html",
+    "Note": ""
+  },
   "signin": {
     "Prefix": "AMSP",
     "Name": "AWS Sign-In",

@@ -1,6 +1,6 @@
 ---
 title: ram
-date: 2026-02-04
+date: 2026-02-23
 description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 ---
 
@@ -39,6 +39,7 @@ description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 |[aws ram list-resource-share-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/list-resource-share-permissions.html)|[Get-RAMResourceSharePermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceSharePermissionList.html)|
 |[aws ram list-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/list-resource-types.html)|[Get-RAMResourceTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceTypeList.html)|
 |[aws ram list-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/list-resources.html)|[Get-RAMResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMResourceList.html)|
+|[aws ram list-source-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/list-source-associations.html)|[Get-RAMSourceAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RAMSourceAssociationList.html)|
 |[aws ram promote-permission-created-from-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/promote-permission-created-from-policy.html)|[Convert-RAMPermissionCreatedFromPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RAMPermissionCreatedFromPolicy.html)|
 |[aws ram promote-resource-share-created-from-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/promote-resource-share-created-from-policy.html)|[Convert-RAMPolicyBasedResourceShareToPromoted](https://docs.aws.amazon.com/powershell/latest/reference/items/Convert-RAMPolicyBasedResourceShareToPromoted.html)|
 |[aws ram reject-resource-share-invitation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/reject-resource-share-invitation.html)|[Deny-RAMResourceShareInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-RAMResourceShareInvitation.html)|

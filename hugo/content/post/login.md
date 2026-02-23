@@ -1,6 +1,6 @@
 ---
 title: login
-date: 2026-02-04
+date: 2026-02-23
 description: aws login (-) command/cmdlet list.
 ---
 

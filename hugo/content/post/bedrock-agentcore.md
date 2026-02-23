@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore
-date: 2026-02-04
+date: 2026-02-23
 description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet lis
 |[aws bedrock-agentcore list-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/list-memory-records.html)|[Get-BACMemoryRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACMemoryRecordList.html)|
 |[aws bedrock-agentcore list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/list-sessions.html)|[Get-BACSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACSessionList.html)|
 |[aws bedrock-agentcore retrieve-memory-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/retrieve-memory-records.html)|[Invoke-BACMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BACMemoryRecord.html)|
+|[aws bedrock-agentcore save-browser-session-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/save-browser-session-profile.html)|[Save-BACBrowserSessionProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Save-BACBrowserSessionProfile.html)|
 |[aws bedrock-agentcore start-browser-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/start-browser-session.html)|[Start-BACBrowserSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BACBrowserSession.html)|
 |[aws bedrock-agentcore start-code-interpreter-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/start-code-interpreter-session.html)|[Start-BACCodeInterpreterSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BACCodeInterpreterSession.html)|
 |[aws bedrock-agentcore start-memory-extraction-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/start-memory-extraction-job.html)|[Start-BACMemoryExtractionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BACMemoryExtractionJob.html)|

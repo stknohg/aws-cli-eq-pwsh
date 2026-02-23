@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-02-04
+date: 2026-02-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.33.14 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.147 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.33.27 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.160 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -170,7 +170,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/)|[entityresolution]({{%relref "post/entityresolution.md" %}})|ERES||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
-|[Amazon CloudWatch Evidently](https://aws.amazon.com/cloudwatch/)|[evidently]({{%relref "post/evidently.md" %}})|CWEVD||
 |[Amazon Elastic VMware Service](https://aws.amazon.com/evs/)|[evs]({{%relref "post/evs.md" %}})|EVS||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
@@ -211,7 +210,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT-Data](https://aws.amazon.com/iot/)|[iot-data]({{%relref "post/iot-data.md" %}})|||
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
 |[Managed integrations for AWS IoT Device Management](https://aws.amazon.com/iot-device-management/)|[iot-managed-integrations]({{%relref "post/iot-managed-integrations.md" %}})|IOTMI||
-|[AWS IoT Analytics](https://aws.amazon.com/iot/)|[iotanalytics]({{%relref "post/iotanalytics.md" %}})|||
 |[AWS IoT Core Device Advisor](https://aws.amazon.com/iot/)|[iotdeviceadvisor]({{%relref "post/iotdeviceadvisor.md" %}})|IOTDA||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
 |[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
@@ -389,6 +387,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Simple Email Service V2](https://aws.amazon.com/ses/)|[sesv2]({{%relref "post/sesv2.md" %}})|SES2||
 |[AWS Shield](https://aws.amazon.com/shield/)|[shield]({{%relref "post/shield.md" %}})|SHLD||
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
+|[AWS Signer Data Plane](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer-data]({{%relref "post/signer-data.md" %}})|SGND||
 |[AWS Sign-In](https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html)|[signin]({{%relref "post/signin.md" %}})|AMSP||
 |[AWS SimSpace Weaver](https://aws.amazon.com/simspaceweaver/)|[simspaceweaver]({{%relref "post/simspaceweaver.md" %}})|SSW||
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||

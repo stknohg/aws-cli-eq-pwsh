@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-02-04
+date: 2026-02-23
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -135,6 +135,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-route-server-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-route-server-endpoint.html)|[New-EC2RouteServerEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2RouteServerEndpoint.html)|
 |[aws ec2 create-route-server-peer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-route-server-peer.html)|[New-EC2RouteServerPeer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2RouteServerPeer.html)|
 |[aws ec2 create-route-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-route-table.html)|[New-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2RouteTable.html)|
+|[aws ec2 create-secondary-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-secondary-network.html)|[New-EC2SecondaryNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SecondaryNetwork.html)|
+|[aws ec2 create-secondary-subnet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-secondary-subnet.html)|[New-EC2SecondarySubnet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SecondarySubnet.html)|
 |[aws ec2 create-security-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-security-group.html)|[New-EC2SecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SecurityGroup.html)|
 |[aws ec2 create-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-snapshot.html)|[New-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2Snapshot.html)|
 |[aws ec2 create-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-snapshots.html)|[New-EC2SnapshotBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2SnapshotBatch.html)|
@@ -227,6 +229,8 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 delete-route-server-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-route-server-endpoint.html)|[Remove-EC2RouteServerEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2RouteServerEndpoint.html)|
 |[aws ec2 delete-route-server-peer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-route-server-peer.html)|[Remove-EC2RouteServerPeer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2RouteServerPeer.html)|
 |[aws ec2 delete-route-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-route-table.html)|[Remove-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2RouteTable.html)|
+|[aws ec2 delete-secondary-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-secondary-network.html)|[Remove-EC2SecondaryNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2SecondaryNetwork.html)|
+|[aws ec2 delete-secondary-subnet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-secondary-subnet.html)|[Remove-EC2SecondarySubnet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2SecondarySubnet.html)|
 |[aws ec2 delete-security-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-security-group.html)|[Remove-EC2SecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2SecurityGroup.html)|
 |[aws ec2 delete-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-snapshot.html)|[Remove-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2Snapshot.html)|
 |[aws ec2 delete-spot-datafeed-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/delete-spot-datafeed-subscription.html)|[Remove-EC2SpotDatafeedSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2SpotDatafeedSubscription.html)|
@@ -395,6 +399,9 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-route-tables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-route-tables.html)|[Get-EC2RouteTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2RouteTable.html)|
 |[aws ec2 describe-scheduled-instance-availability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-scheduled-instance-availability.html)|[Get-EC2ScheduledInstanceAvailability](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ScheduledInstanceAvailability.html)|
 |[aws ec2 describe-scheduled-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-scheduled-instances.html)|[Get-EC2ScheduledInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ScheduledInstance.html)|
+|[aws ec2 describe-secondary-interfaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-secondary-interfaces.html)|[Get-EC2SecondaryInterfaceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecondaryInterfaceDetail.html)|
+|[aws ec2 describe-secondary-networks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-secondary-networks.html)|[Get-EC2SecondaryNetworkDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecondaryNetworkDetail.html)|
+|[aws ec2 describe-secondary-subnets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-secondary-subnets.html)|[Get-EC2SecondarySubnetDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecondarySubnetDetail.html)|
 |[aws ec2 describe-security-group-references](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-group-references.html)|[Get-EC2SecurityGroupReference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupReference.html)|
 |[aws ec2 describe-security-group-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-group-rules.html)|[Get-EC2SecurityGroupRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupRule.html)|
 |[aws ec2 describe-security-group-vpc-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-security-group-vpc-associations.html)|[Get-EC2SecurityGroupVpcAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2SecurityGroupVpcAssociation.html)|

@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-02-04
+date: 2026-02-23
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -72,6 +72,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue delete-column-statistics-for-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-column-statistics-for-table.html)|[Remove-GLUEColumnStatisticsForTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsForTable.html)|
 |[aws glue delete-column-statistics-task-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-column-statistics-task-settings.html)|[Remove-GLUEColumnStatisticsTaskSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEColumnStatisticsTaskSetting.html)|
 |[aws glue delete-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-connection.html)|[Remove-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEConnection.html)|
+|[aws glue delete-connection-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-connection-type.html)|[Remove-GLUEConnectionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEConnectionType.html)|
 |[aws glue delete-crawler](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-crawler.html)|[Remove-GLUECrawler](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUECrawler.html)|
 |[aws glue delete-custom-entity-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-custom-entity-type.html)|[Remove-GLUECustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUECustomEntityType.html)|
 |[aws glue delete-data-quality-ruleset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/delete-data-quality-ruleset.html)|[Remove-GLUEDataQualityRuleset](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEDataQualityRuleset.html)|
@@ -216,6 +217,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue put-schema-version-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-schema-version-metadata.html)|[Write-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUESchemaVersionMetadata.html)|
 |[aws glue put-workflow-run-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-workflow-run-properties.html)|[Write-GLUEWorkflowRunProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEWorkflowRunProperty.html)|
 |[aws glue query-schema-version-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/query-schema-version-metadata.html)|[Find-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-GLUESchemaVersionMetadata.html)|
+|[aws glue register-connection-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/register-connection-type.html)|[Register-GLUEConnectionType](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-GLUEConnectionType.html)|
 |[aws glue register-schema-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/register-schema-version.html)|[Register-GLUESchemaVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-GLUESchemaVersion.html)|
 |[aws glue remove-schema-version-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/remove-schema-version-metadata.html)|[Remove-GLUESchemaVersionMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUESchemaVersionMetadata.html)|
 |[aws glue reset-job-bookmark](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/reset-job-bookmark.html)|[Reset-GLUEJobBookmark](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-GLUEJobBookmark.html)|

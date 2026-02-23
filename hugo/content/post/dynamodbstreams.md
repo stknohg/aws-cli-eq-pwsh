@@ -1,6 +1,6 @@
 ---
 title: dynamodbstreams
-date: 2026-02-04
+date: 2026-02-23
 description: aws dynamodbstreams (Amazon DynamoDB Streams) command/cmdlet list.
 ---
 

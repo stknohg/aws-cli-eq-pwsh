@@ -1,6 +1,6 @@
 ---
 title: signer
-date: 2026-02-04
+date: 2026-02-23
 description: aws signer (AWS Signer) command/cmdlet list.
 ---
 
@@ -16,7 +16,7 @@ description: aws signer (AWS Signer) command/cmdlet list.
 |[aws signer add-profile-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/add-profile-permission.html)||
 |[aws signer cancel-signing-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/cancel-signing-profile.html)||
 |[aws signer describe-signing-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/describe-signing-job.html)||
-|[aws signer get-revocation-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/get-revocation-status.html)||
+|[aws signer get-revocation-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/get-revocation-status.html)|[Get-SGNDRevocationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SGNDRevocationStatus.html)|
 |[aws signer get-signing-platform](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/get-signing-platform.html)||
 |[aws signer get-signing-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/get-signing-profile.html)||
 |[aws signer list-profile-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signer/list-profile-permissions.html)||

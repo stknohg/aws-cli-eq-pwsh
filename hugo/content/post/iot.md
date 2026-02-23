@@ -1,6 +1,6 @@
 ---
 title: iot
-date: 2026-02-04
+date: 2026-02-23
 description: aws iot (AWS IoT) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: clouddirectory
-date: 2026-02-04
+date: 2026-02-23
 description: aws clouddirectory (Amazon Cloud Directory) command/cmdlet list.
 ---
 

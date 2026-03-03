@@ -863,6 +863,12 @@
     "Url": "https://aws.amazon.com/elasticloadbalancing/",
     "Note": ""
   },
+  "elementalinference": {
+    "Prefix": "EMI",
+    "Name": "AWS Elemental Inference",
+    "Url": "https://aws.amazon.com/elemental-inference/",
+    "Note": ""
+  },
   "emr": {
     "Prefix": "EMR",
     "Name": "Amazon EMR",

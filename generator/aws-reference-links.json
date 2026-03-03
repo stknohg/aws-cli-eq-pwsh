@@ -141,6 +141,7 @@
   "elasticbeanstalk": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Elastic_Beanstalk_cmdlets.html",
   "elb": "https://docs.aws.amazon.com/powershell/latest/reference/items/Elastic_Load_Balancing_cmdlets.html",
   "elbv2": "https://docs.aws.amazon.com/powershell/latest/reference/items/Elastic_Load_Balancing_V2_cmdlets.html",
+  "elementalinference": "https://docs.aws.amazon.com/powershell/latest/reference/items/ElementalInference_cmdlets.html",
   "emr": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Elastic_MapReduce_cmdlets.html",
   "emr-containers": "https://docs.aws.amazon.com/powershell/latest/reference/items/EMRContainers_cmdlets.html",
   "emr-serverless": "https://docs.aws.amazon.com/powershell/latest/reference/items/EMRServerless_cmdlets.html",

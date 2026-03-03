@@ -1,6 +1,6 @@
 ---
 title: sqs
-date: 2026-02-23
+date: 2026-03-03
 description: aws sqs (Amazon Simple Queue Service) command/cmdlet list.
 ---
 

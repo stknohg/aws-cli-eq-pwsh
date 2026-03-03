@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-02-23
+date: 2026-03-03
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.33.27 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.160 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.34.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.165 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -164,6 +164,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)|[elasticbeanstalk]({{%relref "post/elasticbeanstalk.md" %}})|EB||
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elb]({{%relref "post/elb.md" %}})|ELB||
 |[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)|[elbv2]({{%relref "post/elbv2.md" %}})|ELB2||
+|[AWS Elemental Inference](https://aws.amazon.com/elemental-inference/)|[elementalinference]({{%relref "post/elementalinference.md" %}})|EMI||
 |[Amazon EMR](https://aws.amazon.com/emr/)|[emr]({{%relref "post/emr.md" %}})|EMR||
 |[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
 |[Amazon EMR Serverless](https://aws.amazon.com/emr/serverless/)|[emr-serverless]({{%relref "post/emr-serverless.md" %}})|EMRServerless||

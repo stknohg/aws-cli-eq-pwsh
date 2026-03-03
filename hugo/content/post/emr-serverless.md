@@ -1,6 +1,6 @@
 ---
 title: emr-serverless
-date: 2026-02-23
+date: 2026-03-03
 description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 ---
 

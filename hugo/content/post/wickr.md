@@ -1,6 +1,6 @@
 ---
 title: wickr
-date: 2026-02-23
+date: 2026-03-03
 description: aws wickr (AWS Wickr) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws wickr (AWS Wickr) command/cmdlet list.
 |[aws wickr get-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-network.html)|[Get-WICNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICNetwork.html)|
 |[aws wickr get-network-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-network-settings.html)|[Get-WICNetworkSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICNetworkSetting.html)|
 |[aws wickr get-oidc-info](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-oidc-info.html)|[Get-WICOidcInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICOidcInfo.html)|
+|[aws wickr get-opentdf-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-opentdf-config.html)|[Get-WICOpentdfConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICOpentdfConfig.html)|
 |[aws wickr get-security-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-security-group.html)|[Get-WICSecurityGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICSecurityGroup.html)|
 |[aws wickr get-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-user.html)|[Get-WICUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICUser.html)|
 |[aws wickr get-users-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/get-users-count.html)|[Get-WICUsersCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICUsersCount.html)|
@@ -48,6 +49,7 @@ description: aws wickr (AWS Wickr) command/cmdlet list.
 |[aws wickr list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/list-users.html)|[Get-WICUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WICUserList.html)|
 |[aws wickr register-oidc-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/register-oidc-config.html)|[Register-WICOidcConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WICOidcConfig.html)|
 |[aws wickr register-oidc-config-test](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/register-oidc-config-test.html)|[Register-WICOidcConfigTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WICOidcConfigTest.html)|
+|[aws wickr register-opentdf-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/register-opentdf-config.html)|[Register-WICOpentdfConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-WICOpentdfConfig.html)|
 |[aws wickr update-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/update-bot.html)|[Update-WICBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WICBot.html)|
 |[aws wickr update-data-retention](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/update-data-retention.html)|[Update-WICDataRetention](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WICDataRetention.html)|
 |[aws wickr update-guest-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wickr/update-guest-user.html)|[Update-WICGuestUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-WICGuestUser.html)|

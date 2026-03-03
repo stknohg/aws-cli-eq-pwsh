@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2026-02-23
+date: 2026-03-03
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 
@@ -43,6 +43,7 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 get-regex-pattern-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-regex-pattern-set.html)|[Get-WAF2RegexPatternSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RegexPatternSet.html)|
 |[aws wafv2 get-rule-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-rule-group.html)|[Get-WAF2RuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RuleGroup.html)|
 |[aws wafv2 get-sampled-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-sampled-requests.html)|[Get-WAF2SampledRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2SampledRequest.html)|
+|[aws wafv2 get-top-path-statistics-by-traffic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-top-path-statistics-by-traffic.html)|[Get-WAF2TopPathStatisticsByTraffic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2TopPathStatisticsByTraffic.html)|
 |[aws wafv2 get-web-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-web-acl.html)|[Get-WAF2WebACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2WebACL.html)|
 |[aws wafv2 get-web-acl-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-web-acl-for-resource.html)|[Get-WAF2WebACLForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2WebACLForResource.html)|
 |[aws wafv2 list-api-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-api-keys.html)|[Get-WAF2APIKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2APIKeyList.html)|

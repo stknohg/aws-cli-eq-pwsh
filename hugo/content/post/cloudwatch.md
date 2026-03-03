@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2026-02-23
+date: 2026-03-03
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws cloudwatch delete-alarm-mute-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-alarm-mute-rule.html)|[Remove-CWAlarmMuteRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAlarmMuteRule.html)|
 |[aws cloudwatch delete-alarms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-alarms.html)|[Remove-CWAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAlarm.html)|
 |[aws cloudwatch delete-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-anomaly-detector.html)|[Remove-CWAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAnomalyDetector.html)|
 |[aws cloudwatch delete-dashboards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-dashboards.html)|[Remove-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWDashboard.html)|
@@ -28,17 +29,20 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch disable-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/disable-insight-rules.html)|[Disable-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CWInsightRule.html)|
 |[aws cloudwatch enable-alarm-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/enable-alarm-actions.html)|[Enable-CWAlarmAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CWAlarmAction.html)|
 |[aws cloudwatch enable-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/enable-insight-rules.html)|[Enable-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CWInsightRule.html)|
+|[aws cloudwatch get-alarm-mute-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-alarm-mute-rule.html)|[Get-CWAlarmMuteRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmMuteRule.html)|
 |[aws cloudwatch get-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-dashboard.html)|[Get-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboard.html)|
 |[aws cloudwatch get-insight-rule-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-insight-rule-report.html)|[Get-CWInsightRuleReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWInsightRuleReport.html)|
 |[aws cloudwatch get-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-data.html)|[Get-CWMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricData.html)|
 |[aws cloudwatch get-metric-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-statistics.html)|[Get-CWMetricStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStatistic.html)|
 |[aws cloudwatch get-metric-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-stream.html)|[Get-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStream.html)|
 |[aws cloudwatch get-metric-widget-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-widget-image.html)|[Get-CWMetricWidgetImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricWidgetImage.html)|
+|[aws cloudwatch list-alarm-mute-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-alarm-mute-rules.html)|[Get-CWAlarmMuteRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmMuteRuleList.html)|
 |[aws cloudwatch list-dashboards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-dashboards.html)|[Get-CWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboardList.html)|
 |[aws cloudwatch list-managed-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-managed-insight-rules.html)|[Get-CWManagedInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWManagedInsightRule.html)|
 |[aws cloudwatch list-metric-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-metric-streams.html)|[Get-CWMetricStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStreamList.html)|
 |[aws cloudwatch list-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-metrics.html)|[Get-CWMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricList.html)|
 |[aws cloudwatch list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-tags-for-resource.html)|[Get-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWResourceTag.html)|
+|[aws cloudwatch put-alarm-mute-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-alarm-mute-rule.html)|[Write-CWAlarmMuteRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWAlarmMuteRule.html)|
 |[aws cloudwatch put-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-anomaly-detector.html)|[Write-CWAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWAnomalyDetector.html)|
 |[aws cloudwatch put-composite-alarm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-composite-alarm.html)|[Write-CWCompositeAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWCompositeAlarm.html)|
 |[aws cloudwatch put-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-dashboard.html)|[Write-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWDashboard.html)|

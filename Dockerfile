@@ -4,10 +4,10 @@
 FROM ubuntu:24.04
 
 # Define args
-ARG PWSH_VERSION=7.5.4
+ARG PWSH_VERSION=7.6.0
 ARG HUGO_VERSION=0.154.3
 # Download packages
-ADD https://mirrors.edge.kernel.org/ubuntu/pool/main/i/icu/libicu74_74.2-1ubuntu3.1_amd64.deb /tmp/libicu74.deb
+ADD https://mirrors.edge.kernel.org/ubuntu/pool/main/i/icu/libicu78_78.2-2ubuntu1_amd64.deb /tmp/libicu78.deb
 ADD https://github.com/PowerShell/PowerShell/releases/download/v${PWSH_VERSION}/powershell_${PWSH_VERSION}-1.deb_amd64.deb /tmp/powershell.deb
 ADD https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip /tmp/awscliv2.zip
 ADD https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-amd64.deb /tmp/hugo_linux.deb
@@ -15,8 +15,8 @@ ADD https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${H
 # Install PowerShell
 RUN apt-get update \
     && apt-get install curl -y \
-    && dpkg -i /tmp/libicu74.deb \
-    && rm /tmp/libicu74.deb \
+    && dpkg -i /tmp/libicu78.deb \
+    && rm /tmp/libicu78.deb \
     && dpkg -i /tmp/powershell.deb \
     && rm /tmp/powershell.deb \
     && apt-get autoclean && apt-get clean

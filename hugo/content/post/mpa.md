@@ -1,6 +1,6 @@
 ---
 title: mpa
-date: 2026-03-03
+date: 2026-03-23
 description: aws mpa (Multi-party approval for AWS Organizations) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws mpa (Multi-party approval for AWS Organizations) command/cmdlet
 |[aws mpa list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/list-sessions.html)|[Get-MPASessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MPASessionList.html)|
 |[aws mpa list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/list-tags-for-resource.html)|[Get-MPAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MPAResourceTag.html)|
 |[aws mpa start-active-approval-team-deletion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/start-active-approval-team-deletion.html)|[Start-MPAActiveApprovalTeamDeletion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MPAActiveApprovalTeamDeletion.html)|
+|[aws mpa start-approval-team-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/start-approval-team-baseline.html)|[Start-MPAApprovalTeamBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MPAApprovalTeamBaseline.html)|
 |[aws mpa tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/tag-resource.html)|[Add-MPAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MPAResourceTag.html)|
 |[aws mpa untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/untag-resource.html)|[Remove-MPAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MPAResourceTag.html)|
 |[aws mpa update-approval-team](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/update-approval-team.html)|[Update-MPAApprovalTeam](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MPAApprovalTeam.html)|

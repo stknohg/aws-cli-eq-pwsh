@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2026-03-03
+date: 2026-03-23
 description: aws gamelift (Amazon GameLift) command/cmdlet list.
 ---
 
@@ -86,6 +86,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift get-game-session-log](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/get-game-session-log.html)||
 |[aws gamelift get-game-session-log-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/get-game-session-log-url.html)|[Get-GMLGameSessionLogUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLGameSessionLogUrl.html)|
 |[aws gamelift get-instance-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/get-instance-access.html)|[Get-GMLInstanceAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLInstanceAccess.html)|
+|[aws gamelift get-player-connection-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/get-player-connection-details.html)|[Get-GMLPlayerConnectionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLPlayerConnectionDetail.html)|
 |[aws gamelift list-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-aliases.html)|[Get-GMLAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLAlias.html)|
 |[aws gamelift list-builds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-builds.html)|[Get-GMLBuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLBuild.html)|
 |[aws gamelift list-compute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/list-compute.html)|[Get-GMLComputeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLComputeList.html)|

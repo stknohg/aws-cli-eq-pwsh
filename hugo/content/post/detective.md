@@ -1,6 +1,6 @@
 ---
 title: detective
-date: 2026-03-03
+date: 2026-03-23
 description: aws detective (Amazon Detective) command/cmdlet list.
 ---
 

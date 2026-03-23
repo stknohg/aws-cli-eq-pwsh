@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-03-03
+date: 2026-03-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.34.0 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.165 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.34.14 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.179 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -121,6 +121,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Connect Outbound Campaigns](https://aws.amazon.com/connect/outbound/)|[connectcampaigns]({{%relref "post/connectcampaigns.md" %}})|CCS||
 |[Amazon Connect Outbound Campaigns V2](https://aws.amazon.com/connect/outbound/)|[connectcampaignsv2]({{%relref "post/connectcampaignsv2.md" %}})|CCS2||
 |[Amazon Connect Cases](https://aws.amazon.com/connect/cases/)|[connectcases]({{%relref "post/connectcases.md" %}})|CCAS||
+|[Amazon Connect Health](https://aws.amazon.com/health/connect-health/)|[connecthealth]({{%relref "post/connecthealth.md" %}})|CNH||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
 |[AWS Control Catalog](https://aws.amazon.com/controltower/)|[controlcatalog]({{%relref "post/controlcatalog.md" %}})|CLCAT||
 |[AWS Control Tower](https://aws.amazon.com/controltower/)|[controltower]({{%relref "post/controltower.md" %}})|ACT||
@@ -390,6 +391,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
 |[AWS Signer Data Plane](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer-data]({{%relref "post/signer-data.md" %}})|SGND||
 |[AWS Sign-In](https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html)|[signin]({{%relref "post/signin.md" %}})|AMSP||
+|[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[simpledbv2]({{%relref "post/simpledbv2.md" %}})|SDBV2|v2|
 |[AWS SimSpace Weaver](https://aws.amazon.com/simspaceweaver/)|[simspaceweaver]({{%relref "post/simspaceweaver.md" %}})|SSW||
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||

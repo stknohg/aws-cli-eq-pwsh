@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2026-03-03
+date: 2026-03-23
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -89,6 +89,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs list-sources-for-s3-table-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-sources-for-s3-table-integration.html)|[Get-CWLSourcesForS3TableIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLSourcesForS3TableIntegrationList.html)|
 |[aws logs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs put-account-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-account-policy.html)|[Write-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLAccountPolicy.html)|
+|[aws logs put-bearer-token-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-bearer-token-authentication.html)|[Write-CWLBearerTokenAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLBearerTokenAuthentication.html)|
 |[aws logs put-data-protection-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-data-protection-policy.html)|[Write-CWLDataProtectionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDataProtectionPolicy.html)|
 |[aws logs put-delivery-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-delivery-destination.html)|[Write-CWLDeliveryDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDeliveryDestination.html)|
 |[aws logs put-delivery-destination-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-delivery-destination-policy.html)|[Write-CWLDeliveryDestinationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLDeliveryDestinationPolicy.html)|

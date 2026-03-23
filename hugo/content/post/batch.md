@@ -1,6 +1,6 @@
 ---
 title: batch
-date: 2026-03-03
+date: 2026-03-23
 description: aws batch (AWS Batch) command/cmdlet list.
 ---
 
@@ -17,11 +17,13 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |[aws batch create-compute-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-compute-environment.html)|[New-BATComputeEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATComputeEnvironment.html)|
 |[aws batch create-consumable-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-consumable-resource.html)|[New-BATConsumableResource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATConsumableResource.html)|
 |[aws batch create-job-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-job-queue.html)|[New-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATJobQueue.html)|
+|[aws batch create-quota-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-quota-share.html)|[New-BATQuotaShare](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATQuotaShare.html)|
 |[aws batch create-scheduling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-scheduling-policy.html)|[New-BATSchedulingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATSchedulingPolicy.html)|
 |[aws batch create-service-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-service-environment.html)|[New-BATServiceEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATServiceEnvironment.html)|
 |[aws batch delete-compute-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/delete-compute-environment.html)|[Remove-BATComputeEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATComputeEnvironment.html)|
 |[aws batch delete-consumable-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/delete-consumable-resource.html)|[Remove-BATConsumableResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATConsumableResource.html)|
 |[aws batch delete-job-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/delete-job-queue.html)|[Remove-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATJobQueue.html)|
+|[aws batch delete-quota-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/delete-quota-share.html)|[Remove-BATQuotaShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATQuotaShare.html)|
 |[aws batch delete-scheduling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/delete-scheduling-policy.html)|[Remove-BATSchedulingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATSchedulingPolicy.html)|
 |[aws batch delete-service-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/delete-service-environment.html)|[Remove-BATServiceEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATServiceEnvironment.html)|
 |[aws batch deregister-job-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/deregister-job-definition.html)|[Unregister-BATJobDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-BATJobDefinition.html)|
@@ -30,6 +32,7 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |[aws batch describe-job-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-job-definitions.html)|[Get-BATJobDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobDefinition.html)|
 |[aws batch describe-job-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-job-queues.html)|[Get-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobQueue.html)|
 |[aws batch describe-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-jobs.html)|[Get-BATJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobDetail.html)|
+|[aws batch describe-quota-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-quota-share.html)|[Get-BATQuotaShareDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATQuotaShareDetail.html)|
 |[aws batch describe-scheduling-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-scheduling-policies.html)|[Get-BATSchedulingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATSchedulingPolicy.html)|
 |[aws batch describe-service-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-service-environments.html)|[Get-BATServiceEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATServiceEnvironment.html)|
 |[aws batch describe-service-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/describe-service-job.html)|[Get-BATServiceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATServiceJob.html)|
@@ -37,6 +40,7 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |[aws batch list-consumable-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-consumable-resources.html)|[Get-BATConsumableResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATConsumableResourceList.html)|
 |[aws batch list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-jobs.html)|[Get-BATJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobList.html)|
 |[aws batch list-jobs-by-consumable-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-jobs-by-consumable-resource.html)|[Get-BATJobsByConsumableResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATJobsByConsumableResourceList.html)|
+|[aws batch list-quota-shares](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-quota-shares.html)|[Get-BATQuotaShareList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATQuotaShareList.html)|
 |[aws batch list-scheduling-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-scheduling-policies.html)|[Get-BATSchedulingPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATSchedulingPolicyList.html)|
 |[aws batch list-service-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-service-jobs.html)|[Get-BATServiceJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATServiceJobList.html)|
 |[aws batch list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/list-tags-for-resource.html)|[Get-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BATResourceTag.html)|
@@ -50,6 +54,8 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |[aws batch update-compute-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-compute-environment.html)|[Update-BATComputeEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATComputeEnvironment.html)|
 |[aws batch update-consumable-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-consumable-resource.html)|[Update-BATConsumableResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATConsumableResource.html)|
 |[aws batch update-job-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-job-queue.html)|[Update-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATJobQueue.html)|
+|[aws batch update-quota-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-quota-share.html)|[Update-BATQuotaShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATQuotaShare.html)|
 |[aws batch update-scheduling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-scheduling-policy.html)|[Update-BATSchedulingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATSchedulingPolicy.html)|
 |[aws batch update-service-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-service-environment.html)|[Update-BATServiceEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATServiceEnvironment.html)|
+|[aws batch update-service-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-service-job.html)|[Update-BATServiceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATServiceJob.html)|
 

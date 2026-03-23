@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2026-03-03
+date: 2026-03-23
 description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 ---
 

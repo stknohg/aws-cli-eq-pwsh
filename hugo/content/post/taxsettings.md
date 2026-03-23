@@ -1,6 +1,6 @@
 ---
 title: taxsettings
-date: 2026-03-03
+date: 2026-03-23
 description: aws taxsettings (Tax Settings) command/cmdlet list.
 ---
 

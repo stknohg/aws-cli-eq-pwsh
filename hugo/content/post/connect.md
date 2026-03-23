@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-03-03
+date: 2026-03-23
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect associate-lambda-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-lambda-function.html)|[Add-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLambdaFunction.html)|
 |[aws connect associate-lex-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-lex-bot.html)|[Add-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNLexBot.html)|
 |[aws connect associate-phone-number-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-phone-number-contact-flow.html)|[Add-CONNPhoneNumberContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNPhoneNumberContactFlow.html)|
+|[aws connect associate-queue-email-addresses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-queue-email-addresses.html)|[Add-CONNQueueEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNQueueEmailAddress.html)|
 |[aws connect associate-queue-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-queue-quick-connects.html)|[Add-CONNQueueQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNQueueQuickConnect.html)|
 |[aws connect associate-routing-profile-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-routing-profile-queues.html)|[Join-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Join-CONNRoutingProfileQueue.html)|
 |[aws connect associate-security-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/associate-security-key.html)|[Add-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CONNSecurityKey.html)|
@@ -161,6 +162,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect disassociate-lambda-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-lambda-function.html)|[Remove-CONNLambdaFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLambdaFunction.html)|
 |[aws connect disassociate-lex-bot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-lex-bot.html)|[Remove-CONNLexBot](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNLexBot.html)|
 |[aws connect disassociate-phone-number-contact-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-phone-number-contact-flow.html)|[Remove-CONNPhoneNumberContactFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNPhoneNumberContactFlow.html)|
+|[aws connect disassociate-queue-email-addresses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-queue-email-addresses.html)|[Remove-CONNQueueEmailAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQueueEmailAddress.html)|
 |[aws connect disassociate-queue-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-queue-quick-connects.html)|[Remove-CONNQueueQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNQueueQuickConnect.html)|
 |[aws connect disassociate-routing-profile-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-routing-profile-queues.html)|[Disconnect-CONNRoutingProfileQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-CONNRoutingProfileQueue.html)|
 |[aws connect disassociate-security-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/disassociate-security-key.html)|[Remove-CONNSecurityKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNSecurityKey.html)|
@@ -223,6 +225,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-phone-numbers-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-phone-numbers-v2.html)|[Get-CONNPhoneNumbersV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNPhoneNumbersV2List.html)|
 |[aws connect list-predefined-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-predefined-attributes.html)|[Get-CONNPredefinedAttributeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNPredefinedAttributeList.html)|
 |[aws connect list-prompts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-prompts.html)|[Get-CONNPromptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNPromptList.html)|
+|[aws connect list-queue-email-addresses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-queue-email-addresses.html)|[Get-CONNQueueEmailAddressList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQueueEmailAddressList.html)|
 |[aws connect list-queue-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-queue-quick-connects.html)|[Get-CONNQueueQuickConnectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQueueQuickConnectList.html)|
 |[aws connect list-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-queues.html)|[Get-CONNQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQueueList.html)|
 |[aws connect list-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-quick-connects.html)|[Get-CONNQuickConnectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQuickConnectList.html)|

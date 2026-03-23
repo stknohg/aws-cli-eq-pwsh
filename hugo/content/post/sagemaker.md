@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2026-03-03
+date: 2026-03-23
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -213,6 +213,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker describe-subscribed-workteam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-subscribed-workteam.html)|[Get-SMSubscribedWorkteam](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSubscribedWorkteam.html)|
 |[aws sagemaker describe-training-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-training-job.html)|[Get-SMTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingJob.html)|
 |[aws sagemaker describe-training-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-training-plan.html)|[Get-SMTrainingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingPlan.html)|
+|[aws sagemaker describe-training-plan-extension-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-training-plan-extension-history.html)|[Get-SMTrainingPlanExtensionHistoryDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrainingPlanExtensionHistoryDetail.html)|
 |[aws sagemaker describe-transform-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-transform-job.html)|[Get-SMTransformJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTransformJob.html)|
 |[aws sagemaker describe-trial](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-trial.html)|[Get-SMTrial](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrial.html)|
 |[aws sagemaker describe-trial-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/describe-trial-component.html)|[Get-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMTrialComponent.html)|
@@ -223,6 +224,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker disable-sagemaker-servicecatalog-portfolio](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/disable-sagemaker-servicecatalog-portfolio.html)|[Disable-SMSagemakerServicecatalogPortfolio](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-SMSagemakerServicecatalogPortfolio.html)|
 |[aws sagemaker disassociate-trial-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/disassociate-trial-component.html)|[Unregister-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SMTrialComponent.html)|
 |[aws sagemaker enable-sagemaker-servicecatalog-portfolio](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/enable-sagemaker-servicecatalog-portfolio.html)|[Enable-SMSagemakerServicecatalogPortfolio](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SMSagemakerServicecatalogPortfolio.html)|
+|[aws sagemaker extend-training-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/extend-training-plan.html)|[Set-SMTrainingPlanExtension](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SMTrainingPlanExtension.html)|
 |[aws sagemaker get-device-fleet-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-device-fleet-report.html)|[Get-SMDeviceFleetReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMDeviceFleetReport.html)|
 |[aws sagemaker get-lineage-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-lineage-group-policy.html)|[Get-SMLineageGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMLineageGroupPolicy.html)|
 |[aws sagemaker get-model-package-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/get-model-package-group-policy.html)|[Get-SMModelPackageGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMModelPackageGroupPolicy.html)|

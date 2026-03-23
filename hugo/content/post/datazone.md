@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2026-03-03
+date: 2026-03-23
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -153,6 +153,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone post-time-series-data-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/post-time-series-data-points.html)|[New-DZTimeSeriesDataPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DZTimeSeriesDataPoint.html)|
 |[aws datazone put-data-export-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/put-data-export-configuration.html)|[Write-DZDataExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DZDataExportConfiguration.html)|
 |[aws datazone put-environment-blueprint-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/put-environment-blueprint-configuration.html)|[Write-DZEnvironmentBlueprintConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DZEnvironmentBlueprintConfiguration.html)|
+|[aws datazone query-graph](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/query-graph.html)|[Find-DZGraph](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-DZGraph.html)|
 |[aws datazone reject-predictions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/reject-predictions.html)|[Deny-DZPrediction](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DZPrediction.html)|
 |[aws datazone reject-subscription-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/reject-subscription-request.html)|[Deny-DZSubscriptionRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-DZSubscriptionRequest.html)|
 |[aws datazone remove-entity-owner](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/remove-entity-owner.html)|[Remove-DZEntityOwner](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZEntityOwner.html)|

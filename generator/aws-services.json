@@ -599,6 +599,12 @@
     "Url": "https://aws.amazon.com/connect/cases/",
     "Note": ""
   },
+  "connecthealth": {
+    "Prefix": "CNH",
+    "Name": "Amazon Connect Health",
+    "Url": "https://aws.amazon.com/health/connect-health/",
+    "Note": ""
+  },
   "connect": {
     "Prefix": "CONN",
     "Name": "Amazon Connect",
@@ -2224,6 +2230,12 @@
     "Name": "AWS Sign-In",
     "Url": "https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html",
     "Note": ""
+  },
+  "simpledbv2": {
+    "Prefix": "SDBV2",
+    "Name": "Amazon SimpleDB",
+    "Url": "https://aws.amazon.com/simpledb/",
+    "Note": "v2"
   },
   "simspaceweaver": {
     "Prefix": "SSW",

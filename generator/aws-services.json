@@ -707,6 +707,12 @@
     "Url": "https://aws.amazon.com/device-farm/",
     "Note": ""
   },
+  "devops-agent": {
+    "Prefix": "DOPS",
+    "Name": "AWS DevOps Agent",
+    "Url": "https://aws.amazon.com/devops-agent/",
+    "Note": ""
+  },
   "devops-guru": {
     "Prefix": "DGURU",
     "Name": "Amazon DevOps Guru",
@@ -2153,6 +2159,12 @@
     "Url": "https://aws.amazon.com/solutions/cloud-foundations/capabilities/security-incident-response/",
     "Note": ""
   },
+  "securityagent": {
+    "Prefix": "SECAG",
+    "Name": "AWS Security Agent",
+    "Url": "https://aws.amazon.com/security-agent/",
+    "Note": ""
+  },
   "securityhub": {
     "Prefix": "SHUB",
     "Name": "AWS Security Hub CSPM",
@@ -2363,6 +2375,12 @@
     "Url": "https://aws.amazon.com/premiumsupport/",
     "Note": ""
   },
+  "sustainability": {
+    "Prefix": "SUST",
+    "Name": "AWS Sustainability",
+    "Url": "https://aws.amazon.com/sustainability/",
+    "Note": ""
+  },
   "swf": {
     "Prefix": "SWF",
     "Name": "Amazon Simple Workflow",
@@ -2433,6 +2451,12 @@
     "Prefix": "TA",
     "Name": "AWS Trusted Advisor",
     "Url": "https://aws.amazon.com/premiumsupport/technology/trusted-advisor/",
+    "Note": ""
+  },
+  "uxc": {
+    "Prefix": "UXC",
+    "Name": "AWS User Experience Customization",
+    "Url": "https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/uxc.html",
     "Note": ""
   },
   "verifiedpermissions": {

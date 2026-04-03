@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-03-23
+date: 2026-04-03
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.34.14 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.179 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.34.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.188 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -139,6 +139,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS CodeDeploy](https://aws.amazon.com/codedeploy/)|[deploy]({{%relref "post/deploy.md" %}})|CD||
 |[Amazon Detective](https://aws.amazon.com/detective/)|[detective]({{%relref "post/detective.md" %}})|DTCT||
 |[AWS Device Farm](https://aws.amazon.com/device-farm/)|[devicefarm]({{%relref "post/devicefarm.md" %}})|DF||
+|[AWS DevOps Agent](https://aws.amazon.com/devops-agent/)|[devops-agent]({{%relref "post/devops-agent.md" %}})|DOPS||
 |[Amazon DevOps Guru](https://aws.amazon.com/devops-guru/)|[devops-guru]({{%relref "post/devops-guru.md" %}})|DGURU||
 |[AWS Direct Connect](https://aws.amazon.com/directconnect/)|[directconnect]({{%relref "post/directconnect.md" %}})|DC||
 |[AWS Application Discovery Service](https://aws.amazon.com/application-discovery/)|[discovery]({{%relref "post/discovery.md" %}})|ADS||
@@ -378,6 +379,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[sdb]({{%relref "post/sdb.md" %}})|||
 |[AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)|[secretsmanager]({{%relref "post/secretsmanager.md" %}})|SEC||
 |[AWS Security Incident Response](https://aws.amazon.com/solutions/cloud-foundations/capabilities/security-incident-response/)|[security-ir]({{%relref "post/security-ir.md" %}})|SecurityIR||
+|[AWS Security Agent](https://aws.amazon.com/security-agent/)|[securityagent]({{%relref "post/securityagent.md" %}})|SECAG||
 |[AWS Security Hub CSPM](https://aws.amazon.com/securityhub/)|[securityhub]({{%relref "post/securityhub.md" %}})|SHUB||
 |[Amazon Security Lake](https://aws.amazon.com/security-lake/)|[securitylake]({{%relref "post/securitylake.md" %}})|SLK||
 |[AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/)|[serverlessrepo]({{%relref "post/serverlessrepo.md" %}})|SAR||
@@ -413,6 +415,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Supply Chain](https://aws.amazon.com/aws-supply-chain/)|[supplychain]({{%relref "post/supplychain.md" %}})|SUPCH||
 |[AWS Support](https://aws.amazon.com/premiumsupport/)|[support]({{%relref "post/support.md" %}})|ASA||
 |[AWS Support App in Slack API](https://aws.amazon.com/premiumsupport/)|[support-app]({{%relref "post/support-app.md" %}})|SUP||
+|[AWS Sustainability](https://aws.amazon.com/sustainability/)|[sustainability]({{%relref "post/sustainability.md" %}})|SUST||
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
 |[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||
 |[Tax Settings](https://aws.amazon.com/aws-cost-management/aws-billing/)|[taxsettings]({{%relref "post/taxsettings.md" %}})|TSA||
@@ -425,6 +428,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
 |[AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)|[trustedadvisor]({{%relref "post/trustedadvisor.md" %}})|TA||
+|[AWS User Experience Customization](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/uxc.html)|[uxc]({{%relref "post/uxc.md" %}})|UXC||
 |[Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)|[verifiedpermissions]({{%relref "post/verifiedpermissions.md" %}})|AVP||
 |[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||
 |[Amazon VPC Lattice](https://aws.amazon.com/vpc/lattice/)|[vpc-lattice]({{%relref "post/vpc-lattice.md" %}})|VPCL||

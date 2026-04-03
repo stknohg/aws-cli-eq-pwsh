@@ -1,6 +1,6 @@
 ---
 title: acm
-date: 2026-03-23
+date: 2026-04-03
 description: aws acm (AWS Certificate Manager) command/cmdlet list.
 ---
 
@@ -28,5 +28,6 @@ description: aws acm (AWS Certificate Manager) command/cmdlet list.
 |[aws acm request-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/request-certificate.html)|[New-ACMCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ACMCertificate.html)|
 |[aws acm resend-validation-email](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/resend-validation-email.html)|[Send-ACMValidationEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ACMValidationEmail.html)|
 |[aws acm revoke-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/revoke-certificate.html)|[Revoke-ACMCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-ACMCertificate.html)|
+|[aws acm search-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/search-certificates.html)|[Search-ACMCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-ACMCertificate.html)|
 |[aws acm update-certificate-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/update-certificate-options.html)|[Update-ACMCertificateOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ACMCertificateOption.html)|
 

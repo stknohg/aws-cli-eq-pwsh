@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2026-03-23
+date: 2026-04-03
 description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 ---
 
@@ -76,6 +76,7 @@ description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 |[aws appstream disassociate-application-from-entitlement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/disassociate-application-from-entitlement.html)|[Remove-APSApplicationFromEntitlement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSApplicationFromEntitlement.html)|
 |[aws appstream disassociate-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/disassociate-fleet.html)|[Unregister-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-APSFleet.html)|
 |[aws appstream disassociate-software-from-image-builder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/disassociate-software-from-image-builder.html)|[Remove-APSSoftwareFromImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-APSSoftwareFromImageBuilder.html)|
+|[aws appstream drain-session-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/drain-session-instance.html)|[Disable-APSSessionInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-APSSessionInstance.html)|
 |[aws appstream enable-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/enable-user.html)|[Enable-APSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-APSUser.html)|
 |[aws appstream expire-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/expire-session.html)|[Revoke-APSSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-APSSession.html)|
 |[aws appstream get-export-image-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/get-export-image-task.html)|[Get-APSExportImageTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-APSExportImageTask.html)|

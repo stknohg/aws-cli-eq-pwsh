@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2026-03-23
+date: 2026-04-03
 description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 ---
 
@@ -85,6 +85,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight describe-analysis-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-analysis-permissions.html)|[Get-QSAnalysisPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAnalysisPermission.html)|
 |[aws quicksight describe-asset-bundle-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-asset-bundle-export-job.html)|[Get-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAssetBundleExportJob.html)|
 |[aws quicksight describe-asset-bundle-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-asset-bundle-import-job.html)|[Get-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAssetBundleImportJob.html)|
+|[aws quicksight describe-automation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-automation-job.html)|[Get-QSAutomationJobDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSAutomationJobDetail.html)|
 |[aws quicksight describe-brand](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-brand.html)|[Get-QSBrand](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSBrand.html)|
 |[aws quicksight describe-brand-assignment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-brand-assignment.html)|[Get-QSBrandAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSBrandAssignment.html)|
 |[aws quicksight describe-brand-published-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/describe-brand-published-version.html)|[Get-QSBrandPublishedVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QSBrandPublishedVersion.html)|
@@ -189,6 +190,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight search-topics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/search-topics.html)|[Search-QSTopic](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-QSTopic.html)|
 |[aws quicksight start-asset-bundle-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-export-job.html)|[Start-QSAssetBundleExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleExportJob.html)|
 |[aws quicksight start-asset-bundle-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-asset-bundle-import-job.html)|[Start-QSAssetBundleImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAssetBundleImportJob.html)|
+|[aws quicksight start-automation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-automation-job.html)|[Start-QSAutomationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSAutomationJob.html)|
 |[aws quicksight start-dashboard-snapshot-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job.html)|[Start-QSDashboardSnapshotJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJob.html)|
 |[aws quicksight start-dashboard-snapshot-job-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/start-dashboard-snapshot-job-schedule.html)|[Start-QSDashboardSnapshotJobSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-QSDashboardSnapshotJobSchedule.html)|
 |[aws quicksight tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/tag-resource.html)|[Add-QSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-QSResourceTag.html)|

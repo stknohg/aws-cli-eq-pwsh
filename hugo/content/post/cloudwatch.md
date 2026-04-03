@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2026-03-23
+date: 2026-04-03
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -36,6 +36,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch get-metric-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-statistics.html)|[Get-CWMetricStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStatistic.html)|
 |[aws cloudwatch get-metric-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-stream.html)|[Get-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStream.html)|
 |[aws cloudwatch get-metric-widget-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-widget-image.html)|[Get-CWMetricWidgetImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricWidgetImage.html)|
+|[aws cloudwatch get-o-tel-enrichment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-o-tel-enrichment.html)|[Get-CWOTelEnrichment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOTelEnrichment.html)|
 |[aws cloudwatch list-alarm-mute-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-alarm-mute-rules.html)|[Get-CWAlarmMuteRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmMuteRuleList.html)|
 |[aws cloudwatch list-dashboards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-dashboards.html)|[Get-CWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboardList.html)|
 |[aws cloudwatch list-managed-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-managed-insight-rules.html)|[Get-CWManagedInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWManagedInsightRule.html)|
@@ -53,7 +54,9 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch put-metric-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-metric-stream.html)|[Write-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricStream.html)|
 |[aws cloudwatch set-alarm-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/set-alarm-state.html)|[Set-CWAlarmState](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CWAlarmState.html)|
 |[aws cloudwatch start-metric-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/start-metric-streams.html)|[Start-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWMetricStream.html)|
+|[aws cloudwatch start-o-tel-enrichment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/start-o-tel-enrichment.html)|[Start-CWOTelEnrichment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWOTelEnrichment.html)|
 |[aws cloudwatch stop-metric-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/stop-metric-streams.html)|[Stop-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWMetricStream.html)|
+|[aws cloudwatch stop-o-tel-enrichment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/stop-o-tel-enrichment.html)|[Stop-CWOTelEnrichment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWOTelEnrichment.html)|
 |[aws cloudwatch tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/tag-resource.html)|[Add-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWResourceTag.html)|
 |[aws cloudwatch untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/untag-resource.html)|[Remove-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWResourceTag.html)|
 

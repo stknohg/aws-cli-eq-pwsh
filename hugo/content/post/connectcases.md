@@ -1,6 +1,6 @@
 ---
 title: connectcases
-date: 2026-03-23
+date: 2026-04-03
 description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 ---
 
@@ -54,5 +54,6 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 |[aws connectcases update-case-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/update-case-rule.html)|[Update-CCASCaseRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASCaseRule.html)|
 |[aws connectcases update-field](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/update-field.html)|[Update-CCASField](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASField.html)|
 |[aws connectcases update-layout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/update-layout.html)|[Update-CCASLayout](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASLayout.html)|
+|[aws connectcases update-related-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/update-related-item.html)|[Update-CCASRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASRelatedItem.html)|
 |[aws connectcases update-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/update-template.html)|[Update-CCASTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASTemplate.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: qbusiness
-date: 2026-03-23
+date: 2026-04-03
 description: aws qbusiness (Amazon Q for Your Business) command/cmdlet list.
 ---
 

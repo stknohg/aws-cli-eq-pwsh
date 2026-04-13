@@ -1475,6 +1475,12 @@
     "Url": "https://aws.amazon.com/marketplace/",
     "Note": ""
   },
+  "marketplace-discovery": {
+    "Prefix": "MKTD",
+    "Name": "AWS Marketplace Discovery",
+    "Url": "https://aws.amazon.com/marketplace/",
+    "Note": ""
+  },
   "marketplace-entitlement": {
     "Prefix": "MES",
     "Name": "AWS Marketplace Entitlement Service",
@@ -2061,6 +2067,12 @@
     "Prefix": "S3C",
     "Name": "Amazon S3",
     "Url": "https://aws.amazon.com/s3/",
+    "Note": ""
+  },
+  "s3files": {
+    "Prefix": "S3F",
+    "Name": "Amazon S3 Files",
+    "Url": "https://aws.amazon.com/s3/features/files/",
     "Note": ""
   },
   "s3outposts": {

@@ -1,6 +1,6 @@
 ---
 title: devops-agent
-date: 2026-04-03
+date: 2026-04-13
 description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 ---
 

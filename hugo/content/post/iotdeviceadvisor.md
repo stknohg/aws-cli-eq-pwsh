@@ -1,6 +1,6 @@
 ---
 title: iotdeviceadvisor
-date: 2026-04-03
+date: 2026-04-13
 description: aws iotdeviceadvisor (AWS IoT Core Device Advisor) command/cmdlet list.
 ---
 

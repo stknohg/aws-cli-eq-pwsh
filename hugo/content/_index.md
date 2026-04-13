@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-04-03
+date: 2026-04-13
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.34.23 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.188 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.34.29 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.194 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -265,6 +265,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Marketplace Agreement Service](https://aws.amazon.com/marketplace/)|[marketplace-agreement]({{%relref "post/marketplace-agreement.md" %}})|MAS||
 |[AWS Marketplace Catalog Service](https://aws.amazon.com/marketplace/)|[marketplace-catalog]({{%relref "post/marketplace-catalog.md" %}})|MCAT||
 |[AWS Marketplace Deployment Service](https://aws.amazon.com/marketplace/)|[marketplace-deployment]({{%relref "post/marketplace-deployment.md" %}})|MD||
+|[AWS Marketplace Discovery](https://aws.amazon.com/marketplace/)|[marketplace-discovery]({{%relref "post/marketplace-discovery.md" %}})|MKTD||
 |[AWS Marketplace Entitlement Service](https://aws.amazon.com/marketplace/)|[marketplace-entitlement]({{%relref "post/marketplace-entitlement.md" %}})|MES||
 |[AWS Marketplace Reporting](https://aws.amazon.com/marketplace/)|[marketplace-reporting]({{%relref "post/marketplace-reporting.md" %}})|MR||
 |[AWS Marketplace Commerce Analytics](https://aws.amazon.com/marketplace/)|[marketplacecommerceanalytics]({{%relref "post/marketplacecommerceanalytics.md" %}})|MCA||
@@ -363,6 +364,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3]({{%relref "post/s3.md" %}})||High-level S3 commands.|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3api]({{%relref "post/s3api.md" %}})|S3|PowerShell cmdlets are paired with s3api commands.|
 |[Amazon S3](https://aws.amazon.com/s3/)|[s3control]({{%relref "post/s3control.md" %}})|S3C||
+|[Amazon S3 Files](https://aws.amazon.com/s3/features/files/)|[s3files]({{%relref "post/s3files.md" %}})|S3F||
 |[Amazon S3 on Outposts](https://aws.amazon.com/outposts/)|[s3outposts]({{%relref "post/s3outposts.md" %}})|S3O||
 |[Amazon S3 Tables](https://aws.amazon.com/s3/features/tables/)|[s3tables]({{%relref "post/s3tables.md" %}})|S3T||
 |[Amazon S3 Vectors](https://aws.amazon.com/s3/features/vectors/)|[s3vectors]({{%relref "post/s3vectors.md" %}})|S3V||

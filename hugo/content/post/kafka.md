@@ -1,6 +1,6 @@
 ---
 title: kafka
-date: 2026-04-03
+date: 2026-04-13
 description: aws kafka (Amazon Managed Streaming for Kafka) command/cmdlet list.
 ---
 

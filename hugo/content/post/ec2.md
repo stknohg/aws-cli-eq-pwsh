@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-04-03
+date: 2026-04-13
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -544,6 +544,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-capacity-manager-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-capacity-manager-attributes.html)|[Get-EC2CapacityManagerAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityManagerAttribute.html)|
 |[aws ec2 get-capacity-manager-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-capacity-manager-metric-data.html)|[Get-EC2CapacityManagerMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityManagerMetricData.html)|
 |[aws ec2 get-capacity-manager-metric-dimensions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-capacity-manager-metric-dimensions.html)|[Get-EC2CapacityManagerMetricDimension](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityManagerMetricDimension.html)|
+|[aws ec2 get-capacity-manager-monitored-tag-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-capacity-manager-monitored-tag-keys.html)|[Get-EC2CapacityManagerMonitoredTagKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityManagerMonitoredTagKey.html)|
 |[aws ec2 get-capacity-reservation-usage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-capacity-reservation-usage.html)|[Get-EC2CapacityReservationUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationUsage.html)|
 |[aws ec2 get-coip-pool-usage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-coip-pool-usage.html)|[Get-EC2CoipPoolUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CoipPoolUsage.html)|
 |[aws ec2 get-console-output](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-console-output.html)|[Get-EC2ConsoleOutput](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ConsoleOutput.html)|
@@ -762,6 +763,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 unassign-private-nat-gateway-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/unassign-private-nat-gateway-address.html)|[Unregister-EC2PrivateNatGatewayAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EC2PrivateNatGatewayAddress.html)|
 |[aws ec2 unlock-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/unlock-snapshot.html)|[Unlock-EC2Snapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Unlock-EC2Snapshot.html)|
 |[aws ec2 unmonitor-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/unmonitor-instances.html)|[Stop-EC2InstanceMonitoring](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2InstanceMonitoring.html)|
+|[aws ec2 update-capacity-manager-monitored-tag-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-capacity-manager-monitored-tag-keys.html)|[Update-EC2CapacityManagerMonitoredTagKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2CapacityManagerMonitoredTagKey.html)|
 |[aws ec2 update-capacity-manager-organizations-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-capacity-manager-organizations-access.html)|[Update-EC2CapacityManagerOrganizationsAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2CapacityManagerOrganizationsAccess.html)|
 |[aws ec2 update-interruptible-capacity-reservation-allocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-interruptible-capacity-reservation-allocation.html)|[Update-EC2InterruptibleCapacityReservationAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2InterruptibleCapacityReservationAllocation.html)|
 |[aws ec2 update-security-group-rule-descriptions-egress](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-security-group-rule-descriptions-egress.html)|[Update-EC2SecurityGroupRuleEgressDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2SecurityGroupRuleEgressDescription.html)|

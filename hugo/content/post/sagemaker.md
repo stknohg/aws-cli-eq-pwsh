@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2026-04-03
+date: 2026-04-13
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -326,6 +326,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker search-training-plan-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/search-training-plan-offerings.html)|[Search-SMTrainingPlanOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-SMTrainingPlanOffering.html)|
 |[aws sagemaker send-pipeline-execution-step-failure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/send-pipeline-execution-step-failure.html)|[Send-SMPipelineExecutionStepFailure](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SMPipelineExecutionStepFailure.html)|
 |[aws sagemaker send-pipeline-execution-step-success](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/send-pipeline-execution-step-success.html)|[Send-SMPipelineExecutionStepSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SMPipelineExecutionStepSuccess.html)|
+|[aws sagemaker start-cluster-health-check](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-cluster-health-check.html)|[Start-SMClusterHealthCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMClusterHealthCheck.html)|
 |[aws sagemaker start-edge-deployment-stage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-edge-deployment-stage.html)|[Start-SMEdgeDeploymentStage](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMEdgeDeploymentStage.html)|
 |[aws sagemaker start-inference-experiment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-inference-experiment.html)|[Start-SMInferenceExperiment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMInferenceExperiment.html)|
 |[aws sagemaker start-mlflow-tracking-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/start-mlflow-tracking-server.html)|[Start-SMMlflowTrackingServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SMMlflowTrackingServer.html)|

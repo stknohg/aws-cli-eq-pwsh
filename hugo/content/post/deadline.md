@@ -1,6 +1,6 @@
 ---
 title: deadline
-date: 2026-04-03
+date: 2026-04-13
 description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 ---
 
@@ -22,7 +22,15 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline assume-queue-role-for-read](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/assume-queue-role-for-read.html)|[Get-ADCQueueRoleForRead](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueueRoleForRead.html)|
 |[aws deadline assume-queue-role-for-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/assume-queue-role-for-user.html)|[Get-ADCQueueRoleForUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueueRoleForUser.html)|
 |[aws deadline assume-queue-role-for-worker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/assume-queue-role-for-worker.html)|[Get-ADCQueueRoleForWorker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueueRoleForWorker.html)|
+|[aws deadline batch-get-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-job.html)|[Get-ADCJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCJobBatch.html)|
 |[aws deadline batch-get-job-entity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-job-entity.html)|[Get-ADCBatchJobEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCBatchJobEntity.html)|
+|[aws deadline batch-get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-session.html)|[Get-ADCSessionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCSessionBatch.html)|
+|[aws deadline batch-get-session-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-session-action.html)|[Get-ADCSessionActionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCSessionActionBatch.html)|
+|[aws deadline batch-get-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-step.html)|[Get-ADCStepBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCStepBatch.html)|
+|[aws deadline batch-get-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-task.html)|[Get-ADCTaskBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCTaskBatch.html)|
+|[aws deadline batch-get-worker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-get-worker.html)|[Get-ADCWorkerBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCWorkerBatch.html)|
+|[aws deadline batch-update-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-update-job.html)|[Update-ADCJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCJobBatch.html)|
+|[aws deadline batch-update-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/batch-update-task.html)|[Update-ADCTaskBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCTaskBatch.html)|
 |[aws deadline copy-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/copy-job-template.html)|[Copy-ADCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Copy-ADCJobTemplate.html)|
 |[aws deadline create-budget](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/create-budget.html)|[New-ADCBudget](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ADCBudget.html)|
 |[aws deadline create-farm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/create-farm.html)|[New-ADCFarm](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ADCFarm.html)|

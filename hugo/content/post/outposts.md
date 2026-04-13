@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2026-04-03
+date: 2026-04-13
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts cancel-order](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/cancel-order.html)|[Stop-OUTPOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OUTPOrder.html)|
 |[aws outposts create-order](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-order.html)|[New-OUTPOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPOrder.html)|
 |[aws outposts create-outpost](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-outpost.html)|[New-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPOutpost.html)|
+|[aws outposts create-renewal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-renewal.html)|[New-OUTPRenewal](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPRenewal.html)|
 |[aws outposts create-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-site.html)|[New-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPSite.html)|
 |[aws outposts delete-outpost](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/delete-outpost.html)|[Remove-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPOutpost.html)|
 |[aws outposts delete-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/delete-site.html)|[Remove-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OUTPSite.html)|
@@ -28,6 +29,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts get-outpost-billing-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-billing-information.html)|[Get-OUTPOutpostBillingInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostBillingInformation.html)|
 |[aws outposts get-outpost-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
 |[aws outposts get-outpost-supported-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-supported-instance-types.html)|[Get-OUTPOutpostSupportedInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostSupportedInstanceType.html)|
+|[aws outposts get-renewal-pricing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-renewal-pricing.html)|[Get-OUTPRenewalPricing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPRenewalPricing.html)|
 |[aws outposts get-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-site.html)|[Get-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSite.html)|
 |[aws outposts get-site-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-site-address.html)|[Get-OUTPSiteAddress](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSiteAddress.html)|
 |[aws outposts list-asset-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/list-asset-instances.html)|[Get-OUTPAssetInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPAssetInstanceList.html)|

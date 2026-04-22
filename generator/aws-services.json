@@ -1127,6 +1127,12 @@
     "Url": "https://aws.amazon.com/inspector/",
     "Note": ""
   },
+  "interconnect": {
+    "Prefix": "INTC",
+    "Name": "AWS Interconnect",
+    "Url": "https://aws.amazon.com/interconnect/",
+    "Note": ""
+  },
   "internetmonitor": {
     "Prefix": "CWIM",
     "Name": "Amazon CloudWatch Internet Monitor",

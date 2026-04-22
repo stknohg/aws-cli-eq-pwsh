@@ -185,6 +185,7 @@
   "inspector": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Inspector_cmdlets.html",
   "inspector-scan": "https://docs.aws.amazon.com/powershell/latest/reference/items/InspectorScan_cmdlets.html",
   "inspector2": "https://docs.aws.amazon.com/powershell/latest/reference/items/Inspector2_cmdlets.html",
+  "interconnect": "https://docs.aws.amazon.com/powershell/latest/reference/items/Interconnect_cmdlets.html",
   "internetmonitor": "https://docs.aws.amazon.com/powershell/latest/reference/items/InternetMonitor_cmdlets.html",
   "invoicing": "https://docs.aws.amazon.com/powershell/latest/reference/items/Invoicing_cmdlets.html",
   "iot": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_IoT_cmdlets.html",

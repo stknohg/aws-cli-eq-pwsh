@@ -1,6 +1,6 @@
 ---
 title: deadline
-date: 2026-04-13
+date: 2026-04-22
 description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 ---
 
@@ -69,6 +69,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline get-license-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-license-endpoint.html)|[Get-ADCLicenseEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCLicenseEndpoint.html)|
 |[aws deadline get-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-limit.html)|[Get-ADCLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCLimit.html)|
 |[aws deadline get-monitor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-monitor.html)|[Get-ADCMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCMonitor.html)|
+|[aws deadline get-monitor-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-monitor-settings.html)|[Get-ADCMonitorSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCMonitorSetting.html)|
 |[aws deadline get-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-queue.html)|[Get-ADCQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueue.html)|
 |[aws deadline get-queue-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-queue-environment.html)|[Get-ADCQueueEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueueEnvironment.html)|
 |[aws deadline get-queue-fleet-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-queue-fleet-association.html)|[Get-ADCQueueFleetAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueueFleetAssociation.html)|
@@ -124,6 +125,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline update-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-job.html)|[Update-ADCJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCJob.html)|
 |[aws deadline update-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-limit.html)|[Update-ADCLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCLimit.html)|
 |[aws deadline update-monitor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-monitor.html)|[Update-ADCMonitor](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCMonitor.html)|
+|[aws deadline update-monitor-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-monitor-settings.html)|[Update-ADCMonitorSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCMonitorSetting.html)|
 |[aws deadline update-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-queue.html)|[Update-ADCQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCQueue.html)|
 |[aws deadline update-queue-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-queue-environment.html)|[Update-ADCQueueEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCQueueEnvironment.html)|
 |[aws deadline update-queue-fleet-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/update-queue-fleet-association.html)|[Update-ADCQueueFleetAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ADCQueueFleetAssociation.html)|

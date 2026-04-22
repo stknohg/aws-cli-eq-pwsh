@@ -1,6 +1,6 @@
 ---
 title: ebs
-date: 2026-04-13
+date: 2026-04-22
 description: aws ebs (Amazon Elastic Block Store) command/cmdlet list.
 ---
 

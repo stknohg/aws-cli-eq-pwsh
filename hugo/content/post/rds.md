@@ -1,6 +1,6 @@
 ---
 title: rds
-date: 2026-04-13
+date: 2026-04-22
 description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 ---
 
@@ -112,6 +112,7 @@ description: aws rds (Amazon Relational Database Service) command/cmdlet list.
 |[aws rds describe-pending-maintenance-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-pending-maintenance-actions.html)|[Get-RDSPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSPendingMaintenanceAction.html)|
 |[aws rds describe-reserved-db-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-reserved-db-instances.html)|[Get-RDSReservedDBInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSReservedDBInstance.html)|
 |[aws rds describe-reserved-db-instances-offerings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-reserved-db-instances-offerings.html)|[Get-RDSReservedDBInstancesOfferingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSReservedDBInstancesOfferingList.html)|
+|[aws rds describe-serverless-v2-platform-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-serverless-v2-platform-versions.html)|[Get-RDSServerlessV2PlatformVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSServerlessV2PlatformVersion.html)|
 |[aws rds describe-source-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-source-regions.html)|[Get-RDSSourceRegion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSSourceRegion.html)|
 |[aws rds describe-tenant-databases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-tenant-databases.html)|[Get-RDSTenantDatabasis](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSTenantDatabasis.html)|
 |[aws rds describe-valid-db-instance-modifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/rds/describe-valid-db-instance-modifications.html)|[Get-RDSValidDBInstanceModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RDSValidDBInstanceModification.html)|

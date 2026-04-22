@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-04-13
+date: 2026-04-22
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.34.29 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.194 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.34.34 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.199 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -207,6 +207,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector]({{%relref "post/inspector.md" %}})|INS||
 |[Amazon Inspector Scan](https://aws.amazon.com/inspector/)|[inspector-scan]({{%relref "post/inspector-scan.md" %}})|ISCAN||
 |[Amazon Inspector](https://aws.amazon.com/inspector/)|[inspector2]({{%relref "post/inspector2.md" %}})|INS2||
+|[AWS Interconnect](https://aws.amazon.com/interconnect/)|[interconnect]({{%relref "post/interconnect.md" %}})|INTC||
 |[Amazon CloudWatch Internet Monitor](https://aws.amazon.com/cloudwatch/)|[internetmonitor]({{%relref "post/internetmonitor.md" %}})|CWIM||
 |[AWS Invoice Configuration](https://aws.amazon.com/aws-cost-management/aws-billing/)|[invoicing]({{%relref "post/invoicing.md" %}})|INV||
 |[AWS IoT](https://aws.amazon.com/iot/)|[iot]({{%relref "post/iot.md" %}})|IOT||

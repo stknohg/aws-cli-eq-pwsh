@@ -1,6 +1,6 @@
 ---
 title: devops-agent
-date: 2026-04-13
+date: 2026-04-22
 description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 ---
 
@@ -13,7 +13,6 @@ description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
-|[aws devops-agent allow-vended-log-delivery-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/allow-vended-log-delivery-for-resource.html)|[Enable-DOPSVendedLogDeliveryForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-DOPSVendedLogDeliveryForResource.html)|
 |[aws devops-agent associate-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/associate-service.html)|[Add-DOPSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DOPSService.html)|
 |[aws devops-agent create-agent-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/create-agent-space.html)|[New-DOPSAgentSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOPSAgentSpace.html)|
 |[aws devops-agent create-backlog-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/create-backlog-task.html)|[New-DOPSBacklogTask](https://docs.aws.amazon.com/powershell/latest/reference/items/New-DOPSBacklogTask.html)|

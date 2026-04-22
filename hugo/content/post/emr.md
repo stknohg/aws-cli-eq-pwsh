@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2026-04-13
+date: 2026-04-22
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 

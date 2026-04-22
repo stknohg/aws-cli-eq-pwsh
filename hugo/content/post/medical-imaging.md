@@ -1,6 +1,6 @@
 ---
 title: medical-imaging
-date: 2026-04-13
+date: 2026-04-22
 description: aws medical-imaging (AWS HealthImaging) command/cmdlet list.
 ---
 

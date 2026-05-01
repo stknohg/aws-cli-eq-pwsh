@@ -1,6 +1,6 @@
 ---
 title: emr-serverless
-date: 2026-04-22
+date: 2026-04-30
 description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 ---
 
@@ -19,14 +19,20 @@ description: aws emr-serverless (Amazon EMR Serverless) command/cmdlet list.
 |[aws emr-serverless get-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-application.html)|[Get-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessApplication.html)|
 |[aws emr-serverless get-dashboard-for-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-dashboard-for-job-run.html)|[Get-EMRServerlessDashboardForJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessDashboardForJobRun.html)|
 |[aws emr-serverless get-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-job-run.html)|[Get-EMRServerlessJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRun.html)|
+|[aws emr-serverless get-resource-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-resource-dashboard.html)|[Get-EMRServerlessResourceDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessResourceDashboard.html)|
+|[aws emr-serverless get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-session.html)|[Get-EMRServerlessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessSession.html)|
+|[aws emr-serverless get-session-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/get-session-endpoint.html)|[Get-EMRServerlessSessionEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessSessionEndpoint.html)|
 |[aws emr-serverless list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-applications.html)|[Get-EMRServerlessApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessApplicationList.html)|
 |[aws emr-serverless list-job-run-attempts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-job-run-attempts.html)|[Get-EMRServerlessJobRunAttemptList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRunAttemptList.html)|
 |[aws emr-serverless list-job-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-job-runs.html)|[Get-EMRServerlessJobRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessJobRunList.html)|
+|[aws emr-serverless list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-sessions.html)|[Get-EMRServerlessSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessSessionList.html)|
 |[aws emr-serverless list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/list-tags-for-resource.html)|[Get-EMRServerlessResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRServerlessResourceTagList.html)|
 |[aws emr-serverless start-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/start-application.html)|[Start-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRServerlessApplication.html)|
 |[aws emr-serverless start-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/start-job-run.html)|[Start-EMRServerlessJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRServerlessJobRun.html)|
+|[aws emr-serverless start-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/start-session.html)|[Start-EMRServerlessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRServerlessSession.html)|
 |[aws emr-serverless stop-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/stop-application.html)|[Stop-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMRServerlessApplication.html)|
 |[aws emr-serverless tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/tag-resource.html)|[Add-EMRServerlessResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMRServerlessResourceTag.html)|
+|[aws emr-serverless terminate-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/terminate-session.html)|[Stop-EMRServerlessSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMRServerlessSession.html)|
 |[aws emr-serverless untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/untag-resource.html)|[Remove-EMRServerlessResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRServerlessResourceTag.html)|
 |[aws emr-serverless update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-serverless/update-application.html)|[Update-EMRServerlessApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMRServerlessApplication.html)|
 

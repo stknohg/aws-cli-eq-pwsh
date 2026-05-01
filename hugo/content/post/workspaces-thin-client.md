@@ -1,6 +1,6 @@
 ---
 title: workspaces-thin-client
-date: 2026-04-22
+date: 2026-04-30
 description: aws workspaces-thin-client (Amazon WorkSpaces Thin Client) command/cmdlet list.
 ---
 

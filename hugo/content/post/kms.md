@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2026-04-22
+date: 2026-04-30
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms generate-data-key-without-plaintext](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/generate-data-key-without-plaintext.html)|[New-KMSDataKeyWithoutPlaintext](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyWithoutPlaintext.html)|
 |[aws kms generate-mac](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/generate-mac.html)|[New-KMSMac](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSMac.html)|
 |[aws kms generate-random](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/generate-random.html)|[New-KMSRandom](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSRandom.html)|
+|[aws kms get-key-last-usage](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/get-key-last-usage.html)|[Get-KMSKeyLastUsage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyLastUsage.html)|
 |[aws kms get-key-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/get-key-policy.html)|[Get-KMSKeyPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyPolicy.html)|
 |[aws kms get-key-rotation-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/get-key-rotation-status.html)|[Get-KMSKeyRotationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSKeyRotationStatus.html)|
 |[aws kms get-parameters-for-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/get-parameters-for-import.html)|[Get-KMSParametersForImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KMSParametersForImport.html)|

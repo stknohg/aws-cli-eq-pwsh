@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-04-22
+date: 2026-04-30
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -580,6 +580,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 get-launch-template-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-launch-template-data.html)|[Get-EC2LaunchTemplateData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2LaunchTemplateData.html)|
 |[aws ec2 get-managed-prefix-list-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-managed-prefix-list-associations.html)|[Get-EC2ManagedPrefixListAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListAssociation.html)|
 |[aws ec2 get-managed-prefix-list-entries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-managed-prefix-list-entries.html)|[Get-EC2ManagedPrefixListEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedPrefixListEntry.html)|
+|[aws ec2 get-managed-resource-visibility](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-managed-resource-visibility.html)|[Get-EC2ManagedResourceVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2ManagedResourceVisibility.html)|
 |[aws ec2 get-network-insights-access-scope-analysis-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-network-insights-access-scope-analysis-findings.html)|[Get-EC2NetworkInsightsAccessScopeAnalysisFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkInsightsAccessScopeAnalysisFinding.html)|
 |[aws ec2 get-network-insights-access-scope-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-network-insights-access-scope-content.html)|[Get-EC2NetworkInsightsAccessScopeContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2NetworkInsightsAccessScopeContent.html)|
 |[aws ec2 get-password-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/get-password-data.html)|[Get-EC2PasswordData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2PasswordData.html)|
@@ -651,6 +652,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-launch-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-launch-template.html)|[Edit-EC2LaunchTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LaunchTemplate.html)|
 |[aws ec2 modify-local-gateway-route](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-local-gateway-route.html)|[Edit-EC2LocalGatewayRoute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2LocalGatewayRoute.html)|
 |[aws ec2 modify-managed-prefix-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-managed-prefix-list.html)|[Edit-EC2ManagedPrefixList](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedPrefixList.html)|
+|[aws ec2 modify-managed-resource-visibility](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-managed-resource-visibility.html)|[Edit-EC2ManagedResourceVisibility](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2ManagedResourceVisibility.html)|
 |[aws ec2 modify-network-interface-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-network-interface-attribute.html)|[Edit-EC2NetworkInterfaceAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2NetworkInterfaceAttribute.html)|
 |[aws ec2 modify-private-dns-name-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-private-dns-name-options.html)|[Edit-EC2PrivateDnsNameOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2PrivateDnsNameOption.html)|
 |[aws ec2 modify-public-ip-dns-name-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-public-ip-dns-name-options.html)|[Edit-EC2PublicIpDnsNameOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2PublicIpDnsNameOption.html)|

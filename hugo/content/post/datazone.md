@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2026-04-22
+date: 2026-04-30
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -107,6 +107,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone get-lineage-node](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-lineage-node.html)|[Get-DZLineageNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZLineageNode.html)|
 |[aws datazone get-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-listing.html)|[Get-DZListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZListing.html)|
 |[aws datazone get-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-metadata-generation-run.html)|[Get-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZMetadataGenerationRun.html)|
+|[aws datazone get-notebook-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-notebook-run.html)|[Get-DZNotebookRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZNotebookRun.html)|
 |[aws datazone get-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-project.html)|[Get-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProject.html)|
 |[aws datazone get-project-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-project-profile.html)|[Get-DZProjectProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProjectProfile.html)|
 |[aws datazone get-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/get-rule.html)|[Get-DZRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZRule.html)|
@@ -137,6 +138,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone list-lineage-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-lineage-events.html)|[Get-DZLineageEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZLineageEventList.html)|
 |[aws datazone list-lineage-node-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-lineage-node-history.html)|[Get-DZLineageNodeHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZLineageNodeHistoryList.html)|
 |[aws datazone list-metadata-generation-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-metadata-generation-runs.html)|[Get-DZMetadataGenerationRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZMetadataGenerationRunList.html)|
+|[aws datazone list-notebook-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-notebook-runs.html)|[Get-DZNotebookRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZNotebookRunList.html)|
 |[aws datazone list-notifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-notifications.html)|[Get-DZNotificationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZNotificationList.html)|
 |[aws datazone list-policy-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-policy-grants.html)|[Get-DZPolicyGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZPolicyGrantList.html)|
 |[aws datazone list-project-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/list-project-memberships.html)|[Get-DZProjectMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DZProjectMembershipList.html)|
@@ -166,6 +168,8 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone search-user-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/search-user-profiles.html)|[Search-DZUserProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-DZUserProfile.html)|
 |[aws datazone start-data-source-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-data-source-run.html)|[Start-DZDataSourceRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZDataSourceRun.html)|
 |[aws datazone start-metadata-generation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-metadata-generation-run.html)|[Start-DZMetadataGenerationRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZMetadataGenerationRun.html)|
+|[aws datazone start-notebook-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-notebook-run.html)|[Start-DZNotebookRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZNotebookRun.html)|
+|[aws datazone stop-notebook-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/stop-notebook-run.html)|[Stop-DZNotebookRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZNotebookRun.html)|
 |[aws datazone tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/tag-resource.html)|[Add-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZResourceTag.html)|
 |[aws datazone untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/untag-resource.html)|[Remove-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZResourceTag.html)|
 |[aws datazone update-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-account-pool.html)|[Update-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZAccountPool.html)|

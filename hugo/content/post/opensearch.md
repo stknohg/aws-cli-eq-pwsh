@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2026-04-22
+date: 2026-04-30
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -94,6 +94,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch reject-inbound-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/reject-inbound-connection.html)|[Deny-OSInboundConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Deny-OSInboundConnection.html)|
 |[aws opensearch remove-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/remove-tags.html)|[Remove-OSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-OSResourceTag.html)|
 |[aws opensearch revoke-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/revoke-vpc-endpoint-access.html)|[Revoke-OSVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-OSVpcEndpointAccess.html)|
+|[aws opensearch rollback-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/rollback-service-software-update.html)|[Undo-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-OSServiceSoftwareUpdate.html)|
 |[aws opensearch start-domain-maintenance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-domain-maintenance.html)|[Start-OSDomainMaintenance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSDomainMaintenance.html)|
 |[aws opensearch start-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-service-software-update.html)|[Start-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSServiceSoftwareUpdate.html)|
 |[aws opensearch update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-application.html)|[Update-OSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSApplication.html)|

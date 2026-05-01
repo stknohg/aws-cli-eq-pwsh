@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-04-22
+date: 2026-04-30
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -120,6 +120,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect delete-workspace-media](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-workspace-media.html)|[Remove-CONNWorkspaceMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNWorkspaceMedia.html)|
 |[aws connect delete-workspace-page](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-workspace-page.html)|[Remove-CONNWorkspacePage](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNWorkspacePage.html)|
 |[aws connect describe-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-agent-status.html)|[Get-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAgentStatus.html)|
+|[aws connect describe-attached-files-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-attached-files-configuration.html)|[Get-CONNAttachedFilesConfigurationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAttachedFilesConfigurationDetail.html)|
 |[aws connect describe-authentication-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-authentication-profile.html)|[Get-CONNAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAuthenticationProfile.html)|
 |[aws connect describe-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-contact.html)|[Get-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContact.html)|
 |[aws connect describe-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/describe-contact-evaluation.html)|[Get-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactEvaluation.html)|
@@ -193,6 +194,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-analytics-data-lake-data-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-analytics-data-lake-data-sets.html)|[Get-CONNAnalyticsDataLakeDataSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAnalyticsDataLakeDataSetList.html)|
 |[aws connect list-approved-origins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-approved-origins.html)|[Get-CONNApprovedOriginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNApprovedOriginList.html)|
 |[aws connect list-associated-contacts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-associated-contacts.html)|[Get-CONNAssociatedContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAssociatedContactList.html)|
+|[aws connect list-attached-files-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-attached-files-configurations.html)|[Get-CONNAttachedFilesConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAttachedFilesConfigurationList.html)|
 |[aws connect list-authentication-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-authentication-profiles.html)|[Get-CONNAuthenticationProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAuthenticationProfileList.html)|
 |[aws connect list-bots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-bots.html)|[Get-CONNBotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNBotList.html)|
 |[aws connect list-child-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-child-hours-of-operations.html)|[Get-CONNChildHoursOfOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNChildHoursOfOperationList.html)|
@@ -318,6 +320,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect untag-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/untag-contact.html)|[Remove-CONNContactTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactTag.html)|
 |[aws connect untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/untag-resource.html)|[Remove-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNResourceTag.html)|
 |[aws connect update-agent-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-agent-status.html)|[Update-CONNAgentStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAgentStatus.html)|
+|[aws connect update-attached-files-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-attached-files-configuration.html)|[Update-CONNAttachedFilesConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAttachedFilesConfiguration.html)|
 |[aws connect update-authentication-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-authentication-profile.html)|[Update-CONNAuthenticationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNAuthenticationProfile.html)|
 |[aws connect update-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact.html)|[Update-CONNContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContact.html)|
 |[aws connect update-contact-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact-attributes.html)|[Update-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactAttribute.html)|

@@ -1,6 +1,6 @@
 ---
 title: gamelift
-date: 2026-04-22
+date: 2026-04-30
 description: aws gamelift (Amazon GameLift) command/cmdlet list.
 ---
 
@@ -54,6 +54,7 @@ description: aws gamelift (Amazon GameLift) command/cmdlet list.
 |[aws gamelift describe-compute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-compute.html)|[Get-GMLCompute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLCompute.html)|
 |[aws gamelift describe-container-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-container-fleet.html)|[Get-GMLContainerFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerFleet.html)|
 |[aws gamelift describe-container-group-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-container-group-definition.html)|[Get-GMLContainerGroupDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupDefinition.html)|
+|[aws gamelift describe-container-group-port-mappings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-container-group-port-mappings.html)|[Get-GMLContainerGroupPortMappingDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLContainerGroupPortMappingDetail.html)|
 |[aws gamelift describe-ec2-instance-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-ec2-instance-limits.html)|[Get-GMLEC2InstanceLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLEC2InstanceLimit.html)|
 |[aws gamelift describe-fleet-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-attributes.html)|[Get-GMLFleetAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetAttribute.html)|
 |[aws gamelift describe-fleet-capacity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gamelift/describe-fleet-capacity.html)|[Get-GMLFleetCapacity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GMLFleetCapacity.html)|

@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2026-04-30
+date: 2026-05-14
 description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 ---
 

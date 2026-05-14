@@ -1,6 +1,6 @@
 ---
 title: payment-cryptography
-date: 2026-04-30
+date: 2026-05-14
 description: aws payment-cryptography (AWS Payment Cryptography Control Plane) command/cmdlet list.
 ---
 

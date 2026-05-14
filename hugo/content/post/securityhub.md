@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2026-04-30
+date: 2026-05-14
 description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 ---
 
@@ -64,6 +64,7 @@ description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 |[aws securityhub enable-organization-admin-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/enable-organization-admin-account.html)|[Enable-SHUBOrganizationAdminAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBOrganizationAdminAccount.html)|
 |[aws securityhub enable-security-hub](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/enable-security-hub.html)|[Enable-SHUBSecurityHub](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBSecurityHub.html)|
 |[aws securityhub enable-security-hub-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/enable-security-hub-v2.html)|[Enable-SHUBSecurityHubV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-SHUBSecurityHubV2.html)|
+|[aws securityhub generate-recommended-policy-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/generate-recommended-policy-v2.html)|[New-SHUBRecommendedPolicyV2](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SHUBRecommendedPolicyV2.html)|
 |[aws securityhub get-administrator-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-administrator-account.html)|[Get-SHUBAdministratorAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAdministratorAccount.html)|
 |[aws securityhub get-aggregator-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-aggregator-v2.html)|[Get-SHUBAggregatorV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAggregatorV2.html)|
 |[aws securityhub get-automation-rule-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-automation-rule-v2.html)|[Get-SHUBAutomationRuleV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAutomationRuleV2.html)|
@@ -81,6 +82,7 @@ description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 |[aws securityhub get-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-insights.html)|[Get-SHUBInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInsight.html)|
 |[aws securityhub get-invitations-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-invitations-count.html)|[Get-SHUBInvitationsCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationsCount.html)|
 |[aws securityhub get-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-members.html)|[Get-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMember.html)|
+|[aws securityhub get-recommended-policy-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-recommended-policy-v2.html)|[Get-SHUBRecommendedPolicyV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBRecommendedPolicyV2.html)|
 |[aws securityhub get-resources-statistics-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-statistics-v2.html)|[Get-SHUBResourcesStatisticsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesStatisticsV2.html)|
 |[aws securityhub get-resources-trends-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-trends-v2.html)|[Get-SHUBResourcesTrendsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesTrendsV2.html)|
 |[aws securityhub get-resources-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-v2.html)|[Get-SHUBResourcesV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesV2.html)|

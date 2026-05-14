@@ -1,6 +1,6 @@
 ---
 title: mediatailor
-date: 2026-04-30
+date: 2026-05-14
 description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 |[aws mediatailor create-vod-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/create-vod-source.html)|[New-EMTVodSource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMTVodSource.html)|
 |[aws mediatailor delete-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/delete-channel.html)|[Remove-EMTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTChannel.html)|
 |[aws mediatailor delete-channel-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/delete-channel-policy.html)|[Remove-EMTChannelPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTChannelPolicy.html)|
+|[aws mediatailor delete-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/delete-function.html)|[Remove-EMTFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTFunction.html)|
 |[aws mediatailor delete-live-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/delete-live-source.html)|[Remove-EMTLiveSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTLiveSource.html)|
 |[aws mediatailor delete-playback-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/delete-playback-configuration.html)|[Remove-EMTPlaybackConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTPlaybackConfiguration.html)|
 |[aws mediatailor delete-prefetch-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/delete-prefetch-schedule.html)|[Remove-EMTPrefetchSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMTPrefetchSchedule.html)|
@@ -36,10 +37,12 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 |[aws mediatailor describe-vod-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/describe-vod-source.html)|[Get-EMTVodSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTVodSource.html)|
 |[aws mediatailor get-channel-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/get-channel-policy.html)|[Get-EMTChannelPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTChannelPolicy.html)|
 |[aws mediatailor get-channel-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/get-channel-schedule.html)|[Get-EMTChannelSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTChannelSchedule.html)|
+|[aws mediatailor get-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/get-function.html)|[Get-EMTFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTFunction.html)|
 |[aws mediatailor get-playback-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/get-playback-configuration.html)|[Get-EMTPlaybackConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTPlaybackConfiguration.html)|
 |[aws mediatailor get-prefetch-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/get-prefetch-schedule.html)|[Get-EMTPrefetchSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTPrefetchSchedule.html)|
 |[aws mediatailor list-alerts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-alerts.html)|[Get-EMTAlertList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTAlertList.html)|
 |[aws mediatailor list-channels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-channels.html)|[Get-EMTChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTChannelList.html)|
+|[aws mediatailor list-functions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-functions.html)|[Get-EMTFunctionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTFunctionList.html)|
 |[aws mediatailor list-live-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-live-sources.html)|[Get-EMTLiveSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTLiveSourceList.html)|
 |[aws mediatailor list-playback-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-playback-configurations.html)|[Get-EMTPlaybackConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTPlaybackConfigurationList.html)|
 |[aws mediatailor list-prefetch-schedules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-prefetch-schedules.html)|[Get-EMTPrefetchScheduleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTPrefetchScheduleList.html)|
@@ -47,6 +50,7 @@ description: aws mediatailor (AWS Elemental MediaTailor) command/cmdlet list.
 |[aws mediatailor list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-tags-for-resource.html)|[Get-EMTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTResourceTag.html)|
 |[aws mediatailor list-vod-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/list-vod-sources.html)|[Get-EMTVodSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMTVodSourceList.html)|
 |[aws mediatailor put-channel-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/put-channel-policy.html)|[Write-EMTChannelPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMTChannelPolicy.html)|
+|[aws mediatailor put-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/put-function.html)|[Write-EMTFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMTFunction.html)|
 |[aws mediatailor put-playback-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/put-playback-configuration.html)|[Set-EMTPlaybackConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EMTPlaybackConfiguration.html)|
 |[aws mediatailor start-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/start-channel.html)|[Start-EMTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMTChannel.html)|
 |[aws mediatailor stop-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mediatailor/stop-channel.html)|[Stop-EMTChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMTChannel.html)|

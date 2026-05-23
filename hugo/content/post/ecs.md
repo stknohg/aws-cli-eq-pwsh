@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2026-05-14
+date: 2026-05-23
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws ecs continue-service-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/continue-service-deployment.html)|[Resume-ECSServiceDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-ECSServiceDeployment.html)|
 |[aws ecs create-capacity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-capacity-provider.html)|[New-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCapacityProvider.html)|
 |[aws ecs create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-cluster.html)|[New-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCluster.html)|
 |[aws ecs create-daemon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-daemon.html)|[New-ECSDaemon](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSDaemon.html)|

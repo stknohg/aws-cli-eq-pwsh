@@ -1,6 +1,6 @@
 ---
 title: pi
-date: 2026-05-14
+date: 2026-05-23
 description: aws pi (AWS Performance Insights) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws pi (AWS Performance Insights) command/cmdlet list.
 |[aws pi get-resource-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/get-resource-metrics.html)|[Get-PIResourceMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceMetric.html)|
 |[aws pi list-available-resource-dimensions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-available-resource-dimensions.html)|[Get-PIAvailableResourceDimensionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIAvailableResourceDimensionList.html)|
 |[aws pi list-available-resource-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-available-resource-metrics.html)|[Get-PIAvailableResourceMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIAvailableResourceMetricList.html)|
+|[aws pi list-performance-analysis-report-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-performance-analysis-report-recommendations.html)|[Get-PIPerformanceAnalysisReportRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIPerformanceAnalysisReportRecommendationList.html)|
 |[aws pi list-performance-analysis-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-performance-analysis-reports.html)|[Get-PIPerformanceAnalysisReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIPerformanceAnalysisReportList.html)|
 |[aws pi list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/list-tags-for-resource.html)|[Get-PIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-PIResourceTag.html)|
 |[aws pi tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pi/tag-resource.html)|[Add-PIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PIResourceTag.html)|

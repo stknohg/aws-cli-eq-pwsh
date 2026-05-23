@@ -1,6 +1,6 @@
 ---
 title: evs
-date: 2026-05-14
+date: 2026-05-23
 description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 |[aws evs delete-environment-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/delete-environment-connector.html)|[Remove-EVSEnvironmentConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVSEnvironmentConnector.html)|
 |[aws evs delete-environment-host](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/delete-environment-host.html)|[Remove-EVSEnvironmentHost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVSEnvironmentHost.html)|
 |[aws evs disassociate-eip-from-vlan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/disassociate-eip-from-vlan.html)|[Unregister-EVSEipFromVlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EVSEipFromVlan.html)|
+|[aws evs get-depot-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-depot-url.html)|[Get-EVSDepotUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSDepotUrl.html)|
 |[aws evs get-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-environment.html)|[Get-EVSEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironment.html)|
 |[aws evs get-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-versions.html)|[Get-EVSVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSVersion.html)|
 |[aws evs list-environment-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-environment-connectors.html)|[Get-EVSEnvironmentConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironmentConnectorList.html)|

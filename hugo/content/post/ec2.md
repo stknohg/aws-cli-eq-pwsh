@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-05-14
+date: 2026-05-23
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -353,6 +353,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-ipam-byoasn](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-byoasn.html)|[Get-EC2IpamByoasn](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamByoasn.html)|
 |[aws ec2 describe-ipam-external-resource-verification-tokens](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-external-resource-verification-tokens.html)|[Get-EC2IpamExternalResourceVerificationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamExternalResourceVerificationToken.html)|
 |[aws ec2 describe-ipam-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-policies.html)|[Get-EC2IpamPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPolicy.html)|
+|[aws ec2 describe-ipam-pool-allocations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-pool-allocations.html)|[Get-EC2IpamPoolAllocationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPoolAllocationDetail.html)|
 |[aws ec2 describe-ipam-pools](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-pools.html)|[Get-EC2IpamPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPool.html)|
 |[aws ec2 describe-ipam-prefix-list-resolver-targets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-prefix-list-resolver-targets.html)|[Get-EC2IpamPrefixListResolverTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPrefixListResolverTarget.html)|
 |[aws ec2 describe-ipam-prefix-list-resolvers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-ipam-prefix-list-resolvers.html)|[Get-EC2IpamPrefixListResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2IpamPrefixListResolver.html)|
@@ -644,6 +645,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 modify-ipam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam.html)|[Edit-EC2Ipam](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2Ipam.html)|
 |[aws ec2 modify-ipam-policy-allocation-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-policy-allocation-rules.html)|[Edit-EC2IpamPolicyAllocationRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamPolicyAllocationRule.html)|
 |[aws ec2 modify-ipam-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-pool.html)|[Edit-EC2IpamPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamPool.html)|
+|[aws ec2 modify-ipam-pool-allocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-pool-allocation.html)|[Edit-EC2IpamPoolAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamPoolAllocation.html)|
 |[aws ec2 modify-ipam-prefix-list-resolver](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-prefix-list-resolver.html)|[Edit-EC2IpamPrefixListResolver](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamPrefixListResolver.html)|
 |[aws ec2 modify-ipam-prefix-list-resolver-target](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-prefix-list-resolver-target.html)|[Edit-EC2IpamPrefixListResolverTarget](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamPrefixListResolverTarget.html)|
 |[aws ec2 modify-ipam-resource-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/modify-ipam-resource-cidr.html)|[Edit-EC2IpamResourceCidr](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-EC2IpamResourceCidr.html)|

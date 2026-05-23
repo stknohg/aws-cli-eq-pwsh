@@ -1,6 +1,6 @@
 ---
 title: payment-cryptography-data
-date: 2026-05-14
+date: 2026-05-23
 description: aws payment-cryptography-data (AWS Payment Cryptography Data Plane) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws payment-cryptography-data (AWS Payment Cryptography Data Plane)
 |[aws payment-cryptography-data decrypt-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/decrypt-data.html)|[Unprotect-PAYCDData](https://docs.aws.amazon.com/powershell/latest/reference/items/Unprotect-PAYCDData.html)|
 |[aws payment-cryptography-data encrypt-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/encrypt-data.html)|[Protect-PAYCDData](https://docs.aws.amazon.com/powershell/latest/reference/items/Protect-PAYCDData.html)|
 |[aws payment-cryptography-data generate-as2805-kek-validation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-as2805-kek-validation.html)|[New-PAYCDAs2805KekValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDAs2805KekValidation.html)|
+|[aws payment-cryptography-data generate-auth-request-cryptogram](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-auth-request-cryptogram.html)|[New-PAYCDAuthRequestCryptogram](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDAuthRequestCryptogram.html)|
 |[aws payment-cryptography-data generate-card-validation-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-card-validation-data.html)|[New-PAYCDCardValidationData](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDCardValidationData.html)|
 |[aws payment-cryptography-data generate-mac](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-mac.html)|[New-PAYCDMac](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDMac.html)|
 |[aws payment-cryptography-data generate-mac-emv-pin-change](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/payment-cryptography-data/generate-mac-emv-pin-change.html)|[New-PAYCDMacEmvPinChange](https://docs.aws.amazon.com/powershell/latest/reference/items/New-PAYCDMacEmvPinChange.html)|

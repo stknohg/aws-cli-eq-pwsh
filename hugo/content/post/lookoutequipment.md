@@ -1,6 +1,6 @@
 ---
 title: lookoutequipment
-date: 2026-05-14
+date: 2026-05-23
 description: aws lookoutequipment (Amazon Lookout for Equipment) command/cmdlet list.
 ---
 

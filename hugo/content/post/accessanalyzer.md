@@ -1,6 +1,6 @@
 ---
 title: accessanalyzer
-date: 2026-05-14
+date: 2026-05-23
 description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 ---
 
@@ -21,8 +21,10 @@ description: aws accessanalyzer (AWS IAM Access Analyzer) command/cmdlet list.
 |[aws accessanalyzer create-access-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-access-preview.html)|[New-IAMAAAccessPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAAccessPreview.html)|
 |[aws accessanalyzer create-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-analyzer.html)|[New-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAAnalyzer.html)|
 |[aws accessanalyzer create-archive-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-archive-rule.html)|[New-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAArchiveRule.html)|
+|[aws accessanalyzer create-service-linked-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/create-service-linked-analyzer.html)|[New-IAMAAServiceLinkedAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/New-IAMAAServiceLinkedAnalyzer.html)|
 |[aws accessanalyzer delete-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/delete-analyzer.html)|[Remove-IAMAAAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMAAAnalyzer.html)|
 |[aws accessanalyzer delete-archive-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/delete-archive-rule.html)|[Remove-IAMAAArchiveRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMAAArchiveRule.html)|
+|[aws accessanalyzer delete-service-linked-analyzer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/delete-service-linked-analyzer.html)|[Remove-IAMAAServiceLinkedAnalyzer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IAMAAServiceLinkedAnalyzer.html)|
 |[aws accessanalyzer generate-finding-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/generate-finding-recommendation.html)|[Start-IAMAAFindingRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IAMAAFindingRecommendation.html)|
 |[aws accessanalyzer get-access-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-access-preview.html)|[Get-IAMAAAccessPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAccessPreview.html)|
 |[aws accessanalyzer get-analyzed-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/accessanalyzer/get-analyzed-resource.html)|[Get-IAMAAAnalyzedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAAAnalyzedResource.html)|

@@ -1,6 +1,6 @@
 ---
 title: sustainability
-date: 2026-05-14
+date: 2026-05-23
 description: aws sustainability (AWS Sustainability) command/cmdlet list.
 ---
 

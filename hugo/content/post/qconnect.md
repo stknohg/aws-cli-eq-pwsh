@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2026-05-14
+date: 2026-05-23
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 
@@ -75,6 +75,7 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect list-message-template-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-message-template-versions.html)|[Get-QCMessageTemplateVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCMessageTemplateVersionList.html)|
 |[aws qconnect list-message-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-message-templates.html)|[Get-QCMessageTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCMessageTemplateList.html)|
 |[aws qconnect list-messages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-messages.html)|[Get-QCMessageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCMessageList.html)|
+|[aws qconnect list-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-models.html)|[Get-QCModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCModelList.html)|
 |[aws qconnect list-quick-responses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-quick-responses.html)|[Get-QCQuickResponseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCQuickResponseList.html)|
 |[aws qconnect list-spans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-spans.html)|[Get-QCSpanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCSpanList.html)|
 |[aws qconnect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-tags-for-resource.html)|[Get-QCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCResourceTag.html)|

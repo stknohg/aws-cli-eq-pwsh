@@ -1,6 +1,6 @@
 ---
 title: marketplace-discovery
-date: 2026-05-14
+date: 2026-05-23
 description: aws marketplace-discovery (AWS Marketplace Discovery) command/cmdlet list.
 ---
 

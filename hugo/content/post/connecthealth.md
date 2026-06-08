@@ -1,6 +1,6 @@
 ---
 title: connecthealth
-date: 2026-05-23
+date: 2026-06-08
 description: aws connecthealth (Amazon Connect Health) command/cmdlet list.
 ---
 

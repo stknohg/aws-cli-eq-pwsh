@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2026-05-23
+date: 2026-06-08
 description: aws customer-profiles (Amazon Connect Customer Profiles) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles add-profile-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/add-profile-key.html)|[Add-CPFProfileKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CPFProfileKey.html)|
 |[aws customer-profiles batch-get-calculated-attribute-for-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/batch-get-calculated-attribute-for-profile.html)|[Get-CPFGetCalculatedAttributeForProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFGetCalculatedAttributeForProfile.html)|
 |[aws customer-profiles batch-get-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/batch-get-profile.html)|[Get-CPFGetProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CPFGetProfile.html)|
+|[aws customer-profiles batch-put-profile-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/batch-put-profile-object.html)|[Write-CPFProfileObjectBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPFProfileObjectBatch.html)|
 |[aws customer-profiles create-calculated-attribute-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/create-calculated-attribute-definition.html)|[New-CPFCalculatedAttributeDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CPFCalculatedAttributeDefinition.html)|
 |[aws customer-profiles create-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/create-domain.html)|[New-CPFDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CPFDomain.html)|
 |[aws customer-profiles create-domain-layout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/create-domain-layout.html)|[New-CPFDomainLayout](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CPFDomainLayout.html)|

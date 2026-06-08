@@ -1,6 +1,6 @@
 ---
 title: iot-data
-date: 2026-05-23
+date: 2026-06-08
 description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 ---
 
@@ -15,10 +15,13 @@ description: aws iot-data (AWS IoT-Data) command/cmdlet list.
 |----|----|
 |[aws iot-data delete-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/delete-connection.html)||
 |[aws iot-data delete-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/delete-thing-shadow.html)||
+|[aws iot-data get-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-connection.html)||
 |[aws iot-data get-retained-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-retained-message.html)||
 |[aws iot-data get-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/get-thing-shadow.html)||
 |[aws iot-data list-named-shadows-for-thing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/list-named-shadows-for-thing.html)||
 |[aws iot-data list-retained-messages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/list-retained-messages.html)||
+|[aws iot-data list-subscriptions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/list-subscriptions.html)||
 |[aws iot-data publish](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/publish.html)||
+|[aws iot-data send-direct-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/send-direct-message.html)||
 |[aws iot-data update-thing-shadow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iot-data/update-thing-shadow.html)||
 

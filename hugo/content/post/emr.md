@@ -1,6 +1,6 @@
 ---
 title: emr
-date: 2026-05-23
+date: 2026-06-08
 description: aws emr (Amazon EMR) command/cmdlet list.
 ---
 
@@ -43,6 +43,8 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr get-managed-scaling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-managed-scaling-policy.html)|[Get-EMRManagedScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRManagedScalingPolicy.html)|
 |[aws emr get-on-cluster-app-ui-presigned-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-on-cluster-app-ui-presigned-url.html)|[Get-EMROnClusterAppUIPresignedURL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMROnClusterAppUIPresignedURL.html)|
 |[aws emr get-persistent-app-ui-presigned-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-persistent-app-ui-presigned-url.html)|[Get-EMRPersistentAppUIPresignedURL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRPersistentAppUIPresignedURL.html)|
+|[aws emr get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-session.html)|[Get-EMRSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSession.html)|
+|[aws emr get-session-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-session-endpoint.html)|[Get-EMRSessionEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSessionEndpoint.html)|
 |[aws emr get-studio-session-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/get-studio-session-mapping.html)|[Get-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMapping.html)|
 |[aws emr install-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/install-applications.html)||
 |[aws emr list-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-clusters.html)|[Get-EMRClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRClusterList.html)|
@@ -51,6 +53,7 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr list-notebook-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-notebook-executions.html)|[Get-EMRNotebookExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRNotebookExecutionList.html)|
 |[aws emr list-release-labels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-release-labels.html)|[Find-EMRReleaseLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-EMRReleaseLabel.html)|
 |[aws emr list-security-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-security-configurations.html)|[Get-EMRSecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSecurityConfigurationList.html)|
+|[aws emr list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-sessions.html)|[Get-EMRSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRSessionList.html)|
 |[aws emr list-steps](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-steps.html)|[Get-EMRStepList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStepList.html)|
 |[aws emr list-studio-session-mappings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-studio-session-mappings.html)|[Get-EMRStudioSessionMappingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioSessionMappingList.html)|
 |[aws emr list-studios](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/list-studios.html)|[Get-EMRStudioList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRStudioList.html)|
@@ -73,8 +76,10 @@ description: aws emr (Amazon EMR) command/cmdlet list.
 |[aws emr socks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/socks.html)||
 |[aws emr ssh](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/ssh.html)||
 |[aws emr start-notebook-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/start-notebook-execution.html)|[Start-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRNotebookExecution.html)|
+|[aws emr start-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/start-session.html)|[Start-EMRSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-EMRSession.html)|
 |[aws emr stop-notebook-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/stop-notebook-execution.html)|[Stop-EMRNotebookExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMRNotebookExecution.html)|
 |[aws emr terminate-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/terminate-clusters.html)||
+|[aws emr terminate-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/terminate-session.html)|[Stop-EMRSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EMRSession.html)|
 |[aws emr update-studio](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/update-studio.html)|[Update-EMRStudio](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMRStudio.html)|
 |[aws emr update-studio-session-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr/update-studio-session-mapping.html)|[Update-EMRStudioSessionMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMRStudioSessionMapping.html)|
 

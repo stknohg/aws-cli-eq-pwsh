@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2026-05-23
+date: 2026-06-08
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -61,6 +61,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup get-backup-vault-access-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-backup-vault-access-policy.html)|[Get-BAKBackupVaultAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultAccessPolicy.html)|
 |[aws backup get-backup-vault-notifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-backup-vault-notifications.html)|[Get-BAKBackupVaultNotification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVaultNotification.html)|
 |[aws backup get-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-legal-hold.html)|[Get-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKLegalHold.html)|
+|[aws backup get-pitr-malware-scan-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-pitr-malware-scan-results.html)|[Get-BAKPITRMalwareScanResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKPITRMalwareScanResult.html)|
 |[aws backup get-recovery-point-index-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-recovery-point-index-details.html)|[Get-BAKRecoveryPointIndexDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointIndexDetail.html)|
 |[aws backup get-recovery-point-restore-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-recovery-point-restore-metadata.html)|[Get-BAKRecoveryPointRestoreMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRecoveryPointRestoreMetadata.html)|
 |[aws backup get-restore-job-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-restore-job-metadata.html)|[Get-BAKRestoreJobMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreJobMetadata.html)|

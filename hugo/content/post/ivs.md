@@ -1,6 +1,6 @@
 ---
 title: ivs
-date: 2026-05-23
+date: 2026-06-08
 description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws ivs (Amazon Interactive Video Service) command/cmdlet list.
 |[aws ivs stop-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/stop-stream.html)|[Stop-IVSStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IVSStream.html)|
 |[aws ivs tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/tag-resource.html)|[Add-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IVSResourceTag.html)|
 |[aws ivs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/untag-resource.html)|[Remove-IVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IVSResourceTag.html)|
+|[aws ivs update-ad-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/update-ad-configuration.html)|[Update-IVSAdConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IVSAdConfiguration.html)|
 |[aws ivs update-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/update-channel.html)|[Update-IVSChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IVSChannel.html)|
 |[aws ivs update-playback-restriction-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs/update-playback-restriction-policy.html)|[Update-IVSPlaybackRestrictionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IVSPlaybackRestrictionPolicy.html)|
 

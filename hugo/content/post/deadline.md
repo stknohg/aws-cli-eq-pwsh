@@ -1,6 +1,6 @@
 ---
 title: deadline
-date: 2026-05-23
+date: 2026-06-08
 description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline delete-queue-fleet-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/delete-queue-fleet-association.html)|[Remove-ADCQueueFleetAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCQueueFleetAssociation.html)|
 |[aws deadline delete-queue-limit-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/delete-queue-limit-association.html)|[Remove-ADCQueueLimitAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCQueueLimitAssociation.html)|
 |[aws deadline delete-storage-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/delete-storage-profile.html)|[Remove-ADCStorageProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCStorageProfile.html)|
+|[aws deadline delete-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/delete-volume.html)|[Remove-ADCVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCVolume.html)|
 |[aws deadline delete-worker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/delete-worker.html)|[Remove-ADCWorker](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCWorker.html)|
 |[aws deadline disassociate-member-from-farm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/disassociate-member-from-farm.html)|[Remove-ADCMemberFromFarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCMemberFromFarm.html)|
 |[aws deadline disassociate-member-from-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/disassociate-member-from-fleet.html)|[Remove-ADCMemberFromFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ADCMemberFromFleet.html)|
@@ -81,6 +82,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline get-storage-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-storage-profile.html)|[Get-ADCStorageProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCStorageProfile.html)|
 |[aws deadline get-storage-profile-for-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-storage-profile-for-queue.html)|[Get-ADCStorageProfileForQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCStorageProfileForQueue.html)|
 |[aws deadline get-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-task.html)|[Get-ADCTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCTask.html)|
+|[aws deadline get-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-volume.html)|[Get-ADCVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCVolume.html)|
 |[aws deadline get-worker](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/get-worker.html)|[Get-ADCWorker](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCWorker.html)|
 |[aws deadline list-available-metered-products](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-available-metered-products.html)|[Get-ADCAvailableMeteredProductList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCAvailableMeteredProductList.html)|
 |[aws deadline list-budgets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-budgets.html)|[Get-ADCBudgetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCBudgetList.html)|
@@ -110,6 +112,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline list-storage-profiles-for-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-storage-profiles-for-queue.html)|[Get-ADCStorageProfilesForQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCStorageProfilesForQueueList.html)|
 |[aws deadline list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-tags-for-resource.html)|[Get-ADCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCResourceTag.html)|
 |[aws deadline list-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-tasks.html)|[Get-ADCTaskList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCTaskList.html)|
+|[aws deadline list-volumes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-volumes.html)|[Get-ADCVolumeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCVolumeList.html)|
 |[aws deadline list-workers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-workers.html)|[Get-ADCWorkerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCWorkerList.html)|
 |[aws deadline put-metered-product](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/put-metered-product.html)|[Write-ADCMeteredProduct](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ADCMeteredProduct.html)|
 |[aws deadline search-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/search-jobs.html)|[Search-ADCJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-ADCJob.html)|

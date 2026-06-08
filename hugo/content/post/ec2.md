@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-05-23
+date: 2026-06-08
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -78,6 +78,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 create-capacity-manager-data-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-manager-data-export.html)|[New-EC2CapacityManagerDataExport](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityManagerDataExport.html)|
 |[aws ec2 create-capacity-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation.html)|[Add-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2CapacityReservation.html)|
 |[aws ec2 create-capacity-reservation-by-splitting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation-by-splitting.html)|[New-EC2CapacityReservationBySplitting](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityReservationBySplitting.html)|
+|[aws ec2 create-capacity-reservation-cancellation-quote](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation-cancellation-quote.html)|[New-EC2CapacityReservationCancellationQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityReservationCancellationQuote.html)|
 |[aws ec2 create-capacity-reservation-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-capacity-reservation-fleet.html)|[New-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CapacityReservationFleet.html)|
 |[aws ec2 create-carrier-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-carrier-gateway.html)|[New-EC2CarrierGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2CarrierGateway.html)|
 |[aws ec2 create-client-vpn-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/create-client-vpn-endpoint.html)|[New-EC2ClientVpnEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EC2ClientVpnEndpoint.html)|
@@ -296,6 +297,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-capacity-blocks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-blocks.html)|[Get-EC2CapacityBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityBlock.html)|
 |[aws ec2 describe-capacity-manager-data-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-manager-data-exports.html)|[Get-EC2CapacityManagerDataExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityManagerDataExport.html)|
 |[aws ec2 describe-capacity-reservation-billing-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-billing-requests.html)|[Get-EC2CapacityReservationBillingRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationBillingRequest.html)|
+|[aws ec2 describe-capacity-reservation-cancellation-quotes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-cancellation-quotes.html)|[Get-EC2CapacityReservationCancellationQuoteDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationCancellationQuoteDetail.html)|
 |[aws ec2 describe-capacity-reservation-fleets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-fleets.html)|[Get-EC2CapacityReservationFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationFleet.html)|
 |[aws ec2 describe-capacity-reservation-topology](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservation-topology.html)|[Get-EC2CapacityReservationTopology](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservationTopology.html)|
 |[aws ec2 describe-capacity-reservations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-capacity-reservations.html)|[Get-EC2CapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2CapacityReservation.html)|

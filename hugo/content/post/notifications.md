@@ -1,6 +1,6 @@
 ---
 title: notifications
-date: 2026-05-23
+date: 2026-06-08
 description: aws notifications (AWS User Notifications) command/cmdlet list.
 ---
 

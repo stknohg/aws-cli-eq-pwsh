@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-05-23
+date: 2026-06-08
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.34.53 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.218 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.34.63 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.228 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -348,6 +348,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Rekognition](https://aws.amazon.com/rekognition/)|[rekognition]({{%relref "post/rekognition.md" %}})|REK||
 |[AWS re:Post Private](https://aws.amazon.com/repost-private/)|[repostspace]({{%relref "post/repostspace.md" %}})|RESP||
 |[AWS Resilience Hub](https://aws.amazon.com/resilience-hub/)|[resiliencehub]({{%relref "post/resiliencehub.md" %}})|RESH||
+|[AWS Resilience Hub](https://aws.amazon.com/resilience-hub/)|[resiliencehubv2]({{%relref "post/resiliencehubv2.md" %}})|RH2||
 |[AWS Resource Explorer](https://aws.amazon.com/resourceexplorer/)|[resource-explorer-2]({{%relref "post/resource-explorer-2.md" %}})|AREX||
 |[AWS Resource Groups](https://aws.amazon.com/)|[resource-groups]({{%relref "post/resource-groups.md" %}})|RG||
 |[AWS Resource Groups Tagging](https://aws.amazon.com/)|[resourcegroupstaggingapi]({{%relref "post/resourcegroupstaggingapi.md" %}})|RGT||
@@ -376,6 +377,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Geospatial ML with Amazon SageMaker](https://aws.amazon.com/sagemaker/geospatial/)|[sagemaker-geospatial]({{%relref "post/sagemaker-geospatial.md" %}})|SMGS||
 |[Amazon SageMaker Metrics Service](https://aws.amazon.com/sagemaker/)|[sagemaker-metrics]({{%relref "post/sagemaker-metrics.md" %}})|SMM||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
+|[Amazon SageMaker Job Runtime](https://aws.amazon.com/sagemaker/)|[sagemakerjobruntime]({{%relref "post/sagemakerjobruntime.md" %}})|SMJR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
 |[Amazon EventBridge Scheduler](https://aws.amazon.com/eventbridge/)|[scheduler]({{%relref "post/scheduler.md" %}})|SCH||
 |[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|SCHM||

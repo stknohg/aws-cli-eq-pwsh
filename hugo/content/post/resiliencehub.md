@@ -1,6 +1,6 @@
 ---
 title: resiliencehub
-date: 2026-05-23
+date: 2026-06-08
 description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 ---
 
@@ -59,6 +59,7 @@ description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehub list-sop-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-sop-recommendations.html)|[Get-RESHSopRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHSopRecommendationList.html)|
 |[aws resiliencehub list-suggested-resiliency-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-suggested-resiliency-policies.html)|[Get-RESHSuggestedResiliencyPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHSuggestedResiliencyPolicyList.html)|
 |[aws resiliencehub list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-tags-for-resource.html)|[Get-RESHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHResourceTag.html)|
+|[aws resiliencehub list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-tags-for-resource.html)|[Get-RH2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2ResourceTag.html)|
 |[aws resiliencehub list-test-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-test-recommendations.html)|[Get-RESHTestRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHTestRecommendationList.html)|
 |[aws resiliencehub list-unsupported-app-version-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/list-unsupported-app-version-resources.html)|[Get-RESHUnsupportedAppVersionResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RESHUnsupportedAppVersionResourceList.html)|
 |[aws resiliencehub publish-app-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/publish-app-version.html)|[Publish-RESHAppVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-RESHAppVersion.html)|
@@ -70,7 +71,9 @@ description: aws resiliencehub (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehub start-metrics-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/start-metrics-export.html)|[Start-RESHMetricsExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RESHMetricsExport.html)|
 |[aws resiliencehub start-resource-grouping-recommendation-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/start-resource-grouping-recommendation-task.html)|[Start-RESHResourceGroupingRecommendationTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RESHResourceGroupingRecommendationTask.html)|
 |[aws resiliencehub tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/tag-resource.html)|[Add-RESHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RESHResourceTag.html)|
+|[aws resiliencehub tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/tag-resource.html)|[Add-RH2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RH2ResourceTag.html)|
 |[aws resiliencehub untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/untag-resource.html)|[Remove-RESHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RESHResourceTag.html)|
+|[aws resiliencehub untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/untag-resource.html)|[Remove-RH2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RH2ResourceTag.html)|
 |[aws resiliencehub update-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/update-app.html)|[Update-RESHApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RESHApp.html)|
 |[aws resiliencehub update-app-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/update-app-version.html)|[Update-RESHAppVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RESHAppVersion.html)|
 |[aws resiliencehub update-app-version-app-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehub/update-app-version-app-component.html)|[Update-RESHAppVersionAppComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RESHAppVersionAppComponent.html)|

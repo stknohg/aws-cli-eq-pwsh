@@ -1,6 +1,6 @@
 ---
 title: waf-regional
-date: 2026-05-23
+date: 2026-06-08
 description: aws waf-regional (AWS WAF Classic Regional) command/cmdlet list.
 ---
 

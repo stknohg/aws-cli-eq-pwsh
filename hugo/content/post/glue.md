@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-05-23
+date: 2026-06-08
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -122,6 +122,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-crawler-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-crawler-metrics.html)|[Get-GLUECrawlerMetricList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerMetricList.html)|
 |[aws glue get-crawlers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-crawlers.html)|[Get-GLUECrawlerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerList.html)|
 |[aws glue get-custom-entity-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-custom-entity-type.html)|[Get-GLUECustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECustomEntityType.html)|
+|[aws glue get-dashboard-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-dashboard-url.html)|[Get-GLUEDashboardUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDashboardUrl.html)|
 |[aws glue get-data-catalog-encryption-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-catalog-encryption-settings.html)|[Get-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataCatalogEncryptionSetting.html)|
 |[aws glue get-data-quality-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-quality-model.html)|[Get-GLUEDataQualityModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityModel.html)|
 |[aws glue get-data-quality-model-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-quality-model-result.html)|[Get-GLUEDataQualityModelResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityModelResult.html)|
@@ -163,6 +164,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-security-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-security-configuration.html)|[Get-GLUESecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfiguration.html)|
 |[aws glue get-security-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-security-configurations.html)|[Get-GLUESecurityConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESecurityConfigurationList.html)|
 |[aws glue get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-session.html)|[Get-GLUESession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESession.html)|
+|[aws glue get-session-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-session-endpoint.html)|[Get-GLUESessionEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUESessionEndpoint.html)|
 |[aws glue get-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-statement.html)|[Get-GLUEStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEStatement.html)|
 |[aws glue get-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-table.html)|[Get-GLUETable](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETable.html)|
 |[aws glue get-table-optimizer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-table-optimizer.html)|[Get-GLUETableOptimizer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUETableOptimizer.html)|

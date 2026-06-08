@@ -1,6 +1,6 @@
 ---
 title: route53resolver
-date: 2026-05-23
+date: 2026-06-08
 description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 ---
 
@@ -17,6 +17,9 @@ description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 |[aws route53resolver associate-resolver-endpoint-ip-address](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/associate-resolver-endpoint-ip-address.html)|[Add-R53RResolverEndpointIpAddressAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53RResolverEndpointIpAddressAssociation.html)|
 |[aws route53resolver associate-resolver-query-log-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/associate-resolver-query-log-config.html)|[Add-R53RResolverQueryLogConfigAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53RResolverQueryLogConfigAssociation.html)|
 |[aws route53resolver associate-resolver-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/associate-resolver-rule.html)|[Add-R53RResolverRuleAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53RResolverRuleAssociation.html)|
+|[aws route53resolver batch-create-firewall-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/batch-create-firewall-rule.html)|[New-R53RFirewallRuleBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53RFirewallRuleBatch.html)|
+|[aws route53resolver batch-delete-firewall-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/batch-delete-firewall-rule.html)|[Remove-R53RFirewallRuleBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53RFirewallRuleBatch.html)|
+|[aws route53resolver batch-update-firewall-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/batch-update-firewall-rule.html)|[Update-R53RFirewallRuleBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53RFirewallRuleBatch.html)|
 |[aws route53resolver create-firewall-domain-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/create-firewall-domain-list.html)|[New-R53RFirewallDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53RFirewallDomainList.html)|
 |[aws route53resolver create-firewall-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/create-firewall-rule.html)|[New-R53RFirewallRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53RFirewallRule.html)|
 |[aws route53resolver create-firewall-rule-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/create-firewall-rule-group.html)|[New-R53RFirewallRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-R53RFirewallRuleGroup.html)|
@@ -56,6 +59,7 @@ description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 |[aws route53resolver list-firewall-domains](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-domains.html)|[Get-R53RFirewallDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallDomain.html)|
 |[aws route53resolver list-firewall-rule-group-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-group-associations.html)|[Get-R53RFirewallRuleGroupAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupAssociationList.html)|
 |[aws route53resolver list-firewall-rule-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-groups.html)|[Get-R53RFirewallRuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupList.html)|
+|[aws route53resolver list-firewall-rule-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-types.html)|[Get-R53RFirewallRuleTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleTypeList.html)|
 |[aws route53resolver list-firewall-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rules.html)|[Get-R53RFirewallRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleList.html)|
 |[aws route53resolver list-outpost-resolvers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-outpost-resolvers.html)|[Get-R53ROutpostResolverList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53ROutpostResolverList.html)|
 |[aws route53resolver list-resolver-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-resolver-configs.html)|[Get-R53RResolverConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RResolverConfigList.html)|

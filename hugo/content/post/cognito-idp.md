@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2026-05-23
+date: 2026-06-08
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -56,6 +56,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp create-user-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/create-user-pool.html)|[New-CGIPUserPool](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPUserPool.html)|
 |[aws cognito-idp create-user-pool-client](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/create-user-pool-client.html)|[New-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPUserPoolClient.html)|
 |[aws cognito-idp create-user-pool-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/create-user-pool-domain.html)|[New-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPUserPoolDomain.html)|
+|[aws cognito-idp create-user-pool-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/create-user-pool-replica.html)|[New-CGIPUserPoolReplica](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPUserPoolReplica.html)|
 |[aws cognito-idp delete-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-group.html)|[Remove-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPGroup.html)|
 |[aws cognito-idp delete-identity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-identity-provider.html)|[Remove-CGIPIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPIdentityProvider.html)|
 |[aws cognito-idp delete-managed-login-branding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-managed-login-branding.html)|[Remove-CGIPManagedLoginBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPManagedLoginBranding.html)|
@@ -67,6 +68,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp delete-user-pool-client](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-user-pool-client.html)|[Remove-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPoolClient.html)|
 |[aws cognito-idp delete-user-pool-client-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-user-pool-client-secret.html)|[Remove-CGIPUserPoolClientSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPoolClientSecret.html)|
 |[aws cognito-idp delete-user-pool-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-user-pool-domain.html)|[Remove-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPoolDomain.html)|
+|[aws cognito-idp delete-user-pool-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-user-pool-replica.html)|[Remove-CGIPUserPoolReplica](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserPoolReplica.html)|
 |[aws cognito-idp delete-web-authn-credential](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/delete-web-authn-credential.html)|[Remove-CGIPWebAuthnCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPWebAuthnCredential.html)|
 |[aws cognito-idp describe-identity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-identity-provider.html)|[Get-CGIPIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPIdentityProvider.html)|
 |[aws cognito-idp describe-managed-login-branding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-managed-login-branding.html)|[Get-CGIPManagedLoginBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPManagedLoginBranding.html)|
@@ -103,6 +105,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp list-user-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-user-import-jobs.html)|[Get-CGIPUserImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserImportJobList.html)|
 |[aws cognito-idp list-user-pool-client-secrets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-user-pool-client-secrets.html)|[Get-CGIPUserPoolClientSecretList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolClientSecretList.html)|
 |[aws cognito-idp list-user-pool-clients](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-user-pool-clients.html)|[Get-CGIPUserPoolClientList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolClientList.html)|
+|[aws cognito-idp list-user-pool-replicas](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-user-pool-replicas.html)|[Get-CGIPUserPoolReplicaList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolReplicaList.html)|
 |[aws cognito-idp list-user-pools](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-user-pools.html)|[Get-CGIPUserPoolList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolList.html)|
 |[aws cognito-idp list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-users.html)|[Get-CGIPUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserList.html)|
 |[aws cognito-idp list-users-in-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/list-users-in-group.html)|[Get-CGIPUsersInGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUsersInGroup.html)|
@@ -133,6 +136,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp update-user-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-user-pool.html)|[Update-CGIPUserPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPool.html)|
 |[aws cognito-idp update-user-pool-client](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-user-pool-client.html)|[Update-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPoolClient.html)|
 |[aws cognito-idp update-user-pool-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-user-pool-domain.html)|[Update-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPoolDomain.html)|
+|[aws cognito-idp update-user-pool-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-user-pool-replica.html)|[Update-CGIPUserPoolReplica](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserPoolReplica.html)|
 |[aws cognito-idp verify-software-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/verify-software-token.html)|[Test-CGIPSoftwareToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CGIPSoftwareToken.html)|
 |[aws cognito-idp verify-user-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/verify-user-attribute.html)|[Test-CGIPUserAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CGIPUserAttribute.html)|
 

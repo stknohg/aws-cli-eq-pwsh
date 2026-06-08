@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2026-05-23
+date: 2026-06-08
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -109,6 +109,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 put-email-identity-feedback-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-email-identity-feedback-attributes.html)|[Write-SES2EmailIdentityFeedbackAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2EmailIdentityFeedbackAttribute.html)|
 |[aws sesv2 put-email-identity-mail-from-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-email-identity-mail-from-attributes.html)|[Write-SES2EmailIdentityMailFromAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2EmailIdentityMailFromAttribute.html)|
 |[aws sesv2 put-suppressed-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-suppressed-destination.html)|[Write-SES2SuppressedDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2SuppressedDestination.html)|
+|[aws sesv2 put-tenant-suppression-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-tenant-suppression-attributes.html)|[Write-SES2TenantSuppressionAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2TenantSuppressionAttribute.html)|
 |[aws sesv2 send-bulk-email](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/send-bulk-email.html)|[Send-SES2BulkEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SES2BulkEmail.html)|
 |[aws sesv2 send-custom-verification-email](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/send-custom-verification-email.html)|[Send-SES2CustomVerificationEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SES2CustomVerificationEmail.html)|
 |[aws sesv2 send-email](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/send-email.html)|[Send-SES2Email](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SES2Email.html)|

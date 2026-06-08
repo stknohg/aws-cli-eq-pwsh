@@ -1,6 +1,6 @@
 ---
 title: compute-optimizer-automation
-date: 2026-05-23
+date: 2026-06-08
 description: aws compute-optimizer-automation (AWS Compute Optimizer Automation) command/cmdlet list.
 ---
 

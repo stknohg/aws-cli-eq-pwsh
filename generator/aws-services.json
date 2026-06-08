@@ -1973,6 +1973,12 @@
     "Url": "https://aws.amazon.com/resilience-hub/",
     "Note": ""
   },
+  "resiliencehubv2": {
+    "Prefix": "RH2",
+    "Name": "AWS Resilience Hub",
+    "Url": "https://aws.amazon.com/resilience-hub/",
+    "Note": ""
+  },
   "resource-explorer-2": {
     "Prefix": "AREX",
     "Name": "AWS Resource Explorer",
@@ -2138,6 +2144,12 @@
   "sagemaker-runtime": {
     "Prefix": "SMR",
     "Name": "Amazon SageMaker",
+    "Url": "https://aws.amazon.com/sagemaker/",
+    "Note": ""
+  },
+  "sagemakerjobruntime": {
+    "Prefix": "SMJR",
+    "Name": "Amazon SageMaker Job Runtime",
     "Url": "https://aws.amazon.com/sagemaker/",
     "Note": ""
   },

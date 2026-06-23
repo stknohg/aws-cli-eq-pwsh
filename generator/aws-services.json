@@ -23,6 +23,12 @@
     "Url": "https://aws.amazon.com/private-ca/",
     "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
   },
+  "agent-toolkit": {
+    "Prefix": "",
+    "Name": "-",
+    "Url": "",
+    "Note": "Commands to set up and manage AI coding agents with the Agent Toolkit for AWS"
+  },
   "aiops": {
     "Prefix": "AIOps",
     "Name": "Amazon AI Operations",
@@ -1340,6 +1346,18 @@
   "lambda": {
     "Prefix": "LM",
     "Name": "AWS Lambda",
+    "Url": "https://aws.amazon.com/lambda/",
+    "Note": ""
+  },
+  "lambda-core": {
+    "Prefix": "",
+    "Name": "AWS Lambda Core SDK",
+    "Url": "https://aws.amazon.com/lambda/",
+    "Note": ""
+  },
+  "lambda-microvms": {
+    "Prefix": "",
+    "Name": "AWS Lambda MicroVMs",
     "Url": "https://aws.amazon.com/lambda/",
     "Note": ""
   },

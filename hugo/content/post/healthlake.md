@@ -1,6 +1,6 @@
 ---
 title: healthlake
-date: 2026-06-08
+date: 2026-06-23
 description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 ---
 
@@ -26,4 +26,5 @@ description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 |[aws healthlake start-fhir-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/start-fhir-import-job.html)|[Start-AHLFHIRImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AHLFHIRImportJob.html)|
 |[aws healthlake tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/tag-resource.html)|[Add-AHLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AHLResourceTag.html)|
 |[aws healthlake untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/untag-resource.html)|[Remove-AHLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AHLResourceTag.html)|
+|[aws healthlake update-fhir-datastore](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/update-fhir-datastore.html)|[Update-AHLFHIRDatastore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AHLFHIRDatastore.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: workspaces-instances
-date: 2026-06-08
+date: 2026-06-23
 description: aws workspaces-instances (Amazon WorkSpaces Instances) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws workspaces-instances (Amazon WorkSpaces Instances) command/cmdl
 ### [Amazon WorkSpaces Instances](https://aws.amazon.com/workspaces/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/v5/reference/items/WorkspacesInstances_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/WorkspacesInstances_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

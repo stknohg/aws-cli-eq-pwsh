@@ -1,6 +1,6 @@
 ---
 title: interconnect
-date: 2026-06-08
+date: 2026-06-23
 description: aws interconnect (AWS Interconnect) command/cmdlet list.
 ---
 

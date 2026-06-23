@@ -1,6 +1,6 @@
 ---
 title: mq
-date: 2026-06-08
+date: 2026-06-23
 description: aws mq (Amazon MQ) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws mq (Amazon MQ) command/cmdlet list.
 |[aws mq describe-broker-instance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/describe-broker-instance-options.html)|[Get-MQBrokerInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQBrokerInstanceOption.html)|
 |[aws mq describe-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/describe-configuration.html)|[Get-MQConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQConfiguration.html)|
 |[aws mq describe-configuration-revision](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/describe-configuration-revision.html)|[Get-MQConfigurationRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQConfigurationRevision.html)|
+|[aws mq describe-shared-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/describe-shared-resources.html)|[Get-MQSharedResourceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQSharedResourceDetail.html)|
 |[aws mq describe-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/describe-user.html)|[Get-MQUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQUser.html)|
 |[aws mq list-brokers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/list-brokers.html)|[Get-MQBrokerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQBrokerList.html)|
 |[aws mq list-configuration-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mq/list-configuration-revisions.html)|[Get-MQConfigurationRevisionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MQConfigurationRevisionList.html)|

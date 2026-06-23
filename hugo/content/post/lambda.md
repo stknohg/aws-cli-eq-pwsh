@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2026-06-08
+date: 2026-06-23
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -70,6 +70,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda list-layers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-layers.html)|[Get-LMLayerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMLayerList.html)|
 |[aws lambda list-provisioned-concurrency-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-provisioned-concurrency-configs.html)|[Get-LMProvisionedConcurrencyConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMProvisionedConcurrencyConfigList.html)|
 |[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMResourceTag.html)|
+|[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LMVM2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMVM2Tag.html)|
 |[aws lambda list-versions-by-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-versions-by-function.html)|[Get-LMVersionsByFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMVersionsByFunction.html)|
 |[aws lambda publish-layer-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/publish-layer-version.html)|[Publish-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-LMLayerVersion.html)|
 |[aws lambda publish-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/publish-version.html)|[Publish-LMVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-LMVersion.html)|
@@ -87,7 +88,9 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda send-durable-execution-callback-success](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/send-durable-execution-callback-success.html)|[Send-LMDurableExecutionCallbackSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LMDurableExecutionCallbackSuccess.html)|
 |[aws lambda stop-durable-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/stop-durable-execution.html)|[Stop-LMDurableExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LMDurableExecution.html)|
 |[aws lambda tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/tag-resource.html)|[Add-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMResourceTag.html)|
+|[aws lambda tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/tag-resource.html)|[Add-LMVM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMVM2ResourceTag.html)|
 |[aws lambda untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/untag-resource.html)|[Remove-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMResourceTag.html)|
+|[aws lambda untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/untag-resource.html)|[Remove-LMVM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMVM2ResourceTag.html)|
 |[aws lambda update-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-alias.html)|[Update-LMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMAlias.html)|
 |[aws lambda update-capacity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-capacity-provider.html)|[Update-LMCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMCapacityProvider.html)|
 |[aws lambda update-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-code-signing-config.html)|[Update-LMCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMCodeSigningConfig.html)|

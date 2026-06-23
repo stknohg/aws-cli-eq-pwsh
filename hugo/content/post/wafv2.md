@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2026-06-08
+date: 2026-06-23
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 
@@ -41,6 +41,9 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 get-permission-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-permission-policy.html)|[Get-WAF2PermissionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2PermissionPolicy.html)|
 |[aws wafv2 get-rate-based-statement-managed-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-rate-based-statement-managed-keys.html)|[Get-WAF2RateBasedStatementManagedKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RateBasedStatementManagedKey.html)|
 |[aws wafv2 get-regex-pattern-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-regex-pattern-set.html)|[Get-WAF2RegexPatternSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RegexPatternSet.html)|
+|[aws wafv2 get-revenue-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-revenue-statistics.html)|[Get-WAF2RevenueStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RevenueStatistic.html)|
+|[aws wafv2 get-revenue-statistics-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-revenue-statistics-summary.html)|[Get-WAF2RevenueStatisticsSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RevenueStatisticsSummary.html)|
+|[aws wafv2 get-revenue-statistics-time-series](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-revenue-statistics-time-series.html)|[Get-WAF2RevenueStatisticsTimeSeries](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RevenueStatisticsTimeSeries.html)|
 |[aws wafv2 get-rule-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-rule-group.html)|[Get-WAF2RuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RuleGroup.html)|
 |[aws wafv2 get-sampled-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-sampled-requests.html)|[Get-WAF2SampledRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2SampledRequest.html)|
 |[aws wafv2 get-top-path-statistics-by-traffic](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-top-path-statistics-by-traffic.html)|[Get-WAF2TopPathStatisticsByTraffic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2TopPathStatisticsByTraffic.html)|
@@ -56,6 +59,7 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 list-regex-pattern-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-regex-pattern-sets.html)|[Get-WAF2RegexPatternSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RegexPatternSetList.html)|
 |[aws wafv2 list-resources-for-web-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-resources-for-web-acl.html)|[Get-WAF2ResourcesForWebACLList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ResourcesForWebACLList.html)|
 |[aws wafv2 list-rule-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-rule-groups.html)|[Get-WAF2RuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2RuleGroupList.html)|
+|[aws wafv2 list-settlement-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-settlement-records.html)|[Get-WAF2SettlementRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2SettlementRecordList.html)|
 |[aws wafv2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-tags-for-resource.html)|[Get-WAF2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ResourceTag.html)|
 |[aws wafv2 list-web-acls](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-web-acls.html)|[Get-WAF2WebACLsList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2WebACLsList.html)|
 |[aws wafv2 put-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/put-logging-configuration.html)|[Write-WAF2LoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-WAF2LoggingConfiguration.html)|

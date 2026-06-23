@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent-runtime
-date: 2026-06-08
+date: 2026-06-23
 description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdle
 |[aws bedrock-agent-runtime end-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/end-session.html)|[Close-BARSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Close-BARSession.html)|
 |[aws bedrock-agent-runtime generate-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/generate-query.html)|[Invoke-BARGenerateQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BARGenerateQuery.html)|
 |[aws bedrock-agent-runtime get-agent-memory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-agent-memory.html)|[Get-BARAgentMemory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARAgentMemory.html)|
+|[aws bedrock-agent-runtime get-document-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-document-content.html)|[Get-BARDocumentContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARDocumentContent.html)|
 |[aws bedrock-agent-runtime get-execution-flow-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-execution-flow-snapshot.html)|[Get-BARExecutionFlowSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARExecutionFlowSnapshot.html)|
 |[aws bedrock-agent-runtime get-flow-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-flow-execution.html)|[Get-BARFlowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARFlowExecution.html)|
 |[aws bedrock-agent-runtime get-invocation-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-invocation-step.html)|[Get-BARInvocationStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARInvocationStep.html)|

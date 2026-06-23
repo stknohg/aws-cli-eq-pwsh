@@ -1,6 +1,6 @@
 ---
 title: configure
-date: 2026-06-08
+date: 2026-06-23
 description: aws configure (-) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws configure (-) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws configure add-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/add-model.html)||
+|[aws configure agent-toolkit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/agent-toolkit.html)||
 |[aws configure export-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/export-credentials.html)||
 |[aws configure get](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/get.html)||
 |[aws configure import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/configure/import.html)||

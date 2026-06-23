@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2026-06-08
+date: 2026-06-23
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -44,6 +44,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs delete-retention-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-retention-policy.html)|[Remove-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLRetentionPolicy.html)|
 |[aws logs delete-scheduled-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-scheduled-query.html)|[Remove-CWLScheduledQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLScheduledQuery.html)|
 |[aws logs delete-subscription-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-subscription-filter.html)|[Remove-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLSubscriptionFilter.html)|
+|[aws logs delete-syslog-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-syslog-configuration.html)|[Remove-CWLSyslogConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLSyslogConfiguration.html)|
 |[aws logs delete-transformer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/delete-transformer.html)|[Remove-CWLTransformer](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWLTransformer.html)|
 |[aws logs describe-account-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-account-policies.html)|[Get-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAccountPolicy.html)|
 |[aws logs describe-configuration-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/describe-configuration-templates.html)|[Find-CWLConfigurationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-CWLConfigurationTemplate.html)|
@@ -91,6 +92,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs list-log-groups-for-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-log-groups-for-query.html)|[Get-CWLLogGroupsForQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLLogGroupsForQueryList.html)|
 |[aws logs list-scheduled-queries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-scheduled-queries.html)|[Get-CWLScheduledQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLScheduledQueryList.html)|
 |[aws logs list-sources-for-s3-table-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-sources-for-s3-table-integration.html)|[Get-CWLSourcesForS3TableIntegrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLSourcesForS3TableIntegrationList.html)|
+|[aws logs list-syslog-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-syslog-configurations.html)|[Get-CWLSyslogConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLSyslogConfigurationList.html)|
 |[aws logs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-tags-for-resource.html)|[Get-CWLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLResourceTag.html)|
 |[aws logs put-account-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-account-policy.html)|[Write-CWLAccountPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLAccountPolicy.html)|
 |[aws logs put-bearer-token-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-bearer-token-authentication.html)|[Write-CWLBearerTokenAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLBearerTokenAuthentication.html)|
@@ -109,6 +111,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-resource-policy.html)|[Write-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLResourcePolicy.html)|
 |[aws logs put-retention-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-retention-policy.html)|[Write-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLRetentionPolicy.html)|
 |[aws logs put-subscription-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-subscription-filter.html)|[Write-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLSubscriptionFilter.html)|
+|[aws logs put-syslog-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-syslog-configuration.html)|[Write-CWLSyslogConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLSyslogConfiguration.html)|
 |[aws logs put-transformer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-transformer.html)|[Write-CWLTransformer](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLTransformer.html)|
 |[aws logs start-live-tail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/start-live-tail.html)|[Start-CWLLiveTail](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLLiveTail.html)|
 |[aws logs start-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/start-query.html)|[Start-CWLQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CWLQuery.html)|

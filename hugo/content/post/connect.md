@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-06-08
+date: 2026-06-23
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -179,6 +179,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect get-current-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-current-metric-data.html)|[Get-CONNCurrentMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentMetricData.html)|
 |[aws connect get-current-user-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-current-user-data.html)|[Get-CONNCurrentUserData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentUserData.html)|
 |[aws connect get-effective-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-effective-hours-of-operations.html)|[Get-CONNEffectiveHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEffectiveHoursOfOperation.html)|
+|[aws connect get-evaluation-form-validation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-evaluation-form-validation.html)|[Get-CONNEvaluationFormValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEvaluationFormValidation.html)|
 |[aws connect get-federation-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-federation-token.html)|[Get-CONNFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFederationToken.html)|
 |[aws connect get-flow-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-flow-association.html)|[Get-CONNFlowAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNFlowAssociation.html)|
 |[aws connect get-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-metric-data.html)|[Get-CONNMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNMetricData.html)|
@@ -300,6 +301,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect start-contact-recording](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-contact-recording.html)|[Start-CONNContactRecording](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactRecording.html)|
 |[aws connect start-contact-streaming](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-contact-streaming.html)|[Start-CONNContactStreaming](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNContactStreaming.html)|
 |[aws connect start-email-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-email-contact.html)|[Start-CONNEmailContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNEmailContact.html)|
+|[aws connect start-evaluation-form-validation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-evaluation-form-validation.html)|[Start-CONNEvaluationFormValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNEvaluationFormValidation.html)|
 |[aws connect start-outbound-chat-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-outbound-chat-contact.html)|[Start-CONNOutboundChatContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNOutboundChatContact.html)|
 |[aws connect start-outbound-email-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-outbound-email-contact.html)|[Start-CONNOutboundEmailContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNOutboundEmailContact.html)|
 |[aws connect start-outbound-voice-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/start-outbound-voice-contact.html)|[Start-CONNOutboundVoiceContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CONNOutboundVoiceContact.html)|

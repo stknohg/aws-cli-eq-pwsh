@@ -1,6 +1,6 @@
 ---
 title: bcm-dashboards
-date: 2026-06-08
+date: 2026-06-23
 description: aws bcm-dashboards (AWS Billing and Cost Management Dashboards) command/cmdlet list.
 ---
 

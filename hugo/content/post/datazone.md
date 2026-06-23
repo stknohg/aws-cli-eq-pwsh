@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2026-06-08
+date: 2026-06-23
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -70,6 +70,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone delete-form-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-form-type.html)|[Remove-DZFormType](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZFormType.html)|
 |[aws datazone delete-glossary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-glossary.html)|[Remove-DZGlossary](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZGlossary.html)|
 |[aws datazone delete-glossary-term](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-glossary-term.html)|[Remove-DZGlossaryTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZGlossaryTerm.html)|
+|[aws datazone delete-lineage-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-lineage-event.html)|[Remove-DZLineageEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZLineageEvent.html)|
 |[aws datazone delete-listing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-listing.html)|[Remove-DZListing](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZListing.html)|
 |[aws datazone delete-notebook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-notebook.html)|[Remove-DZNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZNotebook.html)|
 |[aws datazone delete-project](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/delete-project.html)|[Remove-DZProject](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZProject.html)|

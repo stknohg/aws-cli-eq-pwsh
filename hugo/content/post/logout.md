@@ -1,6 +1,6 @@
 ---
 title: logout
-date: 2026-06-08
+date: 2026-06-23
 description: aws logout (-) command/cmdlet list.
 ---
 

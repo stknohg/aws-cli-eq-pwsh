@@ -1,6 +1,6 @@
 ---
 title: evs
-date: 2026-06-08
+date: 2026-06-23
 description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 ### [Amazon Elastic VMware Service](https://aws.amazon.com/evs/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/v4/reference/items/Evs_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Evs_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

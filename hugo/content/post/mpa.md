@@ -1,6 +1,6 @@
 ---
 title: mpa
-date: 2026-06-08
+date: 2026-06-23
 description: aws mpa (Multi-party approval for AWS Organizations) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws mpa (Multi-party approval for AWS Organizations) command/cmdlet
 ### [Multi-party approval for AWS Organizations](https://aws.amazon.com/organizations/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mpa/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/v4/reference/items/MPA_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/MPA_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

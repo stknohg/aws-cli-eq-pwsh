@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-06-08
+date: 2026-06-23
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -50,6 +50,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 associate-trunk-interface](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-trunk-interface.html)|[Register-EC2TrunkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2TrunkInterface.html)|
 |[aws ec2 associate-vpc-cidr-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/associate-vpc-cidr-block.html)|[Register-EC2VpcCidrBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-EC2VpcCidrBlock.html)|
 |[aws ec2 attach-classic-link-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/attach-classic-link-vpc.html)|[Add-EC2ClassicLinkVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2ClassicLinkVpc.html)|
+|[aws ec2 attach-image-watermark](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/attach-image-watermark.html)|[Mount-EC2ImageWatermark](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-EC2ImageWatermark.html)|
 |[aws ec2 attach-internet-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/attach-internet-gateway.html)|[Add-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2InternetGateway.html)|
 |[aws ec2 attach-network-interface](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/attach-network-interface.html)|[Add-EC2NetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EC2NetworkInterface.html)|
 |[aws ec2 attach-verified-access-trust-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/attach-verified-access-trust-provider.html)|[Mount-EC2VerifiedAccessTrustProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-EC2VerifiedAccessTrustProvider.html)|
@@ -469,6 +470,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 describe-vpn-connections](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-vpn-connections.html)|[Get-EC2VpnConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2VpnConnection.html)|
 |[aws ec2 describe-vpn-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/describe-vpn-gateways.html)|[Get-EC2VpnGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EC2VpnGateway.html)|
 |[aws ec2 detach-classic-link-vpc](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/detach-classic-link-vpc.html)|[Dismount-EC2ClassicLinkVpc](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2ClassicLinkVpc.html)|
+|[aws ec2 detach-image-watermark](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/detach-image-watermark.html)|[Dismount-EC2ImageWatermark](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2ImageWatermark.html)|
 |[aws ec2 detach-internet-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/detach-internet-gateway.html)|[Dismount-EC2InternetGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2InternetGateway.html)|
 |[aws ec2 detach-network-interface](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/detach-network-interface.html)|[Dismount-EC2NetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2NetworkInterface.html)|
 |[aws ec2 detach-verified-access-trust-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/detach-verified-access-trust-provider.html)|[Dismount-EC2VerifiedAccessTrustProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Dismount-EC2VerifiedAccessTrustProvider.html)|

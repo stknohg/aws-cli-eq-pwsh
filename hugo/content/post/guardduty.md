@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2026-06-08
+date: 2026-06-23
 description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty archive-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/archive-findings.html)|[Backup-GDFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Backup-GDFinding.html)|
 |[aws guardduty create-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/create-detector.html)|[New-GDDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDDetector.html)|
 |[aws guardduty create-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/create-filter.html)|[New-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDFilter.html)|
+|[aws guardduty create-investigation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/create-investigation.html)|[New-GDInvestigation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDInvestigation.html)|
 |[aws guardduty create-ip-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/create-ip-set.html)|[New-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDIPSet.html)|
 |[aws guardduty create-malware-protection-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/create-malware-protection-plan.html)|[New-GDMalwareProtectionPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDMalwareProtectionPlan.html)|
 |[aws guardduty create-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/create-members.html)|[New-GDMember](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GDMember.html)|
@@ -49,6 +50,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty get-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-filter.html)|[Get-GDFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilter.html)|
 |[aws guardduty get-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-findings.html)|[Get-GDFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFinding.html)|
 |[aws guardduty get-findings-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-findings-statistics.html)|[Get-GDFindingStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFindingStatistic.html)|
+|[aws guardduty get-investigation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-investigation.html)|[Get-GDInvestigation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvestigation.html)|
 |[aws guardduty get-invitations-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-invitations-count.html)|[Get-GDInvitationCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationCount.html)|
 |[aws guardduty get-ip-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-ip-set.html)|[Get-GDIPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSet.html)|
 |[aws guardduty get-malware-protection-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/get-malware-protection-plan.html)|[Get-GDMalwareProtectionPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareProtectionPlan.html)|
@@ -67,6 +69,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty list-detectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-detectors.html)|[Get-GDDetectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetectorList.html)|
 |[aws guardduty list-filters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-filters.html)|[Get-GDFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilterList.html)|
 |[aws guardduty list-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-findings.html)|[Get-GDFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFindingList.html)|
+|[aws guardduty list-investigations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-investigations.html)|[Get-GDInvestigationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvestigationList.html)|
 |[aws guardduty list-invitations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-invitations.html)|[Get-GDInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html)|
 |[aws guardduty list-ip-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-ip-sets.html)|[Get-GDIPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html)|
 |[aws guardduty list-malware-protection-plans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-malware-protection-plans.html)|[Get-GDMalwareProtectionPlanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDMalwareProtectionPlanList.html)|

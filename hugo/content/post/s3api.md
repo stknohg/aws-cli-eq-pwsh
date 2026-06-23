@@ -1,6 +1,6 @@
 ---
 title: s3api
-date: 2026-06-08
+date: 2026-06-23
 description: aws s3api (Amazon S3) command/cmdlet list.
 ---
 
@@ -37,6 +37,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api delete-bucket-tagging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-tagging.html)|[Remove-S3BucketTagging](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketTagging.html)|
 |[aws s3api delete-bucket-website](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket-website.html)|[Remove-S3BucketWebsite](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3BucketWebsite.html)|
 |[aws s3api delete-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-object.html)|[Remove-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3Object.html)|
+|[aws s3api delete-object-annotation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-object-annotation.html)|[Remove-S3ObjectAnnotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3ObjectAnnotation.html)|
 |[aws s3api delete-object-tagging](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-object-tagging.html)|[Remove-S3ObjectTagSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3ObjectTagSet.html)|
 |[aws s3api delete-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-objects.html)|[Remove-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3Object.html)|
 |[aws s3api delete-public-access-block](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-public-access-block.html)|[Remove-S3PublicAccessBlock](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3PublicAccessBlock.html)|
@@ -65,6 +66,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api get-bucket-website](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-bucket-website.html)|[Get-S3BucketWebsite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3BucketWebsite.html)|
 |[aws s3api get-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object.html)|[Read-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Read-S3Object.html)|
 |[aws s3api get-object-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-acl.html)|[Get-S3ObjectACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectACL.html)|
+|[aws s3api get-object-annotation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-annotation.html)|[Get-S3ObjectAnnotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectAnnotation.html)|
 |[aws s3api get-object-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-attributes.html)|[Get-S3ObjectAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectAttribute.html)|
 |[aws s3api get-object-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-legal-hold.html)|[Get-S3ObjectLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectLegalHold.html)|
 |[aws s3api get-object-lock-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/get-object-lock-configuration.html)|[Get-S3ObjectLockConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectLockConfiguration.html)|
@@ -81,6 +83,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api list-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-buckets.html)|[Get-S3Bucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3Bucket.html)|
 |[aws s3api list-directory-buckets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-directory-buckets.html)|[Get-S3DirectoryBucket](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3DirectoryBucket.html)|
 |[aws s3api list-multipart-uploads](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-multipart-uploads.html)|[Get-S3MultipartUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3MultipartUpload.html)|
+|[aws s3api list-object-annotations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-object-annotations.html)|[Get-S3ObjectAnnotationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectAnnotationList.html)|
 |[aws s3api list-object-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-object-versions.html)|[Get-S3Version](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3Version.html)|
 |[aws s3api list-objects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects.html)|[Get-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3Object.html)|
 |[aws s3api list-objects-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/list-objects-v2.html)|[Get-S3ObjectV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-S3ObjectV2.html)|
@@ -106,6 +109,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api put-bucket-website](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-bucket-website.html)|[Write-S3BucketWebsite](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3BucketWebsite.html)|
 |[aws s3api put-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object.html)|[Write-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3Object.html)|
 |[aws s3api put-object-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-acl.html)|[Set-S3ObjectACL](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-S3ObjectACL.html)|
+|[aws s3api put-object-annotation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-annotation.html)|[Write-S3ObjectAnnotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectAnnotation.html)|
 |[aws s3api put-object-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-legal-hold.html)|[Write-S3ObjectLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectLegalHold.html)|
 |[aws s3api put-object-lock-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-lock-configuration.html)|[Write-S3ObjectLockConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectLockConfiguration.html)|
 |[aws s3api put-object-retention](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/put-object-retention.html)|[Write-S3ObjectRetention](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-S3ObjectRetention.html)|
@@ -114,6 +118,7 @@ description: aws s3api (Amazon S3) command/cmdlet list.
 |[aws s3api rename-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/rename-object.html)|[Rename-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Rename-S3Object.html)|
 |[aws s3api restore-object](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/restore-object.html)|[Restore-S3Object](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-S3Object.html)|
 |[aws s3api select-object-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/select-object-content.html)|[Select-S3ObjectContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Select-S3ObjectContent.html)|
+|[aws s3api update-bucket-metadata-annotation-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-bucket-metadata-annotation-table-configuration.html)|[Update-S3BucketMetadataAnnotationTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3BucketMetadataAnnotationTableConfiguration.html)|
 |[aws s3api update-bucket-metadata-inventory-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-bucket-metadata-inventory-table-configuration.html)|[Update-S3BucketMetadataInventoryTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3BucketMetadataInventoryTableConfiguration.html)|
 |[aws s3api update-bucket-metadata-journal-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-bucket-metadata-journal-table-configuration.html)|[Update-S3BucketMetadataJournalTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3BucketMetadataJournalTableConfiguration.html)|
 |[aws s3api update-object-encryption](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/update-object-encryption.html)|[Update-S3ObjectEncryption](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3ObjectEncryption.html)|

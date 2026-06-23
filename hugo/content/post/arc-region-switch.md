@@ -1,6 +1,6 @@
 ---
 title: arc-region-switch
-date: 2026-06-08
+date: 2026-06-23
 description: aws arc-region-switch (Amazon Route 53 Application Recovery Controller) command/cmdlet list.
 ---
 

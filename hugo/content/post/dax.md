@@ -1,6 +1,6 @@
 ---
 title: dax
-date: 2026-06-08
+date: 2026-06-23
 description: aws dax (Amazon DynamoDB Accelerator) command/cmdlet list.
 ---
 

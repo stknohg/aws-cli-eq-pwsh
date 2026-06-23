@@ -1,6 +1,6 @@
 ---
 title: elementalinference
-date: 2026-06-08
+date: 2026-06-23
 description: aws elementalinference (AWS Elemental Inference) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent
-date: 2026-06-08
+date: 2026-06-23
 description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -36,6 +36,8 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent delete-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-knowledge-base.html)|[Remove-AABKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABKnowledgeBase.html)|
 |[aws bedrock-agent delete-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-knowledge-base-documents.html)|[Remove-AABKnowledgeBaseDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABKnowledgeBaseDocument.html)|
 |[aws bedrock-agent delete-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-prompt.html)|[Remove-AABPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABPrompt.html)|
+|[aws bedrock-agent delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-resource-policy.html)|[Remove-AABResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AABResourcePolicy.html)|
+|[aws bedrock-agent delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/delete-resource-policy.html)|[Remove-BACCResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACCResourcePolicy.html)|
 |[aws bedrock-agent disassociate-agent-collaborator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/disassociate-agent-collaborator.html)|[Unregister-AABAgentCollaborator](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-AABAgentCollaborator.html)|
 |[aws bedrock-agent disassociate-agent-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/disassociate-agent-knowledge-base.html)|[Unregister-AABAgentKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-AABAgentKnowledgeBase.html)|
 |[aws bedrock-agent get-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-agent.html)|[Get-AABAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgent.html)|
@@ -52,6 +54,8 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent get-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-knowledge-base.html)|[Get-AABKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBase.html)|
 |[aws bedrock-agent get-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-knowledge-base-documents.html)|[Get-AABKnowledgeBaseDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABKnowledgeBaseDocument.html)|
 |[aws bedrock-agent get-prompt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-prompt.html)|[Get-AABPrompt](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABPrompt.html)|
+|[aws bedrock-agent get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-resource-policy.html)|[Get-AABResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABResourcePolicy.html)|
+|[aws bedrock-agent get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/get-resource-policy.html)|[Get-BACCResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCResourcePolicy.html)|
 |[aws bedrock-agent ingest-knowledge-base-documents](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/ingest-knowledge-base-documents.html)|[Add-AABKnowledgeBaseDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AABKnowledgeBaseDocument.html)|
 |[aws bedrock-agent list-agent-action-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-agent-action-groups.html)|[Get-AABAgentActionGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgentActionGroupList.html)|
 |[aws bedrock-agent list-agent-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-agent-aliases.html)|[Get-AABAgentAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AABAgentAliasList.html)|
@@ -72,6 +76,8 @@ description: aws bedrock-agent (Agents for Amazon Bedrock) command/cmdlet list.
 |[aws bedrock-agent list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/list-tags-for-resource.html)|[Get-BARResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARResourceTag.html)|
 |[aws bedrock-agent prepare-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/prepare-agent.html)|[Initialize-AABAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-AABAgent.html)|
 |[aws bedrock-agent prepare-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/prepare-flow.html)|[Initialize-AABFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-AABFlow.html)|
+|[aws bedrock-agent put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/put-resource-policy.html)|[Write-AABResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AABResourcePolicy.html)|
+|[aws bedrock-agent put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/put-resource-policy.html)|[Write-BACCResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BACCResourcePolicy.html)|
 |[aws bedrock-agent start-ingestion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/start-ingestion-job.html)|[Start-AABIngestionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AABIngestionJob.html)|
 |[aws bedrock-agent stop-ingestion-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/stop-ingestion-job.html)|[Stop-AABIngestionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-AABIngestionJob.html)|
 |[aws bedrock-agent tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent/tag-resource.html)|[Add-AABResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AABResourceTag.html)|

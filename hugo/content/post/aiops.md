@@ -1,6 +1,6 @@
 ---
 title: aiops
-date: 2026-06-08
+date: 2026-06-23
 description: aws aiops (Amazon AI Operations) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws aiops (Amazon AI Operations) command/cmdlet list.
 ### [Amazon AI Operations](https://aws.amazon.com/what-is/aiops/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/aiops/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/v4/reference/items/AIOps_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/AIOps_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

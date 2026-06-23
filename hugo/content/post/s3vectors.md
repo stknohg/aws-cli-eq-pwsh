@@ -1,6 +1,6 @@
 ---
 title: s3vectors
-date: 2026-06-08
+date: 2026-06-23
 description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 ### [Amazon S3 Vectors](https://aws.amazon.com/s3/features/vectors/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/index.html)
-* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/v5/reference/items/S3Vectors_cmdlets.html)
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/S3Vectors_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

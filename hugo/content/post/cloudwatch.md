@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2026-06-08
+date: 2026-06-23
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws cloudwatch associate-dataset-kms-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/associate-dataset-kms-key.html)|[Add-CWDatasetKmsKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWDatasetKmsKey.html)|
 |[aws cloudwatch delete-alarm-mute-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-alarm-mute-rule.html)|[Remove-CWAlarmMuteRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAlarmMuteRule.html)|
 |[aws cloudwatch delete-alarms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-alarms.html)|[Remove-CWAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAlarm.html)|
 |[aws cloudwatch delete-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-anomaly-detector.html)|[Remove-CWAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAnomalyDetector.html)|
@@ -27,10 +28,12 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch describe-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-insight-rules.html)|[Get-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWInsightRule.html)|
 |[aws cloudwatch disable-alarm-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/disable-alarm-actions.html)|[Disable-CWAlarmAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CWAlarmAction.html)|
 |[aws cloudwatch disable-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/disable-insight-rules.html)|[Disable-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CWInsightRule.html)|
+|[aws cloudwatch disassociate-dataset-kms-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/disassociate-dataset-kms-key.html)|[Remove-CWDatasetKmsKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWDatasetKmsKey.html)|
 |[aws cloudwatch enable-alarm-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/enable-alarm-actions.html)|[Enable-CWAlarmAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CWAlarmAction.html)|
 |[aws cloudwatch enable-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/enable-insight-rules.html)|[Enable-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-CWInsightRule.html)|
 |[aws cloudwatch get-alarm-mute-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-alarm-mute-rule.html)|[Get-CWAlarmMuteRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmMuteRule.html)|
 |[aws cloudwatch get-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-dashboard.html)|[Get-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboard.html)|
+|[aws cloudwatch get-dataset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-dataset.html)|[Get-CWDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDataset.html)|
 |[aws cloudwatch get-insight-rule-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-insight-rule-report.html)|[Get-CWInsightRuleReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWInsightRuleReport.html)|
 |[aws cloudwatch get-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-data.html)|[Get-CWMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricData.html)|
 |[aws cloudwatch get-metric-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-statistics.html)|[Get-CWMetricStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStatistic.html)|

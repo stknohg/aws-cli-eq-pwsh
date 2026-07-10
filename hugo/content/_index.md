@@ -242,8 +242,8 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Key Management Service](https://aws.amazon.com/kms/)|[kms]({{%relref "post/kms.md" %}})|KMS||
 |[AWS Lake Formation](https://aws.amazon.com/lake-formation/)|[lakeformation]({{%relref "post/lakeformation.md" %}})|LKF||
 |[AWS Lambda](https://aws.amazon.com/lambda/)|[lambda]({{%relref "post/lambda.md" %}})|LM||
-|[AWS Lambda Core SDK](https://aws.amazon.com/lambda/)|[lambda-core]({{%relref "post/lambda-core.md" %}})|||
-|[AWS Lambda MicroVMs](https://aws.amazon.com/lambda/)|[lambda-microvms]({{%relref "post/lambda-microvms.md" %}})|||
+|[AWS Lambda Core SDK](https://aws.amazon.com/lambda/)|[lambda-core]({{%relref "post/lambda-core.md" %}})|LMC||
+|[AWS Lambda MicroVMs](https://aws.amazon.com/lambda/)|[lambda-microvms]({{%relref "post/lambda-microvms.md" %}})|LMVM2||
 |[AWS Launch Wizard](https://aws.amazon.com/launchwizard/)|[launch-wizard]({{%relref "post/launch-wizard.md" %}})|LWIZ||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-models]({{%relref "post/lex-models.md" %}})|LMB||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||

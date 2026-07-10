@@ -1781,6 +1781,12 @@
     "Url": "https://partnercentral.awspartner.com/",
     "Note": ""
   },
+  "partnercentral-revenue-measurement": {
+    "Prefix": "PCRM",
+    "Name": "AWS Partner Central Revenue Measurement API",
+    "Url": "https://partnercentral.awspartner.com/",
+    "Note": ""
+  },
   "partnercentral-selling": {
     "Prefix": "PC",
     "Name": "AWS Partner Central API for Selling",
@@ -2396,6 +2402,12 @@
   "support-app": {
     "Prefix": "SUP",
     "Name": "AWS Support App in Slack API",
+    "Url": "https://aws.amazon.com/premiumsupport/",
+    "Note": ""
+  },
+  "supportauthz": {
+    "Prefix": "SUPAZ",
+    "Name": "AWS Support authorization API",
     "Url": "https://aws.amazon.com/premiumsupport/",
     "Note": ""
   },

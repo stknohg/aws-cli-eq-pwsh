@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2026-06-23
+date: 2026-07-10
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -20,6 +20,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm create-activation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-activation.html)|[New-SSMActivation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMActivation.html)|
 |[aws ssm create-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-association.html)|[New-SSMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMAssociation.html)|
 |[aws ssm create-association-batch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-association-batch.html)|[New-SSMAssociationFromBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMAssociationFromBatch.html)|
+|[aws ssm create-cloud-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-cloud-connector.html)|[New-SSMCloudConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMCloudConnector.html)|
 |[aws ssm create-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-document.html)|[New-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMDocument.html)|
 |[aws ssm create-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-maintenance-window.html)|[New-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMMaintenanceWindow.html)|
 |[aws ssm create-ops-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-ops-item.html)|[New-SSMOpsItem](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMOpsItem.html)|
@@ -28,6 +29,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm create-resource-data-sync](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/create-resource-data-sync.html)|[New-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SSMResourceDataSync.html)|
 |[aws ssm delete-activation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-activation.html)|[Remove-SSMActivation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMActivation.html)|
 |[aws ssm delete-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-association.html)|[Remove-SSMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMAssociation.html)|
+|[aws ssm delete-cloud-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-cloud-connector.html)|[Remove-SSMCloudConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMCloudConnector.html)|
 |[aws ssm delete-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-document.html)|[Remove-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMDocument.html)|
 |[aws ssm delete-inventory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-inventory.html)|[Remove-SSMInventory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMInventory.html)|
 |[aws ssm delete-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-maintenance-window.html)|[Remove-SSMMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMMaintenanceWindow.html)|
@@ -79,6 +81,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm get-access-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-access-token.html)|[Get-SSMAccessToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAccessToken.html)|
 |[aws ssm get-automation-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-automation-execution.html)|[Get-SSMAutomationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAutomationExecution.html)|
 |[aws ssm get-calendar-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-calendar-state.html)|[Get-SSMCalendarState](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCalendarState.html)|
+|[aws ssm get-cloud-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-cloud-connector.html)|[Get-SSMCloudConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCloudConnector.html)|
 |[aws ssm get-command-invocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-command-invocation.html)|[Get-SSMCommandInvocationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommandInvocationDetail.html)|
 |[aws ssm get-connection-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-connection-status.html)|[Get-SSMConnectionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMConnectionStatus.html)|
 |[aws ssm get-default-patch-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/get-default-patch-baseline.html)|[Get-SSMDefaultPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMDefaultPatchBaseline.html)|
@@ -106,6 +109,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm label-parameter-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/label-parameter-version.html)|[Set-SSMParameterVersionLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SSMParameterVersionLabel.html)|
 |[aws ssm list-association-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-association-versions.html)|[Get-SSMAssociationVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAssociationVersionList.html)|
 |[aws ssm list-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-associations.html)|[Get-SSMAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMAssociationList.html)|
+|[aws ssm list-cloud-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-cloud-connectors.html)|[Get-SSMCloudConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCloudConnectorList.html)|
 |[aws ssm list-command-invocations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-command-invocations.html)|[Get-SSMCommandInvocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommandInvocation.html)|
 |[aws ssm list-commands](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-commands.html)|[Get-SSMCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMCommand.html)|
 |[aws ssm list-compliance-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/list-compliance-items.html)|[Get-SSMComplianceItemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SSMComplianceItemList.html)|
@@ -147,6 +151,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm unlabel-parameter-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/unlabel-parameter-version.html)|[Reset-SSMParameterVersionLabel](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-SSMParameterVersionLabel.html)|
 |[aws ssm update-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-association.html)|[Update-SSMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMAssociation.html)|
 |[aws ssm update-association-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-association-status.html)|[Update-SSMAssociationStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMAssociationStatus.html)|
+|[aws ssm update-cloud-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-cloud-connector.html)|[Update-SSMCloudConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMCloudConnector.html)|
 |[aws ssm update-document](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-document.html)|[Update-SSMDocument](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocument.html)|
 |[aws ssm update-document-default-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-document-default-version.html)|[Update-SSMDocumentDefaultVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocumentDefaultVersion.html)|
 |[aws ssm update-document-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-document-metadata.html)|[Update-SSMDocumentMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMDocumentMetadata.html)|
@@ -159,4 +164,5 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm update-patch-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-patch-baseline.html)|[Update-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMPatchBaseline.html)|
 |[aws ssm update-resource-data-sync](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-resource-data-sync.html)|[Update-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMResourceDataSync.html)|
 |[aws ssm update-service-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/update-service-setting.html)|[Update-SSMServiceSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SSMServiceSetting.html)|
+|[aws ssm validate-cloud-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/validate-cloud-connector.html)|[Test-SSMCloudConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-SSMCloudConnector.html)|
 

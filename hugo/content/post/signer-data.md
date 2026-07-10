@@ -1,6 +1,6 @@
 ---
 title: signer-data
-date: 2026-06-23
+date: 2026-07-10
 description: aws signer-data (AWS Signer Data Plane) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: eks
-date: 2026-06-23
+date: 2026-07-10
 description: aws eks (Amazon Elastic Container Service for Kubernetes) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws eks (Amazon Elastic Container Service for Kubernetes) command/c
 |[aws eks associate-access-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/associate-access-policy.html)|[Add-EKSAccessPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSAccessPolicy.html)|
 |[aws eks associate-encryption-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/associate-encryption-config.html)|[Add-EKSEncryptionConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSEncryptionConfig.html)|
 |[aws eks associate-identity-provider-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/associate-identity-provider-config.html)|[Add-EKSIdentityProviderConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EKSIdentityProviderConfig.html)|
+|[aws eks cancel-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/cancel-update.html)|[Stop-EKSUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EKSUpdate.html)|
 |[aws eks create-access-entry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-access-entry.html)|[New-EKSAccessEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSAccessEntry.html)|
 |[aws eks create-addon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-addon.html)|[New-EKSAddon](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSAddon.html)|
 |[aws eks create-capability](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eks/create-capability.html)|[New-EKSCapability](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EKSCapability.html)|

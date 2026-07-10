@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2026-06-23
+date: 2026-07-10
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 

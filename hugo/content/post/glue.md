@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-06-23
+date: 2026-07-10
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -278,6 +278,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/tag-resource.html)|[Add-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-GLUEResourceTag.html)|
 |[aws glue test-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/test-connection.html)|[Test-GLUEConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-GLUEConnection.html)|
 |[aws glue untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/untag-resource.html)|[Remove-GLUEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GLUEResourceTag.html)|
+|[aws glue update-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-asset.html)|[Update-GLUEAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEAsset.html)|
 |[aws glue update-blueprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-blueprint.html)|[Update-GLUEBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEBlueprint.html)|
 |[aws glue update-catalog](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-catalog.html)|[Update-GLUECatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUECatalog.html)|
 |[aws glue update-classifier](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/update-classifier.html)|[Update-GLUEClassifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-GLUEClassifier.html)|

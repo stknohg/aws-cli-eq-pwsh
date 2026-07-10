@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2026-06-23
+date: 2026-07-10
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -72,9 +72,11 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch get-domain-maintenance-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-domain-maintenance-status.html)|[Get-OSDomainMaintenanceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainMaintenanceStatus.html)|
 |[aws opensearch get-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-index.html)|[Get-OSSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSSIndex.html)|
 |[aws opensearch get-index](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-index.html)|[Get-OSIndex](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSIndex.html)|
+|[aws opensearch get-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-migration.html)|[Get-OSMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSMigration.html)|
 |[aws opensearch get-package-version-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-package-version-history.html)|[Get-OSPackageVersionHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSPackageVersionHistory.html)|
 |[aws opensearch get-upgrade-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-upgrade-history.html)|[Get-OSUpgradeHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSUpgradeHistory.html)|
 |[aws opensearch get-upgrade-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/get-upgrade-status.html)|[Get-OSUpgradeStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSUpgradeStatus.html)|
+|[aws opensearch insight-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/insight-feedback.html)|[Send-OSInsightFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-OSInsightFeedback.html)|
 |[aws opensearch list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-applications.html)|[Get-OSApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSApplicationList.html)|
 |[aws opensearch list-data-source-attachments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-data-source-attachments.html)|[Get-OSDataSourceAttachmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDataSourceAttachmentList.html)|
 |[aws opensearch list-data-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-data-sources.html)|[Get-OSDataSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDataSourceList.html)|
@@ -84,6 +86,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch list-domains-for-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-domains-for-package.html)|[Get-OSDomainsForPackageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSDomainsForPackageList.html)|
 |[aws opensearch list-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-insights.html)|[Get-OSInsightList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInsightList.html)|
 |[aws opensearch list-instance-type-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-instance-type-details.html)|[Get-OSInstanceTypeDetailList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSInstanceTypeDetailList.html)|
+|[aws opensearch list-migrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-migrations.html)|[Get-OSMigrationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSMigrationList.html)|
 |[aws opensearch list-packages-for-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-packages-for-domain.html)|[Get-OSPackagesForDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSPackagesForDomainList.html)|
 |[aws opensearch list-scheduled-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-scheduled-actions.html)|[Get-OSScheduledActionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSScheduledActionList.html)|
 |[aws opensearch list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/list-tags.html)|[Get-OSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OSResourceTag.html)|
@@ -100,6 +103,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch revoke-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/revoke-vpc-endpoint-access.html)|[Revoke-OSVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-OSVpcEndpointAccess.html)|
 |[aws opensearch rollback-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/rollback-service-software-update.html)|[Undo-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-OSServiceSoftwareUpdate.html)|
 |[aws opensearch start-domain-maintenance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-domain-maintenance.html)|[Start-OSDomainMaintenance](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSDomainMaintenance.html)|
+|[aws opensearch start-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-migration.html)|[Start-OSMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSMigration.html)|
 |[aws opensearch start-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-service-software-update.html)|[Start-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSServiceSoftwareUpdate.html)|
 |[aws opensearch update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-application.html)|[Update-OSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSApplication.html)|
 |[aws opensearch update-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-data-source.html)|[Update-OSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDataSource.html)|

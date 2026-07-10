@@ -1,6 +1,6 @@
 ---
 title: route53globalresolver
-date: 2026-06-23
+date: 2026-07-10
 description: aws route53globalresolver (Amazon Route 53 Global Resolver) command/cmdlet list.
 ---
 
@@ -50,6 +50,7 @@ description: aws route53globalresolver (Amazon Route 53 Global Resolver) command
 |[aws route53globalresolver list-global-resolvers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/list-global-resolvers.html)|[Get-R53GRGlobalResolverList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GRGlobalResolverList.html)|
 |[aws route53globalresolver list-hosted-zone-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/list-hosted-zone-associations.html)|[Get-R53GRHostedZoneAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GRHostedZoneAssociationList.html)|
 |[aws route53globalresolver list-managed-firewall-domain-lists](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/list-managed-firewall-domain-lists.html)|[Get-R53GRManagedFirewallDomainListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GRManagedFirewallDomainListList.html)|
+|[aws route53globalresolver list-shared-dns-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/list-shared-dns-views.html)|[Get-R53GRSharedDNSViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GRSharedDNSViewList.html)|
 |[aws route53globalresolver list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/list-tags-for-resource.html)|[Get-R53GRResourceTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53GRResourceTagList.html)|
 |[aws route53globalresolver tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/tag-resource.html)|[Add-R53GRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53GRResourceTag.html)|
 |[aws route53globalresolver untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53globalresolver/untag-resource.html)|[Remove-R53GRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53GRResourceTag.html)|

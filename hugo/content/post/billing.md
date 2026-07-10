@@ -1,6 +1,6 @@
 ---
 title: billing
-date: 2026-06-23
+date: 2026-07-10
 description: aws billing (AWS Billing) command/cmdlet list.
 ---
 
@@ -17,7 +17,10 @@ description: aws billing (AWS Billing) command/cmdlet list.
 |[aws billing create-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/create-billing-view.html)|[New-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AWSBBillingView.html)|
 |[aws billing delete-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/delete-billing-view.html)|[Remove-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBBillingView.html)|
 |[aws billing disassociate-source-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/disassociate-source-views.html)|[Remove-AWSBSourceView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBSourceView.html)|
+|[aws billing get-billing-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-billing-preferences.html)|[Get-AWSBBillingPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingPreference.html)|
 |[aws billing get-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-billing-view.html)|[Get-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingView.html)|
+|[aws billing get-credit-allocation-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-credit-allocation-history.html)|[Get-AWSBCreditAllocationHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBCreditAllocationHistory.html)|
+|[aws billing get-credits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-credits.html)|[Get-AWSBCredit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBCredit.html)|
 |[aws billing get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-resource-policy.html)|[Get-BCMDResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDResourcePolicy.html)|
 |[aws billing get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-resource-policy.html)|[Get-AWSBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBResourcePolicy.html)|
 |[aws billing list-billing-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-billing-views.html)|[Get-AWSBBillingViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingViewList.html)|
@@ -26,6 +29,7 @@ description: aws billing (AWS Billing) command/cmdlet list.
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-BCMDEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDEResourceTag.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-AWSBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBResourceTag.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCResourceTag.html)|
+|[aws billing redeem-credits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/redeem-credits.html)|[Invoke-AWSBCreditRedemption](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSBCreditRedemption.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-BCMDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BCMDResourceTag.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-BCMDEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BCMDEResourceTag.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-AWSBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AWSBResourceTag.html)|
@@ -34,5 +38,6 @@ description: aws billing (AWS Billing) command/cmdlet list.
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-BCMDEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BCMDEResourceTag.html)|
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-AWSBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBResourceTag.html)|
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ABCResourceTag.html)|
+|[aws billing update-billing-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/update-billing-preferences.html)|[Update-AWSBBillingPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AWSBBillingPreference.html)|
 |[aws billing update-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/update-billing-view.html)|[Update-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AWSBBillingView.html)|
 

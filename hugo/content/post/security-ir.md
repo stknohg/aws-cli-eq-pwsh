@@ -1,6 +1,6 @@
 ---
 title: security-ir
-date: 2026-06-23
+date: 2026-07-10
 description: aws security-ir (AWS Security Incident Response) command/cmdlet list.
 ---
 
@@ -9,7 +9,7 @@ description: aws security-ir (AWS Security Incident Response) command/cmdlet lis
 ### [AWS Security Incident Response](https://aws.amazon.com/solutions/cloud-foundations/capabilities/security-incident-response/)
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/SecurityIR_cmdlets.html)
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|

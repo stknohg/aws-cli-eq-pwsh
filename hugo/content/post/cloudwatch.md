@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2026-06-23
+date: 2026-07-10
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch put-composite-alarm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-composite-alarm.html)|[Write-CWCompositeAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWCompositeAlarm.html)|
 |[aws cloudwatch put-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-dashboard.html)|[Write-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWDashboard.html)|
 |[aws cloudwatch put-insight-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-insight-rule.html)|[Write-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWInsightRule.html)|
+|[aws cloudwatch put-log-alarm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-log-alarm.html)|[Write-CWLogAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLogAlarm.html)|
 |[aws cloudwatch put-managed-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-managed-insight-rules.html)|[Write-CWManagedInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWManagedInsightRule.html)|
 |[aws cloudwatch put-metric-alarm](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-metric-alarm.html)|[Write-CWMetricAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricAlarm.html)|
 |[aws cloudwatch put-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/put-metric-data.html)|[Write-CWMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWMetricData.html)|

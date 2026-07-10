@@ -1,6 +1,6 @@
 ---
 title: rekognition
-date: 2026-06-23
+date: 2026-07-10
 description: aws rekognition (Amazon Rekognition) command/cmdlet list.
 ---
 

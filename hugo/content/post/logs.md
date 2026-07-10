@@ -1,6 +1,6 @@
 ---
 title: logs
-date: 2026-06-23
+date: 2026-07-10
 description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 ---
 
@@ -83,6 +83,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs get-query-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-query-results.html)|[Get-CWLQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLQueryResult.html)|
 |[aws logs get-scheduled-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-scheduled-query.html)|[Get-CWLScheduledQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLScheduledQuery.html)|
 |[aws logs get-scheduled-query-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-scheduled-query-history.html)|[Get-CWLScheduledQueryHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLScheduledQueryHistory.html)|
+|[aws logs get-storage-tier-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-storage-tier-policy.html)|[Get-CWLStorageTierPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLStorageTierPolicy.html)|
 |[aws logs get-transformer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/get-transformer.html)|[Get-CWLTransformer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLTransformer.html)|
 |[aws logs list-aggregate-log-group-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-aggregate-log-group-summaries.html)|[Get-CWLAggregateLogGroupSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAggregateLogGroupSummaryList.html)|
 |[aws logs list-anomalies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/list-anomalies.html)|[Get-CWLAnomalyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWLAnomalyList.html)|
@@ -110,6 +111,7 @@ description: aws logs (Amazon CloudWatch Logs) command/cmdlet list.
 |[aws logs put-query-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-query-definition.html)|[Write-CWLQueryDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLQueryDefinition.html)|
 |[aws logs put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-resource-policy.html)|[Write-CWLResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLResourcePolicy.html)|
 |[aws logs put-retention-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-retention-policy.html)|[Write-CWLRetentionPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLRetentionPolicy.html)|
+|[aws logs put-storage-tier-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-storage-tier-policy.html)|[Write-CWLStorageTierPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLStorageTierPolicy.html)|
 |[aws logs put-subscription-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-subscription-filter.html)|[Write-CWLSubscriptionFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLSubscriptionFilter.html)|
 |[aws logs put-syslog-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-syslog-configuration.html)|[Write-CWLSyslogConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLSyslogConfiguration.html)|
 |[aws logs put-transformer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/logs/put-transformer.html)|[Write-CWLTransformer](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CWLTransformer.html)|

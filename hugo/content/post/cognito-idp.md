@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2026-06-23
+date: 2026-07-10
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -87,6 +87,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp get-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-group.html)|[Get-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPGroup.html)|
 |[aws cognito-idp get-identity-provider-by-identifier](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-identity-provider-by-identifier.html)|[Get-CGIPIdentityProviderByIdentifier](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPIdentityProviderByIdentifier.html)|
 |[aws cognito-idp get-log-delivery-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-log-delivery-configuration.html)|[Get-CGIPLogDeliveryConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPLogDeliveryConfiguration.html)|
+|[aws cognito-idp get-provisioned-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-provisioned-limit.html)|[Get-CGIPProvisionedLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPProvisionedLimit.html)|
 |[aws cognito-idp get-signing-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-signing-certificate.html)|[Get-CGIPSigningCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPSigningCertificate.html)|
 |[aws cognito-idp get-tokens-from-refresh-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-tokens-from-refresh-token.html)|[Get-CGIPTokensFromRefreshToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPTokensFromRefreshToken.html)|
 |[aws cognito-idp get-ui-customization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-ui-customization.html)|[Get-CGIPUICustomization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUICustomization.html)|
@@ -130,6 +131,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp update-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-group.html)|[Update-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPGroup.html)|
 |[aws cognito-idp update-identity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-identity-provider.html)|[Update-CGIPIdentityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPIdentityProvider.html)|
 |[aws cognito-idp update-managed-login-branding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-managed-login-branding.html)|[Update-CGIPManagedLoginBranding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPManagedLoginBranding.html)|
+|[aws cognito-idp update-provisioned-limit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-provisioned-limit.html)|[Update-CGIPProvisionedLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPProvisionedLimit.html)|
 |[aws cognito-idp update-resource-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-resource-server.html)|[Update-CGIPResourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPResourceServer.html)|
 |[aws cognito-idp update-terms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-terms.html)|[Update-CGIPTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPTerm.html)|
 |[aws cognito-idp update-user-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/update-user-attributes.html)|[Update-CGIPUserAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CGIPUserAttribute.html)|

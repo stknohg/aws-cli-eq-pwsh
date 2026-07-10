@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-06-23
+date: 2026-07-10
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.35.10 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.240 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.35.20 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.250 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -216,8 +216,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS IoT Jobs](https://aws.amazon.com/iot/)|[iot-jobs-data]({{%relref "post/iot-jobs-data.md" %}})|IOTJ||
 |[Managed integrations for AWS IoT Device Management](https://aws.amazon.com/iot-device-management/)|[iot-managed-integrations]({{%relref "post/iot-managed-integrations.md" %}})|IOTMI||
 |[AWS IoT Core Device Advisor](https://aws.amazon.com/iot/)|[iotdeviceadvisor]({{%relref "post/iotdeviceadvisor.md" %}})|IOTDA||
-|[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents]({{%relref "post/iotevents.md" %}})|IOTE||
-|[AWS IoT Events](https://aws.amazon.com/iot-events/)|[iotevents-data]({{%relref "post/iotevents-data.md" %}})|IOTED||
 |[AWS IoT FleetWise](https://aws.amazon.com/iot-fleetwise/)|[iotfleetwise]({{%relref "post/iotfleetwise.md" %}})|IFW||
 |[AWS IoT Secure Tunneling](https://docs.aws.amazon.com/iot/latest/developerguide/secure-tunneling.html)|[iotsecuretunneling]({{%relref "post/iotsecuretunneling.md" %}})|IOTST||
 |[Amazon IoT SiteWise](https://aws.amazon.com/iot-sitewise/)|[iotsitewise]({{%relref "post/iotsitewise.md" %}})|IOTSW||
@@ -315,10 +313,10 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
 |[Amazon OpenSearch Ingestion](https://aws.amazon.com/opensearch-service/features/integration/)|[osis]({{%relref "post/osis.md" %}})|OSIS||
 |[AWS Outposts](https://aws.amazon.com/outposts/)|[outposts]({{%relref "post/outposts.md" %}})|OUTP||
-|[AWS Panorama](https://aws.amazon.com/panorama/)|[panorama]({{%relref "post/panorama.md" %}})|PAN||
 |[AWS Partner Central Account Service](https://partnercentral.awspartner.com/)|[partnercentral-account]({{%relref "post/partnercentral-account.md" %}})|PCAA||
 |[AWS Partner Central Benefits Service](https://partnercentral.awspartner.com/)|[partnercentral-benefits]({{%relref "post/partnercentral-benefits.md" %}})|PCB||
 |[AWS Partner Central Channel Service](https://partnercentral.awspartner.com/)|[partnercentral-channel]({{%relref "post/partnercentral-channel.md" %}})|PCC||
+|[AWS Partner Central Revenue Measurement API](https://partnercentral.awspartner.com/)|[partnercentral-revenue-measurement]({{%relref "post/partnercentral-revenue-measurement.md" %}})|PCRM||
 |[AWS Partner Central API for Selling](https://partnercentral.awspartner.com/)|[partnercentral-selling]({{%relref "post/partnercentral-selling.md" %}})|PC||
 |[AWS Payment Cryptography Control Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography]({{%relref "post/payment-cryptography.md" %}})|PAYCC||
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
@@ -402,7 +400,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Signer Data Plane](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer-data]({{%relref "post/signer-data.md" %}})|SGND||
 |[AWS Sign-In](https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html)|[signin]({{%relref "post/signin.md" %}})|AMSP||
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[simpledbv2]({{%relref "post/simpledbv2.md" %}})|SDBV2|v2|
-|[AWS SimSpace Weaver](https://aws.amazon.com/simspaceweaver/)|[simspaceweaver]({{%relref "post/simspaceweaver.md" %}})|SSW||
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||
 |[Amazon Simple Notification Service](https://aws.amazon.com/sns/)|[sns]({{%relref "post/sns.md" %}})|SNS||
@@ -423,6 +420,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Supply Chain](https://aws.amazon.com/aws-supply-chain/)|[supplychain]({{%relref "post/supplychain.md" %}})|SUPCH||
 |[AWS Support](https://aws.amazon.com/premiumsupport/)|[support]({{%relref "post/support.md" %}})|ASA||
 |[AWS Support App in Slack API](https://aws.amazon.com/premiumsupport/)|[support-app]({{%relref "post/support-app.md" %}})|SUP||
+|[AWS Support authorization API](https://aws.amazon.com/premiumsupport/)|[supportauthz]({{%relref "post/supportauthz.md" %}})|SUPAZ||
 |[AWS Sustainability](https://aws.amazon.com/sustainability/)|[sustainability]({{%relref "post/sustainability.md" %}})|SUST||
 |[Amazon Simple Workflow](https://aws.amazon.com/swf/)|[swf]({{%relref "post/swf.md" %}})|SWF||
 |[Amazon CloudWatch Synthetics](https://aws.amazon.com/cloudwatch/)|[synthetics]({{%relref "post/synthetics.md" %}})|CWSYN||

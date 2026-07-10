@@ -1,6 +1,6 @@
 ---
 title: gameliftstreams
-date: 2026-06-23
+date: 2026-07-10
 description: aws gameliftstreams (Amazon GameLift Streams) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws gameliftstreams (Amazon GameLift Streams) command/cmdlet list.
 |[aws gameliftstreams associate-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/associate-applications.html)|[Connect-GMLSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-GMLSApplication.html)|
 |[aws gameliftstreams create-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/create-application.html)|[New-GMLSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLSApplication.html)|
 |[aws gameliftstreams create-stream-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/create-stream-group.html)|[New-GMLSStreamGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLSStreamGroup.html)|
+|[aws gameliftstreams create-stream-session-admin-shell](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/create-stream-session-admin-shell.html)|[New-GMLSStreamSessionAdminShell](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLSStreamSessionAdminShell.html)|
 |[aws gameliftstreams create-stream-session-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/create-stream-session-connection.html)|[New-GMLSStreamSessionConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-GMLSStreamSessionConnection.html)|
 |[aws gameliftstreams delete-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/delete-application.html)|[Remove-GMLSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLSApplication.html)|
 |[aws gameliftstreams delete-stream-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/gameliftstreams/delete-stream-group.html)|[Remove-GMLSStreamGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-GMLSStreamGroup.html)|

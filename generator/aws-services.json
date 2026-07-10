@@ -1181,22 +1181,10 @@
     "Url": "https://aws.amazon.com/iot/",
     "Note": ""
   },
-  "iotevents": {
-    "Prefix": "IOTE",
-    "Name": "AWS IoT Events",
-    "Url": "https://aws.amazon.com/iot-events/",
-    "Note": ""
-  },
   "iotfleetwise": {
     "Prefix": "IFW",
     "Name": "AWS IoT FleetWise",
     "Url": "https://aws.amazon.com/iot-fleetwise/",
-    "Note": ""
-  },
-  "iotevents-data": {
-    "Prefix": "IOTED",
-    "Name": "AWS IoT Events",
-    "Url": "https://aws.amazon.com/iot-events/",
     "Note": ""
   },
   "iotsecuretunneling": {
@@ -1775,12 +1763,6 @@
     "Url": "https://aws.amazon.com/outposts/",
     "Note": ""
   },
-  "panorama": {
-    "Prefix": "PAN",
-    "Name": "AWS Panorama",
-    "Url": "https://aws.amazon.com/panorama/",
-    "Note": ""
-  },
   "partnercentral-account": {
     "Prefix": "PCAA",
     "Name": "AWS Partner Central Account Service",
@@ -2296,12 +2278,6 @@
     "Name": "Amazon SimpleDB",
     "Url": "https://aws.amazon.com/simpledb/",
     "Note": "v2"
-  },
-  "simspaceweaver": {
-    "Prefix": "SSW",
-    "Name": "AWS SimSpace Weaver",
-    "Url": "https://aws.amazon.com/simspaceweaver/",
-    "Note": ""
   },
   "snow-device-management": {
     "Prefix": "SDMS",

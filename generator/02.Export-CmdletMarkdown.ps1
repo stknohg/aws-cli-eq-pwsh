@@ -246,6 +246,9 @@ function Export-PostPageMarkdown {
             "logout" {
                 "[Invoke-AWSLogout](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogout.html) is the equivalent cmdlet to ``aws logout``."
             }
+            "update" {
+                "[Update-AWSToolsModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AWSToolsModule.html) is the equivalent cmdlet to ``aws update``."
+            }
             default {
                 "No supported CLI commands.  "
                 "This service may have been deprecated or replaced with a newer version.  "

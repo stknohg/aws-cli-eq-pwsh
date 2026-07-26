@@ -412,6 +412,7 @@
   "transfer": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Transfer_for_SFTP_cmdlets.html",
   "translate": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_Translate_cmdlets.html",
   "trustedadvisor": "https://docs.aws.amazon.com/powershell/latest/reference/items/TrustedAdvisor_cmdlets.html",
+  "update": "",
   "uxc": "https://docs.aws.amazon.com/powershell/latest/reference/items/Uxc_cmdlets.html",
   "verifiedpermissions": "https://docs.aws.amazon.com/powershell/latest/reference/items/VerifiedPermissions_cmdlets.html",
   "voice-id": "https://docs.aws.amazon.com/powershell/latest/reference/items/VoiceID_cmdlets.html",

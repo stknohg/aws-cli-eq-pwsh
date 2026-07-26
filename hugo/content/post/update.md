@@ -9,7 +9,7 @@ description: aws update (-) command/cmdlet list.
 ### -
 
 * [CLI Reference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/update/index.html)
-* Cmdlet Reference
+* [Cmdlet Reference](https://docs.aws.amazon.com/powershell/latest/reference/items/Installer_cmdlets.html)
 
 [Update-AWSToolsModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AWSToolsModule.html) is the equivalent cmdlet to `aws update`.
 

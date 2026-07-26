@@ -1,6 +1,6 @@
 ---
 title: elb
-date: 2026-07-10
+date: 2026-07-26
 description: aws elb (Elastic Load Balancing) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: artifact
-date: 2026-07-10
+date: 2026-07-26
 description: aws artifact (AWS Artifact) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws artifact (AWS Artifact) command/cmdlet list.
 |[aws artifact list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/list-tags-for-resource.html)|[Get-ARTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ARTResourceTag.html)|
 |[aws artifact list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/list-tags-for-resource.html)|[Get-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CAResourceTag.html)|
 |[aws artifact put-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/put-account-settings.html)|[Write-ARTAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ARTAccountSetting.html)|
+|[aws artifact put-compliance-inquiry-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/put-compliance-inquiry-feedback.html)|[Write-ARTComplianceInquiryFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ARTComplianceInquiryFeedback.html)|
 |[aws artifact tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/tag-resource.html)|[Add-ARTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ARTResourceTag.html)|
 |[aws artifact tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/tag-resource.html)|[Add-CAResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CAResourceTag.html)|
 |[aws artifact untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/artifact/untag-resource.html)|[Remove-ARTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ARTResourceTag.html)|

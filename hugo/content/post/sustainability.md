@@ -1,6 +1,6 @@
 ---
 title: sustainability
-date: 2026-07-10
+date: 2026-07-26
 description: aws sustainability (AWS Sustainability) command/cmdlet list.
 ---
 
@@ -15,4 +15,6 @@ description: aws sustainability (AWS Sustainability) command/cmdlet list.
 |----|----|
 |[aws sustainability get-estimated-carbon-emissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sustainability/get-estimated-carbon-emissions.html)|[Get-SUSTEstimatedCarbonEmission](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUSTEstimatedCarbonEmission.html)|
 |[aws sustainability get-estimated-carbon-emissions-dimension-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sustainability/get-estimated-carbon-emissions-dimension-values.html)|[Get-SUSTEstimatedCarbonEmissionsDimensionValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUSTEstimatedCarbonEmissionsDimensionValue.html)|
+|[aws sustainability get-estimated-water-allocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sustainability/get-estimated-water-allocation.html)|[Get-SUSTEstimatedWaterAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUSTEstimatedWaterAllocation.html)|
+|[aws sustainability get-estimated-water-allocation-dimension-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sustainability/get-estimated-water-allocation-dimension-values.html)|[Get-SUSTEstimatedWaterAllocationDimensionValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SUSTEstimatedWaterAllocationDimensionValue.html)|
 

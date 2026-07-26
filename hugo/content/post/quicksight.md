@@ -1,6 +1,6 @@
 ---
 title: quicksight
-date: 2026-07-10
+date: 2026-07-26
 description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight create-group-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-group-membership.html)|[New-QSGroupMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSGroupMembership.html)|
 |[aws quicksight create-iam-policy-assignment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-iam-policy-assignment.html)|[New-QSIAMPolicyAssignment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSIAMPolicyAssignment.html)|
 |[aws quicksight create-ingestion](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-ingestion.html)|[New-QSIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSIngestion.html)|
+|[aws quicksight create-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-knowledge-base.html)|[New-QSKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSKnowledgeBase.html)|
 |[aws quicksight create-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-namespace.html)|[New-QSNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSNamespace.html)|
 |[aws quicksight create-o-auth-client-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-o-auth-client-application.html)|[New-QSOAuthClientApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSOAuthClientApplication.html)|
 |[aws quicksight create-refresh-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/create-refresh-schedule.html)|[New-QSRefreshSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-QSRefreshSchedule.html)|
@@ -255,6 +256,7 @@ description: aws quicksight (Amazon Quick Sight) command/cmdlet list.
 |[aws quicksight update-identity-propagation-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-identity-propagation-config.html)|[Update-QSIdentityPropagationConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIdentityPropagationConfig.html)|
 |[aws quicksight update-ip-restriction](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-ip-restriction.html)|[Update-QSIpRestriction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSIpRestriction.html)|
 |[aws quicksight update-key-registration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-key-registration.html)|[Update-QSKeyRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSKeyRegistration.html)|
+|[aws quicksight update-knowledge-base](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-knowledge-base.html)|[Update-QSKnowledgeBase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSKnowledgeBase.html)|
 |[aws quicksight update-knowledge-base-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-knowledge-base-permissions.html)|[Update-QSKnowledgeBasePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSKnowledgeBasePermission.html)|
 |[aws quicksight update-o-auth-client-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-o-auth-client-application.html)|[Update-QSOAuthClientApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSOAuthClientApplication.html)|
 |[aws quicksight update-public-sharing-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/quicksight/update-public-sharing-settings.html)|[Update-QSPublicSharingSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-QSPublicSharingSetting.html)|

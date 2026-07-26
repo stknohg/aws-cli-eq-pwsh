@@ -1,6 +1,6 @@
 ---
 title: supportauthz
-date: 2026-07-10
+date: 2026-07-26
 description: aws supportauthz (AWS Support authorization API) command/cmdlet list.
 ---
 

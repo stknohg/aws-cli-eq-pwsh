@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2026-07-10
+date: 2026-07-26
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -26,6 +26,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp admin-forget-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-forget-device.html)|[Stop-CGIPDeviceTrackingAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CGIPDeviceTrackingAdmin.html)|
 |[aws cognito-idp admin-get-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-get-device.html)|[Get-CGIPDeviceAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPDeviceAdmin.html)|
 |[aws cognito-idp admin-get-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-get-user.html)|[Get-CGIPUserAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserAdmin.html)|
+|[aws cognito-idp admin-get-user-auth-factors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-get-user-auth-factors.html)|[Get-CGIPAdminUserAuthFactor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPAdminUserAuthFactor.html)|
 |[aws cognito-idp admin-initiate-auth](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-initiate-auth.html)|[Start-CGIPAuthAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CGIPAuthAdmin.html)|
 |[aws cognito-idp admin-link-provider-for-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-link-provider-for-user.html)|[Connect-CGIPProviderForUserAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-CGIPProviderForUserAdmin.html)|
 |[aws cognito-idp admin-list-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-list-devices.html)|[Get-CGIPDeviceListAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPDeviceListAdmin.html)|

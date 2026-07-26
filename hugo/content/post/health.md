@@ -1,6 +1,6 @@
 ---
 title: health
-date: 2026-07-10
+date: 2026-07-26
 description: aws health (AWS Health) command/cmdlet list.
 ---
 

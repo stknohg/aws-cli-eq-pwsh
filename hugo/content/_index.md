@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-07-10
+date: 2026-07-26
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.35.20 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.250 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.36.8 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.261 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -434,6 +434,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||
 |[AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/)|[trustedadvisor]({{%relref "post/trustedadvisor.md" %}})|TA||
+|-|[update]({{%relref "post/update.md" %}})||Command to update AWS CLI to the latest version.|
 |[AWS User Experience Customization](https://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/uxc.html)|[uxc]({{%relref "post/uxc.md" %}})|UXC||
 |[Amazon Verified Permissions](https://aws.amazon.com/verified-permissions/)|[verifiedpermissions]({{%relref "post/verifiedpermissions.md" %}})|AVP||
 |[Amazon Connect Voice ID](https://aws.amazon.com/connect/voice-id/)|[voice-id]({{%relref "post/voice-id.md" %}})|VID||

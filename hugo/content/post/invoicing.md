@@ -1,6 +1,6 @@
 ---
 title: invoicing
-date: 2026-07-10
+date: 2026-07-26
 description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ---
 
@@ -26,8 +26,10 @@ description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 |[aws invoicing list-procurement-portal-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-procurement-portal-preferences.html)|[Get-INVProcurementPortalPreferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVProcurementPortalPreferenceList.html)|
 |[aws invoicing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-tags-for-resource.html)|[Get-INVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVResourceTag.html)|
 |[aws invoicing put-procurement-portal-preference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/put-procurement-portal-preference.html)|[Write-INVProcurementPortalPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-INVProcurementPortalPreference.html)|
+|[aws invoicing send-procurement-portal-validation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/send-procurement-portal-validation.html)|[Send-INVProcurementPortalValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-INVProcurementPortalValidation.html)|
 |[aws invoicing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/tag-resource.html)|[Add-INVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-INVResourceTag.html)|
 |[aws invoicing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/untag-resource.html)|[Remove-INVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INVResourceTag.html)|
 |[aws invoicing update-invoice-unit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/update-invoice-unit.html)|[Update-INVInvoiceUnit](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INVInvoiceUnit.html)|
 |[aws invoicing update-procurement-portal-preference-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/update-procurement-portal-preference-status.html)|[Update-INVProcurementPortalPreferenceStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-INVProcurementPortalPreferenceStatus.html)|
+|[aws invoicing verify-procurement-portal-validation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/verify-procurement-portal-validation.html)|[Confirm-INVProcurementPortalValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-INVProcurementPortalValidation.html)|
 

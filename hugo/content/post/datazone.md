@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2026-07-10
+date: 2026-07-26
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -177,6 +177,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone start-notebook-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-notebook-export.html)|[Start-DZNotebookExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZNotebookExport.html)|
 |[aws datazone start-notebook-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-notebook-import.html)|[Start-DZNotebookImport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZNotebookImport.html)|
 |[aws datazone start-notebook-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-notebook-run.html)|[Start-DZNotebookRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZNotebookRun.html)|
+|[aws datazone start-notebook-sync](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/start-notebook-sync.html)|[Start-DZNotebookSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DZNotebookSync.html)|
 |[aws datazone stop-notebook-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/stop-notebook-run.html)|[Stop-DZNotebookRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DZNotebookRun.html)|
 |[aws datazone tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/tag-resource.html)|[Add-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DZResourceTag.html)|
 |[aws datazone untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/untag-resource.html)|[Remove-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZResourceTag.html)|

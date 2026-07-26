@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-07-10
+date: 2026-07-26
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -288,6 +288,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect search-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-quick-connects.html)|[Search-CONNQuickConnect](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNQuickConnect.html)|
 |[aws connect search-resource-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-resource-tags.html)|[Search-CONNResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNResourceTag.html)|
 |[aws connect search-routing-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-routing-profiles.html)|[Search-CONNRoutingProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNRoutingProfile.html)|
+|[aws connect search-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-rules.html)|[Search-CONNRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNRule.html)|
 |[aws connect search-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-security-profiles.html)|[Search-CONNSecurityProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNSecurityProfile.html)|
 |[aws connect search-test-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-test-cases.html)|[Search-CONNTestCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNTestCase.html)|
 |[aws connect search-user-hierarchy-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/search-user-hierarchy-groups.html)|[Search-CONNUserHierarchyGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CONNUserHierarchyGroup.html)|

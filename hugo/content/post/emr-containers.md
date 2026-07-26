@@ -1,6 +1,6 @@
 ---
 title: emr-containers
-date: 2026-07-10
+date: 2026-07-26
 description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 |[aws emr-containers delete-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/delete-job-template.html)|[Remove-EMRCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRCJobTemplate.html)|
 |[aws emr-containers delete-managed-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/delete-managed-endpoint.html)|[Remove-EMRCManagedEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRCManagedEndpoint.html)|
 |[aws emr-containers delete-role-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/delete-role-associations.html)||
+|[aws emr-containers delete-security-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/delete-security-configuration.html)|[Remove-EMRCSecurityConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRCSecurityConfiguration.html)|
 |[aws emr-containers delete-virtual-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/delete-virtual-cluster.html)|[Remove-EMRCVirtualCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRCVirtualCluster.html)|
 |[aws emr-containers describe-job-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/describe-job-run.html)|[Get-EMRCJobRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCJobRun.html)|
 |[aws emr-containers describe-job-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/describe-job-template.html)|[Get-EMRCJobTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMRCJobTemplate.html)|

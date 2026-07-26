@@ -1,6 +1,6 @@
 ---
 title: securitylake
-date: 2026-07-10
+date: 2026-07-26
 description: aws securitylake (Amazon Security Lake) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: uxc
-date: 2026-07-26
+date: 2026-08-05
 description: aws uxc (AWS User Experience Customization) command/cmdlet list.
 ---
 

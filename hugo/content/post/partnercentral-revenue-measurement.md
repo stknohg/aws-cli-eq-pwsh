@@ -1,6 +1,6 @@
 ---
 title: partnercentral-revenue-measurement
-date: 2026-07-26
+date: 2026-08-05
 description: aws partnercentral-revenue-measurement (AWS Partner Central Revenue Measurement API) command/cmdlet list.
 ---
 

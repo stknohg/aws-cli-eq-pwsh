@@ -1,6 +1,6 @@
 ---
 title: network-firewall
-date: 2026-07-26
+date: 2026-08-05
 description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 ---
 
@@ -94,6 +94,7 @@ description: aws network-firewall (AWS Network Firewall) command/cmdlet list.
 |[aws network-firewall update-proxy-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-proxy-rule.html)|[Update-NWFWProxyRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWProxyRule.html)|
 |[aws network-firewall update-proxy-rule-group-priorities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-proxy-rule-group-priorities.html)|[Update-NWFWProxyRuleGroupPriority](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWProxyRuleGroupPriority.html)|
 |[aws network-firewall update-proxy-rule-priorities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-proxy-rule-priorities.html)|[Update-NWFWProxyRulePriority](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWProxyRulePriority.html)|
+|[aws network-firewall update-proxy-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-proxy-settings.html)|[Update-NWFWProxySetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWProxySetting.html)|
 |[aws network-firewall update-rule-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-rule-group.html)|[Update-NWFWRuleGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWRuleGroup.html)|
 |[aws network-firewall update-subnet-change-protection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-subnet-change-protection.html)|[Update-NWFWSubnetChangeProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWSubnetChangeProtection.html)|
 |[aws network-firewall update-tls-inspection-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-firewall/update-tls-inspection-configuration.html)|[Update-NWFWTLSInspectionConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NWFWTLSInspectionConfiguration.html)|

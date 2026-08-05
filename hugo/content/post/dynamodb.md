@@ -1,6 +1,6 @@
 ---
 title: dynamodb
-date: 2026-07-26
+date: 2026-08-05
 description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws dynamodb (Amazon DynamoDB) command/cmdlet list.
 |[aws dynamodb restore-table-from-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/restore-table-from-backup.html)|[Restore-DDBTableFromBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DDBTableFromBackup.html)|
 |[aws dynamodb restore-table-to-point-in-time](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/restore-table-to-point-in-time.html)|[Restore-DDBTableToPointInTime](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-DDBTableToPointInTime.html)|
 |[aws dynamodb scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/scan.html)|[Invoke-DDBScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-DDBScan.html)|
+|[aws dynamodb search-vectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/search-vectors.html)|[Search-DDBVector](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-DDBVector.html)|
 |[aws dynamodb tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/tag-resource.html)|[Add-DDBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DDBResourceTag.html)|
 |[aws dynamodb transact-get-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/transact-get-items.html)|[Get-DDBItemTransactionally](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DDBItemTransactionally.html)|
 |[aws dynamodb transact-write-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/dynamodb/transact-write-items.html)|[Write-DDBItemTransactionally](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-DDBItemTransactionally.html)|

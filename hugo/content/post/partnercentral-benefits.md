@@ -1,6 +1,6 @@
 ---
 title: partnercentral-benefits
-date: 2026-07-26
+date: 2026-08-05
 description: aws partnercentral-benefits (AWS Partner Central Benefits Service) command/cmdlet list.
 ---
 

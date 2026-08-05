@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-07-26
+date: 2026-08-05
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue batch-get-crawlers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-crawlers.html)|[Get-GLUECrawlerBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECrawlerBatch.html)|
 |[aws glue batch-get-custom-entity-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-custom-entity-types.html)|[Get-GLUEGetCustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGetCustomEntityType.html)|
 |[aws glue batch-get-data-quality-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-data-quality-result.html)|[Get-GLUEDataQualityResultBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityResultBatch.html)|
+|[aws glue batch-get-data-quality-ruleset-evaluation-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-data-quality-ruleset-evaluation-run.html)|[Get-GLUEDataQualityRulesetEvaluationRunBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityRulesetEvaluationRunBatch.html)|
 |[aws glue batch-get-dev-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-dev-endpoints.html)|[Get-GLUEDevEndpointBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDevEndpointBatch.html)|
 |[aws glue batch-get-iterable-forms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-iterable-forms.html)|[Get-GLUEIterableFormBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIterableFormBatch.html)|
 |[aws glue batch-get-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/batch-get-jobs.html)|[Get-GLUEJobBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobBatch.html)|

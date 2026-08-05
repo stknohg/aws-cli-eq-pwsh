@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-07-26
+date: 2026-08-05
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.36.8 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.261 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.36.16 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.269 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -334,6 +334,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EventBridge Pipes](https://aws.amazon.com/eventbridge/pipes/)|[pipes]({{%relref "post/pipes.md" %}})|PIPES||
 |[Amazon Polly](https://aws.amazon.com/pinpoint/polly/)|[polly]({{%relref "post/polly.md" %}})|POL||
 |[AWS Price List Service](https://aws.amazon.com/pricing/)|[pricing]({{%relref "post/pricing.md" %}})|PLS||
+|[Pricing Plan Manager](https://aws.amazon.com/pricing/)|[pricing-plan-manager]({{%relref "post/pricing-plan-manager.md" %}})|PPM||
 |[AWS Proton](https://aws.amazon.com/proton/)|[proton]({{%relref "post/proton.md" %}})|PRO|CLI deprecated in Ver.2.31.10|
 |[Amazon Q Apps](https://aws.amazon.com/q/business/)|[qapps]({{%relref "post/qapps.md" %}})|QAPPS||
 |[Amazon Q for Your Business](https://aws.amazon.com/q/business-expert/)|[qbusiness]({{%relref "post/qbusiness.md" %}})|QBUS||

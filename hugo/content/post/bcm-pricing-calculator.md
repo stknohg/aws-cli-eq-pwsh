@@ -1,6 +1,6 @@
 ---
 title: bcm-pricing-calculator
-date: 2026-07-26
+date: 2026-08-05
 description: aws bcm-pricing-calculator (AWS Billing and Cost Management Pricing Calculator) command/cmdlet list.
 ---
 

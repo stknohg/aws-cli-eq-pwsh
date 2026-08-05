@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent-runtime
-date: 2026-07-26
+date: 2026-08-05
 description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 

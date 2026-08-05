@@ -1,6 +1,6 @@
 ---
 title: directconnect
-date: 2026-07-26
+date: 2026-08-05
 description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 ---
 
@@ -62,6 +62,7 @@ description: aws directconnect (AWS Direct Connect) command/cmdlet list.
 |[aws directconnect describe-virtual-interfaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/describe-virtual-interfaces.html)|[Get-DCVirtualInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterface.html)|
 |[aws directconnect disassociate-connection-from-lag](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/disassociate-connection-from-lag.html)|[Unregister-DCConnectionFromLag](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-DCConnectionFromLag.html)|
 |[aws directconnect disassociate-mac-sec-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/disassociate-mac-sec-key.html)|[Remove-DCMacSecKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DCMacSecKey.html)|
+|[aws directconnect list-virtual-interface-routes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/list-virtual-interface-routes.html)|[Get-DCVirtualInterfaceRouteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterfaceRouteList.html)|
 |[aws directconnect list-virtual-interface-test-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/list-virtual-interface-test-history.html)|[Get-DCVirtualInterfaceTestHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DCVirtualInterfaceTestHistoryList.html)|
 |[aws directconnect start-bgp-failover-test](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/start-bgp-failover-test.html)|[Start-DCBgpFailoverTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-DCBgpFailoverTest.html)|
 |[aws directconnect stop-bgp-failover-test](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/directconnect/stop-bgp-failover-test.html)|[Stop-DCBgpFailoverTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-DCBgpFailoverTest.html)|

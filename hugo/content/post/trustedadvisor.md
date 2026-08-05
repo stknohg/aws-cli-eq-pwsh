@@ -1,6 +1,6 @@
 ---
 title: trustedadvisor
-date: 2026-07-26
+date: 2026-08-05
 description: aws trustedadvisor (AWS Trusted Advisor) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws trustedadvisor (AWS Trusted Advisor) command/cmdlet list.
 |[aws trustedadvisor list-organization-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/list-organization-recommendations.html)|[Get-TAOrganizationRecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TAOrganizationRecommendationList.html)|
 |[aws trustedadvisor list-recommendation-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/list-recommendation-resources.html)|[Get-TARecommendationResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TARecommendationResourceList.html)|
 |[aws trustedadvisor list-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/list-recommendations.html)|[Get-TARecommendationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TARecommendationList.html)|
+|[aws trustedadvisor list-recommendations-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/list-recommendations-for-resource.html)|[Get-TARecommendationsForResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-TARecommendationsForResourceList.html)|
 |[aws trustedadvisor update-organization-recommendation-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/update-organization-recommendation-lifecycle.html)|[Update-TAOrganizationRecommendationLifecycle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TAOrganizationRecommendationLifecycle.html)|
 |[aws trustedadvisor update-recommendation-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/trustedadvisor/update-recommendation-lifecycle.html)|[Update-TARecommendationLifecycle](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TARecommendationLifecycle.html)|
 

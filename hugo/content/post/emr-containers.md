@@ -1,6 +1,6 @@
 ---
 title: emr-containers
-date: 2026-07-26
+date: 2026-08-05
 description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 ---
 
@@ -40,4 +40,5 @@ description: aws emr-containers (Amazon EMR on Amazon EKS) command/cmdlet list.
 |[aws emr-containers tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/tag-resource.html)|[Add-EMRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMRCResourceTag.html)|
 |[aws emr-containers untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/untag-resource.html)|[Remove-EMRCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMRCResourceTag.html)|
 |[aws emr-containers update-role-trust-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/update-role-trust-policy.html)||
+|[aws emr-containers update-virtual-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/emr-containers/update-virtual-cluster.html)|[Update-EMRCVirtualCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMRCVirtualCluster.html)|
 

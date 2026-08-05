@@ -1889,6 +1889,12 @@
     "Url": "https://aws.amazon.com/pricing/",
     "Note": ""
   },
+  "pricing-plan-manager": {
+    "Prefix": "PPM",
+    "Name": "Pricing Plan Manager",
+    "Url": "https://aws.amazon.com/pricing/",
+    "Note": ""
+  },
   "proton": {
     "Prefix": "PRO",
     "Name": "AWS Proton",

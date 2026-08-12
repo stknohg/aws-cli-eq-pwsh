@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-08-05
+date: 2026-08-12
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -138,6 +138,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue get-custom-entity-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-custom-entity-type.html)|[Get-GLUECustomEntityType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUECustomEntityType.html)|
 |[aws glue get-dashboard-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-dashboard-url.html)|[Get-GLUEDashboardUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDashboardUrl.html)|
 |[aws glue get-data-catalog-encryption-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-catalog-encryption-settings.html)|[Get-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataCatalogEncryptionSetting.html)|
+|[aws glue get-data-catalog-export-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-catalog-export-configuration.html)|[Get-GLUEDataCatalogExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataCatalogExportConfiguration.html)|
 |[aws glue get-data-quality-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-quality-model.html)|[Get-GLUEDataQualityModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityModel.html)|
 |[aws glue get-data-quality-model-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-quality-model-result.html)|[Get-GLUEDataQualityModelResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityModelResult.html)|
 |[aws glue get-data-quality-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/get-data-quality-result.html)|[Get-GLUEDataQualityResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEDataQualityResult.html)|
@@ -239,6 +240,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue put-asset-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-asset-type.html)|[Write-GLUEAssetType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEAssetType.html)|
 |[aws glue put-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-attachment.html)|[Write-GLUEAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEAttachment.html)|
 |[aws glue put-data-catalog-encryption-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-data-catalog-encryption-settings.html)|[Set-GLUEDataCatalogEncryptionSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEDataCatalogEncryptionSetting.html)|
+|[aws glue put-data-catalog-export-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-data-catalog-export-configuration.html)|[Write-GLUEDataCatalogExportConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEDataCatalogExportConfiguration.html)|
 |[aws glue put-data-quality-profile-annotation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-data-quality-profile-annotation.html)|[Write-GLUEDataQualityProfileAnnotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEDataQualityProfileAnnotation.html)|
 |[aws glue put-form-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-form-type.html)|[Write-GLUEFormType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-GLUEFormType.html)|
 |[aws glue put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/put-resource-policy.html)|[Set-GLUEResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-GLUEResourcePolicy.html)|

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-08-05
+date: 2026-08-12
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.36.16 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.269 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.36.21 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.274 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -22,8 +22,11 @@ This site is created by automatic generation. For that reason, some content may 
 |----|----|:--:|----|
 |[AWS IAM Access Analyzer](https://aws.amazon.com/iam/)|[accessanalyzer]({{%relref "post/accessanalyzer.md" %}})|IAMAA||
 |[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
+|[AWS IAM Account access manager](https://aws.amazon.com/iam/)|[account-access]({{%relref "post/account-access.md" %}})|ACCAC||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority.|
+|[AWS Agent Registry](https://aws.amazon.com/bedrock/agentcore/)|[agent-registry]({{%relref "post/agent-registry.md" %}})|AGRG||
+|[AWS Agent Registry Control Plane](https://aws.amazon.com/bedrock/agentcore/)|[agent-registry-control]({{%relref "post/agent-registry-control.md" %}})|AGRC||
 |-|[agent-toolkit]({{%relref "post/agent-toolkit.md" %}})||Commands to set up and manage AI coding agents with the Agent Toolkit for AWS|
 |[Amazon AI Operations](https://aws.amazon.com/what-is/aiops/)|[aiops]({{%relref "post/aiops.md" %}})|AIOps||
 |[Amazon Managed Service for Prometheus](https://aws.amazon.com/prometheus/)|[amp]({{%relref "post/amp.md" %}})|PROM||

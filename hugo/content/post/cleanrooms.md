@@ -1,6 +1,6 @@
 ---
 title: cleanrooms
-date: 2026-08-05
+date: 2026-08-12
 description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 ---
 
@@ -45,6 +45,7 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms delete-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/delete-membership.html)|[Remove-CRSMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CRSMembership.html)|
 |[aws cleanrooms delete-privacy-budget-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/delete-privacy-budget-template.html)|[Remove-CRSPrivacyBudgetTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CRSPrivacyBudgetTemplate.html)|
 |[aws cleanrooms disallow-intermediate-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/disallow-intermediate-table.html)|[Disable-CRSIntermediateTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CRSIntermediateTable.html)|
+|[aws cleanrooms get-analysis-log-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-analysis-log-export.html)|[Get-CRSAnalysisLogExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSAnalysisLogExport.html)|
 |[aws cleanrooms get-analysis-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-analysis-template.html)|[Get-CRSAnalysisTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSAnalysisTemplate.html)|
 |[aws cleanrooms get-collaboration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-collaboration.html)|[Get-CRSCollaboration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSCollaboration.html)|
 |[aws cleanrooms get-collaboration-analysis-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-collaboration-analysis-template.html)|[Get-CRSCollaborationAnalysisTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSCollaborationAnalysisTemplate.html)|
@@ -67,6 +68,7 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms get-protected-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-protected-query.html)|[Get-CRSProtectedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSProtectedQuery.html)|
 |[aws cleanrooms get-schema](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-schema.html)|[Get-CRSSchema](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSSchema.html)|
 |[aws cleanrooms get-schema-analysis-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/get-schema-analysis-rule.html)|[Get-CRSSchemaAnalysisRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSSchemaAnalysisRule.html)|
+|[aws cleanrooms list-analysis-log-exports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-analysis-log-exports.html)|[Get-CRSAnalysisLogExportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSAnalysisLogExportList.html)|
 |[aws cleanrooms list-analysis-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-analysis-templates.html)|[Get-CRSAnalysisTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSAnalysisTemplateList.html)|
 |[aws cleanrooms list-collaboration-analysis-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-collaboration-analysis-templates.html)|[Get-CRSCollaborationAnalysisTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSCollaborationAnalysisTemplateList.html)|
 |[aws cleanrooms list-collaboration-change-requests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/list-collaboration-change-requests.html)|[Get-CRSCollaborationChangeRequestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CRSCollaborationChangeRequestList.html)|
@@ -94,6 +96,7 @@ description: aws cleanrooms (AWS Clean Rooms) command/cmdlet list.
 |[aws cleanrooms populate-id-mapping-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/populate-id-mapping-table.html)|[Invoke-CRSIdMappingTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CRSIdMappingTable.html)|
 |[aws cleanrooms populate-intermediate-table](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/populate-intermediate-table.html)|[Import-CRSIntermediateTable](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-CRSIntermediateTable.html)|
 |[aws cleanrooms preview-privacy-impact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/preview-privacy-impact.html)|[Test-CRSPrivacyImpact](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CRSPrivacyImpact.html)|
+|[aws cleanrooms start-analysis-log-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/start-analysis-log-export.html)|[Start-CRSAnalysisLogExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CRSAnalysisLogExport.html)|
 |[aws cleanrooms start-protected-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/start-protected-job.html)|[Start-CRSProtectedJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CRSProtectedJob.html)|
 |[aws cleanrooms start-protected-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/start-protected-query.html)|[Start-CRSProtectedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CRSProtectedQuery.html)|
 |[aws cleanrooms tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cleanrooms/tag-resource.html)|[Add-CRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CRSResourceTag.html)|

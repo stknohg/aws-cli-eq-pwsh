@@ -1,6 +1,6 @@
 ---
 title: elementalinference
-date: 2026-08-05
+date: 2026-08-12
 description: aws elementalinference (AWS Elemental Inference) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws elementalinference (AWS Elemental Inference) command/cmdlet lis
 |[aws elementalinference list-dictionaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-dictionaries.html)|[Get-EMIDictionaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIDictionaryList.html)|
 |[aws elementalinference list-feeds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-feeds.html)|[Get-EMIFeedList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFeedList.html)|
 |[aws elementalinference list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-tags-for-resource.html)|[Get-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIResourceTag.html)|
+|[aws elementalinference search-fixtures](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/search-fixtures.html)|[Search-EMIFixture](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-EMIFixture.html)|
 |[aws elementalinference tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/tag-resource.html)|[Add-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMIResourceTag.html)|
 |[aws elementalinference untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/untag-resource.html)|[Remove-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMIResourceTag.html)|
 |[aws elementalinference update-dictionary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/update-dictionary.html)|[Update-EMIDictionary](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EMIDictionary.html)|

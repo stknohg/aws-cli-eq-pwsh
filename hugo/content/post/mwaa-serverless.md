@@ -1,6 +1,6 @@
 ---
 title: mwaa-serverless
-date: 2026-08-05
+date: 2026-08-12
 description: aws mwaa-serverless (Amazon Managed Workflows for Apache Airflow Serverless) command/cmdlet list.
 ---
 

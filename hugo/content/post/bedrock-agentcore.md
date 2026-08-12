@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore
-date: 2026-08-05
+date: 2026-08-12
 description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet lis
 |[aws bedrock-agentcore create-payment-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/create-payment-session.html)|[New-BACPaymentSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BACPaymentSession.html)|
 |[aws bedrock-agentcore delete-ab-test](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-ab-test.html)|[Remove-BACABTest](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACABTest.html)|
 |[aws bedrock-agentcore delete-batch-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-batch-evaluation.html)|[Remove-BACBatchEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACBatchEvaluation.html)|
+|[aws bedrock-agentcore delete-capacity-provider-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-capacity-provider-session.html)|[Remove-BACCapacityProviderSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACCapacityProviderSession.html)|
 |[aws bedrock-agentcore delete-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-event.html)|[Remove-BACEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACEvent.html)|
 |[aws bedrock-agentcore delete-memory-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-memory-record.html)|[Remove-BACMemoryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACMemoryRecord.html)|
 |[aws bedrock-agentcore delete-payment-instrument](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/delete-payment-instrument.html)|[Remove-BACPaymentInstrument](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BACPaymentInstrument.html)|

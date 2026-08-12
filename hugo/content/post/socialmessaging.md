@@ -1,6 +1,6 @@
 ---
 title: socialmessaging
-date: 2026-08-05
+date: 2026-08-12
 description: aws socialmessaging (AWS End User Messaging Social) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws socialmessaging (AWS End User Messaging Social) command/cmdlet 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws socialmessaging associate-whatsapp-business-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/associate-whatsapp-business-account.html)|[Connect-SOCIALWhatsAppBusinessAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Connect-SOCIALWhatsAppBusinessAccount.html)|
+|[aws socialmessaging create-whatsapp-dataset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/create-whatsapp-dataset.html)|[New-SOCIALWhatsAppDataset](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SOCIALWhatsAppDataset.html)|
 |[aws socialmessaging create-whatsapp-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/create-whatsapp-flow.html)|[New-SOCIALWhatsAppFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SOCIALWhatsAppFlow.html)|
 |[aws socialmessaging create-whatsapp-message-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/create-whatsapp-message-template.html)|[New-SOCIALWhatsAppMessageTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SOCIALWhatsAppMessageTemplate.html)|
 |[aws socialmessaging create-whatsapp-message-template-from-library](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/create-whatsapp-message-template-from-library.html)|[New-SOCIALWhatsAppMessageTemplateFromLibrary](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SOCIALWhatsAppMessageTemplateFromLibrary.html)|
@@ -38,6 +39,7 @@ description: aws socialmessaging (AWS End User Messaging Social) command/cmdlet 
 |[aws socialmessaging post-whatsapp-message-media](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/post-whatsapp-message-media.html)|[Send-SOCIALWhatsAppMessageMedia](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SOCIALWhatsAppMessageMedia.html)|
 |[aws socialmessaging publish-whatsapp-flow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/publish-whatsapp-flow.html)|[Publish-SOCIALWhatsAppFlow](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-SOCIALWhatsAppFlow.html)|
 |[aws socialmessaging put-whatsapp-business-account-event-destinations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/put-whatsapp-business-account-event-destinations.html)|[Write-SOCIALWhatsAppBusinessAccountEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SOCIALWhatsAppBusinessAccountEventDestination.html)|
+|[aws socialmessaging send-whatsapp-conversion-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/send-whatsapp-conversion-event.html)|[Send-SOCIALWhatsAppConversionEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SOCIALWhatsAppConversionEvent.html)|
 |[aws socialmessaging send-whatsapp-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/send-whatsapp-message.html)|[Send-SOCIALWhatsAppMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SOCIALWhatsAppMessage.html)|
 |[aws socialmessaging tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/tag-resource.html)|[Add-SOCIALResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SOCIALResourceTag.html)|
 |[aws socialmessaging untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/socialmessaging/untag-resource.html)|[Remove-SOCIALResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SOCIALResourceTag.html)|

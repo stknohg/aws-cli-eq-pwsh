@@ -1,6 +1,6 @@
 ---
 title: backup
-date: 2026-08-05
+date: 2026-08-12
 description: aws backup (AWS Backup) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |----|----|
 |[aws backup associate-backup-vault-mpa-approval-team](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/associate-backup-vault-mpa-approval-team.html)|[Add-BAKBackupVaultMpaApprovalTeam](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BAKBackupVaultMpaApprovalTeam.html)|
 |[aws backup cancel-legal-hold](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/cancel-legal-hold.html)|[Stop-BAKLegalHold](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BAKLegalHold.html)|
+|[aws backup create-backup-access-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-access-point.html)|[New-BAKBackupAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupAccessPoint.html)|
 |[aws backup create-backup-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-plan.html)|[New-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupPlan.html)|
 |[aws backup create-backup-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-selection.html)|[New-BAKBackupSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupSelection.html)|
 |[aws backup create-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-backup-vault.html)|[New-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKBackupVault.html)|
@@ -26,6 +27,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup create-restore-testing-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-restore-testing-plan.html)|[New-BAKRestoreTestingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKRestoreTestingPlan.html)|
 |[aws backup create-restore-testing-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-restore-testing-selection.html)|[New-BAKRestoreTestingSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKRestoreTestingSelection.html)|
 |[aws backup create-tiering-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/create-tiering-configuration.html)|[New-BAKTieringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BAKTieringConfiguration.html)|
+|[aws backup delete-backup-access-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-access-point.html)|[Remove-BAKBackupAccessPoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupAccessPoint.html)|
 |[aws backup delete-backup-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-plan.html)|[Remove-BAKBackupPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupPlan.html)|
 |[aws backup delete-backup-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-selection.html)|[Remove-BAKBackupSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupSelection.html)|
 |[aws backup delete-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-backup-vault.html)|[Remove-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKBackupVault.html)|
@@ -38,6 +40,7 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup delete-restore-testing-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-restore-testing-plan.html)|[Remove-BAKRestoreTestingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKRestoreTestingPlan.html)|
 |[aws backup delete-restore-testing-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-restore-testing-selection.html)|[Remove-BAKRestoreTestingSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKRestoreTestingSelection.html)|
 |[aws backup delete-tiering-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/delete-tiering-configuration.html)|[Remove-BAKTieringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BAKTieringConfiguration.html)|
+|[aws backup describe-backup-access-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-backup-access-point.html)|[Get-BAKBackupAccessPointDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupAccessPointDetail.html)|
 |[aws backup describe-backup-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-backup-job.html)|[Get-BAKBackupJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJob.html)|
 |[aws backup describe-backup-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-backup-vault.html)|[Get-BAKBackupVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupVault.html)|
 |[aws backup describe-copy-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/describe-copy-job.html)|[Get-BAKCopyJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKCopyJob.html)|
@@ -70,6 +73,9 @@ description: aws backup (AWS Backup) command/cmdlet list.
 |[aws backup get-restore-testing-selection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-restore-testing-selection.html)|[Get-BAKRestoreTestingSelection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKRestoreTestingSelection.html)|
 |[aws backup get-supported-resource-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-supported-resource-types.html)|[Get-BAKSupportedResourceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKSupportedResourceType.html)|
 |[aws backup get-tiering-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/get-tiering-configuration.html)|[Get-BAKTieringConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKTieringConfiguration.html)|
+|[aws backup list-backup-access-points](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-access-points.html)|[Get-BAKBackupAccessPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupAccessPointList.html)|
+|[aws backup list-backup-access-points-by-recovery-point](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-access-points-by-recovery-point.html)|[Get-BAKBackupAccessPointsByRecoveryPointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupAccessPointsByRecoveryPointList.html)|
+|[aws backup list-backup-access-points-by-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-access-points-by-resource.html)|[Get-BAKBackupAccessPointsByResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupAccessPointsByResourceList.html)|
 |[aws backup list-backup-job-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-job-summaries.html)|[Get-BAKBackupJobSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJobSummaryList.html)|
 |[aws backup list-backup-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-jobs.html)|[Get-BAKBackupJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupJobList.html)|
 |[aws backup list-backup-plan-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/backup/list-backup-plan-templates.html)|[Get-BAKBackupPlanTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BAKBackupPlanTemplateList.html)|

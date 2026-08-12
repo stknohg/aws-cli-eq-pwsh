@@ -1,6 +1,6 @@
 ---
 title: iotwireless
-date: 2026-08-05
+date: 2026-08-12
 description: aws iotwireless (AWS IoT Wireless) command/cmdlet list.
 ---
 

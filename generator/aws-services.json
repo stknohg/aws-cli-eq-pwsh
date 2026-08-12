@@ -11,6 +11,12 @@
     "Url": "https://aws.amazon.com/account/",
     "Note": ""
   },
+  "account-access": {
+    "Prefix": "ACCAC",
+    "Name": "AWS IAM Account access manager",
+    "Url": "https://aws.amazon.com/iam/",
+    "Note": ""
+  },
   "acm": {
     "Prefix": "ACM",
     "Name": "AWS Certificate Manager",
@@ -22,6 +28,18 @@
     "Name": "AWS Private Certificate Authority",
     "Url": "https://aws.amazon.com/private-ca/",
     "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
+  },
+  "agent-registry": {
+    "Prefix": "AGRG",
+    "Name": "AWS Agent Registry",
+    "Url": "https://aws.amazon.com/bedrock/agentcore/",
+    "Note": ""
+  },
+  "agent-registry-control": {
+    "Prefix": "AGRC",
+    "Name": "AWS Agent Registry Control Plane",
+    "Url": "https://aws.amazon.com/bedrock/agentcore/",
+    "Note": ""
   },
   "agent-toolkit": {
     "Prefix": "",

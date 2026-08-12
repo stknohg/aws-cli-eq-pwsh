@@ -1,8 +1,11 @@
 {
   "accessanalyzer": "https://docs.aws.amazon.com/powershell/latest/reference/items/AccessAnalyzer_cmdlets.html",
   "account": "https://docs.aws.amazon.com/powershell/latest/reference/items/Account_cmdlets.html",
+  "account-access": "https://docs.aws.amazon.com/powershell/latest/reference/items/AccountAccess_cmdlets.html",
   "acm": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Certificate_Manager_cmdlets.html",
   "acm-pca": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Certificate_Manager_Private_Certificate_Authority_cmdlets.html",
+  "agent-registry": "https://docs.aws.amazon.com/powershell/latest/reference/items/AgentRegistry_cmdlets.html",
+  "agent-registry-control": "https://docs.aws.amazon.com/powershell/latest/reference/items/AgentRegistryControl_cmdlets.html",
   "agent-toolkit": "",
   "aiops": "https://docs.aws.amazon.com/powershell/latest/reference/items/AIOps_cmdlets.html",
   "amp": "https://docs.aws.amazon.com/powershell/latest/reference/items/PrometheusService_cmdlets.html",

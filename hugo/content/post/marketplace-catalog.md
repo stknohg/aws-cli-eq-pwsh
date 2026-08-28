@@ -1,6 +1,6 @@
 ---
 title: marketplace-catalog
-date: 2026-08-12
+date: 2026-08-28
 description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/cmdlet list.
 ---
 
@@ -16,9 +16,11 @@ description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/c
 |[aws marketplace-catalog batch-describe-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/batch-describe-entities.html)|[Get-MCATBatchEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATBatchEntity.html)|
 |[aws marketplace-catalog cancel-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/cancel-change-set.html)|[Stop-MCATChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-MCATChangeSet.html)|
 |[aws marketplace-catalog delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/delete-resource-policy.html)|[Remove-MCATResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MCATResourcePolicy.html)|
+|[aws marketplace-catalog describe-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/describe-assessment.html)|[Get-MCATAssessmentDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATAssessmentDetail.html)|
 |[aws marketplace-catalog describe-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/describe-change-set.html)|[Get-MCATChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATChangeSet.html)|
 |[aws marketplace-catalog describe-entity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/describe-entity.html)|[Get-MCATEntity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATEntity.html)|
 |[aws marketplace-catalog get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/get-resource-policy.html)|[Get-MCATResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATResourcePolicy.html)|
+|[aws marketplace-catalog list-assessments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/list-assessments.html)|[Get-MCATAssessmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATAssessmentList.html)|
 |[aws marketplace-catalog list-change-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/list-change-sets.html)|[Get-MCATChangeSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATChangeSetList.html)|
 |[aws marketplace-catalog list-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/list-entities.html)|[Get-MCATEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATEntityList.html)|
 |[aws marketplace-catalog list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/list-tags-for-resource.html)|[Get-MCATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATResourceTag.html)|

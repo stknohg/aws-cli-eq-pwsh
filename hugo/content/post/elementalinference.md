@@ -1,6 +1,6 @@
 ---
 title: elementalinference
-date: 2026-08-12
+date: 2026-08-28
 description: aws elementalinference (AWS Elemental Inference) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws elementalinference (AWS Elemental Inference) command/cmdlet lis
 |[aws elementalinference export-dictionary-entries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/export-dictionary-entries.html)|[Export-EMIDictionaryEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EMIDictionaryEntry.html)|
 |[aws elementalinference get-dictionary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-dictionary.html)|[Get-EMIDictionary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIDictionary.html)|
 |[aws elementalinference get-feed](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-feed.html)|[Get-EMIFeed](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFeed.html)|
+|[aws elementalinference get-fixture](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-fixture.html)|[Get-EMIFixture](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFixture.html)|
 |[aws elementalinference list-dictionaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-dictionaries.html)|[Get-EMIDictionaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIDictionaryList.html)|
 |[aws elementalinference list-feeds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-feeds.html)|[Get-EMIFeedList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFeedList.html)|
 |[aws elementalinference list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-tags-for-resource.html)|[Get-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIResourceTag.html)|

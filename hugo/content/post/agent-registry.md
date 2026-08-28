@@ -1,6 +1,6 @@
 ---
 title: agent-registry
-date: 2026-08-12
+date: 2026-08-28
 description: aws agent-registry (AWS Agent Registry) command/cmdlet list.
 ---
 

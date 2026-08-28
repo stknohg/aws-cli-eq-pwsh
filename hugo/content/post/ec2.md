@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-08-12
+date: 2026-08-28
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -761,6 +761,7 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 release-ipam-pool-allocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/release-ipam-pool-allocation.html)|[Remove-EC2IpamPoolAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EC2IpamPoolAllocation.html)|
 |[aws ec2 replace-iam-instance-profile-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/replace-iam-instance-profile-association.html)|[Set-EC2IamInstanceProfileAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2IamInstanceProfileAssociation.html)|
 |[aws ec2 replace-image-criteria-in-allowed-images-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/replace-image-criteria-in-allowed-images-settings.html)|[Set-EC2ImageCriteriaInAllowedImagesSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2ImageCriteriaInAllowedImagesSetting.html)|
+|[aws ec2 replace-image-instance-type-specification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/replace-image-instance-type-specification.html)|[Set-EC2ImageInstanceTypeSpecification](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2ImageInstanceTypeSpecification.html)|
 |[aws ec2 replace-network-acl-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/replace-network-acl-association.html)|[Set-EC2NetworkAclAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2NetworkAclAssociation.html)|
 |[aws ec2 replace-network-acl-entry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/replace-network-acl-entry.html)|[Set-EC2NetworkAclEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2NetworkAclEntry.html)|
 |[aws ec2 replace-route](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/replace-route.html)|[Set-EC2Route](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-EC2Route.html)|

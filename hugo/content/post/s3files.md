@@ -1,6 +1,6 @@
 ---
 title: s3files
-date: 2026-08-12
+date: 2026-08-28
 description: aws s3files (Amazon S3 Files) command/cmdlet list.
 ---
 

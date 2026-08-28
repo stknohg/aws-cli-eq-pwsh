@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2026-08-12
+date: 2026-08-28
 description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws iam accept-delegation-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/accept-delegation-request.html)|[Approve-IAMDelegationRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Approve-IAMDelegationRequest.html)|
+|[aws iam acquire-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/acquire-role.html)|[Invoke-IAMAcquireRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-IAMAcquireRole.html)|
 |[aws iam add-client-id-to-open-id-connect-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/add-client-id-to-open-id-connect-provider.html)|[Add-IAMClientIDToOpenIDConnectProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMClientIDToOpenIDConnectProvider.html)|
 |[aws iam add-role-to-instance-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/add-role-to-instance-profile.html)|[Add-IAMRoleToInstanceProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMRoleToInstanceProfile.html)|
 |[aws iam add-user-to-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/add-user-to-group.html)|[Add-IAMUserToGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-IAMUserToGroup.html)|
@@ -77,6 +78,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam get-access-key-last-used](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-access-key-last-used.html)|[Get-IAMAccessKeyLastUsed](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccessKeyLastUsed.html)|
 |[aws iam get-account-authorization-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-account-authorization-details.html)|[Get-IAMAccountAuthorizationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccountAuthorizationDetail.html)|
 |[aws iam get-account-password-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-account-password-policy.html)|[Get-IAMAccountPasswordPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccountPasswordPolicy.html)|
+|[aws iam get-account-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-account-properties.html)|[Get-IAMAccountProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccountProperty.html)|
 |[aws iam get-account-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-account-summary.html)|[Get-IAMAccountSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMAccountSummary.html)|
 |[aws iam get-context-keys-for-custom-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-context-keys-for-custom-policy.html)|[Get-IAMContextKeysForCustomPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMContextKeysForCustomPolicy.html)|
 |[aws iam get-context-keys-for-principal-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-context-keys-for-principal-policy.html)|[Get-IAMContextKeysForPrincipalPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMContextKeysForPrincipalPolicy.html)|
@@ -95,6 +97,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam get-policy-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-policy-version.html)|[Get-IAMPolicyVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMPolicyVersion.html)|
 |[aws iam get-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-role.html)|[Get-IAMRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRole.html)|
 |[aws iam get-role-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-role-policy.html)|[Get-IAMRolePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRolePolicy.html)|
+|[aws iam get-role-template-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-role-template-version.html)|[Get-IAMRoleTemplateVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMRoleTemplateVersion.html)|
 |[aws iam get-saml-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-saml-provider.html)|[Get-IAMSAMLProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMSAMLProvider.html)|
 |[aws iam get-server-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-server-certificate.html)|[Get-IAMServerCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMServerCertificate.html)|
 |[aws iam get-service-last-accessed-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/get-service-last-accessed-details.html)|[Get-IAMServiceLastAccessedDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMServiceLastAccessedDetail.html)|
@@ -139,6 +142,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam list-user-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-user-tags.html)|[Get-IAMUserTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMUserTagList.html)|
 |[aws iam list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-users.html)|[Get-IAMUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMUserList.html)|
 |[aws iam list-virtual-mfa-devices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/list-virtual-mfa-devices.html)|[Get-IAMVirtualMFADevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMVirtualMFADevice.html)|
+|[aws iam put-account-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/put-account-properties.html)|[Write-IAMAccountProperty](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IAMAccountProperty.html)|
 |[aws iam put-group-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/put-group-policy.html)|[Write-IAMGroupPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IAMGroupPolicy.html)|
 |[aws iam put-role-permissions-boundary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/put-role-permissions-boundary.html)|[Set-IAMRolePermissionsBoundary](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-IAMRolePermissionsBoundary.html)|
 |[aws iam put-role-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/put-role-policy.html)|[Write-IAMRolePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-IAMRolePolicy.html)|

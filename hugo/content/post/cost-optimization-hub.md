@@ -1,6 +1,6 @@
 ---
 title: cost-optimization-hub
-date: 2026-08-12
+date: 2026-08-28
 description: aws cost-optimization-hub (AWS Cost Optimization Hub) command/cmdlet list.
 ---
 

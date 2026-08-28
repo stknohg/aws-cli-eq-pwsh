@@ -1,6 +1,6 @@
 ---
 title: lex-runtime
-date: 2026-08-12
+date: 2026-08-28
 description: aws lex-runtime (Amazon Lex) command/cmdlet list.
 ---
 

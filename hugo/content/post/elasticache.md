@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2026-08-12
+date: 2026-08-28
 description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 ---
 

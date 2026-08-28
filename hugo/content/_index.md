@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-08-12
+date: 2026-08-28
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.36.21 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.274 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.36.33 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.286 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -205,6 +205,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon HealthLake](https://aws.amazon.com/healthlake/)|[healthlake]({{%relref "post/healthlake.md" %}})|AHLFHIR||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
+|[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam-toolbox]({{%relref "post/iam-toolbox.md" %}})|IAM Toolbox||
 |[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|IDS||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||

@@ -1,6 +1,6 @@
 ---
 title: pricing-plan-manager
-date: 2026-08-12
+date: 2026-08-28
 description: aws pricing-plan-manager (Pricing Plan Manager) command/cmdlet list.
 ---
 

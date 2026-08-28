@@ -1,6 +1,6 @@
 ---
 title: agent-registry-control
-date: 2026-08-12
+date: 2026-08-28
 description: aws agent-registry-control (AWS Agent Registry Control Plane) command/cmdlet list.
 ---
 

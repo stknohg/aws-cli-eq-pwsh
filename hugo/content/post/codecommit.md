@@ -1,6 +1,6 @@
 ---
 title: codecommit
-date: 2026-08-12
+date: 2026-08-28
 description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws codecommit (AWS CodeCommit) command/cmdlet list.
 |[aws codecommit evaluate-pull-request-approval-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/evaluate-pull-request-approval-rules.html)|[Invoke-CCPullRequestApprovalRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-CCPullRequestApprovalRule.html)|
 |[aws codecommit get-approval-rule-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/get-approval-rule-template.html)|[Get-CCApprovalRuleTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCApprovalRuleTemplate.html)|
 |[aws codecommit get-blob](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/get-blob.html)|[Get-CCBlob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBlob.html)|
+|[aws codecommit get-blob-differences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/get-blob-differences.html)|[Get-CCBlobDifference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBlobDifference.html)|
 |[aws codecommit get-branch](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/get-branch.html)|[Get-CCBranch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCBranch.html)|
 |[aws codecommit get-comment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/get-comment.html)|[Get-CCComment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCComment.html)|
 |[aws codecommit get-comment-reactions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/codecommit/get-comment-reactions.html)|[Get-CCCommentReaction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCCommentReaction.html)|

@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2026-08-12
+date: 2026-08-28
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -18,6 +18,7 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp admin-add-user-to-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-add-user-to-group.html)|[Add-CGIPUserToGroupAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CGIPUserToGroupAdmin.html)|
 |[aws cognito-idp admin-confirm-sign-up](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-confirm-sign-up.html)|[Confirm-CGIPUserRegistrationAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-CGIPUserRegistrationAdmin.html)|
 |[aws cognito-idp admin-create-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-create-user.html)|[New-CGIPUserAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CGIPUserAdmin.html)|
+|[aws cognito-idp admin-delete-software-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-delete-software-token.html)|[Remove-CGIPAdminSoftwareToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPAdminSoftwareToken.html)|
 |[aws cognito-idp admin-delete-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-delete-user.html)|[Remove-CGIPUserAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserAdmin.html)|
 |[aws cognito-idp admin-delete-user-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-delete-user-attributes.html)|[Remove-CGIPUserAttributeAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CGIPUserAttributeAdmin.html)|
 |[aws cognito-idp admin-disable-provider-for-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/admin-disable-provider-for-user.html)|[Disable-CGIPProviderForUserAdmin](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CGIPProviderForUserAdmin.html)|

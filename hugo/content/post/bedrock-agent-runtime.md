@@ -1,6 +1,6 @@
 ---
 title: bedrock-agent-runtime
-date: 2026-08-12
+date: 2026-08-28
 description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdle
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws bedrock-agent-runtime check-ingested-document-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/check-ingested-document-acl.html)|[Test-BARIngestedDocumentAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-BARIngestedDocumentAcl.html)|
 |[aws bedrock-agent-runtime create-invocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/create-invocation.html)|[New-BARInvocation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BARInvocation.html)|
 |[aws bedrock-agent-runtime create-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/create-session.html)|[New-BARSession](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BARSession.html)|
 |[aws bedrock-agent-runtime delete-agent-memory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/delete-agent-memory.html)|[Remove-BARAgentMemory](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BARAgentMemory.html)|
@@ -23,6 +24,7 @@ description: aws bedrock-agent-runtime (Agents for Amazon Bedrock) command/cmdle
 |[aws bedrock-agent-runtime get-document-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-document-content.html)|[Get-BARDocumentContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARDocumentContent.html)|
 |[aws bedrock-agent-runtime get-execution-flow-snapshot](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-execution-flow-snapshot.html)|[Get-BARExecutionFlowSnapshot](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARExecutionFlowSnapshot.html)|
 |[aws bedrock-agent-runtime get-flow-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-flow-execution.html)|[Get-BARFlowExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARFlowExecution.html)|
+|[aws bedrock-agent-runtime get-ingested-document-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-ingested-document-acl.html)|[Get-BARIngestedDocumentAcl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARIngestedDocumentAcl.html)|
 |[aws bedrock-agent-runtime get-invocation-step](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-invocation-step.html)|[Get-BARInvocationStep](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARInvocationStep.html)|
 |[aws bedrock-agent-runtime get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/get-session.html)|[Get-BARSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARSession.html)|
 |[aws bedrock-agent-runtime list-flow-execution-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agent-runtime/list-flow-execution-events.html)|[Get-BARFlowExecutionEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BARFlowExecutionEventList.html)|

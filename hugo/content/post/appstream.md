@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2026-08-12
+date: 2026-08-28
 description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: outposts
-date: 2026-08-12
+date: 2026-08-28
 description: aws outposts (AWS Outposts) command/cmdlet list.
 ---
 
@@ -17,6 +17,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts cancel-order](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/cancel-order.html)|[Stop-OUTPOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-OUTPOrder.html)|
 |[aws outposts create-order](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-order.html)|[New-OUTPOrder](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPOrder.html)|
 |[aws outposts create-outpost](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-outpost.html)|[New-OUTPOutpost](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPOutpost.html)|
+|[aws outposts create-private-connectivity-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-private-connectivity-config.html)|[New-OUTPPrivateConnectivityConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPPrivateConnectivityConfig.html)|
 |[aws outposts create-quote](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-quote.html)|[New-OUTPQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPQuote.html)|
 |[aws outposts create-renewal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-renewal.html)|[New-OUTPRenewal](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPRenewal.html)|
 |[aws outposts create-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/create-site.html)|[New-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/New-OUTPSite.html)|
@@ -31,6 +32,7 @@ description: aws outposts (AWS Outposts) command/cmdlet list.
 |[aws outposts get-outpost-billing-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-billing-information.html)|[Get-OUTPOutpostBillingInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostBillingInformation.html)|
 |[aws outposts get-outpost-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-instance-types.html)|[Get-OUTPOutpostInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostInstanceType.html)|
 |[aws outposts get-outpost-supported-instance-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-outpost-supported-instance-types.html)|[Get-OUTPOutpostSupportedInstanceType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPOutpostSupportedInstanceType.html)|
+|[aws outposts get-private-connectivity-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-private-connectivity-config.html)|[Get-OUTPPrivateConnectivityConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPPrivateConnectivityConfig.html)|
 |[aws outposts get-quote](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-quote.html)|[Get-OUTPQuote](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPQuote.html)|
 |[aws outposts get-renewal-pricing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-renewal-pricing.html)|[Get-OUTPRenewalPricing](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPRenewalPricing.html)|
 |[aws outposts get-site](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/outposts/get-site.html)|[Get-OUTPSite](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-OUTPSite.html)|

@@ -1,6 +1,6 @@
 ---
 title: chime
-date: 2026-08-12
+date: 2026-08-28
 description: aws chime (Amazon Chime) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: acm
-date: 2026-08-12
+date: 2026-08-28
 description: aws acm (AWS Certificate Manager) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws acm (AWS Certificate Manager) command/cmdlet list.
 |[aws acm list-acme-domain-validations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-acme-domain-validations.html)|[Get-ACMAcmeDomainValidationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMAcmeDomainValidationList.html)|
 |[aws acm list-acme-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-acme-endpoints.html)|[Get-ACMAcmeEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMAcmeEndpointList.html)|
 |[aws acm list-acme-external-account-bindings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-acme-external-account-bindings.html)|[Get-ACMAcmeExternalAccountBindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMAcmeExternalAccountBindingList.html)|
+|[aws acm list-certificate-domain-validations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-certificate-domain-validations.html)|[Get-ACMCertificateDomainValidationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMCertificateDomainValidationList.html)|
 |[aws acm list-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-certificates.html)|[Get-ACMCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMCertificateList.html)|
 |[aws acm list-tags-for-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-tags-for-certificate.html)|[Get-ACMCertificateTagList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMCertificateTagList.html)|
 |[aws acm list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/acm/list-tags-for-resource.html)|[Get-ACMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ACMResourceTag.html)|

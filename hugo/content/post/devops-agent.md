@@ -1,6 +1,6 @@
 ---
 title: devops-agent
-date: 2026-08-12
+date: 2026-08-28
 description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 ---
 
@@ -64,6 +64,7 @@ description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 |[aws devops-agent tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/tag-resource.html)|[Add-DOPSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-DOPSResourceTag.html)|
 |[aws devops-agent untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/untag-resource.html)|[Remove-DOPSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DOPSResourceTag.html)|
 |[aws devops-agent update-agent-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-agent-space.html)|[Update-DOPSAgentSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSAgentSpace.html)|
+|[aws devops-agent update-approval-action](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-approval-action.html)|[Update-DOPSApprovalAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSApprovalAction.html)|
 |[aws devops-agent update-asset](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-asset.html)|[Update-DOPSAsset](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSAsset.html)|
 |[aws devops-agent update-asset-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-asset-file.html)|[Update-DOPSAssetFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSAssetFile.html)|
 |[aws devops-agent update-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-association.html)|[Update-DOPSAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSAssociation.html)|

@@ -1,6 +1,6 @@
 ---
 title: cognito-identity
-date: 2026-08-12
+date: 2026-08-28
 description: aws cognito-identity (Amazon Cognito uniquely identifies) command/cmdlet list.
 ---
 

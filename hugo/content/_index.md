@@ -205,7 +205,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon HealthLake](https://aws.amazon.com/healthlake/)|[healthlake]({{%relref "post/healthlake.md" %}})|AHLFHIR||
 |-|[history]({{%relref "post/history.md" %}})||Commands to interact with the history of AWS CLI commands ran over time.|
 |[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam]({{%relref "post/iam.md" %}})|IAM||
-|[AWS Identity and Access Management](https://aws.amazon.com/iam/)|[iam-toolbox]({{%relref "post/iam-toolbox.md" %}})|IAM Toolbox||
+|[AWS Identity and Access Management Toolbox](https://aws.amazon.com/iam/)|[iam-toolbox]({{%relref "post/iam-toolbox.md" %}})|IAMTB||
 |[AWS SSO Identity Store](https://aws.amazon.com/single-sign-on/)|[identitystore]({{%relref "post/identitystore.md" %}})|IDS||
 |[EC2 Image Builder](https://aws.amazon.com/image-builder/)|[imagebuilder]({{%relref "post/imagebuilder.md" %}})|EC2IB||
 |[AWS Import/Export](https://aws.amazon.com/snowball/)|[importexport]({{%relref "post/importexport.md" %}})|IE||

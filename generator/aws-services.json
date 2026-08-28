@@ -1115,6 +1115,12 @@
     "Url": "https://aws.amazon.com/iam/",
     "Note": ""
   },
+  "iam-toolbox": {
+    "Prefix": "IAM Toolbox",
+    "Name": "AWS Identity and Access Management",
+    "Url": "https://aws.amazon.com/iam/",
+    "Note": ""
+  },
   "identitystore": {
     "Prefix": "IDS",
     "Name": "AWS SSO Identity Store",

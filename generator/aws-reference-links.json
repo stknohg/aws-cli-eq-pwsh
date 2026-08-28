@@ -183,6 +183,7 @@
   "healthlake": "https://docs.aws.amazon.com/powershell/latest/reference/items/HealthLake_cmdlets.html",
   "history": "",
   "iam": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Identity_and_Access_Management_cmdlets.html",
+  "iam-toolbox": "https://docs.aws.amazon.com/powershell/latest/reference/items/IAMToolbox_cmdlets.html",
   "identitystore": "https://docs.aws.amazon.com/powershell/latest/reference/items/IdentityStore_cmdlets.html",
   "imagebuilder": "https://docs.aws.amazon.com/powershell/latest/reference/items/Imagebuilder_cmdlets.html",
   "importexport": "https://docs.aws.amazon.com/powershell/latest/reference/items/AWS_Import_Export_cmdlets.html",

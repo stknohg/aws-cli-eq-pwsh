@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-08-28
+date: 2026-09-11
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -186,6 +186,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect get-attached-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-attached-file.html)|[Get-CONNAttachedFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNAttachedFile.html)|
 |[aws connect get-contact-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-contact-attributes.html)|[Get-CONNContactAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactAttribute.html)|
 |[aws connect get-contact-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-contact-metrics.html)|[Get-CONNContactMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNContactMetric.html)|
+|[aws connect get-cross-region-routing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-cross-region-routing.html)|[Get-CONNCrossRegionRouting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCrossRegionRouting.html)|
 |[aws connect get-current-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-current-metric-data.html)|[Get-CONNCurrentMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentMetricData.html)|
 |[aws connect get-current-user-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-current-user-data.html)|[Get-CONNCurrentUserData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNCurrentUserData.html)|
 |[aws connect get-effective-hours-of-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/get-effective-hours-of-operations.html)|[Get-CONNEffectiveHoursOfOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEffectiveHoursOfOperation.html)|
@@ -222,6 +223,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-data-tables](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-data-tables.html)|[Get-CONNDataTableList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNDataTableList.html)|
 |[aws connect list-default-vocabularies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-default-vocabularies.html)|[Get-CONNDefaultVocabularyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNDefaultVocabularyList.html)|
 |[aws connect list-entity-security-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-entity-security-profiles.html)|[Get-CONNEntitySecurityProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEntitySecurityProfileList.html)|
+|[aws connect list-evaluation-form-ai-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-evaluation-form-ai-versions.html)|[Get-CONNEvaluationFormAIVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEvaluationFormAIVersionList.html)|
 |[aws connect list-evaluation-form-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-evaluation-form-versions.html)|[Get-CONNEvaluationFormVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEvaluationFormVersionList.html)|
 |[aws connect list-evaluation-forms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-evaluation-forms.html)|[Get-CONNEvaluationFormList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNEvaluationFormList.html)|
 |[aws connect list-extraction-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-extraction-definitions.html)|[Get-CONNExtractionDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNExtractionDefinitionList.html)|
@@ -353,6 +355,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-contact-routing-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact-routing-data.html)|[Update-CONNContactRoutingData](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactRoutingData.html)|
 |[aws connect update-contact-schedule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact-schedule.html)|[Update-CONNContactSchedule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactSchedule.html)|
 |[aws connect update-contact-task-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-contact-task-template.html)|[Update-CONNContactTaskTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNContactTaskTemplate.html)|
+|[aws connect update-cross-region-routing](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-cross-region-routing.html)|[Update-CONNCrossRegionRouting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNCrossRegionRouting.html)|
 |[aws connect update-data-table-attribute](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-data-table-attribute.html)|[Update-CONNDataTableAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNDataTableAttribute.html)|
 |[aws connect update-data-table-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-data-table-metadata.html)|[Update-CONNDataTableMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNDataTableMetadata.html)|
 |[aws connect update-data-table-primary-values](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-data-table-primary-values.html)|[Update-CONNDataTablePrimaryValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNDataTablePrimaryValue.html)|

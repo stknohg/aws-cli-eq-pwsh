@@ -1,6 +1,6 @@
 ---
 title: pinpoint-sms-voice-v2
-date: 2026-08-28
+date: 2026-09-11
 description: aws pinpoint-sms-voice-v2 (Amazon Pinpoint SMS and Voice Messaging) command/cmdlet list.
 ---
 
@@ -79,6 +79,7 @@ description: aws pinpoint-sms-voice-v2 (Amazon Pinpoint SMS and Voice Messaging)
 |[aws pinpoint-sms-voice-v2 discard-registration-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/discard-registration-version.html)|[Close-SMSVRegistrationVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Close-SMSVRegistrationVersion.html)|
 |[aws pinpoint-sms-voice-v2 get-protect-configuration-country-rule-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/get-protect-configuration-country-rule-set.html)|[Get-SMSVProtectConfigurationCountryRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSVProtectConfigurationCountryRuleSet.html)|
 |[aws pinpoint-sms-voice-v2 get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/get-resource-policy.html)|[Get-SMSVResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSVResourcePolicy.html)|
+|[aws pinpoint-sms-voice-v2 list-available-phone-numbers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/list-available-phone-numbers.html)|[Get-SMSVAvailablePhoneNumberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSVAvailablePhoneNumberList.html)|
 |[aws pinpoint-sms-voice-v2 list-notify-countries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/list-notify-countries.html)|[Get-SMSVNotifyCountryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSVNotifyCountryList.html)|
 |[aws pinpoint-sms-voice-v2 list-pool-origination-identities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/list-pool-origination-identities.html)|[Get-SMSVPoolOriginationIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSVPoolOriginationIdentityList.html)|
 |[aws pinpoint-sms-voice-v2 list-protect-configuration-rule-set-number-overrides](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/pinpoint-sms-voice-v2/list-protect-configuration-rule-set-number-overrides.html)|[Get-SMSVProtectConfigurationRuleSetNumberOverrideList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMSVProtectConfigurationRuleSetNumberOverrideList.html)|

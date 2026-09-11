@@ -1,6 +1,6 @@
 ---
 title: healthlake
-date: 2026-08-28
+date: 2026-09-11
 description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 ---
 
@@ -30,6 +30,7 @@ description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 |[aws healthlake list-fhir-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/list-fhir-import-jobs.html)|[Get-AHLFHIRImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AHLFHIRImportJobList.html)|
 |[aws healthlake list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/list-tags-for-resource.html)|[Get-AHLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AHLResourceTag.html)|
 |[aws healthlake publish-data-transformation-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/publish-data-transformation-profile.html)|[Publish-AHLDataTransformationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-AHLDataTransformationProfile.html)|
+|[aws healthlake restore-fhir-datastore](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/restore-fhir-datastore.html)|[Restore-AHLFHIRDatastore](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-AHLFHIRDatastore.html)|
 |[aws healthlake start-data-transformation-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/start-data-transformation-job.html)|[Start-AHLDataTransformationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AHLDataTransformationJob.html)|
 |[aws healthlake start-fhir-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/start-fhir-export-job.html)|[Start-AHLFHIRExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AHLFHIRExportJob.html)|
 |[aws healthlake start-fhir-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/start-fhir-import-job.html)|[Start-AHLFHIRImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-AHLFHIRImportJob.html)|

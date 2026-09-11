@@ -1,6 +1,6 @@
 ---
 title: support
-date: 2026-08-28
+date: 2026-09-11
 description: aws support (AWS Support) command/cmdlet list.
 ---
 
@@ -15,8 +15,10 @@ description: aws support (AWS Support) command/cmdlet list.
 |----|----|
 |[aws support add-attachments-to-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/add-attachments-to-set.html)|[Add-ASAAttachmentsToSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASAAttachmentsToSet.html)|
 |[aws support add-communication-to-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/add-communication-to-case.html)|[Add-ASACommunicationToCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASACommunicationToCase.html)|
+|[aws support complete-attachment-upload](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/complete-attachment-upload.html)|[Complete-ASAAttachmentUpload](https://docs.aws.amazon.com/powershell/latest/reference/items/Complete-ASAAttachmentUpload.html)|
 |[aws support create-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/create-case.html)|[New-ASACase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ASACase.html)|
 |[aws support describe-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-attachment.html)|[Get-ASAAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAAttachment.html)|
+|[aws support describe-attachment-upload-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-attachment-upload-status.html)|[Get-ASAAttachmentUploadStatusDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAAttachmentUploadStatusDetail.html)|
 |[aws support describe-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-cases.html)|[Get-ASACase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASACase.html)|
 |[aws support describe-communications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-communications.html)|[Get-ASACommunication](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASACommunication.html)|
 |[aws support describe-create-case-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-create-case-options.html)|[Get-ASACreateCaseOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASACreateCaseOption.html)|
@@ -27,6 +29,8 @@ description: aws support (AWS Support) command/cmdlet list.
 |[aws support describe-trusted-advisor-check-result](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-trusted-advisor-check-result.html)|[Get-ASATrustedAdvisorCheckResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASATrustedAdvisorCheckResult.html)|
 |[aws support describe-trusted-advisor-check-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-trusted-advisor-check-summaries.html)|[Get-ASATrustedAdvisorCheckSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASATrustedAdvisorCheckSummary.html)|
 |[aws support describe-trusted-advisor-checks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/describe-trusted-advisor-checks.html)|[Get-ASATrustedAdvisorCheck](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASATrustedAdvisorCheck.html)|
+|[aws support get-attachment-download-link](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/get-attachment-download-link.html)|[Get-ASAAttachmentDownloadLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAAttachmentDownloadLink.html)|
+|[aws support get-attachment-upload-links](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/get-attachment-upload-links.html)|[Get-ASAAttachmentUploadLink](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAAttachmentUploadLink.html)|
 |[aws support refresh-trusted-advisor-check](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/refresh-trusted-advisor-check.html)|[Request-ASATrustedAdvisorCheckRefresh](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ASATrustedAdvisorCheckRefresh.html)|
 |[aws support resolve-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/support/resolve-case.html)|[Resolve-ASACase](https://docs.aws.amazon.com/powershell/latest/reference/items/Resolve-ASACase.html)|
 

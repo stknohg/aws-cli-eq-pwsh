@@ -1,6 +1,6 @@
 ---
 title: sagemaker-featurestore-runtime
-date: 2026-08-28
+date: 2026-09-11
 description: aws sagemaker-featurestore-runtime (Amazon SageMaker Feature Store) command/cmdlet list.
 ---
 
@@ -19,4 +19,5 @@ description: aws sagemaker-featurestore-runtime (Amazon SageMaker Feature Store)
 |[aws sagemaker-featurestore-runtime get-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-featurestore-runtime/get-record.html)|[Get-SMFSRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMFSRecord.html)|
 |[aws sagemaker-featurestore-runtime list-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-featurestore-runtime/list-records.html)|[Get-SMFSRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SMFSRecordList.html)|
 |[aws sagemaker-featurestore-runtime put-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-featurestore-runtime/put-record.html)|[Write-SMFSRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SMFSRecord.html)|
+|[aws sagemaker-featurestore-runtime update-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker-featurestore-runtime/update-record.html)|[Update-SMFSRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SMFSRecord.html)|
 

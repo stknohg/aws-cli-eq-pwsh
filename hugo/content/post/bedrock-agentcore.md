@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore
-date: 2026-08-28
+date: 2026-09-11
 description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -47,6 +47,7 @@ description: aws bedrock-agentcore (Amazon Bedrock AgentCore) command/cmdlet lis
 |[aws bedrock-agentcore get-workload-access-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-workload-access-token.html)|[Get-BACWorkloadAccessToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACWorkloadAccessToken.html)|
 |[aws bedrock-agentcore get-workload-access-token-for-jwt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-workload-access-token-for-jwt.html)|[Get-BACWorkloadAccessTokenForJWT](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACWorkloadAccessTokenForJWT.html)|
 |[aws bedrock-agentcore get-workload-access-token-for-user-id](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/get-workload-access-token-for-user-id.html)|[Get-BACWorkloadAccessTokenForUserId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACWorkloadAccessTokenForUserId.html)|
+|[aws bedrock-agentcore ingest-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/ingest-data.html)|[Start-BACIngestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BACIngestion.html)|
 |[aws bedrock-agentcore invoke-agent-runtime](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/invoke-agent-runtime.html)|[Invoke-BACAgentRuntime](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BACAgentRuntime.html)|
 |[aws bedrock-agentcore invoke-browser](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/invoke-browser.html)|[Invoke-BACBrowser](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BACBrowser.html)|
 |[aws bedrock-agentcore list-ab-tests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore/list-ab-tests.html)|[Get-BACABTestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACABTestList.html)|

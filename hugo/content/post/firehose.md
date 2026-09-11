@@ -1,6 +1,6 @@
 ---
 title: firehose
-date: 2026-08-28
+date: 2026-09-11
 description: aws firehose (Amazon Data Firehose) command/cmdlet list.
 ---
 

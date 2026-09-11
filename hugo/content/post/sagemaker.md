@@ -1,6 +1,6 @@
 ---
 title: sagemaker
-date: 2026-08-28
+date: 2026-09-11
 description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 ---
 
@@ -16,6 +16,7 @@ description: aws sagemaker (Amazon SageMaker) command/cmdlet list.
 |[aws sagemaker add-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/add-association.html)|[Add-SMAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMAssociation.html)|
 |[aws sagemaker add-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/add-tags.html)|[Add-SMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SMResourceTag.html)|
 |[aws sagemaker associate-trial-component](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/associate-trial-component.html)|[Register-SMTrialComponent](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SMTrialComponent.html)|
+|[aws sagemaker attach-cluster-node-network-interface](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/attach-cluster-node-network-interface.html)|[Mount-SMClusterNodeNetworkInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-SMClusterNodeNetworkInterface.html)|
 |[aws sagemaker attach-cluster-node-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/attach-cluster-node-volume.html)|[Mount-SMClusterNodeVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Mount-SMClusterNodeVolume.html)|
 |[aws sagemaker batch-add-cluster-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/batch-add-cluster-nodes.html)|[Set-SMAddClusterNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SMAddClusterNode.html)|
 |[aws sagemaker batch-delete-cluster-nodes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sagemaker/batch-delete-cluster-nodes.html)|[Set-SMDeleteClusterNode](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-SMDeleteClusterNode.html)|

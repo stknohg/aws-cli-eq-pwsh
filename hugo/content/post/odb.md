@@ -1,6 +1,6 @@
 ---
 title: odb
-date: 2026-08-28
+date: 2026-09-11
 description: aws odb (Oracle Database@AWS) command/cmdlet list.
 ---
 
@@ -68,6 +68,7 @@ description: aws odb (Oracle Database@AWS) command/cmdlet list.
 |[aws odb list-db-system-shapes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-db-system-shapes.html)|[Get-ODBDbSystemShapeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBDbSystemShapeList.html)|
 |[aws odb list-exadb-vm-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-exadb-vm-clusters.html)|[Get-ODBExadbVmClusterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBExadbVmClusterList.html)|
 |[aws odb list-exascale-db-storage-vaults](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-exascale-db-storage-vaults.html)|[Get-ODBExascaleDbStorageVaultList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBExascaleDbStorageVaultList.html)|
+|[aws odb list-flex-components](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-flex-components.html)|[Get-ODBFlexComponentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBFlexComponentList.html)|
 |[aws odb list-gi-minor-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-gi-minor-versions.html)|[Get-ODBGiMinorVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBGiMinorVersionList.html)|
 |[aws odb list-gi-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-gi-versions.html)|[Get-ODBGiVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBGiVersionList.html)|
 |[aws odb list-odb-networks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/list-odb-networks.html)|[Get-ODBOdbNetworkList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ODBOdbNetworkList.html)|

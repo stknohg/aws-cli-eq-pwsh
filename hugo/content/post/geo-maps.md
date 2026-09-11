@@ -1,6 +1,6 @@
 ---
 title: geo-maps
-date: 2026-08-28
+date: 2026-09-11
 description: aws geo-maps (Amazon Location Service Maps V2) command/cmdlet list.
 ---
 

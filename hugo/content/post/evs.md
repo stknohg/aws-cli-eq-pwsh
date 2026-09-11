@@ -1,6 +1,6 @@
 ---
 title: evs
-date: 2026-08-28
+date: 2026-09-11
 description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 ---
 
@@ -23,6 +23,7 @@ description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 |[aws evs delete-environment-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/delete-environment-connector.html)|[Remove-EVSEnvironmentConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVSEnvironmentConnector.html)|
 |[aws evs delete-environment-host](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/delete-environment-host.html)|[Remove-EVSEnvironmentHost](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVSEnvironmentHost.html)|
 |[aws evs disassociate-eip-from-vlan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/disassociate-eip-from-vlan.html)|[Unregister-EVSEipFromVlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EVSEipFromVlan.html)|
+|[aws evs get-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-account-settings.html)|[Get-EVSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSAccountSetting.html)|
 |[aws evs get-depot-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-depot-url.html)|[Get-EVSDepotUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSDepotUrl.html)|
 |[aws evs get-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-environment.html)|[Get-EVSEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironment.html)|
 |[aws evs get-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/get-versions.html)|[Get-EVSVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSVersion.html)|
@@ -32,6 +33,7 @@ description: aws evs (Amazon Elastic VMware Service) command/cmdlet list.
 |[aws evs list-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-environments.html)|[Get-EVSEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSEnvironmentList.html)|
 |[aws evs list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-tags-for-resource.html)|[Get-EVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSResourceTag.html)|
 |[aws evs list-vm-entitlements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/list-vm-entitlements.html)|[Get-EVSVmEntitlementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EVSVmEntitlementList.html)|
+|[aws evs put-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/put-account-settings.html)|[Write-EVSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EVSAccountSetting.html)|
 |[aws evs tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/tag-resource.html)|[Add-EVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EVSResourceTag.html)|
 |[aws evs untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/untag-resource.html)|[Remove-EVSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVSResourceTag.html)|
 |[aws evs update-environment-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/evs/update-environment-connector.html)|[Update-EVSEnvironmentConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EVSEnvironmentConnector.html)|

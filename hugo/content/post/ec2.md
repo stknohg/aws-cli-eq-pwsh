@@ -1,6 +1,6 @@
 ---
 title: ec2
-date: 2026-08-28
+date: 2026-09-11
 description: aws ec2 (Amazon EC2) command/cmdlet list.
 ---
 
@@ -811,5 +811,6 @@ description: aws ec2 (Amazon EC2) command/cmdlet list.
 |[aws ec2 update-interruptible-capacity-reservation-allocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-interruptible-capacity-reservation-allocation.html)|[Update-EC2InterruptibleCapacityReservationAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2InterruptibleCapacityReservationAllocation.html)|
 |[aws ec2 update-security-group-rule-descriptions-egress](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-security-group-rule-descriptions-egress.html)|[Update-EC2SecurityGroupRuleEgressDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2SecurityGroupRuleEgressDescription.html)|
 |[aws ec2 update-security-group-rule-descriptions-ingress](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/update-security-group-rule-descriptions-ingress.html)|[Update-EC2SecurityGroupRuleIngressDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EC2SecurityGroupRuleIngressDescription.html)|
+|[aws ec2 validate-security-group-quotas-for-interface](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/validate-security-group-quotas-for-interface.html)|[Test-EC2SecurityGroupQuotasForInterface](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-EC2SecurityGroupQuotasForInterface.html)|
 |[aws ec2 withdraw-byoip-cidr](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ec2/withdraw-byoip-cidr.html)|[Stop-EC2ByoipCidrAdvertisement](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-EC2ByoipCidrAdvertisement.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: elementalinference
-date: 2026-08-28
+date: 2026-09-11
 description: aws elementalinference (AWS Elemental Inference) command/cmdlet list.
 ---
 
@@ -18,14 +18,17 @@ description: aws elementalinference (AWS Elemental Inference) command/cmdlet lis
 |[aws elementalinference create-feed](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/create-feed.html)|[New-EMIFeed](https://docs.aws.amazon.com/powershell/latest/reference/items/New-EMIFeed.html)|
 |[aws elementalinference delete-dictionary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/delete-dictionary.html)|[Remove-EMIDictionary](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMIDictionary.html)|
 |[aws elementalinference delete-feed](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/delete-feed.html)|[Remove-EMIFeed](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMIFeed.html)|
+|[aws elementalinference delete-feed-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/delete-feed-policy.html)|[Remove-EMIFeedPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMIFeedPolicy.html)|
 |[aws elementalinference disassociate-feed](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/disassociate-feed.html)|[Unregister-EMIFeed](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-EMIFeed.html)|
 |[aws elementalinference export-dictionary-entries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/export-dictionary-entries.html)|[Export-EMIDictionaryEntry](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-EMIDictionaryEntry.html)|
 |[aws elementalinference get-dictionary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-dictionary.html)|[Get-EMIDictionary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIDictionary.html)|
 |[aws elementalinference get-feed](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-feed.html)|[Get-EMIFeed](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFeed.html)|
+|[aws elementalinference get-feed-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-feed-policy.html)|[Get-EMIFeedPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFeedPolicy.html)|
 |[aws elementalinference get-fixture](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/get-fixture.html)|[Get-EMIFixture](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFixture.html)|
 |[aws elementalinference list-dictionaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-dictionaries.html)|[Get-EMIDictionaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIDictionaryList.html)|
 |[aws elementalinference list-feeds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-feeds.html)|[Get-EMIFeedList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIFeedList.html)|
 |[aws elementalinference list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/list-tags-for-resource.html)|[Get-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-EMIResourceTag.html)|
+|[aws elementalinference put-feed-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/put-feed-policy.html)|[Write-EMIFeedPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EMIFeedPolicy.html)|
 |[aws elementalinference search-fixtures](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/search-fixtures.html)|[Search-EMIFixture](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-EMIFixture.html)|
 |[aws elementalinference tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/tag-resource.html)|[Add-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EMIResourceTag.html)|
 |[aws elementalinference untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elementalinference/untag-resource.html)|[Remove-EMIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EMIResourceTag.html)|

@@ -1,6 +1,6 @@
 ---
 title: memorydb
-date: 2026-08-28
+date: 2026-09-11
 description: aws memorydb (Amazon MemoryDB) command/cmdlet list.
 ---
 

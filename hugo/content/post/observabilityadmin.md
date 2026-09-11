@@ -1,6 +1,6 @@
 ---
 title: observabilityadmin
-date: 2026-08-28
+date: 2026-09-11
 description: aws observabilityadmin (Amazon CloudWatch Observability Admin Service) command/cmdlet list.
 ---
 

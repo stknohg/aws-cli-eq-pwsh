@@ -1,6 +1,6 @@
 ---
 title: cognito-idp
-date: 2026-08-28
+date: 2026-09-11
 description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet list.
 ---
 
@@ -78,12 +78,14 @@ description: aws cognito-idp (Amazon Cognito Identity Provider) command/cmdlet l
 |[aws cognito-idp describe-resource-server](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-resource-server.html)|[Get-CGIPResourceServer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPResourceServer.html)|
 |[aws cognito-idp describe-risk-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-risk-configuration.html)|[Get-CGIPRiskConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPRiskConfiguration.html)|
 |[aws cognito-idp describe-terms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-terms.html)|[Get-CGIPTerm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPTerm.html)|
+|[aws cognito-idp describe-terms-by-client](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-terms-by-client.html)|[Get-CGIPTermsByClientDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPTermsByClientDetail.html)|
 |[aws cognito-idp describe-user-import-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-user-import-job.html)|[Get-CGIPUserImportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserImportJob.html)|
 |[aws cognito-idp describe-user-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-user-pool.html)|[Get-CGIPUserPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPool.html)|
 |[aws cognito-idp describe-user-pool-client](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-user-pool-client.html)|[Get-CGIPUserPoolClient](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolClient.html)|
 |[aws cognito-idp describe-user-pool-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/describe-user-pool-domain.html)|[Get-CGIPUserPoolDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPUserPoolDomain.html)|
 |[aws cognito-idp forget-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/forget-device.html)|[Stop-CGIPDeviceTracking](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CGIPDeviceTracking.html)|
 |[aws cognito-idp forgot-password](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/forgot-password.html)|[Reset-CGIPForgottenPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-CGIPForgottenPassword.html)|
+|[aws cognito-idp get-client-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-client-token.html)|[Get-CGIPClientToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPClientToken.html)|
 |[aws cognito-idp get-csv-header](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-csv-header.html)|[Get-CGIPCSVHeader](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPCSVHeader.html)|
 |[aws cognito-idp get-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-device.html)|[Get-CGIPDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPDevice.html)|
 |[aws cognito-idp get-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cognito-idp/get-group.html)|[Get-CGIPGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CGIPGroup.html)|

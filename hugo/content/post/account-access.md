@@ -1,6 +1,6 @@
 ---
 title: account-access
-date: 2026-08-28
+date: 2026-09-11
 description: aws account-access (AWS IAM Account access manager) command/cmdlet list.
 ---
 

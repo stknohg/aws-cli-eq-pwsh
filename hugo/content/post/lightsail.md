@@ -1,6 +1,6 @@
 ---
 title: lightsail
-date: 2026-08-28
+date: 2026-09-11
 description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 ---
 
@@ -123,6 +123,7 @@ description: aws lightsail (Amazon Lightsail) command/cmdlet list.
 |[aws lightsail get-operation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-operation.html)|[Get-LSOperation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperation.html)|
 |[aws lightsail get-operations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-operations.html)|[Get-LSOperationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperationList.html)|
 |[aws lightsail get-operations-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-operations-for-resource.html)|[Get-LSOperationListForResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSOperationListForResource.html)|
+|[aws lightsail get-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-profile.html)|[Get-LSProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSProfile.html)|
 |[aws lightsail get-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-regions.html)|[Get-LSRegionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRegionList.html)|
 |[aws lightsail get-relational-database](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-relational-database.html)|[Get-LSRelationalDatabase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabase.html)|
 |[aws lightsail get-relational-database-blueprints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lightsail/get-relational-database-blueprints.html)|[Get-LSRelationalDatabaseBlueprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LSRelationalDatabaseBlueprint.html)|

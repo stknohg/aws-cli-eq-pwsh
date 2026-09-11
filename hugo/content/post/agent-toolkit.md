@@ -1,6 +1,6 @@
 ---
 title: agent-toolkit
-date: 2026-08-28
+date: 2026-09-11
 description: aws agent-toolkit (-) command/cmdlet list.
 ---
 

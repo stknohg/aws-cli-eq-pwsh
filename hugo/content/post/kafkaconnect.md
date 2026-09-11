@@ -1,6 +1,6 @@
 ---
 title: kafkaconnect
-date: 2026-08-28
+date: 2026-09-11
 description: aws kafkaconnect (Amazon Managed Streaming for Kafka Connect) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws kafkaconnect (Amazon Managed Streaming for Kafka Connect) comma
 |[aws kafkaconnect list-custom-plugins](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-custom-plugins.html)|[Get-MSKCCustomPluginList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCCustomPluginList.html)|
 |[aws kafkaconnect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-tags-for-resource.html)|[Get-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCResourceTag.html)|
 |[aws kafkaconnect list-worker-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/list-worker-configurations.html)|[Get-MSKCWorkerConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MSKCWorkerConfigurationList.html)|
+|[aws kafkaconnect restart-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/restart-connector.html)|[Restart-MSKCConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-MSKCConnector.html)|
 |[aws kafkaconnect tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/tag-resource.html)|[Add-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MSKCResourceTag.html)|
 |[aws kafkaconnect untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/untag-resource.html)|[Remove-MSKCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MSKCResourceTag.html)|
 |[aws kafkaconnect update-connector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kafkaconnect/update-connector.html)|[Update-MSKCConnector](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-MSKCConnector.html)|

@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2026-08-28
+date: 2026-09-11
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws sesv2 associate-email-identity-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/associate-email-identity-certificate.html)|[Add-SES2EmailIdentityCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SES2EmailIdentityCertificate.html)|
 |[aws sesv2 batch-get-metric-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/batch-get-metric-data.html)|[Get-SES2BatchMetricData](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2BatchMetricData.html)|
 |[aws sesv2 cancel-export-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/cancel-export-job.html)|[Stop-SES2ExportJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SES2ExportJob.html)|
 |[aws sesv2 create-configuration-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/create-configuration-set.html)|[New-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SES2ConfigurationSet.html)|
@@ -43,6 +44,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 delete-suppressed-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/delete-suppressed-destination.html)|[Remove-SES2SuppressedDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2SuppressedDestination.html)|
 |[aws sesv2 delete-tenant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/delete-tenant.html)|[Remove-SES2Tenant](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2Tenant.html)|
 |[aws sesv2 delete-tenant-resource-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/delete-tenant-resource-association.html)|[Remove-SES2TenantResourceAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2TenantResourceAssociation.html)|
+|[aws sesv2 disassociate-email-identity-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/disassociate-email-identity-certificate.html)|[Remove-SES2EmailIdentityCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2EmailIdentityCertificate.html)|
 |[aws sesv2 get-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-account.html)|[Get-SES2Account](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2Account.html)|
 |[aws sesv2 get-blacklist-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-blacklist-reports.html)|[Get-SES2BlacklistReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2BlacklistReport.html)|
 |[aws sesv2 get-configuration-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/get-configuration-set.html)|[Get-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ConfigurationSet.html)|
@@ -76,6 +78,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 list-deliverability-test-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-deliverability-test-reports.html)|[Get-SES2DeliverabilityTestReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DeliverabilityTestReportList.html)|
 |[aws sesv2 list-domain-deliverability-campaigns](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-domain-deliverability-campaigns.html)|[Get-SES2DomainDeliverabilityCampaignList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2DomainDeliverabilityCampaignList.html)|
 |[aws sesv2 list-email-identities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-email-identities.html)|[Get-SES2EmailIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentityList.html)|
+|[aws sesv2 list-email-identity-certificates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-email-identity-certificates.html)|[Get-SES2EmailIdentityCertificateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailIdentityCertificateList.html)|
 |[aws sesv2 list-email-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-email-templates.html)|[Get-SES2EmailTemplateList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2EmailTemplateList.html)|
 |[aws sesv2 list-export-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-export-jobs.html)|[Get-SES2ExportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ExportJobList.html)|
 |[aws sesv2 list-import-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-import-jobs.html)|[Get-SES2ImportJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2ImportJobList.html)|
@@ -117,6 +120,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/tag-resource.html)|[Add-SES2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SES2ResourceTag.html)|
 |[aws sesv2 test-render-email-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/test-render-email-template.html)|[Test-SES2RenderEmailTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-SES2RenderEmailTemplate.html)|
 |[aws sesv2 untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/untag-resource.html)|[Remove-SES2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SES2ResourceTag.html)|
+|[aws sesv2 update-configuration-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/update-configuration-set.html)|[Update-SES2ConfigurationSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2ConfigurationSet.html)|
 |[aws sesv2 update-configuration-set-event-destination](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/update-configuration-set-event-destination.html)|[Update-SES2ConfigurationSetEventDestination](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2ConfigurationSetEventDestination.html)|
 |[aws sesv2 update-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/update-contact.html)|[Update-SES2Contact](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2Contact.html)|
 |[aws sesv2 update-contact-list](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/update-contact-list.html)|[Update-SES2ContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SES2ContactList.html)|

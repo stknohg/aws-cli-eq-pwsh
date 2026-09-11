@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2026-08-28
+date: 2026-09-11
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -14,12 +14,15 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws kinesis add-tags-to-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/add-tags-to-stream.html)|[Add-KINTagsToStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINTagsToStream.html)|
+|[aws kinesis create-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/create-channel.html)|[New-KINChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINChannel.html)|
 |[aws kinesis create-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/create-stream.html)|[New-KINStream](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KINStream.html)|
 |[aws kinesis decrease-stream-retention-period](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/decrease-stream-retention-period.html)|[Request-KINStreamRetentionPeriodDecrease](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-KINStreamRetentionPeriodDecrease.html)|
+|[aws kinesis delete-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/delete-channel.html)|[Remove-KINChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINChannel.html)|
 |[aws kinesis delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/delete-resource-policy.html)|[Remove-KINResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINResourcePolicy.html)|
 |[aws kinesis delete-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/delete-stream.html)|[Remove-KINStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINStream.html)|
 |[aws kinesis deregister-stream-consumer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/deregister-stream-consumer.html)|[Unregister-KINStreamConsumer](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-KINStreamConsumer.html)|
 |[aws kinesis describe-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-account-settings.html)|[Get-KINAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINAccountSetting.html)|
+|[aws kinesis describe-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-channel.html)|[Get-KINChannelDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINChannelDetail.html)|
 |[aws kinesis describe-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-limits.html)|[Get-KINLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINLimit.html)|
 |[aws kinesis describe-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-stream.html)|[Get-KINStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStream.html)|
 |[aws kinesis describe-stream-consumer](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/describe-stream-consumer.html)|[Get-KINStreamConsumer](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStreamConsumer.html)|
@@ -30,6 +33,7 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/get-resource-policy.html)|[Get-KINResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINResourcePolicy.html)|
 |[aws kinesis get-shard-iterator](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/get-shard-iterator.html)|[Get-KINShardIterator](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINShardIterator.html)|
 |[aws kinesis increase-stream-retention-period](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/increase-stream-retention-period.html)|[Request-KINStreamRetentionPeriodIncrease](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-KINStreamRetentionPeriodIncrease.html)|
+|[aws kinesis list-channels](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-channels.html)|[Get-KINChannelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINChannelList.html)|
 |[aws kinesis list-shards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-shards.html)|[Get-KINShardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINShardList.html)|
 |[aws kinesis list-stream-consumers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-stream-consumers.html)|[Get-KINStreamConsumerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStreamConsumerList.html)|
 |[aws kinesis list-streams](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/list-streams.html)|[Get-KINStreamList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-KINStreamList.html)|
@@ -47,6 +51,7 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/tag-resource.html)|[Add-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-KINResourceTag.html)|
 |[aws kinesis untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/untag-resource.html)|[Remove-KINResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KINResourceTag.html)|
 |[aws kinesis update-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-account-settings.html)|[Update-KINAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINAccountSetting.html)|
+|[aws kinesis update-channel](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-channel.html)|[Update-KINChannel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINChannel.html)|
 |[aws kinesis update-max-record-size](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-max-record-size.html)|[Update-KINMaxRecordSize](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINMaxRecordSize.html)|
 |[aws kinesis update-shard-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-shard-count.html)|[Update-KINShardCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINShardCount.html)|
 |[aws kinesis update-stream-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-mode.html)|[Update-KINStreamMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamMode.html)|

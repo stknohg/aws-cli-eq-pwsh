@@ -1,6 +1,6 @@
 ---
 title: resiliencehubv2
-date: 2026-08-28
+date: 2026-09-11
 description: aws resiliencehubv2 (AWS Resilience Hub) command/cmdlet list.
 ---
 
@@ -59,7 +59,9 @@ description: aws resiliencehubv2 (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehubv2 list-system-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-system-events.html)|[Get-RH2SystemEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2SystemEventList.html)|
 |[aws resiliencehubv2 list-systems](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-systems.html)|[Get-RH2SystemList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2SystemList.html)|
 |[aws resiliencehubv2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-tags-for-resource.html)|[Get-RH2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2ResourceTag.html)|
+|[aws resiliencehubv2 list-test-run-dependencies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-test-run-dependencies.html)|[Get-RH2TestRunDependencyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestRunDependencyList.html)|
 |[aws resiliencehubv2 list-test-run-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-test-run-events.html)|[Get-RH2TestRunEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestRunEventList.html)|
+|[aws resiliencehubv2 list-test-run-source-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-test-run-source-events.html)|[Get-RH2TestRunSourceEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestRunSourceEventList.html)|
 |[aws resiliencehubv2 list-test-run-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-test-run-sources.html)|[Get-RH2TestRunSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestRunSourceList.html)|
 |[aws resiliencehubv2 list-test-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-test-runs.html)|[Get-RH2TestRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestRunList.html)|
 |[aws resiliencehubv2 list-test-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-test-sources.html)|[Get-RH2TestSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestSourceList.html)|

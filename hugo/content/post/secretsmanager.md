@@ -1,6 +1,6 @@
 ---
 title: secretsmanager
-date: 2026-08-28
+date: 2026-09-11
 description: aws secretsmanager (AWS Secrets Manager) command/cmdlet list.
 ---
 

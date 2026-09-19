@@ -1,6 +1,6 @@
 ---
 title: storagegateway
-date: 2026-09-11
+date: 2026-09-19
 description: aws storagegateway (AWS Storage Gateway) command/cmdlet list.
 ---
 

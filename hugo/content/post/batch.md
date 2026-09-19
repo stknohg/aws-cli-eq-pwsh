@@ -1,6 +1,6 @@
 ---
 title: batch
-date: 2026-09-11
+date: 2026-09-19
 description: aws batch (AWS Batch) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws batch cancel-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/cancel-job.html)|[Stop-BATJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BATJob.html)|
+|[aws batch cancel-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/cancel-jobs.html)|[Stop-BATJobCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BATJobCollection.html)|
 |[aws batch create-compute-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-compute-environment.html)|[New-BATComputeEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATComputeEnvironment.html)|
 |[aws batch create-consumable-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-consumable-resource.html)|[New-BATConsumableResource](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATConsumableResource.html)|
 |[aws batch create-job-queue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/create-job-queue.html)|[New-BATJobQueue](https://docs.aws.amazon.com/powershell/latest/reference/items/New-BATJobQueue.html)|
@@ -49,7 +50,9 @@ description: aws batch (AWS Batch) command/cmdlet list.
 |[aws batch submit-service-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/submit-service-job.html)|[Submit-BATServiceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-BATServiceJob.html)|
 |[aws batch tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/tag-resource.html)|[Add-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BATResourceTag.html)|
 |[aws batch terminate-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/terminate-job.html)|[Remove-BATJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATJob.html)|
+|[aws batch terminate-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/terminate-jobs.html)|[Remove-BATJobCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATJobCollection.html)|
 |[aws batch terminate-service-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/terminate-service-job.html)|[Stop-BATServiceJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BATServiceJob.html)|
+|[aws batch terminate-service-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/terminate-service-jobs.html)|[Stop-BATServiceJobCollection](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-BATServiceJobCollection.html)|
 |[aws batch untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/untag-resource.html)|[Remove-BATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BATResourceTag.html)|
 |[aws batch update-compute-environment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-compute-environment.html)|[Update-BATComputeEnvironment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATComputeEnvironment.html)|
 |[aws batch update-consumable-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/batch/update-consumable-resource.html)|[Update-BATConsumableResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-BATConsumableResource.html)|

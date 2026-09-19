@@ -1,6 +1,6 @@
 ---
 title: glue
-date: 2026-09-11
+date: 2026-09-19
 description: aws glue (AWS Glue) command/cmdlet list.
 ---
 
@@ -222,6 +222,7 @@ description: aws glue (AWS Glue) command/cmdlet list.
 |[aws glue list-glossaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-glossaries.html)|[Get-GLUEGlossaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGlossaryList.html)|
 |[aws glue list-glossary-terms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-glossary-terms.html)|[Get-GLUEGlossaryTermList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEGlossaryTermList.html)|
 |[aws glue list-integration-resource-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-integration-resource-properties.html)|[Get-GLUEIntegrationResourcePropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIntegrationResourcePropertyList.html)|
+|[aws glue list-integration-table-properties](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-integration-table-properties.html)|[Get-GLUEIntegrationTablePropertyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIntegrationTablePropertyList.html)|
 |[aws glue list-iterable-forms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-iterable-forms.html)|[Get-GLUEIterableFormList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEIterableFormList.html)|
 |[aws glue list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-jobs.html)|[Get-GLUEJobNameList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEJobNameList.html)|
 |[aws glue list-materialized-view-refresh-task-runs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/glue/list-materialized-view-refresh-task-runs.html)|[Get-GLUEMaterializedViewRefreshTaskRunList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GLUEMaterializedViewRefreshTaskRunList.html)|

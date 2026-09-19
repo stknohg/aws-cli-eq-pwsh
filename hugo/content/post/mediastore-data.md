@@ -1,6 +1,6 @@
 ---
 title: mediastore-data
-date: 2026-09-11
+date: 2026-09-19
 description: aws mediastore-data (AWS Elemental MediaStore Data Plane) command/cmdlet list.
 ---
 

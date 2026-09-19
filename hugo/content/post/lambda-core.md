@@ -1,6 +1,6 @@
 ---
 title: lambda-core
-date: 2026-09-11
+date: 2026-09-19
 description: aws lambda-core (AWS Lambda Core SDK) command/cmdlet list.
 ---
 

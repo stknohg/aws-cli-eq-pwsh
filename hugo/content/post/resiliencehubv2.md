@@ -1,6 +1,6 @@
 ---
 title: resiliencehubv2
-date: 2026-09-11
+date: 2026-09-19
 description: aws resiliencehubv2 (AWS Resilience Hub) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws resiliencehubv2 (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehubv2 delete-test](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/delete-test.html)|[Remove-RH2Test](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RH2Test.html)|
 |[aws resiliencehubv2 delete-test-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/delete-test-sources.html)|[Remove-RH2TestSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RH2TestSource.html)|
 |[aws resiliencehubv2 delete-user-journey](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/delete-user-journey.html)|[Remove-RH2UserJourney](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RH2UserJourney.html)|
+|[aws resiliencehubv2 get-dependency-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/get-dependency-insights.html)|[Get-RH2DependencyInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2DependencyInsight.html)|
 |[aws resiliencehubv2 get-failure-mode-finding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/get-failure-mode-finding.html)|[Get-RH2FailureModeFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2FailureModeFinding.html)|
 |[aws resiliencehubv2 get-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/get-policy.html)|[Get-RH2Policy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2Policy.html)|
 |[aws resiliencehubv2 get-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/get-service.html)|[Get-RH2Service](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2Service.html)|
@@ -49,6 +50,7 @@ description: aws resiliencehubv2 (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehubv2 list-failure-mode-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-failure-mode-findings.html)|[Get-RH2FailureModeFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2FailureModeFindingList.html)|
 |[aws resiliencehubv2 list-input-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-input-sources.html)|[Get-RH2InputSourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2InputSourceList.html)|
 |[aws resiliencehubv2 list-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-policies.html)|[Get-RH2PolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2PolicyList.html)|
+|[aws resiliencehubv2 list-policy-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-policy-events.html)|[Get-RH2PolicyEventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2PolicyEventList.html)|
 |[aws resiliencehubv2 list-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-reports.html)|[Get-RH2ReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2ReportList.html)|
 |[aws resiliencehubv2 list-resolved-test-run-target-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-resolved-test-run-target-resources.html)|[Get-RH2ResolvedTestRunTargetResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2ResolvedTestRunTargetResourceList.html)|
 |[aws resiliencehubv2 list-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-resources.html)|[Get-RH2ResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2ResourceList.html)|
@@ -69,6 +71,7 @@ description: aws resiliencehubv2 (AWS Resilience Hub) command/cmdlet list.
 |[aws resiliencehubv2 list-tests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-tests.html)|[Get-RH2TestList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2TestList.html)|
 |[aws resiliencehubv2 list-user-journeys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/list-user-journeys.html)|[Get-RH2UserJourneyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-RH2UserJourneyList.html)|
 |[aws resiliencehubv2 put-test-sources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/put-test-sources.html)|[Write-RH2TestSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-RH2TestSource.html)|
+|[aws resiliencehubv2 start-dependency-insights](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/start-dependency-insights.html)|[Start-RH2DependencyInsight](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RH2DependencyInsight.html)|
 |[aws resiliencehubv2 start-failure-mode-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/start-failure-mode-assessment.html)|[Start-RH2FailureModeAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RH2FailureModeAssessment.html)|
 |[aws resiliencehubv2 start-test-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/start-test-run.html)|[Start-RH2TestRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-RH2TestRun.html)|
 |[aws resiliencehubv2 stop-test-run](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/resiliencehubv2/stop-test-run.html)|[Stop-RH2TestRun](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-RH2TestRun.html)|

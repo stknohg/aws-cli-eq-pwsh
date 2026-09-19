@@ -1,6 +1,6 @@
 ---
 title: invoicing
-date: 2026-09-11
+date: 2026-09-19
 description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ---
 
@@ -24,6 +24,8 @@ description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 |[aws invoicing list-invoice-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-invoice-summaries.html)|[Get-INVInvoiceSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVInvoiceSummaryList.html)|
 |[aws invoicing list-invoice-units](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-invoice-units.html)|[Get-INVInvoiceUnitList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVInvoiceUnitList.html)|
 |[aws invoicing list-procurement-portal-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-procurement-portal-preferences.html)|[Get-INVProcurementPortalPreferenceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVProcurementPortalPreferenceList.html)|
+|[aws invoicing list-procurement-portal-suppliers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-procurement-portal-suppliers.html)|[Get-INVProcurementPortalSupplierList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVProcurementPortalSupplierList.html)|
+|[aws invoicing list-procurement-portals](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-procurement-portals.html)|[Get-INVProcurementPortalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVProcurementPortalList.html)|
 |[aws invoicing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/list-tags-for-resource.html)|[Get-INVResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INVResourceTag.html)|
 |[aws invoicing put-procurement-portal-preference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/put-procurement-portal-preference.html)|[Write-INVProcurementPortalPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-INVProcurementPortalPreference.html)|
 |[aws invoicing send-procurement-portal-validation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/invoicing/send-procurement-portal-validation.html)|[Send-INVProcurementPortalValidation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-INVProcurementPortalValidation.html)|

@@ -1,6 +1,6 @@
 ---
 title: customer-profiles
-date: 2026-09-11
+date: 2026-09-19
 description: aws customer-profiles (Amazon Connect Customer Profiles) command/cmdlet list.
 ---
 
@@ -115,6 +115,7 @@ description: aws customer-profiles (Amazon Connect Customer Profiles) command/cm
 |[aws customer-profiles put-profile-object-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/put-profile-object-type.html)|[Write-CPFProfileObjectType](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPFProfileObjectType.html)|
 |[aws customer-profiles put-segment-subscription](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/put-segment-subscription.html)|[Write-CPFSegmentSubscription](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CPFSegmentSubscription.html)|
 |[aws customer-profiles search-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/search-profiles.html)|[Search-CPFProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CPFProfile.html)|
+|[aws customer-profiles search-recommendations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/search-recommendations.html)|[Search-CPFRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CPFRecommendation.html)|
 |[aws customer-profiles start-recommender](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/start-recommender.html)|[Start-CPFRecommender](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CPFRecommender.html)|
 |[aws customer-profiles start-upload-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/start-upload-job.html)|[Start-CPFUploadJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CPFUploadJob.html)|
 |[aws customer-profiles stop-recommender](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/customer-profiles/stop-recommender.html)|[Stop-CPFRecommender](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CPFRecommender.html)|

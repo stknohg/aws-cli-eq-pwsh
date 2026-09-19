@@ -1,6 +1,6 @@
 ---
 title: transcribe
-date: 2026-09-11
+date: 2026-09-19
 description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 ---
 
@@ -53,6 +53,7 @@ description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 |[aws transcribe tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/tag-resource.html)|[Add-TRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TRSResourceTag.html)|
 |[aws transcribe untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/untag-resource.html)|[Remove-TRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TRSResourceTag.html)|
 |[aws transcribe update-call-analytics-category](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-call-analytics-category.html)|[Update-TRSCallAnalyticsCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSCallAnalyticsCategory.html)|
+|[aws transcribe update-language-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-language-model.html)|[Update-TRSLanguageModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSLanguageModel.html)|
 |[aws transcribe update-medical-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-medical-vocabulary.html)|[Update-TRSMedicalVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSMedicalVocabulary.html)|
 |[aws transcribe update-vocabulary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-vocabulary.html)|[Update-TRSVocabulary](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSVocabulary.html)|
 |[aws transcribe update-vocabulary-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-vocabulary-filter.html)|[Update-TRSVocabularyFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSVocabularyFilter.html)|

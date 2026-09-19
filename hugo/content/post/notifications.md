@@ -1,6 +1,6 @@
 ---
 title: notifications
-date: 2026-09-11
+date: 2026-09-19
 description: aws notifications (AWS User Notifications) command/cmdlet list.
 ---
 
@@ -60,5 +60,6 @@ description: aws notifications (AWS User Notifications) command/cmdlet list.
 |[aws notifications untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notifications/untag-resource.html)|[Remove-UNCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-UNCResourceTag.html)|
 |[aws notifications untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notifications/untag-resource.html)|[Remove-SNSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SNSResourceTag.html)|
 |[aws notifications update-event-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notifications/update-event-rule.html)|[Update-UNOEventRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-UNOEventRule.html)|
+|[aws notifications update-managed-notification-channel-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notifications/update-managed-notification-channel-association.html)|[Update-UNOManagedNotificationChannelAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-UNOManagedNotificationChannelAssociation.html)|
 |[aws notifications update-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/notifications/update-notification-configuration.html)|[Update-UNONotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-UNONotificationConfiguration.html)|
 

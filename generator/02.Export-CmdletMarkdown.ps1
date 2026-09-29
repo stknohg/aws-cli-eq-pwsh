@@ -35,6 +35,7 @@ $g_SubCommandAlias = @{
     'dynamodb'                     = 'ddb';
     'elbv2'                        = 'elb2';
     'events'                       = 'cwe';
+    'eventsv2'                     = 'eventbridgev2';
     'iotjobsdata'                  = 'iotj'
     'iotevents'                    = 'iote';
     'ioteventsdata'                = 'ioted';

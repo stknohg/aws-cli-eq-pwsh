@@ -479,6 +479,12 @@
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": ""
   },
+  "cloudwatchomni": {
+    "Prefix": "CWOM",
+    "Name": "Amazon CloudWatch Omni",
+    "Url": "https://aws.amazon.com/cloudwatch/omni/",
+    "Note": ""
+  },
   "codeartifact": {
     "Prefix": "CA",
     "Name": "AWS Artifact",
@@ -940,6 +946,12 @@
     "Name": "Amazon CloudWatch Events",
     "Url": "https://aws.amazon.com/cloudwatch/",
     "Note": "Only available in AWSPowerShell, AWSPowerShell.NetCore modules."
+  },
+  "eventsv2": {
+    "Prefix": "EVBV2",
+    "Name": "Amazon EventBridge event bus API",
+    "Url": "https://aws.amazon.com/eventbridge/",
+    "Note": ""
   },
   "evs": {
     "Prefix": "EVS",
@@ -1695,6 +1707,12 @@
     "Prefix": "NWFW",
     "Name": "AWS Network Firewall",
     "Url": "https://aws.amazon.com/network-firewall/",
+    "Note": ""
+  },
+  "network-security-manager": {
+    "Prefix": "NSM",
+    "Name": "AWS Network Security Manager",
+    "Url": "https://aws.amazon.com/network-security-manager/",
     "Note": ""
   },
   "networkflowmonitor": {

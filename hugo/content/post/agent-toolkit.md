@@ -1,6 +1,6 @@
 ---
 title: agent-toolkit
-date: 2026-09-19
+date: 2026-09-29
 description: aws agent-toolkit (-) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws agent-toolkit (-) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws agent-toolkit add-skill](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-toolkit/add-skill.html)||
+|[aws agent-toolkit check-skill-updates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-toolkit/check-skill-updates.html)||
 |[aws agent-toolkit get-skill-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-toolkit/get-skill-file.html)||
 |[aws agent-toolkit get-skill-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-toolkit/get-skill-metadata.html)||
 |[aws agent-toolkit list-available-skills](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-toolkit/list-available-skills.html)||

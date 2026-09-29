@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-09-19
+date: 2026-09-29
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.36.49 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.302 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.37.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.308 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -100,6 +100,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)|[cloudtrail]({{%relref "post/cloudtrail.md" %}})|CT||
 |[AWS CloudTrail](https://aws.amazon.com/cloudtrail/)|[cloudtrail-data]({{%relref "post/cloudtrail-data.md" %}})|CTD|Data Service|
 |[Amazon CloudWatch](https://aws.amazon.com/cloudwatch/)|[cloudwatch]({{%relref "post/cloudwatch.md" %}})|CW||
+|[Amazon CloudWatch Omni](https://aws.amazon.com/cloudwatch/omni/)|[cloudwatchomni]({{%relref "post/cloudwatchomni.md" %}})|CWOM||
 |[AWS Artifact](https://aws.amazon.com/artifact/)|[codeartifact]({{%relref "post/codeartifact.md" %}})|CA||
 |[AWS CodeBuild](https://aws.amazon.com/codebuild/)|[codebuild]({{%relref "post/codebuild.md" %}})|CB||
 |[Amazon CodeCatalyst](https://aws.amazon.com/codecatalyst/)|[codecatalyst]({{%relref "post/codecatalyst.md" %}})|CCAT||
@@ -177,6 +178,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/)|[entityresolution]({{%relref "post/entityresolution.md" %}})|ERES||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
+|[Amazon EventBridge event bus API](https://aws.amazon.com/eventbridge/)|[eventsv2]({{%relref "post/eventsv2.md" %}})|EVBV2||
 |[Amazon Elastic VMware Service](https://aws.amazon.com/evs/)|[evs]({{%relref "post/evs.md" %}})|EVS||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
 |[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
@@ -302,6 +304,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Neptune Analytics](https://aws.amazon.com/neptune/)|[neptune-graph]({{%relref "post/neptune-graph.md" %}})|NEPTG||
 |[Amazon Neptune](https://aws.amazon.com/neptune/)|[neptunedata]({{%relref "post/neptunedata.md" %}})|NEPT|Data API|
 |[AWS Network Firewall](https://aws.amazon.com/network-firewall/)|[network-firewall]({{%relref "post/network-firewall.md" %}})|NWFW||
+|[AWS Network Security Manager](https://aws.amazon.com/network-security-manager/)|[network-security-manager]({{%relref "post/network-security-manager.md" %}})|NSM||
 |[Amazon CloudWatch Network Flow Monitor](https://aws.amazon.com/cloudwatch/features/network-monitoring/)|[networkflowmonitor]({{%relref "post/networkflowmonitor.md" %}})|NFM||
 |[AWS Transit Gateway network manager](https://aws.amazon.com/transit-gateway/network-manager/)|[networkmanager]({{%relref "post/networkmanager.md" %}})|NMGR||
 |[Amazon CloudWatch Network Monitor](https://aws.amazon.com/cloudwatch/)|[networkmonitor]({{%relref "post/networkmonitor.md" %}})|CWNM||

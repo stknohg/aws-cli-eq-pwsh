@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore-control
-date: 2026-09-19
+date: 2026-09-29
 description: aws bedrock-agentcore-control (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 
@@ -150,6 +150,7 @@ description: aws bedrock-agentcore-control (Amazon Bedrock AgentCore) command/cm
 |[aws bedrock-agentcore-control list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-tags-for-resource.html)|[Get-BACCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCResourceTag.html)|
 |[aws bedrock-agentcore-control list-workload-identities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/list-workload-identities.html)|[Get-BACCWorkloadIdentityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BACCWorkloadIdentityList.html)|
 |[aws bedrock-agentcore-control put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/put-resource-policy.html)|[Write-BACCResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-BACCResourcePolicy.html)|
+|[aws bedrock-agentcore-control rotate-payment-connector-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/rotate-payment-connector-credentials.html)|[Invoke-BACCPaymentConnectorCredentialRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-BACCPaymentConnectorCredentialRotation.html)|
 |[aws bedrock-agentcore-control set-token-vault-cmk](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/set-token-vault-cmk.html)|[Set-BACCTokenVaultCMK](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-BACCTokenVaultCMK.html)|
 |[aws bedrock-agentcore-control start-policy-generation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/start-policy-generation.html)|[Start-BACCPolicyGeneration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-BACCPolicyGeneration.html)|
 |[aws bedrock-agentcore-control submit-registry-record-for-approval](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bedrock-agentcore-control/submit-registry-record-for-approval.html)|[Submit-BACCRegistryRecordForApproval](https://docs.aws.amazon.com/powershell/latest/reference/items/Submit-BACCRegistryRecordForApproval.html)|

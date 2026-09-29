@@ -1,6 +1,6 @@
 ---
 title: billingconductor
-date: 2026-09-19
+date: 2026-09-29
 description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 ---
 
@@ -28,6 +28,7 @@ description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 |[aws billingconductor disassociate-accounts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/disassociate-accounts.html)|[Unregister-ABCAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ABCAccount.html)|
 |[aws billingconductor disassociate-pricing-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/disassociate-pricing-rules.html)|[Unregister-ABCPricingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-ABCPricingRule.html)|
 |[aws billingconductor get-billing-group-cost-report](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/get-billing-group-cost-report.html)|[Get-ABCBillingGroupCostReport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupCostReport.html)|
+|[aws billingconductor get-billing-transfer-preference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/get-billing-transfer-preference.html)|[Get-ABCBillingTransferPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingTransferPreference.html)|
 |[aws billingconductor list-account-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/list-account-associations.html)|[Get-ABCAccountAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCAccountAssociationList.html)|
 |[aws billingconductor list-billing-group-cost-reports](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/list-billing-group-cost-reports.html)|[Get-ABCBillingGroupCostReportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupCostReportList.html)|
 |[aws billingconductor list-billing-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/list-billing-groups.html)|[Get-ABCBillingGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCBillingGroupList.html)|
@@ -42,6 +43,7 @@ description: aws billingconductor (AWS Billing Conductor) command/cmdlet list.
 |[aws billingconductor tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/tag-resource.html)|[Add-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ABCResourceTag.html)|
 |[aws billingconductor untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/untag-resource.html)|[Remove-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ABCResourceTag.html)|
 |[aws billingconductor update-billing-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/update-billing-group.html)|[Update-ABCBillingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ABCBillingGroup.html)|
+|[aws billingconductor update-billing-transfer-preference](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/update-billing-transfer-preference.html)|[Update-ABCBillingTransferPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ABCBillingTransferPreference.html)|
 |[aws billingconductor update-custom-line-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/update-custom-line-item.html)|[Update-ABCCustomLineItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ABCCustomLineItem.html)|
 |[aws billingconductor update-pricing-plan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/update-pricing-plan.html)|[Update-ABCPricingPlan](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ABCPricingPlan.html)|
 |[aws billingconductor update-pricing-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billingconductor/update-pricing-rule.html)|[Update-ABCPricingRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ABCPricingRule.html)|

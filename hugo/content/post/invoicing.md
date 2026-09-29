@@ -1,6 +1,6 @@
 ---
 title: invoicing
-date: 2026-09-19
+date: 2026-09-29
 description: aws invoicing (AWS Invoice Configuration) command/cmdlet list.
 ---
 

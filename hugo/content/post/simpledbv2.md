@@ -1,6 +1,6 @@
 ---
 title: simpledbv2
-date: 2026-09-19
+date: 2026-09-29
 description: aws simpledbv2 (Amazon SimpleDB) command/cmdlet list.
 ---
 

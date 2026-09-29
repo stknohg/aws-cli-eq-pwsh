@@ -1,6 +1,6 @@
 ---
 title: cloudwatch
-date: 2026-09-19
+date: 2026-09-29
 description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 ---
 
@@ -14,12 +14,14 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws cloudwatch associate-dataset-kms-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/associate-dataset-kms-key.html)|[Add-CWDatasetKmsKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWDatasetKmsKey.html)|
+|[aws cloudwatch create-resource-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/create-resource-metrics-configuration.html)|[New-CWResourceMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CWResourceMetricsConfiguration.html)|
 |[aws cloudwatch delete-alarm-mute-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-alarm-mute-rule.html)|[Remove-CWAlarmMuteRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAlarmMuteRule.html)|
 |[aws cloudwatch delete-alarms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-alarms.html)|[Remove-CWAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAlarm.html)|
 |[aws cloudwatch delete-anomaly-detector](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-anomaly-detector.html)|[Remove-CWAnomalyDetector](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWAnomalyDetector.html)|
 |[aws cloudwatch delete-dashboards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-dashboards.html)|[Remove-CWDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWDashboard.html)|
 |[aws cloudwatch delete-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-insight-rules.html)|[Remove-CWInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWInsightRule.html)|
 |[aws cloudwatch delete-metric-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-metric-stream.html)|[Remove-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWMetricStream.html)|
+|[aws cloudwatch delete-resource-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/delete-resource-metrics-configuration.html)|[Remove-CWResourceMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWResourceMetricsConfiguration.html)|
 |[aws cloudwatch describe-alarm-contributors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarm-contributors.html)|[Get-CWAlarmContributor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmContributor.html)|
 |[aws cloudwatch describe-alarm-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarm-history.html)|[Get-CWAlarmHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmHistory.html)|
 |[aws cloudwatch describe-alarms](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/describe-alarms.html)|[Get-CWAlarm](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarm.html)|
@@ -40,6 +42,7 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch get-metric-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-stream.html)|[Get-CWMetricStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricStream.html)|
 |[aws cloudwatch get-metric-widget-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-metric-widget-image.html)|[Get-CWMetricWidgetImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWMetricWidgetImage.html)|
 |[aws cloudwatch get-otel-enrichment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-otel-enrichment.html)|[Get-CWOTelEnrichment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOTelEnrichment.html)|
+|[aws cloudwatch get-resource-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/get-resource-metrics-configuration.html)|[Get-CWResourceMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWResourceMetricsConfiguration.html)|
 |[aws cloudwatch list-alarm-mute-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-alarm-mute-rules.html)|[Get-CWAlarmMuteRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWAlarmMuteRuleList.html)|
 |[aws cloudwatch list-dashboards](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-dashboards.html)|[Get-CWDashboardList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWDashboardList.html)|
 |[aws cloudwatch list-managed-insight-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/list-managed-insight-rules.html)|[Get-CWManagedInsightRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWManagedInsightRule.html)|
@@ -63,4 +66,6 @@ description: aws cloudwatch (Amazon CloudWatch) command/cmdlet list.
 |[aws cloudwatch stop-otel-enrichment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/stop-otel-enrichment.html)|[Stop-CWOTelEnrichment](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-CWOTelEnrichment.html)|
 |[aws cloudwatch tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/tag-resource.html)|[Add-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CWResourceTag.html)|
 |[aws cloudwatch untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/untag-resource.html)|[Remove-CWResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CWResourceTag.html)|
+|[aws cloudwatch update-otel-enrichment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/update-otel-enrichment.html)|[Update-CWOTelEnrichment](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWOTelEnrichment.html)|
+|[aws cloudwatch update-resource-metrics-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatch/update-resource-metrics-configuration.html)|[Update-CWResourceMetricsConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CWResourceMetricsConfiguration.html)|
 

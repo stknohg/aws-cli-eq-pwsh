@@ -1,6 +1,6 @@
 ---
 title: billing
-date: 2026-09-19
+date: 2026-09-29
 description: aws billing (AWS Billing) command/cmdlet list.
 ---
 
@@ -25,7 +25,10 @@ description: aws billing (AWS Billing) command/cmdlet list.
 |[aws billing get-enterprise-support-contract-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-enterprise-support-contract-details.html)|[Get-AWSBEnterpriseSupportContractDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBEnterpriseSupportContractDetail.html)|
 |[aws billing get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-resource-policy.html)|[Get-BCMDResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDResourcePolicy.html)|
 |[aws billing get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-resource-policy.html)|[Get-AWSBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBResourcePolicy.html)|
+|[aws billing list-billing-view-segments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-billing-view-segments.html)|[Get-AWSBBillingViewSegmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingViewSegmentList.html)|
 |[aws billing list-billing-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-billing-views.html)|[Get-AWSBBillingViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingViewList.html)|
+|[aws billing list-business-support-account-charges](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-business-support-account-charges.html)|[Get-AWSBBusinessSupportAccountChargeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBusinessSupportAccountChargeList.html)|
+|[aws billing list-business-support-subscription-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-business-support-subscription-history.html)|[Get-AWSBBusinessSupportSubscriptionHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBusinessSupportSubscriptionHistoryList.html)|
 |[aws billing list-enterprise-support-linked-account-charges](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-enterprise-support-linked-account-charges.html)|[Get-AWSBEnterpriseSupportLinkedAccountChargeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBEnterpriseSupportLinkedAccountChargeList.html)|
 |[aws billing list-source-views-for-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-source-views-for-billing-view.html)|[Get-AWSBSourceViewsForBillingViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBSourceViewsForBillingViewList.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-BCMDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDResourceTag.html)|

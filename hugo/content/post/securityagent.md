@@ -1,6 +1,6 @@
 ---
 title: securityagent
-date: 2026-09-19
+date: 2026-09-29
 description: aws securityagent (AWS Security Agent) command/cmdlet list.
 ---
 
@@ -61,6 +61,7 @@ description: aws securityagent (AWS Security Agent) command/cmdlet list.
 |[aws securityagent get-security-requirement-pack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/get-security-requirement-pack.html)|[Get-SECAGSecurityRequirementPack](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGSecurityRequirementPack.html)|
 |[aws securityagent import-security-requirements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/import-security-requirements.html)|[Import-SECAGSecurityRequirement](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-SECAGSecurityRequirement.html)|
 |[aws securityagent initiate-provider-registration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/initiate-provider-registration.html)|[Start-SECAGProviderRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SECAGProviderRegistration.html)|
+|[aws securityagent list-actor-messages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-actor-messages.html)|[Get-SECAGActorMessageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGActorMessageList.html)|
 |[aws securityagent list-agent-spaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-agent-spaces.html)|[Get-SECAGAgentSpaceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGAgentSpaceList.html)|
 |[aws securityagent list-applications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-applications.html)|[Get-SECAGApplicationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGApplicationList.html)|
 |[aws securityagent list-artifacts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-artifacts.html)|[Get-SECAGArtifactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGArtifactList.html)|

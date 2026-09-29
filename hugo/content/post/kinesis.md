@@ -1,6 +1,6 @@
 ---
 title: kinesis
-date: 2026-09-19
+date: 2026-09-29
 description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 ---
 
@@ -55,5 +55,6 @@ description: aws kinesis (Amazon Kinesis) command/cmdlet list.
 |[aws kinesis update-max-record-size](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-max-record-size.html)|[Update-KINMaxRecordSize](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINMaxRecordSize.html)|
 |[aws kinesis update-shard-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-shard-count.html)|[Update-KINShardCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINShardCount.html)|
 |[aws kinesis update-stream-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-mode.html)|[Update-KINStreamMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamMode.html)|
+|[aws kinesis update-stream-record-distribution-strategy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-record-distribution-strategy.html)|[Update-KINStreamRecordDistributionStrategy](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamRecordDistributionStrategy.html)|
 |[aws kinesis update-stream-warm-throughput](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kinesis/update-stream-warm-throughput.html)|[Update-KINStreamWarmThroughput](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-KINStreamWarmThroughput.html)|
 

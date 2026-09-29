@@ -1,6 +1,6 @@
 ---
 title: fms
-date: 2026-09-19
+date: 2026-09-29
 description: aws fms (AWS Firewall Manager) command/cmdlet list.
 ---
 

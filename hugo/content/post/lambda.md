@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2026-09-29
+date: 2026-10-05
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -34,6 +34,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda delete-layer-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-layer-version.html)|[Remove-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersion.html)|
 |[aws lambda delete-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-provisioned-concurrency-config.html)|[Remove-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMProvisionedConcurrencyConfig.html)|
 |[aws lambda delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-resource-policy.html)|[Remove-LMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMResourcePolicy.html)|
+|[aws lambda delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-resource-policy.html)|[Remove-LWEBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LWEBResourcePolicy.html)|
 |[aws lambda get-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-account-settings.html)|[Get-LMAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAccountSetting.html)|
 |[aws lambda get-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-alias.html)|[Get-LMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAlias.html)|
 |[aws lambda get-capacity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-capacity-provider.html)|[Get-LMCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMCapacityProvider.html)|
@@ -56,6 +57,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda get-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-policy.html)|[Get-LMPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMPolicy.html)|
 |[aws lambda get-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-provisioned-concurrency-config.html)|[Get-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMProvisionedConcurrencyConfig.html)|
 |[aws lambda get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-resource-policy.html)|[Get-LMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMResourcePolicy.html)|
+|[aws lambda get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-resource-policy.html)|[Get-LWEBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LWEBResourcePolicy.html)|
 |[aws lambda get-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/get-runtime-management-config.html)|[Get-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMRuntimeManagementConfig.html)|
 |[aws lambda invoke](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/invoke.html)|[Invoke-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-LMFunction.html)|
 |[aws lambda list-aliases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-aliases.html)|[Get-LMAliasList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMAliasList.html)|
@@ -73,6 +75,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda list-provisioned-concurrency-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-provisioned-concurrency-configs.html)|[Get-LMProvisionedConcurrencyConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMProvisionedConcurrencyConfigList.html)|
 |[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMResourceTag.html)|
 |[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LMVM2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMVM2Tag.html)|
+|[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LWEBTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LWEBTag.html)|
 |[aws lambda list-versions-by-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-versions-by-function.html)|[Get-LMVersionsByFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMVersionsByFunction.html)|
 |[aws lambda publish-layer-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/publish-layer-version.html)|[Publish-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-LMLayerVersion.html)|
 |[aws lambda publish-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/publish-version.html)|[Publish-LMVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-LMVersion.html)|
@@ -83,6 +86,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda put-function-scaling-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-scaling-config.html)|[Write-LMFunctionScalingConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionScalingConfig.html)|
 |[aws lambda put-provisioned-concurrency-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-provisioned-concurrency-config.html)|[Write-LMProvisionedConcurrencyConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMProvisionedConcurrencyConfig.html)|
 |[aws lambda put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-resource-policy.html)|[Write-LMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMResourcePolicy.html)|
+|[aws lambda put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-resource-policy.html)|[Write-LWEBResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LWEBResourcePolicy.html)|
 |[aws lambda put-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-runtime-management-config.html)|[Write-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMRuntimeManagementConfig.html)|
 |[aws lambda remove-layer-version-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-layer-version-permission.html)|[Remove-LMLayerVersionPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersionPermission.html)|
 |[aws lambda remove-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-permission.html)|[Remove-LMPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMPermission.html)|
@@ -92,8 +96,10 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda stop-durable-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/stop-durable-execution.html)|[Stop-LMDurableExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-LMDurableExecution.html)|
 |[aws lambda tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/tag-resource.html)|[Add-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMResourceTag.html)|
 |[aws lambda tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/tag-resource.html)|[Add-LMVM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LMVM2ResourceTag.html)|
+|[aws lambda tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/tag-resource.html)|[Add-LWEBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-LWEBResourceTag.html)|
 |[aws lambda untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/untag-resource.html)|[Remove-LMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMResourceTag.html)|
 |[aws lambda untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/untag-resource.html)|[Remove-LMVM2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMVM2ResourceTag.html)|
+|[aws lambda untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/untag-resource.html)|[Remove-LWEBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LWEBResourceTag.html)|
 |[aws lambda update-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-alias.html)|[Update-LMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMAlias.html)|
 |[aws lambda update-capacity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-capacity-provider.html)|[Update-LMCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMCapacityProvider.html)|
 |[aws lambda update-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/update-code-signing-config.html)|[Update-LMCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-LMCodeSigningConfig.html)|

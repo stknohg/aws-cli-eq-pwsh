@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-09-29
+date: 2026-10-05
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.37.5 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.308 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.37.9 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.312 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -175,6 +175,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon EMR](https://aws.amazon.com/emr/)|[emr]({{%relref "post/emr.md" %}})|EMR||
 |[Amazon EMR on Amazon EKS](https://aws.amazon.com/emr/features/eks/)|[emr-containers]({{%relref "post/emr-containers.md" %}})|EMRC||
 |[Amazon EMR Serverless](https://aws.amazon.com/emr/serverless/)|[emr-serverless]({{%relref "post/emr-serverless.md" %}})|EMRServerless||
+|[AWS End User Messaging](https://aws.amazon.com/end-user-messaging/)|[endusermessaging]({{%relref "post/endusermessaging.md" %}})|EUM||
 |[AWS Entity Resolution](https://aws.amazon.com/entity-resolution/)|[entityresolution]({{%relref "post/entityresolution.md" %}})|ERES||
 |[Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/)|[es]({{%relref "post/es.md" %}})|ES||
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
@@ -250,6 +251,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Lambda](https://aws.amazon.com/lambda/)|[lambda]({{%relref "post/lambda.md" %}})|LM||
 |[AWS Lambda Core SDK](https://aws.amazon.com/lambda/)|[lambda-core]({{%relref "post/lambda-core.md" %}})|LMC||
 |[AWS Lambda MicroVMs](https://aws.amazon.com/lambda/)|[lambda-microvms]({{%relref "post/lambda-microvms.md" %}})|LMVM2||
+|[AWS Lambda Web Functions](https://aws.amazon.com/lambda/)|[lambda-web]({{%relref "post/lambda-web.md" %}})|LWEB||
 |[AWS Launch Wizard](https://aws.amazon.com/launchwizard/)|[launch-wizard]({{%relref "post/launch-wizard.md" %}})|LWIZ||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-models]({{%relref "post/lex-models.md" %}})|LMB||
 |[Amazon Lex](https://aws.amazon.com/lex/)|[lex-runtime]({{%relref "post/lex-runtime.md" %}})|LEX||

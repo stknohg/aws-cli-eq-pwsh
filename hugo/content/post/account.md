@@ -1,6 +1,6 @@
 ---
 title: account
-date: 2026-09-29
+date: 2026-10-05
 description: aws account (AWS Account Management) command/cmdlet list.
 ---
 
@@ -28,5 +28,7 @@ description: aws account (AWS Account Management) command/cmdlet list.
 |[aws account put-account-name](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/put-account-name.html)|[Write-ACCTAccountName](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ACCTAccountName.html)|
 |[aws account put-alternate-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/put-alternate-contact.html)|[Write-ACCTAlternateContact](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ACCTAlternateContact.html)|
 |[aws account put-contact-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/put-contact-information.html)|[Write-ACCTContactInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ACCTContactInformation.html)|
+|[aws account send-phone-number-verification](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/send-phone-number-verification.html)|[Send-ACCTPhoneNumberVerification](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-ACCTPhoneNumberVerification.html)|
 |[aws account start-primary-email-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/start-primary-email-update.html)|[Start-ACCTPrimaryEmailUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ACCTPrimaryEmailUpdate.html)|
+|[aws account verify-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/account/verify-phone-number.html)|[Confirm-ACCTPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Confirm-ACCTPhoneNumber.html)|
 

@@ -1,6 +1,6 @@
 ---
 title: health
-date: 2026-09-29
+date: 2026-10-05
 description: aws health (AWS Health) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws health (AWS Health) command/cmdlet list.
 |[aws health describe-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-events.html)|[Get-HLTHEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEvent.html)|
 |[aws health describe-events-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-events-for-organization.html)|[Get-HLTHEventsForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHEventsForOrganization.html)|
 |[aws health describe-health-service-status-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-health-service-status-for-organization.html)|[Get-HLTHHealthServiceStatusForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHHealthServiceStatusForOrganization.html)|
+|[aws health describe-service-lifecycle](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/describe-service-lifecycle.html)|[Get-HLTHServiceLifecycleDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-HLTHServiceLifecycleDetail.html)|
 |[aws health disable-health-service-access-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/disable-health-service-access-for-organization.html)|[Disable-HLTHHealthServiceAccessForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-HLTHHealthServiceAccessForOrganization.html)|
 |[aws health enable-health-service-access-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/health/enable-health-service-access-for-organization.html)|[Enable-HLTHHealthServiceAccessForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-HLTHHealthServiceAccessForOrganization.html)|
 

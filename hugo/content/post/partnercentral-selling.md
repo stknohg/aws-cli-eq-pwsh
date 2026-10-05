@@ -1,6 +1,6 @@
 ---
 title: partnercentral-selling
-date: 2026-09-29
+date: 2026-10-05
 description: aws partnercentral-selling (AWS Partner Central API for Selling) command/cmdlet list.
 ---
 

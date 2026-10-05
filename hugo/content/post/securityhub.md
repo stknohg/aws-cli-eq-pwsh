@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2026-09-29
+date: 2026-10-05
 description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 ---
 
@@ -88,6 +88,7 @@ description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 |[aws securityhub get-invitations-count](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-invitations-count.html)|[Get-SHUBInvitationsCount](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationsCount.html)|
 |[aws securityhub get-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-members.html)|[Get-SHUBMember](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBMember.html)|
 |[aws securityhub get-recommended-policy-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-recommended-policy-v2.html)|[Get-SHUBRecommendedPolicyV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBRecommendedPolicyV2.html)|
+|[aws securityhub get-remediations-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-remediations-v2.html)|[Get-SHUBRemediationsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBRemediationsV2.html)|
 |[aws securityhub get-resources-statistics-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-statistics-v2.html)|[Get-SHUBResourcesStatisticsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesStatisticsV2.html)|
 |[aws securityhub get-resources-trends-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-trends-v2.html)|[Get-SHUBResourcesTrendsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesTrendsV2.html)|
 |[aws securityhub get-resources-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-v2.html)|[Get-SHUBResourcesV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesV2.html)|
@@ -101,6 +102,7 @@ description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 |[aws securityhub list-connectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-connectors.html)|[Get-SHUBConnectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBConnectorList.html)|
 |[aws securityhub list-connectors-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-connectors-v2.html)|[Get-SHUBConnectorsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBConnectorsV2List.html)|
 |[aws securityhub list-enabled-products-for-import](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-enabled-products-for-import.html)|[Get-SHUBEnabledProductsForImportList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBEnabledProductsForImportList.html)|
+|[aws securityhub list-exposures-by-remediation-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-exposures-by-remediation-v2.html)|[Get-SHUBExposuresByRemediationV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBExposuresByRemediationV2List.html)|
 |[aws securityhub list-finding-aggregators](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-finding-aggregators.html)|[Get-SHUBFindingAggregatorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFindingAggregatorList.html)|
 |[aws securityhub list-free-trial-statuses-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-free-trial-statuses-v2.html)|[Get-SHUBFreeTrialStatusesV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBFreeTrialStatusesV2List.html)|
 |[aws securityhub list-invitations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-invitations.html)|[Get-SHUBInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBInvitationList.html)|

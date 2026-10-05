@@ -1,6 +1,6 @@
 ---
 title: identitystore
-date: 2026-09-29
+date: 2026-10-05
 description: aws identitystore (AWS SSO Identity Store) command/cmdlet list.
 ---
 
@@ -21,6 +21,7 @@ description: aws identitystore (AWS SSO Identity Store) command/cmdlet list.
 |[aws identitystore delete-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/delete-user.html)|[Remove-IDSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-IDSUser.html)|
 |[aws identitystore describe-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/describe-group.html)|[Get-IDSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroup.html)|
 |[aws identitystore describe-group-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/describe-group-membership.html)|[Get-IDSGroupMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroupMembership.html)|
+|[aws identitystore describe-identity-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/describe-identity-store.html)|[Get-IDSIdentityStoreDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSIdentityStoreDetail.html)|
 |[aws identitystore describe-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/describe-user.html)|[Get-IDSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSUser.html)|
 |[aws identitystore get-group-id](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/get-group-id.html)|[Get-IDSGroupId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroupId.html)|
 |[aws identitystore get-group-membership-id](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/get-group-membership-id.html)|[Get-IDSGroupMembershipId](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroupMembershipId.html)|
@@ -29,7 +30,9 @@ description: aws identitystore (AWS SSO Identity Store) command/cmdlet list.
 |[aws identitystore list-group-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/list-group-memberships.html)|[Get-IDSGroupMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroupMembershipList.html)|
 |[aws identitystore list-group-memberships-for-member](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/list-group-memberships-for-member.html)|[Get-IDSGroupMembershipsForMemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSGroupMembershipsForMemberList.html)|
 |[aws identitystore list-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/list-groups.html)|[Find-IDSGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-IDSGroupList.html)|
+|[aws identitystore list-identity-stores](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/list-identity-stores.html)|[Get-IDSIdentityStoreList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IDSIdentityStoreList.html)|
 |[aws identitystore list-users](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/list-users.html)|[Find-IDSUserList](https://docs.aws.amazon.com/powershell/latest/reference/items/Find-IDSUserList.html)|
 |[aws identitystore update-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/update-group.html)|[Update-IDSGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IDSGroup.html)|
+|[aws identitystore update-identity-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/update-identity-store.html)|[Update-IDSIdentityStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IDSIdentityStore.html)|
 |[aws identitystore update-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/identitystore/update-user.html)|[Update-IDSUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IDSUser.html)|
 

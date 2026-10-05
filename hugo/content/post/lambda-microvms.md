@@ -1,6 +1,6 @@
 ---
 title: lambda-microvms
-date: 2026-09-29
+date: 2026-10-05
 description: aws lambda-microvms (AWS Lambda MicroVMs) command/cmdlet list.
 ---
 

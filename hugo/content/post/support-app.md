@@ -1,6 +1,6 @@
 ---
 title: support-app
-date: 2026-09-29
+date: 2026-10-05
 description: aws support-app (AWS Support App in Slack API) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: securityagent
-date: 2026-09-29
+date: 2026-10-05
 description: aws securityagent (AWS Security Agent) command/cmdlet list.
 ---
 
@@ -99,6 +99,7 @@ description: aws securityagent (AWS Security Agent) command/cmdlet list.
 |[aws securityagent update-code-review](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-code-review.html)|[Update-SECAGCodeReview](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGCodeReview.html)|
 |[aws securityagent update-finding](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-finding.html)|[Update-SECAGFinding](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGFinding.html)|
 |[aws securityagent update-integrated-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-integrated-resources.html)|[Update-SECAGIntegratedResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGIntegratedResource.html)|
+|[aws securityagent update-integration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-integration.html)|[Update-SECAGIntegration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGIntegration.html)|
 |[aws securityagent update-pentest](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-pentest.html)|[Update-SECAGPentest](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGPentest.html)|
 |[aws securityagent update-private-connection-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-private-connection-certificate.html)|[Update-SECAGPrivateConnectionCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGPrivateConnectionCertificate.html)|
 |[aws securityagent update-security-requirement-pack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/update-security-requirement-pack.html)|[Update-SECAGSecurityRequirementPack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-SECAGSecurityRequirementPack.html)|

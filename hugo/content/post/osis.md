@@ -1,6 +1,6 @@
 ---
 title: osis
-date: 2026-09-29
+date: 2026-10-05
 description: aws osis (Amazon OpenSearch Ingestion) command/cmdlet list.
 ---
 

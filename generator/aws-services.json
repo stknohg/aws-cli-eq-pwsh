@@ -929,6 +929,12 @@
     "Url": "https://aws.amazon.com/emr/serverless/",
     "Note": ""
   },
+  "endusermessaging": {
+    "Prefix": "EUM",
+    "Name": "AWS End User Messaging",
+    "Url": "https://aws.amazon.com/end-user-messaging/",
+    "Note": ""
+  },
   "entityresolution": {
     "Prefix": "ERES",
     "Name": "AWS Entity Resolution",
@@ -1382,6 +1388,12 @@
   "lambda-microvms": {
     "Prefix": "LMVM2",
     "Name": "AWS Lambda MicroVMs",
+    "Url": "https://aws.amazon.com/lambda/",
+    "Note": ""
+  },
+  "lambda-web": {
+    "Prefix": "LWEB",
+    "Name": "AWS Lambda Web Functions",
     "Url": "https://aws.amazon.com/lambda/",
     "Note": ""
   },

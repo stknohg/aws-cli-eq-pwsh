@@ -2219,6 +2219,12 @@
     "Url": "https://aws.amazon.com/sagemaker/",
     "Note": ""
   },
+  "sagemakertrainingsessionruntime": {
+    "Prefix": "SMTSR",
+    "Name": "Amazon SageMaker Training Session Runtime",
+    "Url": "https://aws.amazon.com/sagemaker/",
+    "Note": ""
+  },
   "savingsplans": {
     "Prefix": "SP",
     "Name": "AWS Savings Plans",

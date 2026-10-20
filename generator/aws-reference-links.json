@@ -368,6 +368,7 @@
   "sagemaker-metrics": "https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerMetrics_cmdlets.html",
   "sagemaker-runtime": "https://docs.aws.amazon.com/powershell/latest/reference/items/Amazon_SageMaker_Runtime_cmdlets.html",
   "sagemakerjobruntime": "https://docs.aws.amazon.com/powershell/latest/reference/items/SagemakerJobRuntime_cmdlets.html",
+  "sagemakertrainingsessionruntime": "https://docs.aws.amazon.com/powershell/latest/reference/items/SageMakerTrainingSessionRuntime_cmdlets.html",
   "savingsplans": "https://docs.aws.amazon.com/powershell/latest/reference/items/SavingsPlans_cmdlets.html",
   "scheduler": "https://docs.aws.amazon.com/powershell/latest/reference/items/Scheduler_cmdlets.html",
   "schemas": "https://docs.aws.amazon.com/powershell/latest/reference/items/Schemas_cmdlets.html",

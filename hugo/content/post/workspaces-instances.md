@@ -1,6 +1,6 @@
 ---
 title: workspaces-instances
-date: 2026-10-05
+date: 2026-10-20
 description: aws workspaces-instances (Amazon WorkSpaces Instances) command/cmdlet list.
 ---
 
@@ -24,6 +24,7 @@ description: aws workspaces-instances (Amazon WorkSpaces Instances) command/cmdl
 |[aws workspaces-instances list-regions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/list-regions.html)|[Get-WKSIRegionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSIRegionList.html)|
 |[aws workspaces-instances list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/list-tags-for-resource.html)|[Get-WKSIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSIResourceTag.html)|
 |[aws workspaces-instances list-workspace-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/list-workspace-instances.html)|[Get-WKSIWorkspaceInstanceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WKSIWorkspaceInstanceList.html)|
+|[aws workspaces-instances modify-volume](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/modify-volume.html)|[Edit-WKSIVolume](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-WKSIVolume.html)|
 |[aws workspaces-instances tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/tag-resource.html)|[Add-WKSIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-WKSIResourceTag.html)|
 |[aws workspaces-instances untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/workspaces-instances/untag-resource.html)|[Remove-WKSIResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WKSIResourceTag.html)|
 

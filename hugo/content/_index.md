@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-10-05
+date: 2026-10-20
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.37.9 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.312 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.38.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.319 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -389,6 +389,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon SageMaker Metrics Service](https://aws.amazon.com/sagemaker/)|[sagemaker-metrics]({{%relref "post/sagemaker-metrics.md" %}})|SMM||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[Amazon SageMaker Job Runtime](https://aws.amazon.com/sagemaker/)|[sagemakerjobruntime]({{%relref "post/sagemakerjobruntime.md" %}})|SMJR||
+|[Amazon SageMaker Training Session Runtime](https://aws.amazon.com/sagemaker/)|[sagemakertrainingsessionruntime]({{%relref "post/sagemakertrainingsessionruntime.md" %}})|SMTSR||
 |[AWS Savings Plans](https://aws.amazon.com/savingsplans/)|[savingsplans]({{%relref "post/savingsplans.md" %}})|SP||
 |[Amazon EventBridge Scheduler](https://aws.amazon.com/eventbridge/)|[scheduler]({{%relref "post/scheduler.md" %}})|SCH||
 |[AWS EventBridge Schemas](https://aws.amazon.com/eventbridge/)|[schemas]({{%relref "post/schemas.md" %}})|SCHM||

@@ -1,6 +1,6 @@
 ---
 title: nova-act
-date: 2026-10-05
+date: 2026-10-20
 description: aws nova-act (Amazon Nova Act) command/cmdlet list.
 ---
 

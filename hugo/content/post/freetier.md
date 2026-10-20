@@ -1,6 +1,6 @@
 ---
 title: freetier
-date: 2026-10-05
+date: 2026-10-20
 description: aws freetier (AWS Free Tier GetFreeTierUsage API) command/cmdlet list.
 ---
 

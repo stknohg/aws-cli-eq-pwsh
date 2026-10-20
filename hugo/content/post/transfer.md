@@ -1,6 +1,6 @@
 ---
 title: transfer
-date: 2026-10-05
+date: 2026-10-20
 description: aws transfer (AWS Transfer Family) command/cmdlet list.
 ---
 

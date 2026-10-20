@@ -1,6 +1,6 @@
 ---
 title: qapps
-date: 2026-10-05
+date: 2026-10-20
 description: aws qapps (Amazon Q Apps) command/cmdlet list.
 ---
 

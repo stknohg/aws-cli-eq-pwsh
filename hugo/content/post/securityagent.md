@@ -1,6 +1,6 @@
 ---
 title: securityagent
-date: 2026-10-05
+date: 2026-10-20
 description: aws securityagent (AWS Security Agent) command/cmdlet list.
 ---
 
@@ -19,6 +19,8 @@ description: aws securityagent (AWS Security Agent) command/cmdlet list.
 |[aws securityagent batch-delete-pentests](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-delete-pentests.html)|[Remove-SECAGPentestBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECAGPentestBatch.html)|
 |[aws securityagent batch-delete-security-requirements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-delete-security-requirements.html)|[Remove-SECAGSecurityRequirementBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECAGSecurityRequirementBatch.html)|
 |[aws securityagent batch-delete-threat-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-delete-threat-models.html)|[Remove-SECAGThreatModelBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECAGThreatModelBatch.html)|
+|[aws securityagent batch-disassociate-finding-issue](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-disassociate-finding-issue.html)|[Remove-SECAGFindingIssueBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECAGFindingIssueBatch.html)|
+|[aws securityagent batch-export-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-export-findings.html)|[Export-SECAGFindingBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-SECAGFindingBatch.html)|
 |[aws securityagent batch-get-agent-spaces](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-get-agent-spaces.html)|[Get-SECAGAgentSpaceBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGAgentSpaceBatch.html)|
 |[aws securityagent batch-get-artifact-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-get-artifact-metadata.html)|[Get-SECAGArtifactMetadataBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGArtifactMetadataBatch.html)|
 |[aws securityagent batch-get-code-review-job-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/batch-get-code-review-job-tasks.html)|[Get-SECAGCodeReviewJobTaskBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGCodeReviewJobTaskBatch.html)|

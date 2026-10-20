@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2026-10-05
+date: 2026-10-20
 description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 ---
 
@@ -27,6 +27,7 @@ description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 |[aws route53domains enable-domain-transfer-lock](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/enable-domain-transfer-lock.html)|[Enable-R53DDomainTransferLock](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-R53DDomainTransferLock.html)|
 |[aws route53domains get-contact-reachability-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/get-contact-reachability-status.html)|[Get-R53DContactReachabilityStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DContactReachabilityStatus.html)|
 |[aws route53domains get-domain-detail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/get-domain-detail.html)|[Get-R53DDomainDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainDetail.html)|
+|[aws route53domains get-domain-prices](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/get-domain-prices.html)|[Get-R53DDomainPrice](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainPrice.html)|
 |[aws route53domains get-domain-suggestions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/get-domain-suggestions.html)|[Get-R53DDomainSuggestion](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainSuggestion.html)|
 |[aws route53domains get-operation-detail](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/get-operation-detail.html)|[Get-R53DOperationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DOperationDetail.html)|
 |[aws route53domains list-domains](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/list-domains.html)|[Get-R53DDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainList.html)|

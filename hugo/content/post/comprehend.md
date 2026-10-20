@@ -1,6 +1,6 @@
 ---
 title: comprehend
-date: 2026-10-05
+date: 2026-10-20
 description: aws comprehend (Amazon Comprehend) command/cmdlet list.
 ---
 

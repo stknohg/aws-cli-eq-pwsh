@@ -1,6 +1,6 @@
 ---
 title: cloudwatchomni
-date: 2026-10-05
+date: 2026-10-20
 description: aws cloudwatchomni (Amazon CloudWatch Omni) command/cmdlet list.
 ---
 

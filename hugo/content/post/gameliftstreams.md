@@ -1,6 +1,6 @@
 ---
 title: gameliftstreams
-date: 2026-10-05
+date: 2026-10-20
 description: aws gameliftstreams (Amazon GameLift Streams) command/cmdlet list.
 ---
 

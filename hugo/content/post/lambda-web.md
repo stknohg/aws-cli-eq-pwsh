@@ -1,6 +1,6 @@
 ---
 title: lambda-web
-date: 2026-10-05
+date: 2026-10-20
 description: aws lambda-web (AWS Lambda Web Functions) command/cmdlet list.
 ---
 

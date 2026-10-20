@@ -1,6 +1,6 @@
 ---
 title: shield
-date: 2026-10-05
+date: 2026-10-20
 description: aws shield (AWS Shield) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: billing
-date: 2026-10-05
+date: 2026-10-20
 description: aws billing (AWS Billing) command/cmdlet list.
 ---
 

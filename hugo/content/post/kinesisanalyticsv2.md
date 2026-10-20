@@ -1,6 +1,6 @@
 ---
 title: kinesisanalyticsv2
-date: 2026-10-05
+date: 2026-10-20
 description: aws kinesisanalyticsv2 (Amazon Kinesis) command/cmdlet list.
 ---
 

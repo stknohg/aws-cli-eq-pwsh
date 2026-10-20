@@ -1,6 +1,6 @@
 ---
 title: deadline
-date: 2026-10-05
+date: 2026-10-20
 description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 ---
 
@@ -95,6 +95,7 @@ description: aws deadline (AWS Deadline Cloud) command/cmdlet list.
 |[aws deadline list-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-jobs.html)|[Get-ADCJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCJobList.html)|
 |[aws deadline list-license-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-license-endpoints.html)|[Get-ADCLicenseEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCLicenseEndpointList.html)|
 |[aws deadline list-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-limits.html)|[Get-ADCLimitList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCLimitList.html)|
+|[aws deadline list-memberships](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-memberships.html)|[Get-ADCMembershipList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCMembershipList.html)|
 |[aws deadline list-metered-products](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-metered-products.html)|[Get-ADCMeteredProductList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCMeteredProductList.html)|
 |[aws deadline list-monitors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-monitors.html)|[Get-ADCMonitorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCMonitorList.html)|
 |[aws deadline list-queue-environments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/deadline/list-queue-environments.html)|[Get-ADCQueueEnvironmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ADCQueueEnvironmentList.html)|

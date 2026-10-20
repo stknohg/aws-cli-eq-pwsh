@@ -1,6 +1,6 @@
 ---
 title: bedrock-agentcore-control
-date: 2026-10-05
+date: 2026-10-20
 description: aws bedrock-agentcore-control (Amazon Bedrock AgentCore) command/cmdlet list.
 ---
 

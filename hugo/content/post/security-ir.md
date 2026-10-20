@@ -1,6 +1,6 @@
 ---
 title: security-ir
-date: 2026-10-05
+date: 2026-10-20
 description: aws security-ir (AWS Security Incident Response) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws security-ir (AWS Security Incident Response) command/cmdlet lis
 |[aws security-ir get-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/get-case.html)|[Get-SecurityIRCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCase.html)|
 |[aws security-ir get-case-attachment-download-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/get-case-attachment-download-url.html)|[Get-SecurityIRCaseAttachmentDownloadUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCaseAttachmentDownloadUrl.html)|
 |[aws security-ir get-case-attachment-upload-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/get-case-attachment-upload-url.html)|[Get-SecurityIRCaseAttachmentUploadUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCaseAttachmentUploadUrl.html)|
+|[aws security-ir get-finding-metrics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/get-finding-metrics.html)|[Get-SecurityIRFindingMetric](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRFindingMetric.html)|
 |[aws security-ir get-membership](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/get-membership.html)|[Get-SecurityIRMembership](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRMembership.html)|
 |[aws security-ir list-case-edits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-case-edits.html)|[Get-SecurityIRCaseEditList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCaseEditList.html)|
 |[aws security-ir list-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/security-ir/list-cases.html)|[Get-SecurityIRCaseList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SecurityIRCaseList.html)|

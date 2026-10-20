@@ -1,6 +1,6 @@
 ---
 title: bcm-data-exports
-date: 2026-10-05
+date: 2026-10-20
 description: aws bcm-data-exports (Data Exports for AWS Billing and Cost Management) command/cmdlet list.
 ---
 

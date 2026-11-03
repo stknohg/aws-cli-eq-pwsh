@@ -647,6 +647,12 @@
     "Url": "https://aws.amazon.com/connect/",
     "Note": ""
   },
+  "continuum": {
+    "Prefix": "CONT",
+    "Name": "AWS Continuum",
+    "Url": "https://aws.amazon.com/continuum/",
+    "Note": ""
+  },
   "controlcatalog": {
     "Prefix": "CLCAT",
     "Name": "AWS Control Catalog",
@@ -963,18 +969,6 @@
     "Prefix": "EVS",
     "Name": "Amazon Elastic VMware Service",
     "Url": "https://aws.amazon.com/evs/",
-    "Note": ""
-  },
-  "finspace": {
-    "Prefix": "FINSP",
-    "Name": "Amazon FinSpace",
-    "Url": "https://aws.amazon.com/finspace/",
-    "Note": ""
-  },
-  "finspace-data": {
-    "Prefix": "FNSP",
-    "Name": "Amazon FinSpace",
-    "Url": "https://aws.amazon.com/finspace/",
     "Note": ""
   },
   "firehose": {
@@ -2523,12 +2517,6 @@
     "Prefix": "TSW",
     "Name": "Amazon Timestream for LiveAnalytics",
     "Url": "https://aws.amazon.com/timestream/",
-    "Note": ""
-  },
-  "tnb": {
-    "Prefix": "TNB",
-    "Name": "AWS Telco Network Builder",
-    "Url": "https://aws.amazon.com/tnb/",
     "Note": ""
   },
   "transcribe": {

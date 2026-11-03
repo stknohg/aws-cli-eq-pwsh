@@ -1,6 +1,6 @@
 ---
 title: networkmanager
-date: 2026-10-20
+date: 2026-11-03
 description: aws networkmanager (AWS Transit Gateway network manager) command/cmdlet list.
 ---
 
@@ -78,6 +78,7 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager get-transit-gateway-registrations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-transit-gateway-registrations.html)|[Get-NMGRTransitGatewayRegistration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRTransitGatewayRegistration.html)|
 |[aws networkmanager get-transit-gateway-route-table-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-transit-gateway-route-table-attachment.html)|[Get-NMGRTransitGatewayRouteTableAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRTransitGatewayRouteTableAttachment.html)|
 |[aws networkmanager get-vpc-attachment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/get-vpc-attachment.html)|[Get-NMGRVpcAttachment](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRVpcAttachment.html)|
+|[aws networkmanager list-attachment-nat-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/list-attachment-nat-configurations.html)|[Get-NMGRAttachmentNatConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRAttachmentNatConfigurationList.html)|
 |[aws networkmanager list-attachment-routing-policy-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/list-attachment-routing-policy-associations.html)|[Get-NMGRAttachmentRoutingPolicyAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRAttachmentRoutingPolicyAssociationList.html)|
 |[aws networkmanager list-attachments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/list-attachments.html)|[Get-NMGRAttachmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRAttachmentList.html)|
 |[aws networkmanager list-connect-peers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/list-connect-peers.html)|[Get-NMGRConnectPeerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NMGRConnectPeerList.html)|
@@ -99,6 +100,7 @@ description: aws networkmanager (AWS Transit Gateway network manager) command/cm
 |[aws networkmanager start-route-analysis](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/start-route-analysis.html)|[Start-NMGRRouteAnalysis](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NMGRRouteAnalysis.html)|
 |[aws networkmanager tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/tag-resource.html)|[Add-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-NMGRResourceTag.html)|
 |[aws networkmanager untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/untag-resource.html)|[Remove-NMGRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-NMGRResourceTag.html)|
+|[aws networkmanager update-attachment-nat-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-attachment-nat-configuration.html)|[Update-NMGRAttachmentNatConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRAttachmentNatConfiguration.html)|
 |[aws networkmanager update-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-connection.html)|[Update-NMGRConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRConnection.html)|
 |[aws networkmanager update-core-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-core-network.html)|[Update-NMGRCoreNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRCoreNetwork.html)|
 |[aws networkmanager update-device](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/networkmanager/update-device.html)|[Update-NMGRDevice](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NMGRDevice.html)|

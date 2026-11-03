@@ -1,6 +1,6 @@
 ---
 title: securityagent
-date: 2026-10-20
+date: 2026-11-03
 description: aws securityagent (AWS Security Agent) command/cmdlet list.
 ---
 

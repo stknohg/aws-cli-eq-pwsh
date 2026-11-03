@@ -1,6 +1,6 @@
 ---
 title: cloudfront
-date: 2026-10-20
+date: 2026-11-03
 description: aws cloudfront (CloudFront KeyValueStore) command/cmdlet list.
 ---
 
@@ -154,6 +154,7 @@ description: aws cloudfront (CloudFront KeyValueStore) command/cmdlet list.
 |[aws cloudfront publish-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/publish-function.html)|[Publish-CFFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-CFFunction.html)|
 |[aws cloudfront put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/put-resource-policy.html)|[Write-CFCFResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFCFResourcePolicy.html)|
 |[aws cloudfront sign](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/sign.html)||
+|[aws cloudfront sign-cookies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/sign-cookies.html)||
 |[aws cloudfront tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/tag-resource.html)|[Add-CFResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CFResourceTag.html)|
 |[aws cloudfront test-connection-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/test-connection-function.html)|[Test-CFConnectionFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CFConnectionFunction.html)|
 |[aws cloudfront test-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudfront/test-function.html)|[Test-CFFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-CFFunction.html)|

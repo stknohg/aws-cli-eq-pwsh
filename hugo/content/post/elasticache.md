@@ -1,6 +1,6 @@
 ---
 title: elasticache
-date: 2026-10-20
+date: 2026-11-03
 description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 ---
 
@@ -79,6 +79,7 @@ description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 |[aws elasticache modify-serverless-cache](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/modify-serverless-cache.html)|[Edit-ECServerlessCache](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECServerlessCache.html)|
 |[aws elasticache modify-user](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/modify-user.html)|[Edit-ECUser](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECUser.html)|
 |[aws elasticache modify-user-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/modify-user-group.html)|[Edit-ECUserGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-ECUserGroup.html)|
+|[aws elasticache prepare-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/prepare-migration.html)|[Initialize-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Initialize-ECMigration.html)|
 |[aws elasticache purchase-reserved-cache-nodes-offering](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/purchase-reserved-cache-nodes-offering.html)|[Request-ECReservedCacheNodesOffering](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECReservedCacheNodesOffering.html)|
 |[aws elasticache rebalance-slots-in-global-replication-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/rebalance-slots-in-global-replication-group.html)|[Request-ECSlotRebalanceInGlobalReplicationGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Request-ECSlotRebalanceInGlobalReplicationGroup.html)|
 |[aws elasticache reboot-cache-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/reboot-cache-cluster.html)|[Restart-ECCacheCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Restart-ECCacheCluster.html)|
@@ -86,6 +87,7 @@ description: aws elasticache (Amazon ElastiCache) command/cmdlet list.
 |[aws elasticache reset-cache-parameter-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/reset-cache-parameter-group.html)|[Reset-ECCacheParameterGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-ECCacheParameterGroup.html)|
 |[aws elasticache revoke-cache-security-group-ingress](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/revoke-cache-security-group-ingress.html)|[Revoke-ECCacheSecurityGroupIngress](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-ECCacheSecurityGroupIngress.html)|
 |[aws elasticache start-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/start-migration.html)|[Start-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECMigration.html)|
+|[aws elasticache stop-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/stop-migration.html)|[Stop-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ECMigration.html)|
 |[aws elasticache test-failover](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/test-failover.html)|[Test-ECFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECFailover.html)|
 |[aws elasticache test-migration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/elasticache/test-migration.html)|[Test-ECMigration](https://docs.aws.amazon.com/powershell/latest/reference/items/Test-ECMigration.html)|
 

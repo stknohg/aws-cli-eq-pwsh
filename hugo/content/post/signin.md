@@ -1,6 +1,6 @@
 ---
 title: signin
-date: 2026-10-20
+date: 2026-11-03
 description: aws signin (AWS Sign-In) command/cmdlet list.
 ---
 
@@ -15,6 +15,7 @@ description: aws signin (AWS Sign-In) command/cmdlet list.
 |----|----|
 |[aws signin create-oauth2-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-oauth2-token.html)|[New-AMSPOAuth2Token](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPOAuth2Token.html)|
 |[aws signin create-oauth2-token-with-iam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-oauth2-token-with-iam.html)|[New-AMSPOAuth2TokenWithIAM](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPOAuth2TokenWithIAM.html)|
+|[aws signin create-oauth2-token-with-token-exchange](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-oauth2-token-with-token-exchange.html)|[New-AMSPOAuth2TokenWithTokenExchange](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPOAuth2TokenWithTokenExchange.html)|
 |[aws signin delete-console-authorization-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/delete-console-authorization-configuration.html)|[Remove-AMSPConsoleAuthorizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMSPConsoleAuthorizationConfiguration.html)|
 |[aws signin delete-resource-permission-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/delete-resource-permission-statement.html)|[Remove-AMSPResourcePermissionStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMSPResourcePermissionStatement.html)|
 |[aws signin get-console-authorization-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/get-console-authorization-configuration.html)|[Get-AMSPConsoleAuthorizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMSPConsoleAuthorizationConfiguration.html)|

@@ -1,6 +1,6 @@
 ---
 title: ivs-realtime
-date: 2026-10-20
+date: 2026-11-03
 description: aws ivs-realtime (Amazon Interactive Video Service RealTime) command/cmdlet list.
 ---
 
@@ -44,6 +44,7 @@ description: aws ivs-realtime (Amazon Interactive Video Service RealTime) comman
 |[aws ivs-realtime list-stages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-stages.html)|[Get-IVSRTStageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTStageList.html)|
 |[aws ivs-realtime list-storage-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-storage-configurations.html)|[Get-IVSRTStorageConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTStorageConfigurationList.html)|
 |[aws ivs-realtime list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/list-tags-for-resource.html)|[Get-IVSRTResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IVSRTResourceTag.html)|
+|[aws ivs-realtime revoke-connection-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/revoke-connection-token.html)|[Revoke-IVSRTConnectionToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-IVSRTConnectionToken.html)|
 |[aws ivs-realtime start-composition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/start-composition.html)|[Start-IVSRTComposition](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IVSRTComposition.html)|
 |[aws ivs-realtime start-participant-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/start-participant-replication.html)|[Start-IVSRTParticipantReplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-IVSRTParticipantReplication.html)|
 |[aws ivs-realtime stop-composition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ivs-realtime/stop-composition.html)|[Stop-IVSRTComposition](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-IVSRTComposition.html)|

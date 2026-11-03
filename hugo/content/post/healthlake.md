@@ -1,6 +1,6 @@
 ---
 title: healthlake
-date: 2026-10-20
+date: 2026-11-03
 description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 ---
 
@@ -38,5 +38,4 @@ description: aws healthlake (Amazon HealthLake) command/cmdlet list.
 |[aws healthlake untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/untag-resource.html)|[Remove-AHLResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AHLResourceTag.html)|
 |[aws healthlake update-data-transformation-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/update-data-transformation-profile.html)|[Update-AHLDataTransformationProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AHLDataTransformationProfile.html)|
 |[aws healthlake update-fhir-datastore](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/update-fhir-datastore.html)|[Update-AHLFHIRDatastore](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AHLFHIRDatastore.html)|
-|[aws healthlake update-profile-with-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/healthlake/update-profile-with-agent.html)|[Update-AHLProfileWithAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AHLProfileWithAgent.html)|
 

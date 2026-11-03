@@ -1,6 +1,6 @@
 ---
 title: neptunedata
-date: 2026-10-20
+date: 2026-11-03
 description: aws neptunedata (Amazon Neptune) command/cmdlet list.
 ---
 
@@ -14,6 +14,7 @@ description: aws neptunedata (Amazon Neptune) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws neptunedata cancel-gremlin-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/cancel-gremlin-query.html)|[Stop-NEPTGremlinQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NEPTGremlinQuery.html)|
+|[aws neptunedata cancel-index-rebuild](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/cancel-index-rebuild.html)|[Stop-NEPTIndexRebuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NEPTIndexRebuild.html)|
 |[aws neptunedata cancel-loader-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/cancel-loader-job.html)|[Stop-NEPTLoaderJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NEPTLoaderJob.html)|
 |[aws neptunedata cancel-ml-data-processing-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/cancel-ml-data-processing-job.html)|[Stop-NEPTMLDataProcessingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NEPTMLDataProcessingJob.html)|
 |[aws neptunedata cancel-ml-model-training-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/cancel-ml-model-training-job.html)|[Stop-NEPTMLModelTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-NEPTMLModelTrainingJob.html)|
@@ -31,6 +32,7 @@ description: aws neptunedata (Amazon Neptune) command/cmdlet list.
 |[aws neptunedata execute-open-cypher-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/execute-open-cypher-query.html)|[Invoke-NEPTOpenCypherQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-NEPTOpenCypherQuery.html)|
 |[aws neptunedata get-engine-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-engine-status.html)|[Get-NEPTEngineStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTEngineStatus.html)|
 |[aws neptunedata get-gremlin-query-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-gremlin-query-status.html)|[Get-NEPTGremlinQueryStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTGremlinQueryStatus.html)|
+|[aws neptunedata get-index-rebuild-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-index-rebuild-status.html)|[Get-NEPTIndexRebuildStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTIndexRebuildStatus.html)|
 |[aws neptunedata get-loader-job-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-loader-job-status.html)|[Get-NEPTLoaderJobStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTLoaderJobStatus.html)|
 |[aws neptunedata get-ml-data-processing-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-ml-data-processing-job.html)|[Get-NEPTMLDataProcessingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTMLDataProcessingJob.html)|
 |[aws neptunedata get-ml-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-ml-endpoint.html)|[Get-NEPTMLEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTMLEndpoint.html)|
@@ -43,7 +45,9 @@ description: aws neptunedata (Amazon Neptune) command/cmdlet list.
 |[aws neptunedata get-rdf-graph-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-rdf-graph-summary.html)|[Get-NEPTRDFGraphSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTRDFGraphSummary.html)|
 |[aws neptunedata get-sparql-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-sparql-statistics.html)|[Get-NEPTSparqlStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTSparqlStatistic.html)|
 |[aws neptunedata get-sparql-stream](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-sparql-stream.html)|[Get-NEPTSparqlStream](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTSparqlStream.html)|
+|[aws neptunedata get-storage-info](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/get-storage-info.html)|[Get-NEPTStorageInfo](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTStorageInfo.html)|
 |[aws neptunedata list-gremlin-queries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/list-gremlin-queries.html)|[Get-NEPTGremlinQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTGremlinQueryList.html)|
+|[aws neptunedata list-index-rebuilds](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/list-index-rebuilds.html)|[Get-NEPTIndexRebuildList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTIndexRebuildList.html)|
 |[aws neptunedata list-loader-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/list-loader-jobs.html)|[Get-NEPTLoaderJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTLoaderJobList.html)|
 |[aws neptunedata list-ml-data-processing-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/list-ml-data-processing-jobs.html)|[Get-NEPTMLDataProcessingJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTMLDataProcessingJobList.html)|
 |[aws neptunedata list-ml-endpoints](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/list-ml-endpoints.html)|[Get-NEPTMLEndpointList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTMLEndpointList.html)|
@@ -52,6 +56,7 @@ description: aws neptunedata (Amazon Neptune) command/cmdlet list.
 |[aws neptunedata list-open-cypher-queries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/list-open-cypher-queries.html)|[Get-NEPTOpenCypherQueryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NEPTOpenCypherQueryList.html)|
 |[aws neptunedata manage-propertygraph-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/manage-propertygraph-statistics.html)|[Update-NEPTPropertygraphStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NEPTPropertygraphStatistic.html)|
 |[aws neptunedata manage-sparql-statistics](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/manage-sparql-statistics.html)|[Update-NEPTSparqlStatistic](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-NEPTSparqlStatistic.html)|
+|[aws neptunedata start-index-rebuild](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/start-index-rebuild.html)|[Start-NEPTIndexRebuild](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTIndexRebuild.html)|
 |[aws neptunedata start-loader-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/start-loader-job.html)|[Start-NEPTLoaderJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTLoaderJob.html)|
 |[aws neptunedata start-ml-data-processing-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/start-ml-data-processing-job.html)|[Start-NEPTMLDataProcessingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTMLDataProcessingJob.html)|
 |[aws neptunedata start-ml-model-training-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptunedata/start-ml-model-training-job.html)|[Start-NEPTMLModelTrainingJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NEPTMLModelTrainingJob.html)|

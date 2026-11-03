@@ -1,6 +1,6 @@
 ---
 title: inspector2
-date: 2026-10-20
+date: 2026-11-03
 description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 ---
 
@@ -54,6 +54,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 get-encryption-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-encryption-key.html)|[Get-INS2EncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2EncryptionKey.html)|
 |[aws inspector2 get-findings-report-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-findings-report-status.html)|[Get-INS2FindingsReportStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2FindingsReportStatus.html)|
 |[aws inspector2 get-member](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-member.html)|[Get-INS2Member](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2Member.html)|
+|[aws inspector2 get-on-demand-scan-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-on-demand-scan-status.html)|[Get-INS2OnDemandScanStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2OnDemandScanStatus.html)|
 |[aws inspector2 get-sbom-export](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/get-sbom-export.html)|[Get-INS2SbomExport](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2SbomExport.html)|
 |[aws inspector2 list-account-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-account-permissions.html)|[Get-INS2AccountPermissionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2AccountPermissionList.html)|
 |[aws inspector2 list-cis-scan-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-cis-scan-configurations.html)|[Get-INS2CisScanConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2CisScanConfigurationList.html)|
@@ -72,6 +73,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 list-finding-aggregations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-finding-aggregations.html)|[Get-INS2FindingAggregationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2FindingAggregationList.html)|
 |[aws inspector2 list-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-findings.html)|[Get-INS2FindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2FindingList.html)|
 |[aws inspector2 list-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-members.html)|[Get-INS2MemberList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2MemberList.html)|
+|[aws inspector2 list-on-demand-scans](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-on-demand-scans.html)|[Get-INS2OnDemandScanList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2OnDemandScanList.html)|
 |[aws inspector2 list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-tags-for-resource.html)|[Get-INS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2ResourceTag.html)|
 |[aws inspector2 list-usage-totals](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/list-usage-totals.html)|[Get-INS2UsageTotalList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-INS2UsageTotalList.html)|
 |[aws inspector2 reset-encryption-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/reset-encryption-key.html)|[Reset-INS2EncryptionKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Reset-INS2EncryptionKey.html)|
@@ -80,6 +82,7 @@ description: aws inspector2 (Amazon Inspector) command/cmdlet list.
 |[aws inspector2 send-cis-session-telemetry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/send-cis-session-telemetry.html)|[Send-INS2CisSessionTelemetry](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-INS2CisSessionTelemetry.html)|
 |[aws inspector2 start-cis-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/start-cis-session.html)|[Start-INS2CisSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-INS2CisSession.html)|
 |[aws inspector2 start-code-security-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/start-code-security-scan.html)|[Start-INS2CodeSecurityScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-INS2CodeSecurityScan.html)|
+|[aws inspector2 start-on-demand-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/start-on-demand-scan.html)|[Start-INS2OnDemandScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-INS2OnDemandScan.html)|
 |[aws inspector2 stop-cis-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/stop-cis-session.html)|[Stop-INS2CisSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-INS2CisSession.html)|
 |[aws inspector2 tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/tag-resource.html)|[Add-INS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-INS2ResourceTag.html)|
 |[aws inspector2 untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/inspector2/untag-resource.html)|[Remove-INS2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-INS2ResourceTag.html)|

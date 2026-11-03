@@ -1,6 +1,6 @@
 ---
 title: ecr
-date: 2026-10-20
+date: 2026-11-03
 description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 ---
 
@@ -35,6 +35,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr describe-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-images.html)|[Get-ECRImageMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageMetadata.html)|
 |[aws ecr describe-pull-through-cache-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-pull-through-cache-rules.html)|[Get-ECRPullThroughCacheRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPullThroughCacheRule.html)|
 |[aws ecr describe-registry](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-registry.html)|[Get-ECRRegistry](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRegistry.html)|
+|[aws ecr describe-replication-backfill-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-replication-backfill-results.html)|[Get-ECRReplicationBackfillResultDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRReplicationBackfillResultDetail.html)|
 |[aws ecr describe-repositories](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repositories.html)|[Get-ECRRepository](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepository.html)|
 |[aws ecr describe-repository-creation-templates](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/describe-repository-creation-templates.html)|[Get-ECRRepositoryCreationTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRRepositoryCreationTemplate.html)|
 |[aws ecr get-account-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/get-account-setting.html)|[Get-ECRAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRAccountSetting.html)|
@@ -51,6 +52,7 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr list-image-referrers](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-image-referrers.html)|[Get-ECRImageReferrerList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImageReferrerList.html)|
 |[aws ecr list-images](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-images.html)|[Get-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRImage.html)|
 |[aws ecr list-pull-time-update-exclusions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-pull-time-update-exclusions.html)|[Get-ECRPullTimeUpdateExclusionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRPullTimeUpdateExclusionList.html)|
+|[aws ecr list-replication-backfills](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-replication-backfills.html)|[Get-ECRReplicationBackfillList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRReplicationBackfillList.html)|
 |[aws ecr list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/list-tags-for-resource.html)|[Get-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECRResourceTag.html)|
 |[aws ecr put-account-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-account-setting.html)|[Write-ECRAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRAccountSetting.html)|
 |[aws ecr put-image](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/put-image.html)|[Write-ECRImage](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ECRImage.html)|
@@ -65,6 +67,8 @@ description: aws ecr (Amazon Elastic Container Registry) command/cmdlet list.
 |[aws ecr set-repository-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/set-repository-policy.html)|[Set-ECRRepositoryPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-ECRRepositoryPolicy.html)|
 |[aws ecr start-image-scan](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-image-scan.html)|[Start-ECRImageScan](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRImageScan.html)|
 |[aws ecr start-lifecycle-policy-preview](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-lifecycle-policy-preview.html)|[Start-ECRLifecyclePolicyPreview](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRLifecyclePolicyPreview.html)|
+|[aws ecr start-replication-backfill](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/start-replication-backfill.html)|[Start-ECRReplicationBackfill](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ECRReplicationBackfill.html)|
+|[aws ecr stop-replication-backfill](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/stop-replication-backfill.html)|[Stop-ECRReplicationBackfill](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-ECRReplicationBackfill.html)|
 |[aws ecr tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/tag-resource.html)|[Add-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECRResourceTag.html)|
 |[aws ecr untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/untag-resource.html)|[Remove-ECRResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECRResourceTag.html)|
 |[aws ecr update-image-storage-class](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecr/update-image-storage-class.html)|[Update-ECRImageStorageClass](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECRImageStorageClass.html)|

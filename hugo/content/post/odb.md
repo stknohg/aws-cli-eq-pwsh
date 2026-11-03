@@ -1,6 +1,6 @@
 ---
 title: odb
-date: 2026-10-20
+date: 2026-11-03
 description: aws odb (Oracle Database@AWS) command/cmdlet list.
 ---
 
@@ -90,6 +90,7 @@ description: aws odb (Oracle Database@AWS) command/cmdlet list.
 |[aws odb update-autonomous-database-backup](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-autonomous-database-backup.html)|[Update-ODBAutonomousDatabaseBackup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBAutonomousDatabaseBackup.html)|
 |[aws odb update-cloud-exadata-infrastructure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-cloud-exadata-infrastructure.html)|[Update-ODBCloudExadataInfrastructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBCloudExadataInfrastructure.html)|
 |[aws odb update-exadb-vm-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-exadb-vm-cluster.html)|[Update-ODBExadbVmCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBExadbVmCluster.html)|
+|[aws odb update-exascale-cloud-exadata-infrastructure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-exascale-cloud-exadata-infrastructure.html)|[Update-ODBExascaleCloudExadataInfrastructure](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBExascaleCloudExadataInfrastructure.html)|
 |[aws odb update-exascale-db-storage-vault](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-exascale-db-storage-vault.html)|[Update-ODBExascaleDbStorageVault](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBExascaleDbStorageVault.html)|
 |[aws odb update-odb-network](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-odb-network.html)|[Update-ODBOdbNetwork](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBOdbNetwork.html)|
 |[aws odb update-odb-peering-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/odb/update-odb-peering-connection.html)|[Update-ODBOdbPeeringConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ODBOdbPeeringConnection.html)|

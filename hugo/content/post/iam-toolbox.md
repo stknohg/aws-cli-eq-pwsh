@@ -1,6 +1,6 @@
 ---
 title: iam-toolbox
-date: 2026-10-20
+date: 2026-11-03
 description: aws iam-toolbox (AWS Identity and Access Management Toolbox) command/cmdlet list.
 ---
 

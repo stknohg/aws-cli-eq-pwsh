@@ -1,6 +1,6 @@
 ---
 title: sagemakertrainingsessionruntime
-date: 2026-10-20
+date: 2026-11-03
 description: aws sagemakertrainingsessionruntime (Amazon SageMaker Training Session Runtime) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-10-20
+date: 2026-11-03
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.38.2 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.319 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.39.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.327 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -128,6 +128,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Connect Cases](https://aws.amazon.com/connect/cases/)|[connectcases]({{%relref "post/connectcases.md" %}})|CCAS||
 |[Amazon Connect Health](https://aws.amazon.com/health/connect-health/)|[connecthealth]({{%relref "post/connecthealth.md" %}})|CNH||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
+|[AWS Continuum](https://aws.amazon.com/continuum/)|[continuum]({{%relref "post/continuum.md" %}})|CONT||
 |[AWS Control Catalog](https://aws.amazon.com/controltower/)|[controlcatalog]({{%relref "post/controlcatalog.md" %}})|CLCAT||
 |[AWS Control Tower](https://aws.amazon.com/controltower/)|[controltower]({{%relref "post/controltower.md" %}})|ACT||
 |[AWS Cost Optimization Hub](https://aws.amazon.com/aws-cost-management/cost-optimization-hub/)|[cost-optimization-hub]({{%relref "post/cost-optimization-hub.md" %}})|COH||
@@ -181,8 +182,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon CloudWatch Events](https://aws.amazon.com/cloudwatch/)|[events]({{%relref "post/events.md" %}})|CWE|Only available in AWSPowerShell, AWSPowerShell.NetCore modules.|
 |[Amazon EventBridge event bus API](https://aws.amazon.com/eventbridge/)|[eventsv2]({{%relref "post/eventsv2.md" %}})|EVBV2||
 |[Amazon Elastic VMware Service](https://aws.amazon.com/evs/)|[evs]({{%relref "post/evs.md" %}})|EVS||
-|[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace]({{%relref "post/finspace.md" %}})|FINSP||
-|[Amazon FinSpace](https://aws.amazon.com/finspace/)|[finspace-data]({{%relref "post/finspace-data.md" %}})|FNSP||
 |[Amazon Data Firehose](https://aws.amazon.com/firehose/)|[firehose]({{%relref "post/firehose.md" %}})|KINF|Formerly Amazon Kinesis Data Firehose.|
 |[Amazon Fault Injection Simulator](https://aws.amazon.com/fis/)|[fis]({{%relref "post/fis.md" %}})|FIS||
 |[AWS Firewall Manager](https://aws.amazon.com/waf/)|[fms]({{%relref "post/fms.md" %}})|FMS||
@@ -440,7 +439,6 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Timestream for InfluxDB](https://aws.amazon.com/timestream/)|[timestream-influxdb]({{%relref "post/timestream-influxdb.md" %}})|TIDB||
 |[Amazon Timestream for LiveAnalytics](https://aws.amazon.com/timestream/)|[timestream-query]({{%relref "post/timestream-query.md" %}})|TSQ||
 |[Amazon Timestream for LiveAnalytics](https://aws.amazon.com/timestream/)|[timestream-write]({{%relref "post/timestream-write.md" %}})|TSW||
-|[AWS Telco Network Builder](https://aws.amazon.com/tnb/)|[tnb]({{%relref "post/tnb.md" %}})|TNB||
 |[Amazon Transcribe](https://aws.amazon.com/transcribe/)|[transcribe]({{%relref "post/transcribe.md" %}})|TRS||
 |[AWS Transfer Family](https://aws.amazon.com/aws-transfer-family/)|[transfer]({{%relref "post/transfer.md" %}})|TFR||
 |[Amazon Translate](https://aws.amazon.com/translate/)|[translate]({{%relref "post/translate.md" %}})|TRN||

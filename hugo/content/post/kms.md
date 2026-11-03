@@ -1,6 +1,6 @@
 ---
 title: kms
-date: 2026-10-20
+date: 2026-11-03
 description: aws kms (AWS Key Management Service) command/cmdlet list.
 ---
 
@@ -19,6 +19,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms create-custom-key-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/create-custom-key-store.html)|[New-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSCustomKeyStore.html)|
 |[aws kms create-grant](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/create-grant.html)|[New-KMSGrant](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSGrant.html)|
 |[aws kms create-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/create-key.html)|[New-KMSKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSKey.html)|
+|[aws kms decapsulate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/decapsulate.html)|[Invoke-KMSDecapsulate](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSDecapsulate.html)|
 |[aws kms decrypt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/decrypt.html)|[Invoke-KMSDecrypt](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSDecrypt.html)|
 |[aws kms delete-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/delete-alias.html)|[Remove-KMSAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KMSAlias.html)|
 |[aws kms delete-custom-key-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/delete-custom-key-store.html)|[Remove-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-KMSCustomKeyStore.html)|
@@ -31,6 +32,7 @@ description: aws kms (AWS Key Management Service) command/cmdlet list.
 |[aws kms disconnect-custom-key-store](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/disconnect-custom-key-store.html)|[Disconnect-KMSCustomKeyStore](https://docs.aws.amazon.com/powershell/latest/reference/items/Disconnect-KMSCustomKeyStore.html)|
 |[aws kms enable-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/enable-key.html)|[Enable-KMSKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-KMSKey.html)|
 |[aws kms enable-key-rotation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/enable-key-rotation.html)|[Enable-KMSKeyRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Enable-KMSKeyRotation.html)|
+|[aws kms encapsulate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/encapsulate.html)|[Invoke-KMSEncapsulate](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSEncapsulate.html)|
 |[aws kms encrypt](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/encrypt.html)|[Invoke-KMSEncrypt](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-KMSEncrypt.html)|
 |[aws kms generate-data-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/generate-data-key.html)|[New-KMSDataKey](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKey.html)|
 |[aws kms generate-data-key-pair](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/kms/generate-data-key-pair.html)|[New-KMSDataKeyPair](https://docs.aws.amazon.com/powershell/latest/reference/items/New-KMSDataKeyPair.html)|

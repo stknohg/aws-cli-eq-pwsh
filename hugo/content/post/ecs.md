@@ -1,6 +1,6 @@
 ---
 title: ecs
-date: 2026-10-20
+date: 2026-11-03
 description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 ---
 
@@ -13,11 +13,13 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws ecs associate-gateway-with-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/associate-gateway-with-cluster.html)|[Add-ECSGatewayWithCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ECSGatewayWithCluster.html)|
 |[aws ecs continue-service-deployment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/continue-service-deployment.html)|[Resume-ECSServiceDeployment](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-ECSServiceDeployment.html)|
 |[aws ecs create-capacity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-capacity-provider.html)|[New-ECSCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCapacityProvider.html)|
 |[aws ecs create-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-cluster.html)|[New-ECSCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSCluster.html)|
 |[aws ecs create-daemon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-daemon.html)|[New-ECSDaemon](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSDaemon.html)|
 |[aws ecs create-express-gateway-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-express-gateway-service.html)|[New-ECSExpressGatewayService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSExpressGatewayService.html)|
+|[aws ecs create-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-gateway.html)|[New-ECSGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSGateway.html)|
 |[aws ecs create-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-service.html)|[New-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSService.html)|
 |[aws ecs create-task-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/create-task-set.html)|[New-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ECSTaskSet.html)|
 |[aws ecs delete-account-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-account-setting.html)|[Remove-ECSAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSAccountSetting.html)|
@@ -27,6 +29,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs delete-daemon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-daemon.html)|[Remove-ECSDaemon](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSDaemon.html)|
 |[aws ecs delete-daemon-task-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-daemon-task-definition.html)|[Remove-ECSDaemonTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSDaemonTaskDefinition.html)|
 |[aws ecs delete-express-gateway-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-express-gateway-service.html)|[Remove-ECSExpressGatewayService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSExpressGatewayService.html)|
+|[aws ecs delete-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-gateway.html)|[Remove-ECSGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSGateway.html)|
 |[aws ecs delete-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-service.html)|[Remove-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSService.html)|
 |[aws ecs delete-task-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-task-definitions.html)|[Remove-ECSTaskDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSTaskDefinition.html)|
 |[aws ecs delete-task-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/delete-task-set.html)|[Remove-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSTaskSet.html)|
@@ -41,12 +44,16 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs describe-daemon-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-daemon-revisions.html)|[Get-ECSDaemonRevisionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSDaemonRevisionDetail.html)|
 |[aws ecs describe-daemon-task-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-daemon-task-definition.html)|[Get-ECSDaemonTaskDefinitionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSDaemonTaskDefinitionDetail.html)|
 |[aws ecs describe-express-gateway-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-express-gateway-service.html)|[Get-ECSExpressGatewayService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSExpressGatewayService.html)|
+|[aws ecs describe-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-gateway.html)|[Get-ECSGatewayDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSGatewayDetail.html)|
+|[aws ecs describe-gateway-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-gateway-resources.html)|[Get-ECSGatewayResourceDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSGatewayResourceDetail.html)|
+|[aws ecs describe-gateway-route](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-gateway-route.html)|[Get-ECSGatewayRouteDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSGatewayRouteDetail.html)|
 |[aws ecs describe-service-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-service-deployments.html)|[Get-ECSServiceDeploymentDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServiceDeploymentDetail.html)|
 |[aws ecs describe-service-revisions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-service-revisions.html)|[Get-ECSServiceRevision](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServiceRevision.html)|
 |[aws ecs describe-services](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-services.html)|[Get-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSService.html)|
 |[aws ecs describe-task-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-task-definition.html)|[Get-ECSTaskDefinitionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDefinitionDetail.html)|
 |[aws ecs describe-task-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-task-sets.html)|[Get-ECSTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskSet.html)|
 |[aws ecs describe-tasks](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/describe-tasks.html)|[Get-ECSTaskDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskDetail.html)|
+|[aws ecs disassociate-gateway-from-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/disassociate-gateway-from-cluster.html)|[Remove-ECSGatewayFromCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ECSGatewayFromCluster.html)|
 |[aws ecs discover-poll-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/discover-poll-endpoint.html)||
 |[aws ecs execute-command](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/execute-command.html)|[Invoke-ECSCommand](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-ECSCommand.html)|
 |[aws ecs get-task-protection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/get-task-protection.html)|[Get-ECSTaskProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSTaskProtection.html)|
@@ -57,6 +64,9 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs list-daemon-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-daemon-deployments.html)|[Get-ECSDaemonDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSDaemonDeploymentList.html)|
 |[aws ecs list-daemon-task-definitions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-daemon-task-definitions.html)|[Get-ECSDaemonTaskDefinitionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSDaemonTaskDefinitionList.html)|
 |[aws ecs list-daemons](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-daemons.html)|[Get-ECSDaemonList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSDaemonList.html)|
+|[aws ecs list-gateway-cluster-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-gateway-cluster-associations.html)|[Get-ECSGatewayClusterAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSGatewayClusterAssociationList.html)|
+|[aws ecs list-gateway-routes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-gateway-routes.html)|[Get-ECSGatewayRouteList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSGatewayRouteList.html)|
+|[aws ecs list-gateways](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-gateways.html)|[Get-ECSGatewayList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSGatewayList.html)|
 |[aws ecs list-service-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-service-deployments.html)|[Get-ECSServiceDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServiceDeploymentList.html)|
 |[aws ecs list-services](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-services.html)|[Get-ECSClusterService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSClusterService.html)|
 |[aws ecs list-services-by-namespace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/list-services-by-namespace.html)|[Get-ECSServicesByNamespace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ECSServicesByNamespace.html)|
@@ -88,6 +98,7 @@ description: aws ecs (Amazon Elastic Container Service) command/cmdlet list.
 |[aws ecs update-container-instances-state](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-container-instances-state.html)|[Update-ECSContainerInstancesState](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSContainerInstancesState.html)|
 |[aws ecs update-daemon](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-daemon.html)|[Update-ECSDaemon](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSDaemon.html)|
 |[aws ecs update-express-gateway-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-express-gateway-service.html)|[Update-ECSExpressGatewayService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSExpressGatewayService.html)|
+|[aws ecs update-gateway](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-gateway.html)|[Update-ECSGateway](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSGateway.html)|
 |[aws ecs update-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-service.html)|[Update-ECSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSService.html)|
 |[aws ecs update-service-primary-task-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-service-primary-task-set.html)|[Update-ECSServicePrimaryTaskSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSServicePrimaryTaskSet.html)|
 |[aws ecs update-task-protection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ecs/update-task-protection.html)|[Update-ECSTaskProtection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ECSTaskProtection.html)|

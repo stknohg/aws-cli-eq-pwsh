@@ -1,6 +1,6 @@
 ---
 title: billing
-date: 2026-10-20
+date: 2026-11-03
 description: aws billing (AWS Billing) command/cmdlet list.
 ---
 
@@ -13,12 +13,17 @@ description: aws billing (AWS Billing) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws billing associate-contract](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/associate-contract.html)|[Add-AWSBContract](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AWSBContract.html)|
 |[aws billing associate-source-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/associate-source-views.html)|[Add-AWSBSourceView](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AWSBSourceView.html)|
+|[aws billing cancel-contractual-investment-attestation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/cancel-contractual-investment-attestation.html)|[Stop-AWSBContractualInvestmentAttestation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-AWSBContractualInvestmentAttestation.html)|
 |[aws billing create-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/create-billing-view.html)|[New-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AWSBBillingView.html)|
+|[aws billing create-contractual-investment-attestation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/create-contractual-investment-attestation.html)|[New-AWSBContractualInvestmentAttestation](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AWSBContractualInvestmentAttestation.html)|
 |[aws billing delete-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/delete-billing-view.html)|[Remove-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBBillingView.html)|
+|[aws billing disassociate-contract](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/disassociate-contract.html)|[Remove-AWSBContract](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBContract.html)|
 |[aws billing disassociate-source-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/disassociate-source-views.html)|[Remove-AWSBSourceView](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBSourceView.html)|
 |[aws billing get-billing-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-billing-preferences.html)|[Get-AWSBBillingPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingPreference.html)|
 |[aws billing get-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-billing-view.html)|[Get-AWSBBillingView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingView.html)|
+|[aws billing get-contract-information](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-contract-information.html)|[Get-AWSBContractInformation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBContractInformation.html)|
 |[aws billing get-credit-allocation-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-credit-allocation-history.html)|[Get-AWSBCreditAllocationHistory](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBCreditAllocationHistory.html)|
 |[aws billing get-credits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-credits.html)|[Get-AWSBCredit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBCredit.html)|
 |[aws billing get-enterprise-support-charge-summary](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/get-enterprise-support-charge-summary.html)|[Get-AWSBEnterpriseSupportChargeSummary](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBEnterpriseSupportChargeSummary.html)|
@@ -29,6 +34,10 @@ description: aws billing (AWS Billing) command/cmdlet list.
 |[aws billing list-billing-views](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-billing-views.html)|[Get-AWSBBillingViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBillingViewList.html)|
 |[aws billing list-business-support-account-charges](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-business-support-account-charges.html)|[Get-AWSBBusinessSupportAccountChargeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBusinessSupportAccountChargeList.html)|
 |[aws billing list-business-support-subscription-history](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-business-support-subscription-history.html)|[Get-AWSBBusinessSupportSubscriptionHistoryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBBusinessSupportSubscriptionHistoryList.html)|
+|[aws billing list-contracts](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-contracts.html)|[Get-AWSBContractList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBContractList.html)|
+|[aws billing list-contractual-investment-attestations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-contractual-investment-attestations.html)|[Get-AWSBContractualInvestmentAttestationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBContractualInvestmentAttestationList.html)|
+|[aws billing list-contractual-investment-summaries](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-contractual-investment-summaries.html)|[Get-AWSBContractualInvestmentSummaryList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBContractualInvestmentSummaryList.html)|
+|[aws billing list-contractual-investments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-contractual-investments.html)|[Get-AWSBContractualInvestmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBContractualInvestmentList.html)|
 |[aws billing list-enterprise-support-linked-account-charges](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-enterprise-support-linked-account-charges.html)|[Get-AWSBEnterpriseSupportLinkedAccountChargeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBEnterpriseSupportLinkedAccountChargeList.html)|
 |[aws billing list-source-views-for-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-source-views-for-billing-view.html)|[Get-AWSBSourceViewsForBillingViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBSourceViewsForBillingViewList.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-BCMDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDResourceTag.html)|

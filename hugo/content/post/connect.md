@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-10-20
+date: 2026-11-03
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -251,6 +251,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect list-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-queues.html)|[Get-CONNQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQueueList.html)|
 |[aws connect list-quick-connects](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-quick-connects.html)|[Get-CONNQuickConnectList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNQuickConnectList.html)|
 |[aws connect list-realtime-contact-analysis-segments-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-realtime-contact-analysis-segments-v2.html)|[Get-CONNRealtimeContactAnalysisSegmentsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRealtimeContactAnalysisSegmentsV2List.html)|
+|[aws connect list-replication-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-replication-findings.html)|[Get-CONNReplicationFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNReplicationFindingList.html)|
 |[aws connect list-routing-profile-manual-assignment-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profile-manual-assignment-queues.html)|[Get-CONNRoutingProfileManualAssignmentQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileManualAssignmentQueueList.html)|
 |[aws connect list-routing-profile-queues](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profile-queues.html)|[Get-CONNRoutingProfileQueueList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileQueueList.html)|
 |[aws connect list-routing-profiles](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/list-routing-profiles.html)|[Get-CONNRoutingProfileList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CONNRoutingProfileList.html)|
@@ -375,6 +376,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect update-metric-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-metric-content.html)|[Update-CONNMetricContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNMetricContent.html)|
 |[aws connect update-metric-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-metric-metadata.html)|[Update-CONNMetricMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNMetricMetadata.html)|
 |[aws connect update-notification-content](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-notification-content.html)|[Update-CONNNotificationContent](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNNotificationContent.html)|
+|[aws connect update-outbound-email-contact-message](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-outbound-email-contact-message.html)|[Update-CONNOutboundEmailContactMessage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNOutboundEmailContactMessage.html)|
 |[aws connect update-participant-authentication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-participant-authentication.html)|[Update-CONNParticipantAuthentication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNParticipantAuthentication.html)|
 |[aws connect update-participant-role-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-participant-role-config.html)|[Update-CONNParticipantRoleConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNParticipantRoleConfig.html)|
 |[aws connect update-phone-number](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/update-phone-number.html)|[Update-CONNPhoneNumber](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CONNPhoneNumber.html)|

@@ -1,6 +1,6 @@
 ---
 title: wickr
-date: 2026-10-20
+date: 2026-11-03
 description: aws wickr (AWS Wickr) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: partnercentral-channel
-date: 2026-10-20
+date: 2026-11-03
 description: aws partnercentral-channel (AWS Partner Central Channel Service) command/cmdlet list.
 ---
 

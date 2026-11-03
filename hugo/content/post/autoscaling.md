@@ -1,6 +1,6 @@
 ---
 title: autoscaling
-date: 2026-10-20
+date: 2026-11-03
 description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws autoscaling delete-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/delete-tags.html)|[Remove-ASTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASTag.html)|
 |[aws autoscaling delete-warm-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/delete-warm-pool.html)|[Remove-ASWarmPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ASWarmPool.html)|
 |[aws autoscaling describe-account-limits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/describe-account-limits.html)|[Get-ASAccountLimit](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAccountLimit.html)|
+|[aws autoscaling describe-account-settings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/describe-account-settings.html)|[Get-ASAccountSettingDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAccountSettingDetail.html)|
 |[aws autoscaling describe-adjustment-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/describe-adjustment-types.html)|[Get-ASAdjustmentType](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAdjustmentType.html)|
 |[aws autoscaling describe-auto-scaling-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/describe-auto-scaling-groups.html)|[Get-ASAutoScalingGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingGroup.html)|
 |[aws autoscaling describe-auto-scaling-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/describe-auto-scaling-instances.html)|[Get-ASAutoScalingInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASAutoScalingInstance.html)|
@@ -64,6 +65,7 @@ description: aws autoscaling (AWS Auto Scaling) command/cmdlet list.
 |[aws autoscaling exit-standby](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/exit-standby.html)|[Exit-ASStandby](https://docs.aws.amazon.com/powershell/latest/reference/items/Exit-ASStandby.html)|
 |[aws autoscaling get-predictive-scaling-forecast](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/get-predictive-scaling-forecast.html)|[Get-ASPredictiveScalingForecast](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ASPredictiveScalingForecast.html)|
 |[aws autoscaling launch-instances](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/launch-instances.html)|[Add-ASInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ASInstance.html)|
+|[aws autoscaling put-account-setting](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-account-setting.html)|[Write-ASAccountSetting](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASAccountSetting.html)|
 |[aws autoscaling put-lifecycle-hook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-lifecycle-hook.html)|[Write-ASLifecycleHook](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASLifecycleHook.html)|
 |[aws autoscaling put-notification-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-notification-configuration.html)|[Write-ASNotificationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASNotificationConfiguration.html)|
 |[aws autoscaling put-scaling-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/autoscaling/put-scaling-policy.html)|[Write-ASScalingPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-ASScalingPolicy.html)|

@@ -1,6 +1,6 @@
 ---
 title: pricing
-date: 2026-10-20
+date: 2026-11-03
 description: aws pricing (AWS Price List Service) command/cmdlet list.
 ---
 

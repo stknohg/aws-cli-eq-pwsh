@@ -1,6 +1,6 @@
 ---
 title: network-security-manager
-date: 2026-10-20
+date: 2026-11-03
 description: aws network-security-manager (AWS Network Security Manager) command/cmdlet list.
 ---
 

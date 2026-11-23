@@ -1,10 +1,10 @@
 #
 # Docker image for AWS CLI -eq PowerShell development
 # 
-FROM ubuntu:24.04
+FROM ubuntu:26.04
 
 # Define args
-ARG PWSH_VERSION=7.6.9
+ARG PWSH_VERSION=7.7.0
 ARG HUGO_VERSION=0.169.0
 # Download packages
 ADD https://mirrors.edge.kernel.org/ubuntu/pool/main/i/icu/libicu78_78.2-2ubuntu1_amd64.deb /tmp/libicu78.deb

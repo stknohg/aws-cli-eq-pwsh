@@ -1,7 +1,25 @@
 {
+  "abuse-signal": {
+    "Prefix": "ABS",
+    "Name": "AWS Abuse Signal API",
+    "Url": "https://docs.aws.amazon.com/abuse-signal/",
+    "Note": ""
+  },
   "accessanalyzer": {
     "Prefix": "IAMAA",
     "Name": "AWS IAM Access Analyzer",
+    "Url": "https://aws.amazon.com/iam/",
+    "Note": ""
+  },
+  "account-access-runtime": {
+    "Prefix": "ACCAR",
+    "Name": "Account Access Runtime API",
+    "Url": "https://docs.aws.amazon.com/account-access-runtime/latest/APIReference/Welcome.html",
+    "Note": ""
+  },
+  "account-access": {
+    "Prefix": "ACCAC",
+    "Name": "AWS IAM Account access manager",
     "Url": "https://aws.amazon.com/iam/",
     "Note": ""
   },
@@ -11,11 +29,11 @@
     "Url": "https://aws.amazon.com/account/",
     "Note": ""
   },
-  "account-access": {
-    "Prefix": "ACCAC",
-    "Name": "AWS IAM Account access manager",
-    "Url": "https://aws.amazon.com/iam/",
-    "Note": ""
+  "acm-pca": {
+    "Prefix": "PCA",
+    "Name": "AWS Private Certificate Authority",
+    "Url": "https://aws.amazon.com/private-ca/",
+    "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
   },
   "acm": {
     "Prefix": "ACM",
@@ -23,11 +41,11 @@
     "Url": "https://aws.amazon.com/certificate-manager/",
     "Note": ""
   },
-  "acm-pca": {
-    "Prefix": "PCA",
-    "Name": "AWS Private Certificate Authority",
-    "Url": "https://aws.amazon.com/private-ca/",
-    "Note": "Formerly AWS Certificate Manager Private Certificate Authority."
+  "agent-discovery": {
+    "Prefix": "AGDS",
+    "Name": "Agent Registry Public Search (Agent Discovery)",
+    "Url": "https://aws.amazon.com/bedrock/agentcore/",
+    "Note": ""
   },
   "agent-registry": {
     "Prefix": "AGRG",
@@ -92,6 +110,12 @@
   "apigatewayv2": {
     "Prefix": "AG2",
     "Name": "Amazon API Gateway",
+    "Url": "https://aws.amazon.com/api-gateway/",
+    "Note": ""
+  },
+  "apiportal": {
+    "Prefix": "APIP",
+    "Name": "Amazon API Gateway Portals",
     "Url": "https://aws.amazon.com/api-gateway/",
     "Note": ""
   },
@@ -644,6 +668,12 @@
   "connectparticipant": {
     "Prefix": "CONNP",
     "Name": "Amazon Connect Participant Service",
+    "Url": "https://aws.amazon.com/connect/",
+    "Note": ""
+  },
+  "connectscheduling": {
+    "Prefix": "CNSCH",
+    "Name": "Amazon Connect Scheduling",
     "Url": "https://aws.amazon.com/connect/",
     "Note": ""
   },
@@ -1787,6 +1817,12 @@
     "Url": "https://aws.amazon.com/opensearch-service/",
     "Note": "Formerly Amazon Elasticsearch Service."
   },
+  "opensearchmemory": {
+    "Prefix": "OSM",
+    "Name": "Amazon OpenSearch Memory",
+    "Url": "https://aws.amazon.com/opensearch-service/",
+    "Note": ""
+  },
   "opensearchserverless": {
     "Prefix": "OSS",
     "Name": "Amazon OpenSearch Serverless",
@@ -1829,6 +1865,12 @@
     "Url": "https://partnercentral.awspartner.com/",
     "Note": ""
   },
+  "partnercentral-marketing": {
+    "Prefix": "PCMG",
+    "Name": "AWS Partner Central Marketing API",
+    "Url": "https://partnercentral.awspartner.com/",
+    "Note": ""
+  },
   "partnercentral-revenue-measurement": {
     "Prefix": "PCRM",
     "Name": "AWS Partner Central Revenue Measurement API",
@@ -1851,6 +1893,12 @@
     "Prefix": "PAYCD",
     "Name": "AWS Payment Cryptography Data Plane",
     "Url": "https://docs.aws.amazon.com/payment-cryptography/",
+    "Note": ""
+  },
+  "payments": {
+    "Prefix": "PAYM",
+    "Name": "AWS Payments",
+    "Url": "https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_Operations_AWS_Payments.html",
     "Note": ""
   },
   "pca-connector-ad": {
@@ -2189,10 +2237,22 @@
     "Url": "https://aws.amazon.com/sagemaker/feature-store/",
     "Note": ""
   },
+  "sagemaker-gateway-runtime": {
+    "Prefix": "SMGWR",
+    "Name": "Amazon SageMaker Gateway Runtime",
+    "Url": "https://aws.amazon.com/sagemaker/",
+    "Note": ""
+  },
   "sagemaker-geospatial": {
     "Prefix": "SMGS",
     "Name": "Geospatial ML with Amazon SageMaker",
     "Url": "https://aws.amazon.com/sagemaker/geospatial/",
+    "Note": ""
+  },
+  "sagemaker-inference-router-runtime": {
+    "Prefix": "SMIRR",
+    "Name": "Amazon SageMaker Inference Router Runtime",
+    "Url": "https://aws.amazon.com/sagemaker/",
     "Note": ""
   },
   "sagemaker-metrics": {
@@ -2338,6 +2398,12 @@
     "Name": "AWS Sign-In",
     "Url": "https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html",
     "Note": ""
+  },
+  "signup": {
+    "Prefix": "",
+    "Name": "",
+    "Url": "",
+    "Note": "AWS Signup"
   },
   "simpledbv2": {
     "Prefix": "SDBV2",

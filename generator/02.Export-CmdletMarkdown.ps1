@@ -247,6 +247,9 @@ function Export-PostPageMarkdown {
             "logout" {
                 "[Invoke-AWSLogout](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSLogout.html) is the equivalent cmdlet to ``aws logout``."
             }
+            "signup" {
+                "Currently, No PowerShell cmdlets equivalent to ``aws signup``."
+            }
             "update" {
                 "[Update-AWSToolsModule](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AWSToolsModule.html) is the equivalent cmdlet to ``aws update``."
             }

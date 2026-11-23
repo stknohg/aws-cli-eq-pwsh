@@ -1,6 +1,6 @@
 ---
 title: es
-date: 2026-11-03
+date: 2026-11-23
 description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 ---
 
@@ -60,6 +60,7 @@ description: aws es (Amazon Elasticsearch Service) command/cmdlet list.
 |[aws es remove-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/remove-tags.html)|[Remove-ESResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ESResourceTag.html)|
 |[aws es revoke-vpc-endpoint-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/revoke-vpc-endpoint-access.html)|[Revoke-ESVpcEndpointAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-ESVpcEndpointAccess.html)|
 |[aws es start-elasticsearch-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/start-elasticsearch-service-software-update.html)|[Start-ESElasticsearchServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-ESElasticsearchServiceSoftwareUpdate.html)|
+|[aws es update-clone](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/update-clone.html)|[Update-ESClone](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESClone.html)|
 |[aws es update-elasticsearch-domain-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/update-elasticsearch-domain-config.html)|[Update-ESDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESDomainConfig.html)|
 |[aws es update-package](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/update-package.html)|[Update-ESPackage](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESPackage.html)|
 |[aws es update-vpc-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/es/update-vpc-endpoint.html)|[Update-ESVpcEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ESVpcEndpoint.html)|

@@ -1,6 +1,6 @@
 ---
 title: mwaa-serverless
-date: 2026-11-03
+date: 2026-11-23
 description: aws mwaa-serverless (Amazon Managed Workflows for Apache Airflow Serverless) command/cmdlet list.
 ---
 
@@ -13,6 +13,7 @@ description: aws mwaa-serverless (Amazon Managed Workflows for Apache Airflow Se
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws mwaa-serverless create-airflow-ui-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa-serverless/create-airflow-ui-url.html)|[New-MWAASAirflowUiUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MWAASAirflowUiUrl.html)|
 |[aws mwaa-serverless create-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa-serverless/create-workflow.html)|[New-MWAASWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/New-MWAASWorkflow.html)|
 |[aws mwaa-serverless delete-workflow](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa-serverless/delete-workflow.html)|[Remove-MWAASWorkflow](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MWAASWorkflow.html)|
 |[aws mwaa-serverless get-task-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/mwaa-serverless/get-task-instance.html)|[Get-MWAASTaskInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MWAASTaskInstance.html)|

@@ -1,6 +1,6 @@
 ---
 title: neptune
-date: 2026-11-03
+date: 2026-11-23
 description: aws neptune (Amazon Neptune) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws neptune (Amazon Neptune) command/cmdlet list.
 |[aws neptune describe-global-clusters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/describe-global-clusters.html)|[Get-NPTGlobalCluster](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTGlobalCluster.html)|
 |[aws neptune describe-orderable-db-instance-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/describe-orderable-db-instance-options.html)|[Get-NPTOrderableDBInstanceOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTOrderableDBInstanceOption.html)|
 |[aws neptune describe-pending-maintenance-actions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/describe-pending-maintenance-actions.html)|[Get-NPTPendingMaintenanceAction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTPendingMaintenanceAction.html)|
+|[aws neptune describe-serverless-v2-platform-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/describe-serverless-v2-platform-versions.html)|[Get-NPTServerlessV2PlatformVersionDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTServerlessV2PlatformVersionDetail.html)|
 |[aws neptune describe-valid-db-instance-modifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/describe-valid-db-instance-modifications.html)|[Get-NPTValidDBInstanceModification](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NPTValidDBInstanceModification.html)|
 |[aws neptune failover-db-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/failover-db-cluster.html)|[Start-NPTDBClusterFailover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-NPTDBClusterFailover.html)|
 |[aws neptune failover-global-cluster](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/neptune/failover-global-cluster.html)|[Edit-NPTGlobalClusterPrimary](https://docs.aws.amazon.com/powershell/latest/reference/items/Edit-NPTGlobalClusterPrimary.html)|

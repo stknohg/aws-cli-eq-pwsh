@@ -1,6 +1,6 @@
 ---
 title: route53profiles
-date: 2026-11-03
+date: 2026-11-23
 description: aws route53profiles (Amazon Route 53 Profiles) command/cmdlet list.
 ---
 
@@ -28,5 +28,6 @@ description: aws route53profiles (Amazon Route 53 Profiles) command/cmdlet list.
 |[aws route53profiles list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53profiles/list-tags-for-resource.html)|[Get-R53PResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53PResourceTag.html)|
 |[aws route53profiles tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53profiles/tag-resource.html)|[Add-R53PResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-R53PResourceTag.html)|
 |[aws route53profiles untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53profiles/untag-resource.html)|[Remove-R53PResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-R53PResourceTag.html)|
+|[aws route53profiles update-profile-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53profiles/update-profile-association.html)|[Update-R53PProfileAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53PProfileAssociation.html)|
 |[aws route53profiles update-profile-resource-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53profiles/update-profile-resource-association.html)|[Update-R53PProfileResourceAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53PProfileResourceAssociation.html)|
 

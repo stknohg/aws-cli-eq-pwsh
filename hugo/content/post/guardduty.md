@@ -1,6 +1,6 @@
 ---
 title: guardduty
-date: 2026-11-03
+date: 2026-11-23
 description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 ---
 
@@ -79,6 +79,7 @@ description: aws guardduty (Amazon GuardDuty) command/cmdlet list.
 |[aws guardduty list-detectors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-detectors.html)|[Get-GDDetectorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDDetectorList.html)|
 |[aws guardduty list-filters](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-filters.html)|[Get-GDFilterList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFilterList.html)|
 |[aws guardduty list-findings](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-findings.html)|[Get-GDFindingList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDFindingList.html)|
+|[aws guardduty list-investigation-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-investigation-records.html)|[Get-GDInvestigationRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvestigationRecordList.html)|
 |[aws guardduty list-investigations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-investigations.html)|[Get-GDInvestigationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvestigationList.html)|
 |[aws guardduty list-invitations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-invitations.html)|[Get-GDInvitationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDInvitationList.html)|
 |[aws guardduty list-ip-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/guardduty/list-ip-sets.html)|[Get-GDIPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-GDIPSetList.html)|

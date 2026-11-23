@@ -1,6 +1,6 @@
 ---
 title: iam
-date: 2026-11-03
+date: 2026-11-23
 description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 ---
 
@@ -181,6 +181,7 @@ description: aws iam (AWS Identity and Access Management) command/cmdlet list.
 |[aws iam update-delegation-request](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-delegation-request.html)|[Update-IAMDelegationRequest](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMDelegationRequest.html)|
 |[aws iam update-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-group.html)|[Update-IAMGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMGroup.html)|
 |[aws iam update-login-profile](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-login-profile.html)|[Update-IAMLoginProfile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMLoginProfile.html)|
+|[aws iam update-open-id-connect-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-open-id-connect-provider.html)|[Update-IAMOpenIDConnectProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMOpenIDConnectProvider.html)|
 |[aws iam update-open-id-connect-provider-thumbprint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-open-id-connect-provider-thumbprint.html)|[Update-IAMOpenIDConnectProviderThumbprint](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMOpenIDConnectProviderThumbprint.html)|
 |[aws iam update-role](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-role.html)|[Update-IAMRole](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMRole.html)|
 |[aws iam update-role-description](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam/update-role-description.html)|[Update-IAMRoleDescription](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-IAMRoleDescription.html)|

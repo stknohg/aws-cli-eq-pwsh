@@ -1,6 +1,6 @@
 ---
 title: cloudformation
-date: 2026-11-03
+date: 2026-11-23
 description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 ---
 
@@ -93,7 +93,9 @@ description: aws cloudformation (AWS CloudFormation) command/cmdlet list.
 |[aws cloudformation record-handler-progress](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/record-handler-progress.html)|[Write-CFNHandlerProgress](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-CFNHandlerProgress.html)|
 |[aws cloudformation register-publisher](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/register-publisher.html)|[Register-CFNPublisher](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNPublisher.html)|
 |[aws cloudformation register-type](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/register-type.html)|[Register-CFNType](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-CFNType.html)|
+|[aws cloudformation remove-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/remove-alias.html)|[Remove-CFNAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CFNAlias.html)|
 |[aws cloudformation rollback-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/rollback-stack.html)|[Undo-CFNStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Undo-CFNStack.html)|
+|[aws cloudformation set-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/set-alias.html)|[Set-CFNAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNAlias.html)|
 |[aws cloudformation set-stack-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/set-stack-policy.html)|[Set-CFNStackPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNStackPolicy.html)|
 |[aws cloudformation set-type-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/set-type-configuration.html)|[Set-CFNTypeConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeConfiguration.html)|
 |[aws cloudformation set-type-default-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudformation/set-type-default-version.html)|[Set-CFNTypeDefaultVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-CFNTypeDefaultVersion.html)|

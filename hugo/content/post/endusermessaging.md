@@ -1,6 +1,6 @@
 ---
 title: endusermessaging
-date: 2026-11-03
+date: 2026-11-23
 description: aws endusermessaging (AWS End User Messaging) command/cmdlet list.
 ---
 

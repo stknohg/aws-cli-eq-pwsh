@@ -1,6 +1,6 @@
 ---
 title: route53domains
-date: 2026-11-03
+date: 2026-11-23
 description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws route53domains (Amazon Route 53 Domains) command/cmdlet list.
 |[aws route53domains renew-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/renew-domain.html)|[Update-R53DDomainRenewal](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-R53DDomainRenewal.html)|
 |[aws route53domains resend-contact-reachability-email](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/resend-contact-reachability-email.html)|[Send-R53DContactReachabilityEmail](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-R53DContactReachabilityEmail.html)|
 |[aws route53domains resend-operation-authorization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/resend-operation-authorization.html)|[Send-R53DOperationAuthorization](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-R53DOperationAuthorization.html)|
+|[aws route53domains restore-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/restore-domain.html)|[Restore-R53DDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Restore-R53DDomain.html)|
 |[aws route53domains retrieve-domain-auth-code](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/retrieve-domain-auth-code.html)|[Get-R53DDomainAuthCode](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53DDomainAuthCode.html)|
 |[aws route53domains transfer-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/transfer-domain.html)|[Invoke-R53DDomainTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-R53DDomainTransfer.html)|
 |[aws route53domains transfer-domain-to-another-aws-account](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53domains/transfer-domain-to-another-aws-account.html)|[Move-R53DDomainToAnotherAwsAccount](https://docs.aws.amazon.com/powershell/latest/reference/items/Move-R53DDomainToAnotherAwsAccount.html)|

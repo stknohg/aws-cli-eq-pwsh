@@ -1,6 +1,6 @@
 ---
 title: appstream
-date: 2026-11-03
+date: 2026-11-23
 description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 ---
 
@@ -99,6 +99,7 @@ description: aws appstream (Amazon WorkSpaces Applications) command/cmdlet list.
 |[aws appstream update-directory-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-directory-config.html)|[Update-APSDirectoryConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSDirectoryConfig.html)|
 |[aws appstream update-entitlement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-entitlement.html)|[Update-APSEntitlement](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSEntitlement.html)|
 |[aws appstream update-fleet](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-fleet.html)|[Update-APSFleet](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSFleet.html)|
+|[aws appstream update-image-builder](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-image-builder.html)|[Update-APSImageBuilder](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSImageBuilder.html)|
 |[aws appstream update-image-permissions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-image-permissions.html)|[Update-APSImagePermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSImagePermission.html)|
 |[aws appstream update-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-stack.html)|[Update-APSStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSStack.html)|
 |[aws appstream update-theme-for-stack](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/appstream/update-theme-for-stack.html)|[Update-APSThemeForStack](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-APSThemeForStack.html)|

@@ -1,6 +1,6 @@
 ---
 title: agent-registry
-date: 2026-11-03
+date: 2026-11-23
 description: aws agent-registry (AWS Agent Registry) command/cmdlet list.
 ---
 
@@ -14,6 +14,10 @@ description: aws agent-registry (AWS Agent Registry) command/cmdlet list.
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws agent-registry batch-get-discoverable-registry-record](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/batch-get-discoverable-registry-record.html)|[Get-AGRGDiscoverableRegistryRecordBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGRGDiscoverableRegistryRecordBatch.html)|
+|[aws agent-registry install-skill](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/install-skill.html)||
 |[aws agent-registry list-discoverable-registry-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/list-discoverable-registry-records.html)|[Get-AGRGDiscoverableRegistryRecordList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AGRGDiscoverableRegistryRecordList.html)|
+|[aws agent-registry list-skills](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/list-skills.html)||
 |[aws agent-registry search-discoverable-registry-records](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/search-discoverable-registry-records.html)|[Search-AGRGDiscoverableRegistryRecord](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-AGRGDiscoverableRegistryRecord.html)|
+|[aws agent-registry sign-out](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/sign-out.html)||
+|[aws agent-registry uninstall-skill](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/agent-registry/uninstall-skill.html)||
 

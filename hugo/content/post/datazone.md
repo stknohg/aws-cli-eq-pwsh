@@ -1,6 +1,6 @@
 ---
 title: datazone
-date: 2026-11-03
+date: 2026-11-23
 description: aws datazone (Amazon DataZone) command/cmdlet list.
 ---
 
@@ -187,6 +187,7 @@ description: aws datazone (Amazon DataZone) command/cmdlet list.
 |[aws datazone untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/untag-resource.html)|[Remove-DZResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-DZResourceTag.html)|
 |[aws datazone update-account-pool](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-account-pool.html)|[Update-DZAccountPool](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZAccountPool.html)|
 |[aws datazone update-asset-filter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-asset-filter.html)|[Update-DZAssetFilter](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZAssetFilter.html)|
+|[aws datazone update-asset-owner](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-asset-owner.html)|[Update-DZAssetOwner](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZAssetOwner.html)|
 |[aws datazone update-connection](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-connection.html)|[Update-DZConnection](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZConnection.html)|
 |[aws datazone update-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-data-source.html)|[Update-DZDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZDataSource.html)|
 |[aws datazone update-designation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/datazone/update-designation.html)|[Update-DZDesignation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DZDesignation.html)|

@@ -1,6 +1,6 @@
 ---
 title: bcm-pricing-calculator
-date: 2026-11-03
+date: 2026-11-23
 description: aws bcm-pricing-calculator (AWS Billing and Cost Management Pricing Calculator) command/cmdlet list.
 ---
 
@@ -31,6 +31,7 @@ description: aws bcm-pricing-calculator (AWS Billing and Cost Management Pricing
 |[aws bcm-pricing-calculator get-bill-estimate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/get-bill-estimate.html)|[Get-BCMPCBillEstimate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCBillEstimate.html)|
 |[aws bcm-pricing-calculator get-bill-scenario](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/get-bill-scenario.html)|[Get-BCMPCBillScenario](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCBillScenario.html)|
 |[aws bcm-pricing-calculator get-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/get-preferences.html)|[Get-BCMPCPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCPreference.html)|
+|[aws bcm-pricing-calculator get-usage-lines-estimated-cost](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/get-usage-lines-estimated-cost.html)|[Get-BCMPCUsageLinesEstimatedCost](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCUsageLinesEstimatedCost.html)|
 |[aws bcm-pricing-calculator get-workload-estimate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/get-workload-estimate.html)|[Get-BCMPCWorkloadEstimate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCWorkloadEstimate.html)|
 |[aws bcm-pricing-calculator list-bill-estimate-commitments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/list-bill-estimate-commitments.html)|[Get-BCMPCBillEstimateCommitmentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCBillEstimateCommitmentList.html)|
 |[aws bcm-pricing-calculator list-bill-estimate-input-commitment-modifications](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/bcm-pricing-calculator/list-bill-estimate-input-commitment-modifications.html)|[Get-BCMPCBillEstimateInputCommitmentModificationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCBillEstimateInputCommitmentModificationList.html)|

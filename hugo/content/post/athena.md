@@ -1,6 +1,6 @@
 ---
 title: athena
-date: 2026-11-03
+date: 2026-11-23
 description: aws athena (Amazon Athena) command/cmdlet list.
 ---
 
@@ -23,12 +23,14 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena create-notebook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/create-notebook.html)|[New-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHNotebook.html)|
 |[aws athena create-prepared-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/create-prepared-statement.html)|[New-ATHPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHPreparedStatement.html)|
 |[aws athena create-presigned-notebook-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/create-presigned-notebook-url.html)|[New-ATHPresignedNotebookUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHPresignedNotebookUrl.html)|
+|[aws athena create-system-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/create-system-table-configuration.html)|[New-ATHSystemTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHSystemTableConfiguration.html)|
 |[aws athena create-work-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/create-work-group.html)|[New-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/New-ATHWorkGroup.html)|
 |[aws athena delete-capacity-reservation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-capacity-reservation.html)|[Remove-ATHCapacityReservation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHCapacityReservation.html)|
 |[aws athena delete-data-catalog](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-data-catalog.html)|[Remove-ATHDataCatalog](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHDataCatalog.html)|
 |[aws athena delete-named-query](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-named-query.html)|[Remove-ATHNamedQuery](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHNamedQuery.html)|
 |[aws athena delete-notebook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-notebook.html)|[Remove-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHNotebook.html)|
 |[aws athena delete-prepared-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-prepared-statement.html)|[Remove-ATHPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHPreparedStatement.html)|
+|[aws athena delete-system-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-system-table-configuration.html)|[Remove-ATHSystemTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHSystemTableConfiguration.html)|
 |[aws athena delete-work-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/delete-work-group.html)|[Remove-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ATHWorkGroup.html)|
 |[aws athena export-notebook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/export-notebook.html)|[Export-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Export-ATHNotebook.html)|
 |[aws athena get-calculation-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-calculation-execution.html)|[Get-ATHCalculationExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHCalculationExecution.html)|
@@ -48,6 +50,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-session.html)|[Get-ATHSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSession.html)|
 |[aws athena get-session-endpoint](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-session-endpoint.html)|[Get-ATHSessionEndpoint](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSessionEndpoint.html)|
 |[aws athena get-session-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-session-status.html)|[Get-ATHSessionStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSessionStatus.html)|
+|[aws athena get-system-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-system-table-configuration.html)|[Get-ATHSystemTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSystemTableConfiguration.html)|
 |[aws athena get-table-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-table-metadata.html)|[Get-ATHTableMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHTableMetadata.html)|
 |[aws athena get-work-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/get-work-group.html)|[Get-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHWorkGroup.html)|
 |[aws athena import-notebook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/import-notebook.html)|[Import-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Import-ATHNotebook.html)|
@@ -64,6 +67,7 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena list-prepared-statements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-prepared-statements.html)|[Get-ATHPreparedStatementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHPreparedStatementList.html)|
 |[aws athena list-query-executions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-query-executions.html)|[Get-ATHQueryExecutionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHQueryExecutionList.html)|
 |[aws athena list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-sessions.html)|[Get-ATHSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSessionList.html)|
+|[aws athena list-system-table-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-system-table-statuses.html)|[Get-ATHSystemTableStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHSystemTableStatusList.html)|
 |[aws athena list-table-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-table-metadata.html)|[Get-ATHTableMetadataList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHTableMetadataList.html)|
 |[aws athena list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-tags-for-resource.html)|[Get-ATHResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHResourceTag.html)|
 |[aws athena list-work-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/list-work-groups.html)|[Get-ATHWorkGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ATHWorkGroupList.html)|
@@ -82,5 +86,6 @@ description: aws athena (Amazon Athena) command/cmdlet list.
 |[aws athena update-notebook](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/update-notebook.html)|[Update-ATHNotebook](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHNotebook.html)|
 |[aws athena update-notebook-metadata](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/update-notebook-metadata.html)|[Update-ATHNotebookMetadata](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHNotebookMetadata.html)|
 |[aws athena update-prepared-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/update-prepared-statement.html)|[Update-ATHPreparedStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHPreparedStatement.html)|
+|[aws athena update-system-table-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/update-system-table-configuration.html)|[Update-ATHSystemTableConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHSystemTableConfiguration.html)|
 |[aws athena update-work-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/athena/update-work-group.html)|[Update-ATHWorkGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-ATHWorkGroup.html)|
 

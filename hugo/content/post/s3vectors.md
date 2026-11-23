@@ -1,6 +1,6 @@
 ---
 title: s3vectors
-date: 2026-11-03
+date: 2026-11-23
 description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 ---
 
@@ -34,4 +34,5 @@ description: aws s3vectors (Amazon S3 Vectors) command/cmdlet list.
 |[aws s3vectors tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/tag-resource.html)|[Add-S3VResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-S3VResourceTag.html)|
 |[aws s3vectors untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/untag-resource.html)|[Remove-S3VResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-S3VResourceTag.html)|
 |[aws s3vectors update-index-mode](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/update-index-mode.html)|[Update-S3VIndexMode](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3VIndexMode.html)|
+|[aws s3vectors update-metadata-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3vectors/update-metadata-configuration.html)|[Update-S3VMetadataConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-S3VMetadataConfiguration.html)|
 

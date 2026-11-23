@@ -1,6 +1,6 @@
 ---
 title: securityhub
-date: 2026-11-03
+date: 2026-11-23
 description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 ---
 
@@ -95,6 +95,9 @@ description: aws securityhub (AWS Security Hub CSPM) command/cmdlet list.
 |[aws securityhub get-resources-trends-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-trends-v2.html)|[Get-SHUBResourcesTrendsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesTrendsV2.html)|
 |[aws securityhub get-resources-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-resources-v2.html)|[Get-SHUBResourcesV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBResourcesV2.html)|
 |[aws securityhub get-security-control-definition](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-security-control-definition.html)|[Get-SHUBSecurityControlDefinition](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBSecurityControlDefinition.html)|
+|[aws securityhub get-software-resources-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-software-resources-v2.html)|[Get-SHUBSoftwareResourcesV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBSoftwareResourcesV2.html)|
+|[aws securityhub get-software-statistics-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-software-statistics-v2.html)|[Get-SHUBSoftwareStatisticsV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBSoftwareStatisticsV2.html)|
+|[aws securityhub get-software-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/get-software-v2.html)|[Get-SHUBSoftwareV2](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBSoftwareV2.html)|
 |[aws securityhub invite-members](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/invite-members.html)|[Send-SHUBMemberInvitation](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-SHUBMemberInvitation.html)|
 |[aws securityhub list-aggregators-v2](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-aggregators-v2.html)|[Get-SHUBAggregatorsV2List](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAggregatorsV2List.html)|
 |[aws securityhub list-automation-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityhub/list-automation-rules.html)|[Get-SHUBAutomationRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SHUBAutomationRuleList.html)|

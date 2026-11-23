@@ -1,6 +1,6 @@
 ---
 title: qconnect
-date: 2026-11-03
+date: 2026-11-23
 description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 ---
 
@@ -81,6 +81,8 @@ description: aws qconnect (Amazon Q in Connect) command/cmdlet list.
 |[aws qconnect list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/list-tags-for-resource.html)|[Get-QCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-QCResourceTag.html)|
 |[aws qconnect notify-recommendations-received](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/notify-recommendations-received.html)|[Remove-QCRecommendationsReceived](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCRecommendationsReceived.html)|
 |[aws qconnect put-feedback](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/put-feedback.html)|[Write-QCFeedback](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-QCFeedback.html)|
+|[aws qconnect register-assistant-replica-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/register-assistant-replica-key.html)|[Register-QCAssistantReplicaKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-QCAssistantReplicaKey.html)|
+|[aws qconnect register-knowledge-base-replica-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/register-knowledge-base-replica-key.html)|[Register-QCKnowledgeBaseReplicaKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-QCKnowledgeBaseReplicaKey.html)|
 |[aws qconnect remove-assistant-ai-agent](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-assistant-ai-agent.html)|[Remove-QCAssistantAIAgent](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCAssistantAIAgent.html)|
 |[aws qconnect remove-knowledge-base-template-uri](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/remove-knowledge-base-template-uri.html)|[Remove-QCKnowledgeBaseTemplateUri](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-QCKnowledgeBaseTemplateUri.html)|
 |[aws qconnect render-message-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/qconnect/render-message-template.html)|[Invoke-QCMessageTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-QCMessageTemplate.html)|

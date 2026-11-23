@@ -1,6 +1,6 @@
 ---
 title: transcribe
-date: 2026-11-03
+date: 2026-11-23
 description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 ---
 
@@ -51,6 +51,7 @@ description: aws transcribe (Amazon Transcribe) command/cmdlet list.
 |[aws transcribe start-medical-transcription-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/start-medical-transcription-job.html)|[Start-TRSMedicalTranscriptionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TRSMedicalTranscriptionJob.html)|
 |[aws transcribe start-transcription-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/start-transcription-job.html)|[Start-TRSTranscriptionJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-TRSTranscriptionJob.html)|
 |[aws transcribe tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/tag-resource.html)|[Add-TRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-TRSResourceTag.html)|
+|[aws transcribe transcribe-audio](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/transcribe-audio.html)|[Invoke-TRSTranscribeAudio](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-TRSTranscribeAudio.html)|
 |[aws transcribe untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/untag-resource.html)|[Remove-TRSResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-TRSResourceTag.html)|
 |[aws transcribe update-call-analytics-category](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-call-analytics-category.html)|[Update-TRSCallAnalyticsCategory](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSCallAnalyticsCategory.html)|
 |[aws transcribe update-language-model](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/transcribe/update-language-model.html)|[Update-TRSLanguageModel](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-TRSLanguageModel.html)|

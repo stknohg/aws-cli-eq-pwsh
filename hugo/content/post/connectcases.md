@@ -1,6 +1,6 @@
 ---
 title: connectcases
-date: 2026-11-03
+date: 2026-11-23
 description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 ---
 
@@ -13,9 +13,11 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws connectcases batch-create-related-item](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/batch-create-related-item.html)|[New-CCASRelatedItemBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASRelatedItemBatch.html)|
 |[aws connectcases batch-get-case-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/batch-get-case-rule.html)|[Group-CCASGetCaseRule](https://docs.aws.amazon.com/powershell/latest/reference/items/Group-CCASGetCaseRule.html)|
 |[aws connectcases batch-get-field](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/batch-get-field.html)|[Group-CCASGetField](https://docs.aws.amazon.com/powershell/latest/reference/items/Group-CCASGetField.html)|
 |[aws connectcases batch-put-field-options](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/batch-put-field-options.html)|[Group-CCASPutFieldOption](https://docs.aws.amazon.com/powershell/latest/reference/items/Group-CCASPutFieldOption.html)|
+|[aws connectcases batch-update-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/batch-update-case.html)|[Update-CCASCaseBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASCaseBatch.html)|
 |[aws connectcases create-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/create-case.html)|[New-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASCase.html)|
 |[aws connectcases create-case-rule](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/create-case-rule.html)|[New-CCASCaseRule](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASCaseRule.html)|
 |[aws connectcases create-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/create-domain.html)|[New-CCASDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CCASDomain.html)|
@@ -35,6 +37,7 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 |[aws connectcases get-case-event-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-case-event-configuration.html)|[Get-CCASCaseEventConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCaseEventConfiguration.html)|
 |[aws connectcases get-domain](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-domain.html)|[Get-CCASDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASDomain.html)|
 |[aws connectcases get-layout](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-layout.html)|[Get-CCASLayout](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASLayout.html)|
+|[aws connectcases get-merge-cases-status](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-merge-cases-status.html)|[Get-CCASMergeCasesStatus](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASMergeCasesStatus.html)|
 |[aws connectcases get-template](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/get-template.html)|[Get-CCASTemplate](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASTemplate.html)|
 |[aws connectcases list-case-rules](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/list-case-rules.html)|[Get-CCASCaseRuleList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCaseRuleList.html)|
 |[aws connectcases list-cases-for-contact](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/list-cases-for-contact.html)|[Get-CCASCasesForContactList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CCASCasesForContactList.html)|
@@ -48,6 +51,7 @@ description: aws connectcases (Amazon Connect Cases) command/cmdlet list.
 |[aws connectcases search-all-related-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/search-all-related-items.html)|[Search-CCASAllRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CCASAllRelatedItem.html)|
 |[aws connectcases search-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/search-cases.html)|[Search-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CCASCase.html)|
 |[aws connectcases search-related-items](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/search-related-items.html)|[Search-CCASRelatedItem](https://docs.aws.amazon.com/powershell/latest/reference/items/Search-CCASRelatedItem.html)|
+|[aws connectcases start-merge-cases](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/start-merge-cases.html)|[Start-CCASMergeCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-CCASMergeCase.html)|
 |[aws connectcases tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/tag-resource.html)|[Add-CCASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-CCASResourceTag.html)|
 |[aws connectcases untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/untag-resource.html)|[Remove-CCASResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CCASResourceTag.html)|
 |[aws connectcases update-case](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connectcases/update-case.html)|[Update-CCASCase](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-CCASCase.html)|

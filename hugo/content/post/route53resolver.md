@@ -1,6 +1,6 @@
 ---
 title: route53resolver
-date: 2026-11-03
+date: 2026-11-23
 description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 ---
 
@@ -57,6 +57,7 @@ description: aws route53resolver (Amazon Route 53 Resolver) command/cmdlet list.
 |[aws route53resolver list-firewall-configs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-configs.html)|[Get-R53RFirewallConfigList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallConfigList.html)|
 |[aws route53resolver list-firewall-domain-lists](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-domain-lists.html)|[Get-R53RFirewallDomainListList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallDomainListList.html)|
 |[aws route53resolver list-firewall-domains](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-domains.html)|[Get-R53RFirewallDomain](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallDomain.html)|
+|[aws route53resolver list-firewall-rule-domains](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-domains.html)|[Get-R53RFirewallRuleDomainList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleDomainList.html)|
 |[aws route53resolver list-firewall-rule-group-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-group-associations.html)|[Get-R53RFirewallRuleGroupAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupAssociationList.html)|
 |[aws route53resolver list-firewall-rule-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-groups.html)|[Get-R53RFirewallRuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleGroupList.html)|
 |[aws route53resolver list-firewall-rule-types](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/route53resolver/list-firewall-rule-types.html)|[Get-R53RFirewallRuleTypeList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-R53RFirewallRuleTypeList.html)|

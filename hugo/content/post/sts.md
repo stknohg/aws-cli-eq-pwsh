@@ -1,6 +1,6 @@
 ---
 title: sts
-date: 2026-11-03
+date: 2026-11-23
 description: aws sts (AWS Security Token Service) command/cmdlet list.
 ---
 
@@ -22,6 +22,7 @@ description: aws sts (AWS Security Token Service) command/cmdlet list.
 |[aws sts get-caller-identity](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-caller-identity.html)|[Get-STSCallerIdentity](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSCallerIdentity.html)|
 |[aws sts get-delegated-access-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-delegated-access-token.html)|[Get-STSDelegatedAccessToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSDelegatedAccessToken.html)|
 |[aws sts get-federation-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-federation-token.html)|[Get-STSFederationToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSFederationToken.html)|
+|[aws sts get-scoped-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-scoped-credentials.html)|[Get-STSScopedCredential](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSScopedCredential.html)|
 |[aws sts get-session-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-session-token.html)|[Get-STSSessionToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSSessionToken.html)|
 |[aws sts get-web-identity-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sts/get-web-identity-token.html)|[Get-STSWebIdentityToken](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-STSWebIdentityToken.html)|
 

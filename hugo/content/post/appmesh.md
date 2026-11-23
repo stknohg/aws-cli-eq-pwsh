@@ -1,6 +1,6 @@
 ---
 title: appmesh
-date: 2026-11-03
+date: 2026-11-23
 description: aws appmesh (AWS App Mesh) command/cmdlet list.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: iam-toolbox
-date: 2026-11-03
+date: 2026-11-23
 description: aws iam-toolbox (AWS Identity and Access Management Toolbox) command/cmdlet list.
 ---
 
@@ -14,4 +14,5 @@ description: aws iam-toolbox (AWS Identity and Access Management Toolbox) comman
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
 |[aws iam-toolbox get-request-authorization-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam-toolbox/get-request-authorization-details.html)|[Get-IAMTBRequestAuthorizationDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMTBRequestAuthorizationDetail.html)|
+|[aws iam-toolbox get-request-authorization-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/iam-toolbox/get-request-authorization-policy.html)|[Get-IAMTBRequestAuthorizationPolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-IAMTBRequestAuthorizationPolicy.html)|
 

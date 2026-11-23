@@ -1,6 +1,6 @@
 ---
 title: secretsmanager
-date: 2026-11-03
+date: 2026-11-23
 description: aws secretsmanager (AWS Secrets Manager) command/cmdlet list.
 ---
 
@@ -13,15 +13,18 @@ description: aws secretsmanager (AWS Secrets Manager) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws secretsmanager associate-cross-account-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/associate-cross-account-replica.html)|[Add-SECCrossAccountReplica](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-SECCrossAccountReplica.html)|
 |[aws secretsmanager batch-get-secret-value](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/batch-get-secret-value.html)|[Get-SECBatchSecretValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECBatchSecretValue.html)|
 |[aws secretsmanager cancel-rotate-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/cancel-rotate-secret.html)|[Stop-SECSecretRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Stop-SECSecretRotation.html)|
 |[aws secretsmanager create-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/create-secret.html)|[New-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/New-SECSecret.html)|
 |[aws secretsmanager delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/delete-resource-policy.html)|[Remove-SECResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECResourcePolicy.html)|
 |[aws secretsmanager delete-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/delete-secret.html)|[Remove-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECSecret.html)|
 |[aws secretsmanager describe-secret](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/describe-secret.html)|[Get-SECSecret](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECSecret.html)|
+|[aws secretsmanager disassociate-cross-account-replica](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/disassociate-cross-account-replica.html)|[Remove-SECCrossAccountReplica](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SECCrossAccountReplica.html)|
 |[aws secretsmanager get-random-password](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/get-random-password.html)|[Get-SECRandomPassword](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECRandomPassword.html)|
 |[aws secretsmanager get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/get-resource-policy.html)|[Get-SECResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECResourcePolicy.html)|
 |[aws secretsmanager get-secret-value](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/get-secret-value.html)|[Get-SECSecretValue](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECSecretValue.html)|
+|[aws secretsmanager list-resource-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/list-resource-policies.html)|[Get-SECResourcePolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECResourcePolicyList.html)|
 |[aws secretsmanager list-secret-version-ids](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/list-secret-version-ids.html)|[Get-SECSecretVersionIdList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECSecretVersionIdList.html)|
 |[aws secretsmanager list-secrets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/list-secrets.html)|[Get-SECSecretList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECSecretList.html)|
 |[aws secretsmanager put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/secretsmanager/put-resource-policy.html)|[Write-SECResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SECResourcePolicy.html)|

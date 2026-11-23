@@ -1,6 +1,6 @@
 ---
 title: partnercentral-revenue-measurement
-date: 2026-11-03
+date: 2026-11-23
 description: aws partnercentral-revenue-measurement (AWS Partner Central Revenue Measurement API) command/cmdlet list.
 ---
 
@@ -29,6 +29,7 @@ description: aws partnercentral-revenue-measurement (AWS Partner Central Revenue
 |[aws partnercentral-revenue-measurement start-revenue-attribution-allocations-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-revenue-measurement/start-revenue-attribution-allocations-task.html)|[Start-PCRMRevenueAttributionAllocationsTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-PCRMRevenueAttributionAllocationsTask.html)|
 |[aws partnercentral-revenue-measurement tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-revenue-measurement/tag-resource.html)|[Add-PCRMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-PCRMResourceTag.html)|
 |[aws partnercentral-revenue-measurement untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-revenue-measurement/untag-resource.html)|[Remove-PCRMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-PCRMResourceTag.html)|
+|[aws partnercentral-revenue-measurement update-marketplace-revenue-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-revenue-measurement/update-marketplace-revenue-share.html)|[Update-PCRMMarketplaceRevenueShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCRMMarketplaceRevenueShare.html)|
 |[aws partnercentral-revenue-measurement update-marketplace-revenue-share-allocation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-revenue-measurement/update-marketplace-revenue-share-allocation.html)|[Update-PCRMMarketplaceRevenueShareAllocation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCRMMarketplaceRevenueShareAllocation.html)|
 |[aws partnercentral-revenue-measurement update-revenue-attribution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/partnercentral-revenue-measurement/update-revenue-attribution.html)|[Update-PCRMRevenueAttribution](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-PCRMRevenueAttribution.html)|
 

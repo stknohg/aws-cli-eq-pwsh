@@ -1,6 +1,6 @@
 ---
 title: signin
-date: 2026-11-03
+date: 2026-11-23
 description: aws signin (AWS Sign-In) command/cmdlet list.
 ---
 
@@ -13,6 +13,8 @@ description: aws signin (AWS Sign-In) command/cmdlet list.
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws signin batch-revoke-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/batch-revoke-sessions.html)|[Revoke-AMSPSessionBatch](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-AMSPSessionBatch.html)|
+|[aws signin create-bearer-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-bearer-token.html)|[New-AMSPBearerToken](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPBearerToken.html)|
 |[aws signin create-oauth2-token](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-oauth2-token.html)|[New-AMSPOAuth2Token](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPOAuth2Token.html)|
 |[aws signin create-oauth2-token-with-iam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-oauth2-token-with-iam.html)|[New-AMSPOAuth2TokenWithIAM](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPOAuth2TokenWithIAM.html)|
 |[aws signin create-oauth2-token-with-token-exchange](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/create-oauth2-token-with-token-exchange.html)|[New-AMSPOAuth2TokenWithTokenExchange](https://docs.aws.amazon.com/powershell/latest/reference/items/New-AMSPOAuth2TokenWithTokenExchange.html)|
@@ -20,8 +22,10 @@ description: aws signin (AWS Sign-In) command/cmdlet list.
 |[aws signin delete-resource-permission-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/delete-resource-permission-statement.html)|[Remove-AMSPResourcePermissionStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AMSPResourcePermissionStatement.html)|
 |[aws signin get-console-authorization-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/get-console-authorization-configuration.html)|[Get-AMSPConsoleAuthorizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMSPConsoleAuthorizationConfiguration.html)|
 |[aws signin get-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/get-resource-policy.html)|[Get-AMSPResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMSPResourcePolicy.html)|
+|[aws signin get-session](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/get-session.html)|[Get-AMSPSession](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMSPSession.html)|
 |[aws signin introspect-oauth2-token-with-iam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/introspect-oauth2-token-with-iam.html)|[Invoke-AMSPIntrospectOAuth2TokenWithIAM](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AMSPIntrospectOAuth2TokenWithIAM.html)|
 |[aws signin list-resource-permission-statements](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/list-resource-permission-statements.html)|[Get-AMSPResourcePermissionStatementList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMSPResourcePermissionStatementList.html)|
+|[aws signin list-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/list-sessions.html)|[Get-AMSPSessionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AMSPSessionList.html)|
 |[aws signin put-console-authorization-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/put-console-authorization-configuration.html)|[Write-AMSPConsoleAuthorizationConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AMSPConsoleAuthorizationConfiguration.html)|
 |[aws signin put-resource-permission-statement](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/put-resource-permission-statement.html)|[Write-AMSPResourcePermissionStatement](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-AMSPResourcePermissionStatement.html)|
 |[aws signin revoke-oauth2-token-with-iam](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/signin/revoke-oauth2-token-with-iam.html)|[Revoke-AMSPOAuth2TokenWithIAM](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-AMSPOAuth2TokenWithIAM.html)|

@@ -1,6 +1,6 @@
 ---
 title: billing
-date: 2026-11-03
+date: 2026-11-23
 description: aws billing (AWS Billing) command/cmdlet list.
 ---
 
@@ -42,15 +42,20 @@ description: aws billing (AWS Billing) command/cmdlet list.
 |[aws billing list-source-views-for-billing-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-source-views-for-billing-view.html)|[Get-AWSBSourceViewsForBillingViewList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBSourceViewsForBillingViewList.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-BCMDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDResourceTag.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-BCMDEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMDEResourceTag.html)|
+|[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-BCMPCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-BCMPCResourceTag.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-AWSBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-AWSBResourceTag.html)|
 |[aws billing list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/list-tags-for-resource.html)|[Get-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-ABCResourceTag.html)|
 |[aws billing redeem-credits](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/redeem-credits.html)|[Invoke-AWSBCreditRedemption](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSBCreditRedemption.html)|
+|[aws billing split-credit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/split-credit.html)|[Split-AWSBCredit](https://docs.aws.amazon.com/powershell/latest/reference/items/Split-AWSBCredit.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-BCMDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BCMDResourceTag.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-BCMDEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BCMDEResourceTag.html)|
+|[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-BCMPCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-BCMPCResourceTag.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-AWSBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-AWSBResourceTag.html)|
 |[aws billing tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/tag-resource.html)|[Add-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-ABCResourceTag.html)|
+|[aws billing transfer-credit](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/transfer-credit.html)|[Invoke-AWSBCreditTransfer](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-AWSBCreditTransfer.html)|
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-BCMDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BCMDResourceTag.html)|
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-BCMDEResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BCMDEResourceTag.html)|
+|[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-BCMPCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-BCMPCResourceTag.html)|
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-AWSBResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-AWSBResourceTag.html)|
 |[aws billing untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/untag-resource.html)|[Remove-ABCResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-ABCResourceTag.html)|
 |[aws billing update-billing-preferences](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/billing/update-billing-preferences.html)|[Update-AWSBBillingPreference](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-AWSBBillingPreference.html)|

@@ -1,6 +1,6 @@
 ---
 title: marketplace-catalog
-date: 2026-11-03
+date: 2026-11-23
 description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws marketplace-catalog (AWS Marketplace Catalog Service) command/c
 |[aws marketplace-catalog list-entities](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/list-entities.html)|[Get-MCATEntityList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATEntityList.html)|
 |[aws marketplace-catalog list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/list-tags-for-resource.html)|[Get-MCATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MCATResourceTag.html)|
 |[aws marketplace-catalog put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/put-resource-policy.html)|[Write-MCATResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MCATResourcePolicy.html)|
+|[aws marketplace-catalog start-assessment](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/start-assessment.html)|[Start-MCATAssessment](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MCATAssessment.html)|
 |[aws marketplace-catalog start-change-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/start-change-set.html)|[Start-MCATChangeSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MCATChangeSet.html)|
 |[aws marketplace-catalog tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/tag-resource.html)|[Add-MCATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MCATResourceTag.html)|
 |[aws marketplace-catalog untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-catalog/untag-resource.html)|[Remove-MCATResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MCATResourceTag.html)|

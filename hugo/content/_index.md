@@ -1,6 +1,6 @@
 ---
 title: AWS CLI -eq PowerShell
-date: 2026-11-03
+date: 2026-11-23
 description: This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 ---
 
@@ -8,8 +8,8 @@ This is the lists of AWS PowerShell Cmdlets equivalent to AWS CLI commands.
 
 ### Version
 
-* [AWS CLI](https://aws.amazon.com/cli/): 2.39.3 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
-* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.327 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
+* [AWS CLI](https://aws.amazon.com/cli/): 2.42.1 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-cli/v2/CHANGELOG.rst))
+* [AWS Tools for PowerShell](https://aws.amazon.com/powershell/): 5.0.342 ([CHANGELOG](https://raw.githubusercontent.com/aws/aws-tools-for-powershell/master/changelogs/CHANGELOG.ALL.md))
 
 ### Contents
 
@@ -20,11 +20,14 @@ This site is created by automatic generation. For that reason, some content may 
 
 |Service|CLI command|PowerShell prefix|Notes|
 |----|----|:--:|----|
+|[AWS Abuse Signal API](https://docs.aws.amazon.com/abuse-signal/)|[abuse-signal]({{%relref "post/abuse-signal.md" %}})|ABS||
 |[AWS IAM Access Analyzer](https://aws.amazon.com/iam/)|[accessanalyzer]({{%relref "post/accessanalyzer.md" %}})|IAMAA||
 |[AWS Account Management](https://aws.amazon.com/account/)|[account]({{%relref "post/account.md" %}})|ACCT||
 |[AWS IAM Account access manager](https://aws.amazon.com/iam/)|[account-access]({{%relref "post/account-access.md" %}})|ACCAC||
+|[Account Access Runtime API](https://docs.aws.amazon.com/account-access-runtime/latest/APIReference/Welcome.html)|[account-access-runtime]({{%relref "post/account-access-runtime.md" %}})|ACCAR||
 |[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)|[acm]({{%relref "post/acm.md" %}})|ACM||
 |[AWS Private Certificate Authority](https://aws.amazon.com/private-ca/)|[acm-pca]({{%relref "post/acm-pca.md" %}})|PCA|Formerly AWS Certificate Manager Private Certificate Authority.|
+|[Agent Registry Public Search (Agent Discovery)](https://aws.amazon.com/bedrock/agentcore/)|[agent-discovery]({{%relref "post/agent-discovery.md" %}})|AGDS||
 |[AWS Agent Registry](https://aws.amazon.com/bedrock/agentcore/)|[agent-registry]({{%relref "post/agent-registry.md" %}})|AGRG||
 |[AWS Agent Registry Control Plane](https://aws.amazon.com/bedrock/agentcore/)|[agent-registry-control]({{%relref "post/agent-registry-control.md" %}})|AGRC||
 |-|[agent-toolkit]({{%relref "post/agent-toolkit.md" %}})||Commands to set up and manage AI coding agents with the Agent Toolkit for AWS|
@@ -36,6 +39,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigateway]({{%relref "post/apigateway.md" %}})|AG||
 |[Amazon API Gateway Management](https://aws.amazon.com/api-gateway/)|[apigatewaymanagementapi]({{%relref "post/apigatewaymanagementapi.md" %}})|AGM||
 |[Amazon API Gateway](https://aws.amazon.com/api-gateway/)|[apigatewayv2]({{%relref "post/apigatewayv2.md" %}})|AG2||
+|[Amazon API Gateway Portals](https://aws.amazon.com/api-gateway/)|[apiportal]({{%relref "post/apiportal.md" %}})|APIP||
 |[AWS AppConfig](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfig]({{%relref "post/appconfig.md" %}})|APPC||
 |[AWS AppConfig Data](https://docs.aws.amazon.com/systems-manager/latest/userguide/appconfig.html)|[appconfigdata]({{%relref "post/appconfigdata.md" %}})|ACD||
 |[AWS AppFabric](https://aws.amazon.com/appfabric/)|[appfabric]({{%relref "post/appfabric.md" %}})|AFAB||
@@ -128,6 +132,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Connect Cases](https://aws.amazon.com/connect/cases/)|[connectcases]({{%relref "post/connectcases.md" %}})|CCAS||
 |[Amazon Connect Health](https://aws.amazon.com/health/connect-health/)|[connecthealth]({{%relref "post/connecthealth.md" %}})|CNH||
 |[Amazon Connect Participant Service](https://aws.amazon.com/connect/)|[connectparticipant]({{%relref "post/connectparticipant.md" %}})|CONNP||
+|[Amazon Connect Scheduling](https://aws.amazon.com/connect/)|[connectscheduling]({{%relref "post/connectscheduling.md" %}})|CNSCH||
 |[AWS Continuum](https://aws.amazon.com/continuum/)|[continuum]({{%relref "post/continuum.md" %}})|CONT||
 |[AWS Control Catalog](https://aws.amazon.com/controltower/)|[controlcatalog]({{%relref "post/controlcatalog.md" %}})|CLCAT||
 |[AWS Control Tower](https://aws.amazon.com/controltower/)|[controltower]({{%relref "post/controltower.md" %}})|ACT||
@@ -317,6 +322,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[Oracle Database@AWS](https://aws.amazon.com/marketplace/featured-seller/oracle/)|[odb]({{%relref "post/odb.md" %}})|ODB||
 |[AWS HealthOmics](https://aws.amazon.com/healthomics/)|[omics]({{%relref "post/omics.md" %}})|OMICS|Formerly Amazon Omics.|
 |[Amazon OpenSearch Service](https://aws.amazon.com/opensearch-service/)|[opensearch]({{%relref "post/opensearch.md" %}})|OS|Formerly Amazon Elasticsearch Service.|
+|[Amazon OpenSearch Memory](https://aws.amazon.com/opensearch-service/)|[opensearchmemory]({{%relref "post/opensearchmemory.md" %}})|OSM||
 |[Amazon OpenSearch Serverless](https://aws.amazon.com/opensearch-service/features/serverless/)|[opensearchserverless]({{%relref "post/opensearchserverless.md" %}})|OSS||
 |[AWS Organizations](https://aws.amazon.com/organizations/)|[organizations]({{%relref "post/organizations.md" %}})|ORG||
 |[Amazon OpenSearch Ingestion](https://aws.amazon.com/opensearch-service/features/integration/)|[osis]({{%relref "post/osis.md" %}})|OSIS||
@@ -324,10 +330,12 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Partner Central Account Service](https://partnercentral.awspartner.com/)|[partnercentral-account]({{%relref "post/partnercentral-account.md" %}})|PCAA||
 |[AWS Partner Central Benefits Service](https://partnercentral.awspartner.com/)|[partnercentral-benefits]({{%relref "post/partnercentral-benefits.md" %}})|PCB||
 |[AWS Partner Central Channel Service](https://partnercentral.awspartner.com/)|[partnercentral-channel]({{%relref "post/partnercentral-channel.md" %}})|PCC||
+|[AWS Partner Central Marketing API](https://partnercentral.awspartner.com/)|[partnercentral-marketing]({{%relref "post/partnercentral-marketing.md" %}})|PCMG||
 |[AWS Partner Central Revenue Measurement API](https://partnercentral.awspartner.com/)|[partnercentral-revenue-measurement]({{%relref "post/partnercentral-revenue-measurement.md" %}})|PCRM||
 |[AWS Partner Central API for Selling](https://partnercentral.awspartner.com/)|[partnercentral-selling]({{%relref "post/partnercentral-selling.md" %}})|PC||
 |[AWS Payment Cryptography Control Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography]({{%relref "post/payment-cryptography.md" %}})|PAYCC||
 |[AWS Payment Cryptography Data Plane](https://docs.aws.amazon.com/payment-cryptography/)|[payment-cryptography-data]({{%relref "post/payment-cryptography-data.md" %}})|PAYCD||
+|[AWS Payments](https://docs.aws.amazon.com/aws-cost-management/latest/APIReference/API_Operations_AWS_Payments.html)|[payments]({{%relref "post/payments.md" %}})|PAYM||
 |[AWS Private CA Connector for Active Directory](https://aws.amazon.com/private-ca/)|[pca-connector-ad]({{%relref "post/pca-connector-ad.md" %}})|PCAAD||
 |[AWS Private CA Connector for SCEP](https://aws.amazon.com/private-ca/)|[pca-connector-scep]({{%relref "post/pca-connector-scep.md" %}})|PCASCEP||
 |[AWS Parallel Computing Service](https://aws.amazon.com/pcs/)|[pcs]({{%relref "post/pcs.md" %}})|PCS||
@@ -384,7 +392,9 @@ This site is created by automatic generation. For that reason, some content may 
 |[Amazon Augmented AI](https://aws.amazon.com/augmented-ai/)|[sagemaker-a2i-runtime]({{%relref "post/sagemaker-a2i-runtime.md" %}})|A2IR||
 |[Amazon SageMaker Edge Manager](https://aws.amazon.com/sagemaker/edge-manager/)|[sagemaker-edge]({{%relref "post/sagemaker-edge.md" %}})|SME||
 |[Amazon SageMaker Feature Store](https://aws.amazon.com/sagemaker/feature-store/)|[sagemaker-featurestore-runtime]({{%relref "post/sagemaker-featurestore-runtime.md" %}})|SMFS||
+|[Amazon SageMaker Gateway Runtime](https://aws.amazon.com/sagemaker/)|[sagemaker-gateway-runtime]({{%relref "post/sagemaker-gateway-runtime.md" %}})|SMGWR||
 |[Geospatial ML with Amazon SageMaker](https://aws.amazon.com/sagemaker/geospatial/)|[sagemaker-geospatial]({{%relref "post/sagemaker-geospatial.md" %}})|SMGS||
+|[Amazon SageMaker Inference Router Runtime](https://aws.amazon.com/sagemaker/)|[sagemaker-inference-router-runtime]({{%relref "post/sagemaker-inference-router-runtime.md" %}})|SMIRR||
 |[Amazon SageMaker Metrics Service](https://aws.amazon.com/sagemaker/)|[sagemaker-metrics]({{%relref "post/sagemaker-metrics.md" %}})|SMM||
 |[Amazon SageMaker](https://aws.amazon.com/sagemaker/)|[sagemaker-runtime]({{%relref "post/sagemaker-runtime.md" %}})|SMR||
 |[Amazon SageMaker Job Runtime](https://aws.amazon.com/sagemaker/)|[sagemakerjobruntime]({{%relref "post/sagemakerjobruntime.md" %}})|SMJR||
@@ -409,6 +419,7 @@ This site is created by automatic generation. For that reason, some content may 
 |[AWS Signer](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer]({{%relref "post/signer.md" %}})|||
 |[AWS Signer Data Plane](https://docs.aws.amazon.com/signer/latest/api/Welcome.html)|[signer-data]({{%relref "post/signer-data.md" %}})|SGND||
 |[AWS Sign-In](https://docs.aws.amazon.com/signin/latest/userguide/what-is-sign-in.html)|[signin]({{%relref "post/signin.md" %}})|AMSP||
+||[signup]({{%relref "post/signup.md" %}})||AWS Signup|
 |[Amazon SimpleDB](https://aws.amazon.com/simpledb/)|[simpledbv2]({{%relref "post/simpledbv2.md" %}})|SDBV2|v2|
 |[Amazon Web Services Snow Device Management](https://aws.amazon.com/snow/)|[snow-device-management]({{%relref "post/snow-device-management.md" %}})|SDMS||
 |[AWS Snow Family](https://aws.amazon.com/snow/)|[snowball]({{%relref "post/snowball.md" %}})|SNOW||

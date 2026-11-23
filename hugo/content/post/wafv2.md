@@ -1,6 +1,6 @@
 ---
 title: wafv2
-date: 2026-11-03
+date: 2026-11-23
 description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 ---
 
@@ -34,6 +34,8 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 disassociate-web-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/disassociate-web-acl.html)|[Remove-WAF2WebACLFromResource](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-WAF2WebACLFromResource.html)|
 |[aws wafv2 generate-mobile-sdk-release-url](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/generate-mobile-sdk-release-url.html)|[New-WAF2MobileSdkReleaseUrl](https://docs.aws.amazon.com/powershell/latest/reference/items/New-WAF2MobileSdkReleaseUrl.html)|
 |[aws wafv2 get-decrypted-api-key](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-decrypted-api-key.html)|[Get-WAF2DecryptedAPIKey](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2DecryptedAPIKey.html)|
+|[aws wafv2 get-event](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-event.html)|[Get-WAF2Event](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2Event.html)|
+|[aws wafv2 get-event-actor](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-event-actor.html)|[Get-WAF2EventActor](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2EventActor.html)|
 |[aws wafv2 get-ip-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-ip-set.html)|[Get-WAF2IPSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2IPSet.html)|
 |[aws wafv2 get-logging-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-logging-configuration.html)|[Get-WAF2LoggingConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2LoggingConfiguration.html)|
 |[aws wafv2 get-managed-rule-set](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/get-managed-rule-set.html)|[Get-WAF2ManagedRuleSet](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ManagedRuleSet.html)|
@@ -52,6 +54,9 @@ description: aws wafv2 (AWS WAF V2) command/cmdlet list.
 |[aws wafv2 list-api-keys](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-api-keys.html)|[Get-WAF2APIKeyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2APIKeyList.html)|
 |[aws wafv2 list-available-managed-rule-group-versions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-available-managed-rule-group-versions.html)|[Get-WAF2AvailableManagedRuleGroupVersionList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2AvailableManagedRuleGroupVersionList.html)|
 |[aws wafv2 list-available-managed-rule-groups](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-available-managed-rule-groups.html)|[Get-WAF2AvailableManagedRuleGroupList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2AvailableManagedRuleGroupList.html)|
+|[aws wafv2 list-event-actors](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-event-actors.html)|[Get-WAF2EventActorList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2EventActorList.html)|
+|[aws wafv2 list-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-events.html)|[Get-WAF2EventList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2EventList.html)|
+|[aws wafv2 list-events-by-web-acl](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-events-by-web-acl.html)|[Get-WAF2EventsByWebACLList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2EventsByWebACLList.html)|
 |[aws wafv2 list-ip-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-ip-sets.html)|[Get-WAF2IPSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2IPSetList.html)|
 |[aws wafv2 list-logging-configurations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-logging-configurations.html)|[Get-WAF2LoggingConfigurationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2LoggingConfigurationList.html)|
 |[aws wafv2 list-managed-rule-sets](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/wafv2/list-managed-rule-sets.html)|[Get-WAF2ManagedRuleSetList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-WAF2ManagedRuleSetList.html)|

@@ -1,6 +1,6 @@
 ---
 title: marketplace-deployment
-date: 2026-11-03
+date: 2026-11-23
 description: aws marketplace-deployment (AWS Marketplace Deployment Service) command/cmdlet list.
 ---
 
@@ -13,8 +13,12 @@ description: aws marketplace-deployment (AWS Marketplace Deployment Service) com
 
 |AWS CLI|PowerShell Cmdlet|
 |----|----|
+|[aws marketplace-deployment get-deployment-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/get-deployment-configuration.html)|[Get-MDDeploymentConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDDeploymentConfiguration.html)|
+|[aws marketplace-deployment get-deployment-configuration-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/get-deployment-configuration-job.html)|[Get-MDDeploymentConfigurationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDDeploymentConfigurationJob.html)|
+|[aws marketplace-deployment list-deployment-configuration-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/list-deployment-configuration-jobs.html)|[Get-MDDeploymentConfigurationJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDDeploymentConfigurationJobList.html)|
 |[aws marketplace-deployment list-tags-for-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/list-tags-for-resource.html)|[Get-MDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-MDResourceTag.html)|
 |[aws marketplace-deployment put-deployment-parameter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/put-deployment-parameter.html)|[Write-MDDeploymentParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-MDDeploymentParameter.html)|
+|[aws marketplace-deployment start-deployment-configuration-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/start-deployment-configuration-job.html)|[Start-MDDeploymentConfigurationJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-MDDeploymentConfigurationJob.html)|
 |[aws marketplace-deployment tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/tag-resource.html)|[Add-MDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-MDResourceTag.html)|
 |[aws marketplace-deployment untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/marketplace-deployment/untag-resource.html)|[Remove-MDResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-MDResourceTag.html)|
 

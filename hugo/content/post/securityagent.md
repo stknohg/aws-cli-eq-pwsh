@@ -1,6 +1,6 @@
 ---
 title: securityagent
-date: 2026-11-03
+date: 2026-11-23
 description: aws securityagent (AWS Security Agent) command/cmdlet list.
 ---
 
@@ -87,6 +87,7 @@ description: aws securityagent (AWS Security Agent) command/cmdlet list.
 |[aws securityagent list-threat-model-jobs](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-threat-model-jobs.html)|[Get-SECAGThreatModelJobList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGThreatModelJobList.html)|
 |[aws securityagent list-threat-models](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-threat-models.html)|[Get-SECAGThreatModelList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGThreatModelList.html)|
 |[aws securityagent list-threats](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/list-threats.html)|[Get-SECAGThreatList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SECAGThreatList.html)|
+|[aws securityagent resume-pentest-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/resume-pentest-job.html)|[Resume-SECAGPentestJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-SECAGPentestJob.html)|
 |[aws securityagent start-code-remediation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/start-code-remediation.html)|[Start-SECAGCodeRemediation](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SECAGCodeRemediation.html)|
 |[aws securityagent start-code-review-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/start-code-review-job.html)|[Start-SECAGCodeReviewJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SECAGCodeReviewJob.html)|
 |[aws securityagent start-pentest-job](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/securityagent/start-pentest-job.html)|[Start-SECAGPentestJob](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-SECAGPentestJob.html)|

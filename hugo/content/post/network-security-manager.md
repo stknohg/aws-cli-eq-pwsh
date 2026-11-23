@@ -1,6 +1,6 @@
 ---
 title: network-security-manager
-date: 2026-11-03
+date: 2026-11-23
 description: aws network-security-manager (AWS Network Security Manager) command/cmdlet list.
 ---
 
@@ -40,8 +40,10 @@ description: aws network-security-manager (AWS Network Security Manager) command
 |[aws network-security-manager list-aggregate-resource-synchronization-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-aggregate-resource-synchronization-statuses.html)|[Get-NSMAggregateResourceSynchronizationStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMAggregateResourceSynchronizationStatusList.html)|
 |[aws network-security-manager list-deployment-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-deployment-snapshots.html)|[Get-NSMDeploymentSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMDeploymentSnapshotList.html)|
 |[aws network-security-manager list-deployments](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-deployments.html)|[Get-NSMDeploymentList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMDeploymentList.html)|
+|[aws network-security-manager list-entity-coverages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-entity-coverages.html)|[Get-NSMEntityCoverageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMEntityCoverageList.html)|
 |[aws network-security-manager list-policies](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-policies.html)|[Get-NSMPolicyList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMPolicyList.html)|
 |[aws network-security-manager list-policy-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-policy-snapshots.html)|[Get-NSMPolicySnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMPolicySnapshotList.html)|
+|[aws network-security-manager list-protected-resource-coverages](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-protected-resource-coverages.html)|[Get-NSMProtectedResourceCoverageList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMProtectedResourceCoverageList.html)|
 |[aws network-security-manager list-resource-associations](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-resource-associations.html)|[Get-NSMResourceAssociationList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMResourceAssociationList.html)|
 |[aws network-security-manager list-resource-synchronization-statuses](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-resource-synchronization-statuses.html)|[Get-NSMResourceSynchronizationStatusList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMResourceSynchronizationStatusList.html)|
 |[aws network-security-manager list-rule-snapshots](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/network-security-manager/list-rule-snapshots.html)|[Get-NSMRuleSnapshotList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-NSMRuleSnapshotList.html)|

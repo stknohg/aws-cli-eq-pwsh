@@ -1,6 +1,6 @@
 ---
 title: opensearch
-date: 2026-11-03
+date: 2026-11-23
 description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 ---
 
@@ -112,6 +112,7 @@ description: aws opensearch (Amazon OpenSearch Service) command/cmdlet list.
 |[aws opensearch start-service-software-update](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/start-service-software-update.html)|[Start-OSServiceSoftwareUpdate](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSServiceSoftwareUpdate.html)|
 |[aws opensearch switchover-replication](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/switchover-replication.html)|[Start-OSReplicationSwitchover](https://docs.aws.amazon.com/powershell/latest/reference/items/Start-OSReplicationSwitchover.html)|
 |[aws opensearch update-application](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-application.html)|[Update-OSApplication](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSApplication.html)|
+|[aws opensearch update-clone](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-clone.html)|[Update-OSClone](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSClone.html)|
 |[aws opensearch update-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-data-source.html)|[Update-OSDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDataSource.html)|
 |[aws opensearch update-direct-query-data-source](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-direct-query-data-source.html)|[Update-OSDirectQueryDataSource](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDirectQueryDataSource.html)|
 |[aws opensearch update-domain-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/opensearch/update-domain-config.html)|[Update-OSDomainConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-OSDomainConfig.html)|

@@ -1,6 +1,6 @@
 ---
 title: ram
-date: 2026-11-03
+date: 2026-11-23
 description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 ---
 
@@ -47,5 +47,6 @@ description: aws ram (AWS Resource Access Manager) command/cmdlet list.
 |[aws ram set-default-permission-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/set-default-permission-version.html)|[Set-RAMDefaultPermissionVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Set-RAMDefaultPermissionVersion.html)|
 |[aws ram tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/tag-resource.html)|[Add-RAMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-RAMResourceTag.html)|
 |[aws ram untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/untag-resource.html)|[Remove-RAMResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-RAMResourceTag.html)|
+|[aws ram update-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/update-permission.html)|[Update-RAMPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RAMPermission.html)|
 |[aws ram update-resource-share](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ram/update-resource-share.html)|[Update-RAMResourceShare](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-RAMResourceShare.html)|
 

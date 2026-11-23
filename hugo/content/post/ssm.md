@@ -1,6 +1,6 @@
 ---
 title: ssm
-date: 2026-11-03
+date: 2026-11-23
 description: aws ssm (AWS Systems Manager) command/cmdlet list.
 ---
 
@@ -40,6 +40,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm delete-patch-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-patch-baseline.html)|[Remove-SSMPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMPatchBaseline.html)|
 |[aws ssm delete-resource-data-sync](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-resource-data-sync.html)|[Remove-SSMResourceDataSync](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMResourceDataSync.html)|
 |[aws ssm delete-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/delete-resource-policy.html)|[Remove-SSMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-SSMResourcePolicy.html)|
+|[aws ssm deregister-default-host-management-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/deregister-default-host-management-configuration.html)|[Unregister-SSMDefaultHostManagementConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMDefaultHostManagementConfiguration.html)|
 |[aws ssm deregister-managed-instance](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/deregister-managed-instance.html)|[Unregister-SSMManagedInstance](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMManagedInstance.html)|
 |[aws ssm deregister-patch-baseline-for-patch-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/deregister-patch-baseline-for-patch-group.html)|[Unregister-SSMPatchBaselineForPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMPatchBaselineForPatchGroup.html)|
 |[aws ssm deregister-target-from-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/deregister-target-from-maintenance-window.html)|[Unregister-SSMTargetFromMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Unregister-SSMTargetFromMaintenanceWindow.html)|
@@ -131,6 +132,7 @@ description: aws ssm (AWS Systems Manager) command/cmdlet list.
 |[aws ssm put-inventory](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/put-inventory.html)|[Write-SSMInventory](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMInventory.html)|
 |[aws ssm put-parameter](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/put-parameter.html)|[Write-SSMParameter](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMParameter.html)|
 |[aws ssm put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/put-resource-policy.html)|[Write-SSMResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SSMResourcePolicy.html)|
+|[aws ssm register-default-host-management-configuration](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/register-default-host-management-configuration.html)|[Register-SSMDefaultHostManagementConfiguration](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMDefaultHostManagementConfiguration.html)|
 |[aws ssm register-default-patch-baseline](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/register-default-patch-baseline.html)|[Register-SSMDefaultPatchBaseline](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMDefaultPatchBaseline.html)|
 |[aws ssm register-patch-baseline-for-patch-group](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/register-patch-baseline-for-patch-group.html)|[Register-SSMPatchBaselineForPatchGroup](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMPatchBaselineForPatchGroup.html)|
 |[aws ssm register-target-with-maintenance-window](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/ssm/register-target-with-maintenance-window.html)|[Register-SSMTargetWithMaintenanceWindow](https://docs.aws.amazon.com/powershell/latest/reference/items/Register-SSMTargetWithMaintenanceWindow.html)|

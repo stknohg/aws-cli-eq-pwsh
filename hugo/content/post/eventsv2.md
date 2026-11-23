@@ -1,6 +1,6 @@
 ---
 title: eventsv2
-date: 2026-11-03
+date: 2026-11-23
 description: aws eventsv2 (Amazon EventBridge event bus API) command/cmdlet list.
 ---
 
@@ -33,6 +33,7 @@ description: aws eventsv2 (Amazon EventBridge event bus API) command/cmdlet list
 |[aws eventsv2 put-raw-events](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/put-raw-events.html)|[Write-EVBV2RawEvent](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EVBV2RawEvent.html)|
 |[aws eventsv2 put-resource-policy](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/put-resource-policy.html)|[Write-EVBV2ResourcePolicy](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-EVBV2ResourcePolicy.html)|
 |[aws eventsv2 revoke-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/revoke-resource.html)|[Revoke-EVBV2Resource](https://docs.aws.amazon.com/powershell/latest/reference/items/Revoke-EVBV2Resource.html)|
+|[aws eventsv2 rotate-webhook-credentials](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/rotate-webhook-credentials.html)|[Invoke-EVBV2WebhookCredentialRotation](https://docs.aws.amazon.com/powershell/latest/reference/items/Invoke-EVBV2WebhookCredentialRotation.html)|
 |[aws eventsv2 tag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/tag-resource.html)|[Add-EVBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Add-EVBV2ResourceTag.html)|
 |[aws eventsv2 untag-resource](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/untag-resource.html)|[Remove-EVBV2ResourceTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-EVBV2ResourceTag.html)|
 |[aws eventsv2 update-event-bus](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/eventsv2/update-event-bus.html)|[Update-EVBV2EventBus](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-EVBV2EventBus.html)|

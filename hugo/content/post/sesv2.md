@@ -1,6 +1,6 @@
 ---
 title: sesv2
-date: 2026-11-03
+date: 2026-11-23
 description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 ---
 
@@ -91,6 +91,7 @@ description: aws sesv2 (Amazon Simple Email Service V2) command/cmdlet list.
 |[aws sesv2 list-tenant-resources](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-tenant-resources.html)|[Get-SES2TenantResourceList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2TenantResourceList.html)|
 |[aws sesv2 list-tenants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/list-tenants.html)|[Get-SES2TenantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-SES2TenantList.html)|
 |[aws sesv2 put-account-dedicated-ip-warmup-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-dedicated-ip-warmup-attributes.html)|[Write-SES2AccountDedicatedIpWarmupAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountDedicatedIpWarmupAttribute.html)|
+|[aws sesv2 put-account-delivery-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-delivery-attributes.html)|[Write-SES2AccountDeliveryAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountDeliveryAttribute.html)|
 |[aws sesv2 put-account-details](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-details.html)|[Write-SES2AccountDetail](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountDetail.html)|
 |[aws sesv2 put-account-pricing-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-pricing-attributes.html)|[Write-SES2AccountPricingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountPricingAttribute.html)|
 |[aws sesv2 put-account-sending-attributes](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/sesv2/put-account-sending-attributes.html)|[Write-SES2AccountSendingAttribute](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-SES2AccountSendingAttribute.html)|

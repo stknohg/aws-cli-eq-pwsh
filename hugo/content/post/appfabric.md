@@ -1,6 +1,6 @@
 ---
 title: appfabric
-date: 2026-11-03
+date: 2026-11-23
 description: aws appfabric (AWS AppFabric) command/cmdlet list.
 ---
 

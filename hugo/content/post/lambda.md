@@ -1,6 +1,6 @@
 ---
 title: lambda
-date: 2026-11-03
+date: 2026-11-23
 description: aws lambda (AWS Lambda) command/cmdlet list.
 ---
 
@@ -25,6 +25,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda delete-alias](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-alias.html)|[Remove-LMAlias](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMAlias.html)|
 |[aws lambda delete-capacity-provider](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-capacity-provider.html)|[Remove-LMCapacityProvider](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMCapacityProvider.html)|
 |[aws lambda delete-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-code-signing-config.html)|[Remove-LMCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMCodeSigningConfig.html)|
+|[aws lambda delete-durable-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-durable-execution.html)|[Remove-LMDurableExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMDurableExecution.html)|
 |[aws lambda delete-event-source-mapping](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-event-source-mapping.html)|[Remove-LMEventSourceMapping](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMEventSourceMapping.html)|
 |[aws lambda delete-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-function.html)|[Remove-LMFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMFunction.html)|
 |[aws lambda delete-function-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/delete-function-code-signing-config.html)|[Remove-LMFunctionCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMFunctionCodeSigningConfig.html)|
@@ -77,6 +78,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LMVM2Tag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMVM2Tag.html)|
 |[aws lambda list-tags](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-tags.html)|[Get-LWEBTag](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LWEBTag.html)|
 |[aws lambda list-versions-by-function](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/list-versions-by-function.html)|[Get-LMVersionsByFunction](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-LMVersionsByFunction.html)|
+|[aws lambda pause-durable-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/pause-durable-execution.html)|[Suspend-LMDurableExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Suspend-LMDurableExecution.html)|
 |[aws lambda publish-layer-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/publish-layer-version.html)|[Publish-LMLayerVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-LMLayerVersion.html)|
 |[aws lambda publish-version](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/publish-version.html)|[Publish-LMVersion](https://docs.aws.amazon.com/powershell/latest/reference/items/Publish-LMVersion.html)|
 |[aws lambda put-function-code-signing-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-function-code-signing-config.html)|[Write-LMFunctionCodeSigningConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMFunctionCodeSigningConfig.html)|
@@ -90,6 +92,7 @@ description: aws lambda (AWS Lambda) command/cmdlet list.
 |[aws lambda put-runtime-management-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/put-runtime-management-config.html)|[Write-LMRuntimeManagementConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Write-LMRuntimeManagementConfig.html)|
 |[aws lambda remove-layer-version-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-layer-version-permission.html)|[Remove-LMLayerVersionPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMLayerVersionPermission.html)|
 |[aws lambda remove-permission](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/remove-permission.html)|[Remove-LMPermission](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-LMPermission.html)|
+|[aws lambda resume-durable-execution](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/resume-durable-execution.html)|[Resume-LMDurableExecution](https://docs.aws.amazon.com/powershell/latest/reference/items/Resume-LMDurableExecution.html)|
 |[aws lambda send-durable-execution-callback-failure](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/send-durable-execution-callback-failure.html)|[Send-LMDurableExecutionCallbackFailure](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LMDurableExecutionCallbackFailure.html)|
 |[aws lambda send-durable-execution-callback-heartbeat](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/send-durable-execution-callback-heartbeat.html)|[Send-LMDurableExecutionCallbackHeartbeat](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LMDurableExecutionCallbackHeartbeat.html)|
 |[aws lambda send-durable-execution-callback-success](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/lambda/send-durable-execution-callback-success.html)|[Send-LMDurableExecutionCallbackSuccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Send-LMDurableExecutionCallbackSuccess.html)|

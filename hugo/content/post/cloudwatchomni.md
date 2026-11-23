@@ -1,6 +1,6 @@
 ---
 title: cloudwatchomni
-date: 2026-11-03
+date: 2026-11-23
 description: aws cloudwatchomni (Amazon CloudWatch Omni) command/cmdlet list.
 ---
 
@@ -46,6 +46,7 @@ description: aws cloudwatchomni (Amazon CloudWatch Omni) command/cmdlet list.
 |[aws cloudwatchomni get-omni-dashboard](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/get-omni-dashboard.html)|[Get-CWOMOmniDashboard](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMOmniDashboard.html)|
 |[aws cloudwatchomni get-space](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/get-space.html)|[Get-CWOMSpace](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMSpace.html)|
 |[aws cloudwatchomni get-space-credentials-for-organization](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/get-space-credentials-for-organization.html)|[Get-CWOMSpaceCredentialsForOrganization](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMSpaceCredentialsForOrganization.html)|
+|[aws cloudwatchomni get-space-data-access](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/get-space-data-access.html)|[Get-CWOMSpaceDataAccess](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMSpaceDataAccess.html)|
 |[aws cloudwatchomni get-telemetry-query-results](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/get-telemetry-query-results.html)|[Get-CWOMTelemetryQueryResult](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMTelemetryQueryResult.html)|
 |[aws cloudwatchomni get-view](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/get-view.html)|[Get-CWOMView](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMView.html)|
 |[aws cloudwatchomni list-access-grants](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/cloudwatchomni/list-access-grants.html)|[Get-CWOMAccessGrantList](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-CWOMAccessGrantList.html)|

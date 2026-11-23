@@ -1,6 +1,6 @@
 ---
 title: sagemakerjobruntime
-date: 2026-11-03
+date: 2026-11-23
 description: aws sagemakerjobruntime (Amazon SageMaker Job Runtime) command/cmdlet list.
 ---
 

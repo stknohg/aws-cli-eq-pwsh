@@ -1,6 +1,6 @@
 ---
 title: connect
-date: 2026-11-03
+date: 2026-11-23
 description: aws connect (Amazon Connect) command/cmdlet list.
 ---
 
@@ -88,6 +88,7 @@ description: aws connect (Amazon Connect) command/cmdlet list.
 |[aws connect create-workspace](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-workspace.html)|[New-CONNWorkspace](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNWorkspace.html)|
 |[aws connect create-workspace-page](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/create-workspace-page.html)|[New-CONNWorkspacePage](https://docs.aws.amazon.com/powershell/latest/reference/items/New-CONNWorkspacePage.html)|
 |[aws connect deactivate-evaluation-form](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/deactivate-evaluation-form.html)|[Disable-CONNEvaluationForm](https://docs.aws.amazon.com/powershell/latest/reference/items/Disable-CONNEvaluationForm.html)|
+|[aws connect delete-all-entity-sessions](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-all-entity-sessions.html)|[Remove-CONNAllEntitySession](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNAllEntitySession.html)|
 |[aws connect delete-attached-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-attached-file.html)|[Remove-CONNAttachedFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNAttachedFile.html)|
 |[aws connect delete-contact-data](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-data.html)|[Remove-CONNContactData](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactData.html)|
 |[aws connect delete-contact-evaluation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/connect/delete-contact-evaluation.html)|[Remove-CONNContactEvaluation](https://docs.aws.amazon.com/powershell/latest/reference/items/Remove-CONNContactEvaluation.html)|

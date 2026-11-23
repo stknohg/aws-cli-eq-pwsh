@@ -1,6 +1,6 @@
 ---
 title: devops-agent
-date: 2026-11-03
+date: 2026-11-23
 description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 ---
 
@@ -38,6 +38,7 @@ description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 |[aws devops-agent get-asset-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-asset-file.html)|[Get-DOPSAssetFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSAssetFile.html)|
 |[aws devops-agent get-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-association.html)|[Get-DOPSAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSAssociation.html)|
 |[aws devops-agent get-backlog-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-backlog-task.html)|[Get-DOPSBacklogTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSBacklogTask.html)|
+|[aws devops-agent get-chat](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-chat.html)|[Get-DOPSChat](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSChat.html)|
 |[aws devops-agent get-operator-app](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-operator-app.html)|[Get-DOPSOperatorApp](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSOperatorApp.html)|
 |[aws devops-agent get-recommendation](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-recommendation.html)|[Get-DOPSRecommendation](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSRecommendation.html)|
 |[aws devops-agent get-service](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/get-service.html)|[Get-DOPSService](https://docs.aws.amazon.com/powershell/latest/reference/items/Get-DOPSService.html)|
@@ -69,6 +70,7 @@ description: aws devops-agent (AWS DevOps Agent) command/cmdlet list.
 |[aws devops-agent update-asset-file](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-asset-file.html)|[Update-DOPSAssetFile](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSAssetFile.html)|
 |[aws devops-agent update-association](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-association.html)|[Update-DOPSAssociation](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSAssociation.html)|
 |[aws devops-agent update-backlog-task](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-backlog-task.html)|[Update-DOPSBacklogTask](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSBacklogTask.html)|
+|[aws devops-agent update-chat](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-chat.html)|[Update-DOPSChat](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSChat.html)|
 |[aws devops-agent update-goal](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-goal.html)|[Update-DOPSGoal](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSGoal.html)|
 |[aws devops-agent update-operator-app-idp-config](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-operator-app-idp-config.html)|[Update-DOPSOperatorAppIdpConfig](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSOperatorAppIdpConfig.html)|
 |[aws devops-agent update-private-connection-certificate](https://awscli.amazonaws.com/v2/documentation/api/latest/reference/devops-agent/update-private-connection-certificate.html)|[Update-DOPSPrivateConnectionCertificate](https://docs.aws.amazon.com/powershell/latest/reference/items/Update-DOPSPrivateConnectionCertificate.html)|
